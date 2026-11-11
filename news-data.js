@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T11:09:02.902Z",
+  "updated": "2026-11-11T11:19:03.366Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "IFAD Announces Climate Adaptation Bond to Mobilise Funding for Small-Scale Farmers",
+      "link": "https://thehighstreetjournal.com/ifads-funding-for-small-scale-farmers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T11:12:00.000Z",
+      "summary": "The initiative comes as small-scale farmers face growing exposure to climate change, despite receiving only a small proportion of available climate finance"
+    },
     {
       "title": "OPEC Fund, IsDB Launch Toolkit to Attract Investment in Nature-Based Projects Across African Cities",
       "link": "https://thehighstreetjournal.com/opec-fund-isdbs-investment-toolkit/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T12:14:48.000Z",
       "summary": "Ten innovators from the Southern Zone of the 2026 MoMo Fintech Lab will pitch their solutions to a panel of industry experts on Friday, November 6, 2026, competing for five places in the…"
-    },
-    {
-      "title": "Preliminary studies affirm viability of proposed national airline; roadmap for establishment agreed – Gov’t",
-      "link": "https://www.myjoyonline.com/preliminary-studies-affirm-viability-of-proposed-national-airline-roadmap-for-establishment-agreed-govt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T10:24:10.000Z",
-      "summary": "Government says preliminary studies have affirmed the viability of establishing a new national airline."
     }
   ]
 };

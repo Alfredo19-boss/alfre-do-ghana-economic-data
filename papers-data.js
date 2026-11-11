@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:09:32.740Z",
+  "updated": "2026-11-11T11:19:33.182Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Uwumborche Gideon seeks to retain Saboba NPP secretary post, pledges stronger organisation",
+      "link": "https://www.myjoyonline.com/uwumborche-gideon-seeks-to-retain-saboba-npp-secretary-post-pledges-stronger-organisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:10:28.000Z",
+      "summary": "The New Patriotic Party (NPP) Constituency Secretary for Saboba, Uwumborche Bitermi Gideon, is seeking re-election, pledging to strengthen the party’s grassroots structures, improve…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Gideon Uwumborche",
+        "NPP Secretary post",
+        "Saboba"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "U23 AFCON 2027Q: Daniel Adu Adjei ‘confident’ Black Meteors can beat Libya",
       "link": "https://www.myjoyonline.com/u23-afcon-2027q-daniel-adu-adjei-confident-black-meteors-can-beat-libya/",
@@ -117,20 +132,6 @@ window.GDC_PAPERS = {
         "GEA",
         "Professor Jane Naana Opoku-Agyemang",
         "Vice President"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim School: The inconvenience of wonder",
-      "link": "https://www.myjoyonline.com/mfantsipim-school-the-inconvenience-of-wonder/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:39:12.000Z",
-      "summary": "A meditation on one hundred and fifty years of becoming. How dare the morning arrive with such nonchalance, spilling its gold across the firmament as though a century and a half were merely…",
-      "categories": [
-        "Features",
-        "National",
-        "Mfantsipim 150th anniversary",
-        "Mfantsipim School"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -260,6 +261,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Ghana discovers new gas",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-discovers-new-gas.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:09:25.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "$18.8m Rice production initiative launched - Targets 20,000 smallholder farmers",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-18-8m-rice-production-initiative-launched-targets-20-000-smallholder-farmers.html",
       "source": "Daily Graphic",
@@ -300,17 +312,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Garden City University launches programme to support SHS students",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-garden-city-university-launches-programme-to-support-shs-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T07:57:10.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     }
