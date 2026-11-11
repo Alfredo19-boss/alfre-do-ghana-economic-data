@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T16:41:29.019Z",
+  "updated": "2026-11-11T16:51:29.939Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MIIF Targets Foreign Capital To Unlock Ghana’s $528 Million Iron and Steel Import Substitution Potential",
+      "link": "https://thehighstreetjournal.com/miif-targets-foreign-capital-to-unlock-ghanas-528-million-iron-and-steel-import-substitution-potential/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T16:50:00.000Z",
+      "summary": "Ghana is courting international investors to develop its bauxite, iron ore, manganese and lithium resources, with domestic processing offering opportunities to replace US$528 million in…"
+    },
     {
       "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
       "link": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T03:41:00.000Z",
       "summary": "Ghana’s external debt restructuring is nearing completion, with 16 of 25 bilateral agreements with official creditors finalised, according to the Global Sovereign Debt Roundtable (GSDR)."
-    },
-    {
-      "title": "UCC crop scientist calls for investment in neglected crops to boost food security",
-      "link": "https://www.ghanabusinessnews.com/2026/11/09/ucc-crop-scientist-calls-for-investment-in-neglected-crops-to-boost-food-security/",
-      "source": "Ghana Business News",
-      "published": "2026-11-09T03:40:12.000Z",
-      "summary": "Professor Michael Osei Adu, a Professor of Crop Ecophysiology and Improvement at the University of Cape Coast (UCC), has called for more research and increased investment in neglected and…"
     }
   ]
 };

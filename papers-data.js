@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:41:59.553Z",
+  "updated": "2026-11-11T16:51:59.858Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,77 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
+      "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:51:11.000Z",
+      "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…",
+      "categories": [
+        "Business",
+        "HP Business 5",
+        "National",
+        "bulk petroleum importation",
+        "Lattice Energy",
+        "NPA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR seeks private investors to shield refinery from political interference",
+      "link": "https://www.myjoyonline.com/tor-seeks-private-investors-to-shield-refinery-from-political-interference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:51:01.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political…",
+      "categories": [
+        "Business",
+        "Energy",
+        "Edmond Kombat",
+        "TOR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NIA to begin Ghana Card registration for children in Upper West, Savannah on November 12",
+      "link": "https://www.myjoyonline.com/nia-to-begin-ghana-card-registration-for-children-in-upper-west-savannah-on-november-12/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:49:11.000Z",
+      "summary": "The National Identification Authority (NIA), in collaboration with the National Health Insurance Authority (NHIA), will begin the nationwide Ghana Card registration exercise for children…",
+      "categories": [
+        "Regional",
+        "Ghana Card",
+        "NIA",
+        "Savannah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Centre for CSR West Africa urges greener festivals and concerts as festive season approaches",
+      "link": "https://www.myjoyonline.com/centre-for-csr-west-africa-urges-greener-festivals-and-concerts-as-festive-season-approaches/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:44:03.000Z",
+      "summary": "The Centre for CSR, West Africa, has urged event organisers in Ghana to adopt more environmentally responsible practices as the country approaches a season of festivals, concerts, corporate…",
+      "categories": [
+        "Art & Design",
+        "National",
+        "Centre for CSR West Africa",
+        "Climate x Culture Summit",
+        "Priscilla Adomaah Nsonwaah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s Nana Yaa Serwaa Sarpong wins Global Social Impact Award at GEF 2026 In Cairo",
+      "link": "https://ghanaiantimes.com.gh/ghanas-nana-yaa-serwaa-sarpong-wins-global-social-impact-award-at-gef-2026-in-cairo/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:42:52.000Z",
+      "summary": "Founder and President of Women in Sustainability Africa (WiSA) and General Manager of EIB Network, Rev. (Mrs.) Nana Yaa Serwaa Sarpong, Esq., has been honoured with the prestigious Social…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Deputy Minister engages Ghana Culture Forum on Creative Arts development",
       "link": "https://ghanaiantimes.com.gh/deputy-minister-engages-ghana-culture-forum-on-creative-arts-development/",
       "source": "Ghanaian Times",
@@ -31,6 +102,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gifty Oware trial: Investigator tells court 63,673 faceless names received allowances for no work done",
+      "link": "https://www.graphic.com.gh/news/general-news/gifty-oware-trial-investigator-tells-court-63-673-faceless-names-received-allowances-for-no-work-done.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T16:38:44.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "NIA begins Ghana Card registration for children in Upper West and Savannah on November 12",
@@ -122,21 +204,10 @@ window.GDC_PAPERS = {
       "summary": "Two people have died following a confrontation involving residents, suspected illegal miners and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso…",
       "categories": [
         "National",
+        "Top Story",
         "ILLEGAL MINERS",
         "Manso Keniago",
         "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deaconess Vincentia Yawa Anku",
-      "link": "https://www.myjoyonline.com/deaconess-vincentia-yawa-anku/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:28:12.000Z",
-      "summary": "Togbe Agbobada Iv Dufia Of Adaklu Anfoe, Togbe Ashiagbor V (Dutorfia), Togbe Gbeda Iv (Tufia), Togbe Zenyi (Ze Clan Leader), Richard Amankwa (Dutor Mama Agbebianku Iv (Dunyornufia), Mama…",
-      "categories": [
-        "Obituary",
-        "Deaconess Vincentia Yawa Anku"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -174,57 +245,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof. D. K. Yeboah-Amankwah",
-      "link": "https://www.myjoyonline.com/prof-d-k-yeboah-amankwah-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:18:54.000Z",
-      "summary": "The family of the late Prof. D. K. Yeboah-Amankwah, Ogyeamansan Boahen Korkor II ( Sunyani Manhene), Nana Akosua Duaa Sao-Sika Brayie (Sunyani Manhemaa), Nana Mensah Abrampa (Abakomahene,)…",
-      "categories": [
-        "Obituary",
-        "Prof. D. K. Yeboah-Amankwah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry condemns death of 5-year-old girl at Mim in Ahafo Region",
-      "link": "https://ghanaiantimes.com.gh/gender-ministry-condemns-death-of-5-year-old-girl-at-mim-in-ahafo-region/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:15:35.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection (MoGCSP) has condemned the death of a five-year-old girl at Mim in the Asunafo North Municipality of the Ahafo Region. The Ministry…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
-      "link": "https://www.myjoyonline.com/scottish-dj-32-confirmed-as-victim-of-krakow-shooting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:07:39.000Z",
-      "summary": "A 32-year-old Scottish man has been confirmed as one of the victims of a mass shooting in Poland that left six people dead.",
-      "categories": [
-        "International",
-        "Krakow",
-        "Scottish",
-        "Shooting"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kennedys sue to block Trump’s arch, arguing it would cast shadow on JFK’s grave",
-      "link": "https://www.myjoyonline.com/kennedys-sue-to-block-trumps-arch-arguing-it-would-cast-shadow-on-jfks-grave/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:07:27.000Z",
-      "summary": "The family of former US President John F Kennedy has sued to block construction of a triumphal arch that President Donald Trump plans to build in the nation's capital.",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "John F Kennedy"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Silence protects the abuser, not the child – Dr Apaak warns teachers over sexual misconduct",
@@ -300,17 +320,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The 2027 Budget must account before it announces: The fiscal test Ghanaians will use to judge it - Minority",
-      "link": "https://www.graphic.com.gh/news/politics/the-2027-budget-must-account-before-it-announces-the-fiscal-test-ghanaians-will-use-to-judge-it.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T12:16:24.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     }
