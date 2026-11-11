@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T08:59:02.628Z",
+  "updated": "2026-11-11T09:09:03.382Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
+      "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:59:56.000Z",
+      "summary": "Ghana’s agricultural sector could benefit from an anticipated decline in global fertilizer prices in 2027, potentially easing input cost pressures on farmers and supporting food production…"
+    },
     {
       "title": "Vice President joins GEA CEO Margaret Ansei to promote SMEs at GWES ‘26",
       "link": "https://www.myjoyonline.com/vice-president-joins-gea-ceo-margaret-ansei-to-promote-smes-at-gwes-26/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T04:52:06.000Z",
       "summary": "The Ghana Union of Traders’ Associations (GUTA) has raised concerns over the rapid expansion of Chinese-owned shopping malls in the country, claiming that they are taking an estimated 60…"
-    },
-    {
-      "title": "Cenpower celebrates its journey and contribution to Ghana’s energy sector",
-      "link": "https://www.myjoyonline.com/cenpower-celebrates-its-journey-and-contribution-to-ghanas-energy-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T04:17:00.000Z",
-      "summary": "Cenpower Generation Ltd (Cenpower), owner of the 350 MW Kpone Independent Power Plant (KIPP), has marked a significant milestone in its development journey by celebrating the decade since…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:59:34.147Z",
+  "updated": "2026-11-11T09:09:32.940Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
+      "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:59:56.000Z",
+      "summary": "Ghana’s agricultural sector could benefit from an anticipated decline in global fertilizer prices in 2027, potentially easing input cost pressures on farmers and supporting food production…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 1",
+        "Farmers",
+        "Fertilizer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "U23 AFCON 2027Q: Black Meteors wrap up preparations ahead of Libya showdown in Benghazi",
       "link": "https://www.myjoyonline.com/u23-afcon-2027q-black-meteors-wrap-up-preparations-ahead-of-libya-showdown-in-benghazi/",
@@ -233,20 +248,6 @@ window.GDC_PAPERS = {
         "News",
         "Construction",
         "Road"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkokonkitinkiti poultry policy has not failed — Otokunor",
-      "link": "https://www.myjoyonline.com/nkokonkitinkiti-poultry-policy-has-not-failed-otokunor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:39:15.000Z",
-      "summary": "Dr Peter Boamah Otokunor, Director of Presidential Initiatives in Agriculture and Agribusiness, has rejected claims that the government’s Nkokonkitinkiti poultry policy has failed…",
-      "categories": [
-        "News",
-        "Agric",
-        "Otokunor",
-        "Poultry"
       ],
       "site": "https://www.myjoyonline.com/"
     },
