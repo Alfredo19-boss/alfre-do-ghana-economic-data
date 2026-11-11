@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T03:15:13.116Z",
+  "updated": "2026-11-11T03:25:13.804Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
+      "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:14:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says Ghana cannot celebrate spending cuts while a huge infrastructure deficit continues to hold back growth and burden citizens."
+    },
     {
       "title": "We need government to spend to stimulate growth – Bokpin",
       "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",

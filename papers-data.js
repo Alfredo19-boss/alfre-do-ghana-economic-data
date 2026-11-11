@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T03:15:43.600Z",
+  "updated": "2026-11-11T03:25:44.273Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
+      "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:14:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says Ghana cannot celebrate spending cuts while a huge infrastructure deficit continues to hold back growth and burden citizens.",
+      "categories": [
+        "Economy",
+        "National",
+        "Infrastructure deficit",
+        "new economy",
+        "Prof Godfred A. Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "We need government to spend to stimulate growth – Bokpin",
       "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",
@@ -112,20 +127,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Epstein"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.myjoyonline.com/three-iran-backed-suspects-plotted-attacks-including-raf-fairford-incident-us-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T01:40:00.000Z",
-      "summary": "The US Department of Justice (DOJ) has announced charges against three Iran-backed operatives that it alleges were involved in a string of plots in the US and Europe.",
-      "categories": [
-        "International",
-        "Iran",
-        "RAF",
-        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
