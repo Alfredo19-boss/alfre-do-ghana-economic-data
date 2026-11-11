@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:01:59.972Z",
+  "updated": "2026-11-11T17:06:59.873Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GAIA, GAYO, Experts call for Zero Waste Solutions at COP31",
+      "link": "https://www.myjoyonline.com/gaia-gayo-experts-call-for-zero-waste-solutions-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:06:25.000Z",
+      "summary": "Climate advocates, researchers, youth leaders and local government officials have urged governments and climate financiers at COP31 to reject waste incineration and put their money into…",
+      "categories": [
+        "National",
+        "COP 31",
+        "GAIA",
+        "GAYO",
+        "Zero waste"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Egyptian journalist’s retrial adjourned as UN warns of ‘assaults on press freedom’",
+      "link": "https://www.myjoyonline.com/egyptian-journalists-retrial-adjourned-as-un-warns-of-assaults-on-press-freedom/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:03:15.000Z",
+      "summary": "A criminal court in Cairo has postponed the retrial of the prominent Egyptian journalist Lina Attalah, whose case has drawn international condemnation.",
+      "categories": [
+        "International",
+        "Egyptian",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+      "link": "https://www.myjoyonline.com/eswatini-gives-illegal-foreign-businesses-12-months-to-leave/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:02:55.000Z",
+      "summary": "Businesses owned by Asian nationals are being closed across Eswatini, previously known as Swaziland, as the government cracks down on foreign-owned enterprises.",
+      "categories": [
+        "Africa",
+        "Businesses",
+        "eSwatini"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Indonesia’s vice president resigns over high school certificate that was ruled invalid",
+      "link": "https://www.myjoyonline.com/indonesias-vice-president-resigns-over-high-school-certificate-that-was-ruled-invalid/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:02:43.000Z",
+      "summary": "Indonesia's Vice-President Gibran Rakabuming Raka has submitted his resignation, an aide has told the BBC, in a move which could further strain the political alliance that helped propel…",
+      "categories": [
+        "International",
+        "Certificate",
+        "Indonesia",
+        "invalid"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Pulima Chief endorses GMTF, calls for heart surgeons in Upper West",
       "link": "https://www.graphic.com.gh/news/general-news/pulima-chief-endorses-gmtf-calls-for-heart-surgeons-in-upper-west.html",
@@ -126,20 +181,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "NIA begins Ghana Card registration for children in Upper West and Savannah on November 12",
-      "link": "https://www.myjoyonline.com/nia-begins-ghana-card-registration-for-children-in-upper-west-and-savannah-on-november-12/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:38:19.000Z",
-      "summary": "Children aged between six and 14 in the Upper West and Savannah Regions will be registered for the Ghana Card from Thursday, November 12, as the National Identification Authority (NIA)…",
-      "categories": [
-        "National",
-        "Ghana Card",
-        "Registration",
-        "Upper West"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana engages US civil rights lawyer Ben Crump to seek Justice For Ghanaians Killed In US",
       "link": "https://ghanaiantimes.com.gh/ghana-engages-us-civil-rights-lawyer-ben-crump-to-seek-justice-for-ghanaians-killed-in-us/",
       "source": "Ghanaian Times",
@@ -150,24 +191,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
-      "link": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:37:36.000Z",
-      "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "Investments",
-        "Ghana Police",
-        "GTP fabric",
-        "Nigeria",
-        "Schandorf Nii Obodai",
-        "Tex Styles Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Fake Prophets are causing more harm than good in Ghana …A personal reflection on truth, discernment, and responsible faith",
@@ -182,20 +205,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Interior Minister urges Western and Western North security councils to strengthen intelligence-sharing",
-      "link": "https://www.myjoyonline.com/interior-minister-urges-western-and-western-north-security-councils-to-strengthen-intelligence-sharing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:34:06.000Z",
-      "summary": "The Minister for the Interior, Muntaka Mohammed-Mubarak, has urged the Western and Western North Regional Security Councils (REGSECs) to strengthen intelligence-sharing and collaboration…",
-      "categories": [
-        "National",
-        "Interior Minister",
-        "Muntaka Mohammed-Mubarak",
-        "Western and Western North security councils"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Environment Minister urges Parliament to fast-track National Sex Offenders Register",
       "link": "https://ghanaiantimes.com.gh/environment-minister-urges-parliament-to-fast-track-national-sex-offenders-register/",
       "source": "Ghanaian Times",
@@ -206,21 +215,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Two dead after clash between residents, illegal miners and NAIMOS personnel at Manso Keniago",
-      "link": "https://www.myjoyonline.com/two-dead-after-clash-between-residents-illegal-miners-and-naimos-personnel-at-manso-keniago/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:29:37.000Z",
-      "summary": "Two people have died following a confrontation involving residents, suspected illegal miners and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso…",
-      "categories": [
-        "National",
-        "Top Story",
-        "ILLEGAL MINERS",
-        "Manso Keniago",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Parliament issues directives on Obuasi SHTS abuse scandal, demands fast-tracked prosecution",
