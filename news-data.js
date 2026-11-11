@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T10:19:04.059Z",
+  "updated": "2026-11-11T10:29:04.573Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "OPEC Fund, IsDB Launch Toolkit to Attract Investment in Nature-Based Projects Across African Cities",
+      "link": "https://thehighstreetjournal.com/opec-fund-isdbs-investment-toolkit/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T10:28:00.000Z",
+      "summary": "The initiative, seeks to help cities develop investment-ready nature-based solutions"
+    },
     {
       "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
       "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T10:24:10.000Z",
       "summary": "Government says preliminary studies have affirmed the viability of establishing a new national airline."
-    },
-    {
-      "title": "El Niño could drive up food prices and inflation – Government Statistician",
-      "link": "https://www.myjoyonline.com/el-nino-could-drive-up-food-prices-and-inflation-government-statistician/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T09:40:11.000Z",
-      "summary": "Government Statistician Dr Alhassan Iddrisu has warned that Ghana could face fresh inflationary pressures from an anticipated severe El Niño weather event, which threatens to disrupt…"
     }
   ]
 };
