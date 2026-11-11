@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T07:44:33.217Z",
+  "updated": "2026-11-11T07:49:34.000Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -52,6 +52,17 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GoldBod losses: Majority backs probe into gold purchase losses",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-goldbod-losses-majority-backs-probe-into-gold-purchase-losses.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T07:35:09.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Messi returns to FIFPRO World 11 as Kane misses out",
@@ -298,17 +309,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-slovakia-to-pursue-visa-waiver-and-defence-cooperation.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T13:03:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana agrees settlement roadmap with Tullow on US$393m tax liability",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-agrees-settlement-roadmap-with-tullow-over-us-393m-tax-liability.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T13:00:02.000Z",
       "summary": "",
       "categories": [
         "General News"
