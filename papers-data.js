@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T06:15:43.772Z",
+  "updated": "2026-11-11T06:25:44.153Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Thousands flee Nigeria violence into Niger",
+      "link": "https://ghanaiantimes.com.gh/thousands-flee-nigeria-violence-into-niger/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:24:12.000Z",
+      "summary": "Nearly 64,000 people have fled northern Nigeria for neighbouring Niger this ‌year, escaping attacks by Islamist militants and armed gangs and adding to mounting humanitarian needs in one of…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Rwandan deported from US to face genocide charges",
+      "link": "https://ghanaiantimes.com.gh/rwandan-deported-from-us-to-face-genocide-charges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:22:49.000Z",
+      "summary": "A Rwandan man suspected of participating in the country’s 1994 genocide has been deported from the United States and will stand trial for his alleged crimes, according to local authorities…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DR Congo sentences 66 soldiers to death for mutiny, cowardice",
+      "link": "https://ghanaiantimes.com.gh/dr-congo-sentences-66-soldiers-to-death-for-mutiny-cowardice/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:20:59.000Z",
+      "summary": "At least 66 soldiers have been sentenced to death in the Democratic Republic of Congo for cowardice, mutiny and refusing to obey orders, local media report. The sentences followed a trial…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana, Slovakia to negotiate visa waiver agreement",
       "link": "https://ghanaiantimes.com.gh/ghana-slovakia-to-negotiate-visa-waiver-agreement/",
@@ -151,12 +184,28 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "2027 Budget: How Mahama plans to turn Ghana’s fortunes with $10bn ‘New Economy’ plan",
+      "link": "https://www.myjoyonline.com/2027-budget-how-mahama-plans-to-turn-ghanas-fortunes-with-10bn-new-economy-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:22:00.000Z",
+      "summary": "Ghana’s next phase of economic management is expected to place greater emphasis on what the economy produces, how much it processes locally and the jobs its industries can create, as the…",
+      "categories": [
+        "In Focus",
+        "News",
+        "2027 Budget",
+        "Economy",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Where will the money come from? MP questions 24-hour economy funding",
       "link": "https://www.myjoyonline.com/where-will-the-money-come-from-mp-questions-24-hour-economy-funding/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T05:12:00.000Z",
       "summary": "The proposed financing model for the government’s 24-hour economy programme could come under pressure in 2027 if revenue targets are not met, the MP for Manso Nkwanta, Tweneboa Kodua Fokuo…",
       "categories": [
+        "HP News 1",
         "News",
         "Budget",
         "finance",
@@ -176,20 +225,6 @@ window.GDC_PAPERS = {
         "Economy",
         "finance",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Demystifying Derivatives: Yield enhancement through equity and credit-linked solutions (Part 1)",
-      "link": "https://www.myjoyonline.com/demystifying-derivatives-yield-enhancement-through-equity-and-credit-linked-solutions-part-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:56:00.000Z",
-      "summary": "Derivatives can provide an alternative route. When combined with traditional deposits, they can create structured solutions whose returns are linked to the performance of equities, market…",
-      "categories": [
-        "Opinion",
-        "Derivatives",
-        "Gerald Nana Kusi",
-        "Investments"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -236,42 +271,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NIA suspends date of birth changes on Ghana card until further notice",
-      "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-changes-on-ghana-card-until-further-notice/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:32:18.000Z",
-      "summary": "The National Identification Authority (NIA) has temporarily suspended all date of birth changes on the Ghana Card across the country. The suspension takes effect from Monday, November 9…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Judicial service announces suspension of JUSAG strike, courts to resume today",
-      "link": "https://ghanaiantimes.com.gh/judicial-service-announces-suspension-of-jusag-strike-courts-to-resume-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:31:04.000Z",
-      "summary": "The Judicial Service of Ghana has announced the suspension of the industrial action by the Judicial Service Staff Association of Ghana (JUSAG) and the Senior Staff Association of the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former Black Stars defender Jonathan Mensah announces retirement",
-      "link": "https://ghanaiantimes.com.gh/former-black-stars-defender-jonathan-mensah-announces-retirement/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:29:16.000Z",
-      "summary": "Former Ghanaian international defender Jonathan Mensah has announced his retirement from professional football after a career spanning several countries and more than a decade with the…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Energy Ministry targeting six new agreements in Ghana's oil sector by March 2027",

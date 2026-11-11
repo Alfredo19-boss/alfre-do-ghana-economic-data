@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T06:15:13.432Z",
+  "updated": "2026-11-11T06:25:14.046Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Entrepreneur calls for job-focused investments in 2027 Budget",
+      "link": "https://www.ghanabusinessnews.com/2026/11/11/entrepreneur-calls-for-job-focused-investments-in-2027-budget/",
+      "source": "Ghana Business News",
+      "published": "2026-11-11T06:15:09.000Z",
+      "summary": "Mr Richard Adjorlolo, an entrepreneur, has called on the government to prioritise job creation, infrastructure development and local industrialisation in the 2027 Budget Statement to…"
+    },
     {
       "title": "ICSG launches campaign to educate traders on compulsory cargo insurance",
       "link": "https://www.ghanabusinessnews.com/2026/11/11/icsg-launches-campaign-to-educate-traders-on-compulsory-cargo-insurance/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T03:38:00.000Z",
       "summary": "GUTA President Clement Boateng has called for a moratorium on loan repayments to give traders breathing space as shipment delays leave them facing bank demands before their goods arrive."
-    },
-    {
-      "title": "UAE shipments now take up to four months to arrive – GUTA President",
-      "link": "https://www.myjoyonline.com/uae-shipments-now-take-up-to-four-months-to-arrive-guta-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T03:04:00.000Z",
-      "summary": "Goods shipped from the United Arab Emirates now take up to four months to reach Ghana, leaving traders facing delayed deliveries and pressure to repay banks, GUTA President Clement Boateng…"
     }
   ]
 };
