@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T00:33:44.310Z",
+  "updated": "2026-11-11T02:00:43.437Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "link": "https://www.myjoyonline.com/us-federal-authorities-could-have-prevented-epstein-crimes-report-finds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T01:51:00.000Z",
+      "summary": "Crimes committed by the late disgraced financier Jeffrey Epstein after 2005 could have been prevented were it not for \"failures\" by federal investigators and prosecutors, a congressional…",
+      "categories": [
+        "International",
+        "Epstein"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alumni groups cannot fix it all – 1987 year group appeals for support for Seikwa Presbyterian School",
+      "link": "https://www.myjoyonline.com/alumni-groups-cannot-fix-it-all-1987-year-group-appeals-for-support-for-seikwa-presbyterian-school/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T01:02:00.000Z",
+      "summary": "The 1987 year group of Seikwa Presbyterian School has appealed to fellow alumni and stakeholders to unite and support efforts to address mounting infrastructural challenges at their alma…",
+      "categories": [
+        "News",
+        "School",
+        "Seikwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Meghan’s father back in federal custody after allegedly removing ankle monitor",
       "link": "https://www.myjoyonline.com/meghans-father-back-in-federal-custody-after-allegedly-removing-ankle-monitor/",
@@ -99,40 +124,6 @@ window.GDC_PAPERS = {
         "Arsène Wenger",
         "FIFA",
         "Gianni Infantino"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
-      "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:20:24.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…",
-      "categories": [
-        "Analysis",
-        "Data",
-        "HP Research 3",
-        "Investments",
-        "National",
-        "News",
-        "Research",
-        "offshore fields",
-        "oil bet",
-        "Voltaian basin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spending cuts delaying benefits of economic stability – Bokpin",
-      "link": "https://www.myjoyonline.com/spending-cuts-delaying-benefits-of-economic-stability-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:18:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says Ghana’s reliance on spending cuts to stabilise the economy is delaying the benefits Ghanaians expect from improving economic indicators.",
-      "categories": [
-        "Economy",
-        "National",
-        "new economy",
-        "Prof Godfred Bokpin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
