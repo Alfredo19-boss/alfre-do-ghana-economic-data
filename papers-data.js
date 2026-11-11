@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T07:49:34.000Z",
+  "updated": "2026-11-11T07:59:34.765Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Wednesday weather: Mist, sunshine and afternoon thunderstorms – GMet",
+      "link": "https://www.graphic.com.gh/news/general-news/wednesday-weather-mist-sunshine-and-afternoon-thunderstorms-gmet.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T07:58:43.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "600 pupils sensitised to drug abuse, cybercrimes in Ashaiman",
+      "link": "https://ghanaiantimes.com.gh/600-pupils-sensitised-to-drug-abuse-cybercrimes-in-ashaiman/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:58:30.000Z",
+      "summary": "Six hundred pupils from three basic schools in the Ashaiman Municipality of the Greater Accra Region were on Saturday sensitised to drug abuse and cybercrimes to prevent them from falling…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Armwrestling: Golden Arms shine at world championships, present medals to Sports Minister",
+      "link": "https://ghanaiantimes.com.gh/armwrestling-golden-arms-shine-at-world-championships-present-medals-to-sports-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:53:43.000Z",
+      "summary": "A delegation from the Ghana Armwrestling Federation (GAF), comprising of athletes and officials, on Monday called on the Minister of Sports and Recreation (MoSR), Mr Kofi Adams, after their…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Partey, Kudus, Salisu, Jordan return to Black Stars • In Björkegren’s 26-man squad for Somalia double-header",
+      "link": "https://ghanaiantimes.com.gh/partey-kudus-salisu-jordan-return-to-black-stars-in-bjorkegrens-26-man-squad-for-somalia-double-header/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:51:04.000Z",
+      "summary": "Interim coach, Kim Lars Björkegren, on Monday named a 26-man squad for the 2027 Africa Cup of Nations double-header against Somalia. The squad consists of a blend of home and foreign-based…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "World Athletics raises entry standards for LA 2028 Games",
       "link": "https://ghanaiantimes.com.gh/world-athletics-raises-entry-standards-for-la-2028-games/",
@@ -81,39 +125,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-11T07:30:12.000Z",
       "summary": "Bayern Munich coach Vincent Kompany has returned to the club’s training ground for the first time since he collapsed during practice last month. Bayern also revealed he suffered a shoulder…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "AFCON qualifiers could confirm first 2027 finalists",
-      "link": "https://ghanaiantimes.com.gh/afcon-qualifiers-could-confirm-first-2027-finalists/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:28:19.000Z",
-      "summary": "The first teams to book a place in next year’s Africa Cup of Nations (AFCON) finals could be confirmed after the ‌latest rounds of qualifiers, which get under way tomorrow. Democratic…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2026 CAF Awards to take place on Dec. 2 in Lagos",
-      "link": "https://ghanaiantimes.com.gh/2026-caf-awards-to-take-place-on-dec-2-in-lagos/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:26:21.000Z",
-      "summary": "The new date, 2 December 2026, brings forward one of the most prestigious events on the African sporting calendar, as the continent’s finest players, coaches and teams gather in Lagos for a…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cubarsi scoops Golden Boy award",
-      "link": "https://ghanaiantimes.com.gh/cubarsi-scoops-golden-boy-award/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:24:33.000Z",
-      "summary": "Barcelona teenager Pau Cubarsi capped a highly successful year for club and country by winning the Golden Boy award two months shy of his 20th birthday. Cubarsi was instrumental in Spain’s…",
       "categories": [
         "Foriegn"
       ],
@@ -298,17 +309,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/peki-shs-student-dies-after-dormitory-altercation-over-schoolbag.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T13:28:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Slovakia to pursue visa waiver and defence cooperation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-slovakia-to-pursue-visa-waiver-and-defence-cooperation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T13:03:16.000Z",
       "summary": "",
       "categories": [
         "General News"
