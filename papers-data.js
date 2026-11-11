@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:19:33.600Z",
+  "updated": "2026-11-11T08:29:34.668Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,53 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",
+      "link": "https://ghanaiantimes.com.gh/fear-stigma-put-women-at-risk-of-breast-cancer-deaths-police-ladies-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:29:32.000Z",
+      "summary": "WOMEN have been urged to overcome fear, stigma and misconceptions surrounding breast cancer and seek early medical screening, as delayed diagnosis continues to put lives at risk. The Deputy…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Petroleum sector reforms submitted to Cabinet for approval",
+      "link": "https://ghanaiantimes.com.gh/petroleum-sector-reforms-submitted-to-cabinet-for-approval/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:27:04.000Z",
+      "summary": "THE Ministry of Energy and Green Transition has completed a review of Ghana’s upstream petroleum legal, regulatory and fiscal regime, the Chief Executive Officer (CEO) of the Petroleum…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "121 file nominations for NDC national executive elections",
+      "link": "https://ghanaiantimes.com.gh/121-file-nominations-for-ndc-national-executive-elections/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:23:39.000Z",
+      "summary": "A total of 121 aspirants have successfully filed their nomination forms to contest various positions in the National Democratic Congress (NDC) national executive elections, out of the 138…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ECG begins nationwide revenue mobilisation exercise",
+      "link": "https://ghanaiantimes.com.gh/ecg-begins-nationwide-revenue-mobilisation-exercise/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:20:50.000Z",
+      "summary": "THE Electricity Company of Ghana (ECG) will today begin a nationwide mass revenue mobilisation exercise to recover outstanding electricity bills from customers. The exercise, which will run…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "2nd GhanaFest Europe fixed for December 8",
       "link": "https://ghanaiantimes.com.gh/2nd-ghanafest-europe-fixed-for-december-8/",
       "source": "Ghanaian Times",
@@ -30,6 +77,20 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Vice President joins GEA CEO Margaret Ansei to promote SMEs at GWES ‘26",
+      "link": "https://www.myjoyonline.com/vice-president-joins-gea-ceo-margaret-ansei-to-promote-smes-at-gwes-26/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:18:54.000Z",
+      "summary": "The Vice President, Professor Jane Naana Opoku-Agyemang, joined the CEO of the Ghana Enterprises Agency (GEA), Ms Margaret Ansei, at the opening of the 5th Ghana Women Entrepreneurship…",
+      "categories": [
+        "Economy",
+        "National",
+        "Ghana Enterprises Agency (GEA)",
+        "Small and Medium Enterprises (SMEs)"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Islamic civilisation and its impact on science, technology and mathematics that ushered in the Industrial Revolution (700AD–1700AD)",
@@ -82,18 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "$18.8m project targets 20,000 rice farmers in Northern Ghana",
-      "link": "https://ghanaiantimes.com.gh/18-8m-project-targets-20000-rice-farmers-in-northern-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:01:18.000Z",
-      "summary": "THE Minister of Food and Agriculture, Dr Eric Opoku, on Monday launched the $18.8 million Regional West African Resilient Rice Value Chain Project (REWARD) to increase rice production…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Wednesday weather: Mist, sunshine and afternoon thunderstorms – GMet",
       "link": "https://www.graphic.com.gh/news/general-news/wednesday-weather-mist-sunshine-and-afternoon-thunderstorms-gmet.html",
       "source": "Daily Graphic",
@@ -103,39 +152,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "600 pupils sensitised to drug abuse, cybercrimes in Ashaiman",
-      "link": "https://ghanaiantimes.com.gh/600-pupils-sensitised-to-drug-abuse-cybercrimes-in-ashaiman/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:58:30.000Z",
-      "summary": "Six hundred pupils from three basic schools in the Ashaiman Municipality of the Greater Accra Region were on Saturday sensitised to drug abuse and cybercrimes to prevent them from falling…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Armwrestling: Golden Arms shine at world championships, present medals to Sports Minister",
-      "link": "https://ghanaiantimes.com.gh/armwrestling-golden-arms-shine-at-world-championships-present-medals-to-sports-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:53:43.000Z",
-      "summary": "A delegation from the Ghana Armwrestling Federation (GAF), comprising of athletes and officials, on Monday called on the Minister of Sports and Recreation (MoSR), Mr Kofi Adams, after their…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Partey, Kudus, Salisu, Jordan return to Black Stars • In Björkegren’s 26-man squad for Somalia double-header",
-      "link": "https://ghanaiantimes.com.gh/partey-kudus-salisu-jordan-return-to-black-stars-in-bjorkegrens-26-man-squad-for-somalia-double-header/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:51:04.000Z",
-      "summary": "Interim coach, Kim Lars Björkegren, on Monday named a 26-man squad for the 2027 Africa Cup of Nations double-header against Somalia. The squad consists of a blend of home and foreign-based…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "GoldBod losses: Majority backs probe into gold purchase losses",
@@ -232,21 +248,6 @@ window.GDC_PAPERS = {
         "News",
         "2027 Budget",
         "Economy",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Where will the money come from? MP questions 24-hour economy funding",
-      "link": "https://www.myjoyonline.com/where-will-the-money-come-from-mp-questions-24-hour-economy-funding/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:12:00.000Z",
-      "summary": "The proposed financing model for the government’s 24-hour economy programme could come under pressure in 2027 if revenue targets are not met, the MP for Manso Nkwanta, Tweneboa Kodua Fokuo…",
-      "categories": [
-        "HP News 1",
-        "News",
-        "Budget",
-        "finance",
         "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"

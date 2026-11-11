@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T08:19:02.942Z",
+  "updated": "2026-11-11T08:29:03.453Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Vice President joins GEA CEO Margaret Ansei to promote SMEs at GWES ‘26",
+      "link": "https://www.myjoyonline.com/vice-president-joins-gea-ceo-margaret-ansei-to-promote-smes-at-gwes-26/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:18:54.000Z",
+      "summary": "The Vice President, Professor Jane Naana Opoku-Agyemang, joined the CEO of the Ghana Enterprises Agency (GEA), Ms Margaret Ansei, at the opening of the 5th Ghana Women Entrepreneurship…"
+    },
     {
       "title": "Ghana eyes $10.5 trillion non-interest market as three banks seek licences",
       "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-eyes-10-5-trillion-non-interest-market-as-three-banks-seek-licences/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T04:17:00.000Z",
       "summary": "Cenpower Generation Ltd (Cenpower), owner of the 350 MW Kpone Independent Power Plant (KIPP), has marked a significant milestone in its development journey by celebrating the decade since…"
-    },
-    {
-      "title": "GUTA urges authorities to act over Chinese malls’ impact on local businesses",
-      "link": "https://www.myjoyonline.com/guta-urges-authorities-to-act-over-chinese-malls-impact-on-local-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T04:08:00.000Z",
-      "summary": "The President of the Ghana Union of Traders’ Associations (GUTA), Clement Boateng, has urged authorities to examine the expansion of Chinese shopping malls, warning that local businesses…"
     }
   ]
 };
