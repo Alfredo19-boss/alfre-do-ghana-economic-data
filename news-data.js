@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T04:15:13.449Z",
+  "updated": "2026-11-11T04:25:13.455Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana secures $2b investment in petroleum agreements",
+      "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-secures-2b-investment-in-petroleum-agreements/",
+      "source": "Ghana Business News",
+      "published": "2026-11-11T04:21:11.000Z",
+      "summary": "Ghana has secured about $2 billion in additional investments from partners in the Jubilee and Tweneboa-Enyenra-Ntomme (TEN) oil fields to boost production following the extension of the…"
+    },
+    {
+      "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
+      "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:12:12.000Z",
+      "summary": "“We believe October’s US$1.011 billion intermediation, offered at a uniform market-clearing rate, significantly anchored demand expectations and guided market pricing”, said Databank…"
+    },
     {
       "title": "GSE maintains positive run in October 2026; 68m shares traded",
       "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
