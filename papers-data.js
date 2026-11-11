@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T23:28:46.711Z",
+  "updated": "2026-11-11T23:38:48.035Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -82,6 +82,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Vehicle ploughs into pedestrians in Los Angeles, killing three",
+      "link": "https://www.myjoyonline.com/vehicle-ploughs-into-pedestrians-in-los-angeles-killing-three/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:26:00.000Z",
+      "summary": "An SUV ploughed into a group of pedestrians in the North ​Hollywood district of Los Angeles on Tuesday, killing at least three ‌and critically injuring three more, authorities said.",
+      "categories": [
+        "International",
+        "Los Angeles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
       "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
       "source": "MyJoyOnline",
@@ -121,22 +133,6 @@ window.GDC_PAPERS = {
         "Charles Wereko",
         "Kwasi Kwarteng",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "17-year-old charged with murder over killing of Ghanaian teenager Javits Frimpong in New York",
-      "link": "https://www.myjoyonline.com/17-year-old-charged-with-murder-over-killing-of-ghanaian-teenager-javits-frimpong-in-new-york/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:07:19.000Z",
-      "summary": "A 17-year-old has been charged with murder in connection with the fatal shooting of 15-year-old Ghanaian boy Javits Frimpong in the Bronx, New York. The New York Police Department (NYPD)…",
-      "categories": [
-        "International",
-        "National",
-        "Bronx",
-        "Javits Frimpong",
-        "Murder",
-        "New York"
       ],
       "site": "https://www.myjoyonline.com/"
     },
