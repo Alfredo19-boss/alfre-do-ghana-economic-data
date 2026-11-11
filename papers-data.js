@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:36:59.997Z",
+  "updated": "2026-11-11T18:47:01.927Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,49 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Manso Keniago: 3 reported dead, 13 injured",
+      "title": "Gov’t launches Foundational Learning Programme 2026-20240 to improve early childhood education",
+      "link": "https://www.myjoyonline.com/govt-launches-foundational-learning-programme-2026-20240-to-improve-early-childhood-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:44:24.000Z",
+      "summary": "The government has launched a flagship foundational learning programme aimed at improving the quality of early childhood education and strengthening literacy and numeracy skills among…",
+      "categories": [
+        "Education",
+        "National",
+        "childhood education",
+        "Foundational Learning Programme"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Church of Pentecost Dome-Asamang District marks 10th anniversary with community impact",
+      "link": "https://www.myjoyonline.com/the-church-of-pentecost-dome-asamang-district-marks-10th-anniversary-with-community-impact/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:44:13.000Z",
+      "summary": "The Church of Pentecost, Dome-Asamang District, under the Dunkwa Area, celebrated its 10th anniversary, marking a decade of spiritual growth, church expansion, and significant contributions…",
+      "categories": [
+        "Regional",
+        "10th anniversary",
+        "Church of Pentecost",
+        "Community impact",
+        "Dome-Asamang District"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire destroys 10 shops, damages 30 others at Kasoa New Market",
+      "link": "https://www.myjoyonline.com/fire-destroys-10-shops-damages-30-others-at-kasoa-new-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:43:57.000Z",
+      "summary": "A fire outbreak at the Kasoa New Market in the early hours of Tuesday, November 10, has destroyed 10 metal container shops and partially damaged 30 others.",
+      "categories": [
+        "National",
+        "Fire",
+        "kasoa new market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manso Keniago: 3 reported dead, 13 injured after clash between illegal miners and NAIMOS",
       "link": "https://www.graphic.com.gh/news/general-news/manso-keniago-3-reported-dead-13-injured.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T18:26:08.000Z",
@@ -32,7 +74,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GES engages Funsi SHS authorities over lack of water, electricity in boys’ dormitory",
+      "title": "GES engages Funsi SHS authorities over lack of water and electricity in boys’ dormitory",
       "link": "https://www.myjoyonline.com/ges-engages-funsi-shs-authorities-over-lack-of-water-electricity-in-boys-dormitory/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T18:25:36.000Z",
@@ -114,49 +156,6 @@ window.GDC_PAPERS = {
         "Travel",
         "Apples",
         "B.J. Reece Orchards"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CSIR expert questions engineering supervision amid recurring building collapses",
-      "link": "https://www.myjoyonline.com/csir-expert-questions-engineering-supervision-amid-recurring-building-collapses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:04:35.000Z",
-      "summary": "The Head of the Advanced Materials Science Division at the Council for Scientific and Industrial Research (CSIR), Ing. Professor Mark Bediako, has questioned the effectiveness of…",
-      "categories": [
-        "National",
-        "Building collapse",
-        "CSIR",
-        "Engineering supervision"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "link": "https://www.myjoyonline.com/spain-sees-widespread-disruption-in-first-general-strike-for-14-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:00:38.000Z",
-      "summary": "Transport and other public services across Spain have faced serious disruption in the first general strike for 14 years called by the main unions over housing and the high cost of living.",
-      "categories": [
-        "International",
-        "Spain",
-        "Strike",
-        "widespread"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian entrepreneur Barbara Quashigah declares intent to contest Ayawaso West Wuogon NPP parliamentary ticket",
-      "link": "https://www.myjoyonline.com/ghanaian-entrepreneur-barbara-quashigah-declares-intent-to-contest-ayawaso-west-wuogon-npp-parliamentary-ticket/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:40:07.000Z",
-      "summary": "Ghanaian entrepreneur and investment adviser, Barbara Quashigah, has formally declared her intention to contest the New Patriotic Party (NPP) parliamentary primary for the Ayawaso West…",
-      "categories": [
-        "National",
-        "Politics",
-        "Ayawaso West Wuogon",
-        "Barbara Quashigah",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
