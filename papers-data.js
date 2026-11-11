@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T00:13:43.613Z",
+  "updated": "2026-11-11T00:23:44.258Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
+      "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T00:17:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says government’s heavy reliance on spending cuts is cooling the economy and squeezing demand, even as key economic indicators improve.",
+      "categories": [
+        "Economy",
+        "National",
+        "new economy",
+        "Prof Godfred A. Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Managerial ‘inconsistency’ hurting Ghana – Hughton",
       "link": "https://www.myjoyonline.com/managerial-inconsistency-hurting-ghana-hughton/",
@@ -121,19 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "Inflation",
         "Prof. Godfred Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite ‘catastrophic’ AI warning",
-      "link": "https://www.myjoyonline.com/claude-chatbot-maker-set-for-1-3tn-stock-market-debut-despite-catastrophic-ai-warning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:41:00.000Z",
-      "summary": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq…",
-      "categories": [
-        "Technology",
-        "Anthropic",
-        "Claude"
       ],
       "site": "https://www.myjoyonline.com/"
     },

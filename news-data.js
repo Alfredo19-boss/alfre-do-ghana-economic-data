@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T00:13:13.151Z",
+  "updated": "2026-11-11T00:23:13.259Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
+      "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T00:17:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says government’s heavy reliance on spending cuts is cooling the economy and squeezing demand, even as key economic indicators improve."
+    },
     {
       "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
       "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
