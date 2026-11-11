@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:40:43.380Z",
+  "updated": "2026-11-11T02:50:42.907Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
+      "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:47:57.000Z",
+      "summary": "The late Her Worship Mary Bibiana Ama Ansomaa Oduro, a former Magistrate of the Judicial Service of Ghana and accomplished entrepreneur, will be buried on Friday, November 20, 2026. She was…",
+      "categories": [
+        "News",
+        "Judiciary",
+        "Magsitrate",
+        "Mary Bibiana Ama Ansomaa Oduro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
       "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",
       "source": "MyJoyOnline",
@@ -31,20 +45,6 @@ window.GDC_PAPERS = {
         "National",
         "new economy",
         "Prof Godfred A. Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
-      "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:27:57.000Z",
-      "summary": "The late Her Worship Mary Bibiana Ama Ansomaa Oduro, a former Magistrate of the Judicial Service of Ghana and accomplished entrepreneur, will be buried on Friday, November 20, 2026. She was…",
-      "categories": [
-        "News",
-        "Judiciary",
-        "Magsitrate",
-        "Mary Bibiana Ama Ansomaa Oduro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
