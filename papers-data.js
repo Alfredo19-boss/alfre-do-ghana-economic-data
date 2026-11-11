@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:09:32.940Z",
+  "updated": "2026-11-11T09:19:34.873Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UEW VC urges graduates to use acquired skills to drive Ghana’s development",
+      "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-use-acquired-skills-to-drive-ghanas-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:09:48.000Z",
+      "summary": "The Vice Chancellor of the University of Education, Winneba (UEW), Prof. Stephen Jobson Mitchual, has urged university graduates to diligently apply the knowledge, skills and competencies…",
+      "categories": [
+        "Education",
+        "National",
+        "BlueCrescent University",
+        "UEW"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana hires US lawyer Ben Crump to pursue justice for Ghanaians killed in America",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T09:05:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
       "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
@@ -238,20 +263,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gbentri-Nakpanduri Road: Agbodza vows to address abandoned 40km stretch",
-      "link": "https://www.myjoyonline.com/gbentri-nakpanduri-road-agbodza-vows-to-address-abandoned-40km-stretch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:43:44.000Z",
-      "summary": "The government is seeking a lasting solution to a 40-kilometre section of the Gbentri-Nakpanduri Road in the North East Region that was left out of the existing construction contract…",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Construction",
-        "Road"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Omega Psi Phi Fraternity, PNHF to screen 100 men for prostate cancer",
       "link": "https://www.graphic.com.gh/news/health/omega-psi-phi-fraternity-pnhf-to-screen-100-men-for-prostate-cancer.html",
       "source": "Daily Graphic",
@@ -300,17 +311,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/energy-ministry-targeting-six-new-agreements-in-ghanas-oil-sector-by-march-2027.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T13:48:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Peki SHS: Student dies after dormitory altercation over schoolbag",
-      "link": "https://www.graphic.com.gh/news/general-news/peki-shs-student-dies-after-dormitory-altercation-over-schoolbag.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T13:28:45.000Z",
       "summary": "",
       "categories": [
         "General News"

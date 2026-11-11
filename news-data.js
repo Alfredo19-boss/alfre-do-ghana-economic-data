@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T09:09:03.382Z",
+  "updated": "2026-11-11T09:19:04.082Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Invest in Ghana Summit Offers Investors Access to 100 Projects, 19 Government Agencies",
+      "link": "https://thehighstreetjournal.com/invest-ghana-summit-investor-access/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T09:14:17.000Z",
+      "summary": "The upcoming Invest in Ghana Summit is being positioned as a direct investment facilitation platform, giving prospective investors access to government agencies, project opportunities and…"
+    },
     {
       "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
       "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T07:18:56.000Z",
       "summary": "The Institute for Fiscal Studies (IFS) is warning that Ghana’s weak domestic revenue mobilisation is undermining the country’s capacity to finance critical infrastructure, improve public…"
-    },
-    {
-      "title": "Chinese malls taking 60% of Ghana’s retail market – GUTA laments",
-      "link": "https://www.myjoyonline.com/chinese-malls-taking-60-of-ghanas-retail-market-guta-laments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T04:52:06.000Z",
-      "summary": "The Ghana Union of Traders’ Associations (GUTA) has raised concerns over the rapid expansion of Chinese-owned shopping malls in the country, claiming that they are taking an estimated 60…"
     }
   ]
 };
