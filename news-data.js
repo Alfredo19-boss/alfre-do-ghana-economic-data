@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T15:51:10.877Z",
+  "updated": "2026-11-12T16:01:11.445Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Adu-Boahene to Open Defence on Nine Counts as High Court Acquits Him on Two",
+      "link": "https://thehighstreetjournal.com/adu-boahene-to-open-defence-on-nine-counts-as-high-court-acquits-him-on-two/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T15:59:13.000Z",
+      "summary": "His wife, Angela Adjei-Boateng, the second accused person, has also been ordered to open her defence on four counts bordering on stealing and money laundering."
+    },
     {
       "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
       "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:18:50.000Z",
       "summary": "President John Dramani Mahama has announced a new hydrocarbon discovery in the Deepwater Cape Three Points block in the Tano Basin, offshore Ghana. The discovery was made by Planet 1 Oil…"
-    },
-    {
-      "title": "GRA exceeds 10-month revenue target with GH¢185.5bn collection as at October 2026",
-      "link": "https://www.myjoyonline.com/gra-exceeds-10-month-revenue-target-with-gh%c2%a2185-5bn-collection-as-at-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:18:05.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has exceeded its revenue target for the first ten months of 2026, collecting GH¢185.5 billion against a target of GH¢184.4 billion. The collection…"
     }
   ]
 };

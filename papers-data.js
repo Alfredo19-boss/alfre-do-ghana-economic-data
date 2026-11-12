@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:51:42.465Z",
+  "updated": "2026-11-12T16:02:04.800Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
+      "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:00:14.000Z",
+      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, has called for stronger institutional coordination and clearly defined regulatory responsibilities to…",
+      "categories": [
+        "Energy",
+        "National",
+        "Godwin Kudzo Tameklo",
+        "National Petroleum Authority (NPA)",
+        "petroleum value chain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct involving a male student",
+      "link": "https://www.myjoyonline.com/two-aduman-shs-teachers-interdicted-over-alleged-sexual-misconduct-involving-a-male-student/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:56:10.000Z",
+      "summary": "The Ghana Education Service (GES) has interdicted two teachers of Aduman Senior High School following allegations of sexual misconduct against a male student, with both staff members…",
+      "categories": [
+        "Education",
+        "National",
+        "Aduman SHS",
+        "GES",
+        "Sexual misondyut"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
       "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
@@ -117,36 +147,6 @@ window.GDC_PAPERS = {
       "summary": "The Accra High Court has given former National Signals Bureau (NSB) Director-General Kwabena Adu-Boahene and his wife, Angela Adjei-Boateng, three weeks to file witness statements if they…",
       "categories": [
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rawlings’ family, NDC mark 6th anniversary of his death with wreath-laying ceremony",
-      "link": "https://www.myjoyonline.com/rawlings-family-ndc-mark-6th-anniversary-of-his-death-with-wreath-laying-ceremony/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:06:50.000Z",
-      "summary": "A wreath-laying ceremony has been held at the Military Cemetery in Accra to mark the sixth anniversary of the death of former President Flight Lieutenant Jerry John Rawlings.",
-      "categories": [
-        "In Focus",
-        "National",
-        "6th anniversary",
-        "Flight Lieutenant Jerry John Rawlings",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kudus, Ayew and Partey return: What changes for the Black Stars?",
-      "link": "https://www.myjoyonline.com/kudus-ayew-and-partey-return-what-changes-for-the-black-stars/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:02:40.000Z",
-      "summary": "The four-time champions suffered a difficult start in the qualifiers, with a 2-0 defeat to Côte d’Ivoire in Bouaké before losing 4-2 to Gambia on home soil.",
-      "categories": [
-        "Football",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Somalia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
