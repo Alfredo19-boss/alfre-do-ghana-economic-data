@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:47:10.573Z",
+  "updated": "2026-11-12T06:57:11.741Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Takoradi to become ship repair hub • Pres Mahama cuts sod for $137m floating dry dock",
+      "link": "https://ghanaiantimes.com.gh/takoradi-to-become-ship-repair-hub-pres-mahama-cuts-sod-for-137m-floating-dry-dock/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:57:08.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has cut sod for the construction of a US$137 million floating dry dock facility at the Takoradi Port to position Ghana as a major ship repair and maintenance…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Economy grows 6.8% in August • Services account for 69.9% of expansion",
+      "link": "https://ghanaiantimes.com.gh/economy-grows-6-8-in-august-services-account-for-69-9-of-expansion/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:52:47.000Z",
+      "summary": "Ghana’s economy expanded by 6.8 per cent year-on-year in August 2026, up from 5.3 per cent recorded in the same period last year. The growth was driven largely by the services sector, which…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "End bureaucratic delays in public service – Chief of Staff",
       "link": "https://ghanaiantimes.com.gh/end-bureaucratic-delays-in-public-service-chief-of-staff/",
@@ -104,29 +128,6 @@ window.GDC_PAPERS = {
       "summary": "THE time has come to move Ghana’s young people from the margins of decision-making to the heart of national development. A nation that speaks for its youth but shuts them out of leadership…",
       "categories": [
         "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Self-dependency II",
-      "link": "https://ghanaiantimes.com.gh/self-dependency-ii/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:21:33.000Z",
-      "summary": "Dr Robert Anthony believes that a self-confident personality is not possible until we build a solid foundation of self-reliance. Many people think that a person who is self-reliant must be…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minority challenges govt over funding of New Economy agenda",
-      "link": "https://ghanaiantimes.com.gh/minority-challenges-govt-over-funding-of-new-economy-agenda/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:19:41.000Z",
-      "summary": "THE Minority in Parliament has challenged the government to demonstrate how it intends to finance its proposed New Economy agenda. According to them, failure by the government to mobilise…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
