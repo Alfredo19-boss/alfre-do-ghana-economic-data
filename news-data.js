@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T04:46:40.269Z",
+  "updated": "2026-11-12T05:06:44.737Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Agro-Processing Backed By Deliberate Gov’t Procurement: Ghana’s Practical Route to Industrialisation",
+      "link": "https://thehighstreetjournal.com/agro-processing-backed-by-deliberate-govt-procurement-ghanas-practical-route-to-industrialisation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:05:00.000Z",
+      "summary": "Dr. Kwabena Donkor urges Ghana to prioritise agro-processing through local procurement, rice milling infrastructure and innovative financing, arguing that reducing food imports will expand…"
+    },
+    {
+      "title": "63,673 ‘Ghost Names’ Received National Service Allowances Without Working – Investigator Tells Court",
+      "link": "https://thehighstreetjournal.com/63673-ghost-names-received-national-service-allowances-without-working-investigator-tells-court/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:03:00.000Z",
+      "summary": "The prosecution in the ongoing trial of former National Service Authority (NSA) Deputy Executive Director, Gifty Oware-Mensah, has presented evidence that 63,673 “ghost names” received…"
+    },
+    {
+      "title": "Bank of Ghana Celebrates Ghana’s Rich Heritage on New Cedi Notes",
+      "link": "https://thehighstreetjournal.com/bank-of-ghana-celebrates-ghanas-rich-heritage-on-new-cedi-notes/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:02:00.000Z",
+      "summary": "The redesigned notes, to be launched by President Mahama, bring Ghana’s heritage, heroes and culture to its currency."
+    },
+    {
+      "title": "Growth You Can’t Enjoy: When the Economy Expands but the Household Budget Shrinks",
+      "link": "https://thehighstreetjournal.com/growth-you-cant-enjoy-when-the-economy-expands-but-the-household-budget-shrinks/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:01:00.000Z",
+      "summary": "Prof. Samuel Lartey warns economic growth means little if household budgets shrink, urging Ghana to guard against oil-driven inflation in 2027 and protect purchasing power."
+    },
+    {
+      "title": "Government Rolls Out Financing, Export Support for Women-led Businesses",
+      "link": "https://thehighstreetjournal.com/government-rolls-out-financing-export-support-for-women-led-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:00:00.000Z",
+      "summary": "Government is expanding financing, training and export support for women entrepreneurs, while the proposed Women's Development Bank moves closer to securing regulatory approval."
+    },
+    {
+      "title": "Ghana’s Economic Recovery Faces Household Test as Food Insecurity Rises to 39.8%",
+      "link": "https://thehighstreetjournal.com/ghanas-economic-recovery-faces-household-test-as-food-insecurity-rises-to-39-8/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:00:00.000Z",
+      "summary": "ILAPI wants Ghana's 2027 Budget to prioritise poverty reduction as rising food insecurity exposes the gap between improving macroeconomic indicators and the economic realities facing…"
+    },
     {
       "title": "Alliance urges farmers to plant more trees to protect cocoa farms following El Niño weather",
       "link": "https://www.ghanabusinessnews.com/2026/11/12/alliance-urges-farmers-to-plant-more-trees-to-protect-cocoa-farms-following-el-nino-weather/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T21:36:00.000Z",
       "summary": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair…"
-    },
-    {
-      "title": "Ghana Plans Unified Digital Services Platform, Data Exchange for 48 Government Registries",
-      "link": "https://thehighstreetjournal.com/ghana-plans-unified-digital-services-site/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T19:19:38.000Z",
-      "summary": "The proposed upgrade of Ghana.gov is intended to create a single, integrated gateway through which citizens and businesses can access public services"
-    },
-    {
-      "title": "2027 Budget must answer 3 key questions on the ‘New Economy’ – US-based economist",
-      "link": "https://www.myjoyonline.com/2027-budget-must-answer-3-key-questions-on-the-new-economy-us-based-economist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T18:48:20.000Z",
-      "summary": "These important questions are “How much of the announced investment is genuinely new? How will the government finance the larger fiscal deficit? And how will the investment programme be…"
-    },
-    {
-      "title": "Ghana’s 2027 Budget: Three important policy questions about the New Economy",
-      "link": "https://www.myjoyonline.com/ghanas-2027-budget-three-important-policy-questions-about-the-new-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T18:16:07.000Z",
-      "summary": "The shift from macroeconomic stabilisation toward investment-led growth is a welcome policy direction. Having made significant progress in restoring macroeconomic stability, Ghana now has…"
-    },
-    {
-      "title": "Ghana Urges Global Investment in Digital Infrastructure to Close Technology Gap",
-      "link": "https://thehighstreetjournal.com/investment-in-digital-infrastructure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T18:13:50.000Z",
-      "summary": "The next phase of the digital revolution could leave developing countries further behind if they lack the resources to build and deploy emerging technologies"
-    },
-    {
-      "title": "Ghana in final talks with Boeing over revival of national airline – Victor Smith",
-      "link": "https://www.myjoyonline.com/ghana-in-final-talks-with-boeing-over-revival-of-national-airline-victor-smith/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T17:24:20.000Z",
-      "summary": "Ghana’s Ambassador to the United States, Victor Smith, says negotiations with Boeing over the establishment of a national airline are nearing completion. Speaking in an interview on…"
-    },
-    {
-      "title": "AGI advocates trade policy restrictions for foreign shopping malls",
-      "link": "https://www.ghanabusinessnews.com/2026/11/09/agi-advocates-trade-policy-restrictions-for-foreign-shopping-malls/",
-      "source": "Ghana Business News",
-      "published": "2026-11-09T17:17:28.000Z",
-      "summary": "The Association of Ghana Industries (AGI) has called for a trade policy that requires foreign-owned shopping malls operating in Ghana to allocate a specified percentage of their shelf space…"
     }
   ]
 };

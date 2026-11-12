@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T04:47:10.948Z",
+  "updated": "2026-11-12T05:07:10.680Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Spain seizes 2,600 kilos of cocaine port of Valencia hidden in Ghana coconut shipment",
+      "link": "https://www.graphic.com.gh/news/general-news/2-600-kilos-of-cocaine-seized-at-the-port-of-valencia.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T04:54:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "AKSA bribery claims: Parliament finds no evidence against MPs, staff",
       "link": "https://www.myjoyonline.com/aksa-bribery-claims-parliament-finds-no-evidence-against-mps-staff/",
@@ -295,17 +306,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: How supporters said to be for Azorka tried to force their way into restricted areas at NDC vetting of aspirants",
-      "link": "https://www.graphic.com.gh/news/politics/video-how-azorka-supporters-tried-to-force-their-way-to-restricted-areas-at-ndc-vetting-of-aspirants.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T14:48:22.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     }
