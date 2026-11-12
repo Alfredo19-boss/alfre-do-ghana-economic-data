@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T08:07:10.563Z",
+  "updated": "2026-11-12T08:27:10.944Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,7 +32,7 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Today’s front pages: Thursday, November 11, 2026",
+      "title": "Today’s front pages: Thursday, November 12, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-11-2026/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T08:01:08.000Z",
