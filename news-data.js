@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T13:01:10.531Z",
+  "updated": "2026-11-12T13:11:10.325Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG to Keep Existing Cedi Notes in Circulation Alongside New Heritage Series",
+      "link": "https://thehighstreetjournal.com/bog-to-keep-existing-cedi-notes-in-circulation-alongside-new-heritage-series/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T13:06:34.000Z",
+      "summary": "The Bank of Ghana will introduce Heritage Series banknotes on December 1, 2026, while retaining existing notes as legal tender to ensure a smooth currency transition."
+    },
+    {
+      "title": "BoG to roll out nationwide education campaign on new Heritage Series banknotes",
+      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-education-campaign-on-new-heritage-series-banknotes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:03:01.000Z",
+      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
+    },
+    {
+      "title": "Eni Ghana pledges more opportunities for local firms in upstream sector",
+      "link": "https://www.myjoyonline.com/eni-ghana-pledges-more-opportunities-for-local-firms-in-upstream-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:59:03.000Z",
+      "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…"
+    },
     {
       "title": "Mahama links cedi stability to $10bn New Economy Programme",
       "link": "https://www.myjoyonline.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T10:46:00.000Z",
       "summary": "After months of painful fuel price hikes, Star Oil and JP have reduced petrol and diesel prices, offering relief to Ghanaians. But global oil prices and cedi volatility threaten the…"
-    },
-    {
-      "title": "DFC’s $400m Private Capital Push to Expand Africa’s Digital Infrastructure",
-      "link": "https://thehighstreetjournal.com/dfcs-400m-private-capital-push-to-expand-africas-digital-infrastructure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T10:03:00.000Z",
-      "summary": "The US development finance agency is backing fibre networks, subsea cables and data centres to improve connectivity and unlock new business opportunities across more than 30 African…"
-    },
-    {
-      "title": "Beyond bank accounts: Queen Máxima hears Ghanaian entrepreneurs’ financial struggles",
-      "link": "https://www.myjoyonline.com/beyond-bank-accounts-queen-maxima-hears-ghanaian-entrepreneurs-financial-struggles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T09:35:14.000Z",
-      "summary": "Queen Máxima of the Netherlands has met Ghanaian microentrepreneurs in Accra to discuss the challenges of growing businesses, supporting families and building financial security."
-    },
-    {
-      "title": "SOE Debt Risks and Commodity Price Swings Threaten Ghana’s 2027 Fiscal Outlook",
-      "link": "https://thehighstreetjournal.com/soe-debt-risks-and-commodity-price-swings-threaten-ghanas-2027-fiscal-outlook/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T09:31:00.000Z",
-      "summary": "Ghana's 2027 fiscal outlook faces risks from financially distressed state-owned enterprises and volatile commodity prices, threatening government revenue, expenditure management and efforts…"
     }
   ]
 };

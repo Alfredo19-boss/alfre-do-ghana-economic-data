@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:01:41.411Z",
+  "updated": "2026-11-12T13:11:40.467Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,58 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Beauty Narteh elected first African woman to co-chair global anti-corruption coalition",
+      "link": "https://www.myjoyonline.com/beauty-narteh-elected-first-african-woman-to-co-chair-global-anti-corruption-coalition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:10:49.000Z",
+      "summary": "The Executive Secretary of the Ghana Anti-Corruption Coalition (GACC), Beauty Emefa Narteh, has been elected Co-Chair of the Global Civil Society Coalition for the United Nations Convention…",
+      "categories": [
+        "National",
+        "Beauty Emefa Narteh",
+        "GACC",
+        "UN",
+        "UNCAC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African climate groups call for equitable transition away from fossil fuels at COP31",
+      "link": "https://www.myjoyonline.com/african-climate-groups-call-for-equitable-transition-away-from-fossil-fuels-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:07:09.000Z",
+      "summary": "African civil society organisations under the Pan African Climate Justice Alliance (PACJA) have called for a just, orderly and equitable global transition away from fossil fuels, as…",
+      "categories": [
+        "National",
+        "Africa",
+        "COP31",
+        "fossil fuels"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG to roll out nationwide sensitisation campaign on new Heritage Series banknotes",
+      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-sensitisation-campaign-on-new-heritage-series-banknotes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:03:01.000Z",
+      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…",
+      "categories": [
+        "Business",
+        "In Focus",
+        "National",
+        "BoG",
+        "Education",
+        "Heritage Series banknotes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Tensions rise in Manso Keniago as angry youth confront chief, accuse DCE over six deaths",
       "link": "https://www.myjoyonline.com/tensions-rise-in-manso-keniago-as-angry-youth-confront-chief-accuse-dce-over-six-deaths/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:00:12.000Z",
       "summary": "Angry youth at Manso Keniago in the Ashanti Region have besieged the palace of the paramount chief and nearly attacked the District Chief Executive (DCE) following the deadly confrontation…",
       "categories": [
+        "HP News 2",
         "National",
         "News",
         "Regional",
@@ -43,7 +89,14 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T12:59:03.000Z",
       "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…",
       "categories": [
-        "News"
+        "Energy",
+        "Mining",
+        "National",
+        "News",
+        "Eni Ghana",
+        "John Mahama",
+        "Local Content",
+        "upstream"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -54,6 +107,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T12:56:43.000Z",
       "summary": "The death toll from the confrontation between residents of Manso Keniago in the Amansie South District of the Ashanti Region and personnel of the National Anti-Illegal Mining Operations…",
       "categories": [
+        "HP News 6",
         "National",
         "Clash",
         "Manso Keniago",
@@ -101,50 +155,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two children die in midnight bus crash at Kwameprakrom",
-      "link": "https://www.myjoyonline.com/two-children-die-in-midnight-bus-crash-at-kwameprakrom/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:49:27.000Z",
-      "summary": "Two children have reportedly lost their lives after a passenger bus plunged into a roadside ditch at Kwameprakrom along the Ayanfuri-Dunkwa-on-Offin road.",
-      "categories": [
-        "National",
-        "bus",
-        "Crash"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge arrive in Mexico ahead of 2026 Amputee Football World Cup",
-      "link": "https://www.myjoyonline.com/black-challenge-arrive-in-mexico-ahead-of-2026-amputee-football-world-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:48:35.000Z",
-      "summary": "Ghana’s national amputee football team, the Black Challenge, have arrived in Guadalajara, Mexico, ahead of the 2026 Amputee Football World Cup. The team arrived at their hotel at 5:00 a.m…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026 Amputee Football World Cup",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Mexico"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gifty Ndoma declares intention to contest NPP parliamentary primaries in Ejura",
-      "link": "https://www.myjoyonline.com/gifty-ndoma-declares-intention-to-contest-npp-parliamentary-primaries-in-ejura/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:39:42.000Z",
-      "summary": "Former New Patriotic Party (NPP) Parliamentary Candidate for Ejura Sekyeredumase, Gifty Ndoma, has declared her intention to contest the party's parliamentary primaries to secure the…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Ejura",
-        "Gifty Ndoma",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Bank of Ghana launches upgraded Cedi notes with enhanced security, national symbols",
