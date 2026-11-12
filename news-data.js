@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T16:11:10.413Z",
+  "updated": "2026-11-12T16:16:13.523Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Court Dismisses Stay Applications in Skytrain Case, Grants Recall of Former Akonta Mines Manager in Tano Nimiri Trial",
+      "link": "https://thehighstreetjournal.com/court-dismisses-stay-applications-in-skytrain-case-grants-recall-of-former-akonta-mines-manager-in-tano-nimiri-trial/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T16:15:33.000Z",
+      "summary": "With the applications dismissed and the recall request granted, both cases are set for further proceedings next week."
+    },
     {
       "title": "President launches Ghana’s new Heritage Series cedi banknotes",
       "link": "https://www.ghanabusinessnews.com/2026/11/12/president-launches-ghanas-new-heritage-series-cedi-banknotes/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T13:36:33.000Z",
       "summary": "The 300-metre facility will be funded entirely by GPHA as the authority looks to expand port capacity and strengthen its contribution to Ghana's trade sector."
-    },
-    {
-      "title": "Partnerships key to unlocking Ghana’s mineral wealth – MIIF CEO",
-      "link": "https://www.myjoyonline.com/partnerships-key-to-unlocking-ghanas-mineral-wealth-miif-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:31:42.000Z",
-      "summary": "Speaking on the sidelines of the 2026 China (Guangxi)–ASEAN Mining Cooperation Conference in China on Friday, November 6, Mrs. Nelson presented Ghana’s mineral resource potential and…"
     }
   ]
 };
