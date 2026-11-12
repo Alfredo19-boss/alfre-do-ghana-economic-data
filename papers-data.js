@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T02:48:46.669Z",
+  "updated": "2026-11-12T02:58:47.558Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
+      "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T02:16:00.000Z",
+      "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…",
+      "categories": [
+        "Business",
+        "Kantamanto",
+        "Trader"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
       "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
@@ -125,19 +138,6 @@ window.GDC_PAPERS = {
         "NaCCA",
         "National Council for Curriculum and Assessment",
         "When the River Testified"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Gold has finally come home, and your pocket knows it",
-      "link": "https://www.myjoyonline.com/ghanas-gold-has-finally-come-home-and-your-pocket-knows-it/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T23:05:00.000Z",
-      "summary": "For years Ghana lived with a strange contradiction in which it was Africa's largest gold producer yet struggled to find the dollars needed to pay for fuel, medicine and machinery.",
-      "categories": [
-        "Opinion",
-        "Electricity",
-        "Gold"
       ],
       "site": "https://www.myjoyonline.com/"
     },
