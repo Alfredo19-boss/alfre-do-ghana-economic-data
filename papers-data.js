@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T12:31:40.095Z",
+  "updated": "2026-11-12T12:41:40.865Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gifty Ndoma declares intention to contest NPP parliamentary primaries in Ejura",
+      "link": "https://www.myjoyonline.com/gifty-ndoma-declares-intention-to-contest-npp-parliamentary-primaries-in-ejura/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:39:42.000Z",
+      "summary": "Former New Patriotic Party (NPP) Parliamentary Candidate for Ejura Sekyeredumase, Gifty Ndoma, has declared her intention to contest the party's parliamentary primaries to secure the…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Ejura",
+        "Gifty Ndoma",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "DNA test leads Toronto performer to 35 half-siblings",
+      "link": "https://www.myjoyonline.com/dna-test-leads-toronto-performer-to-35-half-siblings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:38:57.000Z",
+      "summary": "A DNA test bought on sale led to a discovery that would change one Toronto performer’s understanding of his family and eventually inspire a musical. At 31, Noam Tomaschoff learned that the…",
+      "categories": [
+        "International",
+        "DNA Test",
+        "Noam Tomaschoff",
+        "Our little secret"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to open Beach Soccer AFCON against hosts Senegal on November 28",
+      "link": "https://www.myjoyonline.com/ghana-to-open-beach-soccer-afcon-against-hosts-senegal-on-november-28/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:35:15.000Z",
+      "summary": "The team will later play Mozambique on Tuesday, December 1, 2026, before wrapping up their Group stage campaign against Uganda on Wednesday, December 2, 2026.",
+      "categories": [
+        "Football",
+        "2027 Beach Soccer AFCON",
+        "Black Sharks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Former Oti Regional Minister Joshua Makubu declares intention to contest NPP parliamentary primaries in Nkwanta South",
+      "link": "https://www.myjoyonline.com/former-oti-regional-minister-joshua-makubu-declares-intention-to-contest-npp-parliamentary-primaries-in-nkwanta-south/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:34:40.000Z",
+      "summary": "Former Oti Regional Minister, Dr Joshua Makubu, has declared his intention to contest the New Patriotic Party's (NPP) parliamentary primaries in Nkwanta South constituency to secure the…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Nkwanta South",
+        "NPP",
+        "Oti Regional Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama unveils new Cedi Heritage banknotes ahead of December 1 circulation",
       "link": "https://www.myjoyonline.com/president-mahama-unveils-new-cedi-heritage-banknotes-ahead-of-december-1-circulation/",
@@ -59,6 +116,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T12:16:58.000Z",
       "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has urged Ghanaians to protect, value and take pride in the cedi, describing the national currency as a symbol of the country's…",
       "categories": [
+        "HP News 10",
         "National",
         "Cedi",
         "Dr Asiama",
@@ -78,70 +136,6 @@ window.GDC_PAPERS = {
         "Growth",
         "IMF",
         "the new economy budget"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bank of Ghana launches Cedi App to help the public identify new banknotes",
-      "link": "https://www.myjoyonline.com/bank-of-ghana-launches-cedi-app-to-help-the-public-identify-new-banknotes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:01:06.000Z",
-      "summary": "The Bank of Ghana has announced the launch of a new Cedi App designed to help the public identify and understand the security features of the newly unveiled Ghana Cedi Heritage Series…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP News 8",
-        "National",
-        "Bank of Ghana",
-        "Banknotes",
-        "Cedi App"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Military, NDC and family remember Rawlings six years on",
-      "link": "https://www.myjoyonline.com/military-ndc-and-family-remember-rawlings-six-years-on/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:52:41.000Z",
-      "summary": "The Ghana Armed Forces, the National Democratic Congress (NDC) and the family of former President Jerry John Rawlings have paid tribute to him at a wreath-laying ceremony marking the sixth…",
-      "categories": [
-        "News",
-        "Military",
-        "NDC",
-        "Rawlings"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "OMJ Foundation CEO Osei Mensah Joseph declares bid for NPP Akuapem South parliamentary ticket",
-      "link": "https://www.myjoyonline.com/omj-foundation-ceo-osei-mensah-joseph-declares-bid-for-npp-akuapem-south-parliamentary-ticket/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:40:10.000Z",
-      "summary": "Businessman, philanthropist and Chief Executive Officer of the OMJ Foundation, Osei Mensah Joseph, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary…",
-      "categories": [
-        "National",
-        "Politics",
-        "Akuapem South",
-        "NPP",
-        "OMJ Foundation",
-        "Osei Mensah Joseph"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG to establish new Cash Centres in Ho and Tamale",
-      "link": "https://www.myjoyonline.com/bog-to-establish-new-cash-centres-in-ho-and-tamale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:37:18.000Z",
-      "summary": "The Bank of Ghana (BoG) is planning to establish new Cash Centres at its Ho and Tamale Regional Offices as part of efforts to improve access to currency services and strengthen cash…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "Bank of Ghana",
-        "BoG",
-        "Dr Johnson Pandit Asiama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
