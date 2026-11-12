@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T16:16:40.245Z",
+  "updated": "2026-11-12T16:26:41.114Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NACOC arrests freight forwarder in Tema over 2.6-tonne cocaine seizure in Spain",
+      "link": "https://www.myjoyonline.com/nacoc-arrests-freight-forwarder-in-tema-over-2-6-tonne-cocaine-seizure-in-spain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:21:14.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) has arrested a 43-year-old freight forwarder in connection with the seizure of approximately 2.6 tonnes of cocaine in Valencia, Spain, in August…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "freight forwarder",
+        "NACOC",
+        "Spain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Naa Puowele Karbo III",
       "link": "https://www.myjoyonline.com/naa-puowele-karbo-iii/",
@@ -134,22 +150,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open their defence",
-      "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-their-defence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:08:11.000Z",
-      "summary": "The Accra High Court has given former National Signals Bureau (NSB) Director-General Kwabena Adu-Boahene and his wife, Angela Adjei-Boateng, three weeks to file witness statements if they…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Acquitted",
-        "Adu Boahene",
-        "court"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
