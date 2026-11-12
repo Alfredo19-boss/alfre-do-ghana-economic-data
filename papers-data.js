@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T22:19:14.523Z",
+  "updated": "2026-11-12T22:29:15.450Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority caucus questions women’s bank pledge, alleges silence in 2027 Budget",
+      "link": "https://www.myjoyonline.com/minority-caucus-questions-womens-bank-pledge-alleges-silence-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T22:27:31.000Z",
+      "summary": "The Minority in Parliament has questioned the government’s commitment to establishing a women’s bank, alleging that the 2027 Budget failed to address a promise repeated in the previous two…",
+      "categories": [
+        "News",
+        "Politics",
+        "2027 Budget",
+        "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget offers figures, not relief for struggling Ghanaians – Minority caucus",
       "link": "https://www.myjoyonline.com/2027-budget-offers-figures-not-relief-for-struggling-ghanaians-minority-caucus/",
@@ -128,21 +142,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Teacher trainees, BECE candidates and basic schools get GH¢562m in 2027 Budget",
-      "link": "https://www.myjoyonline.com/teacher-trainees-bece-candidates-and-basic-schools-get-gh%c2%a2562m-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:26:54.000Z",
-      "summary": "The government has allocated a combined GH¢562 million to support teacher trainee allowances, Basic Education Certificate Examination (BECE) fees and the Capitation Grant in the 2027 Budget.",
-      "categories": [
-        "Education",
-        "National",
-        "BECE",
-        "Capitation grant",
-        "Teacher trainee allowances"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Small-scale miners face 3% cut in gold purchase price under 2027 proposal",
