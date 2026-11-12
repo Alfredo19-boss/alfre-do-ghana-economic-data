@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:44:15.655Z",
+  "updated": "2026-11-12T22:19:14.523Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget offers figures, not relief for struggling Ghanaians – Minority caucus",
+      "link": "https://www.myjoyonline.com/2027-budget-offers-figures-not-relief-for-struggling-ghanaians-minority-caucus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T22:16:12.000Z",
+      "summary": "The Minority in Parliament says the 2027 Budget fails to address the hardship facing Ghanaians, arguing that the government’s economic figures offer little comfort to people struggling with…",
+      "categories": [
+        "Politics",
+        "2027 Budget",
+        "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Stability on paper, hardship in our pockets’ – Minority caucus attacks 2027 Budget",
+      "link": "https://www.myjoyonline.com/stability-on-paper-hardship-in-our-pockets-minority-caucus-attacks-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T22:07:00.000Z",
+      "summary": "The Minority in Parliament has criticised the 2027 Budget, arguing that the government’s claims of economic stability have not translated into affordable food, jobs or relief for businesses.",
+      "categories": [
+        "Politics",
+        "2027 Budget",
+        "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
       "link": "https://www.myjoyonline.com/fourteen-dead-after-truck-loses-control-in-23-vehicle-crash-in-uae/",
@@ -115,33 +141,6 @@ window.GDC_PAPERS = {
         "BECE",
         "Capitation grant",
         "Teacher trainee allowances"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana to establish convention bureau in 2027 to attract global conferences – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghana-to-establish-convention-bureau-in-2027-to-attract-global-conferences-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:25:33.000Z",
-      "summary": "The Finance Minister, Dr Cassiel Ato Forson, says the government will establish a professional convention bureau in 2027 to attract and secure recurring African and global conferences as…",
-      "categories": [
-        "National",
-        "convention bureau",
-        "Dr Cassiel Ato Forson",
-        "global conferences"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Owabi water treatment plant shut down after heavy rains disrupt production",
-      "link": "https://www.myjoyonline.com/owabi-water-treatment-plant-shut-down-after-heavy-rains-disrupt-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:21:02.000Z",
-      "summary": "The Owabi water treatment plant in the Ashanti region has been temporarily shut down, cutting supplies to parts of the Greater Kumasi metropolis.",
-      "categories": [
-        "Regional",
-        "Owabi water treatment plant",
-        "sedimentation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
