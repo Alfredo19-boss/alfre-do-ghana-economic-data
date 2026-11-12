@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:26:41.028Z",
+  "updated": "2026-11-12T17:31:41.461Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Facing our past and shaping our future together",
+      "link": "https://www.myjoyonline.com/facing-our-past-and-shaping-our-future-together/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:22:55.000Z",
+      "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
+      "categories": [
+        "Opinion",
+        "British High Commissioner to Ghana",
+        "Dr Christian Rogg"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UKGCC donates GH₵923,000 to boost neonatal care at PMLCH",
       "link": "https://www.graphic.com.gh/news/health/ukgcc-donates-gh-923-000-to-boost-neonatal-care-at-pmlch.html",
@@ -199,20 +212,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
-      "link": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:52:51.000Z",
-      "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said.",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Bank of Ghana",
-        "Ghana Cedi Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Gov’t to expand Cylinder Recirculation Model nationwide – Jinapor",

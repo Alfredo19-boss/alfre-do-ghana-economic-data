@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T17:26:10.821Z",
+  "updated": "2026-11-12T17:31:10.327Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
+      "link": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:27:31.000Z",
+      "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at…"
+    },
     {
       "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
       "link": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T14:01:00.000Z",
       "summary": "Access to international finance has improved, but the price of finance has not, and high debt burdens in the poorest countries threaten to crowd out essential investments in people."
-    },
-    {
-      "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:52:28.000Z",
-      "summary": "Trading remained concentrated in the 2027-2030 maturities, which accounted for 58.27% of turnover at a weighted-average yield of 13.01%."
     }
   ]
 };
