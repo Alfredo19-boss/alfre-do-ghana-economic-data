@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T07:17:10.984Z",
+  "updated": "2026-11-12T07:27:12.223Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra Hearts of Oak @115 • Celebrating history, sacrifice, excellence and institutional development",
+      "link": "https://ghanaiantimes.com.gh/accra-hearts-of-oak-115-celebrating-history-sacrifice-excellence-and-institutional-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:26:43.000Z",
+      "summary": "Accra Hearts of Oak Sporting Club celebrates its 115th anniversary yesterday. I consider it a great honour to join the entire Phobian fraternity, both in Ghana and across the world, in…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Green economy offers jobs, business opportunities for youth – GAYO",
+      "link": "https://ghanaiantimes.com.gh/green-economy-offers-jobs-business-opportunities-for-youth-gayo/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:17:54.000Z",
+      "summary": "THE Green Africa Youth Organisation (GAYO) has urged young entrepreneurs to take advantage of the growing demand for environmentally friendly alternatives to plastics and other polluting…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Eni Ghana pledges to deepen local content development",
       "link": "https://ghanaiantimes.com.gh/eni-ghana-pledges-to-deepen-local-content-development/",
@@ -92,17 +114,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "7 Ashaiman ADR practitioners complete conflict management training",
-      "link": "https://ghanaiantimes.com.gh/7-ashaiman-adr-practitioners-complete-conflict-management-training/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:38:39.000Z",
-      "summary": "SEVEN persons from the Ashaiman Alternative Dispute Resolution (ADR) Centre on Friday completed a five-day workshop in Skills-Based Training in Conflict Management and ADR in Accra. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "No new taxes in 2027 Budget – Ampem Nyarko",
       "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-budget-ampem-nyarko/",
       "source": "MyJoyOnline",
@@ -118,18 +129,6 @@ window.GDC_PAPERS = {
         "Tax"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "LISAG supports Lands Commission’s digitisation drive",
-      "link": "https://ghanaiantimes.com.gh/lisag-supports-lands-commissions-digitisation-drive/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:33:58.000Z",
-      "summary": "THE Licensed Surveyors Association of Ghana (LISAG) has donated IT equipment to the Lands Commission to support its digitisation drive and improve records management across selected…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Accra: Police arrest 2 suspects, seize counterfeit fabrics worth GH¢20 million at Adabraka",
