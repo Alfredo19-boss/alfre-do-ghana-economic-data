@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T00:28:46.709Z",
+  "updated": "2026-11-12T02:08:46.923Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,20 @@ window.GDC_PAPERS = {
         "Ghana",
         "Petras Anaab Ali",
         "Sawdust"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "9 in 10 sexual and gender minority people feared stigma in Ghana’s 2024 elections – Study finds",
+      "link": "https://www.myjoyonline.com/9-in-10-sexual-and-gender-minority-people-feared-stigma-in-ghanas-2024-elections-study-finds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T00:07:00.000Z",
+      "summary": "A study by Rightify Ghana says 94.3 per cent of the sexual and gender minority people it surveyed feared stigma and discrimination during Ghana’s 2024 elections.",
+      "categories": [
+        "News",
+        "Gender",
+        "Minority",
+        "Study"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -87,6 +101,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ghana’s Gold has finally come home, and your pocket knows it",
+      "link": "https://www.myjoyonline.com/ghanas-gold-has-finally-come-home-and-your-pocket-knows-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T23:05:00.000Z",
+      "summary": "For years Ghana lived with a strange contradiction in which it was Africa's largest gold producer yet struggled to find the dollars needed to pay for fuel, medicine and machinery.",
+      "categories": [
+        "Opinion",
+        "Electricity",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
       "link": "https://www.myjoyonline.com/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports/",
       "source": "MyJoyOnline",
@@ -111,31 +138,6 @@ window.GDC_PAPERS = {
         "Techiman drivers",
         "Traders",
         "women's development bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.myjoyonline.com/clashes-erupt-in-barcelona-after-thousands-join-spain-general-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:33:10.000Z",
-      "summary": "Clashes have broken out between groups of masked men and police in Barcelona after tens of thousands of people took part in Spain's first general strike for 14 years, called by the…",
-      "categories": [
-        "News",
-        "Barcelona",
-        "Protest"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vehicle ploughs into pedestrians in Los Angeles, killing three",
-      "link": "https://www.myjoyonline.com/vehicle-ploughs-into-pedestrians-in-los-angeles-killing-three/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:26:00.000Z",
-      "summary": "An SUV ploughed into a group of pedestrians in the North ​Hollywood district of Los Angeles on Tuesday, killing at least three ‌and critically injuring three more, authorities said.",
-      "categories": [
-        "International",
-        "Los Angeles"
       ],
       "site": "https://www.myjoyonline.com/"
     },
