@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-12T22:58:43.151Z",
+  "updated": "2026-11-12T23:08:42.742Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -3628,11 +3628,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 71361.89,
+        "value": 71429.84,
         "prev": 74584.65,
-        "change": -3222.76,
-        "pct": -4.32,
-        "at": "2026-11-12T22:58:36.000Z",
+        "change": -3154.81,
+        "pct": -4.23,
+        "at": "2026-11-12T23:08:37.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3864,7 +3864,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-12",
-            "value": 71361.89
+            "value": 71429.84
           }
         ]
       },
@@ -3873,11 +3873,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 2012.78,
+        "value": 2017.14,
         "prev": 2120.9802,
-        "change": -108.2,
-        "pct": -5.1,
-        "at": "2026-11-12T22:58:37.000Z",
+        "change": -103.84,
+        "pct": -4.9,
+        "at": "2026-11-12T23:08:35.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4109,7 +4109,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-12",
-            "value": 2012.78
+            "value": 2017.14
           }
         ]
       }
@@ -5450,7 +5450,7 @@ window.GDC_MARKETS = {
         "prev": 1.1228,
         "change": -0.017,
         "pct": -1.51,
-        "at": "2026-11-12T22:58:30.000Z",
+        "at": "2026-11-12T23:08:30.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -5667,11 +5667,11 @@ window.GDC_MARKETS = {
         "name": "Pound in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.3236,
+        "value": 1.3235,
         "prev": 1.3456,
-        "change": -0.022,
-        "pct": -1.63,
-        "at": "2026-11-12T22:58:30.000Z",
+        "change": -0.0221,
+        "pct": -1.64,
+        "at": "2026-11-12T23:08:30.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -5891,7 +5891,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-12",
-            "value": 1.3236
+            "value": 1.3235
           }
         ]
       },

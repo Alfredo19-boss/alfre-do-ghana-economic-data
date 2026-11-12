@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T22:29:15.450Z",
+  "updated": "2026-11-12T23:09:16.143Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "[Live] Ato Forson breaks down 2027 Budget on JoyNews’ PM Express",
+      "link": "https://www.myjoyonline.com/live-ato-forson-breaks-down-2027-budget-on-joynews-pm-express/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T23:07:17.000Z",
+      "summary": "Finance Minister, Dr Cassiel Ato Forson, is explaining the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express. The engagement…",
+      "categories": [
+        "News",
+        "Top Story"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority caucus questions women’s bank pledge, alleges silence in 2027 Budget",
       "link": "https://www.myjoyonline.com/minority-caucus-questions-womens-bank-pledge-alleges-silence-in-2027-budget/",
@@ -112,23 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Ato Forson",
         "NHIS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Volta NDC urges Minority to stop attempts to smear Ablakwa with scandals",
-      "link": "https://www.myjoyonline.com/volta-ndc-urges-minority-to-stop-attempts-to-smear-ablakwa-with-scandals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:28:05.000Z",
-      "summary": "The Volta Regional branch of the National Democratic Congress (NDC) has urged the Minority in Parliament and the New Patriotic Party (NPP) to stop what it describes as attempts to smear…",
-      "categories": [
-        "National",
-        "News",
-        "Ablakwa",
-        "Mawutor Agbavitor",
-        "Minority in Palriment",
-        "National Democratic Congress",
-        "New Patriotic Party"
       ],
       "site": "https://www.myjoyonline.com/"
     },
