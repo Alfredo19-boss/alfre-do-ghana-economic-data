@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T04:37:11.071Z",
+  "updated": "2026-11-12T04:47:10.948Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AKSA bribery claims: Parliament finds no evidence against MPs, staff",
+      "link": "https://www.myjoyonline.com/aksa-bribery-claims-parliament-finds-no-evidence-against-mps-staff/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T04:36:54.000Z",
+      "summary": "Parliament has found no evidence that any Member of Parliament or officer of the Parliamentary Service received money allegedly paid to influence the approval of the 2015 AKSA emergency…",
+      "categories": [
+        "National",
+        "News",
+        "Absa",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police seize 3,752 slabs of suspected Indian hemp at Ada",
       "link": "https://www.myjoyonline.com/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/",
@@ -109,22 +123,6 @@ window.GDC_PAPERS = {
         "News",
         "Clinic",
         "Gold"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra after Sunset: El Niño, a heating city and the sky above us",
-      "link": "https://www.myjoyonline.com/accra-after-sunset-el-nino-a-heating-city-and-the-sky-above-us/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T00:21:49.000Z",
-      "summary": "The sun has gone down, but the room still feels hot. The fan is running, yet sleep does not come easily. Outside, people seek relief on verandas, in compound yards and along the roadside…",
-      "categories": [
-        "Features",
-        "Opinion",
-        "El Nino",
-        "Ghana",
-        "Petras Anaab Ali",
-        "Sawdust"
       ],
       "site": "https://www.myjoyonline.com/"
     },
