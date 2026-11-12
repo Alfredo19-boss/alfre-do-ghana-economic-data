@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:39:15.105Z",
+  "updated": "2026-11-12T21:44:15.655Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "link": "https://www.myjoyonline.com/fourteen-dead-after-truck-loses-control-in-23-vehicle-crash-in-uae/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:39:52.000Z",
+      "summary": "Fourteen people have been killed and dozens injured after a truck driver lost control and hit several vehicles in Fujairah, in the United Arab Emirates (UAE), the interior ministry has said.",
+      "categories": [
+        "International",
+        "truck loses control",
+        "UAE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government sets 2027 deadline for local refining of 70% of small-scale gold",
       "link": "https://www.myjoyonline.com/government-sets-2027-deadline-for-local-refining-of-70-of-small-scale-gold/",
@@ -41,7 +54,7 @@ window.GDC_PAPERS = {
       "summary": "Two persons have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Rejoice Sena Akpaku, whose body was…",
       "categories": [
         "Crime",
-        "HP News 10",
+        "HP News 6",
         "News",
         "Regional",
         "Murder",
@@ -129,22 +142,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Owabi water treatment plant",
         "sedimentation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC General Secretary aspirant sues party over exclusion from election after paying GH¢80 nomination fee",
-      "link": "https://www.myjoyonline.com/ndc-general-secretary-aspirant-sues-party-over-exclusion-from-election-after-paying-gh%c2%a280-nomination-fee/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:17:35.000Z",
-      "summary": "An aspiring NDC General Secretary, Stephen Donkor, has taken the party and its Director of Elections and IT, Mahdi Gibrill, to court over his exclusion from the list of successful nominees…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Politics",
-        "NDC",
-        "Stephen Donkor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
