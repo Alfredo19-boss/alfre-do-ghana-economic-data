@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T14:11:11.595Z",
+  "updated": "2026-11-12T14:21:11.151Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG Pushes for New Currency Law to Tighten Counterfeiting Penalties",
+      "link": "https://thehighstreetjournal.com/bog-pushes-for-new-currency-law-to-tighten-counterfeiting-penalties/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T14:15:00.000Z",
+      "summary": "Proposed legislation will replace the 1964 Currency Act, strengthen anti-counterfeiting measures, and introduce tougher penalties for currency-related offences."
+    },
     {
       "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
       "link": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-10T12:57:31.000Z",
       "summary": "Dr Cassiel Ato Baah Forson, Finance Minister, has charged procurement officers to protect the public purse from waste in national spending by strictly enforcing compliance mechanisms."
-    },
-    {
-      "title": "Government proposes three-tier royalty system for petroleum operations based on water depth",
-      "link": "https://www.myjoyonline.com/government-proposes-three-tier-royalty-system-for-petroleum-operations-based-on-water-depth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T12:56:58.000Z",
-      "summary": "The government is proposing a new royalty framework for petroleum operations, with payments to be determined under a three-tier sliding scale linked to the water depth of oil and gas…"
     }
   ]
 };
