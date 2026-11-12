@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T12:41:40.865Z",
+  "updated": "2026-11-12T12:51:40.964Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two children die in midnight bus crash at Kwameprakrom",
+      "link": "https://www.myjoyonline.com/two-children-die-in-midnight-bus-crash-at-kwameprakrom/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:49:27.000Z",
+      "summary": "Two children have reportedly lost their lives after a passenger bus plunged into a roadside ditch at Kwameprakrom along the Ayanfuri-Dunkwa-on-Offin road.",
+      "categories": [
+        "National",
+        "bus",
+        "Crash"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Challenge arrive in Mexico ahead of 2026 Amputee Football World Cup",
+      "link": "https://www.myjoyonline.com/black-challenge-arrive-in-mexico-ahead-of-2026-amputee-football-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:48:35.000Z",
+      "summary": "Ghana’s national amputee football team, the Black Challenge, have arrived in Guadalajara, Mexico, ahead of the 2026 Amputee Football World Cup. The team arrived at their hotel at 5:00 a.m…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026 Amputee Football World Cup",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mexico"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gifty Ndoma declares intention to contest NPP parliamentary primaries in Ejura",
       "link": "https://www.myjoyonline.com/gifty-ndoma-declares-intention-to-contest-npp-parliamentary-primaries-in-ejura/",
@@ -106,36 +135,6 @@ window.GDC_PAPERS = {
         "Ablakwa",
         "Foreign Affairs",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Protect, value and take pride in the cedi’ – Dr Asiama urges Ghanaians",
-      "link": "https://www.myjoyonline.com/protect-value-and-take-pride-in-the-cedi-dr-asiama-urges-ghanaians/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:16:58.000Z",
-      "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has urged Ghanaians to protect, value and take pride in the cedi, describing the national currency as a symbol of the country's…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Cedi",
-        "Dr Asiama",
-        "Heritage Series banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The New economy budget: Will Ghana finally build growth that lasts?",
-      "link": "https://www.myjoyonline.com/the-new-economy-budget-will-ghana-finally-build-growth-that-lasts/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:09:50.000Z",
-      "summary": "Ghana’s reliance on the International Monetary Fund has become a defining feature of its economic history, with 17 programmes since 1966 shaping the country’s trajectory and leaving a…",
-      "categories": [
-        "Opinion",
-        "Finance Minister",
-        "Growth",
-        "IMF",
-        "the new economy budget"
       ],
       "site": "https://www.myjoyonline.com/"
     },
