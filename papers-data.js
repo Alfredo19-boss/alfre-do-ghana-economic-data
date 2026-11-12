@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:11:40.121Z",
+  "updated": "2026-11-12T15:21:39.913Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open their defence",
+      "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-their-defence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:08:11.000Z",
+      "summary": "The Accra High Court has given former National Signals Bureau (NSB) Director-General Kwabena Adu-Boahene and his wife, Angela Adjei-Boateng, three weeks to file witness statements if they…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Acquitted",
+        "Adu Boahene",
+        "court"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open defences",
       "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-defences/",
@@ -38,6 +54,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T15:06:50.000Z",
       "summary": "A wreath-laying ceremony has been held at the Military Cemetery in Accra to mark the sixth anniversary of the death of former President Flight Lieutenant Jerry John Rawlings.",
       "categories": [
+        "In Focus",
         "National",
         "6th anniversary",
         "Flight Lieutenant Jerry John Rawlings",
@@ -136,19 +153,6 @@ window.GDC_PAPERS = {
         "Akufo-Addo",
         "ECOWAS",
         "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "When the outrage dies, who remembers the victims? – The Obuasi SHTS case and our troubling habit of forgetting the people behind the headlines",
-      "link": "https://www.myjoyonline.com/when-the-outrage-dies-who-remembers-the-victims-the-obuasi-shts-case-and-our-troubling-habit-of-forgetting-the-people-behind-the-headlines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:45:14.000Z",
-      "summary": "The speed at which victims of sexual abuse, especially children, can become less central to the public discussion of their experience once the outrage dies away is deeply troubling.",
-      "categories": [
-        "Opinion",
-        "Obuasi SHTS",
-        "Sexual abuse"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T15:11:10.045Z",
+  "updated": "2026-11-12T15:21:09.600Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "The SSNIT Real Estate Gamble: Premier Towers: Empty floors, broken systems and unanswered questions",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/the-ssnit-real-estate-gamble-premier-towers-empty-floors-broken-systems-and-unanswered-questions/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T15:18:09.000Z",
+      "summary": "Premier Towers occupies a prominent place in Accra’s Ministries enclave, beside SSNIT Pension House. But location alone has not delivered what a pension-funded commercial property should…"
+    },
     {
       "title": "BoG Pushes for New Currency Law to Tighten Counterfeiting Penalties",
       "link": "https://thehighstreetjournal.com/bog-pushes-for-new-currency-law-to-tighten-counterfeiting-penalties/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:10:46.000Z",
       "summary": "The Ghana Revenue Authority (GRA) is targeting revenue mobilisation of GH¢310 billion by December 2028, with plans to broaden the tax base and improve compliance without placing additional…"
-    },
-    {
-      "title": "Stop procurement waste, protect 70% of national spending – Minister",
-      "link": "https://www.ghanabusinessnews.com/2026/11/10/stop-procurement-waste-protect-70-of-national-spending-minister/",
-      "source": "Ghana Business News",
-      "published": "2026-11-10T12:57:31.000Z",
-      "summary": "Dr Cassiel Ato Baah Forson, Finance Minister, has charged procurement officers to protect the public purse from waste in national spending by strictly enforcing compliance mechanisms."
     }
   ]
 };
