@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:31:40.462Z",
+  "updated": "2026-11-12T15:41:41.030Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s cocaine seizures abroad raise questions about port security, trade integrity and national reputation",
+      "link": "https://www.myjoyonline.com/ghanas-cocaine-seizures-abroad-raise-questions-about-port-security-trade-integrity-and-national-reputation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:41:03.000Z",
+      "summary": "Something is happening, and we cannot afford to treat it as another passing headline! According to JoyNews Research, approximately 13,876 kilogrammes of cocaine linked to Ghana have been…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Cocaine",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Learn about the 8 personalities, landmarks, and symbols featured on the new Heritage Cedi notes",
       "link": "https://www.myjoyonline.com/learn-about-the-8-personalities-landmarks-and-symbols-featured-on-the-new-heritage-cedi-notes/",
@@ -154,21 +169,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Manhyia South MP allowed to retrieve passport as court varies bail terms",
-      "link": "https://www.myjoyonline.com/manhyia-south-mp-allowed-to-retrieve-passport-as-court-varies-bail-terms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:52:09.000Z",
-      "summary": "The High Court in Accra has varied the bail conditions of Manhyia South Member of Parliament, Nana Agyei Baffour Awuah, allowing him to retrieve his passport from the court registry. The…",
-      "categories": [
-        "National",
-        "Bail",
-        "court",
-        "Manhyia South MP",
-        "Passport"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",

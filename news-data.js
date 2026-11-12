@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T15:31:09.974Z",
+  "updated": "2026-11-12T15:41:15.130Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama Links Cedi Stability to $10bn New Economy Programme",
+      "link": "https://thehighstreetjournal.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T15:41:00.000Z",
+      "summary": "President says boosting local production and exports will reduce import dependence and strengthen the cedi."
+    },
     {
       "title": "The SSNIT Real Estate Gamble: Premier Towers: Empty floors, broken systems and unanswered questions",
       "link": "https://www.ghanabusinessnews.com/2026/11/12/the-ssnit-real-estate-gamble-premier-towers-empty-floors-broken-systems-and-unanswered-questions/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T13:18:00.000Z",
       "summary": "Economist Dr. Adu Owusu Sarkodie questions the direction of Ghana’s 24-Hour Economy, arguing that its manifesto promise, policy document and actual implementation differ significantly, with…"
-    },
-    {
-      "title": "GRA targets GH¢310bn revenue by 2028, rules out overburdening compliant taxpayers",
-      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2310bn-revenue-by-2028-rules-out-overburdening-compliant-taxpayers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:10:46.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) is targeting revenue mobilisation of GH¢310 billion by December 2028, with plans to broaden the tax base and improve compliance without placing additional…"
     }
   ]
 };
