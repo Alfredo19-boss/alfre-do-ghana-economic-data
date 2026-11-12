@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:19:15.907Z",
+  "updated": "2026-11-12T21:24:15.049Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Owabi water treatment plant shut down after heavy rains disrupt production",
+      "link": "https://www.myjoyonline.com/owabi-water-treatment-plant-shut-down-after-heavy-rains-disrupt-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:21:02.000Z",
+      "summary": "The Owabi water treatment plant in the Ashanti region has been temporarily shut down, cutting supplies to parts of the Greater Kumasi metropolis.",
+      "categories": [
+        "Regional",
+        "Owabi water treatment plant",
+        "sedimentation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC General Secretary aspirant sues party over exclusion from election after paying GH¢80 nomination fee",
+      "link": "https://www.myjoyonline.com/ndc-general-secretary-aspirant-sues-party-over-exclusion-from-election-after-paying-gh%c2%a280-nomination-fee/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:17:35.000Z",
+      "summary": "An aspiring NDC General Secretary, Stephen Donkor, has taken the party and its Director of Elections and IT, Mahdi Gibrill, to court over his exclusion from the list of successful nominees…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "NDC",
+        "Stephen Donkor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "They planted juju in my jacket at Davido’s house – Peruzzi",
+      "link": "https://www.myjoyonline.com/they-planted-juju-in-my-jacket-at-davidos-house-peruzzi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:17:00.000Z",
+      "summary": "Singer Peruzzi said a charm was planted in his jacket while he was at Davido's house.",
+      "categories": [
+        "Music",
+        "Davido",
+        "Peruzzi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government targets local production of up to 80% of essential medicines by 2030",
       "link": "https://www.myjoyonline.com/government-targets-local-production-of-up-to-80-of-essential-medicines-by-2030/",
@@ -86,48 +127,6 @@ window.GDC_PAPERS = {
         "4G network",
         "AI",
         "rural network"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government pilots electronic bed management system to tackle no-bed syndrome",
-      "link": "https://www.myjoyonline.com/government-pilots-electronic-bed-management-system-to-tackle-no-bed-syndrome/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:10:01.000Z",
-      "summary": "The government is introducing an electronic bed management system to improve the coordination and availability of hospital beds, particularly in emergency units, as part of efforts to…",
-      "categories": [
-        "Health",
-        "National",
-        "Dr Cassiel Ato Forson",
-        "electronic bed management system",
-        "no-bed syndrome"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson announces GH¢2.26bn allocation to justice sector, NIA and Nsawam Prison",
-      "link": "https://www.myjoyonline.com/ato-forson-announces-gh%c2%a22-26bn-allocation-to-justice-sector-nia-and-nsawam-prison/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:09:53.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced a combined allocation of approximately GH¢2.26 billion to key institutions responsible for the administration of justice, legal…",
-      "categories": [
-        "National",
-        "Dr Cassiel Ato Forson",
-        "Justice sector"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government allocates GH¢10m for journalists’ welfare, training and investigative reporting",
-      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a210m-for-journalists-welfare-training-and-investigative-reporting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:07:41.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced an allocation of GH¢10 million to support the welfare and professional development of journalists, as well as strengthen investigative…",
-      "categories": [
-        "National",
-        "investigative reporting",
-        "Journalists",
-        "Welfare"
       ],
       "site": "https://www.myjoyonline.com/"
     },
