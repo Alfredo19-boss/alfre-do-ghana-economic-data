@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T05:47:11.295Z",
+  "updated": "2026-11-12T05:57:11.631Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -67,6 +67,17 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/2-600-kilos-of-cocaine-seized-at-the-port-of-valencia.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T04:54:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Supply bitumen or lose government business - Roads Minister to supplier",
+      "link": "https://www.graphic.com.gh/news/general-news/supply-bitumen-or-lose-government-business-roads-to-supplier.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T04:46:29.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -300,17 +311,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Silence protects the abuser, not the child – Dr Apaak warns teachers over sexual misconduct",
-      "link": "https://www.graphic.com.gh/news/education/silence-protects-the-abuser-not-the-child-dr-apaak-warns-teachers-over-sexual-misconduct.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T15:34:37.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };

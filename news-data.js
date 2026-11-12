@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T05:46:39.894Z",
+  "updated": "2026-11-12T05:56:42.800Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,26 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana calls for stronger regional cooperation, climate finance to address climate mobility",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/ghana-calls-for-stronger-regional-cooperation-climate-finance-to-address-climate-mobility/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T05:52:01.000Z",
+      "summary": "Ghana has called for increased climate adaptation financing, stronger regional cooperation and improved protection for vulnerable communities to address the growing threat of…"
+    },
+    {
+      "title": "Ghana advocates stronger global cooperation to bridge Africa’s digital divide",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/ghana-advocates-stronger-global-cooperation-to-bridge-africas-digital-divide/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T05:47:47.000Z",
+      "summary": "Mr Samuel Nartey George, Minister for Communication, Digital Technology and Innovations, has called for stronger international cooperation and investment to bridge Africa’s digital divide…"
+    },
     {
       "title": "2027 Budget: Fate of 24-Hour Economy Comes into Question Amid GH¢10bn New Economy Programme",
       "link": "https://thehighstreetjournal.com/2027-budget-fate-of-24-hour-economy-comes-into-question-amid-gh%c2%a210bn-new-economy-programme/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-10T04:05:21.000Z",
       "summary": "The Institute of Economic Affairs (IEA) has urged the Government to use Ghana’s proposed partnership with BRICS to attract investment, technology transfers and industrial partnerships to…"
-    },
-    {
-      "title": "Absa celebrates 40yrs of African Art with Ezra Appiah’s Solo Exhibition in ACCRA Absa L’Atelier",
-      "link": "https://www.myjoyonline.com/absa-celebrates-40yrs-of-african-art-with-ezra-appiahs-solo-exhibition-in-accra-absa-latelier/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T04:03:00.000Z",
-      "summary": "Absa L’Atelier, Absa Bank’s pan-African visual arts programme has reaffirmed its commitment to nurturing African artistic talent as it marks its 40th anniversary, celebrating four decades…"
-    },
-    {
-      "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-      "link": "https://www.myjoyonline.com/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:35:00.000Z",
-      "summary": "Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang's ties to a suspected Chinese spy."
     }
   ]
 };
