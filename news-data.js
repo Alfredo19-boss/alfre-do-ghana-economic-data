@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T20:38:44.342Z",
+  "updated": "2026-11-12T20:48:46.517Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
+      "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:35:20.000Z",
+      "summary": "The Ghana Export-Import Bank (EXIM Bank) will become the sole financial institution responsible for financing Ghana's poultry sector under a four-year programme beginning in 2027."
+    },
     {
       "title": "Gov’t to merge MIIF and GIIF to establish Ghana Sovereign Wealth Fund – Finance Minister",
       "link": "https://www.myjoyonline.com/govt-to-merge-miif-and-giif-to-establish-ghana-sovereign-wealth-fund-finance-minister/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T16:43:26.000Z",
       "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50…"
-    },
-    {
-      "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
-      "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:40:32.000Z",
-      "summary": "The D. A. Twum Jnr. Fellowship, powered by The Ninani Group, has successfully graduated its pioneer cohort following a three-month immersive learning and industry development programme…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T20:39:14.080Z",
+  "updated": "2026-11-12T20:49:16.453Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t tasks EXIM Bank to drive self-sufficiency in poultry production",
+      "link": "https://www.myjoyonline.com/govt-tasks-exim-bank-to-drive-self-sufficiency-in-poultry-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:42:44.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says the government has directed the Ghana Export-Import Bank (EXIM Bank) to work with industries to make the country self-sufficient in poultry and…",
+      "categories": [
+        "National",
+        "Exim Bank",
+        "Poultry sector"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t to replace Petroleum Revenue Management Act with broader natural resource law – Ato Forson",
+      "link": "https://www.myjoyonline.com/govt-to-replace-petroleum-revenue-management-act-with-broader-natural-resource-law-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:40:41.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to introduce a new law to regulate the management of revenues from Ghana's natural resources, including oil, gold, lithium and…",
+      "categories": [
+        "National",
+        "Management",
+        "Natural Resources",
+        "New law"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: Gov’t allocates GH¢782m to Sports Ministry",
+      "link": "https://www.myjoyonline.com/2027-budget-govt-allocates-gh%c2%a2782m-to-sports-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:40:02.000Z",
+      "summary": "Government has allocated GH¢782 million to the Ministry of Sports and Recreation in the 2027 Budget to support sports development and the welfare of people involved in the sector.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "2027 Budget",
+        "Ministry of Sports and Recreation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: GH¢8.9bn allocated for new hospitals, completion of 35 Agenda 111 facilities – Ato Forson",
+      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a28-9bn-allocated-for-new-hospitals-completion-of-35-agenda-111-facilities-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:39:52.000Z",
+      "summary": "The government has earmarked GH¢8.9 billion in the 2027 Budget for the construction and completion of hospitals, alongside investments in psychiatric care, mental health services and…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Hospitals"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
       "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
@@ -76,65 +131,6 @@ window.GDC_PAPERS = {
         "HP Sports 2",
         "Sports",
         "2027 Budget"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SSNIT to build five-star hotels in Accra and Kumasi under new tourism plan",
-      "link": "https://www.myjoyonline.com/ssnit-to-build-five-star-hotels-in-accra-and-kumasi-under-new-tourism-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:29:35.000Z",
-      "summary": "Government has announced plans to facilitate the construction of five-star hotels in Accra and Kumasi by 2030 as part of efforts to strengthen Ghana's tourism and hospitality industry.",
-      "categories": [
-        "National",
-        "Accra",
-        "Hotels",
-        "Kumasi",
-        "SNNIT",
-        "Tourism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Your cash is ready, come for your money” – Ato Forson announces early redemption of GH¢29bn DDEP bonds",
-      "link": "https://www.myjoyonline.com/your-cash-is-ready-come-for-your-money-ato-forson-announces-early-redemption-of-gh%c2%a229bn-ddep-bonds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:22:05.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced the early redemption of GH¢29 billion in Domestic Debt Exchange Programme (DDEP) bonds due in February 2027, assuring bondholders that…",
-      "categories": [
-        "Business",
-        "HP News 4",
-        "National",
-        "bondholders",
-        "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government allocates GH¢3.5bn to Youth Ministry, GH¢2bn earmarked for jobs and skills",
-      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a23-5bn-to-youth-ministry-gh%c2%a22bn-earmarked-for-jobs-and-skills/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:19:27.000Z",
-      "summary": "The government has allocated GH¢3.5 billion to the Ministry of Youth Development and Empowerment in the 2027 Budget to support young people's participation in the economy, with a…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "youth ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to remove funding cap, free up GH¢1bn for youth employment programmes – Ato Forson",
-      "link": "https://www.myjoyonline.com/govt-to-remove-funding-cap-free-up-gh%c2%a21bn-for-youth-employment-programmes-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:11:12.000Z",
-      "summary": "The government plans to free up an additional GH¢1 billion for youth employment and apprenticeship programmes by removing the cap on funding allocated to the initiatives.",
-      "categories": [
-        "Economy",
-        "National",
-        "Dr Cassiel Ato Forson",
-        "funding cap",
-        "Youth employment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
