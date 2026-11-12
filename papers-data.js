@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:09:13.956Z",
+  "updated": "2026-11-12T21:19:15.907Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,91 +21,113 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Government targets West Africa’s top spot for conferences, business tourism",
-      "link": "https://www.myjoyonline.com/government-targets-west-africas-top-spot-for-conferences-business-tourism/",
+      "title": "Government targets local production of up to 80% of essential medicines by 2030",
+      "link": "https://www.myjoyonline.com/government-targets-local-production-of-up-to-80-of-essential-medicines-by-2030/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T21:04:10.000Z",
-      "summary": "Government says it is targeting to make Ghana West Africa's leading destination for international conferences and business tourism as part of a US$1 billion investment in the tourism…",
+      "published": "2026-11-12T21:13:01.000Z",
+      "summary": "The government is planning to amend public procurement laws to ensure that state institutions prioritise medicines manufactured in Ghana when making purchases with public funds.",
       "categories": [
         "National",
-        "News",
-        "Ghana tourism",
-        "Tourism",
-        "West Africa"
+        "Medicines",
+        "Phamarmacies"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget: Gov’t targets school, grassroots sports development",
-      "link": "https://www.myjoyonline.com/2027-budget-govt-targets-school-grassroots-sports-development/",
+      "title": "Gov’t to exempt solar panels and batteries from import duties – Ato Forson",
+      "link": "https://www.myjoyonline.com/govt-to-exempt-solar-panels-and-batteries-from-import-duties-ato-forson/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T21:03:11.000Z",
-      "summary": "Government has announced plans to strengthen school and grassroots sports development as part of efforts to improve talent identification and create sustainable pathways for athletes in…",
+      "published": "2026-11-12T21:12:23.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to exempt solar panels and batteries from import duties and Value Added Tax (VAT) as part of efforts to reduce the cost of…",
       "categories": [
-        "Football",
-        "Sports",
-        "2027 Budget",
-        "Grassroots sports",
-        "School sports"
+        "In Focus",
+        "National",
+        "Batteries",
+        "Import Duties",
+        "Solar panels"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Public institutions to buy uniforms, hospital textiles exclusively from local manufacturers",
-      "link": "https://www.myjoyonline.com/public-institutions-to-buy-uniforms-hospital-textiles-exclusively-from-local-manufacturers/",
+      "title": "Ato Forson announces GH¢3.4bn for Gender Ministry, GH¢2.1bn for School Feeding Programme",
+      "link": "https://www.myjoyonline.com/ato-forson-announces-gh%c2%a23-4bn-for-gender-ministry-gh%c2%a22-1bn-for-school-feeding-programme/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T21:02:53.000Z",
-      "summary": "The government plans to require public institutions to purchase uniforms, hospital textiles, bedding and protective wear exclusively from Ghanaian textile and garment manufacturers as part…",
+      "published": "2026-11-12T21:11:56.000Z",
+      "summary": "The government has allocated GH¢3.4 billion to the Ministry of Gender, Children and Social Protection in the 2027 Budget to strengthen social protection programmes and support vulnerable…",
       "categories": [
         "National",
-        "News",
-        "Dr Casiel Ato Forson",
-        "Garments",
-        "hospital bedding",
-        "School uniforms",
-        "textile sector"
+        "Gender Ministry",
+        "School Feeding Programme"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana to ban raw manganese, bauxite exports by 2030 Finance Minister",
-      "link": "https://www.myjoyonline.com/ghana-to-ban-raw-manganese-bauxite-exports-by-2030-finance-minister/",
+      "title": "Gov’t to amend procurement laws to prioritise Made-in-Ghana uniforms, textiles – Ato Forson",
+      "link": "https://www.myjoyonline.com/govt-to-amend-procurement-laws-to-prioritise-made-in-ghana-uniforms-textiles-ato-forson/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T20:55:55.000Z",
-      "summary": "The government has announced plans to end the export of raw manganese and bauxite by 2030 as part of efforts to promote local processing and maximise the economic benefits of the country's…",
+      "published": "2026-11-12T21:11:06.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has said the government will amend the public procurement laws to compel public institutions to purchase uniforms, hospital textiles, bedding and…",
       "categories": [
         "National",
-        "Bauxite",
-        "Gold"
+        "GARMENT",
+        "Made-In Ghana",
+        "TEXTILE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gov’t projects GH¢389.2bn expenditure for 2027 – Finance Minister",
-      "link": "https://www.myjoyonline.com/govt-projects-gh%c2%a2389-2bn-expenditure-for-2027-finance-minister/",
+      "title": "Government to invest $300m in National AI Centre, upgrade rural 2G networks to 4G",
+      "link": "https://www.myjoyonline.com/government-to-invest-300m-in-national-ai-centre-upgrade-rural-2g-networks-to-4g/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T20:54:13.000Z",
-      "summary": "The government is targeting total expenditure of GH¢389.2 billion in 2027, with more than GH¢100 billion expected to go into capital projects as part of efforts to expand infrastructure and…",
+      "published": "2026-11-12T21:10:25.000Z",
+      "summary": "The government is expected to spend GH¢389.2 billion in the 2027 financial year, with substantial allocations directed towards infrastructure development, capital projects and key economic…",
       "categories": [
         "National",
-        "News",
-        "Top Story",
-        "Ato Forson",
-        "Government"
+        "4G network",
+        "AI",
+        "rural network"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ato Forson projects GH¢389.2bn expenditure, GH¢65.8bn deficit for 2027",
-      "link": "https://www.myjoyonline.com/ato-forson-projects-gh%c2%a2389-2bn-expenditure-gh%c2%a265-8bn-deficit-for-2027/",
+      "title": "Government pilots electronic bed management system to tackle no-bed syndrome",
+      "link": "https://www.myjoyonline.com/government-pilots-electronic-bed-management-system-to-tackle-no-bed-syndrome/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T20:54:13.000Z",
-      "summary": "The government is targeting total expenditure of GH¢389.2 billion in 2027, with more than GH¢100 billion expected to go into capital projects as part of efforts to expand infrastructure and…",
+      "published": "2026-11-12T21:10:01.000Z",
+      "summary": "The government is introducing an electronic bed management system to improve the coordination and availability of hospital beds, particularly in emergency units, as part of efforts to…",
+      "categories": [
+        "Health",
+        "National",
+        "Dr Cassiel Ato Forson",
+        "electronic bed management system",
+        "no-bed syndrome"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ato Forson announces GH¢2.26bn allocation to justice sector, NIA and Nsawam Prison",
+      "link": "https://www.myjoyonline.com/ato-forson-announces-gh%c2%a22-26bn-allocation-to-justice-sector-nia-and-nsawam-prison/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:09:53.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced a combined allocation of approximately GH¢2.26 billion to key institutions responsible for the administration of justice, legal…",
       "categories": [
         "National",
-        "News",
-        "Ato Forson",
-        "Government"
+        "Dr Cassiel Ato Forson",
+        "Justice sector"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government allocates GH¢10m for journalists’ welfare, training and investigative reporting",
+      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a210m-for-journalists-welfare-training-and-investigative-reporting/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:07:41.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced an allocation of GH¢10 million to support the welfare and professional development of journalists, as well as strengthen investigative…",
+      "categories": [
+        "National",
+        "investigative reporting",
+        "Journalists",
+        "Welfare"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -119,37 +141,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2027 Budget: Gov’t to leverage U-20 AFCON for sports infrastructure development",
-      "link": "https://www.myjoyonline.com/2027-budget-govt-to-leverage-u-20-afcon-for-sports-infrastructure-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:51:03.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to begin preparations to host the 2027 CAF Under-20 Africa Cup of Nations, which is expected to create opportunities for sports…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson",
-        "u-20 afcon"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
-      "link": "https://www.myjoyonline.com/government-to-invest-us1bn-in-textile-and-garment-industry-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:48:36.000Z",
-      "summary": "Government will invest US$1 billion to transform Ghana's textile and garment industry into a competitive manufacturing hub capable of supplying global fashion markets.",
-      "categories": [
-        "Business",
-        "HP Business 7",
-        "Investments",
-        "National",
-        "GARMENT",
-        "TEXTILE"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Two remanded over murder of Somanya woman who travelled to Oti to recover GH¢19,000 debt",
