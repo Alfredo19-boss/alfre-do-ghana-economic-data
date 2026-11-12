@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T16:06:11.114Z",
+  "updated": "2026-11-12T16:11:10.413Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 6/10 stories",
+    "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "President launches Ghana’s new Heritage Series cedi banknotes",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/president-launches-ghanas-new-heritage-series-cedi-banknotes/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T16:09:15.000Z",
+      "summary": "President John Dramani Mahama on Thursday launched the Bank of Ghana’s (BoG) upgraded Heritage Series banknotes at the Bank Square in Accra, describing the new currency as a symbol of…"
+    },
     {
       "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
       "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:31:42.000Z",
       "summary": "Speaking on the sidelines of the 2026 China (Guangxi)–ASEAN Mining Cooperation Conference in China on Friday, November 6, Mrs. Nelson presented Ghana’s mineral resource potential and…"
-    },
-    {
-      "title": "Businesses must strengthen corporate governance to attract investment – GIPA",
-      "link": "https://www.myjoyonline.com/businesses-must-strengthen-corporate-governance-to-attract-investment-gipa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:31:00.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, has urged local businesses to strengthen corporate governance, improve financial transparency…"
     }
   ]
 };
