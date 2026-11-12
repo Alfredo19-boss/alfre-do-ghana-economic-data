@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T07:37:10.960Z",
+  "updated": "2026-11-12T07:47:10.752Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Spintex Knights lose again in B’ball Africa League Elite 16 Stage",
+      "link": "https://ghanaiantimes.com.gh/spintex-knights-lose-again-in-bball-africa-league-elite-16-stage/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:42:08.000Z",
+      "summary": "FOR the second time in as many games, Ghana’s representative at the Basketball Africa League (BAL) Elite 16 stage, Spintex Knights, has missed out on a win. Knights lost 84-89 to JCA Kings…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bulls retain RLFG Men’s 13s title, Old Guard secure Diva Series",
+      "link": "https://ghanaiantimes.com.gh/bulls-retain-rlfg-mens-13s-title-old-guard-secure-diva-series/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:37:43.000Z",
+      "summary": "Defending champions, Bulls RLFC, retained their Rugby League Federation Ghana (RLFG) Men’s 13s Championship title with a 24–10 victory over Dragons RLFC in the final played at the…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Shirt pull on Isak should have been penalty – panel",
       "link": "https://ghanaiantimes.com.gh/shirt-pull-on-isak-should-have-been-penalty-panel/",
@@ -83,29 +105,6 @@ window.GDC_PAPERS = {
       "summary": "THE Green Africa Youth Organisation (GAYO) has urged young entrepreneurs to take advantage of the growing demand for environmentally friendly alternatives to plastics and other polluting…",
       "categories": [
         "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Eni Ghana pledges to deepen local content development",
-      "link": "https://ghanaiantimes.com.gh/eni-ghana-pledges-to-deepen-local-content-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:14:44.000Z",
-      "summary": "THE Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for Ghanaian businesses…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Turn human waste into economic resource — Deputy Minister",
-      "link": "https://ghanaiantimes.com.gh/turn-human-waste-into-economic-resource-deputy-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:10:15.000Z",
-      "summary": "THE Deputy Minister of Local Government, Chieftaincy and Religious Affairs, Ms Rita Odoley Sowah, has called for a shift in Ghana’s approach to sanitation management, urging the country to…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
