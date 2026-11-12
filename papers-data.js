@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T03:37:11.645Z",
+  "updated": "2026-11-12T04:27:11.273Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police seize 3,752 slabs of suspected Indian hemp at Ada",
+      "link": "https://www.myjoyonline.com/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T04:23:11.000Z",
+      "summary": "The Tema Regional Police Command has intercepted a canoe carrying 3,752 slabs of suspected Indian hemp during an intelligence-led operation on the Volta Lake at Ada in the Greater Accra…",
+      "categories": [
+        "News",
+        "arrest police",
+        "Indian hemp"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
       "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
@@ -112,20 +125,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Petras Anaab Ali",
         "Sawdust"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "9 in 10 sexual and gender minority people feared stigma in Ghana’s 2024 elections – Study finds",
-      "link": "https://www.myjoyonline.com/9-in-10-sexual-and-gender-minority-people-feared-stigma-in-ghanas-2024-elections-study-finds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T00:07:00.000Z",
-      "summary": "A study by Rightify Ghana says 94.3 per cent of the sexual and gender minority people it surveyed feared stigma and discrimination during Ghana’s 2024 elections.",
-      "categories": [
-        "News",
-        "Gender",
-        "Minority",
-        "Study"
       ],
       "site": "https://www.myjoyonline.com/"
     },

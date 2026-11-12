@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T03:36:40.382Z",
+  "updated": "2026-11-12T04:26:40.211Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Alliance urges farmers to plant more trees to protect cocoa farms following El Niño weather",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/alliance-urges-farmers-to-plant-more-trees-to-protect-cocoa-farms-following-el-nino-weather/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T04:23:45.000Z",
+      "summary": "Rainforest Alliance has urged cocoa farmers to increase tree cover on their farms to protect cocoa crops against excessive heat and other potential effects of the developing El Niño weather…"
+    },
     {
       "title": "120% collateral requirement shuts businesses out of credit — AGI",
       "link": "https://www.myjoyonline.com/120-collateral-requirement-shuts-businesses-out-of-credit-agi/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-09T17:17:28.000Z",
       "summary": "The Association of Ghana Industries (AGI) has called for a trade policy that requires foreign-owned shopping malls operating in Ghana to allocate a specified percentage of their shelf space…"
-    },
-    {
-      "title": "Two Ghanaian mothers win all-expenses-paid vacation as Nestlé NIDO concludes 3rd Obaatanpa Mo Promo",
-      "link": "https://www.myjoyonline.com/two-ghanaian-mothers-win-all-expenses-paid-vacation-as-nestle-nido-concludes-3rd-obaatanpa-mo-promo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T16:27:36.000Z",
-      "summary": "Apprey and Kasoa-based baker Gifty Antwi emerged as the grand prize winners, securing an all-expenses-paid family vacation to the tropical island of São Tomé, plus a £300 spending stipend…"
     }
   ]
 };
