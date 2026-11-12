@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T03:08:16.805Z",
+  "updated": "2026-11-12T03:18:16.283Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘Buyers have no money; we are sitting idle’ — Kantamanto trader",
+      "link": "https://www.myjoyonline.com/buyers-have-no-money-we-are-sitting-idle-kantamanto-trader/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T03:10:21.000Z",
+      "summary": "Traders at the Kantamanto Market in Accra are struggling to make sales as customers increasingly complain about a lack of money to buy goods, a situation that is putting pressure on…"
+    },
     {
       "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
       "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T15:40:00.000Z",
       "summary": "Projected economic losses from climate impacts range from 1% to 20% of gross domestic product by 2050 under current policies in the economies assessed"
-    },
-    {
-      "title": "WhiteBIT on Ghana’s Digital Asset Future: Moving from adoption to real-world utility",
-      "link": "https://www.myjoyonline.com/whitebit-on-ghanas-digital-asset-future-moving-from-adoption-to-real-world-utility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T15:26:14.000Z",
-      "summary": "As Ghana advances its regulatory framework for digital assets, the global cryptocurrency exchange outlined potential applications of blockchain technology at AVAS 2026. WhiteBIT, a global…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T03:08:47.463Z",
+  "updated": "2026-11-12T03:18:47.536Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Buyers have no money; we are sitting idle’ — Kantamanto trader",
+      "link": "https://www.myjoyonline.com/buyers-have-no-money-we-are-sitting-idle-kantamanto-trader/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T03:10:21.000Z",
+      "summary": "Traders at the Kantamanto Market in Accra are struggling to make sales as customers increasingly complain about a lack of money to buy goods, a situation that is putting pressure on…",
+      "categories": [
+        "Business",
+        "Kantamanto"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
       "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
@@ -118,26 +130,6 @@ window.GDC_PAPERS = {
         "Ablekuma West",
         "NPP",
         "Roni Nicol"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
-      "link": "https://www.myjoyonline.com/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T23:20:20.000Z",
-      "summary": "Kumasi, Ghana — Ghanaian author and media executive Jimmy Aglah is taking the national conversation on illegal mining, environmental destruction and responsible citizenship into the…",
-      "categories": [
-        "Books",
-        "Education",
-        "National",
-        "News",
-        "Galamsey",
-        "Ghana",
-        "Jimmy Aglah",
-        "NaCCA",
-        "National Council for Curriculum and Assessment",
-        "When the River Testified"
       ],
       "site": "https://www.myjoyonline.com/"
     },
