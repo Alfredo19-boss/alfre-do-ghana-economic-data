@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:36:41.319Z",
+  "updated": "2026-11-12T17:46:40.807Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Adu-Boahene’s lawyer hints at appeal, says court ruling has ‘gaping hole’",
+      "link": "https://www.myjoyonline.com/adu-boahenes-lawyer-hints-at-appeal-says-court-ruling-has-gaping-hole/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:37:46.000Z",
+      "summary": "Lawyer for former National Signals Bureau (NSB) Director-General, Kwabena Adu-Boahene, Samuel Atta Akyea, says the defence has sufficient grounds to challenge the court's decision ordering…",
+      "categories": [
+        "Crime",
+        "National",
+        "Politics",
+        "Adu Boahene",
+        "Atta Akyea",
+        "National Signals Bureau"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketiah says port investments key to Ghana’s trade and job creation",
+      "link": "https://www.myjoyonline.com/asiedu-nketiah-says-port-investments-key-to-ghanas-trade-and-job-creation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:32:25.000Z",
+      "summary": "National Democratic Congress (NDC) National Chairman and Board Chairman of the Ghana Ports and Harbours Authority (GPHA), Johnson Asiedu Nketiah, says investments in port infrastructure are…",
+      "categories": [
+        "National",
+        "Johnson Asiedu Nketiah",
+        "Takoradi Port projects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Austin Gamey questions claims of massive youth unemployment in Ghana",
       "link": "https://www.myjoyonline.com/austin-gamey-questions-claims-of-massive-youth-unemployment-in-ghana/",
@@ -114,34 +143,6 @@ window.GDC_PAPERS = {
         "Economy",
         "National",
         "Social Enterprise Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra High wins Greater Accra NHIS inter-school quiz",
-      "link": "https://www.myjoyonline.com/accra-high-wins-greater-accra-nhis-inter-school-quiz/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:08:34.000Z",
-      "summary": "Accra High School has emerged winner of the Greater Accra Regional National Health Insurance Scheme (NHIS) Inter-School Quiz Competition, organised by the National Health Insurance…",
-      "categories": [
-        "Education",
-        "National",
-        "Accra High School",
-        "NHIS Inter-School Quiz Competition"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manso Adubia NDC executives demand NAIMOS withdrawal pending probe into Manso Kaniago deaths",
-      "link": "https://www.myjoyonline.com/manso-adubia-ndc-executives-demand-naimos-withdrawal-pending-probe-into-manso-kaniago-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:05:59.000Z",
-      "summary": "The National Democratic Congress (NDC) executives in the Manso Adubia Constituency are demanding the immediate withdrawal of operatives of the National Anti-Illegal Mining Operations…",
-      "categories": [
-        "Regional",
-        "Manso Kaniago shooting",
-        "NAIMOS",
-        "NDC Constituency Executives"
       ],
       "site": "https://www.myjoyonline.com/"
     },
