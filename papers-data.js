@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:21:39.913Z",
+  "updated": "2026-11-12T15:31:40.462Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Learn about the 8 personalities, landmarks, and symbols featured on the new Heritage Cedi notes",
+      "link": "https://www.myjoyonline.com/learn-about-the-8-personalities-landmarks-and-symbols-featured-on-the-new-heritage-cedi-notes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:25:31.000Z",
+      "summary": "From Ghana's first President, Dr Kwame Nkrumah, featured on the GH¢200 note, to renowned Accra market trader Agnes Oforiwa Tagoe-Quarcoopome on the GH¢1 note, the Bank of Ghana's new…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "News",
+        "Heritage banknote",
+        "landmarks",
+        "personalities",
+        "symbols"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Crack the whip on narcotics trafficking and restore Ghana’s image – Ntim Fordjour to Mahama",
+      "link": "https://www.myjoyonline.com/crack-the-whip-on-narcotics-trafficking-and-restore-ghanas-image-ntim-fordjour-to-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:21:33.000Z",
+      "summary": "The Ranking Member on Parliament’s Defence and Interior Committee, Rev. John Ntim Fordjour, has challenged President John Dramani Mahama to take decisive action against narcotics…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Mahama",
+        "Ntim Fordjour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akufo-Addo to lead 200-member ECOWAS team for Nigeria's 2027 elections",
+      "link": "https://www.graphic.com.gh/news/politics/akufo-addo-to-lead-200-member-ecowas-team-for-nigerias-2027-elections.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T15:16:25.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open their defence",
       "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-their-defence/",
@@ -129,34 +171,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Health Ministry warns public against fraudulent Mercy Ships fundraising campaign",
-      "link": "https://www.myjoyonline.com/health-ministry-warns-public-against-fraudulent-mercy-ships-fundraising-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:51:13.000Z",
-      "summary": "The Ministry of Health has warned the public against a fraudulent fundraising campaign being aired on some Ghanaian television stations, which falsely solicits money from people seeking…",
-      "categories": [
-        "Health",
-        "National",
-        "Health Ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Akufo-Addo appointed head of ECOWAS observer mission for Nigeria’s 2027 elections",
-      "link": "https://www.myjoyonline.com/akufo-addo-appointed-head-of-ecowas-observer-mission-for-nigerias-2027-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:47:07.000Z",
-      "summary": "Former President Nana Addo Dankwa Akufo-Addo will lead a 200-member ECOWAS Election Observation Mission to Nigeria ahead of the country’s January 16, 2027, general elections.",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Akufo-Addo",
-        "ECOWAS",
-        "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
       "source": "Daily Graphic",
@@ -205,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/bank-of-ghana-launches-upgraded-cedi-notes-with-enhanced-security-national-symbols.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T11:03:05.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ensure NHIS patients do not pay extra fees for covered services - GHS to hospitals",
-      "link": "https://www.graphic.com.gh/news/general-news/ghs-orders-health-facilities-to-stop-extra-charges-for-nhis-services.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T09:56:10.000Z",
       "summary": "",
       "categories": [
         "General News"
