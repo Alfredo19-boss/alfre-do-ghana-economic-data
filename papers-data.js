@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:11:40.467Z",
+  "updated": "2026-11-12T13:21:42.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Take a look at the new Ghana cedi notes introduced by the Bank of Ghana",
+      "link": "https://www.myjoyonline.com/take-a-look-at-the-new-ghana-cedi-notes-introduced-by-the-bank-of-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:19:17.000Z",
+      "summary": "The Bank of Ghana has introduced upgraded Ghana cedi banknotes with enhanced security features, improved durability, and more convenient, portable sizes.",
+      "categories": [
+        "Banking and Finance",
+        "HP News 1",
+        "National",
+        "News",
+        "Photo Story",
+        "Bank of Ghana",
+        "new Ghana cedi notes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIPA CEO challenges private sector to demand accountability from public institutions",
+      "link": "https://www.myjoyonline.com/gipa-ceo-challenges-private-sector-to-demand-accountability-from-public-institutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:18:10.000Z",
+      "summary": "According to him, businesses should not tolerate unnecessary bureaucratic delays, particularly when they have fulfilled all the requirements for services to be delivered within stipulated…",
+      "categories": [
+        "Business",
+        "Economy",
+        "GIPA",
+        "SIGA",
+        "Simon Madjie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government may turn to alternative bitumen suppliers if GoEnergy fails to deliver – Agbodza",
+      "link": "https://www.myjoyonline.com/government-may-turn-to-alternative-bitumen-suppliers-if-goenergy-fails-to-deliver-agbodza/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:15:22.000Z",
+      "summary": "The Minister of Roads and Highways, Governs Kwame Agbodza, has urged GoEnergy Company Limited (GOE), a wholly owned subsidiary of Goil Plc, to ensure a consistent and timely supply of…",
+      "categories": [
+        "News",
+        "Bitumen",
+        "GoEnergy Company Limited",
+        "Roads Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Beauty Narteh elected first African woman to co-chair global anti-corruption coalition",
       "link": "https://www.myjoyonline.com/beauty-narteh-elected-first-african-woman-to-co-chair-global-anti-corruption-coalition/",
@@ -97,51 +143,6 @@ window.GDC_PAPERS = {
         "John Mahama",
         "Local Content",
         "upstream"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manso Keniago clash death toll rises to six, 15 injured",
-      "link": "https://www.myjoyonline.com/manso-keniago-clash-death-toll-rises-to-six-15-injured/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:56:43.000Z",
-      "summary": "The death toll from the confrontation between residents of Manso Keniago in the Amansie South District of the Ashanti Region and personnel of the National Anti-Illegal Mining Operations…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Clash",
-        "Manso Keniago",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey would be worse without NAIMOS operations — Paa Kwesi Schandorf",
-      "link": "https://www.myjoyonline.com/galamsey-would-be-worse-without-naimos-operations-paa-kwesi-schandorf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:55:01.000Z",
-      "summary": "The Spokesperson for the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Paa Kwesi Schandorf, has defended the impact of the government's anti-galamsey operations, insisting…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "NAIMOS",
-        "Paa Kwesi Schandorf"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama links cedi stability to $10bn New Economy Programme",
-      "link": "https://www.myjoyonline.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:52:00.000Z",
-      "summary": "President John Dramani Mahama says government’s proposed $10 billion, four-year New Economy Programme will be central to efforts to strengthen the Ghana cedi and build a more resilient…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Economy",
-        "HP Business 3",
-        "Ghana Cedi Heritage Series",
-        "President John Dramani Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T13:11:10.325Z",
+  "updated": "2026-11-12T13:21:13.993Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,13 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "GIPA CEO challenges private sector to demand accountability from public institutions",
+      "link": "https://www.myjoyonline.com/gipa-ceo-challenges-private-sector-to-demand-accountability-from-public-institutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:18:10.000Z",
+      "summary": "According to him, businesses should not tolerate unnecessary bureaucratic delays, particularly when they have fulfilled all the requirements for services to be delivered within stipulated…"
+    },
+    {
       "title": "BoG to Keep Existing Cedi Notes in Circulation Alongside New Heritage Series",
       "link": "https://thehighstreetjournal.com/bog-to-keep-existing-cedi-notes-in-circulation-alongside-new-heritage-series/",
       "source": "The High Street Journal",
@@ -31,6 +38,13 @@ window.GDC_NEWS = {
     {
       "title": "BoG to roll out nationwide education campaign on new Heritage Series banknotes",
       "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-education-campaign-on-new-heritage-series-banknotes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:03:01.000Z",
+      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
+    },
+    {
+      "title": "BoG to roll out nationwide sensitisation campaign on new Heritage Series banknotes",
+      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-sensitisation-campaign-on-new-heritage-series-banknotes/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:03:01.000Z",
       "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T11:40:20.000Z",
       "summary": "The proposed Women’s Development Bank has submitted an application to the Bank of Ghana (BoG) for a banking licence, marking a major step towards its establishment. Vice President Professor…"
-    },
-    {
-      "title": "Farmers Seek 15% Budget Allocation as Rising Production Costs Threaten Ghana’s Food Security",
-      "link": "https://thehighstreetjournal.com/farmers-seek-15-budget-allocation-as-rising-production-costs-threaten-ghanas-food-security/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T11:34:00.000Z",
-      "summary": "Kadjebi farmers want at least 15% of the 2027 national budget allocated to agriculture, citing financing gaps, rising production costs and inadequate irrigation infrastructure as threats to…"
-    },
-    {
-      "title": "After a Troubling Spell of Fuel Price Hikes, Prices Are Generally Falling – But Will It Last?",
-      "link": "https://thehighstreetjournal.com/after-a-troubling-spell-of-fuel-price-hikes-prices-are-generally-falling-but-will-it-last/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T10:46:00.000Z",
-      "summary": "After months of painful fuel price hikes, Star Oil and JP have reduced petrol and diesel prices, offering relief to Ghanaians. But global oil prices and cedi volatility threaten the…"
     }
   ]
 };
