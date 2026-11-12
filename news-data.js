@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T12:51:11.535Z",
+  "updated": "2026-11-12T13:01:10.531Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama links cedi stability to $10bn New Economy Programme",
+      "link": "https://www.myjoyonline.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:52:00.000Z",
+      "summary": "President John Dramani Mahama says government’s proposed $10 billion, four-year New Economy Programme will be central to efforts to strengthen the Ghana cedi and build a more resilient…"
+    },
     {
       "title": "BoG Unveils New Cedi Notes with Stronger Security and Improved Durability",
       "link": "https://thehighstreetjournal.com/bog-unveils-new-cedi-notes-with-stronger-security-and-improved-durability/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T09:31:00.000Z",
       "summary": "Ghana's 2027 fiscal outlook faces risks from financially distressed state-owned enterprises and volatile commodity prices, threatening government revenue, expenditure management and efforts…"
-    },
-    {
-      "title": "DFC Targets African Investment Gaps With Expanded $205bn Financing Capacity",
-      "link": "https://thehighstreetjournal.com/dfc-targets-african-investment-gaps-with-expanded-205bn-financing-capacity/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T09:14:39.000Z",
-      "summary": "The DFC plans to deploy up to $205 billion over five years, targeting critical minerals, energy, transport, and other sectors while mobilising private capital for African development."
     }
   ]
 };

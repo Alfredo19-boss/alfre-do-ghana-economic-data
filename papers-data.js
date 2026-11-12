@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T12:51:40.964Z",
+  "updated": "2026-11-12T13:01:41.411Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,88 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Tensions rise in Manso Keniago as angry youth confront chief, accuse DCE over six deaths",
+      "link": "https://www.myjoyonline.com/tensions-rise-in-manso-keniago-as-angry-youth-confront-chief-accuse-dce-over-six-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:00:12.000Z",
+      "summary": "Angry youth at Manso Keniago in the Ashanti Region have besieged the palace of the paramount chief and nearly attacked the District Chief Executive (DCE) following the deadly confrontation…",
+      "categories": [
+        "National",
+        "News",
+        "Regional",
+        "Galamsey",
+        "Illegal mining",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eni Ghana pledges more opportunities for local firms in upstream sector",
+      "link": "https://www.myjoyonline.com/eni-ghana-pledges-more-opportunities-for-local-firms-in-upstream-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:59:03.000Z",
+      "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manso Keniago clash death toll rises to six, 15 injured",
+      "link": "https://www.myjoyonline.com/manso-keniago-clash-death-toll-rises-to-six-15-injured/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:56:43.000Z",
+      "summary": "The death toll from the confrontation between residents of Manso Keniago in the Amansie South District of the Ashanti Region and personnel of the National Anti-Illegal Mining Operations…",
+      "categories": [
+        "National",
+        "Clash",
+        "Manso Keniago",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey would be worse without NAIMOS operations — Paa Kwesi Schandorf",
+      "link": "https://www.myjoyonline.com/galamsey-would-be-worse-without-naimos-operations-paa-kwesi-schandorf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:55:01.000Z",
+      "summary": "The Spokesperson for the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Paa Kwesi Schandorf, has defended the impact of the government's anti-galamsey operations, insisting…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "NAIMOS",
+        "Paa Kwesi Schandorf"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama links cedi stability to $10bn New Economy Programme",
+      "link": "https://www.myjoyonline.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:52:00.000Z",
+      "summary": "President John Dramani Mahama says government’s proposed $10 billion, four-year New Economy Programme will be central to efforts to strengthen the Ghana cedi and build a more resilient…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Economy",
+        "HP Business 3",
+        "Ghana Cedi Heritage Series",
+        "President John Dramani Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Old cedi notes remain legal tender — BoG sets December 1 rollout for Heritage Series",
+      "link": "https://www.graphic.com.gh/news/general-news/old-cedi-notes-remain-legal-tender-bog-sets-december-1-rollout-for-heritage-series.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T12:51:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Two children die in midnight bus crash at Kwameprakrom",
       "link": "https://www.myjoyonline.com/two-children-die-in-midnight-bus-crash-at-kwameprakrom/",
@@ -65,80 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "DNA test leads Toronto performer to 35 half-siblings",
-      "link": "https://www.myjoyonline.com/dna-test-leads-toronto-performer-to-35-half-siblings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:38:57.000Z",
-      "summary": "A DNA test bought on sale led to a discovery that would change one Toronto performer’s understanding of his family and eventually inspire a musical. At 31, Noam Tomaschoff learned that the…",
-      "categories": [
-        "International",
-        "DNA Test",
-        "Noam Tomaschoff",
-        "Our little secret"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana to open Beach Soccer AFCON against hosts Senegal on November 28",
-      "link": "https://www.myjoyonline.com/ghana-to-open-beach-soccer-afcon-against-hosts-senegal-on-november-28/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:35:15.000Z",
-      "summary": "The team will later play Mozambique on Tuesday, December 1, 2026, before wrapping up their Group stage campaign against Uganda on Wednesday, December 2, 2026.",
-      "categories": [
-        "Football",
-        "2027 Beach Soccer AFCON",
-        "Black Sharks"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Oti Regional Minister Joshua Makubu declares intention to contest NPP parliamentary primaries in Nkwanta South",
-      "link": "https://www.myjoyonline.com/former-oti-regional-minister-joshua-makubu-declares-intention-to-contest-npp-parliamentary-primaries-in-nkwanta-south/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:34:40.000Z",
-      "summary": "Former Oti Regional Minister, Dr Joshua Makubu, has declared his intention to contest the New Patriotic Party's (NPP) parliamentary primaries in Nkwanta South constituency to secure the…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Nkwanta South",
-        "NPP",
-        "Oti Regional Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama unveils new Cedi Heritage banknotes ahead of December 1 circulation",
-      "link": "https://www.myjoyonline.com/president-mahama-unveils-new-cedi-heritage-banknotes-ahead-of-december-1-circulation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:29:41.000Z",
-      "summary": "President John Dramani Mahama has unveiled the Bank of Ghana’s upgraded Cedi Heritage Series, marking a new chapter in the modernisation of Ghana’s national currency. The unveiling took…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "circulation",
-        "December",
-        "Heritage Series banknotes",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The $50,000 Passport Monster: How NPP built a syndicate, left it in Foreign Affairs, and now wants Ablakwa to carry it",
-      "link": "https://www.myjoyonline.com/the-50000-passport-monster-how-npp-built-a-syndicate-left-it-in-foreign-affairs-and-now-wants-ablakwa-to-carry-it/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:24:12.000Z",
-      "summary": "It is rather interesting how, every now and then, the NPP seems determined to find fault with Samuel Okudzeto Ablakwa, almost at all costs. Today, I particularly appreciated the submission…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Ablakwa",
-        "Foreign Affairs",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Bank of Ghana launches upgraded Cedi notes with enhanced security, national symbols",
       "link": "https://www.graphic.com.gh/news/general-news/bank-of-ghana-launches-upgraded-cedi-notes-with-enhanced-security-national-symbols.html",
       "source": "Daily Graphic",
@@ -172,6 +180,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Chief of Staff urges public servants to improve service delivery",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chief-of-staff-urges-public-servants-to-improve-service-delivery.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:49:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "President Mahama receives credentials of 11 Envoys",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-receives-credentials-of-11-envoys.html",
       "source": "Daily Graphic",
@@ -198,28 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-offer-bold-policies-to-stimulate-growth-agi-gncci-guta-to-govt.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T08:30:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Agbodza reprimands contractor over delays on Eastern Corridor road",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-agbodza-reprimands-contractor-over-delays-on-eastern-corridor-road.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:22:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Prioritise safety in construction - Housing Minister advises",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prioritise-safety-in-construction-housing-minister-advises.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:15:32.000Z",
       "summary": "",
       "categories": [
         "General News"
