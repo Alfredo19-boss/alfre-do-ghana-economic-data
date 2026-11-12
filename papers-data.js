@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T05:37:11.068Z",
+  "updated": "2026-11-12T05:47:11.295Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,49 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Spain seizes 2,600 kilos of cocaine at port of Valencia hidden in Ghana coconut shipment",
+      "title": "Six MDs in eight years weakened TOR – Managing Director",
+      "link": "https://www.myjoyonline.com/six-mds-in-eight-years-weakened-tor-managing-director/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T05:41:12.000Z",
+      "summary": "Frequent changes at the top of the Tema Oil Refinery (TOR) during the eight years of the previous administration undermined management stability and made it difficult to address the…",
+      "categories": [
+        "News",
+        "Crude",
+        "Oil",
+        "TOR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Facing our past and shaping our future together – British High Commissioner to Ghana Dr. Christian Rogg writes",
+      "link": "https://www.myjoyonline.com/facing-our-past-and-shaping-our-future-together-british-high-commissioner-to-ghana-dr-christian-rogg-writes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T05:36:52.000Z",
+      "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
+      "categories": [
+        "News",
+        "British",
+        "Dr. Christian Rogg",
+        "Ghasna"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
+      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T05:33:43.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
+      "categories": [
+        "Business",
+        "Bank",
+        "Interest",
+        "Loan"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain seizes 2,600 kilos of cocaine at port of Valencia hidden in Ghana coconut shipment, 2 people arrested",
       "link": "https://www.graphic.com.gh/news/general-news/2-600-kilos-of-cocaine-seized-at-the-port-of-valencia.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T04:54:37.000Z",
@@ -55,17 +97,6 @@ window.GDC_PAPERS = {
         "News",
         "arrest police",
         "Indian hemp"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
-      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T03:33:43.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
-      "categories": [
-        "Business"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -106,34 +137,6 @@ window.GDC_PAPERS = {
         "Business",
         "Kantamanto",
         "Trader"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
-      "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T01:29:00.000Z",
-      "summary": "The Chief Executive Officer of Dedeyao Farms, Daniel Asimadi, has called on the government to provide stronger financial and institutional support to farmers, warning that commercial…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Agric",
-        "Farm"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lack of infrastructure hampers teaching and learning at Seikwa Presbyterian School",
-      "link": "https://www.myjoyonline.com/lack-of-infrastructure-hampers-teaching-and-learning-at-seikwa-presbyterian-school/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T00:47:18.000Z",
-      "summary": "The Headmistress of Seikwa Presbyterian Primary School, Ruth Adamptey, has appealed to the government, community members, and benevolent organisations to help the school address critical…",
-      "categories": [
-        "Education",
-        "News",
-        "Clinic",
-        "Gold"
       ],
       "site": "https://www.myjoyonline.com/"
     },

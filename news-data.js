@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T05:36:44.431Z",
+  "updated": "2026-11-12T05:46:39.894Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T05:35:19.000Z",
       "summary": "Policy Analyst Alfred Appiah wants government to clarify the relationship between the 24-hour economy and GH¢10 billion New Economy programme, questioning institutional responsibility…"
+    },
+    {
+      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
+      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T05:33:43.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…"
     },
     {
       "title": "Agro-Processing Backed By Deliberate Gov’t Procurement: Ghana’s Practical Route to Industrialisation",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T00:35:00.000Z",
       "summary": "Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang's ties to a suspected Chinese spy."
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss’s affair with alleged Chinese spy",
-      "link": "https://www.myjoyonline.com/trump-says-fbi-investigating-nvidia-bosss-affair-with-alleged-chinese-spy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T23:43:00.000Z",
-      "summary": "Donald Trump has said the FBI is investigating the affair between the boss of Nvidia and an alleged Chinese spy."
     }
   ]
 };
