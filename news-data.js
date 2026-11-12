@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T05:16:40.611Z",
+  "updated": "2026-11-12T05:36:44.431Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget: Fate of 24-Hour Economy Comes into Question Amid GH¢10bn New Economy Programme",
+      "link": "https://thehighstreetjournal.com/2027-budget-fate-of-24-hour-economy-comes-into-question-amid-gh%c2%a210bn-new-economy-programme/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T05:35:19.000Z",
+      "summary": "Policy Analyst Alfred Appiah wants government to clarify the relationship between the 24-hour economy and GH¢10 billion New Economy programme, questioning institutional responsibility…"
+    },
     {
       "title": "Agro-Processing Backed By Deliberate Gov’t Procurement: Ghana’s Practical Route to Industrialisation",
       "link": "https://thehighstreetjournal.com/agro-processing-backed-by-deliberate-govt-procurement-ghanas-practical-route-to-industrialisation/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T23:43:00.000Z",
       "summary": "Donald Trump has said the FBI is investigating the affair between the boss of Nvidia and an alleged Chinese spy."
-    },
-    {
-      "title": "Nvidia shares tumble over investigation into Huang’s affair with alleged Chinese spy",
-      "link": "https://www.myjoyonline.com/nvidia-shares-tumble-over-investigation-into-huangs-affair-with-alleged-chinese-spy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T21:36:00.000Z",
-      "summary": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair…"
     }
   ]
 };

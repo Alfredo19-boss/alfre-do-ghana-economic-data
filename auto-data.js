@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-12T04:43:54.247Z",
+  "updated": "2026-11-12T05:43:54.417Z",
   "values": {
     "fx.usd": {
       "value": 11.68,
@@ -390,6 +390,14 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-11-12T05:43:54.417Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
+    {
       "at": "2026-11-12T04:43:54.247Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -492,15 +500,6 @@ window.GDC_AUTO = {
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
         "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-11-11T15:58:45.822Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok",
-        "kept newer gold.usdPerOz from 2026-11-11"
       ]
     }
   ]
