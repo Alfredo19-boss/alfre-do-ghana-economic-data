@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:24:15.049Z",
+  "updated": "2026-11-12T21:29:15.994Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GH¢900m set aside for district elections, constitutional referendum in 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/ghc900m-set-aside-for-district-elections-constitutional-referendum-in-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T21:27:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Teacher trainees, BECE candidates and basic schools get GH¢562m in 2027 Budget",
+      "link": "https://www.myjoyonline.com/teacher-trainees-bece-candidates-and-basic-schools-get-gh%c2%a2562m-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:26:54.000Z",
+      "summary": "The government has allocated a combined GH¢562 million to support teacher trainee allowances, Basic Education Certificate Examination (BECE) fees and the Capitation Grant in the 2027 Budget.",
+      "categories": [
+        "Education",
+        "National",
+        "BECE",
+        "Capitation grant",
+        "Teacher trainee allowances"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to establish convention bureau in 2027 to attract global conferences – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghana-to-establish-convention-bureau-in-2027-to-attract-global-conferences-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:25:33.000Z",
+      "summary": "The Finance Minister, Dr Cassiel Ato Forson, says the government will establish a professional convention bureau in 2027 to attract and secure recurring African and global conferences as…",
+      "categories": [
+        "National",
+        "convention bureau",
+        "Dr Cassiel Ato Forson",
+        "global conferences"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Owabi water treatment plant shut down after heavy rains disrupt production",
       "link": "https://www.myjoyonline.com/owabi-water-treatment-plant-shut-down-after-heavy-rains-disrupt-production/",
@@ -40,6 +80,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T21:17:35.000Z",
       "summary": "An aspiring NDC General Secretary, Stephen Donkor, has taken the party and its Director of Elections and IT, Mahdi Gibrill, to court over his exclusion from the list of successful nominees…",
       "categories": [
+        "HP News 8",
         "National",
         "News",
         "Politics",
@@ -99,34 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "Gender Ministry",
         "School Feeding Programme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to amend procurement laws to prioritise Made-in-Ghana uniforms, textiles – Ato Forson",
-      "link": "https://www.myjoyonline.com/govt-to-amend-procurement-laws-to-prioritise-made-in-ghana-uniforms-textiles-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:11:06.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has said the government will amend the public procurement laws to compel public institutions to purchase uniforms, hospital textiles, bedding and…",
-      "categories": [
-        "National",
-        "GARMENT",
-        "Made-In Ghana",
-        "TEXTILE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to invest $300m in National AI Centre, upgrade rural 2G networks to 4G",
-      "link": "https://www.myjoyonline.com/government-to-invest-300m-in-national-ai-centre-upgrade-rural-2g-networks-to-4g/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:10:25.000Z",
-      "summary": "The government is expected to spend GH¢389.2 billion in the 2027 financial year, with substantial allocations directed towards infrastructure development, capital projects and key economic…",
-      "categories": [
-        "National",
-        "4G network",
-        "AI",
-        "rural network"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -278,17 +291,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gov’t to expand Cylinder Recirculation Model nationwide – Jinapor",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-to-expand-cylinder-recirculation-model-nationwide-jinapor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T16:11:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "At COP31: Ghana pushes for bankable China-Africa green projects",
