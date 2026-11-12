@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T12:11:41.014Z",
+  "updated": "2026-11-12T12:21:41.658Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Protect, value and take pride in the cedi’ – Dr Asiama urges Ghanaians",
+      "link": "https://www.myjoyonline.com/protect-value-and-take-pride-in-the-cedi-dr-asiama-urges-ghanaians/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:16:58.000Z",
+      "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has urged Ghanaians to protect, value and take pride in the cedi, describing the national currency as a symbol of the country's…",
+      "categories": [
+        "National",
+        "Cedi",
+        "Dr Asiama",
+        "Heritage Series banknotes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The New economy budget: Will Ghana finally build growth that lasts?",
       "link": "https://www.myjoyonline.com/the-new-economy-budget-will-ghana-finally-build-growth-that-lasts/",
@@ -130,21 +144,6 @@ window.GDC_PAPERS = {
         "Bank of Ghana",
         "Dr Johnson Pandit Asiama",
         "Heritage Series banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Who is checking our Ports?– Dr Frank Bannor questions security amid latest cocaine seizure",
-      "link": "https://www.myjoyonline.com/who-is-checking-our-ports-dr-frank-bannor-questions-security-amid-latest-cocaine-seizure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:23:24.000Z",
-      "summary": "The New Patriotic Party's (NPP) Spokesperson on Economy and Finance, Dr Frank Bannor, has raised serious concerns about Ghana's port security and cargo-screening systems following the…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Cociane",
-        "NPP Spokesperson",
-        "Tema Ports"
       ],
       "site": "https://www.myjoyonline.com/"
     },
