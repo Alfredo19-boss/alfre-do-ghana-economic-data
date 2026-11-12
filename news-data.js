@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T16:01:11.445Z",
+  "updated": "2026-11-12T16:06:11.114Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
+      "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:00:14.000Z",
+      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, has called for stronger institutional coordination and clearly defined regulatory responsibilities to…"
+    },
     {
       "title": "Adu-Boahene to Open Defence on Nine Counts as High Court Acquits Him on Two",
       "link": "https://thehighstreetjournal.com/adu-boahene-to-open-defence-on-nine-counts-as-high-court-acquits-him-on-two/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:31:00.000Z",
       "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, has urged local businesses to strengthen corporate governance, improve financial transparency…"
-    },
-    {
-      "title": "Mahama announces new offshore oil discovery in Deepwater Cape Three Points block",
-      "link": "https://www.myjoyonline.com/mahama-announces-new-offshore-oil-discovery-in-deepwater-cape-three-points-block/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:18:50.000Z",
-      "summary": "President John Dramani Mahama has announced a new hydrocarbon discovery in the Deepwater Cape Three Points block in the Tano Basin, offshore Ghana. The discovery was made by Planet 1 Oil…"
     }
   ]
 };

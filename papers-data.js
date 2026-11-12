@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T16:02:04.800Z",
+  "updated": "2026-11-12T16:06:42.050Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Naa Puowele Karbo III",
+      "link": "https://www.myjoyonline.com/naa-puowele-karbo-iii/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:05:28.000Z",
+      "summary": "The Head of the Binne-Karbo Royal Family, the Ajapisim Family of Wiaga, the Hon. Upper West Regional Minister – Hon. Charles Lwanga Puozuing, Esq., the Lawra Municipal Chief Executive –…",
+      "categories": [
+        "Obituary",
+        "Naa Puowele Karbo III"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
       "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
@@ -136,17 +148,6 @@ window.GDC_PAPERS = {
         "Acquitted",
         "Adu Boahene",
         "court"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open defences",
-      "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-defences/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:08:11.000Z",
-      "summary": "The Accra High Court has given former National Signals Bureau (NSB) Director-General Kwabena Adu-Boahene and his wife, Angela Adjei-Boateng, three weeks to file witness statements if they…",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
