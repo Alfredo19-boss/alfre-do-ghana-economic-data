@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:06:41.460Z",
+  "updated": "2026-11-12T17:16:42.149Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra High wins Greater Accra NHIS inter-school quiz",
+      "link": "https://www.myjoyonline.com/accra-high-wins-greater-accra-nhis-inter-school-quiz/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:08:34.000Z",
+      "summary": "Accra High School has emerged winner of the Greater Accra Regional National Health Insurance Scheme (NHIS) Inter-School Quiz Competition, organised by the National Health Insurance…",
+      "categories": [
+        "Education",
+        "National",
+        "Accra High School",
+        "NHIS Inter-School Quiz Competition"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manso Adubia NDC executives demand NAIMOS withdrawal pending probe into Manso Kaniago deaths",
+      "link": "https://www.myjoyonline.com/manso-adubia-ndc-executives-demand-naimos-withdrawal-pending-probe-into-manso-kaniago-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:05:59.000Z",
+      "summary": "The National Democratic Congress (NDC) executives in the Manso Adubia Constituency are demanding the immediate withdrawal of operatives of the National Anti-Illegal Mining Operations…",
+      "categories": [
+        "Regional",
+        "Manso Kaniago shooting",
+        "NAIMOS",
+        "NDC Constituency Executives"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GES Interdicts two Aduman SHS teachers over alleged sexual misconduct against male student",
       "link": "https://ghanaiantimes.com.gh/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-against-male-student/",
@@ -189,33 +217,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Naa Puowele Karbo III",
-      "link": "https://www.myjoyonline.com/naa-puowele-karbo-iii/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:05:28.000Z",
-      "summary": "The Head of the Binne-Karbo Royal Family, the Ajapisim Family of Wiaga, the Hon. Upper West Regional Minister – Hon. Charles Lwanga Puozuing, Esq., the Lawra Municipal Chief Executive –…",
-      "categories": [
-        "Obituary",
-        "Naa Puowele Karbo III"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
-      "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:00:14.000Z",
-      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, has called for stronger institutional coordination and clearly defined regulatory responsibilities to…",
-      "categories": [
-        "Energy",
-        "National",
-        "Godwin Kudzo Tameklo",
-        "National Petroleum Authority (NPA)",
-        "petroleum value chain"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Akufo-Addo to lead 200-member ECOWAS team for Nigeria's 2027 elections",
