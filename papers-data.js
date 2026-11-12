@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:29:15.994Z",
+  "updated": "2026-11-12T21:34:16.272Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Volta NDC urges Minority to stop attempts to smear Ablakwa with scandals",
+      "link": "https://www.myjoyonline.com/volta-ndc-urges-minority-to-stop-attempts-to-smear-ablakwa-with-scandals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:28:05.000Z",
+      "summary": "The Volta Regional branch of the National Democratic Congress (NDC) has urged the Minority in Parliament and the New Patriotic Party (NPP) to stop what it describes as attempts to smear…",
+      "categories": [
+        "National",
+        "News",
+        "Ablakwa",
+        "Mawutor Agbavitor",
+        "Minority in Palriment",
+        "National Democratic Congress",
+        "New Patriotic Party"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GH¢900m set aside for district elections, constitutional referendum in 2027",
       "link": "https://www.graphic.com.gh/news/general-news/ghc900m-set-aside-for-district-elections-constitutional-referendum-in-2027.html",
@@ -127,19 +144,6 @@ window.GDC_PAPERS = {
         "Batteries",
         "Import Duties",
         "Solar panels"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson announces GH¢3.4bn for Gender Ministry, GH¢2.1bn for School Feeding Programme",
-      "link": "https://www.myjoyonline.com/ato-forson-announces-gh%c2%a23-4bn-for-gender-ministry-gh%c2%a22-1bn-for-school-feeding-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:11:56.000Z",
-      "summary": "The government has allocated GH¢3.4 billion to the Ministry of Gender, Children and Social Protection in the 2027 Budget to strengthen social protection programmes and support vulnerable…",
-      "categories": [
-        "National",
-        "Gender Ministry",
-        "School Feeding Programme"
       ],
       "site": "https://www.myjoyonline.com/"
     },
