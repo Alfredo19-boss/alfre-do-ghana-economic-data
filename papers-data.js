@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:37:10.588Z",
+  "updated": "2026-11-12T06:47:10.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "End bureaucratic delays in public service – Chief of Staff",
+      "link": "https://ghanaiantimes.com.gh/end-bureaucratic-delays-in-public-service-chief-of-staff/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:44:57.000Z",
+      "summary": "PUBLIC institutions have been tasked to end bureaucratic delays, poor attitudes and complicated administrative procedures that force citizens to make repeated visits to government offices…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "7 Ashaiman ADR practitioners complete conflict management training",
+      "link": "https://ghanaiantimes.com.gh/7-ashaiman-adr-practitioners-complete-conflict-management-training/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:38:39.000Z",
+      "summary": "SEVEN persons from the Ashaiman Alternative Dispute Resolution (ADR) Centre on Friday completed a five-day workshop in Skills-Based Training in Conflict Management and ADR in Accra. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "No new taxes in 2027 Budget – Ampem Nyarko",
+      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-budget-ampem-nyarko/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T06:36:00.000Z",
+      "summary": "Deputy Finance Minister Thomas Ampem Nyarko has hinted that no new taxes will be introduced in the 2027 Budget.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "2027 Budget",
+        "Ghana",
+        "Parliament",
+        "Tax"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "LISAG supports Lands Commission’s digitisation drive",
       "link": "https://ghanaiantimes.com.gh/lisag-supports-lands-commissions-digitisation-drive/",
@@ -87,29 +127,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Public service must serve the public",
-      "link": "https://ghanaiantimes.com.gh/public-service-must-serve-the-public/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:17:26.000Z",
-      "summary": "THE quality of public service delivery is one of the clearest measures of how well a country’s institutions are working for its people. For many Ghanaians, however, accessing basic services…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Vehicle knocks down police officer on duty …kills him on the spot",
-      "link": "https://ghanaiantimes.com.gh/vehicle-knocks-down-police-officer-on-duty-kills-him-on-the-spot/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:07:31.000Z",
-      "summary": "A police inspector attached to the Nkawie District Police Command in Ashanti has lost his life after being struck by a vehicle while on duty along the Abuakwa-Bibiani Highway. The officer…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -200,7 +217,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T04:36:54.000Z",
       "summary": "Parliament has found no evidence that any Member of Parliament or officer of the Parliamentary Service received money allegedly paid to influence the approval of the 2015 AKSA emergency…",
       "categories": [
-        "HP News 2",
+        "HP News 7",
         "National",
         "News",
         "Absa",
@@ -251,20 +268,6 @@ window.GDC_PAPERS = {
         "News",
         "Business",
         "Kantamanto"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
-      "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T02:16:00.000Z",
-      "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…",
-      "categories": [
-        "Business",
-        "HP Business 3",
-        "Kantamanto",
-        "Trader"
       ],
       "site": "https://www.myjoyonline.com/"
     },
