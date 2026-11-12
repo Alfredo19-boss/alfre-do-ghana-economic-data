@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:51:42.215Z",
+  "updated": "2026-11-12T14:01:40.540Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,63 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Health Ministry warns against fake fundraising campaign targeting Mercy Ships patients",
+      "link": "https://www.myjoyonline.com/health-ministry-warns-against-fake-fundraising-campaign-targeting-mercy-ships-patients/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:59:42.000Z",
+      "summary": "The Ministry of Health has warned the public against a fraudulent fundraising campaign being aired on some television stations in Ghana, which falsely claims to be raising money to support…",
+      "categories": [
+        "Health",
+        "National",
+        "fake fundraising campaign",
+        "Mercy Ships"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lack of funding makes PhD sponsorship difficult in Ghanaian universities – UEW VC",
+      "link": "https://www.myjoyonline.com/lack-of-funding-makes-phd-sponsorship-difficult-in-ghanaian-universities-uew-vc/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:55:04.000Z",
+      "summary": "The Vice-Chancellor of the University of Education, Winneba (UEW), Professor Stephen John Mitchual, has raised concerns about funding constraints facing doctoral programmes in Ghanaian…",
+      "categories": [
+        "Education",
+        "National",
+        "PHD",
+        "UEW",
+        "University of Lome"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Film Development Fund receives nearly 100 applications",
+      "link": "https://www.myjoyonline.com/film-development-fund-receives-nearly-100-applications/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:54:20.000Z",
+      "summary": "The National Film Authority’s Film Development Fund has attracted nearly 100 applications seeking almost GH¢100 million, as 56 applicants enter the final stage of pitching.",
+      "categories": [
+        "HP Entertainment 1",
+        "Movies",
+        "Applications",
+        "Film Development Fund",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "What is ‘new economy’? Kwesi Pratt questions status of 24-hour economy promise",
       "link": "https://www.myjoyonline.com/what-is-new-economy-kwesi-pratt-questions-status-of-24-hour-economy-promise/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:50:58.000Z",
       "summary": "Veteran journalist Kwesi Pratt Jnr. has criticised the Mahama government’s “New Economy” slogan, demanding to know what it means and whether it signals the quiet abandonment of the 24-Hour…",
       "categories": [
-        "News"
+        "National",
+        "News",
+        "Politics",
+        "Ato Forson",
+        "Kwesi Pratt",
+        "NDC",
+        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -81,7 +131,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
+      "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T13:31:48.000Z",
@@ -124,52 +174,6 @@ window.GDC_PAPERS = {
         "Galamsey",
         "Manso Keniago",
         "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Take a look at the new Ghana cedi notes introduced by the Bank of Ghana",
-      "link": "https://www.myjoyonline.com/take-a-look-at-the-new-ghana-cedi-notes-introduced-by-the-bank-of-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:19:17.000Z",
-      "summary": "The Bank of Ghana has introduced upgraded Ghana cedi banknotes with enhanced security features, improved durability, and more convenient, portable sizes.",
-      "categories": [
-        "Banking and Finance",
-        "HP News 1",
-        "National",
-        "News",
-        "Photo Story",
-        "Bank of Ghana",
-        "new Ghana cedi notes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIPA CEO challenges private sector to demand accountability from public institutions",
-      "link": "https://www.myjoyonline.com/gipa-ceo-challenges-private-sector-to-demand-accountability-from-public-institutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:18:10.000Z",
-      "summary": "According to him, businesses should not tolerate unnecessary bureaucratic delays, particularly when they have fulfilled all the requirements for services to be delivered within stipulated…",
-      "categories": [
-        "Business",
-        "Economy",
-        "GIPA",
-        "SIGA",
-        "Simon Madjie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government may turn to alternative bitumen suppliers if GoEnergy fails to deliver – Agbodza",
-      "link": "https://www.myjoyonline.com/government-may-turn-to-alternative-bitumen-suppliers-if-goenergy-fails-to-deliver-agbodza/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:15:22.000Z",
-      "summary": "The Minister of Roads and Highways, Governs Kwame Agbodza, has urged GoEnergy Company Limited (GOE), a wholly owned subsidiary of Goil Plc, to ensure a consistent and timely supply of…",
-      "categories": [
-        "News",
-        "Bitumen",
-        "GoEnergy Company Limited",
-        "Roads Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
