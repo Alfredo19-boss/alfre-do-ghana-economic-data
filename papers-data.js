@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:57:11.741Z",
+  "updated": "2026-11-12T07:07:10.909Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government launches 15-year foundational learning agenda",
+      "link": "https://ghanaiantimes.com.gh/government-launches-15-year-foundational-learning-agenda/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:05:42.000Z",
+      "summary": "THE government has launched a 15-year national strategy to strengthen foundational education and improve learning outcomes among children across the country. Dubbed the Ghana Foundational…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Takoradi to become ship repair hub • Pres Mahama cuts sod for $137m floating dry dock",
       "link": "https://ghanaiantimes.com.gh/takoradi-to-become-ship-repair-hub-pres-mahama-cuts-sod-for-137m-floating-dry-dock/",
@@ -117,17 +129,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Before the future knocks",
-      "link": "https://ghanaiantimes.com.gh/before-the-future-knocks/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:23:11.000Z",
-      "summary": "THE time has come to move Ghana’s young people from the margins of decision-making to the heart of national development. A nation that speaks for its youth but shuts them out of leadership…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
