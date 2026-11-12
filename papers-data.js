@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T23:09:16.143Z",
+  "updated": "2026-11-12T23:19:16.699Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,16 +21,42 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Cloudflare brings WebRTC broadcasting out of beta",
+      "link": "https://ghanaiantimes.com.gh/cloudflare-brings-webrtc-broadcasting-out-of-beta/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T23:09:40.000Z",
+      "summary": "Alt: Man watching a live football match on his laptop while wearing wireless earbuds Cloudflare made ultra-low-latency broadcasting generally available in Stream on 15 October 2026…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "[Live] Ato Forson breaks down 2027 Budget on JoyNews’ PM Express",
       "link": "https://www.myjoyonline.com/live-ato-forson-breaks-down-2027-budget-on-joynews-pm-express/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T23:07:17.000Z",
-      "summary": "Finance Minister, Dr Cassiel Ato Forson, is explaining the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express. The engagement…",
+      "summary": "Finance Minister, Dr Cassiel Ato Forson, is explaining the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express.",
       "categories": [
+        "National",
         "News",
-        "Top Story"
+        "Top Story",
+        "2027 Budget",
+        "Economy",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
+      "link": "https://www.graphic.com.gh/news/general-news/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T23:05:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Minority caucus questions women’s bank pledge, alleges silence in 2027 Budget",
@@ -205,17 +231,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "UKGCC donates GH₵923,000 to boost neonatal care at PMLCH",
-      "link": "https://www.graphic.com.gh/news/health/ukgcc-donates-gh-923-000-to-boost-neonatal-care-at-pmlch.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T17:22:39.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "GES Interdicts two Aduman SHS teachers over alleged sexual misconduct against male student",
       "link": "https://ghanaiantimes.com.gh/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-against-male-student/",
       "source": "Ghanaian Times",
@@ -293,17 +308,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T08:01:53.000Z",
       "summary": "GHANA has called for stronger efforts to translate China-Africa green development commitments into bankable projects, mobilised financing and tangible development outcomes as countries seek…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Asantehene urges GIMPA to develop ethical leaders",
-      "link": "https://ghanaiantimes.com.gh/asantehene-urges-gimpa-to-develop-ethical-leaders/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:57:15.000Z",
-      "summary": "THE Asantehene, Otumfuo Osei Tutu II, has urged the Ghana Institute of Management and Public Administration (GIMPA) to strengthen its role in developing ethical leaders and improving public…",
       "categories": [
         "News"
       ],
