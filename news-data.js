@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T09:06:40.929Z",
+  "updated": "2026-11-12T12:11:10.609Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,55 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "IFAD Sees $11 Trillion Economic Risk From El Niño and Food System Shocks",
+      "link": "https://thehighstreetjournal.com/el-nino-threatens-11-trillion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T12:03:04.000Z",
+      "summary": "The climate phenomenon could also push an additional 49 million people into acute food insecurity by the end of 2027, with smallholder farmers particularly exposed"
+    },
+    {
+      "title": "Bank of Ghana launches Cedi App to help the public identify new banknotes",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-launches-cedi-app-to-help-the-public-identify-new-banknotes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:01:06.000Z",
+      "summary": "The Bank of Ghana has announced the launch of a new Cedi App designed to help the public identify and understand the security features of the newly unveiled Ghana Cedi Heritage Series…"
+    },
+    {
+      "title": "BoG to establish new Cash Centres in Ho and Tamale",
+      "link": "https://www.myjoyonline.com/bog-to-establish-new-cash-centres-in-ho-and-tamale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:37:18.000Z",
+      "summary": "The Bank of Ghana (BoG) is planning to establish new Cash Centres at its Ho and Tamale Regional Offices as part of efforts to improve access to currency services and strengthen cash…"
+    },
+    {
+      "title": "Heritage series incorporates enhanced security features – BoG Governor",
+      "link": "https://www.myjoyonline.com/heritage-series-incorporates-enhanced-security-features-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:35:17.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Asiama, has highlighted the enhanced security features of the newly introduced Ghana Heritage Series banknotes, saying the improvements…"
+    },
+    {
+      "title": "Heritage Series Banknotes to be in circulation from December 1 – BoG Governor",
+      "link": "https://www.myjoyonline.com/heritage-series-banknotes-to-be-in-circulation-from-december-1-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:31:34.000Z",
+      "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series into circulation from December 1, 2026, with the existing banknotes remaining legal tender. Governor of the…"
+    },
+    {
+      "title": "Bank of Ghana unveils homegrown currency management software",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-unveils-homegrown-currency-management-software/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:14:07.000Z",
+      "summary": "The Bank of Ghana (BoG) has developed an in-house software system to improve currency management, strengthen operational efficiency, and enhance the distribution of banknotes across the…"
+    },
+    {
+      "title": "Musk Says Hiring Nvidia CEO Jensen Huang Would Be an ‘Honor’ Amid Leadership Uncertainty",
+      "link": "https://thehighstreetjournal.com/musk-comments-on-nvidia-ceo-jensen-huang/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T09:32:32.000Z",
+      "summary": "Musk did not specify a potential role for Huang or indicate whether he had discussed employment with the Nvidia chief executive"
+    },
     {
       "title": "GNPC welcomes offshore hydrocarbon discovery, signals boost for petroleum sector",
       "link": "https://www.ghanabusinessnews.com/2026/11/12/gnpc-welcomes-offshore-hydrocarbon-discovery-signals-boost-for-petroleum-sector/",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T08:00:00.000Z",
       "summary": "Ghana’s Gen Z consumers are embracing online shopping and delivery services, raising questions about the future of traditional markets as traders face growing pressure to adopt digital…"
-    },
-    {
-      "title": "JUSAG and SSAJUG Suspend Strike, Courts to Resume Today",
-      "link": "https://thehighstreetjournal.com/jusag-and-ssajug-suspend-strike-courts-to-resume-today/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T05:05:00.000Z",
-      "summary": "JUSAG and SSAJUG have suspended their strike after government concessions on salaries and allowances, allowing courts nationwide to resume sittings Tuesday."
-    },
-    {
-      "title": "3 to 7 Yrs in Court: How Ghana’s Slow & Congested Judicial System May Be ‘Protecting’ Willful Loan Defaulters",
-      "link": "https://thehighstreetjournal.com/3-to-7-yrs-in-court-why-ghanas-slow-congested-judicial-system-may-be-protecting-willful-loan-defaulters/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T05:03:00.000Z",
-      "summary": "Dr. Richmond Atuahene warns that Ghana’s court delays and collateral enforcement loopholes enable loan defaulters, worsen banks’ bad debts and restrict credit, urging specialised financial…"
-    },
-    {
-      "title": "GIPA Identifies 100 Investment-Ready Projects for Invest in Ghana Summit",
-      "link": "https://thehighstreetjournal.com/gipa-identifies-100-investment-projects/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T05:02:00.000Z",
-      "summary": "GIPA (Ghana Investment Promotion Authority) has identified about 100 investment-ready projects, largely in manufacturing and infrastructure, to present to international investors at the…"
-    },
-    {
-      "title": "From Tamale to Kassel: Ibrahim Mahama Takes Ghanaian Art to New Global Heights",
-      "link": "https://thehighstreetjournal.com/from-tamale-to-kassel-ibrahim-mahama-takes-ghanaian-art-to-new-global-heights/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T05:01:00.000Z",
-      "summary": "Ghanaian artist Ibrahim Mahama’s 2026 Arnold Bode Prize in Germany highlights his growing influence on the global art scene and the role of his cultural institutions in Tamale in nurturing…"
-    },
-    {
-      "title": "Heritage Series banknotes expected in circulation weeks after November 12 launch",
-      "link": "https://www.myjoyonline.com/heritage-series-banknotes-expected-in-circulation-weeks-after-november-12-launch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T04:17:00.000Z",
-      "summary": "Ghana’s upgraded cedi banknotes, known as the Heritage Series, could enter circulation about two weeks after their official November 12, 2026 launch."
-    },
-    {
-      "title": "Ghana cedi remains relatively stable over one-week trading window",
-      "link": "https://www.ghanabusinessnews.com/2026/11/10/ghana-cedi-remains-relatively-stable-over-one-week-trading-window/",
-      "source": "Ghana Business News",
-      "published": "2026-11-10T04:15:31.000Z",
-      "summary": "The Ghana cedi recorded relative stability against the major trading currencies over a one-week trading window, according to the Bank of Ghana’s daily exchange rate data."
-    },
-    {
-      "title": "Finance Minister urged to create tax environment that stimulates business growth",
-      "link": "https://www.ghanabusinessnews.com/2026/11/10/finance-minister-urged-to-create-tax-environment-that-stimulates-business-growth/",
-      "source": "Ghana Business News",
-      "published": "2026-11-10T04:12:02.000Z",
-      "summary": "Youth in the Volta Region have appealed to the Minister for Finance, Dr. Cassiel Ato Forson, to establish a favorable tax environment that stimulates business growth and addresses critical…"
     }
   ]
 };

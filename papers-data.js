@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T09:07:11.634Z",
+  "updated": "2026-11-12T12:11:41.014Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,16 +21,220 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "South Africa rethinks online gambling through strict digital enforcement and stronger consumer protection",
-      "link": "https://www.myjoyonline.com/south-africa-rethinks-online-gambling-through-strict-digital-enforcement-and-stronger-consumer-protection/",
+      "title": "The New economy budget: Will Ghana finally build growth that lasts?",
+      "link": "https://www.myjoyonline.com/the-new-economy-budget-will-ghana-finally-build-growth-that-lasts/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T08:57:31.000Z",
-      "summary": "The era of hands-off gambling regulation in South Africa is over. With the market generating R75 billion in gross gambling revenue on R1.5 trillion in total turnover, the stakes are too…",
+      "published": "2026-11-12T12:09:50.000Z",
+      "summary": "Ghana’s reliance on the International Monetary Fund has become a defining feature of its economic history, with 17 programmes since 1966 shaping the country’s trajectory and leaving a…",
       "categories": [
-        "Technology",
-        "Casino"
+        "Opinion",
+        "Finance Minister",
+        "Growth",
+        "IMF",
+        "the new economy budget"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bank of Ghana launches Cedi App to help the public identify new banknotes",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-launches-cedi-app-to-help-the-public-identify-new-banknotes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:01:06.000Z",
+      "summary": "The Bank of Ghana has announced the launch of a new Cedi App designed to help the public identify and understand the security features of the newly unveiled Ghana Cedi Heritage Series…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP News 8",
+        "National",
+        "Bank of Ghana",
+        "Banknotes",
+        "Cedi App"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Military, NDC and family remember Rawlings six years on",
+      "link": "https://www.myjoyonline.com/military-ndc-and-family-remember-rawlings-six-years-on/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:52:41.000Z",
+      "summary": "The Ghana Armed Forces, the National Democratic Congress (NDC) and the family of former President Jerry John Rawlings have paid tribute to him at a wreath-laying ceremony marking the sixth…",
+      "categories": [
+        "News",
+        "Military",
+        "NDC",
+        "Rawlings"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "OMJ Foundation CEO Osei Mensah Joseph declares bid for NPP Akuapem South parliamentary ticket",
+      "link": "https://www.myjoyonline.com/omj-foundation-ceo-osei-mensah-joseph-declares-bid-for-npp-akuapem-south-parliamentary-ticket/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:40:10.000Z",
+      "summary": "Businessman, philanthropist and Chief Executive Officer of the OMJ Foundation, Osei Mensah Joseph, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary…",
+      "categories": [
+        "National",
+        "Politics",
+        "Akuapem South",
+        "NPP",
+        "OMJ Foundation",
+        "Osei Mensah Joseph"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG to establish new Cash Centres in Ho and Tamale",
+      "link": "https://www.myjoyonline.com/bog-to-establish-new-cash-centres-in-ho-and-tamale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:37:18.000Z",
+      "summary": "The Bank of Ghana (BoG) is planning to establish new Cash Centres at its Ho and Tamale Regional Offices as part of efforts to improve access to currency services and strengthen cash…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Bank of Ghana",
+        "BoG",
+        "Dr Johnson Pandit Asiama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Heritage series incorporates enhanced security features – BoG Governor",
+      "link": "https://www.myjoyonline.com/heritage-series-incorporates-enhanced-security-features-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:35:17.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Asiama, has highlighted the enhanced security features of the newly introduced Ghana Heritage Series banknotes, saying the improvements…",
+      "categories": [
+        "Business",
+        "HP News 3",
+        "National",
+        "BoG Governor",
+        "Ghana Heritage Series banknotes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Heritage Series Banknotes to be in circulation from December 1 – BoG Governor",
+      "link": "https://www.myjoyonline.com/heritage-series-banknotes-to-be-in-circulation-from-december-1-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:31:34.000Z",
+      "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series into circulation from December 1, 2026, with the existing banknotes remaining legal tender. Governor of the…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "National",
+        "News",
+        "Top Story",
+        "Bank of Ghana",
+        "Dr Johnson Pandit Asiama",
+        "Heritage Series banknotes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Who is checking our Ports?– Dr Frank Bannor questions security amid latest cocaine seizure",
+      "link": "https://www.myjoyonline.com/who-is-checking-our-ports-dr-frank-bannor-questions-security-amid-latest-cocaine-seizure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:23:24.000Z",
+      "summary": "The New Patriotic Party's (NPP) Spokesperson on Economy and Finance, Dr Frank Bannor, has raised serious concerns about Ghana's port security and cargo-screening systems following the…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Cociane",
+        "NPP Spokesperson",
+        "Tema Ports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bank of Ghana launches upgraded Cedi notes with enhanced security, national symbols",
+      "link": "https://www.graphic.com.gh/news/general-news/bank-of-ghana-launches-upgraded-cedi-notes-with-enhanced-security-national-symbols.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T11:03:05.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ensure NHIS patients do not pay extra fees for covered services - GHS to hospitals",
+      "link": "https://www.graphic.com.gh/news/general-news/ghs-orders-health-facilities-to-stop-extra-charges-for-nhis-services.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T09:56:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana, Denmark deepen heritage ties",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-denmark-deepen-heritage-ties.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:53:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama receives credentials of 11 Envoys",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-receives-credentials-of-11-envoys.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:44:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Budget 2027 preview: Govt to buy back GH¢29bn bonds and pay GH¢11bn interest by Jan 2028",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-budget-2027-preview-govt-to-buy-back-ghc29bn-bonds-ghc11bn-interest-to-be-paid-by-jan-2018.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:40:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2027 Budget: Offer bold policies to stimulate growth - AGI, GNCCI, GUTA to govt",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-offer-bold-policies-to-stimulate-growth-agi-gncci-guta-to-govt.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:30:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Agbodza reprimands contractor over delays on Eastern Corridor road",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-agbodza-reprimands-contractor-over-delays-on-eastern-corridor-road.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:22:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Prioritise safety in construction - Housing Minister advises",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prioritise-safety-in-construction-housing-minister-advises.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T08:15:32.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "At COP31: Ghana pushes for bankable China-Africa green projects",
@@ -42,19 +246,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Thursday, November 12, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-11-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T08:01:08.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Asantehene urges GIMPA to develop ethical leaders",
@@ -132,187 +323,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "No new taxes in 2027 Budget – Ampem Nyarko",
-      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-budget-ampem-nyarko/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T06:36:00.000Z",
-      "summary": "Deputy Finance Minister Thomas Ampem Nyarko has hinted that no new taxes will be introduced in the 2027 Budget.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "2027 Budget",
-        "Ghana",
-        "Parliament",
-        "Tax"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra: Police arrest 2 suspects, seize counterfeit fabrics worth GH¢20 million at Adabraka",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-2-suspects-seize-counterfeit-fabrics-worth-ghc20-million.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T06:05:43.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Six MDs in eight years weakened TOR – Managing Director",
-      "link": "https://www.myjoyonline.com/six-mds-in-eight-years-weakened-tor-managing-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T06:04:12.000Z",
-      "summary": "Frequent changes at the top of the Tema Oil Refinery (TOR) during the eight years of the previous administration undermined management stability and made it difficult to address the…",
-      "categories": [
-        "HP News 9",
-        "News",
-        "Crude",
-        "Oil",
-        "TOR"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Facing our past and shaping our future together – British High Commissioner to Ghana Dr. Christian Rogg writes",
-      "link": "https://www.myjoyonline.com/facing-our-past-and-shaping-our-future-together-british-high-commissioner-to-ghana-dr-christian-rogg-writes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T05:36:52.000Z",
-      "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
-      "categories": [
-        "In Focus",
-        "News",
-        "British",
-        "Dr. Christian Rogg",
-        "Ghasna"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
-      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T05:33:43.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
-      "categories": [
-        "Business",
-        "HP Business 1",
-        "HP News 10",
-        "News",
-        "Bank",
-        "Interest",
-        "Loan"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spain seizes 2,600 kilos of cocaine at port of Valencia hidden in Ghana coconut shipment, 2 people arrested",
-      "link": "https://www.graphic.com.gh/news/general-news/2-600-kilos-of-cocaine-seized-at-the-port-of-valencia.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T04:54:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Supply bitumen or lose government business - Roads Minister to supplier",
-      "link": "https://www.graphic.com.gh/news/general-news/supply-bitumen-or-lose-government-business-roads-to-supplier.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T04:46:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AKSA bribery claims: Parliament finds no evidence against MPs, staff",
-      "link": "https://www.myjoyonline.com/aksa-bribery-claims-parliament-finds-no-evidence-against-mps-staff/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T04:36:54.000Z",
-      "summary": "Parliament has found no evidence that any Member of Parliament or officer of the Parliamentary Service received money allegedly paid to influence the approval of the 2015 AKSA emergency…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "Absa",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police seize 3,752 slabs of suspected Indian hemp at Ada",
-      "link": "https://www.myjoyonline.com/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T04:01:11.000Z",
-      "summary": "The Tema Regional Police Command has intercepted a canoe carrying 3,752 slabs of suspected Indian hemp during an intelligence-led operation on the Volta Lake at Ada in the Greater Accra…",
-      "categories": [
-        "HP News 4",
-        "News",
-        "arrest police",
-        "Indian hemp"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manso Keniago: 3 reported dead, 13 injured after clash between illegal miners and NAIMOS",
-      "link": "https://www.graphic.com.gh/news/general-news/manso-keniago-3-reported-dead-13-injured.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T18:26:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament says no MP received bribe in AKSA Energy deal; Report forwarded to OSP",
-      "link": "https://www.graphic.com.gh/news/politics/parliament-says-no-mp-received-bribe-in-aksa-energy-case-report-forwarded-to-osp.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T18:22:28.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kwahu Professionals Network brings free healthcare and relief to Kwahu Tafo residents",
-      "link": "https://www.graphic.com.gh/news/general-news/kwahu-professionals-network-brings-free-healthcare-and-relief-to-kwahu-tafo-residents.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T17:15:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Of failed promises and repackaged slogans: Ghana needs jobs, not another economic catchphrase - Amin Adam's open letter to Finance Minister",
-      "link": "https://www.graphic.com.gh/news/politics/of-failed-promises-and-repackaged-slogans-ghana-needs-jobs-not-another-economic-catchphrase-dr-mohammed-amin-adam-open-letter-to-finance-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T17:05:51.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Pulima Chief endorses GMTF, calls for heart surgeons in Upper West",
-      "link": "https://www.graphic.com.gh/news/general-news/pulima-chief-endorses-gmtf-calls-for-heart-surgeons-in-upper-west.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T17:00:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
