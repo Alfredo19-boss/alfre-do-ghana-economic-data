@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T16:41:42.355Z",
+  "updated": "2026-11-12T16:51:41.403Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prices down, sales still poor: Koforidua traders tell Minority MPs ahead of budget",
+      "link": "https://www.myjoyonline.com/prices-down-sales-still-poor-koforidua-traders-tell-minority-mps-ahead-of-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:42:27.000Z",
+      "summary": "Traders at the Koforidua Central Market say falling prices of some goods have not revived business, as weak purchasing power and rising operating costs leave them struggling to stay afloat.",
+      "categories": [
+        "Politics",
+        "Regional",
+        "2027 Budget",
+        "Koforidua"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NACOC arrests freight forwarder in Tema over 2.6-tonne cocaine seizure in Spain",
       "link": "https://www.myjoyonline.com/nacoc-arrests-freight-forwarder-in-tema-over-2-6-tonne-cocaine-seizure-in-spain/",
@@ -133,21 +147,6 @@ window.GDC_PAPERS = {
         "landmarks",
         "personalities",
         "symbols"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Crack the whip on narcotics trafficking and restore Ghana’s image – Ntim Fordjour to Mahama",
-      "link": "https://www.myjoyonline.com/crack-the-whip-on-narcotics-trafficking-and-restore-ghanas-image-ntim-fordjour-to-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:21:33.000Z",
-      "summary": "The Ranking Member on Parliament’s Defence and Interior Committee, Rev. John Ntim Fordjour, has challenged President John Dramani Mahama to take decisive action against narcotics…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Ghana",
-        "Mahama",
-        "Ntim Fordjour"
       ],
       "site": "https://www.myjoyonline.com/"
     },
