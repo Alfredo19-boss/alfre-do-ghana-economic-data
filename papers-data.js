@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T16:26:41.114Z",
+  "updated": "2026-11-12T16:41:42.355Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,17 @@ window.GDC_PAPERS = {
         "Spain"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t to expand Cylinder Recirculation Model nationwide – Jinapor",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-to-expand-cylinder-recirculation-model-nationwide-jinapor.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T16:11:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Naa Puowele Karbo III",
@@ -211,17 +222,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/old-cedi-notes-remain-legal-tender-bog-sets-december-1-rollout-for-heritage-series.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T12:51:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bank of Ghana launches upgraded Cedi notes with enhanced security, national symbols",
-      "link": "https://www.graphic.com.gh/news/general-news/bank-of-ghana-launches-upgraded-cedi-notes-with-enhanced-security-national-symbols.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T11:03:05.000Z",
       "summary": "",
       "categories": [
         "General News"
