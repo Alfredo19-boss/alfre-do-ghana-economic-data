@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:01:42.338Z",
+  "updated": "2026-11-12T17:06:41.460Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,59 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES Interdicts two Aduman SHS teachers over alleged sexual misconduct against male student",
+      "link": "https://ghanaiantimes.com.gh/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-against-male-student/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T17:05:41.000Z",
+      "summary": "Management of the Ghana Education Service (GES) has interdicted two staff members of Aduman Senior High School over alleged sexual misconduct against a male student. The teachers are Mr…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ministry of Health warns public against fake Mercy Ships fundraising campaign on TV",
+      "link": "https://ghanaiantimes.com.gh/ministry-of-health-warns-public-against-fake-mercy-ships-fundraising-campaign-on-tv/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T17:04:05.000Z",
+      "summary": "The Ministry of Health has cautioned the public against a fraudulent fundraising campaign being aired on Ghanaian televisions, which falsely solicits money to support patients seeking…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Black Stars beat Somalia on return to Sekondi after 16 years",
+      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-beat-somalia-on-return-to-sekondi-after-16-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:01:18.000Z",
+      "summary": "Ghana earned a 2-0 win over the Somalis at the Essipong Sports Stadium to breathe hope into their quest for an AFCON return.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Huawei opens applications for Data Communication training under One Million Coders programme",
+      "link": "https://www.myjoyonline.com/huawei-opens-applications-for-data-communication-training-under-one-million-coders-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:00:26.000Z",
+      "summary": "Huawei, in partnership with the Ministry of Communication, Digital Technology and Innovations, has opened applications for the Data Communication training course under the Government of…",
+      "categories": [
+        "Technology",
+        "Huawei",
+        "One Million Coders"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Former President Akufo-Addo to lead ECOWAS Election Observation Mission to Nigeria",
       "link": "https://ghanaiantimes.com.gh/former-president-akufo-addo-to-lead-ecowas-election-observation-mission-to-nigeria/",
@@ -165,36 +218,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct involving a male student",
-      "link": "https://www.myjoyonline.com/two-aduman-shs-teachers-interdicted-over-alleged-sexual-misconduct-involving-a-male-student/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:56:10.000Z",
-      "summary": "The Ghana Education Service (GES) has interdicted two teachers of Aduman Senior High School following allegations of sexual misconduct against a male student, with both staff members…",
-      "categories": [
-        "Education",
-        "National",
-        "Aduman SHS",
-        "GES",
-        "Sexual misondyut"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
-      "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:47:50.000Z",
-      "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 5",
-        "2027 Budget",
-        "Deloitte"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Akufo-Addo to lead 200-member ECOWAS team for Nigeria's 2027 elections",
       "link": "https://www.graphic.com.gh/news/politics/akufo-addo-to-lead-200-member-ecowas-team-for-nigerias-2027-elections.html",
       "source": "Daily Graphic",
@@ -290,28 +313,6 @@ window.GDC_PAPERS = {
       "summary": "THE Asantehene, Otumfuo Osei Tutu II, has urged the Ghana Institute of Management and Public Administration (GIMPA) to strengthen its role in developing ethical leaders and improving public…",
       "categories": [
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Spintex Knights lose again in B’ball Africa League Elite 16 Stage",
-      "link": "https://ghanaiantimes.com.gh/spintex-knights-lose-again-in-bball-africa-league-elite-16-stage/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:42:08.000Z",
-      "summary": "FOR the second time in as many games, Ghana’s representative at the Basketball Africa League (BAL) Elite 16 stage, Spintex Knights, has missed out on a win. Knights lost 84-89 to JCA Kings…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bulls retain RLFG Men’s 13s title, Old Guard secure Diva Series",
-      "link": "https://ghanaiantimes.com.gh/bulls-retain-rlfg-mens-13s-title-old-guard-secure-diva-series/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:37:43.000Z",
-      "summary": "Defending champions, Bulls RLFC, retained their Rugby League Federation Ghana (RLFG) Men’s 13s Championship title with a 24–10 victory over Dragons RLFC in the final played at the…",
-      "categories": [
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }

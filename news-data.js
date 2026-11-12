@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T17:01:11.294Z",
+  "updated": "2026-11-12T17:06:10.244Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Pushes for Inclusive AI Development as Digital Divide Threatens to Widen",
+      "link": "https://thehighstreetjournal.com/ghana-pushes-for-inclusive-ai-development-as-digital-divide-threatens-to-widen/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T17:03:30.000Z",
+      "summary": "Ghana is calling for inclusive AI and digital infrastructure development, stressing affordability, local innovation, technology transfer and skills training to ensure emerging technologies…"
+    },
     {
       "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
       "link": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:42:57.000Z",
       "summary": "Speaking ahead of the launch, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, said the upgraded banknotes form part of the Bank's efforts to modernise Ghana's currency and respond…"
-    },
-    {
-      "title": "Ghana’s banking sector urged to embrace AI, technology to remain competitive",
-      "link": "https://www.myjoyonline.com/ghanas-banking-sector-urged-to-embrace-ai-technology-to-remain-competitive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:39:55.000Z",
-      "summary": "Ghana’s banking industry has been urged to leverage emerging technologies, particularly artificial intelligence (AI), to strengthen operations, improve customer confidence and remain…"
     }
   ]
 };
