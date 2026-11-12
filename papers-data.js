@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T07:47:10.752Z",
+  "updated": "2026-11-12T08:07:10.563Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "At COP31: Ghana pushes for bankable China-Africa green projects",
+      "link": "https://ghanaiantimes.com.gh/at-cop31-ghana-pushes-for-bankable-china-africa-green-projects/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T08:01:53.000Z",
+      "summary": "GHANA has called for stronger efforts to translate China-Africa green development commitments into bankable projects, mobilised financing and tangible development outcomes as countries seek…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Thursday, November 11, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-11-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T08:01:08.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asantehene urges GIMPA to develop ethical leaders",
+      "link": "https://ghanaiantimes.com.gh/asantehene-urges-gimpa-to-develop-ethical-leaders/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:57:15.000Z",
+      "summary": "THE Asantehene, Otumfuo Osei Tutu II, has urged the Ghana Institute of Management and Public Administration (GIMPA) to strengthen its role in developing ethical leaders and improving public…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Spintex Knights lose again in B’ball Africa League Elite 16 Stage",
       "link": "https://ghanaiantimes.com.gh/spintex-knights-lose-again-in-bball-africa-league-elite-16-stage/",
@@ -83,28 +118,6 @@ window.GDC_PAPERS = {
       "summary": "MAURICIO Pochettino is ready to accept an offer from Manchester United to become their next head coach. United have opened talks with the Argentine about him potentially replacing Michael…",
       "categories": [
         "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Accra Hearts of Oak @115 • Celebrating history, sacrifice, excellence and institutional development",
-      "link": "https://ghanaiantimes.com.gh/accra-hearts-of-oak-115-celebrating-history-sacrifice-excellence-and-institutional-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:26:43.000Z",
-      "summary": "Accra Hearts of Oak Sporting Club celebrates its 115th anniversary yesterday. I consider it a great honour to join the entire Phobian fraternity, both in Ghana and across the world, in…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Green economy offers jobs, business opportunities for youth – GAYO",
-      "link": "https://ghanaiantimes.com.gh/green-economy-offers-jobs-business-opportunities-for-youth-gayo/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:17:54.000Z",
-      "summary": "THE Green Africa Youth Organisation (GAYO) has urged young entrepreneurs to take advantage of the growing demand for environmentally friendly alternatives to plastics and other polluting…",
-      "categories": [
-        "Business"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -248,21 +261,6 @@ window.GDC_PAPERS = {
         "Bank",
         "Loan",
         "Money"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Buyers have no money; we are sitting idle’ — Kantamanto trader",
-      "link": "https://www.myjoyonline.com/buyers-have-no-money-we-are-sitting-idle-kantamanto-trader/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T03:10:21.000Z",
-      "summary": "Traders at the Kantamanto Market in Accra are struggling to make sales as customers increasingly complain about a lack of money to buy goods, a situation that is putting pressure on…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Business",
-        "Kantamanto"
       ],
       "site": "https://www.myjoyonline.com/"
     },
