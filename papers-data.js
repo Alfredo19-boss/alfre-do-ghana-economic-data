@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T08:27:10.944Z",
+  "updated": "2026-11-12T09:07:11.634Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "South Africa rethinks online gambling through strict digital enforcement and stronger consumer protection",
+      "link": "https://www.myjoyonline.com/south-africa-rethinks-online-gambling-through-strict-digital-enforcement-and-stronger-consumer-protection/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T08:57:31.000Z",
+      "summary": "The era of hands-off gambling regulation in South Africa is over. With the market generating R75 billion in gross gambling revenue on R1.5 trillion in total turnover, the stakes are too…",
+      "categories": [
+        "Technology",
+        "Casino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "At COP31: Ghana pushes for bankable China-Africa green projects",
       "link": "https://ghanaiantimes.com.gh/at-cop31-ghana-pushes-for-bankable-china-africa-green-projects/",
@@ -244,23 +256,6 @@ window.GDC_PAPERS = {
         "News",
         "arrest police",
         "Indian hemp"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "120% collateral requirement shuts businesses out of credit — AGI",
-      "link": "https://www.myjoyonline.com/120-collateral-requirement-shuts-businesses-out-of-credit-agi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T03:23:16.000Z",
-      "summary": "The Chairman of the Economic Affairs Committee of the Association of Ghana Industries (AGI), Eric Defor, has raised concerns about the difficulty businesses continue to face in securing…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "HP News 5",
-        "News",
-        "Bank",
-        "Loan",
-        "Money"
       ],
       "site": "https://www.myjoyonline.com/"
     },
