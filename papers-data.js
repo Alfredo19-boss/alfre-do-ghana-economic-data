@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T03:28:46.245Z",
+  "updated": "2026-11-12T03:37:11.645Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
+      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T03:33:43.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "120% collateral requirement shuts businesses out of credit — AGI",
       "link": "https://www.myjoyonline.com/120-collateral-requirement-shuts-businesses-out-of-credit-agi/",
@@ -115,21 +126,6 @@ window.GDC_PAPERS = {
         "Gender",
         "Minority",
         "Study"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Appoint Clowns. Get a Circus",
-      "link": "https://www.myjoyonline.com/appoint-clowns-get-a-circus/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T23:49:18.000Z",
-      "summary": "One of the biggest obstacles to Ghana’s economic and social development is not a shortage of ideas, policies or even resources. It is the chronic appointment of incompetent people to…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Circus",
-        "Clowns",
-        "Kwame Sowu"
       ],
       "site": "https://www.myjoyonline.com/"
     },

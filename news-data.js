@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T03:28:15.911Z",
+  "updated": "2026-11-12T03:36:40.382Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -55,6 +55,13 @@ window.GDC_NEWS = {
       "source": "Ghana News Agency",
       "published": "2026-11-11T23:40:34.000Z",
       "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "L’AÎNÉ Foundation calls on entrepreneurs to build sustainable businesses that create jobs",
+      "link": "https://www.myjoyonline.com/laine-foundation-calls-on-entrepreneurs-to-build-sustainable-businesses-that-create-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:59:00.000Z",
+      "summary": "L’AÎNÉ Foundation, the corporate social responsibility arm of L’AÎNÉ HR, has called on entrepreneurs in Ghana to build sustainable businesses that go beyond profitability to create jobs…"
     },
     {
       "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T16:27:36.000Z",
       "summary": "Apprey and Kasoa-based baker Gifty Antwi emerged as the grand prize winners, securing an all-expenses-paid family vacation to the tropical island of São Tomé, plus a £300 spending stipend…"
-    },
-    {
-      "title": "Climate Adaptation Could Lift Labour Income by Equivalent of 150 Million Jobs by 2050, World Bank Says",
-      "link": "https://thehighstreetjournal.com/climate-adaptationcouldlift-labour-income/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T16:06:00.000Z",
-      "summary": "The Bank estimates that adaptation measures could increase labour income by the equivalent of 35 million jobs"
     }
   ]
 };
