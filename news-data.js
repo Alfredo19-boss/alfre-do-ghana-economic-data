@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T17:46:10.234Z",
+  "updated": "2026-11-12T20:38:44.342Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,97 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gov’t to merge MIIF and GIIF to establish Ghana Sovereign Wealth Fund – Finance Minister",
+      "link": "https://www.myjoyonline.com/govt-to-merge-miif-and-giif-to-establish-ghana-sovereign-wealth-fund-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:33:47.000Z",
+      "summary": "The government plans to merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund aimed at improving…"
+    },
+    {
+      "title": "Government to uncap Exim Bank levies to boost poultry production – Ato Forson",
+      "link": "https://www.myjoyonline.com/government-to-uncap-exim-bank-levies-to-boost-poultry-production-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:30:02.000Z",
+      "summary": "Government will uncap the levies allocated to the Ghana Export-Import Bank (Exim Bank) to increase its funding capacity and support local poultry production."
+    },
+    {
+      "title": "“Your cash is ready, come for your money” – Ato Forson announces early redemption of GH¢29bn DDEP bonds",
+      "link": "https://www.myjoyonline.com/your-cash-is-ready-come-for-your-money-ato-forson-announces-early-redemption-of-gh%c2%a229bn-ddep-bonds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:22:05.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced the early redemption of GH¢29 billion in Domestic Debt Exchange Programme (DDEP) bonds due in February 2027, assuring bondholders that…"
+    },
+    {
+      "title": "Gov’t to remove funding cap, free up GH¢1bn for youth employment programmes – Ato Forson",
+      "link": "https://www.myjoyonline.com/govt-to-remove-funding-cap-free-up-gh%c2%a21bn-for-youth-employment-programmes-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:11:12.000Z",
+      "summary": "The government plans to free up an additional GH¢1 billion for youth employment and apprenticeship programmes by removing the cap on funding allocated to the initiatives."
+    },
+    {
+      "title": "No new taxes in 2027 Budget as government moves to improve revenue collection – Ato Forson",
+      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-budget-as-government-moves-to-improve-revenue-collection-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T19:50:28.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says the government will not introduce any new taxes in 2027, opting instead to strengthen revenue collection and improve the administration of…"
+    },
+    {
+      "title": "Government to invest $1bn in Pwalugu multipurpose dam, first phase expected by 2029",
+      "link": "https://www.myjoyonline.com/government-to-invest-1bn-in-pwalugu-multipurpose-dam-first-phase-expected-by-2029/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T19:17:03.000Z",
+      "summary": "Government is planning to invest US$1 billion in the full completion of the Pwalugu Multipurpose Dam, as part of efforts to boost agricultural production, expand agro-processing and…"
+    },
+    {
+      "title": "Government targets self-sufficiency in sugar production by 2030",
+      "link": "https://www.myjoyonline.com/government-targets-self-sufficiency-in-sugar-production-by-2030/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T19:12:16.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana will pursue self-sufficiency in sugar production by 2030 as part of efforts to reduce dependence on imports and strengthen domestic…"
+    },
+    {
+      "title": "Ghana’s Financial Inclusion Gap Shifts Focus to Household Security and Small Business Resilience",
+      "link": "https://thehighstreetjournal.com/ghanas-financial-inclusion-gap-shifts-focus-to-household-security-and-small-business-resilience/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T19:11:01.000Z",
+      "summary": "Ghana's financial inclusion gains face a deeper test as only 22% of adults achieve financial health, highlighting the need for savings, suitable credit and stronger small business…"
+    },
+    {
+      "title": "Government commits GH¢30bn to New Economy Programme in 2027",
+      "link": "https://www.myjoyonline.com/government-commits-gh%c2%a230bn-to-new-economy-programme-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T19:09:43.000Z",
+      "summary": "Government is committing GH¢30 billion to its proposed New Economy Programme in 2027, as part of efforts to transform Ghana’s economic structure, expand businesses and create jobs…"
+    },
+    {
+      "title": "Government targets 8% GDP growth, unemployment below 8% by 2030",
+      "link": "https://www.myjoyonline.com/government-targets-8-gdp-growth-unemployment-below-8-by-2030/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T18:50:18.000Z",
+      "summary": "The government is targeting real gross domestic product (GDP) growth of about 8 per cent and an unemployment rate below 8 per cent by 2030 under its New Economy programme. Finance Minister…"
+    },
+    {
+      "title": "Ecobank Ties X’mas Rewards to Savings, Borrowing and Digital Banking",
+      "link": "https://thehighstreetjournal.com/ecobank-ties-xmas-rewards-to-savings-borrowing-and-digital-banking/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T18:49:52.000Z",
+      "summary": "Ecobank Ghana's Blue Christmas campaign rewards customer banking activities while encouraging regular savings, responsible borrowing and increased use of digital banking services."
+    },
+    {
+      "title": "SmartPensions targets informal sector workers as People’s Pension Trust, Pan-African launch retirement scheme",
+      "link": "https://www.myjoyonline.com/smartpensions-targets-informal-sector-workers-as-peoples-pension-trust-pan-african-launch-retirement-scheme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T18:48:24.000Z",
+      "summary": "The initiative, launched at Madina market in Accra, is designed to enable traders, artisans, drivers, entrepreneurs and other self-employed individuals to build retirement savings through…"
+    },
+    {
+      "title": "2027 Budget: Ato Forson pledges disciplined use of fiscal space to create jobs and boost production",
+      "link": "https://www.myjoyonline.com/2027-budget-ato-forson-pledges-disciplined-use-of-fiscal-space-to-create-jobs-and-boost-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T18:39:57.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says the government must use every cedi of fiscal space to generate jobs, strengthen domestic production and create lasting value for Ghanaians…"
+    },
     {
       "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
       "link": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
@@ -979,97 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T16:40:32.000Z",
       "summary": "The D. A. Twum Jnr. Fellowship, powered by The Ninani Group, has successfully graduated its pioneer cohort following a three-month immersive learning and industry development programme…"
-    },
-    {
-      "title": "Ghana Records Fresh and First Ghana-led Oil and Gas Discovery",
-      "link": "https://thehighstreetjournal.com/ghana-records-fresh-and-first-ghana-led-oil-and-gas-discovery/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T16:28:17.000Z",
-      "summary": "President Mahama announced a major offshore hydrocarbon discovery in the Tano Basin by Ghanaian-led Planet One, highlighting growing indigenous capacity in energy exploration."
-    },
-    {
-      "title": "OPEC Fund, SEforALL Push to Scale Up Electricity Access Across Africa",
-      "link": "https://thehighstreetjournal.com/opec-fund-seforall-push-electricity-reach/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T16:03:00.000Z",
-      "summary": "Expanding access to reliable and affordable energy was critical to improving living standards, strengthening healthcare delivery and creating economic opportunities"
-    },
-    {
-      "title": "Drought Takes a Toll on Farmers as Water Shortages Disrupt Production",
-      "link": "https://thehighstreetjournal.com/drought-takes-a-toll-on-farmers-as-water-shortages-disrupt-production/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T15:40:00.000Z",
-      "summary": "A UCC crop scientist warns that prolonged water shortages are already destroying farm investments, with food supplies and prices at risk as Ghana struggles to prepare for drier conditions."
-    },
-    {
-      "title": "Telecel Ghana targets 20,000 merchants with new e-commerce platform, launches e-wallet",
-      "link": "https://www.myjoyonline.com/telecel-ghana-targets-20000-merchants-with-new-e-commerce-platform-launches-e-wallet/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:31:00.000Z",
-      "summary": "Telecel Ghana aims to reach 20,000 local merchants by the end of 2026 as it expands its digital commerce operations by launching a new e-commerce platform and a network-agnostic e-wallet."
-    },
-    {
-      "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
-      "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:19:49.000Z",
-      "summary": "Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, says Ghana’s capital market has sufficient funds to support businesses and major infrastructure projects but lacks a strong…"
-    },
-    {
-      "title": "Ghana’s economic stability is real but not yet self-sustaining – IMF",
-      "link": "https://www.myjoyonline.com/ghanas-economic-stability-is-real-but-not-yet-self-sustaining-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:15:59.000Z",
-      "summary": "The International Monetary Fund (IMF) Resident Representative for Ghana, Dr. Adrian Alter, says Ghana’s recent economic stability is real but not yet self-sustaining, warning that…"
-    },
-    {
-      "title": "2027 budget to be presented at 6 pm on Thursday – Bagbin",
-      "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:10:08.000Z",
-      "summary": "The 2027 Budget Statement and Economic Policy will be presented to Parliament at 6pm on Thursday, November 12, Speaker Alban Bagbin has announced. The Speaker disclosed this in Parliament…"
-    },
-    {
-      "title": "2027 budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
-      "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:02:07.000Z",
-      "summary": "Agricultural economist Professor Irene Egyir has called on the government to increase investment in commercial agriculture and rural infrastructure in the 2027 Budget, saying farmers need…"
-    },
-    {
-      "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
-      "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:47:42.000Z",
-      "summary": "Republic Financial Holdings Limited (RFHL) has announced a historic leadership transition following the retirement of Nigel Baptiste as Group President and Chief Executive Officer of RFHL…"
-    },
-    {
-      "title": "Rising Global Debt Costs Put Ghana’s Development Financing Under Pressure",
-      "link": "https://thehighstreetjournal.com/rising-global-debt-costs-put-ghanas-development-financing-under-pressure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T14:45:00.000Z",
-      "summary": "Developing countries' external debt reached US$9.4 trillion in 2025, as rising interest costs and repayments threaten development spending, reinforcing the need for Ghana to prioritise…"
-    },
-    {
-      "title": "GUTA calls for cheaper credit, lower business costs in 2027 Budget",
-      "link": "https://www.myjoyonline.com/guta-calls-for-cheaper-credit-lower-business-costs-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:40:30.000Z",
-      "summary": "The Ghana Union of Traders Associations (GUTA) has urged the government to introduce measures in the 2027 Budget to create a more enabling business environment, improve access to affordable…"
-    },
-    {
-      "title": "Dangote storms Ghana as President Mahama, GIPA’s Madjie lead Investment Summit on November 16-17, 2026",
-      "link": "https://www.myjoyonline.com/dangote-storms-ghana-as-president-mahama-gipas-madjie-lead-investment-summit-on-november-16-17-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:24:37.000Z",
-      "summary": "The two-day summit, scheduled for November 16–17 at the Kempinski Hotel Gold Coast City in Accra, will bring together local and international stakeholders to explore investment…"
-    },
-    {
-      "title": "Developing countries’ external debt surges to a record $9.4trn – World Bank",
-      "link": "https://www.myjoyonline.com/developing-countries-external-debt-surges-to-a-record-9-4trn-world-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:01:00.000Z",
-      "summary": "Access to international finance has improved, but the price of finance has not, and high debt burdens in the poorest countries threaten to crowd out essential investments in people."
     }
   ]
 };

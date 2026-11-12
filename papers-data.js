@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:46:40.807Z",
+  "updated": "2026-11-12T20:39:14.080Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,93 +21,166 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Adu-Boahene’s lawyer hints at appeal, says court ruling has ‘gaping hole’",
-      "link": "https://www.myjoyonline.com/adu-boahenes-lawyer-hints-at-appeal-says-court-ruling-has-gaping-hole/",
+      "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
+      "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T17:37:46.000Z",
-      "summary": "Lawyer for former National Signals Bureau (NSB) Director-General, Kwabena Adu-Boahene, Samuel Atta Akyea, says the defence has sufficient grounds to challenge the court's decision ordering…",
-      "categories": [
-        "Crime",
-        "National",
-        "Politics",
-        "Adu Boahene",
-        "Atta Akyea",
-        "National Signals Bureau"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketiah says port investments key to Ghana’s trade and job creation",
-      "link": "https://www.myjoyonline.com/asiedu-nketiah-says-port-investments-key-to-ghanas-trade-and-job-creation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:32:25.000Z",
-      "summary": "National Democratic Congress (NDC) National Chairman and Board Chairman of the Ghana Ports and Harbours Authority (GPHA), Johnson Asiedu Nketiah, says investments in port infrastructure are…",
-      "categories": [
-        "National",
-        "Johnson Asiedu Nketiah",
-        "Takoradi Port projects"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Austin Gamey questions claims of massive youth unemployment in Ghana",
-      "link": "https://www.myjoyonline.com/austin-gamey-questions-claims-of-massive-youth-unemployment-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:29:49.000Z",
-      "summary": "Labour expert Austin Gamey has disputed claims of massive youth unemployment in Ghana, arguing that many young people classified as unemployed are engaged in informal economic activities…",
-      "categories": [
-        "National",
-        "Austin Gamey",
-        "Ghana",
-        "Unemployment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tea or coffee: Which is better for your health?",
-      "link": "https://www.myjoyonline.com/tea-or-coffee-which-is-better-for-your-health/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:28:55.000Z",
-      "summary": "For some people, the day does not begin until they have had a cup of coffee, while others prefer tea to ease into their morning.",
-      "categories": [
-        "Health",
-        "HP Lifestyle 2",
-        "Lifestyle",
-        "National",
-        "Coffee",
-        "FOCOS Orthopaedic Hospital",
-        "Tea"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
-      "link": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:27:31.000Z",
-      "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at…",
+      "published": "2026-11-12T20:35:20.000Z",
+      "summary": "The Ghana Export-Import Bank (EXIM Bank) will become the sole financial institution responsible for financing Ghana's poultry sector under a four-year programme beginning in 2027.",
       "categories": [
         "Banking and Finance",
-        "Education",
         "National",
-        "Best Assurance",
-        "exercise books",
-        "GETFund"
+        "Exim Bank",
+        "Poultry sector"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Facing our past and shaping our future together",
-      "link": "https://www.myjoyonline.com/facing-our-past-and-shaping-our-future-together/",
+      "title": "Gov’t to merge MIIF and GIIF to establish Ghana Sovereign Wealth Fund – Finance Minister",
+      "link": "https://www.myjoyonline.com/govt-to-merge-miif-and-giif-to-establish-ghana-sovereign-wealth-fund-finance-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T17:22:55.000Z",
-      "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
+      "published": "2026-11-12T20:33:47.000Z",
+      "summary": "The government plans to merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund aimed at improving…",
       "categories": [
-        "Opinion",
-        "British High Commissioner to Ghana",
-        "Dr Christian Rogg"
+        "Business",
+        "National",
+        "Dr Cassiel Ato Forson",
+        "Ghana Infrastructure Investment Fund",
+        "Ghana Sovereign Wealth Fund",
+        "Minerals Income Investment Fund (MIIF)"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to uncap Exim Bank levies to boost poultry production – Ato Forson",
+      "link": "https://www.myjoyonline.com/government-to-uncap-exim-bank-levies-to-boost-poultry-production-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:30:02.000Z",
+      "summary": "Government will uncap the levies allocated to the Ghana Export-Import Bank (Exim Bank) to increase its funding capacity and support local poultry production.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "National",
+        "Exim Bank",
+        "Poultry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: Gov’t to construct 10 multipurpose sports stadia in underserved regions",
+      "link": "https://www.myjoyonline.com/2027-budget-govt-to-construct-10-multipurpose-sports-stadia-in-underserved-regions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:29:57.000Z",
+      "summary": "Government has announced plans to construct 10 new multipurpose sports stadia across underserved regions in 2027 as part of efforts to improve sports infrastructure and grassroots…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "2027 Budget"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SSNIT to build five-star hotels in Accra and Kumasi under new tourism plan",
+      "link": "https://www.myjoyonline.com/ssnit-to-build-five-star-hotels-in-accra-and-kumasi-under-new-tourism-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:29:35.000Z",
+      "summary": "Government has announced plans to facilitate the construction of five-star hotels in Accra and Kumasi by 2030 as part of efforts to strengthen Ghana's tourism and hospitality industry.",
+      "categories": [
+        "National",
+        "Accra",
+        "Hotels",
+        "Kumasi",
+        "SNNIT",
+        "Tourism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“Your cash is ready, come for your money” – Ato Forson announces early redemption of GH¢29bn DDEP bonds",
+      "link": "https://www.myjoyonline.com/your-cash-is-ready-come-for-your-money-ato-forson-announces-early-redemption-of-gh%c2%a229bn-ddep-bonds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:22:05.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced the early redemption of GH¢29 billion in Domestic Debt Exchange Programme (DDEP) bonds due in February 2027, assuring bondholders that…",
+      "categories": [
+        "Business",
+        "HP News 4",
+        "National",
+        "bondholders",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government allocates GH¢3.5bn to Youth Ministry, GH¢2bn earmarked for jobs and skills",
+      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a23-5bn-to-youth-ministry-gh%c2%a22bn-earmarked-for-jobs-and-skills/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:19:27.000Z",
+      "summary": "The government has allocated GH¢3.5 billion to the Ministry of Youth Development and Empowerment in the 2027 Budget to support young people's participation in the economy, with a…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "youth ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t to remove funding cap, free up GH¢1bn for youth employment programmes – Ato Forson",
+      "link": "https://www.myjoyonline.com/govt-to-remove-funding-cap-free-up-gh%c2%a21bn-for-youth-employment-programmes-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:11:12.000Z",
+      "summary": "The government plans to free up an additional GH¢1 billion for youth employment and apprenticeship programmes by removing the cap on funding allocated to the initiatives.",
+      "categories": [
+        "Economy",
+        "National",
+        "Dr Cassiel Ato Forson",
+        "funding cap",
+        "Youth employment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Finance Minister offers early GH¢29bn DDEP redemption, targets GH¢36bn debt clearance by December",
+      "link": "https://www.graphic.com.gh/news/general-news/finance-minister-offers-early-ghc29bn-ddep-redemption-targets-ghc36bn-debt-clearance-by-december.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T20:04:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Government extends local procurement policy to hospital textiles, security uniforms",
+      "link": "https://www.graphic.com.gh/news/general-news/government-extends-local-procurement-policy-to-hospital-textiles-security-uniforms.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T19:50:46.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Government targets installation of 2 million prepaid meters, full private-sector participation in power distribution by end of 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/government-targets-installation-of-2-million-prepaid-meters-full-private-sector-participation-in-power-distribution-by-end-of-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T19:33:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2027 Budget: Government commits US$3bn to agriculture, GH¢30bn to the new economy",
+      "link": "https://www.graphic.com.gh/news/general-news/2027-budget-government-allocates-ghc30bn-to-new-economy-us-3bn-to-agriculture.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T19:06:34.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "UKGCC donates GH₵923,000 to boost neonatal care at PMLCH",
@@ -119,32 +192,6 @@ window.GDC_PAPERS = {
         "Health"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fix produce markets, reduce input costs – 2019 Best Farmer runner-up urges gov’t ahead of 2027 budget",
-      "link": "https://www.myjoyonline.com/fix-produce-markets-reduce-input-costs-2019-best-farmer-runner-up-urges-govt-ahead-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:17:59.000Z",
-      "summary": "Hours before the government presents the 2027 Budget this evening, one of Ghana’s most decorated farmers has sent a blunt message: fix the market, or farming will collapse.",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Alhaji Antiku Abdulai"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
-      "link": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:14:32.000Z",
-      "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and…",
-      "categories": [
-        "Economy",
-        "National",
-        "Social Enterprise Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GES Interdicts two Aduman SHS teachers over alleged sexual misconduct against male student",
@@ -245,50 +292,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/two-aduman-shs-teachers-interdicted-over-alleged-sexual-misconduct.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T14:52:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES interdicts two Aduman SHS teachers over alleged sexual misconduct involving male student",
-      "link": "https://www.graphic.com.gh/news/general-news/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-involving-male-student.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T14:52:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
-      "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T13:31:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama launches Ghana Cedi Heritage Series Banknotes, unveils $10billion economic transformation plan",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-launches-ghana-cedi-heritage-series-banknotes-unveils-10billion-economic-transformation-plan.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T13:28:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Here are the names of the faces on the newly introduced Ghana cedi notes and the security features",
-      "link": "https://www.graphic.com.gh/news/general-news/these-are-the-names-of-the-faces-on-the-newly-introduced-ghana-cedi-notes-and-the-security-features.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T13:25:34.000Z",
       "summary": "",
       "categories": [
         "General News"
