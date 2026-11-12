@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T13:31:09.883Z",
+  "updated": "2026-11-12T13:41:09.828Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GHIB partners with property specialists to connect African clients with London residential developments",
+      "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:37:44.000Z",
+      "summary": "Ghana International Bank plc (GHIB) has announced a collaboration with Daniel Ford International and the Berkeley Group to provide African clients with information on selected residential…"
+    },
+    {
+      "title": "New Heritage Series Cedi Notes to Begin Circulation on December 1 2026",
+      "link": "https://thehighstreetjournal.com/new-heritage-series-cedi-notes-to-begin-circulation-on-december-1-2026/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T13:33:54.000Z",
+      "summary": "Bank of Ghana will introduce Heritage Series cedi notes on December 1, 2026, alongside existing banknotes, which remain legal tender, ensuring a gradual transition without disrupting…"
+    },
     {
       "title": "Take a look at the new Ghana cedi notes introduced by the Bank of Ghana",
       "link": "https://www.myjoyonline.com/take-a-look-at-the-new-ghana-cedi-notes-introduced-by-the-bank-of-ghana/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T12:05:00.000Z",
       "summary": "OmniBSIC Bank has been named Marketing-Oriented Bank of the Year at the 37th Chartered Institute of Marketing, Ghana (CIMG) National Marketing Performance Awards. In addition, the Bank…"
-    },
-    {
-      "title": "GACL Set to Deepen Revenue Diversification as Passenger Traffic Rises",
-      "link": "https://thehighstreetjournal.com/gacl-set-to-deepen-revenue-diversification-as-passenger-traffic-rises/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T12:02:34.000Z",
-      "summary": "GACL is targeting stronger commercial revenue as passenger traffic rises, with the Vice President calling for diversification to reduce reliance on aviation income and fund airport…"
-    },
-    {
-      "title": "Republic Bank Names First Female Group CEO as Nigel Baptiste Retires",
-      "link": "https://gna.org.gh/2026/11/republic-bank-names-first-female-group-ceo-as-nigel-baptiste-retires/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-10T11:50:45.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };

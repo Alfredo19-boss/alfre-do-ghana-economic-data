@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:31:41.893Z",
+  "updated": "2026-11-12T13:41:40.516Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GHIB partners with property specialists to connect African clients with London residential developments",
+      "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:37:44.000Z",
+      "summary": "Ghana International Bank plc (GHIB) has announced a collaboration with Daniel Ford International and the Berkeley Group to provide African clients with information on selected residential…",
+      "categories": [
+        "Africa",
+        "National",
+        "Real Estate",
+        "Ghana International Bank PLC",
+        "London residents",
+        "UK banking"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama launches Ghana Cedi Heritage Series Banknotes, unveils $10billion economic transformation plan",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-launches-ghana-cedi-heritage-series-banknotes-unveils-10billion-economic-transformation-plan.html",
@@ -133,23 +149,6 @@ window.GDC_PAPERS = {
         "BoG",
         "Education",
         "Heritage Series banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tensions rise in Manso Keniago as angry youth confront chief, accuse DCE over six deaths",
-      "link": "https://www.myjoyonline.com/tensions-rise-in-manso-keniago-as-angry-youth-confront-chief-accuse-dce-over-six-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:00:12.000Z",
-      "summary": "Angry youth at Manso Keniago in the Ashanti Region have besieged the palace of the paramount chief and nearly attacked the District Chief Executive (DCE) following the deadly confrontation…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Regional",
-        "Galamsey",
-        "Illegal mining",
-        "NAIMOS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
