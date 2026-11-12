@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T02:58:17.051Z",
+  "updated": "2026-11-12T03:08:16.805Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
+      "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T02:16:00.000Z",
+      "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…"
+    },
     {
       "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
       "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T15:26:14.000Z",
       "summary": "As Ghana advances its regulatory framework for digital assets, the global cryptocurrency exchange outlined potential applications of blockchain technology at AVAS 2026. WhiteBIT, a global…"
-    },
-    {
-      "title": "ISSER calls for increased capital spending to support businesses",
-      "link": "https://www.myjoyonline.com/isser-calls-for-increased-capital-spending-to-support-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T15:11:44.000Z",
-      "summary": "The Director of the Institute of Statistical, Social and Economic Research (ISSER), Professor Robert Darko Osei, is urging government to increase capital expenditure to support businesses…"
     }
   ]
 };
