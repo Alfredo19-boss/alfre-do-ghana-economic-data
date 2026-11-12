@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T14:01:09.849Z",
+  "updated": "2026-11-12T14:11:11.595Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
+      "link": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:02:51.000Z",
+      "summary": "President John Dramani Mahama has called on Ghanaians to put aside political differences and take collective responsibility for protecting the cedi, insisting that the national currency…"
+    },
     {
       "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
       "link": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T12:56:58.000Z",
       "summary": "The government is proposing a new royalty framework for petroleum operations, with payments to be determined under a three-tier sliding scale linked to the water depth of oil and gas…"
-    },
-    {
-      "title": "GNPC targets first Voltaian Basin exploration well by end of 2026",
-      "link": "https://www.myjoyonline.com/gnpc-targets-first-voltaian-basin-exploration-well-by-end-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T12:16:06.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) is preparing to drill its first exploration well in the Voltaian Basin by the end of 2026, as it advances efforts to assess the area’s…"
     }
   ]
 };

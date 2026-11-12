@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T14:01:40.540Z",
+  "updated": "2026-11-12T14:11:42.053Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UEW partners universities in Togo, Côte d’Ivoire and Benin on PhD training and research",
+      "link": "https://www.myjoyonline.com/uew-partners-universities-in-togo-cote-divoire-and-benin-on-phd-training-and-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:07:05.000Z",
+      "summary": "The University of Education, Winneba (UEW), is pursuing stronger academic collaboration with three West African universities to promote joint supervision of doctoral students, research…",
+      "categories": [
+        "Education",
+        "PhD programmes",
+        "UEW",
+        "Université d'Abomey-Calavi in Benin.",
+        "Université de Lomé in Togo",
+        "Université Félix Houphouët-Boigny in Côte d’Ivoire",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
+      "link": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:02:51.000Z",
+      "summary": "President John Dramani Mahama has called on Ghanaians to put aside political differences and take collective responsibility for protecting the cedi, insisting that the national currency…",
+      "categories": [
+        "Business",
+        "National",
+        "Heritage Series banknotes",
+        "Mahama",
+        "Political parties"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Health Ministry warns against fake fundraising campaign targeting Mercy Ships patients",
       "link": "https://www.myjoyonline.com/health-ministry-warns-against-fake-fundraising-campaign-targeting-mercy-ships-patients/",
@@ -115,22 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GHIB partners with property specialists to connect African clients with London residential developments",
-      "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:37:44.000Z",
-      "summary": "Ghana International Bank plc (GHIB) has announced a collaboration with Daniel Ford International and the Berkeley Group to provide African clients with information on selected residential…",
-      "categories": [
-        "Africa",
-        "National",
-        "Real Estate",
-        "Ghana International Bank PLC",
-        "London residents",
-        "UK banking"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
       "source": "Daily Graphic",
@@ -153,7 +169,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "These are the names of the faces on the newly introduced Ghana cedi notes and the security features",
+      "title": "Here are the names of the faces on the newly introduced Ghana cedi notes and the security features",
       "link": "https://www.graphic.com.gh/news/general-news/these-are-the-names-of-the-faces-on-the-newly-introduced-ghana-cedi-notes-and-the-security-features.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T13:25:34.000Z",
@@ -162,20 +178,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NAIMOS says personnel acted in self-defence during Manso Keniago clash that left six dead",
-      "link": "https://www.myjoyonline.com/naimos-says-personnel-acted-in-self-defence-during-manso-keniago-clash-that-left-six-dead/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:23:23.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says the deaths recorded during Wednesday's confrontation at Manso Keniago in the Ashanti Region resulted from an act of…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "Manso Keniago",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Old cedi notes remain legal tender — BoG sets December 1 rollout for Heritage Series",
