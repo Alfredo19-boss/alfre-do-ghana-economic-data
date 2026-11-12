@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T03:18:16.283Z",
+  "updated": "2026-11-12T03:28:15.911Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "120% collateral requirement shuts businesses out of credit — AGI",
+      "link": "https://www.myjoyonline.com/120-collateral-requirement-shuts-businesses-out-of-credit-agi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T03:23:16.000Z",
+      "summary": "The Chairman of the Economic Affairs Committee of the Association of Ghana Industries (AGI), Eric Defor, has raised concerns about the difficulty businesses continue to face in securing…"
+    },
     {
       "title": "‘Buyers have no money; we are sitting idle’ — Kantamanto trader",
       "link": "https://www.myjoyonline.com/buyers-have-no-money-we-are-sitting-idle-kantamanto-trader/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T16:06:00.000Z",
       "summary": "The Bank estimates that adaptation measures could increase labour income by the equivalent of 35 million jobs"
-    },
-    {
-      "title": "World Bank Warns Weak Climate Governance Threatens Economic Growth Across 103 Economies",
-      "link": "https://thehighstreetjournal.com/world-bank-warns-weak-climate-governance/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T15:40:00.000Z",
-      "summary": "Projected economic losses from climate impacts range from 1% to 20% of gross domestic product by 2050 under current policies in the economies assessed"
     }
   ]
 };
