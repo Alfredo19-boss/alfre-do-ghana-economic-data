@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T21:34:16.272Z",
+  "updated": "2026-11-12T21:39:15.105Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government sets 2027 deadline for local refining of 70% of small-scale gold",
+      "link": "https://www.myjoyonline.com/government-sets-2027-deadline-for-local-refining-of-70-of-small-scale-gold/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:34:39.000Z",
+      "summary": "The government plans to ensure that at least 70 per cent of Ghana's artisanal and small-scale mining gold is refined locally by December 2027, as part of efforts to retain more value from…",
+      "categories": [
+        "National",
+        "Dr Cassiel Ato Forson",
+        "Small-scale mining"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two remanded over murder of woman who travelled to recover GH¢19,000 debt",
+      "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-who-travelled-to-recover-gh%c2%a219000-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:33:44.000Z",
+      "summary": "Two persons have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Rejoice Sena Akpaku, whose body was…",
+      "categories": [
+        "Crime",
+        "HP News 10",
+        "News",
+        "Regional",
+        "Murder",
+        "travelled"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: GH¢40.3bn allocated to Health Ministry for hospitals, NHIS and healthcare delivery",
+      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a240-3bn-allocated-to-health-ministry-for-hospitals-nhis-and-healthcare-delivery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:32:39.000Z",
+      "summary": "The government has allocated GH¢40.3 billion to the Ministry of Health in the 2027 Budget to strengthen healthcare delivery, expand medical infrastructure and support health workers and…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "NHIS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Volta NDC urges Minority to stop attempts to smear Ablakwa with scandals",
       "link": "https://www.myjoyonline.com/volta-ndc-urges-minority-to-stop-attempts-to-smear-ablakwa-with-scandals/",
@@ -103,47 +145,6 @@ window.GDC_PAPERS = {
         "Politics",
         "NDC",
         "Stephen Donkor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "They planted juju in my jacket at Davido’s house – Peruzzi",
-      "link": "https://www.myjoyonline.com/they-planted-juju-in-my-jacket-at-davidos-house-peruzzi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:17:00.000Z",
-      "summary": "Singer Peruzzi said a charm was planted in his jacket while he was at Davido's house.",
-      "categories": [
-        "Music",
-        "Davido",
-        "Peruzzi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government targets local production of up to 80% of essential medicines by 2030",
-      "link": "https://www.myjoyonline.com/government-targets-local-production-of-up-to-80-of-essential-medicines-by-2030/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:13:01.000Z",
-      "summary": "The government is planning to amend public procurement laws to ensure that state institutions prioritise medicines manufactured in Ghana when making purchases with public funds.",
-      "categories": [
-        "National",
-        "Medicines",
-        "Phamarmacies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to exempt solar panels and batteries from import duties – Ato Forson",
-      "link": "https://www.myjoyonline.com/govt-to-exempt-solar-panels-and-batteries-from-import-duties-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:12:23.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to exempt solar panels and batteries from import duties and Value Added Tax (VAT) as part of efforts to reduce the cost of…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Batteries",
-        "Import Duties",
-        "Solar panels"
       ],
       "site": "https://www.myjoyonline.com/"
     },
