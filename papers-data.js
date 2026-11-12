@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T23:19:16.699Z",
+  "updated": "2026-11-12T23:24:15.243Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority caucus demands jobs and recruitment funding, challenges call for patience",
+      "link": "https://www.myjoyonline.com/minority-caucus-demands-jobs-and-recruitment-funding-challenges-call-for-patience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T23:20:42.000Z",
+      "summary": "The Minority caucus has demanded clear funding for jobs and public-sector recruitment, rejecting the government’s appeal for patience after presenting the 2027 Budget.",
+      "categories": [
+        "Politics",
+        "2027 Budget",
+        "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cloudflare brings WebRTC broadcasting out of beta",
       "link": "https://ghanaiantimes.com.gh/cloudflare-brings-webrtc-broadcasting-out-of-beta/",
@@ -137,19 +150,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Murder",
         "travelled"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: GH¢40.3bn allocated to Health Ministry for hospitals, NHIS and healthcare delivery",
-      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a240-3bn-allocated-to-health-ministry-for-hospitals-nhis-and-healthcare-delivery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:32:39.000Z",
-      "summary": "The government has allocated GH¢40.3 billion to the Ministry of Health in the 2027 Budget to strengthen healthcare delivery, expand medical infrastructure and support health workers and…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "NHIS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
