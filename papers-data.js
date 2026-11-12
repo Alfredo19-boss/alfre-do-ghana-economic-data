@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:31:41.461Z",
+  "updated": "2026-11-12T17:36:41.319Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Austin Gamey questions claims of massive youth unemployment in Ghana",
+      "link": "https://www.myjoyonline.com/austin-gamey-questions-claims-of-massive-youth-unemployment-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:29:49.000Z",
+      "summary": "Labour expert Austin Gamey has disputed claims of massive youth unemployment in Ghana, arguing that many young people classified as unemployed are engaged in informal economic activities…",
+      "categories": [
+        "National",
+        "Austin Gamey",
+        "Ghana",
+        "Unemployment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tea or coffee: Which is better for your health?",
+      "link": "https://www.myjoyonline.com/tea-or-coffee-which-is-better-for-your-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:28:55.000Z",
+      "summary": "For some people, the day does not begin until they have had a cup of coffee, while others prefer tea to ease into their morning.",
+      "categories": [
+        "Health",
+        "HP Lifestyle 2",
+        "Lifestyle",
+        "National",
+        "Coffee",
+        "FOCOS Orthopaedic Hospital",
+        "Tea"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
+      "link": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:27:31.000Z",
+      "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at…",
+      "categories": [
+        "Banking and Finance",
+        "Education",
+        "National",
+        "Best Assurance",
+        "exercise books",
+        "GETFund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Facing our past and shaping our future together",
       "link": "https://www.myjoyonline.com/facing-our-past-and-shaping-our-future-together/",
@@ -123,35 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "AFCON 2027Q: Black Stars beat Somalia on return to Sekondi after 16 years",
-      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-beat-somalia-on-return-to-sekondi-after-16-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:01:18.000Z",
-      "summary": "Ghana earned a 2-0 win over the Somalis at the Essipong Sports Stadium to breathe hope into their quest for an AFCON return.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Huawei opens applications for Data Communication training under One Million Coders programme",
-      "link": "https://www.myjoyonline.com/huawei-opens-applications-for-data-communication-training-under-one-million-coders-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:00:26.000Z",
-      "summary": "Huawei, in partnership with the Ministry of Communication, Digital Technology and Innovations, has opened applications for the Data Communication training course under the Government of…",
-      "categories": [
-        "Technology",
-        "Huawei",
-        "One Million Coders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Former President Akufo-Addo to lead ECOWAS Election Observation Mission to Nigeria",
       "link": "https://ghanaiantimes.com.gh/former-president-akufo-addo-to-lead-ecowas-election-observation-mission-to-nigeria/",
       "source": "Ghanaian Times",
@@ -186,20 +204,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kofi Annan’s appearance on GH¢100 note a fitting tribute – UN Ghana",
-      "link": "https://www.myjoyonline.com/kofi-annans-appearance-on-gh%c2%a2100-note-a-fitting-tribute-un-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:55:08.000Z",
-      "summary": "The United Nations (UN) in Ghana has welcomed the inclusion of the late Kofi Annan, former UN Secretary-General, in the Bank of Ghana's newly launched Heritage Series banknotes, describing…",
-      "categories": [
-        "National",
-        "GH₵100 heritage note",
-        "Kofi Annan",
-        "United Nations Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Prez Mahama launches new Ghana heritage series banknotes",
