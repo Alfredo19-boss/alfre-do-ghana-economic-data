@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:07:11.697Z",
+  "updated": "2026-11-12T06:17:10.540Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vehicle knocks down police officer on duty …kills him on the spot",
+      "link": "https://ghanaiantimes.com.gh/vehicle-knocks-down-police-officer-on-duty-kills-him-on-the-spot/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:07:31.000Z",
+      "summary": "A police inspector attached to the Nkawie District Police Command in Ashanti has lost his life after being struck by a vehicle while on duty along the Abuakwa-Bibiani Highway. The officer…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest 2 suspects, seize counterfeit fabrics worth GH¢20 million",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-2-suspects-seize-counterfeit-fabrics-worth-ghc20-million.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T06:05:43.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "MoGCSP calls for probe into death of 5-year-old girl at Mim",
       "link": "https://ghanaiantimes.com.gh/mogcsp-calls-for-probe-into-death-of-5-year-old-girl-at-mim/",
@@ -51,7 +74,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T05:41:12.000Z",
       "summary": "Frequent changes at the top of the Tema Oil Refinery (TOR) during the eight years of the previous administration undermined management stability and made it difficult to address the…",
       "categories": [
-        "HP News 1",
+        "HP News 9",
         "News",
         "Crude",
         "Oil",
@@ -66,7 +89,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T05:36:52.000Z",
       "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
       "categories": [
-        "HP News 10",
+        "In Focus",
         "News",
         "British",
         "Dr. Christian Rogg",
@@ -82,6 +105,8 @@ window.GDC_PAPERS = {
       "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
       "categories": [
         "Business",
+        "HP News 10",
+        "News",
         "Bank",
         "Interest",
         "Loan"
@@ -162,6 +187,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T03:10:21.000Z",
       "summary": "Traders at the Kantamanto Market in Accra are struggling to make sales as customers increasingly complain about a lack of money to buy goods, a situation that is putting pressure on…",
       "categories": [
+        "HP News 1",
+        "National",
+        "News",
         "Business",
         "Kantamanto"
       ],
@@ -260,17 +288,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gifty Oware trial: Investigator tells court 63,673 faceless names received allowances for no work done",
-      "link": "https://www.graphic.com.gh/news/general-news/gifty-oware-trial-investigator-tells-court-63-673-faceless-names-received-allowances-for-no-work-done.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T16:38:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ghana engages US civil rights lawyer Ben Crump to seek Justice For Ghanaians Killed In US",
       "link": "https://ghanaiantimes.com.gh/ghana-engages-us-civil-rights-lawyer-ben-crump-to-seek-justice-for-ghanaians-killed-in-us/",
       "source": "Ghanaian Times",
@@ -303,17 +320,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Parliament issues directives on Obuasi SHTS abuse scandal, demands fast-tracked prosecution",
-      "link": "https://ghanaiantimes.com.gh/parliament-issues-directives-on-obuasi-shts-abuse-scandal-demands-fast-tracked-prosecution/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:26:37.000Z",
-      "summary": "The Parliamentary Select Committees on Human Rights, Gender, Children and Social Welfare, and Education have issued a joint statement with decisive directives following a briefing by the…",
-      "categories": [
-        "Uncategorized"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
