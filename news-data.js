@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T02:38:15.858Z",
+  "updated": "2026-11-12T02:48:15.999Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
+      "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T01:29:00.000Z",
+      "summary": "The Chief Executive Officer of Dedeyao Farms, Daniel Asimadi, has called on the government to provide stronger financial and institutional support to farmers, warning that commercial…"
+    },
     {
       "title": "Zonda Tec, Rainbow support 42nd National Farmers’ Day",
       "link": "https://gna.org.gh/2026/11/zonda-tec-rainbow-support-42nd-national-farmers-day/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T15:11:44.000Z",
       "summary": "The Director of the Institute of Statistical, Social and Economic Research (ISSER), Professor Robert Darko Osei, is urging government to increase capital expenditure to support businesses…"
-    },
-    {
-      "title": "Ghana Energy Awards announces 2026 shortlisted nominees after record-breaking 600+ submissions",
-      "link": "https://www.myjoyonline.com/ghana-energy-awards-announces-2026-shortlisted-nominees-after-record-breaking-600-submissions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T14:27:27.000Z",
-      "summary": "The Secretariat of the prestigious Ghana Energy Awards (GEA) has officially announced the shortlisted nominees for the 2026 edition of the Awards, marking a significant milestone in the…"
     }
   ]
 };
