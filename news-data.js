@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T15:41:15.130Z",
+  "updated": "2026-11-12T15:51:10.877Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
+      "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:47:50.000Z",
+      "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027…"
+    },
     {
       "title": "Mahama Links Cedi Stability to $10bn New Economy Programme",
       "link": "https://thehighstreetjournal.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:18:05.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has exceeded its revenue target for the first ten months of 2026, collecting GH¢185.5 billion against a target of GH¢184.4 billion. The collection…"
-    },
-    {
-      "title": "Different in Manifesto, Different in Policy Paper, Different on Ground–The 3 Faces of the 24-Hour Economy",
-      "link": "https://thehighstreetjournal.com/different-in-manifesto-different-in-policy-paper-different-on-ground-the-3-faces-of-the-24-hour-economy/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T13:18:00.000Z",
-      "summary": "Economist Dr. Adu Owusu Sarkodie questions the direction of Ghana’s 24-Hour Economy, arguing that its manifesto promise, policy document and actual implementation differ significantly, with…"
     }
   ]
 };

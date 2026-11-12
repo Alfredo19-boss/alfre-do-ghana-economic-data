@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:41:41.030Z",
+  "updated": "2026-11-12T15:51:42.465Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
+      "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:47:50.000Z",
+      "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 5",
+        "2027 Budget",
+        "Deloitte"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s cocaine seizures abroad raise questions about port security, trade integrity and national reputation",
       "link": "https://www.myjoyonline.com/ghanas-cocaine-seizures-abroad-raise-questions-about-port-security-trade-integrity-and-national-reputation/",
@@ -42,7 +57,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T15:25:31.000Z",
       "summary": "From Ghana's first President, Dr Kwame Nkrumah, featured on the GH¢200 note, to renowned Accra market trader Agnes Oforiwa Tagoe-Quarcoopome on the GH¢1 note, the Bank of Ghana's new…",
       "categories": [
-        "HP News 7",
+        "HP News 2",
         "National",
         "News",
         "Heritage banknote",
@@ -59,6 +74,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T15:21:33.000Z",
       "summary": "The Ranking Member on Parliament’s Defence and Interior Committee, Rev. John Ntim Fordjour, has challenged President John Dramani Mahama to take decisive action against narcotics…",
       "categories": [
+        "HP News 7",
         "National",
         "Ghana",
         "Mahama",
@@ -131,20 +147,6 @@ window.GDC_PAPERS = {
         "2027 AFCON Qualifiers",
         "Black Stars",
         "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ntim Fordjour alleges $3bn worth of narcotics linked to Ghana seized abroad since Mahama took office",
-      "link": "https://www.myjoyonline.com/ntim-fordjour-alleges-3bn-worth-of-narcotics-linked-to-ghana-seized-abroad-since-mahama-took-office/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:02:17.000Z",
-      "summary": "Rev. John Ntim Fordjour has alleged that more than US$3 billion worth of drugs linked to Ghana have been seized abroad during President John Dramani Mahama’s tenure, warning that the…",
-      "categories": [
-        "National",
-        "Cocaine",
-        "Mahama",
-        "Ntim Fordjour"
       ],
       "site": "https://www.myjoyonline.com/"
     },
