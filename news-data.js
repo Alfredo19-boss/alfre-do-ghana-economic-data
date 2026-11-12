@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T05:56:42.800Z",
+  "updated": "2026-11-12T06:06:40.931Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,26 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
-    "Ghana Business News: 5/10 stories",
+    "The High Street Journal: 10/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GNPC welcomes offshore hydrocarbon discovery, signals boost for petroleum sector",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/gnpc-welcomes-offshore-hydrocarbon-discovery-signals-boost-for-petroleum-sector/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T06:06:19.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
+    },
+    {
+      "title": "MIIF CEO woos international investors to unlock Ghana’s mineral wealth",
+      "link": "https://www.ghanabusinessnews.com/2026/11/12/miif-ceo-woos-international-investors-to-unlock-ghanas-mineral-wealth/",
+      "source": "Ghana Business News",
+      "published": "2026-11-12T06:02:28.000Z",
+      "summary": "The Chief Executive Officer (CEO) of the Minerals Income Investment Fund (MIIF), Mrs Justina Nelson, has called for stronger partnerships with international investors to unlock Ghana’s…"
+    },
     {
       "title": "Ghana calls for stronger regional cooperation, climate finance to address climate mobility",
       "link": "https://www.ghanabusinessnews.com/2026/11/12/ghana-calls-for-stronger-regional-cooperation-climate-finance-to-address-climate-mobility/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-10T04:12:02.000Z",
       "summary": "Youth in the Volta Region have appealed to the Minister for Finance, Dr. Cassiel Ato Forson, to establish a favorable tax environment that stimulates business growth and addresses critical…"
-    },
-    {
-      "title": "Mahama announces Seven firms shortlisted to start Keta Port",
-      "link": "https://www.ghanabusinessnews.com/2026/11/10/mahama-announces-seven-firms-shortlisted-to-start-keta-port/",
-      "source": "Ghana Business News",
-      "published": "2026-11-10T04:09:00.000Z",
-      "summary": "President John Dramani Mahama has given the clearest signal yet that the long-awaited Keta Port is moving from paper to action."
-    },
-    {
-      "title": "IEA urges Ghana to secure investment, technology transfers through BRICS",
-      "link": "https://www.ghanabusinessnews.com/2026/11/10/iea-urges-ghana-to-secure-investment-technology-transfers-through-brics/",
-      "source": "Ghana Business News",
-      "published": "2026-11-10T04:05:21.000Z",
-      "summary": "The Institute of Economic Affairs (IEA) has urged the Government to use Ghana’s proposed partnership with BRICS to attract investment, technology transfers and industrial partnerships to…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T05:57:11.631Z",
+  "updated": "2026-11-12T06:07:11.697Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,37 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "MoGCSP calls for probe into death of 5-year-old girl at Mim",
+      "link": "https://ghanaiantimes.com.gh/mogcsp-calls-for-probe-into-death-of-5-year-old-girl-at-mim/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:04:18.000Z",
+      "summary": "THE Ministry of Gender, Children and Social Protection (MoGCSP) has called for a thorough investigation into the death of a five-year-old girl at Mim in the Ahafo Region, following an…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gifty Oware submitted 63,673 fictitious names for payment — witness",
+      "link": "https://ghanaiantimes.com.gh/gifty-oware-submitted-63673-fictitious-names-for-payment-witness/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T05:58:10.000Z",
+      "summary": "Investigations into the alleged GH¢38.4 million National Service Authority (NSA) scandal have established that 63,673 names submitted for payment of allowances during the 2023 and 2024…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Six MDs in eight years weakened TOR – Managing Director",
       "link": "https://www.myjoyonline.com/six-mds-in-eight-years-weakened-tor-managing-director/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T05:41:12.000Z",
       "summary": "Frequent changes at the top of the Tema Oil Refinery (TOR) during the eight years of the previous administration undermined management stability and made it difficult to address the…",
       "categories": [
+        "HP News 1",
         "News",
         "Crude",
         "Oil",
@@ -41,6 +66,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T05:36:52.000Z",
       "summary": "Britain and Ghana cannot change the past, but we can face it honestly, listen carefully and strengthen a modern partnership founded on dignity and mutual respect.",
       "categories": [
+        "HP News 10",
         "News",
         "British",
         "Dr. Christian Rogg",
@@ -91,6 +117,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T04:36:54.000Z",
       "summary": "Parliament has found no evidence that any Member of Parliament or officer of the Parliamentary Service received money allegedly paid to influence the approval of the 2015 AKSA emergency…",
       "categories": [
+        "HP News 2",
         "National",
         "News",
         "Absa",
@@ -105,6 +132,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T04:01:11.000Z",
       "summary": "The Tema Regional Police Command has intercepted a canoe carrying 3,752 slabs of suspected Indian hemp during an intelligence-led operation on the Volta Lake at Ada in the Greater Accra…",
       "categories": [
+        "HP News 4",
         "News",
         "arrest police",
         "Indian hemp"
@@ -119,6 +147,7 @@ window.GDC_PAPERS = {
       "summary": "The Chairman of the Economic Affairs Committee of the Association of Ghana Industries (AGI), Eric Defor, has raised concerns about the difficulty businesses continue to face in securing…",
       "categories": [
         "Business",
+        "HP News 5",
         "News",
         "Bank",
         "Loan",
@@ -285,30 +314,6 @@ window.GDC_PAPERS = {
       "summary": "The Parliamentary Select Committees on Human Rights, Gender, Children and Social Welfare, and Education have issued a joint statement with decisive directives following a briefing by the…",
       "categories": [
         "Uncategorized"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama announces new offshore discovery at Nya Gyidie well",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-announces-new-offshore-discovery-at-nya-gyidie-well/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:23:09.000Z",
-      "summary": "President John Dramani Mahama has announced a new offshore hydrocarbon discovery in Ghana’s Deepwater Cape Three Points contract area, describing it as an important milestone for the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Betfox Ghana, Big Ghun partner to distribute over 3,000 helmets in Nationwide Road Safety Campaign",
-      "link": "https://ghanaiantimes.com.gh/betfox-ghana-big-ghun-partner-to-distribute-over-3000-helmets-in-nationwide-road-safety-campaign/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:19:40.000Z",
-      "summary": "Award-winning filmmaker, rapper and creative personality Big Ghun has joined forces with Betfox Ghana to launch a nationwide road safety initiative aimed at distributing more than 3,000…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
