@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T17:16:11.160Z",
+  "updated": "2026-11-12T17:26:10.821Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
+      "link": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:14:32.000Z",
+      "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and…"
+    },
     {
       "title": "Ghana Pushes for Inclusive AI Development as Digital Divide Threatens to Widen",
       "link": "https://thehighstreetjournal.com/ghana-pushes-for-inclusive-ai-development-as-digital-divide-threatens-to-widen/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:52:28.000Z",
       "summary": "Trading remained concentrated in the 2027-2030 maturities, which accounted for 58.27% of turnover at a weighted-average yield of 13.01%."
-    },
-    {
-      "title": "President Mahama to launch Ghana Heritage Series Banknotes on 12 November",
-      "link": "https://www.myjoyonline.com/president-mahama-to-launch-ghana-heritage-series-banknotes-on-12-november/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:42:57.000Z",
-      "summary": "Speaking ahead of the launch, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, said the upgraded banknotes form part of the Bank's efforts to modernise Ghana's currency and respond…"
     }
   ]
 };

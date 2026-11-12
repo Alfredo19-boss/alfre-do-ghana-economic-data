@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T17:16:42.149Z",
+  "updated": "2026-11-12T17:26:41.028Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,43 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UKGCC donates GH₵923,000 to boost neonatal care at PMLCH",
+      "link": "https://www.graphic.com.gh/news/health/ukgcc-donates-gh-923-000-to-boost-neonatal-care-at-pmlch.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T17:22:39.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Fix produce markets, reduce input costs – 2019 Best Farmer runner-up urges gov’t ahead of 2027 budget",
+      "link": "https://www.myjoyonline.com/fix-produce-markets-reduce-input-costs-2019-best-farmer-runner-up-urges-govt-ahead-of-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:17:59.000Z",
+      "summary": "Hours before the government presents the 2027 Budget this evening, one of Ghana’s most decorated farmers has sent a blunt message: fix the market, or farming will collapse.",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Alhaji Antiku Abdulai"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
+      "link": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T17:14:32.000Z",
+      "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and…",
+      "categories": [
+        "Economy",
+        "National",
+        "Social Enterprise Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accra High wins Greater Accra NHIS inter-school quiz",
       "link": "https://www.myjoyonline.com/accra-high-wins-greater-accra-nhis-inter-school-quiz/",
@@ -178,36 +215,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prices down, sales still poor: Koforidua traders tell Minority MPs ahead of budget",
-      "link": "https://www.myjoyonline.com/prices-down-sales-still-poor-koforidua-traders-tell-minority-mps-ahead-of-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:42:27.000Z",
-      "summary": "Traders at the Koforidua Central Market say falling prices of some goods have not revived business, as weak purchasing power and rising operating costs leave them struggling to stay afloat.",
-      "categories": [
-        "Politics",
-        "Regional",
-        "2027 Budget",
-        "Koforidua"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC arrests freight forwarder in Tema over 2.6-tonne cocaine seizure in Spain",
-      "link": "https://www.myjoyonline.com/nacoc-arrests-freight-forwarder-in-tema-over-2-6-tonne-cocaine-seizure-in-spain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:21:14.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has arrested a 43-year-old freight forwarder in connection with the seizure of approximately 2.6 tonnes of cocaine in Valencia, Spain, in August…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "freight forwarder",
-        "NACOC",
-        "Spain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Gov’t to expand Cylinder Recirculation Model nationwide – Jinapor",
       "link": "https://www.graphic.com.gh/news/general-news/govt-to-expand-cylinder-recirculation-model-nationwide-jinapor.html",
       "source": "Daily Graphic",
@@ -278,17 +285,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/these-are-the-names-of-the-faces-on-the-newly-introduced-ghana-cedi-notes-and-the-security-features.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T13:25:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Old cedi notes remain legal tender — BoG sets December 1 rollout for Heritage Series",
-      "link": "https://www.graphic.com.gh/news/general-news/old-cedi-notes-remain-legal-tender-bog-sets-december-1-rollout-for-heritage-series.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T12:51:17.000Z",
       "summary": "",
       "categories": [
         "General News"
