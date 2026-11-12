@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T14:51:41.468Z",
+  "updated": "2026-11-12T15:01:43.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES interdicts two Aduman SHS teachers over alleged sexual misconduct involving male student",
+      "link": "https://www.graphic.com.gh/news/general-news/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-involving-male-student.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T14:52:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Manhyia South MP allowed to retrieve passport as court varies bail terms",
+      "link": "https://www.myjoyonline.com/manhyia-south-mp-allowed-to-retrieve-passport-as-court-varies-bail-terms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:52:09.000Z",
+      "summary": "The High Court in Accra has varied the bail conditions of Manhyia South Member of Parliament, Nana Agyei Baffour Awuah, allowing him to retrieve his passport from the court registry. The…",
+      "categories": [
+        "National",
+        "Bail",
+        "court",
+        "Manhyia South MP",
+        "Passport"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Health Ministry warns public against fraudulent Mercy Ships fundraising campaign",
       "link": "https://www.myjoyonline.com/health-ministry-warns-public-against-fraudulent-mercy-ships-fundraising-campaign/",
@@ -124,20 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Health Ministry warns against fake fundraising campaign targeting Mercy Ships patients",
-      "link": "https://www.myjoyonline.com/health-ministry-warns-against-fake-fundraising-campaign-targeting-mercy-ships-patients/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:59:42.000Z",
-      "summary": "The Ministry of Health has warned the public against a fraudulent fundraising campaign being aired on some television stations in Ghana, which falsely claims to be raising money to support…",
-      "categories": [
-        "Health",
-        "National",
-        "fake fundraising campaign",
-        "Mercy Ships"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
       "source": "Daily Graphic",
@@ -208,17 +220,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-denmark-deepen-heritage-ties.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T08:53:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Chief of Staff urges public servants to improve service delivery",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chief-of-staff-urges-public-servants-to-improve-service-delivery.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:49:54.000Z",
       "summary": "",
       "categories": [
         "General News"
