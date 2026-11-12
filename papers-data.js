@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T20:59:14.909Z",
+  "updated": "2026-11-12T21:09:13.956Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,53 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Government targets West Africa’s top spot for conferences, business tourism",
+      "link": "https://www.myjoyonline.com/government-targets-west-africas-top-spot-for-conferences-business-tourism/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:04:10.000Z",
+      "summary": "Government says it is targeting to make Ghana West Africa's leading destination for international conferences and business tourism as part of a US$1 billion investment in the tourism…",
+      "categories": [
+        "National",
+        "News",
+        "Ghana tourism",
+        "Tourism",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: Gov’t targets school, grassroots sports development",
+      "link": "https://www.myjoyonline.com/2027-budget-govt-targets-school-grassroots-sports-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:03:11.000Z",
+      "summary": "Government has announced plans to strengthen school and grassroots sports development as part of efforts to improve talent identification and create sustainable pathways for athletes in…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2027 Budget",
+        "Grassroots sports",
+        "School sports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Public institutions to buy uniforms, hospital textiles exclusively from local manufacturers",
+      "link": "https://www.myjoyonline.com/public-institutions-to-buy-uniforms-hospital-textiles-exclusively-from-local-manufacturers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:02:53.000Z",
+      "summary": "The government plans to require public institutions to purchase uniforms, hospital textiles, bedding and protective wear exclusively from Ghanaian textile and garment manufacturers as part…",
+      "categories": [
+        "National",
+        "News",
+        "Dr Casiel Ato Forson",
+        "Garments",
+        "hospital bedding",
+        "School uniforms",
+        "textile sector"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana to ban raw manganese, bauxite exports by 2030 Finance Minister",
       "link": "https://www.myjoyonline.com/ghana-to-ban-raw-manganese-bauxite-exports-by-2030-finance-minister/",
       "source": "MyJoyOnline",
@@ -30,6 +77,21 @@ window.GDC_PAPERS = {
         "National",
         "Bauxite",
         "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t projects GH¢389.2bn expenditure for 2027 – Finance Minister",
+      "link": "https://www.myjoyonline.com/govt-projects-gh%c2%a2389-2bn-expenditure-for-2027-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:54:13.000Z",
+      "summary": "The government is targeting total expenditure of GH¢389.2 billion in 2027, with more than GH¢100 billion expected to go into capital projects as part of efforts to expand infrastructure and…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Ato Forson",
+        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -86,63 +148,6 @@ window.GDC_PAPERS = {
         "National",
         "GARMENT",
         "TEXTILE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: GH¢600m earmarked for 10 regional stadia",
-      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a2600m-earmarked-for-10-regional-stadia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:47:44.000Z",
-      "summary": "Government has earmarked GH¢600 million from its GH¢782 million allocation to the Ministry of Sports and Recreation for the construction of 10 multipurpose regional stadia across the…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "2027 Budget",
-        "Regional Stadia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t tasks EXIM Bank to drive self-sufficiency in poultry production",
-      "link": "https://www.myjoyonline.com/govt-tasks-exim-bank-to-drive-self-sufficiency-in-poultry-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:42:44.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says the government has directed the Ghana Export-Import Bank (EXIM Bank) to work with industries to make the country self-sufficient in poultry and…",
-      "categories": [
-        "National",
-        "Exim Bank",
-        "Poultry sector"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to replace Petroleum Revenue Management Act with broader natural resource law – Ato Forson",
-      "link": "https://www.myjoyonline.com/govt-to-replace-petroleum-revenue-management-act-with-broader-natural-resource-law-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:40:41.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to introduce a new law to regulate the management of revenues from Ghana's natural resources, including oil, gold, lithium and…",
-      "categories": [
-        "National",
-        "Management",
-        "Natural Resources",
-        "New law"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: Gov’t allocates GH¢782m to Sports Ministry",
-      "link": "https://www.myjoyonline.com/2027-budget-govt-allocates-gh%c2%a2782m-to-sports-ministry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:40:02.000Z",
-      "summary": "Government has allocated GH¢782 million to the Ministry of Sports and Recreation in the 2027 Budget to support sports development and the welfare of people involved in the sector.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "2027 Budget",
-        "Ministry of Sports and Recreation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
