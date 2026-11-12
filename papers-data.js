@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T15:01:43.772Z",
+  "updated": "2026-11-12T15:11:40.121Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,71 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Adu-Boahene acquitted on two counts as court orders him and his wife to open defences",
+      "link": "https://www.myjoyonline.com/adu-boahene-acquitted-on-two-counts-as-court-orders-him-and-his-wife-to-open-defences/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:08:11.000Z",
+      "summary": "The Accra High Court has given former National Signals Bureau (NSB) Director-General Kwabena Adu-Boahene and his wife, Angela Adjei-Boateng, three weeks to file witness statements if they…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rawlings’ family, NDC mark 6th anniversary of his death with wreath-laying ceremony",
+      "link": "https://www.myjoyonline.com/rawlings-family-ndc-mark-6th-anniversary-of-his-death-with-wreath-laying-ceremony/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:06:50.000Z",
+      "summary": "A wreath-laying ceremony has been held at the Military Cemetery in Accra to mark the sixth anniversary of the death of former President Flight Lieutenant Jerry John Rawlings.",
+      "categories": [
+        "National",
+        "6th anniversary",
+        "Flight Lieutenant Jerry John Rawlings",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kudus, Ayew and Partey return: What changes for the Black Stars?",
+      "link": "https://www.myjoyonline.com/kudus-ayew-and-partey-return-what-changes-for-the-black-stars/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:02:40.000Z",
+      "summary": "The four-time champions suffered a difficult start in the qualifiers, with a 2-0 defeat to Côte d’Ivoire in Bouaké before losing 4-2 to Gambia on home soil.",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ntim Fordjour alleges $3bn worth of narcotics linked to Ghana seized abroad since Mahama took office",
+      "link": "https://www.myjoyonline.com/ntim-fordjour-alleges-3bn-worth-of-narcotics-linked-to-ghana-seized-abroad-since-mahama-took-office/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T15:02:17.000Z",
+      "summary": "Rev. John Ntim Fordjour has alleged that more than US$3 billion worth of drugs linked to Ghana have been seized abroad during President John Dramani Mahama’s tenure, warning that the…",
+      "categories": [
+        "National",
+        "Cocaine",
+        "Mahama",
+        "Ntim Fordjour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
+      "link": "https://www.graphic.com.gh/news/general-news/two-aduman-shs-teachers-interdicted-over-alleged-sexual-misconduct.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T14:52:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "GES interdicts two Aduman SHS teachers over alleged sexual misconduct involving male student",
       "link": "https://www.graphic.com.gh/news/general-news/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-involving-male-student.html",
@@ -88,68 +153,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation",
-      "link": "https://www.myjoyonline.com/nvidia-ceo-jensen-huang-resigns-after-tech-giant-rocked-by-second-affair-allegation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:38:00.000Z",
-      "summary": "Jensen Huang has resigned as chief executive of Nvidia, the artificial intelligence chipmaker he co-founded, following reports of two extramarital relationships, including one involving a…",
-      "categories": [
-        "International",
-        "Technology",
-        "Chinese spy",
-        "Jenseng hUANG",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Power expires. Friendships shouldn’t",
-      "link": "https://www.myjoyonline.com/power-expires-friendships-shouldnt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:34:09.000Z",
-      "summary": "There is something profoundly disturbing about people who occupy fixed-term public offices or privileged corporate positions and suddenly develop amnesia about the relationships that…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Friendship",
-        "Kwame Sowu",
-        "Power"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW partners universities in Togo, Côte d’Ivoire and Benin on PhD training and research",
-      "link": "https://www.myjoyonline.com/uew-partners-universities-in-togo-cote-divoire-and-benin-on-phd-training-and-research/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:07:05.000Z",
-      "summary": "The University of Education, Winneba (UEW), is pursuing stronger academic collaboration with three West African universities to promote joint supervision of doctoral students, research…",
-      "categories": [
-        "Education",
-        "PhD programmes",
-        "UEW",
-        "Université d'Abomey-Calavi in Benin.",
-        "Université de Lomé in Togo",
-        "Université Félix Houphouët-Boigny in Côte d’Ivoire",
-        "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
-      "link": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:02:51.000Z",
-      "summary": "President John Dramani Mahama has called on Ghanaians to put aside political differences and take collective responsibility for protecting the cedi, insisting that the national currency…",
-      "categories": [
-        "Business",
-        "National",
-        "Heritage Series banknotes",
-        "Mahama",
-        "Political parties"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
       "source": "Daily Graphic",
@@ -209,17 +212,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghs-orders-health-facilities-to-stop-extra-charges-for-nhis-services.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T09:56:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Denmark deepen heritage ties",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-denmark-deepen-heritage-ties.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:53:31.000Z",
       "summary": "",
       "categories": [
         "General News"
