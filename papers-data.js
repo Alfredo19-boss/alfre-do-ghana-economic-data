@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T07:27:12.223Z",
+  "updated": "2026-11-12T07:37:10.960Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Shirt pull on Isak should have been penalty – panel",
+      "link": "https://ghanaiantimes.com.gh/shirt-pull-on-isak-should-have-been-penalty-panel/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:33:40.000Z",
+      "summary": "Liverpool should have been awarded a penalty against Arsenal after Alexander Isak was pulled back by Jurrien Timber, the Premier League’s Key Match Incidents Panel has ruled. Isak just…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tearful Smith switches allegiance to Netherlands",
+      "link": "https://ghanaiantimes.com.gh/tearful-smith-switches-allegiance-to-netherlands/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:32:19.000Z",
+      "summary": "South Africa’s most decorated Olympian Tatjana Smith was in tears as she announced that she has switched allegiance to the Netherlands. The 29-year-old won four Olympic breaststroke medals…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mbappé out of Italy clash",
+      "link": "https://ghanaiantimes.com.gh/mbappe-out-of-italy-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:30:53.000Z",
+      "summary": "KYLIAN Mbappé sat out training yesterday and France coach Zinedine Zidane gave a first call-up to Paris Saint-Germain forward Senny Mayulu ahead of playing Italy in the Nations League…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Pochettino ready to accept Man Utd offer",
+      "link": "https://ghanaiantimes.com.gh/pochettino-ready-to-accept-man-utd-offer/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:29:04.000Z",
+      "summary": "MAURICIO Pochettino is ready to accept an offer from Manchester United to become their next head coach. United have opened talks with the Argentine about him potentially replacing Michael…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Accra Hearts of Oak @115 • Celebrating history, sacrifice, excellence and institutional development",
       "link": "https://ghanaiantimes.com.gh/accra-hearts-of-oak-115-celebrating-history-sacrifice-excellence-and-institutional-development/",
@@ -59,54 +103,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T07:10:15.000Z",
       "summary": "THE Deputy Minister of Local Government, Chieftaincy and Religious Affairs, Ms Rita Odoley Sowah, has called for a shift in Ghana’s approach to sanitation management, urging the country to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Government launches 15-year foundational learning agenda",
-      "link": "https://ghanaiantimes.com.gh/government-launches-15-year-foundational-learning-agenda/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:05:42.000Z",
-      "summary": "THE government has launched a 15-year national strategy to strengthen foundational education and improve learning outcomes among children across the country. Dubbed the Ghana Foundational…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Takoradi to become ship repair hub • Pres Mahama cuts sod for $137m floating dry dock",
-      "link": "https://ghanaiantimes.com.gh/takoradi-to-become-ship-repair-hub-pres-mahama-cuts-sod-for-137m-floating-dry-dock/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:57:08.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has cut sod for the construction of a US$137 million floating dry dock facility at the Takoradi Port to position Ghana as a major ship repair and maintenance…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Economy grows 6.8% in August • Services account for 69.9% of expansion",
-      "link": "https://ghanaiantimes.com.gh/economy-grows-6-8-in-august-services-account-for-69-9-of-expansion/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:52:47.000Z",
-      "summary": "Ghana’s economy expanded by 6.8 per cent year-on-year in August 2026, up from 5.3 per cent recorded in the same period last year. The growth was driven largely by the services sector, which…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "End bureaucratic delays in public service – Chief of Staff",
-      "link": "https://ghanaiantimes.com.gh/end-bureaucratic-delays-in-public-service-chief-of-staff/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:44:57.000Z",
-      "summary": "PUBLIC institutions have been tasked to end bureaucratic delays, poor attitudes and complicated administrative procedures that force citizens to make repeated visits to government offices…",
       "categories": [
         "Hot!",
         "News"
