@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T13:41:09.828Z",
+  "updated": "2026-11-12T13:51:11.584Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
+      "link": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:45:21.000Z",
+      "summary": "Former Second Lady Hajia Samira Bawumia has called for an annual investment of about US$4 billion to accelerate Africa’s transition to clean cooking, warning that inadequate funding is…"
+    },
+    {
+      "title": "UKGCC mobilises corporate, public support to strengthen neonatal care at PMLCH",
+      "link": "https://www.myjoyonline.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:41:51.000Z",
+      "summary": "Speaking during the presentation ceremony to PMLCH, Adjoba Kyiamah, Executive Director of the UKGCC, shared the strategic vision behind the initiative, emphasising that marking a decade of…"
+    },
     {
       "title": "GHIB partners with property specialists to connect African clients with London residential developments",
       "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T12:16:06.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) is preparing to drill its first exploration well in the Voltaian Basin by the end of 2026, as it advances efforts to assess the area’s…"
-    },
-    {
-      "title": "Crop Scientist Warns of “Serious Flower Abortion” as Heat Hits Ghana’s Cocoa Belt",
-      "link": "https://thehighstreetjournal.com/crop-scientist-warns-of-serious-flower-abortion-as-heat-hits-ghanas-cocoa-belt/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T12:06:00.000Z",
-      "summary": "Rising heat threatens to wipe out cocoa flowers and young pods across Ghana’s cocoa belt, raising fears of deeper production losses and tighter supplies in the 2026/27 season."
-    },
-    {
-      "title": "OmniBSIC Bank named Marketing-Oriented Bank of the Year at CIMG Awards",
-      "link": "https://www.myjoyonline.com/omnibsic-bank-named-marketing-oriented-bank-of-the-year-at-cimg-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T12:05:00.000Z",
-      "summary": "OmniBSIC Bank has been named Marketing-Oriented Bank of the Year at the 37th Chartered Institute of Marketing, Ghana (CIMG) National Marketing Performance Awards. In addition, the Bank…"
     }
   ]
 };

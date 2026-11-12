@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:41:40.516Z",
+  "updated": "2026-11-12T13:51:42.215Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,50 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "What is ‘new economy’? Kwesi Pratt questions status of 24-hour economy promise",
+      "link": "https://www.myjoyonline.com/what-is-new-economy-kwesi-pratt-questions-status-of-24-hour-economy-promise/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:50:58.000Z",
+      "summary": "Veteran journalist Kwesi Pratt Jnr. has criticised the Mahama government’s “New Economy” slogan, demanding to know what it means and whether it signals the quiet abandonment of the 24-Hour…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
+      "link": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:45:21.000Z",
+      "summary": "Former Second Lady Hajia Samira Bawumia has called for an annual investment of about US$4 billion to accelerate Africa’s transition to clean cooking, warning that inadequate funding is…",
+      "categories": [
+        "Energy",
+        "4 billion",
+        "Clean cooking",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UKGCC mobilises corporate, public support to strengthen neonatal care at PMLCH",
+      "link": "https://www.myjoyonline.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:41:51.000Z",
+      "summary": "Speaking during the presentation ceremony to PMLCH, Adjoba Kyiamah, Executive Director of the UKGCC, shared the strategic vision behind the initiative, emphasising that marking a decade of…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Adjoba Kyiamah",
+        "Blue Skies",
+        "Dr. Mame Yaa Nyarko",
+        "Fidelity Bank",
+        "NICU",
+        "PMLCH",
+        "UKGCC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GHIB partners with property specialists to connect African clients with London residential developments",
       "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
       "source": "MyJoyOnline",
@@ -37,10 +81,32 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Mahama: New cedi notes to bring Ghana’s history closer to younger generation",
+      "link": "https://www.graphic.com.gh/news/general-news/mahama-new-cedi-notes-to-bring-ghanas-history-closer-to-younger-generation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T13:31:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "President Mahama launches Ghana Cedi Heritage Series Banknotes, unveils $10billion economic transformation plan",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-launches-ghana-cedi-heritage-series-banknotes-unveils-10billion-economic-transformation-plan.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T13:28:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "These are the names of the faces on the newly introduced Ghana cedi notes and the security features",
+      "link": "https://www.graphic.com.gh/news/general-news/these-are-the-names-of-the-faces-on-the-newly-introduced-ghana-cedi-notes-and-the-security-features.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T13:25:34.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -108,51 +174,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Beauty Narteh elected first African woman to co-chair global anti-corruption coalition",
-      "link": "https://www.myjoyonline.com/beauty-narteh-elected-first-african-woman-to-co-chair-global-anti-corruption-coalition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:10:49.000Z",
-      "summary": "The Executive Secretary of the Ghana Anti-Corruption Coalition (GACC), Beauty Emefa Narteh, has been elected Co-Chair of the Global Civil Society Coalition for the United Nations Convention…",
-      "categories": [
-        "National",
-        "Beauty Emefa Narteh",
-        "GACC",
-        "UN",
-        "UNCAC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African climate groups call for equitable transition away from fossil fuels at COP31",
-      "link": "https://www.myjoyonline.com/african-climate-groups-call-for-equitable-transition-away-from-fossil-fuels-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:07:09.000Z",
-      "summary": "African civil society organisations under the Pan African Climate Justice Alliance (PACJA) have called for a just, orderly and equitable global transition away from fossil fuels, as…",
-      "categories": [
-        "National",
-        "Africa",
-        "COP31",
-        "fossil fuels"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG to roll out nationwide sensitisation campaign on new Heritage Series banknotes",
-      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-sensitisation-campaign-on-new-heritage-series-banknotes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:03:01.000Z",
-      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…",
-      "categories": [
-        "Business",
-        "In Focus",
-        "National",
-        "BoG",
-        "Education",
-        "Heritage Series banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Old cedi notes remain legal tender — BoG sets December 1 rollout for Heritage Series",
       "link": "https://www.graphic.com.gh/news/general-news/old-cedi-notes-remain-legal-tender-bog-sets-december-1-rollout-for-heritage-series.html",
       "source": "Daily Graphic",
@@ -201,28 +222,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chief-of-staff-urges-public-servants-to-improve-service-delivery.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T08:49:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama receives credentials of 11 Envoys",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-receives-credentials-of-11-envoys.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:44:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Budget 2027 preview: Govt to buy back GH¢29bn bonds and pay GH¢11bn interest by Jan 2028",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-budget-2027-preview-govt-to-buy-back-ghc29bn-bonds-ghc11bn-interest-to-be-paid-by-jan-2018.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:40:02.000Z",
       "summary": "",
       "categories": [
         "General News"
