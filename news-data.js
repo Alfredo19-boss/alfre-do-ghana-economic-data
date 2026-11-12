@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T16:51:10.832Z",
+  "updated": "2026-11-12T17:01:11.294Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
+      "link": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:52:51.000Z",
+      "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said."
+    },
     {
       "title": "Court Dismisses Stay Applications in Skytrain Case, Grants Recall of Former Akonta Mines Manager in Tano Nimiri Trial",
       "link": "https://thehighstreetjournal.com/court-dismisses-stay-applications-in-skytrain-case-grants-recall-of-former-akonta-mines-manager-in-tano-nimiri-trial/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T13:39:55.000Z",
       "summary": "Ghana’s banking industry has been urged to leverage emerging technologies, particularly artificial intelligence (AI), to strengthen operations, improve customer confidence and remain…"
-    },
-    {
-      "title": "Mahama to Cut Sod for US$98.41m Takoradi Port Berth Expansion",
-      "link": "https://thehighstreetjournal.com/mahama-to-cut-sod-for-us98-41m-takoradi-port-berth-expansion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T13:36:33.000Z",
-      "summary": "The 300-metre facility will be funded entirely by GPHA as the authority looks to expand port capacity and strengthen its contribution to Ghana's trade sector."
     }
   ]
 };

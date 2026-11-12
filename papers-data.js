@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T16:51:41.403Z",
+  "updated": "2026-11-12T17:01:42.338Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,82 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Former President Akufo-Addo to lead ECOWAS Election Observation Mission to Nigeria",
+      "link": "https://ghanaiantimes.com.gh/former-president-akufo-addo-to-lead-ecowas-election-observation-mission-to-nigeria/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T17:00:18.000Z",
+      "summary": "Former President of Ghana, Nana Addo Dankwa Akufo-Addo, has been appointed by the Economic Community of West African States (ECOWAS) to lead a deployment of Election Observers to the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "New Ghana heritage series cedi notes to circulate from December 1 – BoG Governor",
+      "link": "https://ghanaiantimes.com.gh/new-ghana-heritage-series-cedi-notes-to-circulate-from-december-1-bog-governor/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T16:57:44.000Z",
+      "summary": "The Bank of Ghana will introduce the new Ghana Heritage Series banknotes into circulation from December 1, 2026, while the existing cedi notes will remain legal tender. Governor of the Bank…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "New cedi notes will promote Ghana’s history and culture- Prez Mahama",
+      "link": "https://ghanaiantimes.com.gh/new-cedi-notes-will-promote-ghanas-history-and-culture-prez-mahama/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T16:55:55.000Z",
+      "summary": "President John Dramani Mahama says the newly launched Ghana Heritage Series banknotes will help promote the country’s history and culture to both Ghanaians and visitors. He described the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kofi Annan’s appearance on GH¢100 note a fitting tribute – UN Ghana",
+      "link": "https://www.myjoyonline.com/kofi-annans-appearance-on-gh%c2%a2100-note-a-fitting-tribute-un-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:55:08.000Z",
+      "summary": "The United Nations (UN) in Ghana has welcomed the inclusion of the late Kofi Annan, former UN Secretary-General, in the Bank of Ghana's newly launched Heritage Series banknotes, describing…",
+      "categories": [
+        "National",
+        "GH₵100 heritage note",
+        "Kofi Annan",
+        "United Nations Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prez Mahama launches new Ghana heritage series banknotes",
+      "link": "https://ghanaiantimes.com.gh/prez-mahama-launches-new-ghana-heritage-series-banknotes/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T16:53:10.000Z",
+      "summary": "President John Dramani Mahama has officially launched the Ghana Heritage Series banknotes, introducing a redesigned set of cedi notes expected to last longer than the existing ones. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
+      "link": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T16:52:51.000Z",
+      "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said.",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Bank of Ghana",
+        "Ghana Cedi Heritage Series"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prices down, sales still poor: Koforidua traders tell Minority MPs ahead of budget",
       "link": "https://www.myjoyonline.com/prices-down-sales-still-poor-koforidua-traders-tell-minority-mps-ahead-of-budget/",
@@ -115,38 +191,6 @@ window.GDC_PAPERS = {
         "HP Business 5",
         "2027 Budget",
         "Deloitte"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s cocaine seizures abroad raise questions about port security, trade integrity and national reputation",
-      "link": "https://www.myjoyonline.com/ghanas-cocaine-seizures-abroad-raise-questions-about-port-security-trade-integrity-and-national-reputation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:41:03.000Z",
-      "summary": "Something is happening, and we cannot afford to treat it as another passing headline! According to JoyNews Research, approximately 13,876 kilogrammes of cocaine linked to Ghana have been…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Cocaine",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Learn about the 8 personalities, landmarks, and symbols featured on the new Heritage Cedi notes",
-      "link": "https://www.myjoyonline.com/learn-about-the-8-personalities-landmarks-and-symbols-featured-on-the-new-heritage-cedi-notes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:25:31.000Z",
-      "summary": "From Ghana's first President, Dr Kwame Nkrumah, featured on the GH¢200 note, to renowned Accra market trader Agnes Oforiwa Tagoe-Quarcoopome on the GH¢1 note, the Bank of Ghana's new…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Heritage banknote",
-        "landmarks",
-        "personalities",
-        "symbols"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -268,50 +312,6 @@ window.GDC_PAPERS = {
       "summary": "Defending champions, Bulls RLFC, retained their Rugby League Federation Ghana (RLFG) Men’s 13s Championship title with a 24–10 victory over Dragons RLFC in the final played at the…",
       "categories": [
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Shirt pull on Isak should have been penalty – panel",
-      "link": "https://ghanaiantimes.com.gh/shirt-pull-on-isak-should-have-been-penalty-panel/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:33:40.000Z",
-      "summary": "Liverpool should have been awarded a penalty against Arsenal after Alexander Isak was pulled back by Jurrien Timber, the Premier League’s Key Match Incidents Panel has ruled. Isak just…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tearful Smith switches allegiance to Netherlands",
-      "link": "https://ghanaiantimes.com.gh/tearful-smith-switches-allegiance-to-netherlands/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:32:19.000Z",
-      "summary": "South Africa’s most decorated Olympian Tatjana Smith was in tears as she announced that she has switched allegiance to the Netherlands. The 29-year-old won four Olympic breaststroke medals…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mbappé out of Italy clash",
-      "link": "https://ghanaiantimes.com.gh/mbappe-out-of-italy-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:30:53.000Z",
-      "summary": "KYLIAN Mbappé sat out training yesterday and France coach Zinedine Zidane gave a first call-up to Paris Saint-Germain forward Senny Mayulu ahead of playing Italy in the Nations League…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Pochettino ready to accept Man Utd offer",
-      "link": "https://ghanaiantimes.com.gh/pochettino-ready-to-accept-man-utd-offer/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T07:29:04.000Z",
-      "summary": "MAURICIO Pochettino is ready to accept an offer from Manchester United to become their next head coach. United have opened talks with the Argentine about him potentially replacing Michael…",
-      "categories": [
-        "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
