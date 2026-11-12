@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T04:27:11.273Z",
+  "updated": "2026-11-12T04:37:11.071Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "Police seize 3,752 slabs of suspected Indian hemp at Ada",
       "link": "https://www.myjoyonline.com/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T04:23:11.000Z",
+      "published": "2026-11-12T04:01:11.000Z",
       "summary": "The Tema Regional Police Command has intercepted a canoe carrying 3,752 slabs of suspected Indian hemp during an intelligence-led operation on the Volta Lake at Ada in the Greater Accra…",
       "categories": [
         "News",
