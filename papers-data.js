@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T23:48:47.112Z",
+  "updated": "2026-11-11T23:58:48.914Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Appoint Clowns. Get a Circus",
+      "link": "https://www.myjoyonline.com/appoint-clowns-get-a-circus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T23:49:18.000Z",
+      "summary": "One of the biggest obstacles to Ghana’s economic and social development is not a shortage of ideas, policies or even resources. It is the chronic appointment of incompetent people to…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Circus",
+        "Clowns",
+        "Kwame Sowu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ablekuma West: Roni Nicol declares third bid for NPP parliamentary candidacy",
       "link": "https://www.myjoyonline.com/ablekuma-west-roni-nicol-declares-third-bid-for-npp-parliamentary-candidacy/",
@@ -118,19 +133,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana risks being shortchanged in carbon credit deal – Annoh-Dompreh",
-      "link": "https://www.myjoyonline.com/ghana-risks-being-shortchanged-in-carbon-credit-deal-annoh-dompreh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:09:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has urged the government to negotiate better prices under Ghana’s proposed carbon credit agreement, warning that the country risks undervaluing its…",
-      "categories": [
-        "National",
-        "Carbon credit",
-        "Frank Annoh-Dompreh"
       ],
       "site": "https://www.myjoyonline.com/"
     },
