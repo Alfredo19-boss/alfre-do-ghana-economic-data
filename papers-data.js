@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T07:07:10.909Z",
+  "updated": "2026-11-12T07:17:10.984Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Eni Ghana pledges to deepen local content development",
+      "link": "https://ghanaiantimes.com.gh/eni-ghana-pledges-to-deepen-local-content-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:14:44.000Z",
+      "summary": "THE Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for Ghanaian businesses…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Turn human waste into economic resource — Deputy Minister",
+      "link": "https://ghanaiantimes.com.gh/turn-human-waste-into-economic-resource-deputy-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T07:10:15.000Z",
+      "summary": "THE Deputy Minister of Local Government, Chieftaincy and Religious Affairs, Ms Rita Odoley Sowah, has called for a shift in Ghana’s approach to sanitation management, urging the country to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Government launches 15-year foundational learning agenda",
       "link": "https://ghanaiantimes.com.gh/government-launches-15-year-foundational-learning-agenda/",
@@ -102,30 +125,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T06:33:58.000Z",
       "summary": "THE Licensed Surveyors Association of Ghana (LISAG) has donated IT equipment to the Lands Commission to support its digitisation drive and improve records management across selected…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Strengthen referral systems to save preterm babies – PSG",
-      "link": "https://ghanaiantimes.com.gh/strengthen-referral-systems-to-save-preterm-babies-psg/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:29:47.000Z",
-      "summary": "THE Paediatric Society of Ghana (PSG) has launched this year’s Prematurity Awareness Month with a call for urgent efforts to strengthen newborn referral systems across the country to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "A warming Pacific, a hotter Ghana: Protect yourself from El Niño",
-      "link": "https://ghanaiantimes.com.gh/a-warming-pacific-a-hotter-ghana-protect-yourself-from-el-nino/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:25:22.000Z",
-      "summary": "A climate phenomenon happening thousands of miles away in the Pacific Ocean is already having serious impact here in Ghana, with hotter, drier and dustier conditions expected in the coming…",
       "categories": [
         "Hot!",
         "News"
