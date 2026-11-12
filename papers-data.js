@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T23:58:48.914Z",
+  "updated": "2026-11-12T00:28:46.709Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra after Sunset: El Niño, a heating city and the sky above us",
+      "link": "https://www.myjoyonline.com/accra-after-sunset-el-nino-a-heating-city-and-the-sky-above-us/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T00:21:49.000Z",
+      "summary": "The sun has gone down, but the room still feels hot. The fan is running, yet sleep does not come easily. Outside, people seek relief on verandas, in compound yards and along the roadside…",
+      "categories": [
+        "Features",
+        "Opinion",
+        "El Nino",
+        "Ghana",
+        "Petras Anaab Ali",
+        "Sawdust"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Appoint Clowns. Get a Circus",
       "link": "https://www.myjoyonline.com/appoint-clowns-get-a-circus/",
@@ -120,19 +136,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Los Angeles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-      "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:18:00.000Z",
-      "summary": "Nvidia board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with ​a suspected Chinese spy, the Wall Street Journal reported ‌on Wednesday, citing…",
-      "categories": [
-        "Technology",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
