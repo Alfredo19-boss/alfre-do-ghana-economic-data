@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T14:41:42.059Z",
+  "updated": "2026-11-12T14:51:41.468Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Health Ministry warns public against fraudulent Mercy Ships fundraising campaign",
+      "link": "https://www.myjoyonline.com/health-ministry-warns-public-against-fraudulent-mercy-ships-fundraising-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:51:13.000Z",
+      "summary": "The Ministry of Health has warned the public against a fraudulent fundraising campaign being aired on some Ghanaian television stations, which falsely solicits money from people seeking…",
+      "categories": [
+        "Health",
+        "National",
+        "Health Ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akufo-Addo appointed head of ECOWAS observer mission for Nigeria’s 2027 elections",
+      "link": "https://www.myjoyonline.com/akufo-addo-appointed-head-of-ecowas-observer-mission-for-nigerias-2027-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:47:07.000Z",
+      "summary": "Former President Nana Addo Dankwa Akufo-Addo will lead a 200-member ECOWAS Election Observation Mission to Nigeria ahead of the country’s January 16, 2027, general elections.",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Akufo-Addo",
+        "ECOWAS",
+        "Nigeria"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "When the outrage dies, who remembers the victims? – The Obuasi SHTS case and our troubling habit of forgetting the people behind the headlines",
+      "link": "https://www.myjoyonline.com/when-the-outrage-dies-who-remembers-the-victims-the-obuasi-shts-case-and-our-troubling-habit-of-forgetting-the-people-behind-the-headlines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:45:14.000Z",
+      "summary": "The speed at which victims of sexual abuse, especially children, can become less central to the public discussion of their experience once the outrage dies away is deeply troubling.",
+      "categories": [
+        "Opinion",
+        "Obuasi SHTS",
+        "Sexual abuse"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation",
       "link": "https://www.myjoyonline.com/nvidia-ceo-jensen-huang-resigns-after-tech-giant-rocked-by-second-affair-allegation/",
@@ -93,53 +134,6 @@ window.GDC_PAPERS = {
         "National",
         "fake fundraising campaign",
         "Mercy Ships"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lack of funding makes PhD sponsorship difficult in Ghanaian universities – UEW VC",
-      "link": "https://www.myjoyonline.com/lack-of-funding-makes-phd-sponsorship-difficult-in-ghanaian-universities-uew-vc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:55:04.000Z",
-      "summary": "The Vice-Chancellor of the University of Education, Winneba (UEW), Professor Stephen John Mitchual, has raised concerns about funding constraints facing doctoral programmes in Ghanaian…",
-      "categories": [
-        "Education",
-        "National",
-        "PHD",
-        "UEW",
-        "University of Lome"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Film Development Fund receives nearly 100 applications",
-      "link": "https://www.myjoyonline.com/film-development-fund-receives-nearly-100-applications/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:54:20.000Z",
-      "summary": "The National Film Authority’s Film Development Fund has attracted nearly 100 applications seeking almost GH¢100 million, as 56 applicants enter the final stage of pitching.",
-      "categories": [
-        "HP Entertainment 1",
-        "Movies",
-        "Applications",
-        "Film Development Fund",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "What is ‘new economy’? Kwesi Pratt questions status of 24-hour economy promise",
-      "link": "https://www.myjoyonline.com/what-is-new-economy-kwesi-pratt-questions-status-of-24-hour-economy-promise/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:50:58.000Z",
-      "summary": "Veteran journalist Kwesi Pratt Jnr. has criticised the Mahama government’s “New Economy” slogan, demanding to know what it means and whether it signals the quiet abandonment of the 24-Hour…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Ato Forson",
-        "Kwesi Pratt",
-        "NDC",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
