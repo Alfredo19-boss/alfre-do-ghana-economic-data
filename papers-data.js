@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:17:10.540Z",
+  "updated": "2026-11-12T06:27:11.252Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,63 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "A warming Pacific, a hotter Ghana: Protect yourself from El Niño",
+      "link": "https://ghanaiantimes.com.gh/a-warming-pacific-a-hotter-ghana-protect-yourself-from-el-nino/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:25:22.000Z",
+      "summary": "A climate phenomenon happening thousands of miles away in the Pacific Ocean is already having serious impact here in Ghana, with hotter, drier and dustier conditions expected in the coming…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Before the future knocks",
+      "link": "https://ghanaiantimes.com.gh/before-the-future-knocks/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:23:11.000Z",
+      "summary": "THE time has come to move Ghana’s young people from the margins of decision-making to the heart of national development. A nation that speaks for its youth but shuts them out of leadership…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Self-dependency II",
+      "link": "https://ghanaiantimes.com.gh/self-dependency-ii/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:21:33.000Z",
+      "summary": "Dr Robert Anthony believes that a self-confident personality is not possible until we build a solid foundation of self-reliance. Many people think that a person who is self-reliant must be…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority challenges govt over funding of New Economy agenda",
+      "link": "https://ghanaiantimes.com.gh/minority-challenges-govt-over-funding-of-new-economy-agenda/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:19:41.000Z",
+      "summary": "THE Minority in Parliament has challenged the government to demonstrate how it intends to finance its proposed New Economy agenda. According to them, failure by the government to mobilise…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Public service must serve the public",
+      "link": "https://ghanaiantimes.com.gh/public-service-must-serve-the-public/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:17:26.000Z",
+      "summary": "THE quality of public service delivery is one of the clearest measures of how well a country’s institutions are working for its people. For many Ghanaians, however, accessing basic services…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Vehicle knocks down police officer on duty …kills him on the spot",
       "link": "https://ghanaiantimes.com.gh/vehicle-knocks-down-police-officer-on-duty-kills-him-on-the-spot/",
       "source": "Ghanaian Times",
@@ -33,7 +90,7 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Police arrest 2 suspects, seize counterfeit fabrics worth GH¢20 million",
+      "title": "Accra: Police arrest 2 suspects, seize counterfeit fabrics worth GH¢20 million at Adabraka",
       "link": "https://www.graphic.com.gh/news/general-news/police-arrest-2-suspects-seize-counterfeit-fabrics-worth-ghc20-million.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T06:05:43.000Z",
@@ -262,66 +319,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana’s Nana Yaa Serwaa Sarpong wins Global Social Impact Award at GEF 2026 In Cairo",
-      "link": "https://ghanaiantimes.com.gh/ghanas-nana-yaa-serwaa-sarpong-wins-global-social-impact-award-at-gef-2026-in-cairo/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:42:52.000Z",
-      "summary": "Founder and President of Women in Sustainability Africa (WiSA) and General Manager of EIB Network, Rev. (Mrs.) Nana Yaa Serwaa Sarpong, Esq., has been honoured with the prestigious Social…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Deputy Minister engages Ghana Culture Forum on Creative Arts development",
-      "link": "https://ghanaiantimes.com.gh/deputy-minister-engages-ghana-culture-forum-on-creative-arts-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:40:21.000Z",
-      "summary": "The Deputy Minister for Tourism, Culture and Creative Arts, Yussif Issaka Jajah has engaged the Ghana Culture Forum (GCF) on strengthening collaboration to advance Ghana’s cultural and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana engages US civil rights lawyer Ben Crump to seek Justice For Ghanaians Killed In US",
-      "link": "https://ghanaiantimes.com.gh/ghana-engages-us-civil-rights-lawyer-ben-crump-to-seek-justice-for-ghanaians-killed-in-us/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:38:08.000Z",
-      "summary": "Approval has been granted to Ghana’s Permanent Mission in New York to engage the services of celebrated US civil rights lawyer, Ben Crump, to assist Ghana in securing justice for all…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fake Prophets are causing more harm than good in Ghana …A personal reflection on truth, discernment, and responsible faith",
-      "link": "https://ghanaiantimes.com.gh/fake-prophets-are-causing-more-harm-than-good-in-ghana-a-personal-reflection-on-truth-discernment-and-responsible-faith/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:34:48.000Z",
-      "summary": "For some time now, Ghana has witnessed an alarming proliferation of self-styled prophets and prophetic ministries whose practices raise serious questions about the integrity of the Gospel…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Environment Minister urges Parliament to fast-track National Sex Offenders Register",
-      "link": "https://ghanaiantimes.com.gh/environment-minister-urges-parliament-to-fast-track-national-sex-offenders-register/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T16:31:01.000Z",
-      "summary": "The Minister for Environment, Science and Technology, Dr. Zanetor Agyeman-Rawlings, has urged Parliament to fast-track the establishment of a National Sex Offenders Register. She warned…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
