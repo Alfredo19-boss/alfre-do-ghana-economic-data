@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T14:21:40.483Z",
+  "updated": "2026-11-12T14:41:42.059Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation",
+      "link": "https://www.myjoyonline.com/nvidia-ceo-jensen-huang-resigns-after-tech-giant-rocked-by-second-affair-allegation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:38:00.000Z",
+      "summary": "Jensen Huang has resigned as chief executive of Nvidia, the artificial intelligence chipmaker he co-founded, following reports of two extramarital relationships, including one involving a…",
+      "categories": [
+        "International",
+        "Technology",
+        "Chinese spy",
+        "Jenseng hUANG",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Power expires. Friendships shouldn’t",
+      "link": "https://www.myjoyonline.com/power-expires-friendships-shouldnt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T14:34:09.000Z",
+      "summary": "There is something profoundly disturbing about people who occupy fixed-term public offices or privileged corporate positions and suddenly develop amnesia about the relationships that…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Friendship",
+        "Kwame Sowu",
+        "Power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UEW partners universities in Togo, Côte d’Ivoire and Benin on PhD training and research",
       "link": "https://www.myjoyonline.com/uew-partners-universities-in-togo-cote-divoire-and-benin-on-phd-training-and-research/",
@@ -110,39 +140,6 @@ window.GDC_PAPERS = {
         "Kwesi Pratt",
         "NDC",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
-      "link": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:45:21.000Z",
-      "summary": "Former Second Lady Hajia Samira Bawumia has called for an annual investment of about US$4 billion to accelerate Africa’s transition to clean cooking, warning that inadequate funding is…",
-      "categories": [
-        "Energy",
-        "4 billion",
-        "Clean cooking",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UKGCC mobilises corporate, public support to strengthen neonatal care at PMLCH",
-      "link": "https://www.myjoyonline.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:41:51.000Z",
-      "summary": "Speaking during the presentation ceremony to PMLCH, Adjoba Kyiamah, Executive Director of the UKGCC, shared the strategic vision behind the initiative, emphasising that marking a decade of…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Adjoba Kyiamah",
-        "Blue Skies",
-        "Dr. Mame Yaa Nyarko",
-        "Fidelity Bank",
-        "NICU",
-        "PMLCH",
-        "UKGCC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
