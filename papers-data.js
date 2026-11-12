@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T20:49:16.453Z",
+  "updated": "2026-11-12T20:59:14.909Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,90 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana to ban raw manganese, bauxite exports by 2030 Finance Minister",
+      "link": "https://www.myjoyonline.com/ghana-to-ban-raw-manganese-bauxite-exports-by-2030-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:55:55.000Z",
+      "summary": "The government has announced plans to end the export of raw manganese and bauxite by 2030 as part of efforts to promote local processing and maximise the economic benefits of the country's…",
+      "categories": [
+        "National",
+        "Bauxite",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ato Forson projects GH¢389.2bn expenditure, GH¢65.8bn deficit for 2027",
+      "link": "https://www.myjoyonline.com/ato-forson-projects-gh%c2%a2389-2bn-expenditure-gh%c2%a265-8bn-deficit-for-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:54:13.000Z",
+      "summary": "The government is targeting total expenditure of GH¢389.2 billion in 2027, with more than GH¢100 billion expected to go into capital projects as part of efforts to expand infrastructure and…",
+      "categories": [
+        "National",
+        "News",
+        "Ato Forson",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Small-scale miners face 3% cut in gold purchase price under 2027 proposal",
+      "link": "https://www.graphic.com.gh/news/general-news/small-scale-miners-face-3-cut-in-gold-purchase-price-under-2027-proposal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T20:51:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2027 Budget: Gov’t to leverage U-20 AFCON for sports infrastructure development",
+      "link": "https://www.myjoyonline.com/2027-budget-govt-to-leverage-u-20-afcon-for-sports-infrastructure-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:51:03.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to begin preparations to host the 2027 CAF Under-20 Africa Cup of Nations, which is expected to create opportunities for sports…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson",
+        "u-20 afcon"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
+      "link": "https://www.myjoyonline.com/government-to-invest-us1bn-in-textile-and-garment-industry-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:48:36.000Z",
+      "summary": "Government will invest US$1 billion to transform Ghana's textile and garment industry into a competitive manufacturing hub capable of supplying global fashion markets.",
+      "categories": [
+        "Business",
+        "HP Business 7",
+        "Investments",
+        "National",
+        "GARMENT",
+        "TEXTILE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: GH¢600m earmarked for 10 regional stadia",
+      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a2600m-earmarked-for-10-regional-stadia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:47:44.000Z",
+      "summary": "Government has earmarked GH¢600 million from its GH¢782 million allocation to the Ministry of Sports and Recreation for the construction of 10 multipurpose regional stadia across the…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Sports",
+        "2027 Budget",
+        "Regional Stadia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gov’t tasks EXIM Bank to drive self-sufficiency in poultry production",
       "link": "https://www.myjoyonline.com/govt-tasks-exim-bank-to-drive-self-sufficiency-in-poultry-production/",
@@ -63,76 +147,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget: GH¢8.9bn allocated for new hospitals, completion of 35 Agenda 111 facilities – Ato Forson",
-      "link": "https://www.myjoyonline.com/2027-budget-gh%c2%a28-9bn-allocated-for-new-hospitals-completion-of-35-agenda-111-facilities-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:39:52.000Z",
-      "summary": "The government has earmarked GH¢8.9 billion in the 2027 Budget for the construction and completion of hospitals, alongside investments in psychiatric care, mental health services and…",
+      "title": "Two remanded over murder of Somanya woman who travelled to Oti to recover GH¢19,000 debt",
+      "link": "https://www.graphic.com.gh/news/general-news/two-remanded-over-murder-of-somanya-woman-who-travelled-to-oti-to-recover-ghc19-000-debt.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T20:29:31.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Ato Forson",
-        "Hospitals"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
-      "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:35:20.000Z",
-      "summary": "The Ghana Export-Import Bank (EXIM Bank) will become the sole financial institution responsible for financing Ghana's poultry sector under a four-year programme beginning in 2027.",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Exim Bank",
-        "Poultry sector"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to merge MIIF and GIIF to establish Ghana Sovereign Wealth Fund – Finance Minister",
-      "link": "https://www.myjoyonline.com/govt-to-merge-miif-and-giif-to-establish-ghana-sovereign-wealth-fund-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:33:47.000Z",
-      "summary": "The government plans to merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund aimed at improving…",
-      "categories": [
-        "Business",
-        "National",
-        "Dr Cassiel Ato Forson",
-        "Ghana Infrastructure Investment Fund",
-        "Ghana Sovereign Wealth Fund",
-        "Minerals Income Investment Fund (MIIF)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to uncap Exim Bank levies to boost poultry production – Ato Forson",
-      "link": "https://www.myjoyonline.com/government-to-uncap-exim-bank-levies-to-boost-poultry-production-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:30:02.000Z",
-      "summary": "Government will uncap the levies allocated to the Ghana Export-Import Bank (Exim Bank) to increase its funding capacity and support local poultry production.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "National",
-        "Exim Bank",
-        "Poultry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: Gov’t to construct 10 multipurpose sports stadia in underserved regions",
-      "link": "https://www.myjoyonline.com/2027-budget-govt-to-construct-10-multipurpose-sports-stadia-in-underserved-regions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:29:57.000Z",
-      "summary": "Government has announced plans to construct 10 new multipurpose sports stadia across underserved regions in 2027 as part of efforts to improve sports infrastructure and grassroots…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "2027 Budget"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Finance Minister offers early GH¢29bn DDEP redemption, targets GH¢36bn debt clearance by December",
@@ -266,28 +289,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/govt-to-expand-cylinder-recirculation-model-nationwide-jinapor.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T16:11:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Akufo-Addo to lead 200-member ECOWAS team for Nigeria's 2027 elections",
-      "link": "https://www.graphic.com.gh/news/politics/akufo-addo-to-lead-200-member-ecowas-team-for-nigerias-2027-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T15:16:25.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
-      "link": "https://www.graphic.com.gh/news/general-news/two-aduman-shs-teachers-interdicted-over-alleged-sexual-misconduct.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T14:52:28.000Z",
       "summary": "",
       "categories": [
         "General News"

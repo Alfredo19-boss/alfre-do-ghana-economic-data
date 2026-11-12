@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T20:48:46.517Z",
+  "updated": "2026-11-12T20:58:43.559Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
+      "link": "https://www.myjoyonline.com/government-to-invest-us1bn-in-textile-and-garment-industry-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T20:48:36.000Z",
+      "summary": "Government will invest US$1 billion to transform Ghana's textile and garment industry into a competitive manufacturing hub capable of supplying global fashion markets."
+    },
     {
       "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
       "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:21:51.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and…"
-    },
-    {
-      "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
-      "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:43:26.000Z",
-      "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50…"
     }
   ]
 };
