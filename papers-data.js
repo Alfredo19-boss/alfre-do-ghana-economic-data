@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T06:27:11.252Z",
+  "updated": "2026-11-12T06:37:10.588Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "LISAG supports Lands Commission’s digitisation drive",
+      "link": "https://ghanaiantimes.com.gh/lisag-supports-lands-commissions-digitisation-drive/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:33:58.000Z",
+      "summary": "THE Licensed Surveyors Association of Ghana (LISAG) has donated IT equipment to the Lands Commission to support its digitisation drive and improve records management across selected…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Strengthen referral systems to save preterm babies – PSG",
+      "link": "https://ghanaiantimes.com.gh/strengthen-referral-systems-to-save-preterm-babies-psg/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-12T06:29:47.000Z",
+      "summary": "THE Paediatric Society of Ghana (PSG) has launched this year’s Prematurity Awareness Month with a call for urgent efforts to strengthen newborn referral systems across the country to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "A warming Pacific, a hotter Ghana: Protect yourself from El Niño",
       "link": "https://ghanaiantimes.com.gh/a-warming-pacific-a-hotter-ghana-protect-yourself-from-el-nino/",
@@ -101,34 +125,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "MoGCSP calls for probe into death of 5-year-old girl at Mim",
-      "link": "https://ghanaiantimes.com.gh/mogcsp-calls-for-probe-into-death-of-5-year-old-girl-at-mim/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T06:04:18.000Z",
-      "summary": "THE Ministry of Gender, Children and Social Protection (MoGCSP) has called for a thorough investigation into the death of a five-year-old girl at Mim in the Ahafo Region, following an…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gifty Oware submitted 63,673 fictitious names for payment — witness",
-      "link": "https://ghanaiantimes.com.gh/gifty-oware-submitted-63673-fictitious-names-for-payment-witness/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T05:58:10.000Z",
-      "summary": "Investigations into the alleged GH¢38.4 million National Service Authority (NSA) scandal have established that 63,673 names submitted for payment of allowances during the 2023 and 2024…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Six MDs in eight years weakened TOR – Managing Director",
       "link": "https://www.myjoyonline.com/six-mds-in-eight-years-weakened-tor-managing-director/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T05:41:12.000Z",
+      "published": "2026-11-12T06:04:12.000Z",
       "summary": "Frequent changes at the top of the Tema Oil Refinery (TOR) during the eight years of the previous administration undermined management stability and made it difficult to address the…",
       "categories": [
         "HP News 9",
@@ -162,6 +162,7 @@ window.GDC_PAPERS = {
       "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…",
       "categories": [
         "Business",
+        "HP Business 1",
         "HP News 10",
         "News",
         "Bank",
@@ -229,6 +230,7 @@ window.GDC_PAPERS = {
       "summary": "The Chairman of the Economic Affairs Committee of the Association of Ghana Industries (AGI), Eric Defor, has raised concerns about the difficulty businesses continue to face in securing…",
       "categories": [
         "Business",
+        "HP Business 2",
         "HP News 5",
         "News",
         "Bank",
@@ -260,6 +262,7 @@ window.GDC_PAPERS = {
       "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…",
       "categories": [
         "Business",
+        "HP Business 3",
         "Kantamanto",
         "Trader"
       ],
