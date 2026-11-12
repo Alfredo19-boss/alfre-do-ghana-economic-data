@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T02:08:46.923Z",
+  "updated": "2026-11-12T02:18:46.253Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Lack of infrastructure hampers teaching and learning at Seikwa Presbyterian School",
+      "link": "https://www.myjoyonline.com/lack-of-infrastructure-hampers-teaching-and-learning-at-seikwa-presbyterian-school/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T00:47:18.000Z",
+      "summary": "The Headmistress of Seikwa Presbyterian Primary School, Ruth Adamptey, has appealed to the government, community members, and benevolent organisations to help the school address critical…",
+      "categories": [
+        "Education",
+        "News",
+        "Clinic",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accra after Sunset: El Niño, a heating city and the sky above us",
       "link": "https://www.myjoyonline.com/accra-after-sunset-el-nino-a-heating-city-and-the-sky-above-us/",
@@ -123,21 +137,6 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ahead of 2027 Budget: Techiman drivers complain about fuel prices as traders lament slow sales and delays in Women’s Development Bank",
-      "link": "https://www.myjoyonline.com/ahead-of-2027-budget-techiman-drivers-complain-about-fuel-prices-as-traders-lament-slow-sales-and-delays-in-womens-development-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:35:34.000Z",
-      "summary": "As Finance Minister Dr Cassiel Ato Forson prepares to present the 2027 Budget Statement and Economic Policy to Parliament tomorrow, Thursday, November 12, at 6:00 pm, the mood in Techiman…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Techiman drivers",
-        "Traders",
-        "women's development bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
