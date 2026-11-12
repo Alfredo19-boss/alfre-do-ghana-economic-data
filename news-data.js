@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T12:21:10.681Z",
+  "updated": "2026-11-12T12:31:09.942Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG Unveils New Cedi Notes with Stronger Security and Improved Durability",
+      "link": "https://thehighstreetjournal.com/bog-unveils-new-cedi-notes-with-stronger-security-and-improved-durability/",
+      "source": "The High Street Journal",
+      "published": "2026-11-12T12:30:17.000Z",
+      "summary": "The upgraded Heritage Series will combine enhanced security features, improved durability and Ghanaian cultural identity as the Bank of Ghana prepares to modernise currency management."
+    },
     {
       "title": "IFAD Sees $11 Trillion Economic Risk From El Niño and Food System Shocks",
       "link": "https://thehighstreetjournal.com/el-nino-threatens-11-trillion/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T09:14:39.000Z",
       "summary": "The DFC plans to deploy up to $205 billion over five years, targeting critical minerals, energy, transport, and other sectors while mobilising private capital for African development."
-    },
-    {
-      "title": "What Will Be the Fate of Our Traditional Markets When Gen Zs Rule?",
-      "link": "https://thehighstreetjournal.com/what-will-be-the-fate-of-our-traditional-markets-when-gen-zs-rule/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T08:00:00.000Z",
-      "summary": "Ghana’s Gen Z consumers are embracing online shopping and delivery services, raising questions about the future of traditional markets as traders face growing pressure to adopt digital…"
     }
   ]
 };

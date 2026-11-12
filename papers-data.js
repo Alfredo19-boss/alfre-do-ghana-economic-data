@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T12:21:41.658Z",
+  "updated": "2026-11-12T12:31:40.095Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama unveils new Cedi Heritage banknotes ahead of December 1 circulation",
+      "link": "https://www.myjoyonline.com/president-mahama-unveils-new-cedi-heritage-banknotes-ahead-of-december-1-circulation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:29:41.000Z",
+      "summary": "President John Dramani Mahama has unveiled the Bank of Ghana’s upgraded Cedi Heritage Series, marking a new chapter in the modernisation of Ghana’s national currency. The unveiling took…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "circulation",
+        "December",
+        "Heritage Series banknotes",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The $50,000 Passport Monster: How NPP built a syndicate, left it in Foreign Affairs, and now wants Ablakwa to carry it",
+      "link": "https://www.myjoyonline.com/the-50000-passport-monster-how-npp-built-a-syndicate-left-it-in-foreign-affairs-and-now-wants-ablakwa-to-carry-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T12:24:12.000Z",
+      "summary": "It is rather interesting how, every now and then, the NPP seems determined to find fault with Samuel Okudzeto Ablakwa, almost at all costs. Today, I particularly appreciated the submission…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Ablakwa",
+        "Foreign Affairs",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Protect, value and take pride in the cedi’ – Dr Asiama urges Ghanaians",
       "link": "https://www.myjoyonline.com/protect-value-and-take-pride-in-the-cedi-dr-asiama-urges-ghanaians/",
@@ -110,40 +142,6 @@ window.GDC_PAPERS = {
         "Bank of Ghana",
         "BoG",
         "Dr Johnson Pandit Asiama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Heritage series incorporates enhanced security features – BoG Governor",
-      "link": "https://www.myjoyonline.com/heritage-series-incorporates-enhanced-security-features-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:35:17.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Asiama, has highlighted the enhanced security features of the newly introduced Ghana Heritage Series banknotes, saying the improvements…",
-      "categories": [
-        "Business",
-        "HP News 3",
-        "National",
-        "BoG Governor",
-        "Ghana Heritage Series banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Heritage Series Banknotes to be in circulation from December 1 – BoG Governor",
-      "link": "https://www.myjoyonline.com/heritage-series-banknotes-to-be-in-circulation-from-december-1-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:31:34.000Z",
-      "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series into circulation from December 1, 2026, with the existing banknotes remaining legal tender. Governor of the…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "National",
-        "News",
-        "Top Story",
-        "Bank of Ghana",
-        "Dr Johnson Pandit Asiama",
-        "Heritage Series banknotes"
       ],
       "site": "https://www.myjoyonline.com/"
     },
