@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T13:21:42.772Z",
+  "updated": "2026-11-12T13:31:41.893Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama launches Ghana Cedi Heritage Series Banknotes, unveils $10billion economic transformation plan",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-launches-ghana-cedi-heritage-series-banknotes-unveils-10billion-economic-transformation-plan.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-12T13:28:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NAIMOS says personnel acted in self-defence during Manso Keniago clash that left six dead",
+      "link": "https://www.myjoyonline.com/naimos-says-personnel-acted-in-self-defence-during-manso-keniago-clash-that-left-six-dead/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:23:23.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says the deaths recorded during Wednesday's confrontation at Manso Keniago in the Ashanti Region resulted from an act of…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Manso Keniago",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Take a look at the new Ghana cedi notes introduced by the Bank of Ghana",
       "link": "https://www.myjoyonline.com/take-a-look-at-the-new-ghana-cedi-notes-introduced-by-the-bank-of-ghana/",
@@ -129,24 +154,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Eni Ghana pledges more opportunities for local firms in upstream sector",
-      "link": "https://www.myjoyonline.com/eni-ghana-pledges-more-opportunities-for-local-firms-in-upstream-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:59:03.000Z",
-      "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…",
-      "categories": [
-        "Energy",
-        "Mining",
-        "National",
-        "News",
-        "Eni Ghana",
-        "John Mahama",
-        "Local Content",
-        "upstream"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Old cedi notes remain legal tender — BoG sets December 1 rollout for Heritage Series",
       "link": "https://www.graphic.com.gh/news/general-news/old-cedi-notes-remain-legal-tender-bog-sets-december-1-rollout-for-heritage-series.html",
       "source": "Daily Graphic",
@@ -217,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-budget-2027-preview-govt-to-buy-back-ghc29bn-bonds-ghc11bn-interest-to-be-paid-by-jan-2018.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T08:40:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2027 Budget: Offer bold policies to stimulate growth - AGI, GNCCI, GUTA to govt",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-offer-bold-policies-to-stimulate-growth-agi-gncci-guta-to-govt.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T08:30:36.000Z",
       "summary": "",
       "categories": [
         "General News"

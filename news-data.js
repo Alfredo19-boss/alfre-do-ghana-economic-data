@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-12T13:21:13.993Z",
+  "updated": "2026-11-12T13:31:09.883Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Take a look at the new Ghana cedi notes introduced by the Bank of Ghana",
+      "link": "https://www.myjoyonline.com/take-a-look-at-the-new-ghana-cedi-notes-introduced-by-the-bank-of-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T13:19:17.000Z",
+      "summary": "The Bank of Ghana has introduced upgraded Ghana cedi banknotes with enhanced security features, improved durability, and more convenient, portable sizes."
+    },
     {
       "title": "GIPA CEO challenges private sector to demand accountability from public institutions",
       "link": "https://www.myjoyonline.com/gipa-ceo-challenges-private-sector-to-demand-accountability-from-public-institutions/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana News Agency",
       "published": "2026-11-10T11:50:45.000Z",
       "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Women’s Development Bank applies to BoG for banking licence – Vice President",
-      "link": "https://www.myjoyonline.com/womens-development-bank-applies-to-bog-for-banking-licence-vice-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T11:40:20.000Z",
-      "summary": "The proposed Women’s Development Bank has submitted an application to the Bank of Ghana (BoG) for a banking licence, marking a major step towards its establishment. Vice President Professor…"
     }
   ]
 };
