@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T02:18:46.253Z",
+  "updated": "2026-11-12T02:38:46.467Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
+      "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T01:29:00.000Z",
+      "summary": "The Chief Executive Officer of Dedeyao Farms, Daniel Asimadi, has called on the government to provide stronger financial and institutional support to farmers, warning that commercial…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Agric",
+        "Farm"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Lack of infrastructure hampers teaching and learning at Seikwa Presbyterian School",
       "link": "https://www.myjoyonline.com/lack-of-infrastructure-hampers-teaching-and-learning-at-seikwa-presbyterian-school/",
@@ -124,19 +138,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Electricity",
         "Gold"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
-      "link": "https://www.myjoyonline.com/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:50:00.000Z",
-      "summary": "Nvidia CEO Jensen Huang had an extramarital ​affair with a company ‌executive who reported to him, the New York Times ​reported on Wednesday, citing ​five people who worked ⁠at the company.",
-      "categories": [
-        "International",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
