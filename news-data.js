@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T02:45:58.168Z",
+  "updated": "2026-11-13T03:05:49.845Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,6 +34,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T00:05:00.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…"
+    },
+    {
+      "title": "The rise and fall of Jensen Huang – how the tech superstar became mired in scandal",
+      "link": "https://www.myjoyonline.com/the-rise-and-fall-of-jensen-huang-how-the-tech-superstar-became-mired-in-scandal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T21:58:00.000Z",
+      "summary": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen…"
     },
     {
       "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:38:04.000Z",
       "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye…"
-    },
-    {
-      "title": "Ghana’s black gold and the quest for value",
-      "link": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:30:22.000Z",
-      "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…"
     }
   ]
 };

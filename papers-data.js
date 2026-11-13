@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T02:46:26.854Z",
+  "updated": "2026-11-13T03:06:21.852Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US doctor kills building manager after long-running dispute over mould, police say",
+      "link": "https://www.myjoyonline.com/us-doctor-kills-building-manager-after-long-running-dispute-over-mould-police-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:58:37.000Z",
+      "summary": "A doctor who had been in an ongoing dispute over mould and other issues at his Washington DC apartment fatally shot his building's manager and fired at four others before killing himself…",
+      "categories": [
+        "International",
+        "Kill",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
       "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
@@ -142,20 +155,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "Economy",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority caucus questions women’s bank pledge, alleges silence in 2027 Budget",
-      "link": "https://www.myjoyonline.com/minority-caucus-questions-womens-bank-pledge-alleges-silence-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T22:27:31.000Z",
-      "summary": "The Minority in Parliament has questioned the government’s commitment to establishing a women’s bank, alleging that the 2027 Budget failed to address a promise repeated in the previous two…",
-      "categories": [
-        "News",
-        "Politics",
-        "2027 Budget",
-        "Minority Caucus"
       ],
       "site": "https://www.myjoyonline.com/"
     },
