@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T05:15:50.973Z",
+  "updated": "2026-11-13T05:50:50.594Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:48:00.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 opens today at the GHUD Park, Accra Mall, bringing together businesses and consumers for a three-day exhibition of Ghanaian products and services."
+    },
+    {
+      "title": "US$200m chicken import bill puts local poultry production in focus – Forson",
+      "link": "https://www.myjoyonline.com/us200m-chicken-import-bill-puts-local-poultry-production-in-focus-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:26:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has questioned Ghana’s annual spending of about US$200 million on chicken imports, arguing that local maize and soybean production could support a…"
+    },
     {
       "title": "The Gospel According to Ato Forson: The New Economy Vrs the 24-Hour Economy – The What & What Not",
       "link": "https://thehighstreetjournal.com/the-gospel-according-to-ato-forson-the-new-economy-vrs-the-24-hour-economy-the-what-what-not/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T03:14:00.000Z",
       "summary": "Economics Professor Godfred Alufar Bokpin says Ghana cannot celebrate spending cuts while a huge infrastructure deficit continues to hold back growth and burden citizens."
-    },
-    {
-      "title": "We need government to spend to stimulate growth – Bokpin",
-      "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:55:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin has urged the government to spend to stimulate growth, warning that cuts to expenditure are delaying the benefits of economic stability for…"
-    },
-    {
-      "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
-      "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:36:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says the government has done well to restore macroeconomic stability, citing falling inflation, lower interest rates, and the cedi’s relative…"
     }
   ]
 };

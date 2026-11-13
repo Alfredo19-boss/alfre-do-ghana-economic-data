@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T05:16:22.778Z",
+  "updated": "2026-11-13T05:51:21.294Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,82 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:48:00.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 opens today at the GHUD Park, Accra Mall, bringing together businesses and consumers for a three-day exhibition of Ghanaian products and services.",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "HP News 2",
+        "National",
+        "News",
+        "Ecobank",
+        "Ghud Park",
+        "JoyBusiness",
+        "SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UN welcomes Kofi Annan’s appearance on new GH¢100 banknote",
+      "link": "https://www.myjoyonline.com/un-welcomes-kofi-annans-appearance-on-new-gh%c2%a2100-banknote/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:47:00.000Z",
+      "summary": "The United Nations in Ghana has welcomed the decision to feature former UN Secretary-General Kofi Annan on the Bank of Ghana’s newly introduced GH¢100 banknote, describing it as recognition…",
+      "categories": [
+        "National",
+        "News",
+        "Kofi Annan",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Owabi treatment plant shutdown disrupts water supply to parts of Ashanti Region",
+      "link": "https://www.myjoyonline.com/owabi-treatment-plant-shutdown-disrupts-water-supply-to-parts-of-ashanti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:40:00.000Z",
+      "summary": "Residents in several communities in the Ashanti Region are expected to experience water supply interruptions after Ghana Water Limited (GWL) temporarily shut down the Owabi Water Treatment…",
+      "categories": [
+        "National",
+        "GWL",
+        "Owabi",
+        "Plant"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama pledges dialogue to resolve UTAG-GTEC dispute",
+      "link": "https://www.myjoyonline.com/mahama-pledges-dialogue-to-resolve-utag-gtec-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:33:00.000Z",
+      "summary": "President John Mahama says the government is prepared to engage the University Teachers Association of Ghana (UTAG) and the Ghana Tertiary Education Commission (GTEC) to resolve…",
+      "categories": [
+        "National",
+        "GTEC",
+        "Mahama",
+        "UTAG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US$200m chicken import bill puts local poultry production in focus – Forson",
+      "link": "https://www.myjoyonline.com/us200m-chicken-import-bill-puts-local-poultry-production-in-focus-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:26:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has questioned Ghana’s annual spending of about US$200 million on chicken imports, arguing that local maize and soybean production could support a…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "2027 buget",
+        "Poultry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ato Forson says Ghana’s economic recovery must translate into better living standards for citizens",
       "link": "https://www.myjoyonline.com/ato-forson-says-ghanas-economic-recovery-must-translate-into-better-living-standards-for-citizens/",
@@ -55,95 +131,6 @@ window.GDC_PAPERS = {
         "National",
         "Capital",
         "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t plans 3% discount on GoldBod’s gold purchases after taking over programme costs from BoG",
-      "link": "https://www.myjoyonline.com/govt-plans-3-discount-on-goldbods-gold-purchases-after-taking-over-programme-costs-from-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:06:14.000Z",
-      "summary": "The government plans to introduce a 3% discount on small-scale gold purchases in 2027 to reduce the cost of accumulating foreign exchange and building reserves through domestic gold…",
-      "categories": [
-        "Analysis",
-        "Data",
-        "HP Business 2",
-        "HP Research 2",
-        "International",
-        "National",
-        "News",
-        "Research",
-        "Ato Forson",
-        "Bank of Ghana",
-        "Gold",
-        "Goldbod",
-        "Johnson Asiama",
-        "Sammy Gyamfi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Peasant agriculture cannot solve Ghana’s food problems – Ato Forson",
-      "link": "https://www.myjoyonline.com/peasant-agriculture-cannot-solve-ghanas-food-problems-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:03:57.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must move beyond peasant agriculture and modernise food production to reduce its dependence on imports.",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "2027 Budget",
-        "Peasant farming"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kofi Arko Nokoe joins MCE to oversee second PWD support disbursement in Nzema East",
-      "link": "https://www.myjoyonline.com/kofi-arko-nokoe-joins-mce-to-oversee-second-pwd-support-disbursement-in-nzema-east/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:59:00.000Z",
-      "summary": "The Member of Parliament for Evalue-Ajomoro-Gwira, Kofi Arko Nokoe, has joined the Municipal Chief Executive (MCE) for Nzema East,Kuah Dickson, to oversee the disbursement of support to…",
-      "categories": [
-        "National",
-        "Kofi Arko Nokoe",
-        "Nzema East"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: Promised 24-hour economy incentives still missing",
-      "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:54:56.000Z",
-      "summary": "The 2027 Budget does not specify several incentives proposed to attract businesses into Ghana’s 24-hour economy programme; instead, it outlines a narrower set of tax measures for…",
-      "categories": [
-        "Africa",
-        "Analysis",
-        "Business",
-        "Data",
-        "Economy",
-        "HP Research 1",
-        "International",
-        "National",
-        "Politics",
-        "Research",
-        "24 hour economy",
-        "Ato Forson",
-        "Mahama",
-        "Tax"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samira Bawumia champions solar-powered healthcare, clean cooking at COP31",
-      "link": "https://www.myjoyonline.com/samira-bawumia-champions-solar-powered-healthcare-clean-cooking-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:52:00.000Z",
-      "summary": "Former Second Lady of Ghana, Hajia Samira Bawumia, has called for increased investment in solar-powered healthcare systems and clean cooking solutions, highlighting their importance in…",
-      "categories": [
-        "National",
-        "Bawumia",
-        "COP31",
-        "Samira"
       ],
       "site": "https://www.myjoyonline.com/"
     },
