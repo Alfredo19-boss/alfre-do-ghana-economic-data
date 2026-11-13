@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:01:21.743Z",
+  "updated": "2026-11-13T06:11:20.676Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Permanent Black Stars job is not a question for me – Interim coach",
+      "link": "https://www.myjoyonline.com/permanent-black-stars-job-is-not-a-question-for-me-interim-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T06:03:20.000Z",
+      "summary": "Black Stars interim coach Kim Lars Björkegren says securing the permanent Ghana coaching position is not his immediate concern, insisting his responsibility is to help the team win matches…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Afcon 2027",
+        "Black Stars",
+        "Black Stars Coach",
+        "Kim Lars Björkegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "100% local processing of cocoa beans achievable but requires political will – Dr Opoku Gakpo",
       "link": "https://www.myjoyonline.com/100-local-processing-of-cocoa-beans-achievable-but-requires-political-will-dr-opoku-gakpo/",
@@ -121,18 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "Ato Forson",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢17.6bn allocated to local governance, chieftaincy and religious affairs in 2027 Budget – Finance Minister",
-      "link": "https://www.myjoyonline.com/gh%c2%a217-6bn-allocated-to-local-governance-chieftaincy-and-religious-affairs-in-2027-budget-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:11:46.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced an allocation of GH¢17.6 billion to the local governance, chieftaincy and religious affairs sector in the 2027 Budget to support local…",
-      "categories": [
-        "National",
-        "Dr Cassiel Ato Forson"
       ],
       "site": "https://www.myjoyonline.com/"
     },
