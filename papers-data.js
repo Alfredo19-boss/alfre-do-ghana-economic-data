@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T17:50:58.677Z",
+  "updated": "2026-11-13T18:16:01.293Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Justice Pwamang takes over as Ag. Chief Justice as Baffoe-Bonnie proceeds on leave",
+      "link": "https://www.myjoyonline.com/justice-pwamang-takes-over-as-ag-chief-justice-as-baffoe-bonnie-proceeds-on-leave/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T18:06:04.000Z",
+      "summary": "Chief Justice Paul Baffoe-Bonnie has nominated Supreme Court Justice Gabriel Scott Pwamang to act in his stead during his absence from duty from November 12 to November 24, 2026.",
+      "categories": [
+        "National",
+        "Chief Justice Paul Baffoe-Bonnie",
+        "Justice Gabriel Scott Pwamang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC Deputy Youth Organiser aspirant Daniel Niibi outlines plans to give Greater Accra youth a stronger voice",
       "link": "https://www.myjoyonline.com/ndc-deputy-youth-organiser-aspirant-daniel-niibi-outlines-plans-to-give-greater-accra-youth-a-stronger-voice/",
@@ -124,23 +137,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics",
         "diplomatic passports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two Aduman SHS teachers remanded as police probe alleged sodomy case involving a student",
-      "link": "https://www.myjoyonline.com/two-aduman-shs-teachers-remanded-as-police-probe-alleged-sodomy-case-involving-a-student/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:01:25.000Z",
-      "summary": "Two teachers of Aduman Senior High School in the Ashanti Region, who were arrested over allegations of sexual misconduct involving a male student, have been remanded into police custody by…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "National",
-        "News",
-        "Aduman SHS",
-        "Ghana Education Service",
-        "Sodomy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
