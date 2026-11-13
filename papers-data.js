@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:25:27.136Z",
+  "updated": "2026-11-13T14:35:26.433Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama charges new NLC members to ensure fair and timely resolution of disputes",
+      "link": "https://www.myjoyonline.com/mahama-charges-new-nlc-members-to-ensure-fair-and-timely-resolution-of-disputes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:29:46.000Z",
+      "summary": "President John Dramani Mahama has called on the newly inaugurated National Labour Commission (NLC) to make fairness and timely resolution of disputes the foundation of its work, warning…",
+      "categories": [
+        "National",
+        "Mahama",
+        "new NLC members"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From shoreline waste to useful products: How solar-powered recycling is helping communities rethink plastic waste in Ghana",
+      "link": "https://www.myjoyonline.com/from-shoreline-waste-to-useful-products-how-solar-powered-recycling-is-helping-communities-rethink-plastic-waste-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:28:36.000Z",
+      "summary": "An environmental non-governmental organisation, Plastic Punch, has partnered with Marco Bernardo, founder of Sun Factory, to demonstrate how solar energy can be used to convert plastic…",
+      "categories": [
+        "National",
+        "Plastic waste"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nigerian university in mourning after four students die at post-exam party",
       "link": "https://www.myjoyonline.com/nigerian-university-in-mourning-after-four-students-die-at-post-exam-party/",
@@ -107,35 +132,6 @@ window.GDC_PAPERS = {
         "National",
         "Data",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GHS launches second round of MDA against Onchocerciasis",
-      "link": "https://www.myjoyonline.com/ghs-launches-second-round-of-mda-against-onchocerciasis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:58:13.000Z",
-      "summary": "The Ghana Health Service (GHS) has launched the second round of its 2026 Mass Drug Administration (MDA) campaign against Onchocerciasis (river blindness), urging residents in affected…",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana Health Service",
-        "Onchocerciasis"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Muntaka hosts ALEO, NYPD delegation to discuss collaboration with Ghana Police Service",
-      "link": "https://www.myjoyonline.com/muntaka-hosts-aleo-nypd-delegation-to-discuss-collaboration-with-ghana-police-service/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:57:10.000Z",
-      "summary": "A delegation from the African Law Enforcement Organisation (ALEO) and the New York Police Department (NYPD) has called for stronger collaboration with the Ghana Police Service to improve…",
-      "categories": [
-        "National",
-        "African Law Enforcement Organisation",
-        "Ghana Police Service",
-        "Muntaka Mohammed-Mubarak",
-        "New York Police Department"
       ],
       "site": "https://www.myjoyonline.com/"
     },
