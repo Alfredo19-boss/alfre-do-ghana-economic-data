@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:56:21.224Z",
+  "updated": "2026-11-13T05:01:22.333Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget: Promised 24-hour economy incentives still missing",
+      "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:54:56.000Z",
+      "summary": "The 2027 Budget does not specify several incentives proposed to attract businesses into Ghana’s 24-hour economy programme; instead, it outlines a narrower set of tax measures for…",
+      "categories": [
+        "Africa",
+        "Analysis",
+        "Business",
+        "Data",
+        "Economy",
+        "HP Research 1",
+        "International",
+        "National",
+        "Politics",
+        "Research",
+        "24 hour economy",
+        "Ato Forson",
+        "Mahama",
+        "Tax"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Samira Bawumia champions solar-powered healthcare, clean cooking at COP31",
       "link": "https://www.myjoyonline.com/samira-bawumia-champions-solar-powered-healthcare-clean-cooking-at-cop31/",
@@ -139,20 +163,6 @@ window.GDC_PAPERS = {
         "APPI",
         "Asiedu Nketia",
         "Political parties initiative"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama discusses lecturers’ welfare, university funding with UTAG",
-      "link": "https://www.myjoyonline.com/mahama-discusses-lecturers-welfare-university-funding-with-utag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:28:00.000Z",
-      "summary": "President John Dramani Mahama has engaged the leadership of the University Teachers Association of Ghana (UTAG) on a range of concerns, including lecturers’ welfare, recruitment challenges…",
-      "categories": [
-        "National",
-        "GTEC",
-        "Mahama",
-        "UTAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },

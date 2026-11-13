@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T04:55:49.552Z",
+  "updated": "2026-11-13T05:00:50.398Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget: Promised 24-hour economy incentives still missing",
+      "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:54:56.000Z",
+      "summary": "The 2027 Budget does not specify several incentives proposed to attract businesses into Ghana’s 24-hour economy programme; instead, it outlines a narrower set of tax measures for…"
+    },
     {
       "title": "‘It cannot continue’ – Ato Forson challenges Ghana’s $3.5bn food import bill",
       "link": "https://www.myjoyonline.com/it-cannot-continue-ato-forson-challenges-ghanas-3-5bn-food-import-bill/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T19:00:00.000Z",
       "summary": "Government is tightening procurement compliance as public spending exposes significant resources to waste, with estimated annual losses of GH¢2.36 billion raising pressure for stronger…"
-    },
-    {
-      "title": "Finance Ministry Tightens Project Approval Rules to Curb Unplanned Public Spending",
-      "link": "https://thehighstreetjournal.com/finance-ministry-tightens-project-approval-rules-to-curb-unplanned-public-spending/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T18:20:14.000Z",
-      "summary": "The Finance Ministry has tightened capital expenditure approval requirements, compelling public institutions to complete project appraisals and secure investment plan inclusion before…"
     }
   ]
 };
