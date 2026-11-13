@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T00:49:17.757Z",
+  "updated": "2026-11-13T01:24:16.521Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:05:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘How many economies would NDC build in Ghana within four years?’ – Afenyo-Markin",
       "link": "https://www.myjoyonline.com/how-many-economies-would-ndc-build-in-ghana-within-four-years-afenyo-markin/",
@@ -138,19 +152,6 @@ window.GDC_PAPERS = {
         "International",
         "truck loses control",
         "UAE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government sets 2027 deadline for local refining of 70% of small-scale gold",
-      "link": "https://www.myjoyonline.com/government-sets-2027-deadline-for-local-refining-of-70-of-small-scale-gold/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:34:39.000Z",
-      "summary": "The government plans to ensure that at least 70 per cent of Ghana's artisanal and small-scale mining gold is refined locally by December 2027, as part of efforts to retain more value from…",
-      "categories": [
-        "National",
-        "Dr Cassiel Ato Forson",
-        "Small-scale mining"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T00:48:45.833Z",
+  "updated": "2026-11-13T01:23:45.625Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:05:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…"
+    },
     {
       "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
       "link": "https://www.myjoyonline.com/government-to-invest-us1bn-in-textile-and-garment-industry-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:26:41.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
-    },
-    {
-      "title": "GNPC outlines plans to strengthen indigenous operatorship and local content development",
-      "link": "https://www.myjoyonline.com/gnpc-outlines-plans-to-strengthen-indigenous-operatorship-and-local-content-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:21:51.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and…"
     }
   ]
 };
