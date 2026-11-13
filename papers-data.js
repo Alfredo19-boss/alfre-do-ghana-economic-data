@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:25:16.348Z",
+  "updated": "2026-11-13T23:35:16.710Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -116,6 +116,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Police detail dramatic arrest of key suspect in the Sakumono double killing in Kumasi",
+      "link": "https://www.myjoyonline.com/police-detail-dramatic-arrest-of-key-suspect-in-the-sakumono-double-killing-in-kumasi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:35:57.000Z",
+      "summary": "The Ghana Police Service has been giving detailed accounts of the operation that led to the arrest of a prime suspect in the gruesome murder of a 57-year-old man and his niece at Sakumono…",
+      "categories": [
+        "Crime",
+        "Regional",
+        "double murder",
+        "Ejisu",
+        "Sakumono"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Police arrest suspect in Sakumono double murder after manhunt in Ejisu",
       "link": "https://www.myjoyonline.com/police-arrest-suspect-in-sakumono-double-murder-after-manhunt-in-ejisu/",
       "source": "MyJoyOnline",
@@ -127,20 +142,6 @@ window.GDC_PAPERS = {
         "double murder",
         "Ejisu",
         "Sakumono"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manso Keniago Chief challenges NAIMOS to prove alleged shooting that killed six",
-      "link": "https://www.myjoyonline.com/manso-keniago-chief-challenges-naimos-to-prove-alleged-shooting-that-killed-six/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:27:06.000Z",
-      "summary": "The Chief of Manso Keniago in the Amansie West District has challenged the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to provide evidence of the alleged attack on its men…",
-      "categories": [
-        "National",
-        "Manso Keniago",
-        "NAIMOS",
-        "Nana Obeng Mensah Ababio"
       ],
       "site": "https://www.myjoyonline.com/"
     },
