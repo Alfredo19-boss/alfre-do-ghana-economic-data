@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:31:22.303Z",
+  "updated": "2026-11-13T06:41:21.166Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "A new face for Ghana Cedi • Heritage Series honours icons, landmarks, national values",
+      "link": "https://ghanaiantimes.com.gh/a-new-face-for-ghana-cedi-heritage-series-honours-icons-landmarks-national-values/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T06:32:07.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has launched the Ghana Cedi Heritage Series banknotes, calling on Ghanaians to value the national currency, handle it responsibly and keep it clean. The new…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "2027 Budget: Govt unveils $10bn New Economy plan • GH¢30bn allocated for 2027; targets 8% growth, unemployment below 8%",
       "link": "https://ghanaiantimes.com.gh/2027-budget-govt-unveils-10bn-new-economy-plan-gh%c2%a230bn-allocated-for-2027-targets-8-growth-unemployment-below-8/",
@@ -304,18 +316,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T17:04:05.000Z",
       "summary": "The Ministry of Health has cautioned the public against a fraudulent fundraising campaign being aired on Ghanaian televisions, which falsely solicits money to support patients seeking…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former President Akufo-Addo to lead ECOWAS Election Observation Mission to Nigeria",
-      "link": "https://ghanaiantimes.com.gh/former-president-akufo-addo-to-lead-ecowas-election-observation-mission-to-nigeria/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T17:00:18.000Z",
-      "summary": "Former President of Ghana, Nana Addo Dankwa Akufo-Addo, has been appointed by the Economic Community of West African States (ECOWAS) to lead a deployment of Election Observers to the…",
       "categories": [
         "Hot!",
         "News"
