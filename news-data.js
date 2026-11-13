@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T05:00:50.398Z",
+  "updated": "2026-11-13T05:10:52.633Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,82 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "The Gospel According to Ato Forson: The New Economy Vrs the 24-Hour Economy – The What & What Not",
+      "link": "https://thehighstreetjournal.com/the-gospel-according-to-ato-forson-the-new-economy-vrs-the-24-hour-economy-the-what-what-not/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:05:00.000Z",
+      "summary": "Finance Minister Dr. Cassiel Ato Forson clarified that the ten billion dollar New Economy Programme provides the state infrastructure foundation, while the 24-Hour Economy serves as a…"
+    },
+    {
+      "title": "Peasant agriculture cannot solve Ghana’s food problems – Ato Forson",
+      "link": "https://www.myjoyonline.com/peasant-agriculture-cannot-solve-ghanas-food-problems-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:03:57.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must move beyond peasant agriculture and modernise food production to reduce its dependence on imports."
+    },
+    {
+      "title": "GH¢323Bn In, GH¢375Bn Out: How Ghana Plans to Mobilize and Spend in the 2027 Budget",
+      "link": "https://thehighstreetjournal.com/gh%c2%a2323bn-in-gh%c2%a2375bn-out-how-ghana-plans-to-mobilize-and-spend-in-the-2027-budget/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:03:00.000Z",
+      "summary": "Ghana’s 2027 Budget targets GH¢323.1 billion in total revenue, led by GH¢255.8 billion in non-oil taxes, against GH¢375.0 billion in expenditure. Spending prioritizes capital…"
+    },
+    {
+      "title": "Ghana to Invest $1 Billion in Pharmaceuticals to Cut Medicine Imports and Boost Local Production",
+      "link": "https://thehighstreetjournal.com/ghana-to-invest-1bn-in-pharmaceuticals/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:02:00.000Z",
+      "summary": "Ghana plans to invest $1 billion in pharmaceutical and biomanufacturing facilities as the government seeks to reduce its reliance on imported medicines, conserve foreign exchange and…"
+    },
+    {
+      "title": "Ghana Commits US$1.45bn To Energy Infrastructure, Targets End To Emergency Power By 2030",
+      "link": "https://thehighstreetjournal.com/ghana-commits-us1-45bn-to-energy-infrastructure-targets-end-to-emergency-power-by-2030/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:01:00.000Z",
+      "summary": "Government plans a 1,450MW state-owned thermal plant, solar generation, and battery storage to reduce electricity costs and strengthen energy security."
+    },
+    {
+      "title": "GSE IPO Revival Raises GH¢2.1bn as Exchange Eyes Digital Assets",
+      "link": "https://thehighstreetjournal.com/gse-ipo-revival-raises-gh%c2%a22-1bn-as-exchange-eyes-digital-assets/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:00:00.000Z",
+      "summary": "GSE's three recent IPOs raised GH¢2.1 billion, as the Exchange prepares to expand capital-raising opportunities through regulated digital securities."
+    },
+    {
+      "title": "National AI Centre, Rural 4G Upgrade Set for $300 Million Investment",
+      "link": "https://thehighstreetjournal.com/national-ai-centre-rural-4g-upgrade/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:00:00.000Z",
+      "summary": "The investment will provide shared computing infrastructure, research facilities and technical training for local businesses, universities, researchers and public institutions"
+    },
+    {
+      "title": "Trump Backs Tim Cook to Replace Jensen Huang as Nvidia CEO",
+      "link": "https://thehighstreetjournal.com/trump-backs-tim-cook-to-replace-jensen/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:00:00.000Z",
+      "summary": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple"
+    },
+    {
+      "title": "Mercury Pollution Spreads Beyond Mining Sites as Ghana Faces Growing Water Safety Risks",
+      "link": "https://thehighstreetjournal.com/mercury-pollution-spreads-beyond-mining-sites-as-ghana-faces-growing-water-safety-risks/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:00:00.000Z",
+      "summary": "Research findings point to contamination in rivers, sediments, and boreholes, raising concerns about exposure through drinking water and fish."
+    },
+    {
+      "title": "Ghana’s First Carbonate Hydrocarbon Discovery Opens New Oil Exploration Frontier",
+      "link": "https://thehighstreetjournal.com/ghanas-first-carbonate-hydrocarbon-discovery-opens-new-oil-exploration-frontier/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T05:00:00.000Z",
+      "summary": "Ghana's first successful carbonate reservoir discovery offshore could expand exploration prospects, support reserve replacement and attract investment, although further technical evaluation…"
+    },
     {
       "title": "2027 Budget: Promised 24-hour economy incentives still missing",
       "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
@@ -405,6 +475,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T11:37:18.000Z",
       "summary": "The Bank of Ghana (BoG) is planning to establish new Cash Centres at its Ho and Tamale Regional Offices as part of efforts to improve access to currency services and strengthen cash…"
+    },
+    {
+      "title": "Heritage Series Banknotes designed to foil counterfeiting – BoG Governor",
+      "link": "https://www.myjoyonline.com/heritage-series-banknotes-designed-to-foil-counterfeiting-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T11:37:00.000Z",
+      "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has said the new Heritage Cedi banknotes have been designed with enhanced security features, improved durability and smaller dimensions…"
     },
     {
       "title": "Heritage series incorporates enhanced security features – BoG Governor",
@@ -993,83 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T02:36:00.000Z",
       "summary": "Economics Professor Godfred Alufar Bokpin says the government has done well to restore macroeconomic stability, citing falling inflation, lower interest rates, and the cedi’s relative…"
-    },
-    {
-      "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
-      "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T00:17:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says government’s heavy reliance on spending cuts is cooling the economy and squeezing demand, even as key economic indicators improve."
-    },
-    {
-      "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
-      "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:20:24.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…"
-    },
-    {
-      "title": "Spending cuts delaying benefits of economic stability – Bokpin",
-      "link": "https://www.myjoyonline.com/spending-cuts-delaying-benefits-of-economic-stability-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:18:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says Ghana’s reliance on spending cuts to stabilise the economy is delaying the benefits Ghanaians expect from improving economic indicators."
-    },
-    {
-      "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
-      "link": "https://www.myjoyonline.com/inflation-of-5-2-means-nothing-to-someone-spending-12-hours-travelling-to-kumasi-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:59:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says inflation of 5.2% means little to someone spending up to 12 hours travelling to Kumasi, arguing that improving economic indicators must…"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite ‘catastrophic’ AI warning",
-      "link": "https://www.myjoyonline.com/claude-chatbot-maker-set-for-1-3tn-stock-market-debut-despite-catastrophic-ai-warning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:41:00.000Z",
-      "summary": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq…"
-    },
-    {
-      "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
-      "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:31:26.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has dispelled misconceptions surrounding non-interest banking, clarifying that the financial model is a commercial, inclusive…"
-    },
-    {
-      "title": "Vegetable farmers urge gov’t to capture Anloga tomato factory in 2027 budget",
-      "link": "https://www.myjoyonline.com/vegetable-farmers-urge-govt-to-capture-anloga-tomato-factory-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:26:00.000Z",
-      "summary": "Vegetable farmers in the Anloga District of the Volta Region have appealed to the government to include provision for a tomato processing factory in the 2027 national budget to address…"
-    },
-    {
-      "title": "GACL targets year-end start for Wa, Bolgatanga and Sunyani airport projects",
-      "link": "https://www.myjoyonline.com/gacl-targets-year-end-start-for-wa-bolgatanga-and-sunyani-airport-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:16:00.000Z",
-      "summary": "The Ghana Airports Company Limited (GACL) hopes to begin construction on airport projects in Wa, Bolgatanga and Sunyani before the end of 2026 to improve domestic connectivity and expand…"
-    },
-    {
-      "title": "Ghana’s Tourism Investment Faces Delivery Test as Creative Funds Remain Underfunded",
-      "link": "https://thehighstreetjournal.com/ghanas-tourism-investment-faces-delivery-test-as-creative-funds-remain-underfunded/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T20:00:00.000Z",
-      "summary": "Ghana's tourism and creative economy faces a delivery gap as funding releases and infrastructure delays limit business opportunities, prompting calls for transparent reporting, accessible…"
-    },
-    {
-      "title": "GIPA CEO calls for shift from raw material exports to value addition",
-      "link": "https://www.myjoyonline.com/gipa-ceo-calls-for-shift-from-raw-material-exports-to-value-addition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T19:40:03.000Z",
-      "summary": "Mr Madjie made the call at the 15th Ghana Economic Forum, hosted by the Business and Financial Times (B&FT) in Accra, under the theme “From Stabilisation to Scale: Mobilising Capital…"
-    },
-    {
-      "title": "Ghana’s GH¢357 Billion Budget Faces Procurement Leakages as Government Tightens Compliance",
-      "link": "https://thehighstreetjournal.com/ghanas-gh%c2%a2357-billion-budget-faces-procurement-leakages-as-government-tightens-compliance/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T19:00:00.000Z",
-      "summary": "Government is tightening procurement compliance as public spending exposes significant resources to waste, with estimated annual losses of GH¢2.36 billion raising pressure for stronger…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T05:01:22.333Z",
+  "updated": "2026-11-13T05:11:22.683Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t plans 3% discount on GoldBod’s gold purchases after taking over programme costs from BoG",
+      "link": "https://www.myjoyonline.com/govt-plans-3-discount-on-goldbods-gold-purchases-after-taking-over-programme-costs-from-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:06:14.000Z",
+      "summary": "The government plans to introduce a 3% discount on small-scale gold purchases in 2027 to reduce the cost of accumulating foreign exchange and building reserves through domestic gold…",
+      "categories": [
+        "Analysis",
+        "Data",
+        "HP Business 2",
+        "HP Research 2",
+        "International",
+        "National",
+        "News",
+        "Research",
+        "Ato Forson",
+        "Bank of Ghana",
+        "Gold",
+        "Goldbod",
+        "Johnson Asiama",
+        "Sammy Gyamfi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Peasant agriculture cannot solve Ghana’s food problems – Ato Forson",
+      "link": "https://www.myjoyonline.com/peasant-agriculture-cannot-solve-ghanas-food-problems-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:03:57.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must move beyond peasant agriculture and modernise food production to reduce its dependence on imports.",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "2027 Budget",
+        "Peasant farming"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kofi Arko Nokoe joins MCE to oversee second PWD support disbursement in Nzema East",
+      "link": "https://www.myjoyonline.com/kofi-arko-nokoe-joins-mce-to-oversee-second-pwd-support-disbursement-in-nzema-east/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:59:00.000Z",
+      "summary": "The Member of Parliament for Evalue-Ajomoro-Gwira, Kofi Arko Nokoe, has joined the Municipal Chief Executive (MCE) for Nzema East,Kuah Dickson, to oversee the disbursement of support to…",
+      "categories": [
+        "National",
+        "Kofi Arko Nokoe",
+        "Nzema East"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget: Promised 24-hour economy incentives still missing",
       "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
@@ -113,20 +164,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IJM Ghana donates mattresses, appliances to support human trafficking survivors",
-      "link": "https://www.myjoyonline.com/ijm-ghana-donates-mattresses-appliances-to-support-human-trafficking-survivors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:39:00.000Z",
-      "summary": "The International Justice Mission (IJM) Ghana has donated mattresses and household appliances to the Human Trafficking Female Adult Shelter operated under the Ministry of Gender, Children…",
-      "categories": [
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Ministry",
-        "IJM Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
       "link": "https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/",
       "source": "Ghanaian Times",
@@ -137,34 +174,6 @@ window.GDC_PAPERS = {
         "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDPC reviews national monitoring and evaluation manual to strengthen development planning",
-      "link": "https://www.myjoyonline.com/ndpc-reviews-national-monitoring-and-evaluation-manual-to-strengthen-development-planning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:33:00.000Z",
-      "summary": "The National Development Planning Commission (NDPC) has begun a stakeholder review of the second edition of Ghana’s National Monitoring and Evaluation (M&E) Manual to improve its…",
-      "categories": [
-        "National",
-        "Monitoring",
-        "NDPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African Political Parties Initiative announces inaugural leadership, with Asiedu Nketiah as chair",
-      "link": "https://www.myjoyonline.com/african-political-parties-initiative-announces-inaugural-leadership-with-asiedu-nketiah-as-chair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:30:00.000Z",
-      "summary": "Ghana’s National Democratic Congress (NDC) National Chairman, Johnson Asiedu Nketiah, has been named the inaugural Chair of the African Political Parties Initiative (APPI), placing him at…",
-      "categories": [
-        "Africa",
-        "Politics",
-        "APPI",
-        "Asiedu Nketia",
-        "Political parties initiative"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Cloudflare brings WebRTC broadcasting out of beta",
