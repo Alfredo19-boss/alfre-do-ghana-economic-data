@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T07:21:22.455Z",
+  "updated": "2026-11-13T09:05:24.747Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,27 +21,203 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
-      "link": "https://ghanaiantimes.com.gh/eswatini-gives-illegal-foreign-businesses-12-months-to-leave/",
+      "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
+      "link": "https://ghanaiantimes.com.gh/bjorkegren-demands-better-finishing-ahead-of-somalia-clash-on-monday/",
       "source": "Ghanaian Times",
-      "published": "2026-11-13T07:15:42.000Z",
-      "summary": "BUSINESSES owned by Asian nationals are being closed across Eswatini as the government cracks down on foreign-owned enterprises. The crackdown follows Parliament’s approval of the Citizen…",
+      "published": "2026-11-13T08:57:57.000Z",
+      "summary": "INTERIM Black Stars head coach Kim Lars Björkegren says the team must improve in several aspects of their play, particularly their finishing, ahead of their next 2027 Africa Cup of Nations…",
       "categories": [
-        "Africa",
-        "Hot!"
+        "Hot!",
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "ArchXenus calls for better-planned residential communities …Marks 15th anniversary",
-      "link": "https://ghanaiantimes.com.gh/archxenus-calls-for-better-planned-residential-communities-marks-15th-anniversary/",
+      "title": "Black Stars beat Somalia 2-0 to revive AFCON campaign",
+      "link": "https://ghanaiantimes.com.gh/black-stars-beat-somalia-2-0-to-revive-afcon-campaign/",
       "source": "Ghanaian Times",
-      "published": "2026-11-13T07:12:58.000Z",
-      "summary": "GHANAIAN-OWNED architectural firm, ArchXenus, has called for a shift towards high-density residential development, improved urban infrastructure and increased participation of women in…",
+      "published": "2026-11-13T08:54:03.000Z",
+      "summary": "GHANA’S Black Stars revived their 2027 Africa Cup of Nations (AFCON) campaign with a 2-0 victory over the Ocean Stars of Somalia after a frustrating start threatened to turn their dominance…",
       "categories": [
-        "News"
+        "Hot!",
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "'A fitting tribute': UN celebrates Kofi Annan’s legacy on Ghana's new currency",
+      "link": "https://www.graphic.com.gh/news/general-news/a-fitting-tribute-un-celebrates-kofi-annans-legacy-on-ghanas-new-currency.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T08:49:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana to host FIBA Africa Zone 3 U-16 Championship",
+      "link": "https://ghanaiantimes.com.gh/ghana-to-host-fiba-africa-zone-3-u-16-championship/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:47:04.000Z",
+      "summary": "GHANA is set to host the International Basketball Federation (FIBA) Africa Zone 3 U-16 Boys and Girls Championship at the Multipurpose Hall of the Borteyman Sports Complex in Accra from…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Africa Teqball Championship kicks off today",
+      "link": "https://ghanaiantimes.com.gh/africa-teqball-championship-kicks-off-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:44:56.000Z",
+      "summary": "GHANA will host some of the continent’s finest teqball talents today and tomorrow as the 2026 Africa Teqball Championship takes centre stage in Accra. The two-day competition will bring…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hearts face tough Samartex test in Samreboi",
+      "link": "https://ghanaiantimes.com.gh/hearts-face-tough-samartex-test-in-samreboi/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:42:42.000Z",
+      "summary": "HEARTS of Oak face a stern test on the road this weekend when they travel to Samreboi to take on Samartex FC at the Nsenkyire Sports Arena in what promises to be a fiercely contested…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "US withdraws from U-17 World Cup in Qatar over security fears",
+      "link": "https://ghanaiantimes.com.gh/us-withdraws-from-u-17-world-cup-in-qatar-over-security-fears/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:39:03.000Z",
+      "summary": "The United States has withdrawn from the upcoming U-17 soccer World Cup in Qatar due to concerns about security in the Middle East, US media reported on Wednesday. Players were informed of…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority describes 2027 Budget as ‘paper economy’",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minority-describes-2027-budget-as-paper-economy.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T08:37:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Tuchel committed to England until Euro 2028",
+      "link": "https://ghanaiantimes.com.gh/tuchel-committed-to-england-until-euro-2028/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:37:24.000Z",
+      "summary": "Thomas Tuchel says he has no intention of leaving the England job before the 2028 European Championship regardless of any offers that come in from major clubs. Tuchel, who replaced ‌Gareth…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Man Utd sack Carrick after disastrous start to season",
+      "link": "https://ghanaiantimes.com.gh/man-utd-sack-carrick-after-disastrous-start-to-season/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T08:36:07.000Z",
+      "summary": "Michael Carrick was fired by Manchester United yesterday after overseeing the 20-time English champion’s worst start to a Premier League season, with U.S. men’s coach Mauricio Pochettino a…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Huawei, Ministry of Communication call for applicants for data communication course",
+      "link": "https://www.graphic.com.gh/news/general-news/huawei-ministry-of-communication-call-for-applicants-for-data-communication-course.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T08:32:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Kumasi Stampede: GAF denies neglect of victim, details support for Sandra Baafi",
+      "link": "https://www.graphic.com.gh/news/general-news/kumasi-stampede-gaf-denies-neglect-of-victim-details-support-for-sandra-baafi.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T08:18:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Friday, November 13, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-13-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T08:16:58.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sunny skies and thunderstorms expected across Ghana today – GMet",
+      "link": "https://www.graphic.com.gh/news/general-news/sunny-skies-and-thunderstorms-expected-across-ghana-today-gmet.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T08:09:34.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "“It was a dry field” – Somalia Captain complains about Sekondi Stadium pitch",
+      "link": "https://www.myjoyonline.com/it-was-a-dry-field-somalia-captain-complains-about-sekondi-stadium-pitch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T08:08:01.000Z",
+      "summary": "Somalia captain Abdulsamed Abdullahi has raised concerns about the state of the pitch at the Sekondi Sports Stadium, following his sides 2-0 loss to Ghana. Speaking after Thursday’s 2027…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Abdullahi Abdulsayed",
+        "AFCON27",
+        "AFCONQ",
+        "Ghana",
+        "Ivory Coast",
+        "Somalia",
+        "The Gambia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We can be more intense – Interim Black Stars coach",
+      "link": "https://www.myjoyonline.com/we-can-be-more-intense-interim-black-stars-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T07:52:37.000Z",
+      "summary": "Interim Ghana coach Kim Lars Björkegren has said the team needs to be more intense when they face Somalia again on Monday. The Black Stars secured a 2-0 win over Somalia in a Group C Africa…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 3",
+        "Sports",
+        "AFCON Qualifiers",
+        "AFCON27Q",
+        "Black Stars",
+        "Ghana",
+        "Kim Lars Björkegren",
+        "Mohammed Kudus"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana steps up campaign for ITU Council, Radio Regulations Board seats",
@@ -55,76 +231,6 @@ window.GDC_PAPERS = {
         "Sam George"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s borders need more than technology",
-      "link": "https://ghanaiantimes.com.gh/ghanas-borders-need-more-than-technology/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T07:08:35.000Z",
-      "summary": "GHANA’S borders are critical to the country’s national security, economic stability and territorial integrity. They serve as gateways for legitimate trade, tourism and the movement of…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Academic City pushes purpose-driven business leadership",
-      "link": "https://ghanaiantimes.com.gh/academic-city-pushes-purpose-driven-business-leadership/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T07:03:32.000Z",
-      "summary": "ACADEMIC City University has urged business leaders to put purpose at the centre of their growth strategies at the inaugural Xperience ACity Industry Breakfast, held on Friday, November 6…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minority dismisses New Economy plan as recycled promises",
-      "link": "https://ghanaiantimes.com.gh/minority-dismisses-new-economy-plan-as-recycled-promises/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T06:59:43.000Z",
-      "summary": "THE Minority has described the 2027 Budget Statement and Economic Policy as a continuation of grand promises that have yet to translate into jobs, lower prices and relief for ordinary…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cardinal Dery’s face on GH¢2 note honours legacy of human development",
-      "link": "https://ghanaiantimes.com.gh/cardinal-derys-face-on-gh%c2%a22-note-honours-legacy-of-human-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T06:48:00.000Z",
-      "summary": "THE appearance of the late Servant of God, Peter Cardinal Porekuu Dery, on Ghana’s new GH¢2 banknote is a fitting national tribute to a religious leader whose work helped advance education…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "A new face for Ghana Cedi • Heritage Series honours icons, landmarks, national values",
-      "link": "https://ghanaiantimes.com.gh/a-new-face-for-ghana-cedi-heritage-series-honours-icons-landmarks-national-values/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T06:32:07.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has launched the Ghana Cedi Heritage Series banknotes, calling on Ghanaians to value the national currency, handle it responsibly and keep it clean. The new…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2027 Budget: Govt unveils $10bn New Economy plan • GH¢30bn allocated for 2027; targets 8% growth, unemployment below 8%",
-      "link": "https://ghanaiantimes.com.gh/2027-budget-govt-unveils-10bn-new-economy-plan-gh%c2%a230bn-allocated-for-2027-targets-8-growth-unemployment-below-8/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T06:24:30.000Z",
-      "summary": "THE government has unveiled a $10 billion economic transformation programme aimed at breaking Ghana’s recurring cycle of economic crises, accelerating industrialisation and creating…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Permanent Black Stars job is not a question for me – Interim coach",
@@ -192,49 +298,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Owabi treatment plant shutdown disrupts water supply to parts of Ashanti Region",
-      "link": "https://www.myjoyonline.com/owabi-treatment-plant-shutdown-disrupts-water-supply-to-parts-of-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:40:00.000Z",
-      "summary": "Residents in several communities in the Ashanti Region are expected to experience water supply interruptions after Ghana Water Limited (GWL) temporarily shut down the Owabi Water Treatment…",
-      "categories": [
-        "National",
-        "GWL",
-        "Owabi",
-        "Plant"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama pledges dialogue to resolve UTAG-GTEC dispute",
-      "link": "https://www.myjoyonline.com/mahama-pledges-dialogue-to-resolve-utag-gtec-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:33:00.000Z",
-      "summary": "President John Mahama says the government is prepared to engage the University Teachers Association of Ghana (UTAG) and the Ghana Tertiary Education Commission (GTEC) to resolve…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "GTEC",
-        "Mahama",
-        "UTAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US$200m chicken import bill puts local poultry production in focus – Forson",
-      "link": "https://www.myjoyonline.com/us200m-chicken-import-bill-puts-local-poultry-production-in-focus-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:26:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has questioned Ghana’s annual spending of about US$200 million on chicken imports, arguing that local maize and soybean production could support a…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "2027 buget",
-        "Poultry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
       "link": "https://www.graphic.com.gh/news/general-news/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms.html",
       "source": "Daily Graphic",
@@ -261,61 +324,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/small-scale-miners-face-3-cut-in-gold-purchase-price-under-2027-proposal.html",
       "source": "Daily Graphic",
       "published": "2026-11-12T20:51:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two remanded over murder of Somanya woman who travelled to Oti to recover GH¢19,000 debt",
-      "link": "https://www.graphic.com.gh/news/general-news/two-remanded-over-murder-of-somanya-woman-who-travelled-to-oti-to-recover-ghc19-000-debt.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T20:29:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Finance Minister offers early GH¢29bn DDEP redemption, targets GH¢36bn debt clearance by December",
-      "link": "https://www.graphic.com.gh/news/general-news/finance-minister-offers-early-ghc29bn-ddep-redemption-targets-ghc36bn-debt-clearance-by-december.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T20:04:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government extends local procurement policy to hospital textiles, security uniforms",
-      "link": "https://www.graphic.com.gh/news/general-news/government-extends-local-procurement-policy-to-hospital-textiles-security-uniforms.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T19:50:46.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government targets installation of 2 million prepaid meters, full private-sector participation in power distribution by end of 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/government-targets-installation-of-2-million-prepaid-meters-full-private-sector-participation-in-power-distribution-by-end-of-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T19:33:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2027 Budget: Government commits US$3bn to agriculture, GH¢30bn to the new economy",
-      "link": "https://www.graphic.com.gh/news/general-news/2027-budget-government-allocates-ghc30bn-to-new-economy-us-3bn-to-agriculture.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T19:06:34.000Z",
       "summary": "",
       "categories": [
         "General News"

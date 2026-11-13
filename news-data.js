@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T07:20:51.094Z",
+  "updated": "2026-11-13T09:04:54.075Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "$10Bn New Economy: Here Are All the Fiscal Targets Under the Ambitious Initiative",
+      "link": "https://thehighstreetjournal.com/10bn-new-economy-here-are-all-the-fiscal-targets-under-the-ambitious-initiative/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:01:06.000Z",
+      "summary": "Ghana’s $10 billion New Economy Programme targets 8% economic growth, unemployment below 8%, debt at 45% of GDP, single-digit inflation and interest rates, while prioritising…"
+    },
+    {
+      "title": "From Raw Beans Export to Rich Brands: Ghana Aims a Total Ban on Raw Cocoa Exports by 2030",
+      "link": "https://thehighstreetjournal.com/from-raw-beans-export-to-rich-brands-ghana-aims-a-total-ban-on-raw-cocoa-exports-by-2030/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:00:00.000Z",
+      "summary": "Ghana has mandated a total ban on raw cocoa exports by 2030 to capture more global value. The government requires domestic processing facilities to refine 50% of cocoa locally by 2028 and…"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T03:44:00.000Z",
       "summary": "Economics professor Godfred Alufar Bokpin says Ghanaians will have to wait to feel the benefits of economic stability because the recovery has relied heavily on government spending cuts."
-    },
-    {
-      "title": "GSE maintains positive run in October 2026; 68m shares traded",
-      "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:35:55.000Z",
-      "summary": "Trading activity recorded 88,630 transactions, representing a 59.07% increase compared with the same period last year."
-    },
-    {
-      "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
-      "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:14:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says Ghana cannot celebrate spending cuts while a huge infrastructure deficit continues to hold back growth and burden citizens."
     }
   ]
 };
