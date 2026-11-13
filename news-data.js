@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T11:54:53.743Z",
+  "updated": "2026-11-13T12:05:08.311Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 520)"
   ],
   "items": [
+    {
+      "title": "The Rice Revolution: Total Import Ban by 2030, Quota in 2027 & Compulsory Purchase By Gov’t Institutions",
+      "link": "https://thehighstreetjournal.com/the-rice-revolution-total-import-ban-by-2030-quota-in-2027-compulsory-purchase-by-govt-institutions/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T12:00:00.000Z",
+      "summary": "Ghana plans to ban commercial rice imports by 2030, starting with import quotas in 2027 tied to local purchases. Public institutions will be legally required to buy Ghanaian rice, while…"
+    },
     {
       "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
       "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T06:50:00.000Z",
       "summary": "Ahead of Ghana’s 2027 Budget presentation, job creation and reducing living costs are the main public priorities, demanding immediate government attention. Infrastructure, healthcare…"
-    },
-    {
-      "title": "Entrepreneur calls for job-focused investments in 2027 Budget",
-      "link": "https://www.ghanabusinessnews.com/2026/11/11/entrepreneur-calls-for-job-focused-investments-in-2027-budget/",
-      "source": "Ghana Business News",
-      "published": "2026-11-11T06:15:09.000Z",
-      "summary": "Mr Richard Adjorlolo, an entrepreneur, has called on the government to prioritise job creation, infrastructure development and local industrialisation in the 2027 Budget Statement to…"
     }
   ]
 };

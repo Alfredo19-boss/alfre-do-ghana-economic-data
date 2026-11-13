@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T11:55:23.952Z",
+  "updated": "2026-11-13T12:05:24.340Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,79 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘New Economy’ projects offer no immediate jobs for the youth – Amin Adam",
+      "link": "https://www.myjoyonline.com/new-economy-projects-offer-no-immediate-jobs-for-the-youth-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:56:11.000Z",
+      "summary": "The Minority in Parliament says the government's New Economy programme will not provide the immediate employment opportunities needed to address Ghana's youth unemployment crisis.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Amin Adam",
+        "Jobs",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority condemns 35% reduction in funding for social interventions",
+      "link": "https://www.myjoyonline.com/minority-condemns-35-reduction-in-funding-for-social-interventions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:55:31.000Z",
+      "summary": "The Minority in Parliament has raised concerns over a proposed reduction in funding for social intervention programmes in the 2027 Budget, warning that vulnerable households could face…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Interventions",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 budget overlooks immediate concerns of Ghanaians – Amin Adam",
+      "link": "https://www.myjoyonline.com/2027-budget-overlooks-immediate-concerns-of-ghanaians-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:54:06.000Z",
+      "summary": "The Minority in Parliament says the 2027 Budget has failed to address the immediate concerns of Ghanaians, particularly unemployment and the rising cost of living.",
+      "categories": [
+        "In Focus",
+        "National",
+        "2027 Budget",
+        "Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s economic recovery failing to translate into improved living conditions – Amin Adam",
+      "link": "https://www.myjoyonline.com/ghanas-economic-recovery-failing-to-translate-into-improved-living-conditions-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:52:53.000Z",
+      "summary": "The Minority has accused the government of failing to translate improvements in key economic indicators into meaningful relief for households, arguing that the 2027 Budget does not…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Debt servicing taking more money than key growth sectors – Minority",
+      "link": "https://www.myjoyonline.com/debt-servicing-taking-more-money-than-key-growth-sectors-minority/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:52:02.000Z",
+      "summary": "The Minority in Parliament says Ghana's rising interest payment obligations are undermining the government's ambition to accelerate economic growth and create jobs.",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Parliament scrap plans to hold 2027 Budget workshop outside parliamentary premises",
       "link": "https://www.myjoyonline.com/parliament-scrap-plans-to-hold-2027-budget-workshop-outside-parliamentary-premises/",
@@ -64,66 +137,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Accra Academy 95th anniversary gala to honour 40 recipients, raise funds for school projects",
-      "link": "https://www.myjoyonline.com/accra-academy-95th-anniversary-gala-to-honour-40-recipients-raise-funds-for-school-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:41:38.000Z",
-      "summary": "Accra Academy will honour 40 individuals, groups and organisations at its 95th anniversary dinner, awards and fundraising gala on Saturday, November 14, 2026. The event, scheduled for 7:00…",
-      "categories": [
-        "Education",
-        "Events",
-        "95th anniversary gala",
-        "Accra Academy",
-        "School projects"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof. Bokpin urges gov’t to increase infrastructure spending to drive economic growth",
-      "link": "https://www.myjoyonline.com/prof-bokpin-urges-govt-to-increase-infrastructure-spending-to-drive-economic-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:40:53.000Z",
-      "summary": "A Professor of Finance and Economics at the University of Ghana Business School, Prof. Godfred Bokpin, has urged the government to reconsider its fiscal framework and increase investment in…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Economic Growth",
-        "infrastructure spending"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
-      "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:39:06.000Z",
-      "summary": "Somotex Ghana Limited, in partnership with Jamang Enterprise, has opened a new electronics showroom, Electro Point, in Wa, the Upper West Regional capital, to expand access to household…",
-      "categories": [
-        "Business",
-        "Regional",
-        "Electro Point",
-        "Somotex",
-        "Wa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
-      "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:27:02.000Z",
-      "summary": "Former Second Lady Samira Bawumia has launched an initiative to provide reliable solar electricity to underserved healthcare facilities in Africa, initially focusing on improving maternal…",
-      "categories": [
-        "Energy",
-        "National",
-        "maternal facilities",
-        "Samira Bawumia",
-        "Solar Power"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "What Decides a West African Protection Claim",
       "link": "https://ghanaiantimes.com.gh/what-decides-a-west-african-protection-claim/",
       "source": "Ghanaian Times",
@@ -133,19 +146,6 @@ window.GDC_PAPERS = {
         "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof. Bokpin urges gov’t to use PPPs to fund major road projects and free up resources for social infrastructure",
-      "link": "https://www.myjoyonline.com/prof-bokpin-urges-govt-to-use-ppps-to-fund-major-road-projects-and-free-up-resources-for-social-infrastructure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:19:20.000Z",
-      "summary": "Professor of Finance and Economics at the University of Ghana Business School, Prof. Godfred Bokpin, has urged the government to adopt Public-Private Partnerships (PPPs) to finance major…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Public-Private Partnerships (PPPs)"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "See the 4 men left in the race for NDC Chairman as 23 aspirants fall at vetting",
