@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T00:14:18.782Z",
+  "updated": "2026-11-13T00:24:14.574Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -92,6 +92,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T22:16:12.000Z",
       "summary": "The Minority in Parliament says the 2027 Budget fails to address the hardship facing Ghanaians, arguing that the government’s economic figures offer little comfort to people struggling with…",
       "categories": [
+        "HP News 3",
+        "News",
         "Politics",
         "2027 Budget",
         "Minority Caucus"
@@ -105,6 +107,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T22:07:00.000Z",
       "summary": "The Minority in Parliament has criticised the 2027 Budget, arguing that the government’s claims of economic stability have not translated into affordable food, jobs or relief for businesses.",
       "categories": [
+        "HP News 1",
+        "News",
         "Politics",
         "2027 Budget",
         "Minority Caucus"
