@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T02:26:22.448Z",
+  "updated": "2026-11-13T02:46:26.854Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T01:30:00.000Z",
+      "summary": "Microsoft is struggling to fix a major global outage of its service that is reportedly affecting tens of thousands of users.",
+      "categories": [
+        "International",
+        "News",
+        "Technology",
+        "Copilot",
+        "Microsoft",
+        "Outlook",
+        "Teams"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
       "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
@@ -139,19 +156,6 @@ window.GDC_PAPERS = {
         "Politics",
         "2027 Budget",
         "Minority Caucus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC disqualifies 23 aspirants for Dec 19 national executive elections; 98 cleared",
-      "link": "https://www.myjoyonline.com/ndc-disqualifies-23-aspirants-for-dec-19-national-executive-elections-98-cleared/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T22:20:00.000Z",
-      "summary": "The National Democratic Congress (NDC) has cleared 98 aspirants to contest its national executive elections scheduled for December 19, 2026, following a two-day vetting exercise.",
-      "categories": [
-        "Politics",
-        "e;ections",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
