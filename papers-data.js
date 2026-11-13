@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T22:01:00.262Z",
+  "updated": "2026-11-13T22:40:59.747Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -161,6 +161,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "GRA intercepts smuggled goods concealed under okro powder",
+      "link": "https://www.graphic.com.gh/news/general-news/gra-intercepts-smuggled-goods-concealed-under-okro-powder.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T18:36:41.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Aduman SHS: Chaplain, ICT teacher remanded over alleged sodomy",
       "link": "https://www.graphic.com.gh/news/general-news/aduman-shs-chaplain-ict-teacher-remanded-over-alleged-sodomy.html",
       "source": "Daily Graphic",
@@ -292,17 +303,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/igp-yohuno-engages-netherlands-police-iacp-on-transnational-crime-and-cooperation.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T15:40:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Beauty Narteh becomes first African woman to chair global UNCAC Coalition",
-      "link": "https://www.graphic.com.gh/news/general-news/beauty-narteh-becomes-first-african-woman-to-chair-global-uncac-coalition.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T15:29:17.000Z",
       "summary": "",
       "categories": [
         "General News"
