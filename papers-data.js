@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:10:23.453Z",
+  "updated": "2026-11-13T14:20:25.132Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,55 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
+      "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:12:59.000Z",
+      "summary": "According to the Director of Communications, Julie Kozack, Ghana’s macroeconomic stability is now becoming entrenched, with the indicators pointing in the right direction.",
+      "categories": [
+        "Business",
+        "Economy",
+        "Dr. Julie Kozack",
+        "external position",
+        "GDP",
+        "IMF",
+        "Inflation",
+        "Macreconomic stability"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Health benefits of dawadawa",
+      "link": "https://www.myjoyonline.com/health-benefits-of-dawadawa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:07:09.000Z",
+      "summary": "Dawadawa, also known as African locust bean, is a highly nutritious West African condiment that serves as a powerful natural remedy for overall immunity.",
+      "categories": [
+        "Health",
+        "HP Lifestyle 2",
+        "Lifestyle",
+        "National",
+        "dawadawa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forget building another ChatGPT; Ghana must focus on AI solutions for healthcare, agric – GradePoint AI CEO",
+      "link": "https://www.myjoyonline.com/forget-building-another-chatgpt-ghana-must-focus-on-ai-solutions-for-healthcare-agric-gradepoint-ai-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:06:06.000Z",
+      "summary": "Founder and Chief Executive Officer of GradePoint AI, Dr Gillian Hammah, has cautioned the government against investing heavily in attempts to develop its own large artificial intelligence…",
+      "categories": [
+        "National",
+        "Agriculture",
+        "AI",
+        "ChatGPT",
+        "Ghana",
+        "Healthcare"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Can Ghana talk its way back to reading?",
       "link": "https://www.myjoyonline.com/can-ghana-talk-its-way-back-to-reading/",
@@ -86,52 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "Premature babies",
         "Professor Dr Grace Ayensu-Danquah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES processes 347 salary arrears cases for 2024 recruited teachers; 119 staff ID applications unverified",
-      "link": "https://www.myjoyonline.com/ges-processes-347-salary-arrears-cases-for-2024-recruited-teachers-119-staff-id-applications-unverified/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:53:00.000Z",
-      "summary": "The Ghana Education Service (GES) says it has successfully processed 347 salary arrears cases involving teachers recruited in 2024 and forwarded them to the Controller and…",
-      "categories": [
-        "Education",
-        "HP News 10",
-        "National",
-        "GES",
-        "staff ID applications"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority demands BoG Governor’s appearance over new cedi notes and Theodosia Okoh portrait controversy",
-      "link": "https://www.myjoyonline.com/minority-demands-bog-governors-appearance-over-new-cedi-notes-and-theodosia-okoh-portrait-controversy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:44:02.000Z",
-      "summary": "The Minority in Parliament is demanding that the Bank of Ghana Governor appear before Parliament to answer questions over alleged misrepresentations of identities on the newly introduced…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "BoG Governor",
-        "Heritage Series note",
-        "Minority",
-        "Theodosia Okoh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Interior Minister calls for stronger Ghana-Côte d’Ivoire cooperation on border security",
-      "link": "https://www.myjoyonline.com/interior-minister-calls-for-stronger-ghana-cote-divoire-cooperation-on-border-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:44:00.000Z",
-      "summary": "The Minister for Interior, Muntaka Mohammed-Mubarak, has called for stronger security cooperation between Ghana and Côte d’Ivoire to improve border management and address emerging security…",
-      "categories": [
-        "National",
-        "Border Security",
-        "Cote D'Ivoire",
-        "Ghana",
-        "Muntaka Mohammed-Mubarak"
       ],
       "site": "https://www.myjoyonline.com/"
     },

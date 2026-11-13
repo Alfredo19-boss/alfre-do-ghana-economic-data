@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T14:10:08.746Z",
+  "updated": "2026-11-13T14:19:54.502Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 521)"
+    "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
+      "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:12:59.000Z",
+      "summary": "According to the Director of Communications, Julie Kozack, Ghana’s macroeconomic stability is now becoming entrenched, with the indicators pointing in the right direction."
+    },
     {
       "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
       "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T11:12:00.000Z",
       "summary": "The initiative comes as small-scale farmers face growing exposure to climate change, despite receiving only a small proportion of available climate finance"
-    },
-    {
-      "title": "OPEC Fund, IsDB Launch Toolkit to Attract Investment in Nature-Based Projects Across African Cities",
-      "link": "https://thehighstreetjournal.com/opec-fund-isdbs-investment-toolkit/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T10:28:00.000Z",
-      "summary": "The initiative, seeks to help cities develop investment-ready nature-based solutions"
     }
   ]
 };
