@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T09:25:27.220Z",
+  "updated": "2026-11-13T09:54:54.856Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 525)"
   ],
   "items": [
     {
@@ -41,6 +41,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:06:55.000Z",
       "summary": "Ghana plans to invest $1 billion in its textile and garment industry as the government seeks to expand domestic manufacturing, increase exports and create jobs, particularly for young…"
+    },
+    {
+      "title": "2027 Budget Sets Aside GH¢100.4bn For Capital Spending, GH¢28bn For Big Push",
+      "link": "https://thehighstreetjournal.com/2027-budget-sets-aside-gh%c2%a2100-4bn-for-capital-spending-gh%c2%a228bn-for-big-push/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:05:00.000Z",
+      "summary": "Government has earmarked GH¢100.4 billion for capital expenditure and GH¢28 billion for Big Push projects in 2027, alongside major allocations for education, healthcare, agriculture and…"
     },
     {
       "title": "$10Bn New Economy: Here Are All the Fiscal Targets Under the Ambitious Initiative",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:00:00.000Z",
       "summary": "Sitsofe Mensah outlines four tests for Ghana’s 2027 Budget: channel funds through development finance institutions, reduce agricultural risks, provide affordable industrial power and build…"
-    },
-    {
-      "title": "Gates Foundation says AGRA’s revised transformation strategy is strengthening Africa’s food systems",
-      "link": "https://www.myjoyonline.com/gates-foundation-says-agras-revised-transformation-strategy-is-strengthening-africas-food-systems/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:31:00.000Z",
-      "summary": "The Gates Foundation says AGRA’s revised strategy for transforming Africa’s food systems, which prioritises country-level needs and better connects farmers to markets, is helping strengthen…"
     }
   ]
 };
