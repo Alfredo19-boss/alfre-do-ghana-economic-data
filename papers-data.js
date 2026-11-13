@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:15:16.656Z",
+  "updated": "2026-11-13T23:25:16.348Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government begins billboard crackdown Saturday",
+      "link": "https://www.myjoyonline.com/government-begins-billboard-crackdown-saturday/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T23:13:56.000Z",
+      "summary": "The government will, from Saturday, November 14, begin a nationwide billboard inspection and enforcement exercise, with structures found to be in breach of prescribed standards and…",
+      "categories": [
+        "News",
+        "Billboard"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC Eastern Region: Osei-Ampem wins big, calls for hard work to secure 2028 victory",
       "link": "https://www.graphic.com.gh/news/politics/ndc-eastern-region-osei-ampem-wins-big-calls-for-hard-work-to-secure-2028-victory.html",
@@ -129,21 +141,6 @@ window.GDC_PAPERS = {
         "Manso Keniago",
         "NAIMOS",
         "Nana Obeng Mensah Ababio"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos from ‘Democracy Is Not for Sale’ dialogue in Oti Region",
-      "link": "https://www.myjoyonline.com/photos-from-democracy-is-not-for-sale-dialogue-in-oti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:01:27.000Z",
-      "summary": "JoyNews has taken its Democracy Is Not for Sale dialogue to Dambai in the Oti Region, bringing together stakeholders and members of the public to examine the growing influence of money in…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Photo Story",
-        "Democracy Is Not For Sale",
-        "Oti Region"
       ],
       "site": "https://www.myjoyonline.com/"
     },
