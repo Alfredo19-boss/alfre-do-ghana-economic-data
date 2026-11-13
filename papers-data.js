@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T07:01:21.554Z",
+  "updated": "2026-11-13T07:11:20.924Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s borders need more than technology",
+      "link": "https://ghanaiantimes.com.gh/ghanas-borders-need-more-than-technology/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T07:08:35.000Z",
+      "summary": "GHANA’S borders are critical to the country’s national security, economic stability and territorial integrity. They serve as gateways for legitimate trade, tourism and the movement of…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Academic City pushes purpose-driven business leadership",
+      "link": "https://ghanaiantimes.com.gh/academic-city-pushes-purpose-driven-business-leadership/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T07:03:32.000Z",
+      "summary": "ACADEMIC City University has urged business leaders to put purpose at the centre of their growth strategies at the inaugural Xperience ACity Industry Breakfast, held on Friday, November 6…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Minority dismisses New Economy plan as recycled promises",
       "link": "https://ghanaiantimes.com.gh/minority-dismisses-new-economy-plan-as-recycled-promises/",
@@ -209,29 +231,6 @@ window.GDC_PAPERS = {
       "summary": "DANCEHALL artiste Charles Nii Armah Mensah, popularly known as Shatta Wale, has cautioned the youth against drug abuse and peer pressure, recounting how substance addiction has destroyed…",
       "categories": [
         "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
-      "link": "https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T04:33:09.000Z",
-      "summary": "THE High Court in Accra yesterday granted an application by lawyer Samuel Atta Akyea, counsel for Bernard Antwi-Boasiako, also known as Chairman Wontumi, to recall the first prosecution…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cloudflare brings WebRTC broadcasting out of beta",
-      "link": "https://ghanaiantimes.com.gh/cloudflare-brings-webrtc-broadcasting-out-of-beta/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T23:09:40.000Z",
-      "summary": "Alt: Man watching a live football match on his laptop while wearing wireless earbuds Cloudflare made ultra-low-latency broadcasting generally available in Stream on 15 October 2026…",
-      "categories": [
-        "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
