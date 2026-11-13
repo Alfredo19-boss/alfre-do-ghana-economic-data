@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:35:16.710Z",
+  "updated": "2026-11-13T23:45:16.448Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,14 +21,15 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Government begins billboard crackdown Saturday",
-      "link": "https://www.myjoyonline.com/government-begins-billboard-crackdown-saturday/",
+      "title": "US Air Force says it responded to ‘suspected drones’ over RAF Lakenheath",
+      "link": "https://www.myjoyonline.com/us-air-force-says-it-responded-to-suspected-drones-over-raf-lakenheath/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T23:13:56.000Z",
-      "summary": "The government will, from Saturday, November 14, begin a nationwide billboard inspection and enforcement exercise, with structures found to be in breach of prescribed standards and…",
+      "published": "2026-11-13T23:17:04.000Z",
+      "summary": "The US Air Force said it responded to \"suspected unauthorised drone activity\" over RAF Lakenheath in Suffolk on Friday evening.",
       "categories": [
         "News",
-        "Billboard"
+        "US",
+        "US Air Force"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -87,6 +88,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Government begins billboard crackdown Saturday",
+      "link": "https://www.myjoyonline.com/government-begins-billboard-crackdown-saturday/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:46:56.000Z",
+      "summary": "The government will, from Saturday, November 14, begin a nationwide billboard inspection and enforcement exercise, with structures found to be in breach of prescribed standards and…",
+      "categories": [
+        "News",
+        "Billboard"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
       "link": "https://www.myjoyonline.com/police-arrest-three-over-suspected-gh%c2%a220m-counterfeit-gtp-fabrics-at-adabraka/",
       "source": "MyJoyOnline",
@@ -121,21 +134,6 @@ window.GDC_PAPERS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T21:35:57.000Z",
       "summary": "The Ghana Police Service has been giving detailed accounts of the operation that led to the arrest of a prime suspect in the gruesome murder of a 57-year-old man and his niece at Sakumono…",
-      "categories": [
-        "Crime",
-        "Regional",
-        "double murder",
-        "Ejisu",
-        "Sakumono"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest suspect in Sakumono double murder after manhunt in Ejisu",
-      "link": "https://www.myjoyonline.com/police-arrest-suspect-in-sakumono-double-murder-after-manhunt-in-ejisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:35:57.000Z",
-      "summary": "The Ghana Police Service says a 72-year-old man suspected of murdering two relatives at Sakumono in Tema was arrested at his hideout in Tikrom, near Ejisu, after days of intensive search…",
       "categories": [
         "Crime",
         "Regional",
