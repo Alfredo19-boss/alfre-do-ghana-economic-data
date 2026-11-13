@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:01:01.265Z",
+  "updated": "2026-11-13T23:15:16.656Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -41,6 +41,20 @@ window.GDC_PAPERS = {
         "News",
         "counsellor",
         "Kweku Adumatta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "All departing US flights grounded due to communication outage",
+      "link": "https://www.myjoyonline.com/all-departing-us-flights-grounded-due-to-communication-outage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T22:02:00.000Z",
+      "summary": "US aviation regulators issued an extremely rare ground stop of all flights across the country Friday after a major communications outage which the Department of Homeland Security said did…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Flights",
+        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -130,21 +144,6 @@ window.GDC_PAPERS = {
         "Photo Story",
         "Democracy Is Not For Sale",
         "Oti Region"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Politics is an investment, not vote-buying – Oti Regional Minister",
-      "link": "https://www.myjoyonline.com/politics-is-an-investment-not-vote-buying-oti-regional-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T20:54:55.000Z",
-      "summary": "The Oti Regional Minister, John Kwadwo Gyapong, has described electoral politics as an investment, saying that candidates spend money to mobilise support and participate in elections.",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Oti Regional Minister",
-        "Politics",
-        "Vote-buying"
       ],
       "site": "https://www.myjoyonline.com/"
     },
