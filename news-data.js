@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:24:55.028Z",
+  "updated": "2026-11-13T13:30:08.309Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 521)"
   ],
   "items": [
+    {
+      "title": "Invest Ghana Summit Gives Regional Ministers Platform to Pitch Investment Opportunities",
+      "link": "https://thehighstreetjournal.com/invest-ghana-summit-regional-ministers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T13:25:00.000Z",
+      "summary": "The ministers will have the opportunity to use the two-day gathering to present investment opportunities in their respective regions"
+    },
     {
       "title": "Ghana’s BRICS Partnership Could Open New Export Markets, But Local Businesses Face Competitiveness Test",
       "link": "https://thehighstreetjournal.com/ghanas-brics-partnership-could-open-new-export-markets-but-local-businesses-face-competitiveness-test/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T09:14:17.000Z",
       "summary": "The upcoming Invest in Ghana Summit is being positioned as a direct investment facilitation platform, giving prospective investors access to government agencies, project opportunities and…"
-    },
-    {
-      "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
-      "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:59:56.000Z",
-      "summary": "Ghana’s agricultural sector could benefit from an anticipated decline in global fertilizer prices in 2027, potentially easing input cost pressures on farmers and supporting food production…"
     }
   ]
 };

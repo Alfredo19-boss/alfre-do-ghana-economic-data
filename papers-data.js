@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:25:24.508Z",
+  "updated": "2026-11-13T13:30:25.785Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "African CSOs rally behind AGN Chair as Africa pushes climate finance priorities at COP31",
+      "link": "https://www.myjoyonline.com/african-csos-rally-behind-agn-chair-as-africa-pushes-climate-finance-priorities-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:23:42.000Z",
+      "summary": "African civil society organisations (CSOs) have commended the leadership of the African Group of Negotiators on Climate Change (AGN) for advancing the continent's priorities at the ongoing…",
+      "categories": [
+        "National",
+        "African CSOs",
+        "Climate Finance",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New Economy offers no immediate jobs for Ghanaians – Amin Adam",
       "link": "https://www.myjoyonline.com/new-economy-offers-no-immediate-jobs-for-ghanaians-amin-adam/",
@@ -107,19 +121,6 @@ window.GDC_PAPERS = {
     {
       "title": "Amin Adam questions cedi’s value despite reported US$1.2bn forex intervention",
       "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-reported-us1-2bn-forex-intervention/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:41:23.000Z",
-      "summary": "Former Finance Minister and Ranking Member of Parliament’s Finance Committee, Dr Mohammed Amin Adam, has questioned the impact of the government’s foreign exchange interventions, arguing…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam questions cedi’s value despite alleged US$1.2bn forex intervention",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-alleged-us1-2bn-forex-intervention/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T12:41:23.000Z",
       "summary": "Former Finance Minister and Ranking Member of Parliament’s Finance Committee, Dr Mohammed Amin Adam, has questioned the impact of the government’s foreign exchange interventions, arguing…",
