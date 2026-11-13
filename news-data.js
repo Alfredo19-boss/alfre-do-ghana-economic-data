@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:35:24.537Z",
+  "updated": "2026-11-13T13:39:53.587Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "Open Letter to The IGP Over Abandoned Transit Truck Parked Over 2 Months",
+      "link": "https://thehighstreetjournal.com/open-letter-to-the-igp-over-abandoned-transit-truck-parked-over-2-months/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T13:35:59.000Z",
+      "summary": ""
+    },
     {
       "title": "Invest Ghana Summit Gives Regional Ministers Platform to Pitch Investment Opportunities",
       "link": "https://thehighstreetjournal.com/invest-ghana-summit-regional-ministers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T09:43:35.000Z",
       "summary": "The Ghana Enterprises Agency (GEA) has brought together women entrepreneurs, policymakers and development partners at its 5th Ghana Women Entrepreneurship Summit to explore strategies for…"
-    },
-    {
-      "title": "Invest in Ghana Summit Offers Investors Access to 100 Projects, 19 Government Agencies",
-      "link": "https://thehighstreetjournal.com/invest-ghana-summit-investor-access/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T09:14:17.000Z",
-      "summary": "The upcoming Invest in Ghana Summit is being positioned as a direct investment facilitation platform, giving prospective investors access to government agencies, project opportunities and…"
     }
   ]
 };
