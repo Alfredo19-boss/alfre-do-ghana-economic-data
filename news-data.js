@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T09:54:54.856Z",
+  "updated": "2026-11-13T10:05:08.761Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 525)"
+    "News Ghana: failed (HTTP 520)"
   ],
   "items": [
+    {
+      "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
+      "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T09:55:23.000Z",
+      "summary": "The World Bank Group has convened Her Majesty Queen Máxima of the Netherlands, the United Nations Secretary-General’s Special Advocate for Financial Health (UNSGSA), alongside senior…"
+    },
     {
       "title": "Ghana Targets Poultry Expansion, Seeks to Close 500,000-tonne Fish Supply Gap",
       "link": "https://thehighstreetjournal.com/ghana-targets-poultry-expansion-seeks-to-close-500000-tonne-fish-supply-gap/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:00:00.000Z",
       "summary": "The OPEC Fund for International Development is urging development finance institutions to do more than provide capital, calling for stronger project preparation and risk-sharing mechanisms…"
-    },
-    {
-      "title": "Improving Access to Financing in Ghana’s Agric Sector: The 4 Tests the 2027 Budget Must Pass",
-      "link": "https://thehighstreetjournal.com/improving-access-to-financing-in-ghanas-agric-sector-the-4-tests-the-2027-budget-must-pass/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:00:00.000Z",
-      "summary": "Sitsofe Mensah outlines four tests for Ghana’s 2027 Budget: channel funds through development finance institutions, reduce agricultural risks, provide affordable industrial power and build…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T09:55:26.290Z",
+  "updated": "2026-11-13T10:05:23.717Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,86 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
+      "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T09:55:23.000Z",
+      "summary": "The World Bank Group has convened Her Majesty Queen Máxima of the Netherlands, the United Nations Secretary-General’s Special Advocate for Financial Health (UNSGSA), alongside senior…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Queen Máxima",
+        "World Bank Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African countries urged to turn brain drain into brain circulation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-countries-urged-to-turn-brain-drain-into-brain-circulation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:50:53.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Medical students advised to cultivate intellectual curiosity",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-medical-students-advised-to-cultivate-intellectual-curiosity.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:46:59.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Planet One pledges jobs, skills development from new discovery",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-planet-one-pledges-jobs-skills-development-from-new-discovery.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:39:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt pushes for local production of polymer bitumen to end import dependence - Roads Minister says",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-pushes-for-local-production-of-polymer-bitumen-to-end-import-dependence-roads-minister-says.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:34:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GHS steps up river blindness fight with $4.76m support",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-steps-up-river-blindness-fight-with-4-76m-support.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:30:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "German Ambassador urges journalists to fight disinformation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-german-ambassador-urges-journalists-to-fight-disinformation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:18:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "AFCON 2027Q: Alagidede ‘angry’ with Tanko and Attram over decision not to play home-based players against Somalia",
       "link": "https://www.myjoyonline.com/afcon-2027q-alagidede-angry-with-tanko-and-attram-over-decision-not-to-play-home-based-players-against-somalia/",
       "source": "MyJoyOnline",
@@ -37,6 +117,28 @@ window.GDC_PAPERS = {
         "Ibrahim Tanko"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adu-Boahene acquitted on 2 charges, opens defence on 8 others",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-adu-boahene-acquitted-on-2-charges-opens-defence-on-8-others.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:15:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ashaiman Municipal Assembly, partners tackle waste",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashaiman-municipal-assembly-partners-tackle-waste.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T09:12:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
@@ -61,17 +163,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "'A fitting tribute': UN celebrates Kofi Annan’s legacy on Ghana's new currency",
-      "link": "https://www.graphic.com.gh/news/general-news/a-fitting-tribute-un-celebrates-kofi-annans-legacy-on-ghanas-new-currency.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T08:49:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana to host FIBA Africa Zone 3 U-16 Championship",
@@ -118,17 +209,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Minority describes 2027 Budget as ‘paper economy’",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minority-describes-2027-budget-as-paper-economy.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T08:37:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Tuchel committed to England until Euro 2028",
       "link": "https://ghanaiantimes.com.gh/tuchel-committed-to-england-until-euro-2028/",
       "source": "Ghanaian Times",
@@ -151,28 +231,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Huawei, Ministry of Communication call for applicants for data communication course",
-      "link": "https://www.graphic.com.gh/news/general-news/huawei-ministry-of-communication-call-for-applicants-for-data-communication-course.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T08:32:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kumasi Stampede: GAF denies neglect of victim, details support for Sandra Baafi",
-      "link": "https://www.graphic.com.gh/news/general-news/kumasi-stampede-gaf-denies-neglect-of-victim-details-support-for-sandra-baafi.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T08:18:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Today’s front pages: Friday, November 13, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-13-2026/",
       "source": "MyJoyOnline",
@@ -184,17 +242,6 @@ window.GDC_PAPERS = {
         "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sunny skies and thunderstorms expected across Ghana today – GMet",
-      "link": "https://www.graphic.com.gh/news/general-news/sunny-skies-and-thunderstorms-expected-across-ghana-today-gmet.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T08:09:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "“It was a dry field” – Somalia Captain complains about Sekondi Stadium pitch",
@@ -279,59 +326,6 @@ window.GDC_PAPERS = {
         "Dr Opoku Gakpo"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:48:00.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 opens today at the GHUD Park, Accra Mall, bringing together businesses and consumers for a three-day exhibition of Ghanaian products and services.",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "National",
-        "News",
-        "Top Story",
-        "Ecobank",
-        "Ghud Park",
-        "JoyBusiness",
-        "SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
-      "link": "https://www.graphic.com.gh/news/general-news/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T23:05:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GH¢900m set aside for district elections, constitutional referendum in 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/ghc900m-set-aside-for-district-elections-constitutional-referendum-in-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T21:27:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Small-scale miners face 3% cut in gold purchase price under 2027 proposal",
-      "link": "https://www.graphic.com.gh/news/general-news/small-scale-miners-face-3-cut-in-gold-purchase-price-under-2027-proposal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-12T20:51:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
