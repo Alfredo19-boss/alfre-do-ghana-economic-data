@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:11:20.676Z",
+  "updated": "2026-11-13T06:21:21.216Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bloody clash at Manso Keniago…3 residents dead, 2 military personnel injured",
+      "link": "https://ghanaiantimes.com.gh/bloody-clash-at-manso-keniago3-residents-dead-2-military-personnel-injured/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T06:16:13.000Z",
+      "summary": "AT least three people have been confirmed dead following a confrontation between local residents and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Permanent Black Stars job is not a question for me – Interim coach",
       "link": "https://www.myjoyonline.com/permanent-black-stars-job-is-not-a-question-for-me-interim-coach/",
@@ -304,18 +316,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T16:57:44.000Z",
       "summary": "The Bank of Ghana will introduce the new Ghana Heritage Series banknotes into circulation from December 1, 2026, while the existing cedi notes will remain legal tender. Governor of the Bank…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "New cedi notes will promote Ghana’s history and culture- Prez Mahama",
-      "link": "https://ghanaiantimes.com.gh/new-cedi-notes-will-promote-ghanas-history-and-culture-prez-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T16:55:55.000Z",
-      "summary": "President John Dramani Mahama says the newly launched Ghana Heritage Series banknotes will help promote the country’s history and culture to both Ghanaians and visitors. He described the…",
       "categories": [
         "Hot!",
         "News"
