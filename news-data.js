@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T10:25:08.027Z",
+  "updated": "2026-11-13T10:34:54.215Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 521)"
+    "News Ghana: failed (HTTP 525)"
   ],
   "items": [
+    {
+      "title": "UN Welcomes Kofi Annan’s Recognition On New GH¢100 Banknote",
+      "link": "https://thehighstreetjournal.com/un-welcomes-kofi-annans-recognition-on-new-gh%c2%a2100-banknote/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T10:30:00.000Z",
+      "summary": "The UN has welcomed Kofi Annan’s appearance on Ghana’s new GH¢100 banknote, saying the tribute celebrates his global contributions to peace, diplomacy, human rights and international…"
+    },
     {
       "title": "Dr Julius Debrah calls for Public Service reforms to cut business costs",
       "link": "https://www.myjoyonline.com/dr-julius-debrah-calls-for-public-service-reforms-to-cut-business-costs/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:05:00.000Z",
       "summary": "Government faces calls to prioritise irrigation, drought-resistant seeds, water management and food reserves in the 2027 Budget as El Niño threatens agricultural production and food…"
-    },
-    {
-      "title": "How New Is the New Economy? Three Questions for Budget 2027",
-      "link": "https://thehighstreetjournal.com/how-new-is-the-new-economy-three-questions-for-budget-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:03:00.000Z",
-      "summary": "Ghanaian professor of economics, Dennis Nsafoah questions whether Ghana's New Economy spending is genuinely new, how a bigger deficit will be financed, and whether it clashes with reserve…"
     }
   ]
 };
