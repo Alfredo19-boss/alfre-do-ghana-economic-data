@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:45:25.534Z",
+  "updated": "2026-11-13T13:55:27.597Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,65 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority demands BoG Governor’s appearance over new cedi notes and Theodosia Okoh portrait controversy",
+      "link": "https://www.myjoyonline.com/minority-demands-bog-governors-appearance-over-new-cedi-notes-and-theodosia-okoh-portrait-controversy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:44:02.000Z",
+      "summary": "The Minority in Parliament is demanding that the Bank of Ghana Governor appear before Parliament to answer questions over alleged misrepresentations of identities on the newly introduced…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "BoG Governor",
+        "Heritage Series note",
+        "Minority",
+        "Theodosia Okoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Interior Minister calls for stronger Ghana-Côte d’Ivoire cooperation on border security",
+      "link": "https://www.myjoyonline.com/interior-minister-calls-for-stronger-ghana-cote-divoire-cooperation-on-border-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:44:00.000Z",
+      "summary": "The Minister for Interior, Muntaka Mohammed-Mubarak, has called for stronger security cooperation between Ghana and Côte d’Ivoire to improve border management and address emerging security…",
+      "categories": [
+        "National",
+        "Border Security",
+        "Cote D'Ivoire",
+        "Ghana",
+        "Muntaka Mohammed-Mubarak"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jospong champions solar-powered fleet electrification and subnational climate action in Antalya, Türkiye",
+      "link": "https://www.myjoyonline.com/jospong-champions-solar-powered-fleet-electrification-and-subnational-climate-action-in-antalya-turkiye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:42:57.000Z",
+      "summary": "The Jospong Group of Companies (JGC) continues to demonstrate its commitment to Africa’s green transition at the ongoing COP31 in Antalya, Türkiye, highlighting practical solutions for…",
+      "categories": [
+        "National",
+        "fleet electrificatio",
+        "Jospong Group of Companies",
+        "Solar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama opens 6th National Muslim Conference in Accra",
+      "link": "https://www.myjoyonline.com/mahama-opens-6th-national-muslim-conference-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:42:15.000Z",
+      "summary": "President John Mahama has opened the 6th Annual Conference of the National Muslim Conference of Ghana, calling for continued collaboration among Muslim leaders to promote good governance…",
+      "categories": [
+        "National",
+        "Muntaka Mohammed-Mubarak",
+        "National Muslim Conference",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
       "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
@@ -76,62 +135,6 @@ window.GDC_PAPERS = {
         "African CSOs",
         "Climate Finance",
         "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Economy offers no immediate jobs for Ghanaians – Amin Adam",
-      "link": "https://www.myjoyonline.com/new-economy-offers-no-immediate-jobs-for-ghanaians-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:14:45.000Z",
-      "summary": "The Minority has criticised the government's New Economy programme, arguing that its employment promises are largely long-term and will do little to address the immediate demand for jobs…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Ghanaians",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tongu Dredgers Association protests NAIMOS activities and destruction along Volta River",
-      "link": "https://www.myjoyonline.com/tongu-dredgers-association-protests-naimos-activities-and-destruction-along-volta-river/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:06:55.000Z",
-      "summary": "Members of the Tongu Dredgers Association have protested the National Anti-Illegal Mining Operations Secretariat’s (NAIMOS) activities, including the destruction of about 15 pieces of their…",
-      "categories": [
-        "Regional",
-        "National Anti-Illegal Mining Operations Secretariat's (NAIMOS)",
-        "Tongu Dredgers Association"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Removal of Big 6 from cedi notes politically motivated; NPP must restore the images in future – Musah Superior",
-      "link": "https://www.myjoyonline.com/removal-of-big-6-from-cedi-notes-politically-motivated-npp-must-restore-the-images-in-future-musah-superior/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:57:54.000Z",
-      "summary": "Former Tamale Metropolitan Chief Executive, Iddrisu Musah Superior, has described the removal of the Big Six from Ghana’s redesigned banknotes as politically motivated, arguing that the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Politics",
-        "cedi notes",
-        "Musah Superior"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ambassador Smith visits Vanderbilt Medical Center to explore healthcare partnerships",
-      "link": "https://www.myjoyonline.com/ambassador-smith-visits-vanderbilt-medical-center-to-explore-healthcare-partnerships/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:55:23.000Z",
-      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, led a high-level delegation on an official tour of the Vanderbilt University Medical Center (VUMC) to explore clinical…",
-      "categories": [
-        "National",
-        "Ambassador Victor Smith",
-        "Vanderbilt Medical Center"
       ],
       "site": "https://www.myjoyonline.com/"
     },

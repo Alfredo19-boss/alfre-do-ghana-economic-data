@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:45:08.363Z",
+  "updated": "2026-11-13T13:55:25.313Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 521)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
     {
@@ -33,7 +33,7 @@ window.GDC_NEWS = {
       "link": "https://thehighstreetjournal.com/open-letter-to-the-igp-over-abandoned-transit-truck-parked-over-2-months/",
       "source": "The High Street Journal",
       "published": "2026-11-13T13:35:59.000Z",
-      "summary": ""
+      "summary": "11 November 2026The Inspector-General of PoliceGhana Police ServicePolice HeadquartersAccra Dear Inspector-General,REQUEST FOR URGENT INSPECTION AND REMOVAL OF A LOADED TRUCK PARKED NEAR…"
     },
     {
       "title": "Invest Ghana Summit Gives Regional Ministers Platform to Pitch Investment Opportunities",
