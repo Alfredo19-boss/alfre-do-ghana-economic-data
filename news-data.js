@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T11:34:54.504Z",
+  "updated": "2026-11-13T11:45:07.986Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 520)"
   ],
   "items": [
+    {
+      "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
+      "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:39:06.000Z",
+      "summary": "Somotex Ghana Limited, in partnership with Jamang Enterprise, has opened a new electronics showroom, Electro Point, in Wa, the Upper West Regional capital, to expand access to household…"
+    },
     {
       "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
       "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-11T06:15:09.000Z",
       "summary": "Mr Richard Adjorlolo, an entrepreneur, has called on the government to prioritise job creation, infrastructure development and local industrialisation in the 2027 Budget Statement to…"
-    },
-    {
-      "title": "ICSG launches campaign to educate traders on compulsory cargo insurance",
-      "link": "https://www.ghanabusinessnews.com/2026/11/11/icsg-launches-campaign-to-educate-traders-on-compulsory-cargo-insurance/",
-      "source": "Ghana Business News",
-      "published": "2026-11-11T06:08:49.000Z",
-      "summary": "Insurance Claims Specialist Group (ICSG) Limited has launched a public education campaign to improve awareness of compulsory marine cargo insurance and equip importers and exporters with…"
     }
   ]
 };

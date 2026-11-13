@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T11:35:24.750Z",
+  "updated": "2026-11-13T11:45:24.369Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
+      "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:39:06.000Z",
+      "summary": "Somotex Ghana Limited, in partnership with Jamang Enterprise, has opened a new electronics showroom, Electro Point, in Wa, the Upper West Regional capital, to expand access to household…",
+      "categories": [
+        "Business",
+        "Regional",
+        "Electro Point",
+        "Somotex",
+        "Wa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
       "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
@@ -305,19 +320,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Friday, November 13, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-13-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T08:16:58.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
     }
   ]
 };
