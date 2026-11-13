@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:16:25.847Z",
+  "updated": "2026-11-13T04:36:23.300Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,60 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
+      "link": "https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T04:33:09.000Z",
+      "summary": "THE High Court in Accra yesterday granted an application by lawyer Samuel Atta Akyea, counsel for Bernard Antwi-Boasiako, also known as Chairman Wontumi, to recall the first prosecution…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "African Political Parties Initiative announces inaugural leadership, with Asiedu Nketiah as chair",
+      "link": "https://www.myjoyonline.com/african-political-parties-initiative-announces-inaugural-leadership-with-asiedu-nketiah-as-chair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:30:00.000Z",
+      "summary": "Ghana’s National Democratic Congress (NDC) National Chairman, Johnson Asiedu Nketiah, has been named the inaugural Chair of the African Political Parties Initiative (APPI), placing him at…",
+      "categories": [
+        "Africa",
+        "Politics",
+        "APPI",
+        "Asiedu Nketia",
+        "Political parties initiative"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana-Canada trade rises 56% to $752m in 2025 – Deputy Trade Minister",
+      "link": "https://www.myjoyonline.com/ghana-canada-trade-rises-56-to-752m-in-2025-deputy-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:21:00.000Z",
+      "summary": "Ghana and Canada are seeking to expand trade and investment ties, with bilateral trade between the two countries reaching US$752 million in 2025, up 56 per cent from US$483 million recorded…",
+      "categories": [
+        "National",
+        "Ahi",
+        "Canada",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Looming crisis as 1.34 million young Ghanaians out of work, school and training – Ato Forson",
+      "link": "https://www.myjoyonline.com/looming-crisis-as-1-34-million-young-ghanaians-out-of-work-school-and-training-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:08:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has warned of a looming youth employment crisis, saying 1.34 million young Ghanaians are neither working, studying nor receiving training.",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Unemployment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
       "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
@@ -83,50 +137,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Africa",
         "Morocco"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:44:00.000Z",
-      "summary": "Microsoft is struggling to fix a major global outage of its service that is reportedly affecting tens of thousands of users.",
-      "categories": [
-        "International",
-        "News",
-        "Technology",
-        "Copilot",
-        "Microsoft",
-        "Outlook",
-        "Teams"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NaBCo and YEA models cannot deliver lasting jobs – Ato Forson",
-      "link": "https://www.myjoyonline.com/nabco-and-yea-models-cannot-deliver-lasting-jobs-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:40:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must restructure its economy to create lasting employment, rather than rely on temporary jobs under models such as NaBCo and the Youth…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson",
-        "NaBCO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Telecel Cash launches E-wallet and Telecel Shop to advance digital commerce",
-      "link": "https://www.myjoyonline.com/telecel-cash-launches-e-wallet-and-telecel-shop-to-advance-digital-commerce/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:21:00.000Z",
-      "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App.",
-      "categories": [
-        "Telecom",
-        "Telecel Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -297,17 +307,6 @@ window.GDC_PAPERS = {
       "summary": "President John Dramani Mahama has officially launched the Ghana Heritage Series banknotes, introducing a redesigned set of cedi notes expected to last longer than the existing ones. The…",
       "categories": [
         "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "At COP31: Ghana pushes for bankable China-Africa green projects",
-      "link": "https://ghanaiantimes.com.gh/at-cop31-ghana-pushes-for-bankable-china-africa-green-projects/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T08:01:53.000Z",
-      "summary": "GHANA has called for stronger efforts to translate China-Africa green development commitments into bankable projects, mobilised financing and tangible development outcomes as countries seek…",
-      "categories": [
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
