@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:45:24.158Z",
+  "updated": "2026-11-13T12:55:24.023Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘New Economy’ rebranded failed 24-Hour Economy – Amin Adam",
+      "link": "https://www.myjoyonline.com/new-economy-rebranded-failed-24-hour-economy-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:45:33.000Z",
+      "summary": "The Minority in Parliament has accused the government of repackaging its 24-hour economy policy under the new ‘New Economy’ banner, arguing that several programmes outlined in the latest…",
+      "categories": [
+        "National",
+        "24-hour economy",
+        "Minority in Parliament",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amin Adam questions cedi’s value despite alleged US$1.2bn forex intervention",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-alleged-us1-2bn-forex-intervention/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:41:23.000Z",
+      "summary": "Former Finance Minister and Ranking Member of Parliament’s Finance Committee, Dr Mohammed Amin Adam, has questioned the impact of the government’s foreign exchange interventions, arguing…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GH¢61bn interest payments threaten funding for development – Minority",
       "link": "https://www.myjoyonline.com/gh%c2%a261bn-interest-payments-threaten-funding-for-development-minority/",
@@ -102,36 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "Health Ministry",
         "Neonatal care"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A Nation Must Never Become A Prisoner Of Its Political History: The dangerous politics of erasing our national heritage",
-      "link": "https://www.myjoyonline.com/a-nation-must-never-become-a-prisoner-of-its-political-history-the-dangerous-politics-of-erasing-our-national-heritage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:02:52.000Z",
-      "summary": "There is something fundamentally troubling about a government that appears more interested in reshaping the historical narrative of a nation than building upon the collective achievements…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Ghana cedi",
-        "Musah Superior",
-        "national heritage"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New Economy’ projects offer no immediate jobs for the youth – Amin Adam",
-      "link": "https://www.myjoyonline.com/new-economy-projects-offer-no-immediate-jobs-for-the-youth-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:56:11.000Z",
-      "summary": "The Minority in Parliament says the government's New Economy programme will not provide the immediate employment opportunities needed to address Ghana's youth unemployment crisis.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Amin Adam",
-        "Jobs",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
