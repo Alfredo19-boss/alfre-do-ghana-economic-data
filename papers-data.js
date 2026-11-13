@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T00:24:14.574Z",
+  "updated": "2026-11-13T00:49:17.757Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘How many economies would NDC build in Ghana within four years?’ – Afenyo-Markin",
+      "link": "https://www.myjoyonline.com/how-many-economies-would-ndc-build-in-ghana-within-four-years-afenyo-markin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T23:44:00.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the government’s New Economy agenda, demanding clarity on how it differs from the promised 24-hour economy and how it will deliver…",
+      "categories": [
+        "Politics",
+        "2027 Budget",
+        "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority caucus demands jobs and recruitment funding, challenges call for patience",
       "link": "https://www.myjoyonline.com/minority-caucus-demands-jobs-and-recruitment-funding-challenges-call-for-patience/",
@@ -138,22 +151,6 @@ window.GDC_PAPERS = {
         "National",
         "Dr Cassiel Ato Forson",
         "Small-scale mining"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two remanded over murder of woman who travelled to recover GH¢19,000 debt",
-      "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-who-travelled-to-recover-gh%c2%a219000-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:33:44.000Z",
-      "summary": "Two persons have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Rejoice Sena Akpaku, whose body was…",
-      "categories": [
-        "Crime",
-        "HP News 6",
-        "News",
-        "Regional",
-        "Murder",
-        "travelled"
       ],
       "site": "https://www.myjoyonline.com/"
     },
