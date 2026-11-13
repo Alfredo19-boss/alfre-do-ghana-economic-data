@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:51:21.405Z",
+  "updated": "2026-11-13T07:01:21.554Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority dismisses New Economy plan as recycled promises",
+      "link": "https://ghanaiantimes.com.gh/minority-dismisses-new-economy-plan-as-recycled-promises/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T06:59:43.000Z",
+      "summary": "THE Minority has described the 2027 Budget Statement and Economic Policy as a continuation of grand promises that have yet to translate into jobs, lower prices and relief for ordinary…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Cardinal Dery’s face on GH¢2 note honours legacy of human development",
       "link": "https://ghanaiantimes.com.gh/cardinal-derys-face-on-gh%c2%a22-note-honours-legacy-of-human-development/",
@@ -310,18 +322,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES Interdicts two Aduman SHS teachers over alleged sexual misconduct against male student",
-      "link": "https://ghanaiantimes.com.gh/ges-interdicts-two-aduman-shs-teachers-over-alleged-sexual-misconduct-against-male-student/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T17:05:41.000Z",
-      "summary": "Management of the Ghana Education Service (GES) has interdicted two staff members of Aduman Senior High School over alleged sexual misconduct against a male student. The teachers are Mr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
