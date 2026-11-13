@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T20:01:01.878Z",
+  "updated": "2026-11-13T20:11:01.380Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Treat all persons with dignity during interrogation – Mahama charges BNI",
+      "link": "https://www.myjoyonline.com/treat-all-persons-with-dignity-during-interrogation-mahama-charges-bni/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T19:58:23.000Z",
+      "summary": "President John Mahama has stressed the need for the Bureau of National Investigations (BNI) to protect the dignity and rights of persons brought in for interrogation.",
+      "categories": [
+        "National",
+        "Bureau of National Investigations (BNI)",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nalerigu High Court bars five NDC members from regional elections",
       "link": "https://www.myjoyonline.com/nalerigu-high-court-bars-five-ndc-members-from-regional-elections/",
@@ -139,20 +152,6 @@ window.GDC_PAPERS = {
         "National",
         "Electorates",
         "Politicians"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Justice Pwamang takes over as Ag. Chief Justice as Baffoe-Bonnie proceeds on leave",
-      "link": "https://www.myjoyonline.com/justice-pwamang-takes-over-as-ag-chief-justice-as-baffoe-bonnie-proceeds-on-leave/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T18:06:04.000Z",
-      "summary": "Chief Justice Paul Baffoe-Bonnie has nominated Supreme Court Justice Gabriel Scott Pwamang to act in his stead during his absence from duty from November 12 to November 24, 2026.",
-      "categories": [
-        "National",
-        "Top Story",
-        "Chief Justice Paul Baffoe-Bonnie",
-        "Justice Gabriel Scott Pwamang"
       ],
       "site": "https://www.myjoyonline.com/"
     },
