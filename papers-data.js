@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T10:05:23.717Z",
+  "updated": "2026-11-13T10:25:25.716Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Make legal system more accessible, responsive - Academy of Arts and Sciences",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-make-legal-system-more-accessible-responsive-academy-of-arts-and-sciences.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:24:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dr Julius Debrah calls for Public Service reforms to cut business costs",
+      "link": "https://www.myjoyonline.com/dr-julius-debrah-calls-for-public-service-reforms-to-cut-business-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T10:18:53.000Z",
+      "summary": "Chief of Staff, Dr Julius Debrah is urging public sector leaders to adopt private-sector customer service practices to improve efficiency, reduce bureaucratic delays and strengthen Ghana’s…",
+      "categories": [
+        "Books",
+        "Business",
+        "China Europe International Business School",
+        "Julius Debrah",
+        "Professor Robert Ebo Hinson."
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
       "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
@@ -123,17 +149,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-adu-boahene-acquitted-on-2-charges-opens-defence-on-8-others.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T09:15:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ashaiman Municipal Assembly, partners tackle waste",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashaiman-municipal-assembly-partners-tackle-waste.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:12:36.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -311,19 +326,6 @@ window.GDC_PAPERS = {
         "Black Stars",
         "Black Stars Coach",
         "Kim Lars Björkegren"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "100% local processing of cocoa beans achievable but requires political will – Dr Opoku Gakpo",
-      "link": "https://www.myjoyonline.com/100-local-processing-of-cocoa-beans-achievable-but-requires-political-will-dr-opoku-gakpo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:53:00.000Z",
-      "summary": "Agricultural analyst Dr Joseph Opoku Gakpo says the government’s plan to ensure 100 per cent of Ghana’s raw cocoa beans are processed locally by 2030 is achievable, provided it has strong…",
-      "categories": [
-        "National",
-        "Cocoa",
-        "Dr Opoku Gakpo"
       ],
       "site": "https://www.myjoyonline.com/"
     }

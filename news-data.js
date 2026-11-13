@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T10:05:08.761Z",
+  "updated": "2026-11-13T10:25:08.027Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 520)"
+    "News Ghana: failed (HTTP 521)"
   ],
   "items": [
+    {
+      "title": "Dr Julius Debrah calls for Public Service reforms to cut business costs",
+      "link": "https://www.myjoyonline.com/dr-julius-debrah-calls-for-public-service-reforms-to-cut-business-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T10:18:53.000Z",
+      "summary": "Chief of Staff, Dr Julius Debrah is urging public sector leaders to adopt private-sector customer service practices to improve efficiency, reduce bureaucratic delays and strengthen Ghana’s…"
+    },
+    {
+      "title": "Ghana To Pool Mineral Royalties And Infrastructure Investments Under One Fund",
+      "link": "https://thehighstreetjournal.com/ghana-to-pool-mineral-royalties-and-infrastructure-investments-under-one-fund/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T10:15:00.000Z",
+      "summary": "Government plans to merge MIIF and GIIF into a Ghana Sovereign Wealth Fund to coordinate state investments, improve returns and provide equity financing for strategic infrastructure and…"
+    },
     {
       "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
       "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
@@ -69,6 +83,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:00:00.000Z",
       "summary": "Ghana has mandated a total ban on raw cocoa exports by 2030 to capture more global value. The government requires domestic processing facilities to refine 50% of cocoa locally by 2028 and…"
+    },
+    {
+      "title": "‘Stop making people pay for poor service’, Chief of Staff tells public institutions",
+      "link": "https://www.myjoyonline.com/stop-making-people-pay-for-poor-service-chief-of-staff-tells-public-institutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T06:02:00.000Z",
+      "summary": "A mother takes time off work to register her child’s birth. She makes the trip to the registration office, only to learn at the counter that she needs another document. The instruction…"
     },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:03:00.000Z",
       "summary": "Ghanaian professor of economics, Dennis Nsafoah questions whether Ghana's New Economy spending is genuinely new, how a bigger deficit will be financed, and whether it clashes with reserve…"
-    },
-    {
-      "title": "AGI Seeks Long-Term Industrial Financing and Lower Power Costs to Drive 24-Hour Economy",
-      "link": "https://thehighstreetjournal.com/agi-seeks-long-term-industrial-financing-and-lower-power-costs-to-drive-24-hour-economy/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:02:00.000Z",
-      "summary": "AGI wants the 2027 Budget to prioritise affordable industrial financing, electricity costs and trade protection, warning that these factors will determine local manufacturers’…"
-    },
-    {
-      "title": "Ghana Targets Keta Basin in Push to Reverse Declining Oil Reserves",
-      "link": "https://thehighstreetjournal.com/push-to-reverse-declining-oil-reserves/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:01:00.000Z",
-      "summary": "Ghana is stepping up efforts to revive offshore oil exploration in the Accra-Keta Basin as the government seeks to replenish declining petroleum reserves and attract fresh investment into…"
-    },
-    {
-      "title": "OPEC Fund Urges Stronger Project Preparation to Unlock Climate Finance in Emerging Markets",
-      "link": "https://thehighstreetjournal.com/opec-fund-on-stronger-project-preparation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:00:00.000Z",
-      "summary": "The OPEC Fund for International Development is urging development finance institutions to do more than provide capital, calling for stronger project preparation and risk-sharing mechanisms…"
     }
   ]
 };
