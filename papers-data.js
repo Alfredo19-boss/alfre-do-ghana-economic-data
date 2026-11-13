@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:51:21.797Z",
+  "updated": "2026-11-13T04:56:21.224Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Samira Bawumia champions solar-powered healthcare, clean cooking at COP31",
+      "link": "https://www.myjoyonline.com/samira-bawumia-champions-solar-powered-healthcare-clean-cooking-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:52:00.000Z",
+      "summary": "Former Second Lady of Ghana, Hajia Samira Bawumia, has called for increased investment in solar-powered healthcare systems and clean cooking solutions, highlighting their importance in…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "COP31",
+        "Samira"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Shatta Wale urges youth to shun drug abuse, recounts friends’ ruined lives",
       "link": "https://ghanaiantimes.com.gh/shatta-wale-urges-youth-to-shun-drug-abuse-recounts-friends-ruined-lives/",
       "source": "Ghanaian Times",
@@ -30,6 +44,34 @@ window.GDC_PAPERS = {
         "Crime"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana urges inclusive AI development as One Million Coders registrations exceed 140,000",
+      "link": "https://www.myjoyonline.com/ghana-urges-inclusive-ai-development-as-one-million-coders-registrations-exceed-140000/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:45:00.000Z",
+      "summary": "Ghana has called for artificial intelligence (AI), satellite connectivity and other emerging technologies to be designed around people's needs, warning that technological advancement must…",
+      "categories": [
+        "National",
+        "AI",
+        "Ghana",
+        "One Million Coders"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It cannot continue’ – Ato Forson challenges Ghana’s $3.5bn food import bill",
+      "link": "https://www.myjoyonline.com/it-cannot-continue-ato-forson-challenges-ghanas-3-5bn-food-import-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:41:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has called for a shift towards modern commercial agriculture to reduce Ghana’s annual US$3.5 billion food import bill.",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "food import"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "‘Do you want me to crash the country?’ – Ato Forson asks critics demanding huge spending",
@@ -111,48 +153,6 @@ window.GDC_PAPERS = {
         "GTEC",
         "Mahama",
         "UTAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Come and buy our cocoa beans, but add value here in Ghana’ – Forson",
-      "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:25:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has urged international cocoa buyers to process beans in Ghana, as the government pursues plans to increase local processing to 50% by 2028 and 100%…",
-      "categories": [
-        "Agribusiness",
-        "HP News 6",
-        "National",
-        "2027 Budget",
-        "Cocoa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana-Canada trade rises 56% to $752m in 2025 – Deputy Trade Minister",
-      "link": "https://www.myjoyonline.com/ghana-canada-trade-rises-56-to-752m-in-2025-deputy-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:21:00.000Z",
-      "summary": "Ghana and Canada are seeking to expand trade and investment ties, with bilateral trade between the two countries reaching US$752 million in 2025, up 56 per cent from US$483 million recorded…",
-      "categories": [
-        "National",
-        "Ahi",
-        "Canada",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Looming crisis as 1.34 million young Ghanaians out of work, school and training – Ato Forson",
-      "link": "https://www.myjoyonline.com/looming-crisis-as-1-34-million-young-ghanaians-out-of-work-school-and-training-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:08:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has warned of a looming youth employment crisis, saying 1.34 million young Ghanaians are neither working, studying nor receiving training.",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Unemployment"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T04:50:51.595Z",
+  "updated": "2026-11-13T04:55:49.552Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘It cannot continue’ – Ato Forson challenges Ghana’s $3.5bn food import bill",
+      "link": "https://www.myjoyonline.com/it-cannot-continue-ato-forson-challenges-ghanas-3-5bn-food-import-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:41:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has called for a shift towards modern commercial agriculture to reduce Ghana’s annual US$3.5 billion food import bill."
+    },
     {
       "title": "‘Come and buy our cocoa beans, but add value here in Ghana’ – Forson",
       "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T18:20:14.000Z",
       "summary": "The Finance Ministry has tightened capital expenditure approval requirements, compelling public institutions to complete project appraisals and secure investment plan inclusion before…"
-    },
-    {
-      "title": "Rising Debt Costs Put Development Spending Under Pressure as Developing Countries Borrow More",
-      "link": "https://thehighstreetjournal.com/rising-debt-costs-put-development-spending-under-pressure-as-developing-countries-borrow-more/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T18:10:48.000Z",
-      "summary": "Developing countries increased external borrowing to US$9.4 trillion in 2025, but record interest costs and rising repayments threaten to reduce resources for infrastructure, public…"
     }
   ]
 };
