@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T18:46:00.471Z",
+  "updated": "2026-11-13T18:56:00.050Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Day One ends on high note as patrons urged not to miss remaining days",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-one-ends-on-high-note-as-patrons-urged-not-to-miss-remaining-days/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T18:44:59.000Z",
+      "summary": "The first day of the Ecobank JoyBusiness SME Fair 2026 has ended at Ghud Park, Accra Mall, with an impressive showcase of Ghanaian businesses, products and services, as patrons are…",
+      "categories": [
+        "Events",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Patrons"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Electorates must reduce financial demands on politicians – Karachi East NDC spokesperson",
       "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-peter-nlipah/",
@@ -127,19 +141,6 @@ window.GDC_PAPERS = {
         "Politics",
         "diplomatic passports",
         "Samuel Jinapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lands Ministry investigates Manso Keniago shooting that left four dead, 15 injured",
-      "link": "https://www.myjoyonline.com/lands-ministry-investigates-manso-keniago-shooting-that-left-four-dead-15-injured/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:09:31.000Z",
-      "summary": "The Ministry of Lands and Natural Resources has commenced investigations into a shooting incident at Manso Keniago in the Ashanti Region that left four people dead and 15 others injured.",
-      "categories": [
-        "National",
-        "Manso Keniago shooting",
-        "Ministry of Lands and Natural resources"
       ],
       "site": "https://www.myjoyonline.com/"
     },
