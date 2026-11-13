@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:35:26.433Z",
+  "updated": "2026-11-13T14:45:24.865Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "link": "https://www.myjoyonline.com/microsofts-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:39:55.000Z",
+      "summary": "Microsoft is slowly recovering from its day-long outage after much of the company’s systems were hit by a cascading software issue.",
+      "categories": [
+        "Technology",
+        "Microsoft",
+        "Outage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "link": "https://www.myjoyonline.com/how-a-sex-scandal-at-nvidia-is-putting-pressure-on-the-white-house/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:31:08.000Z",
+      "summary": "The Nvidia boss was one of the few business leaders with direct access to the US president. He had met Trump repeatedly, travelled with him to Britain and, in May, joined him on Air Force…",
+      "categories": [
+        "International",
+        "Nvidia",
+        "Sex Scandal",
+        "White House"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama charges new NLC members to ensure fair and timely resolution of disputes",
       "link": "https://www.myjoyonline.com/mahama-charges-new-nlc-members-to-ensure-fair-and-timely-resolution-of-disputes/",
@@ -106,32 +133,6 @@ window.GDC_PAPERS = {
         "ChatGPT",
         "Ghana",
         "Healthcare"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Can Ghana talk its way back to reading?",
-      "link": "https://www.myjoyonline.com/can-ghana-talk-its-way-back-to-reading/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:05:25.000Z",
-      "summary": "On a Sunday afternoon at Theia Coffee House in Airport Residential, members of the Just Read Book Club troop in with books of their own, read for an hour, and only then introduce…",
-      "categories": [
-        "Books",
-        "Ghana",
-        "Reading"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana needs national data cleanup to unlock AI potential –Founder of GradePoint AI",
-      "link": "https://www.myjoyonline.com/ghana-needs-national-data-cleanup-to-unlock-ai-potential-founder-of-gradepoint-ai/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:01:33.000Z",
-      "summary": "Founder and Chief Executive Officer of GradePoint AI, Dr Gillian Hammah, has called for a nationwide data-cleaning exercise, urging the government to prioritise the digitisation and…",
-      "categories": [
-        "National",
-        "Data",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
