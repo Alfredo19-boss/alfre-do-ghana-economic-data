@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:55:24.023Z",
+  "updated": "2026-11-13T13:05:24.358Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Removal of Big 6 from cedi notes politically motivated; NPP must restore the images in future – Musah Superior",
+      "link": "https://www.myjoyonline.com/removal-of-big-6-from-cedi-notes-politically-motivated-npp-must-restore-the-images-in-future-musah-superior/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:57:54.000Z",
+      "summary": "Former Tamale Metropolitan Chief Executive, Iddrisu Musah Superior, has described the removal of the Big Six from Ghana’s redesigned banknotes as politically motivated, arguing that the…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "cedi notes",
+        "Musah Superior"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ambassador Smith visits Vanderbilt Medical Center to explore healthcare partnerships",
+      "link": "https://www.myjoyonline.com/ambassador-smith-visits-vanderbilt-medical-center-to-explore-healthcare-partnerships/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:55:23.000Z",
+      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, led a high-level delegation on an official tour of the Vanderbilt University Medical Center (VUMC) to explore clinical…",
+      "categories": [
+        "National",
+        "Ambassador Victor Smith",
+        "Vanderbilt Medical Center"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s Ambassador to US urges Ghanaians in the diaspora to drive growth through private investment",
+      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-us-urges-ghanaians-in-the-diaspora-to-drive-growth-through-private-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:53:30.000Z",
+      "summary": "Ghana’s Ambassador to the United States, Emmanuel Victor Smith, has met with members of the Chicago branch of the National Democratic Congress (NDC) in a fruitful engagement, during which…",
+      "categories": [
+        "National",
+        "Diaspora",
+        "Ghanaians",
+        "Investment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘New Economy’ rebranded failed 24-Hour Economy – Amin Adam",
       "link": "https://www.myjoyonline.com/new-economy-rebranded-failed-24-hour-economy-amin-adam/",
@@ -90,49 +132,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government spending more on itself while cutting support for the poor – Minority",
-      "link": "https://www.myjoyonline.com/government-spending-more-on-itself-while-cutting-support-for-the-poor-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:15:26.000Z",
-      "summary": "The Minority has accused the government of prioritising its own expenditure over social protection, citing a 35% reduction in allocations for key interventions intended to support…",
-      "categories": [
-        "National",
-        "News",
-        "Ato Forson",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIIF eyes Volta Lake development to create jobs, boost trade",
-      "link": "https://www.myjoyonline.com/giif-eyes-volta-lake-development-to-create-jobs-boost-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:11:51.000Z",
-      "summary": "The Ghana Infrastructure Investment Fund (GIIF) is exploring plans to develop the Volta Lake corridor into a business and industrial hub to create jobs, boost trade and support low-carbon…",
-      "categories": [
-        "National",
-        "31st United Nations Climate Change Conference",
-        "GIIF",
-        "Trade",
-        "Volta lake"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Health Ministry calls for expanded neonatal care services",
-      "link": "https://www.myjoyonline.com/health-ministry-calls-for-expanded-neonatal-care-services/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:09:56.000Z",
-      "summary": "The Deputy Minister of Health, Prof. Dr Grace Ayensu-Danquah, has called for greater investment in neonatal healthcare and comprehensive follow-up services to improve the survival and…",
-      "categories": [
-        "International",
-        "National",
-        "Health Ministry",
-        "Neonatal care"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "What Decides a West African Protection Claim",
       "link": "https://ghanaiantimes.com.gh/what-decides-a-west-african-protection-claim/",
       "source": "Ghanaian Times",
@@ -199,6 +198,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Isaac Mawuko Adusu honoured for disability services in US",
+      "link": "https://www.graphic.com.gh/news/general-news/isaac-mawuko-adusu-honoured-for-disability-services-in-us.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:02:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "African countries urged to turn brain drain into brain circulation",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-countries-urged-to-turn-brain-drain-into-brain-circulation.html",
       "source": "Daily Graphic",
@@ -217,17 +227,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Planet One pledges jobs, skills development from new discovery",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-planet-one-pledges-jobs-skills-development-from-new-discovery.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:39:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
