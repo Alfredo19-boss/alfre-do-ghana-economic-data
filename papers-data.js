@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:15:24.887Z",
+  "updated": "2026-11-13T12:25:24.006Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government spending more on itself while cutting support for the poor – Minority",
+      "link": "https://www.myjoyonline.com/government-spending-more-on-itself-while-cutting-support-for-the-poor-minority/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:15:26.000Z",
+      "summary": "The Minority has accused the government of prioritising its own expenditure over social protection, citing a 35% reduction in allocations for key interventions intended to support…",
+      "categories": [
+        "National",
+        "News",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIIF eyes Volta Lake development to create jobs, boost trade",
+      "link": "https://www.myjoyonline.com/giif-eyes-volta-lake-development-to-create-jobs-boost-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:11:51.000Z",
+      "summary": "The Ghana Infrastructure Investment Fund (GIIF) is exploring plans to develop the Volta Lake corridor into a business and industrial hub to create jobs, boost trade and support low-carbon…",
+      "categories": [
+        "National",
+        "31st United Nations Climate Change Conference",
+        "GIIF",
+        "Trade",
+        "Volta lake"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Health Ministry calls for expanded neonatal care services",
       "link": "https://www.myjoyonline.com/health-ministry-calls-for-expanded-neonatal-care-services/",
@@ -104,35 +133,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Ato Forson",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Debt servicing taking more money than key growth sectors – Minority",
-      "link": "https://www.myjoyonline.com/debt-servicing-taking-more-money-than-key-growth-sectors-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:52:02.000Z",
-      "summary": "The Minority in Parliament says Ghana's rising interest payment obligations are undermining the government's ambition to accelerate economic growth and create jobs.",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament scrap plans to hold 2027 Budget workshop outside parliamentary premises",
-      "link": "https://www.myjoyonline.com/parliament-scrap-plans-to-hold-2027-budget-workshop-outside-parliamentary-premises/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:49:02.000Z",
-      "summary": "Parliament has abandoned plans to hold its post-budget workshop in the Volta Region, opting to organise the exercise at the Chamber of Parliament in Accra following opposition from the…",
-      "categories": [
-        "National",
-        "2027 Budget workshop",
-        "Majority Leader James Agalga",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
