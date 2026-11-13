@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T20:11:01.380Z",
+  "updated": "2026-11-13T20:21:01.789Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Democracy Is Not For Sale: Dambai residents demand greater accountability, sensitisation to tackle vote-buying",
+      "link": "https://www.myjoyonline.com/democracy-is-not-for-sale-dambai-residents-demand-greater-accountability-sensitisation-to-tackle-vote-buying/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T20:16:16.000Z",
+      "summary": "Participants at a public forum in Dambai in the Oti Region have called for increased public education on vote buying and urged politicians to end the monetisation of votes during elections…",
+      "categories": [
+        "News",
+        "Democracy Is Not For Sale",
+        "Oti Region",
+        "Vote buying"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Treat all persons with dignity during interrogation – Mahama charges BNI",
       "link": "https://www.myjoyonline.com/treat-all-persons-with-dignity-during-interrogation-mahama-charges-bni/",
@@ -130,20 +144,6 @@ window.GDC_PAPERS = {
     {
       "title": "Electorates must reduce financial demands on politicians – Krachi East NDC spokesperson",
       "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-krachi-east-ndc-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T18:34:15.000Z",
-      "summary": "Karachi East National Democratic Congress (NDC) Communications Officer, Peter Nlipah, has appealed to voters to reduce the financial demands they make on political aspirants, warning that…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Electorates",
-        "Politicians"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Electorates must reduce financial demands on politicians – Karachi East NDC spokesperson",
-      "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-peter-nlipah/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T18:34:15.000Z",
       "summary": "Karachi East National Democratic Congress (NDC) Communications Officer, Peter Nlipah, has appealed to voters to reduce the financial demands they make on political aspirants, warning that…",
