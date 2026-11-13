@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T18:56:00.050Z",
+  "updated": "2026-11-13T19:05:59.875Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nursing and Midwifery Council inducts 33,698 nurses and midwives, warns social media misuse could cost licences",
+      "link": "https://www.graphic.com.gh/news/general-news/nursing-and-midwifery-council-inducts-33-698-nurses-and-midwives-warns-social-media-misuse-could-cost-licences.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T18:48:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026: Day One ends on high note as patrons urged not to miss remaining days",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-one-ends-on-high-note-as-patrons-urged-not-to-miss-remaining-days/",
@@ -287,17 +298,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-7-member-labour-commission-led-by-justice-duose-full-list.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T15:03:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
-      "link": "https://www.graphic.com.gh/news/general-news/bog-board-member-beatrice-annan-provides-clarification-on-ghc50-note-and-theodosia-okoh-portrait.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T12:30:35.000Z",
       "summary": "",
       "categories": [
         "General News"
