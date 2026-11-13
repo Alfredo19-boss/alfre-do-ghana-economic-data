@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T21:31:01.065Z",
+  "updated": "2026-11-13T21:41:00.460Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
+      "link": "https://www.myjoyonline.com/police-arrest-three-over-suspected-gh%c2%a220m-counterfeit-gtp-fabrics-at-adabraka/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:37:15.000Z",
+      "summary": "The Ghana Police Service has arrested three suspects and seized assorted fabrics valued at about GH¢20 million, suspected to be counterfeit GTP wax prints, at Adabraka in Accra.",
+      "categories": [
+        "National",
+        "Adabraka",
+        "counterfeit GTP",
+        "Ghana Police Service"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Challenge hold final training session ahead of Angola clash",
+      "link": "https://www.myjoyonline.com/black-challenge-hold-final-training-session-ahead-of-angola-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:36:24.000Z",
+      "summary": "The 15-member squad, led by head coach Richard Obeng and his technical team, took to the training ground following their arrival in Mexico in the early hours of Thursday.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Angola",
+        "Benaiah Elorm Dafeamekpor",
+        "Mexico"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest suspect in Sakumono double murder after manhunt in Ejisu",
+      "link": "https://www.myjoyonline.com/police-arrest-suspect-in-sakumono-double-murder-after-manhunt-in-ejisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:35:57.000Z",
+      "summary": "The Ghana Police Service says a 72-year-old man suspected of murdering two relatives at Sakumono in Tema was arrested at his hideout in Tikrom, near Ejisu, after days of intensive search…",
+      "categories": [
+        "Crime",
+        "Regional",
+        "double murder",
+        "Ejisu",
+        "Sakumono"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Manso Keniago Chief challenges NAIMOS to prove alleged shooting that killed six",
       "link": "https://www.myjoyonline.com/manso-keniago-chief-challenges-naimos-to-prove-alleged-shooting-that-killed-six/",
@@ -41,6 +85,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T21:01:27.000Z",
       "summary": "JoyNews has taken its Democracy Is Not for Sale dialogue to Dambai in the Oti Region, bringing together stakeholders and members of the public to examine the growing influence of money in…",
       "categories": [
+        "HP News 8",
         "National",
         "Photo Story",
         "Democracy Is Not For Sale",
@@ -55,6 +100,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T20:54:55.000Z",
       "summary": "The Oti Regional Minister, John Kwadwo Gyapong, has described electoral politics as an investment, saying that candidates spend money to mobilise support and participate in elections.",
       "categories": [
+        "HP News 5",
         "National",
         "Oti Regional Minister",
         "Politics",
@@ -87,49 +133,6 @@ window.GDC_PAPERS = {
         "Democracy Is Not For Sale",
         "Oti Region",
         "Vote buying"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Treat all persons with dignity during interrogation – Mahama charges BNI",
-      "link": "https://www.myjoyonline.com/treat-all-persons-with-dignity-during-interrogation-mahama-charges-bni/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T19:58:23.000Z",
-      "summary": "President John Mahama has stressed the need for the Bureau of National Investigations (BNI) to protect the dignity and rights of persons brought in for interrogation.",
-      "categories": [
-        "National",
-        "Bureau of National Investigations (BNI)",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nalerigu High Court bars five NDC members from regional elections",
-      "link": "https://www.myjoyonline.com/nalerigu-high-court-bars-five-ndc-members-from-regional-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T19:54:21.000Z",
-      "summary": "The High Court in Nalerigu has restrained five individuals, including disputed co-opted members of the National Democratic Congress (NDC) in the Nalerigu-Gambaga Constituency, from…",
-      "categories": [
-        "HP News 2",
-        "Regional",
-        "Nalerigu High Court",
-        "NDC members",
-        "Regional elections"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam Jonah calls on Mahama to restore Gen Acheampong’s military rank, says Ghana must correct injustice of 1979 execution",
-      "link": "https://www.myjoyonline.com/sam-jonah-calls-on-mahama-to-restore-gen-acheampongs-military-rank-says-ghana-must-correct-injustice-of-1979-execution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T19:50:21.000Z",
-      "summary": "Business magnate and former AngloGold Ashanti Chairman, Sir Sam Jonah, has called on President John Mahama and the Ghana Armed Forces to restore the military rank of former Head of State…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Gen Acheampong",
-        "Mahama",
-        "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
