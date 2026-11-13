@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-12T23:44:14.982Z",
+  "updated": "2026-11-13T00:14:18.782Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -56,11 +56,11 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "[Live] Ato Forson breaks down 2027 Budget on JoyNews’ PM Express",
+      "title": "[Video] Ato Forson breaks down 2027 Budget on JoyNews’ PM Express",
       "link": "https://www.myjoyonline.com/live-ato-forson-breaks-down-2027-budget-on-joynews-pm-express/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T22:57:00.000Z",
-      "summary": "Finance Minister, Dr Cassiel Ato Forson, is explaining the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express.",
+      "summary": "Finance Minister, Dr Cassiel Ato Forson, has explained the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express.",
       "categories": [
         "National",
         "News",
