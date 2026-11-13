@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T05:11:22.683Z",
+  "updated": "2026-11-13T05:16:22.778Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,44 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ato Forson says Ghana’s economic recovery must translate into better living standards for citizens",
+      "link": "https://www.myjoyonline.com/ato-forson-says-ghanas-economic-recovery-must-translate-into-better-living-standards-for-citizens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:12:27.000Z",
+      "summary": "Finance Minister, Dr Cassiel Ato Forson, has said the next phase of government's economic reset programme will focus on ensuring that the gains from economic stabilisation translate into…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GH¢17.6bn allocated to local governance, chieftaincy and religious affairs in 2027 Budget – Finance Minister",
+      "link": "https://www.myjoyonline.com/gh%c2%a217-6bn-allocated-to-local-governance-chieftaincy-and-religious-affairs-in-2027-budget-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:11:46.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced an allocation of GH¢17.6 billion to the local governance, chieftaincy and religious affairs sector in the 2027 Budget to support local…",
+      "categories": [
+        "National",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Capital expenditure to account for 26.4% of total spending in 2027 – Finance Minister",
+      "link": "https://www.myjoyonline.com/capital-expenditure-to-account-for-26-4-of-total-spending-in-2027-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:10:20.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to prohibit commercial rice importation into Ghana by the end of 2030 as part of the government's strategy to boost local rice…",
+      "categories": [
+        "National",
+        "Capital",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gov’t plans 3% discount on GoldBod’s gold purchases after taking over programme costs from BoG",
       "link": "https://www.myjoyonline.com/govt-plans-3-discount-on-goldbods-gold-purchases-after-taking-over-programme-costs-from-bog/",
@@ -119,49 +157,6 @@ window.GDC_PAPERS = {
         "Crime"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana urges inclusive AI development as One Million Coders registrations exceed 140,000",
-      "link": "https://www.myjoyonline.com/ghana-urges-inclusive-ai-development-as-one-million-coders-registrations-exceed-140000/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:45:00.000Z",
-      "summary": "Ghana has called for artificial intelligence (AI), satellite connectivity and other emerging technologies to be designed around people's needs, warning that technological advancement must…",
-      "categories": [
-        "National",
-        "AI",
-        "Ghana",
-        "One Million Coders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It cannot continue’ – Ato Forson challenges Ghana’s $3.5bn food import bill",
-      "link": "https://www.myjoyonline.com/it-cannot-continue-ato-forson-challenges-ghanas-3-5bn-food-import-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:41:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has called for a shift towards modern commercial agriculture to reduce Ghana’s annual US$3.5 billion food import bill.",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "food import"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Do you want me to crash the country?’ – Ato Forson asks critics demanding huge spending",
-      "link": "https://www.myjoyonline.com/do-you-want-me-to-crash-the-country-ato-forson-asks-critics-demanding-huge-spending/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:41:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has defended the government’s expenditure record, saying a substantial part of available public funds is going towards settling inherited debts and…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Ato Forson",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
