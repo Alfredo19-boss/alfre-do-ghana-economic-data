@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T09:04:54.075Z",
+  "updated": "2026-11-13T09:25:27.220Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,30 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 403)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana Targets Poultry Expansion, Seeks to Close 500,000-tonne Fish Supply Gap",
+      "link": "https://thehighstreetjournal.com/ghana-targets-poultry-expansion-seeks-to-close-500000-tonne-fish-supply-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:16:08.000Z",
+      "summary": "Government plans integrated poultry production and aquaculture clusters to reduce imports and strengthen domestic food supply."
+    },
+    {
+      "title": "Ghana Commits US$3bn To Commercial Agriculture Under New Economy Programme",
+      "link": "https://thehighstreetjournal.com/ghana-commits-us3bn-to-commercial-agriculture-under-new-economy-programme/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:11:18.000Z",
+      "summary": "Government targets domestic rice production, sugar self-sufficiency and stronger agricultural value chains to reduce food imports."
+    },
+    {
+      "title": "Textile and Garment Industry Set for $1 Billion Investment",
+      "link": "https://thehighstreetjournal.com/textile-and-garment-industry-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T09:06:55.000Z",
+      "summary": "Ghana plans to invest $1 billion in its textile and garment industry as the government seeks to expand domestic manufacturing, increase exports and create jobs, particularly for young…"
+    },
     {
       "title": "$10Bn New Economy: Here Are All the Fiscal Targets Under the Ambitious Initiative",
       "link": "https://thehighstreetjournal.com/10bn-new-economy-here-are-all-the-fiscal-targets-under-the-ambitious-initiative/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T04:31:00.000Z",
       "summary": "The Gates Foundation says AGRA’s revised strategy for transforming Africa’s food systems, which prioritises country-level needs and better connects farmers to markets, is helping strengthen…"
-    },
-    {
-      "title": "Ghana secures $2b investment in petroleum agreements",
-      "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-secures-2b-investment-in-petroleum-agreements/",
-      "source": "Ghana Business News",
-      "published": "2026-11-11T04:21:11.000Z",
-      "summary": "Ghana has secured about $2 billion in additional investments from partners in the Jubilee and Tweneboa-Enyenra-Ntomme (TEN) oil fields to boost production following the extension of the…"
-    },
-    {
-      "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
-      "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:12:12.000Z",
-      "summary": "“We believe October’s US$1.011 billion intermediation, offered at a uniform market-clearing rate, significantly anchored demand expectations and guided market pricing”, said Databank…"
-    },
-    {
-      "title": "Economic stability will take time to reflect in Ghanaians’ lives – Bokpin",
-      "link": "https://www.myjoyonline.com/economic-stability-will-take-time-to-reflect-in-ghanaians-lives-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:44:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says Ghanaians will have to wait to feel the benefits of economic stability because the recovery has relied heavily on government spending cuts."
     }
   ]
 };

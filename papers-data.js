@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T09:05:24.747Z",
+  "updated": "2026-11-13T09:25:30.732Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AFCON 2027Q: Alagidede ‘angry’ with Tanko and Attram over decision not to play home-based players against Somalia",
+      "link": "https://www.myjoyonline.com/afcon-2027q-alagidede-angry-with-tanko-and-attram-over-decision-not-to-play-home-based-players-against-somalia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T09:18:50.000Z",
+      "summary": "The interim technical team led by Kim Lars Bjorkegren, with support from Ibrahim Tanko and Godwin Attram, invited four outfield players plying their trade in the Ghana Premier League for…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Eric Alagidede",
+        "Godwin Attram",
+        "Ibrahim Tanko"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
       "link": "https://ghanaiantimes.com.gh/bjorkegren-demands-better-finishing-ahead-of-somalia-clash-on-monday/",
@@ -279,21 +297,6 @@ window.GDC_PAPERS = {
         "Ghud Park",
         "JoyBusiness",
         "SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UN welcomes Kofi Annan’s appearance on new GH¢100 banknote",
-      "link": "https://www.myjoyonline.com/un-welcomes-kofi-annans-appearance-on-new-gh%c2%a2100-banknote/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:47:00.000Z",
-      "summary": "The United Nations in Ghana has welcomed the decision to feature former UN Secretary-General Kofi Annan on the Bank of Ghana’s newly introduced GH¢100 banknote, describing it as recognition…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Kofi Annan",
-        "UN"
       ],
       "site": "https://www.myjoyonline.com/"
     },
