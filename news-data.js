@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T12:24:55.215Z",
+  "updated": "2026-11-13T12:34:55.280Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 525)"
   ],
   "items": [
+    {
+      "title": "Ghana-Canada Trade Rises to US$752 Million as Both Countries Pursue Closer Economic Ties",
+      "link": "https://thehighstreetjournal.com/ghana-canada-trade-rises-to-us752-million-as-both-countries-pursue-closer-economic-ties/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T12:30:00.000Z",
+      "summary": "Trade between Ghana and Canada climbed 56 per cent in 2025, with both countries now seeking deeper cooperation in investment, industrial development and technology."
+    },
     {
       "title": "The Rice Revolution: Total Import Ban by 2030, Quota in 2027 & Compulsory Purchase By Gov’t Institutions",
       "link": "https://thehighstreetjournal.com/the-rice-revolution-total-import-ban-by-2030-quota-in-2027-compulsory-purchase-by-govt-institutions/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-11T07:01:45.000Z",
       "summary": "Ghana is positioning itself to tap into the fast-growing global non-interest finance market, projected to reach $10.5 trillion by 2030, as three banks apply to operate non-interest banking…"
-    },
-    {
-      "title": "Jobs & Cost of Living Top Public Demands in CERPA’s Pre-Budget Study Ahead of 2027 Budget",
-      "link": "https://thehighstreetjournal.com/jobs-cost-of-living-top-public-demands-in-cerpas-pre-budget-study-ahead-of-2027-budget/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T06:50:00.000Z",
-      "summary": "Ahead of Ghana’s 2027 Budget presentation, job creation and reducing living costs are the main public priorities, demanding immediate government attention. Infrastructure, healthcare…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:25:24.006Z",
+  "updated": "2026-11-13T12:35:24.920Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ato Forson touts commercial agriculture as key to tackling youth unemployment",
+      "link": "https://www.myjoyonline.com/ato-forson-touts-commercial-agriculture-as-key-to-tackling-youth-unemployment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:24:26.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has described commercial agriculture as a major opportunity for tackling youth unemployment, saying large-scale farming could generate significant…",
+      "categories": [
+        "News",
+        "Agriculture",
+        "Ato Forson",
+        "Unemployment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Presidential staffer Beatrice Annan endorses Dr Sammy Ayeh for NDC’s Deputy National Communications Officer role",
+      "link": "https://www.myjoyonline.com/presidential-staffer-beatrice-annan-endorses-dr-sammy-ayeh-for-ndcs-deputy-national-communications-officer-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:23:07.000Z",
+      "summary": "Presidential Staffer Beatrice Annan has endorsed Dr Sammy Ayeh’s bid to become the Deputy National Communications Officer of the National Democratic Congress (NDC), expressing confidence in…",
+      "categories": [
+        "Politics",
+        "Beatrice Annan",
+        "Dr Sammy Ayeh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government spending more on itself while cutting support for the poor – Minority",
       "link": "https://www.myjoyonline.com/government-spending-more-on-itself-while-cutting-support-for-the-poor-minority/",
@@ -104,35 +131,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Interventions",
         "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 budget overlooks immediate concerns of Ghanaians – Amin Adam",
-      "link": "https://www.myjoyonline.com/2027-budget-overlooks-immediate-concerns-of-ghanaians-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:54:06.000Z",
-      "summary": "The Minority in Parliament says the 2027 Budget has failed to address the immediate concerns of Ghanaians, particularly unemployment and the rising cost of living.",
-      "categories": [
-        "In Focus",
-        "National",
-        "2027 Budget",
-        "Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s economic recovery failing to translate into improved living conditions – Amin Adam",
-      "link": "https://www.myjoyonline.com/ghanas-economic-recovery-failing-to-translate-into-improved-living-conditions-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:52:53.000Z",
-      "summary": "The Minority has accused the government of failing to translate improvements in key economic indicators into meaningful relief for households, arguing that the 2027 Budget does not…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
