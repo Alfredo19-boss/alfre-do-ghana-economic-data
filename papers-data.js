@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T17:30:59.575Z",
+  "updated": "2026-11-13T17:40:59.113Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prophet Joseph Atarah releases new gospel single, ‘Formula’",
+      "link": "https://www.myjoyonline.com/prophet-joseph-atarah-releases-new-gospel-single-formula/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:31:08.000Z",
+      "summary": "Ghanaian gospel musician Prophet Joseph Atarah has released his latest single, Formula, urging believers to remain steadfast in their faith regardless of their circumstances",
+      "categories": [
+        "Music",
+        "formula",
+        "Prophet Joseph Atarah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Livestream: Democracy Is Not For Sale underway in Dambai",
       "link": "https://www.myjoyonline.com/livestream-democracy-is-not-for-sale-underway-in-dambai/",
@@ -117,20 +130,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "IMF",
         "Kwesi Pratt"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t must apologise to Ntim Fordjour for attacking him over cocaine bust concerns – Adutwum’s aide",
-      "link": "https://www.myjoyonline.com/govt-must-apologise-to-ntim-fordjour-for-attacking-him-over-cocaine-bust-concerns-adutwums-aide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T16:51:49.000Z",
-      "summary": "The spokesperson for former Education Minister Dr Yaw Osei Adutwum says the government owes the Member of Parliament for Assin South, Rev John Ntim Fordjour, an unqualified apology over its…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Ntim Fordjour",
-        "Yaw Opoku Mensah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
