@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T10:35:24.337Z",
+  "updated": "2026-11-13T10:45:25.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "link": "https://www.graphic.com.gh/news/health/millions-of-ebola-dollars-missing-with-staff-unpaid-while-virus-spreads-charity-says.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:31:22.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Medical Trust Fund expands support to patients with chronic diseases",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-medical-trust-fund-expands-support-to-patients-with-chronic-diseases.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:31:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Antimicrobial resistance bacteria claim 2,100 lives",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-antimicrobial-resistance-bacteria-claim-2-100-lives.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:27:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Make legal system more accessible, responsive - Academy of Arts and Sciences",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-make-legal-system-more-accessible-responsive-academy-of-arts-and-sciences.html",
@@ -105,28 +138,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GHS steps up river blindness fight with $4.76m support",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-steps-up-river-blindness-fight-with-4-76m-support.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:30:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "German Ambassador urges journalists to fight disinformation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-german-ambassador-urges-journalists-to-fight-disinformation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:18:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "AFCON 2027Q: Alagidede ‘angry’ with Tanko and Attram over decision not to play home-based players against Somalia",
       "link": "https://www.myjoyonline.com/afcon-2027q-alagidede-angry-with-tanko-and-attram-over-decision-not-to-play-home-based-players-against-somalia/",
       "source": "MyJoyOnline",
@@ -143,17 +154,6 @@ window.GDC_PAPERS = {
         "Ibrahim Tanko"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adu-Boahene acquitted on 2 charges, opens defence on 8 others",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-adu-boahene-acquitted-on-2-charges-opens-defence-on-8-others.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:15:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
