@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T18:16:01.293Z",
+  "updated": "2026-11-13T18:46:00.471Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Electorates must reduce financial demands on politicians – Karachi East NDC spokesperson",
+      "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-peter-nlipah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T18:34:15.000Z",
+      "summary": "Karachi East National Democratic Congress (NDC) Communications Officer, Peter Nlipah, has appealed to voters to reduce the financial demands they make on political aspirants, warning that…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Electorates",
+        "Politicians"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Justice Pwamang takes over as Ag. Chief Justice as Baffoe-Bonnie proceeds on leave",
       "link": "https://www.myjoyonline.com/justice-pwamang-takes-over-as-ag-chief-justice-as-baffoe-bonnie-proceeds-on-leave/",
       "source": "MyJoyOnline",
@@ -28,6 +42,7 @@ window.GDC_PAPERS = {
       "summary": "Chief Justice Paul Baffoe-Bonnie has nominated Supreme Court Justice Gabriel Scott Pwamang to act in his stead during his absence from duty from November 12 to November 24, 2026.",
       "categories": [
         "National",
+        "Top Story",
         "Chief Justice Paul Baffoe-Bonnie",
         "Justice Gabriel Scott Pwamang"
       ],
@@ -125,18 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "Manso Keniago shooting",
         "Ministry of Lands and Natural resources"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP MPs urge Mahama to consider suspensions over alleged passport irregularities",
-      "link": "https://www.myjoyonline.com/npp-mps-urge-mahama-to-consider-suspensions-over-alleged-passport-irregularities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:07:19.000Z",
-      "summary": "Five NPP MPs are urging President John Mahama to consider suspending officials with primary responsibility for an alleged scheme involving the sale and irregular issuance of Ghanaian…",
-      "categories": [
-        "Politics",
-        "diplomatic passports"
       ],
       "site": "https://www.myjoyonline.com/"
     },
