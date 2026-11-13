@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T11:25:24.062Z",
+  "updated": "2026-11-13T11:34:54.504Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
+      "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:27:02.000Z",
+      "summary": "Former Second Lady Samira Bawumia has launched an initiative to provide reliable solar electricity to underserved healthcare facilities in Africa, initially focusing on improving maternal…"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 kicks off at Ghud Park, Accra Mall",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-11T06:08:49.000Z",
       "summary": "Insurance Claims Specialist Group (ICSG) Limited has launched a public education campaign to improve awareness of compulsory marine cargo insurance and equip importers and exporters with…"
-    },
-    {
-      "title": "From 11 cents per kWh to 6 cents per kWh: Why Bui Power Can Sell Cheaper Electricity to Drive Industrialization",
-      "link": "https://thehighstreetjournal.com/from-11-cents-per-kwh-to-6-cents-per-kwh-why-bui-power-can-sell-cheaper-electricity-to-drive-industrialization/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:05:03.000Z",
-      "summary": "Dr. Kwabena Donkor wants Bui Power to reduce electricity tariffs to 6–7 US cents per kWh, arguing that repaid investment costs and improved efficiency should deliver cheaper power to drive…"
     }
   ]
 };

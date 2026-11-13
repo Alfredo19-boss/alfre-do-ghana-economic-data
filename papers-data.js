@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T11:25:27.174Z",
+  "updated": "2026-11-13T11:35:24.750Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
+      "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:27:02.000Z",
+      "summary": "Former Second Lady Samira Bawumia has launched an initiative to provide reliable solar electricity to underserved healthcare facilities in Africa, initially focusing on improving maternal…",
+      "categories": [
+        "Energy",
+        "National",
+        "maternal facilities",
+        "Samira Bawumia",
+        "Solar Power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "What Decides a West African Protection Claim",
       "link": "https://ghanaiantimes.com.gh/what-decides-a-west-african-protection-claim/",
@@ -38,6 +53,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T11:19:20.000Z",
       "summary": "Professor of Finance and Economics at the University of Ghana Business School, Prof. Godfred Bokpin, has urged the government to adopt Public-Private Partnerships (PPPs) to finance major…",
       "categories": [
+        "HP News 8",
         "National",
         "Public-Private Partnerships (PPPs)"
       ],
@@ -50,6 +66,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T11:18:53.000Z",
       "summary": "Technical Advisor to the Finance Minister, Dr Theophilus Acheampong, has dismissed suggestions that the government is moving away from Public-Private Partnerships (PPPs), explaining that…",
       "categories": [
+        "HP News 3",
         "National",
         "Projects",
         "Public-Private Partnerships"
@@ -63,7 +80,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T11:18:34.000Z",
       "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…",
       "categories": [
+        "Business",
         "Events",
+        "HP Business 1",
+        "HP Business 2",
         "National",
         "News",
         "Top Story",
@@ -296,27 +316,6 @@ window.GDC_PAPERS = {
         "In Focus",
         "National",
         "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“It was a dry field” – Somalia Captain complains about Sekondi Stadium pitch",
-      "link": "https://www.myjoyonline.com/it-was-a-dry-field-somalia-captain-complains-about-sekondi-stadium-pitch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T08:08:01.000Z",
-      "summary": "Somalia captain Abdulsamed Abdullahi has raised concerns about the state of the pitch at the Sekondi Sports Stadium, following his sides 2-0 loss to Ghana. Speaking after Thursday’s 2027…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Abdullahi Abdulsayed",
-        "AFCON27",
-        "AFCONQ",
-        "Ghana",
-        "Ivory Coast",
-        "Somalia",
-        "The Gambia"
       ],
       "site": "https://www.myjoyonline.com/"
     }
