@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:36:23.300Z",
+  "updated": "2026-11-13T04:41:22.837Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,19 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "NDPC reviews national monitoring and evaluation manual to strengthen development planning",
+      "link": "https://www.myjoyonline.com/ndpc-reviews-national-monitoring-and-evaluation-manual-to-strengthen-development-planning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:33:00.000Z",
+      "summary": "The National Development Planning Commission (NDPC) has begun a stakeholder review of the second edition of Ghana’s National Monitoring and Evaluation (M&E) Manual to improve its…",
+      "categories": [
+        "National",
+        "Monitoring",
+        "NDPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "African Political Parties Initiative announces inaugural leadership, with Asiedu Nketiah as chair",
       "link": "https://www.myjoyonline.com/african-political-parties-initiative-announces-inaugural-leadership-with-asiedu-nketiah-as-chair/",
       "source": "MyJoyOnline",
@@ -44,6 +57,20 @@ window.GDC_PAPERS = {
         "APPI",
         "Asiedu Nketia",
         "Political parties initiative"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama discusses lecturers’ welfare, university funding with UTAG",
+      "link": "https://www.myjoyonline.com/mahama-discusses-lecturers-welfare-university-funding-with-utag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:28:00.000Z",
+      "summary": "President John Dramani Mahama has engaged the leadership of the University Teachers Association of Ghana (UTAG) on a range of concerns, including lecturers’ welfare, recruitment challenges…",
+      "categories": [
+        "National",
+        "GTEC",
+        "Mahama",
+        "UTAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,32 +138,6 @@ window.GDC_PAPERS = {
         "National",
         "2027 Budget",
         "Job Creation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Taking back 1% of GDP in 2027 won’t harm economy – Ato Forson",
-      "link": "https://www.myjoyonline.com/taking-back-1-of-gdp-in-2027-wont-harm-economy-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:10:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson defended plans to take back 1% of GDP in fiscal savings in 2027, arguing the government exceeded its earlier primary surplus target to restore…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lyon conference highlights Morocco’s role in Euro-African Cooperation Dynamics",
-      "link": "https://www.myjoyonline.com/lyon-conference-highlights-moroccos-role-in-euro-african-cooperation-dynamics/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:49:00.000Z",
-      "summary": "A conference held Tuesday in Lyon highlighted Morocco’s growing role in Euro-African cooperation and the prospects for a strategic partnership between Rabat and Paris.",
-      "categories": [
-        "Africa",
-        "Morocco"
       ],
       "site": "https://www.myjoyonline.com/"
     },

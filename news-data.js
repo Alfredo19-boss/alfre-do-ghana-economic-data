@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T04:35:51.869Z",
+  "updated": "2026-11-13T04:40:49.772Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -48,6 +48,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T02:21:00.000Z",
       "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App."
+    },
+    {
+      "title": "‘Dangote has reached out to use Ghana as a hub to process cocoa locally’ – Ato Forson",
+      "link": "https://www.myjoyonline.com/dangote-has-reached-out-to-use-ghana-as-a-hub-to-process-cocoa-locally-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T01:43:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Dangote has expressed interest in using Ghana as a cocoa-processing hub, with discussions underway over a proposed contract involving 500,000…"
     },
     {
       "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T18:03:33.000Z",
       "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and…"
-    },
-    {
-      "title": "FDI Success in Oil & Gas Must Be Measured by Progress of Local Firms, Workers – Prez Mahama",
-      "link": "https://thehighstreetjournal.com/fdi-success-in-oil-gas-must-be-measured-by-progress-of-local-firms-workers-prez-mahama/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T18:00:00.000Z",
-      "summary": "President Mahama wants foreign investment to deliver more technical expertise, procurement opportunities and skills development for Ghanaian businesses and workers."
     }
   ]
 };
