@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T03:36:30.584Z",
+  "updated": "2026-11-13T03:46:24.626Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,12 +24,44 @@ window.GDC_PAPERS = {
       "title": "US doctor kills building manager after long-running dispute over mould, police say",
       "link": "https://www.myjoyonline.com/us-doctor-kills-building-manager-after-long-running-dispute-over-mould-police-say/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T02:58:37.000Z",
+      "published": "2026-11-13T03:35:37.000Z",
       "summary": "A doctor who had been in an ongoing dispute over mould and other issues at his Washington DC apartment fatally shot his building's manager and fired at four others before killing himself…",
       "categories": [
         "International",
         "Kill",
         "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:44:00.000Z",
+      "summary": "Microsoft is struggling to fix a major global outage of its service that is reportedly affecting tens of thousands of users.",
+      "categories": [
+        "International",
+        "News",
+        "Technology",
+        "Copilot",
+        "Microsoft",
+        "Outlook",
+        "Teams"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NaBCo and YEA models cannot deliver lasting jobs – Ato Forson",
+      "link": "https://www.myjoyonline.com/nabco-and-yea-models-cannot-deliver-lasting-jobs-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:40:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must restructure its economy to create lasting employment, rather than rely on temporary jobs under models such as NaBCo and the Youth…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson",
+        "NaBCO"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -42,23 +74,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Telecom",
         "Telecel Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
-      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:06:00.000Z",
-      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "News",
-        "2027 Budget",
-        "Cocoa",
-        "Dangote",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -77,23 +92,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T01:44:00.000Z",
-      "summary": "Microsoft is struggling to fix a major global outage of its service that is reportedly affecting tens of thousands of users.",
-      "categories": [
-        "International",
-        "News",
-        "Technology",
-        "Copilot",
-        "Microsoft",
-        "Outlook",
-        "Teams"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
       "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
       "source": "MyJoyOnline",
@@ -108,6 +106,23 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
+      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:17:00.000Z",
+      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "News",
+        "2027 Budget",
+        "Cocoa",
+        "Dangote",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
       "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
       "source": "MyJoyOnline",
@@ -118,19 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "2027 Budget",
         "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘How many economies would NDC build in Ghana within four years?’ – Afenyo-Markin",
-      "link": "https://www.myjoyonline.com/how-many-economies-would-ndc-build-in-ghana-within-four-years-afenyo-markin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T23:44:00.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the government’s New Economy agenda, demanding clarity on how it differs from the promised 24-hour economy and how it will deliver…",
-      "categories": [
-        "Politics",
-        "2027 Budget",
-        "Minority Caucus"
       ],
       "site": "https://www.myjoyonline.com/"
     },

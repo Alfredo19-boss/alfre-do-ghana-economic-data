@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T03:35:58.105Z",
+  "updated": "2026-11-13T03:45:52.720Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,13 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "NaBCo and YEA models cannot deliver lasting jobs – Ato Forson",
+      "link": "https://www.myjoyonline.com/nabco-and-yea-models-cannot-deliver-lasting-jobs-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:40:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must restructure its economy to create lasting employment, rather than rely on temporary jobs under models such as NaBCo and the Youth…"
+    },
+    {
       "title": "Telecel Cash launches E-wallet and Telecel Shop to advance digital commerce",
       "link": "https://www.myjoyonline.com/telecel-cash-launches-e-wallet-and-telecel-shop-to-advance-digital-commerce/",
       "source": "MyJoyOnline",
@@ -29,18 +36,18 @@ window.GDC_NEWS = {
       "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App."
     },
     {
-      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
-      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:06:00.000Z",
-      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…"
-    },
-    {
       "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
       "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T00:29:00.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes."
+    },
+    {
+      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
+      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:17:00.000Z",
+      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…"
     },
     {
       "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:51:03.000Z",
       "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind…"
-    },
-    {
-      "title": "Youth Seek Tax Relief and Cheaper Credit to Boost Businesses and Jobs",
-      "link": "https://thehighstreetjournal.com/youth-seek-tax-relief-and-cheaper-credit-to-boost-businesses-and-jobs/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T17:45:24.000Z",
-      "summary": "Volta youth want the 2027 Budget to reduce business taxes, import duties and electricity costs while expanding affordable credit, arguing that lower operating costs could support enterprise…"
     }
   ]
 };
