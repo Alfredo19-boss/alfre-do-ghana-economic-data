@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:00:25.189Z",
+  "updated": "2026-11-13T14:10:23.453Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,75 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Can Ghana talk its way back to reading?",
+      "link": "https://www.myjoyonline.com/can-ghana-talk-its-way-back-to-reading/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:05:25.000Z",
+      "summary": "On a Sunday afternoon at Theia Coffee House in Airport Residential, members of the Just Read Book Club troop in with books of their own, read for an hour, and only then introduce…",
+      "categories": [
+        "Books",
+        "Ghana",
+        "Reading"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana needs national data cleanup to unlock AI potential –Founder of GradePoint AI",
+      "link": "https://www.myjoyonline.com/ghana-needs-national-data-cleanup-to-unlock-ai-potential-founder-of-gradepoint-ai/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:01:33.000Z",
+      "summary": "Founder and Chief Executive Officer of GradePoint AI, Dr Gillian Hammah, has called for a nationwide data-cleaning exercise, urging the government to prioritise the digitisation and…",
+      "categories": [
+        "National",
+        "Data",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GHS launches second round of MDA against Onchocerciasis",
+      "link": "https://www.myjoyonline.com/ghs-launches-second-round-of-mda-against-onchocerciasis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:58:13.000Z",
+      "summary": "The Ghana Health Service (GHS) has launched the second round of its 2026 Mass Drug Administration (MDA) campaign against Onchocerciasis (river blindness), urging residents in affected…",
+      "categories": [
+        "Health",
+        "National",
+        "Ghana Health Service",
+        "Onchocerciasis"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Muntaka hosts ALEO, NYPD delegation to discuss collaboration with Ghana Police Service",
+      "link": "https://www.myjoyonline.com/muntaka-hosts-aleo-nypd-delegation-to-discuss-collaboration-with-ghana-police-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:57:10.000Z",
+      "summary": "A delegation from the African Law Enforcement Organisation (ALEO) and the New York Police Department (NYPD) has called for stronger collaboration with the Ghana Police Service to improve…",
+      "categories": [
+        "National",
+        "African Law Enforcement Organisation",
+        "Ghana Police Service",
+        "Muntaka Mohammed-Mubarak",
+        "New York Police Department"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Premature babies need more than survival – Deputy Health Minister",
+      "link": "https://www.myjoyonline.com/premature-babies-need-more-than-survival-deputy-health-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:56:26.000Z",
+      "summary": "The Deputy Minister of Health, Professor Dr Grace Ayensu-Danquah, has called for increased investment in neonatal healthcare and stronger follow-up services to ensure premature babies…",
+      "categories": [
+        "Health",
+        "National",
+        "Premature babies",
+        "Professor Dr Grace Ayensu-Danquah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GES processes 347 salary arrears cases for 2024 recruited teachers; 119 staff ID applications unverified",
       "link": "https://www.myjoyonline.com/ges-processes-347-salary-arrears-cases-for-2024-recruited-teachers-119-staff-id-applications-unverified/",
@@ -67,83 +136,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Jospong champions solar-powered fleet electrification and subnational climate action in Antalya, Türkiye",
-      "link": "https://www.myjoyonline.com/jospong-champions-solar-powered-fleet-electrification-and-subnational-climate-action-in-antalya-turkiye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:42:57.000Z",
-      "summary": "The Jospong Group of Companies (JGC) continues to demonstrate its commitment to Africa’s green transition at the ongoing COP31 in Antalya, Türkiye, highlighting practical solutions for…",
-      "categories": [
-        "National",
-        "fleet electrificatio",
-        "Jospong Group of Companies",
-        "Solar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama opens 6th National Muslim Conference in Accra",
-      "link": "https://www.myjoyonline.com/mahama-opens-6th-national-muslim-conference-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:42:15.000Z",
-      "summary": "President John Mahama has opened the 6th Annual Conference of the National Muslim Conference of Ghana, calling for continued collaboration among Muslim leaders to promote good governance…",
-      "categories": [
-        "National",
-        "Muntaka Mohammed-Mubarak",
-        "National Muslim Conference",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
-      "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:40:21.000Z",
-      "summary": "Ghana and Canada are seeking to deepen their economic partnership and expand investment opportunities following a 56 per cent increase in bilateral trade, which reached US$752 million in…",
-      "categories": [
-        "Business",
-        "Economy",
-        "National",
-        "bilateral trade",
-        "Canada",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Malawi approves Jospong feasibility study for waste management facilities",
-      "link": "https://www.myjoyonline.com/malawi-approves-jospong-feasibility-study-for-waste-management-facilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:39:17.000Z",
-      "summary": "Malawi has approved a proposal allowing Ghana’s Jospong Group of Companies (JGC) to undertake a feasibility study for the establishment of integrated waste management facilities in the…",
-      "categories": [
-        "National",
-        "Malawi",
-        "waste management facilities",
-        "Zoomlion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority accuses gov’t of misleading Ghanaians with ‘no new taxes’ claim in 2027 budget",
-      "link": "https://www.myjoyonline.com/minority-accuses-govt-of-misleading-ghanaians-with-no-new-taxes-claim-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:27:23.000Z",
-      "summary": "The Minority has accused the government of presenting a misleading picture of its tax policy by repeatedly insisting that the 2027 Budget introduces no new taxes while projecting a sharp…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
       "link": "https://www.graphic.com.gh/news/general-news/bog-board-member-beatrice-annan-provides-clarification-on-ghc50-note-and-theodosia-okoh-portrait.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T12:30:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dangote eyes Ghana as cocoa-processing hub in potential 500,000-tonne deal",
+      "link": "https://www.graphic.com.gh/news/general-news/dangote-eyes-ghana-as-cocoa-processing-hub-in-potential-500-000-tonne-deal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T11:58:35.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -169,6 +176,17 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Health Ministry warns public against fraudulent Mercy Ships fundraising",
+      "link": "https://www.graphic.com.gh/news/general-news/health-ministry-warns-public-against-fraudulent-mercy-ships-fundraising.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T10:57:41.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -210,28 +228,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-make-legal-system-more-accessible-responsive-academy-of-arts-and-sciences.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T10:24:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Isaac Mawuko Adusu honoured for disability services in US",
-      "link": "https://www.graphic.com.gh/news/general-news/isaac-mawuko-adusu-honoured-for-disability-services-in-us.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:02:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "African countries urged to turn brain drain into brain circulation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-countries-urged-to-turn-brain-drain-into-brain-circulation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:50:53.000Z",
       "summary": "",
       "categories": [
         "General News"
