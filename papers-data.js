@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T11:45:24.369Z",
+  "updated": "2026-11-13T11:55:23.952Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,79 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Parliament scrap plans to hold 2027 Budget workshop outside parliamentary premises",
+      "link": "https://www.myjoyonline.com/parliament-scrap-plans-to-hold-2027-budget-workshop-outside-parliamentary-premises/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:49:02.000Z",
+      "summary": "Parliament has abandoned plans to hold its post-budget workshop in the Volta Region, opting to organise the exercise at the Chamber of Parliament in Accra following opposition from the…",
+      "categories": [
+        "National",
+        "2027 Budget workshop",
+        "Majority Leader James Agalga",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African countries urged to turn brain drain into brain circulation",
+      "link": "https://www.myjoyonline.com/african-countries-urged-to-turn-brain-drain-into-brain-circulation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:48:56.000Z",
+      "summary": "African countries have been urged to harness the expertise of their citizens in the diaspora to strengthen higher education, research and innovation on the continent.",
+      "categories": [
+        "National",
+        "African countries",
+        "George K.T. Oduro",
+        "Technical Advisor to Ghana's Minister of Education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority says it has identified conflicting figures in the 2027 budget",
+      "link": "https://www.myjoyonline.com/minority-says-it-has-identified-conflicting-figures-in-the-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:48:14.000Z",
+      "summary": "The Minority in Parliament has accused the government of presenting inconsistent figures in the 2027 budget, raising questions about the reliability and clarity of some of the financial…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "2027 Budget",
+        "Amin Adam",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra Academy 95th anniversary gala to honour 40 recipients, raise funds for school projects",
+      "link": "https://www.myjoyonline.com/accra-academy-95th-anniversary-gala-to-honour-40-recipients-raise-funds-for-school-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:41:38.000Z",
+      "summary": "Accra Academy will honour 40 individuals, groups and organisations at its 95th anniversary dinner, awards and fundraising gala on Saturday, November 14, 2026. The event, scheduled for 7:00…",
+      "categories": [
+        "Education",
+        "Events",
+        "95th anniversary gala",
+        "Accra Academy",
+        "School projects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prof. Bokpin urges gov’t to increase infrastructure spending to drive economic growth",
+      "link": "https://www.myjoyonline.com/prof-bokpin-urges-govt-to-increase-infrastructure-spending-to-drive-economic-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:40:53.000Z",
+      "summary": "A Professor of Finance and Economics at the University of Ghana Business School, Prof. Godfred Bokpin, has urged the government to reconsider its fiscal framework and increase investment in…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "News",
+        "Economic Growth",
+        "infrastructure spending"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
       "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
@@ -71,39 +144,6 @@ window.GDC_PAPERS = {
         "HP News 8",
         "National",
         "Public-Private Partnerships (PPPs)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t has not abandoned PPPs; it seeks to fast-track projects before private sector participation – Theo Acheampong",
-      "link": "https://www.myjoyonline.com/govt-has-not-abandoned-ppps-it-seeks-to-fast-track-projects-before-private-sector-participation-theo-acheampong/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:18:53.000Z",
-      "summary": "Technical Advisor to the Finance Minister, Dr Theophilus Acheampong, has dismissed suggestions that the government is moving away from Public-Private Partnerships (PPPs), explaining that…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Projects",
-        "Public-Private Partnerships"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 kicks off at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:18:34.000Z",
-      "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP Business 1",
-        "HP Business 2",
-        "National",
-        "News",
-        "Top Story",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Ghud Park"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -163,35 +203,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Dr Julius Debrah calls for Public Service reforms to cut business costs",
-      "link": "https://www.myjoyonline.com/dr-julius-debrah-calls-for-public-service-reforms-to-cut-business-costs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T10:18:53.000Z",
-      "summary": "Chief of Staff, Dr Julius Debrah is urging public sector leaders to adopt private-sector customer service practices to improve efficiency, reduce bureaucratic delays and strengthen Ghana’s…",
-      "categories": [
-        "Books",
-        "Business",
-        "China Europe International Business School",
-        "Julius Debrah",
-        "Professor Robert Ebo Hinson."
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
-      "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T09:55:23.000Z",
-      "summary": "The World Bank Group has convened Her Majesty Queen Máxima of the Netherlands, the United Nations Secretary-General’s Special Advocate for Financial Health (UNSGSA), alongside senior…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Queen Máxima",
-        "World Bank Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "African countries urged to turn brain drain into brain circulation",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-countries-urged-to-turn-brain-drain-into-brain-circulation.html",
       "source": "Daily Graphic",
@@ -223,24 +234,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AFCON 2027Q: Alagidede ‘angry’ with Tanko and Attram over decision not to play home-based players against Somalia",
-      "link": "https://www.myjoyonline.com/afcon-2027q-alagidede-angry-with-tanko-and-attram-over-decision-not-to-play-home-based-players-against-somalia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T09:18:50.000Z",
-      "summary": "The interim technical team led by Kim Lars Bjorkegren, with support from Ibrahim Tanko and Godwin Attram, invited four outfield players plying their trade in the Ghana Premier League for…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Eric Alagidede",
-        "Godwin Attram",
-        "Ibrahim Tanko"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
