@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T21:41:00.460Z",
+  "updated": "2026-11-13T22:01:00.262Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Universities told to use sports to attract alumni funding",
+      "link": "https://www.myjoyonline.com/universities-told-to-use-sports-to-attract-alumni-funding/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:56:47.000Z",
+      "summary": "Speaking at the maiden University of Ghana Sports Dialogue on the theme \"Repositioning University Sports as a Driver of Institutional Excellence and National Development,\" Dr Baah-Nuakoh…",
+      "categories": [
+        "Other Sports",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Dr Baah-Nuakoh",
+        "Repositioning University Sports as a Driver of Institutional Excellence and National Development",
+        "Universities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
       "link": "https://www.myjoyonline.com/police-arrest-three-over-suspected-gh%c2%a220m-counterfeit-gtp-fabrics-at-adabraka/",
@@ -119,20 +135,6 @@ window.GDC_PAPERS = {
         "Democracy for sale",
         "John Kwadwo Gyapong",
         "Oti Regional Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Democracy Is Not For Sale: Dambai residents demand greater accountability, sensitisation to tackle vote-buying",
-      "link": "https://www.myjoyonline.com/democracy-is-not-for-sale-dambai-residents-demand-greater-accountability-sensitisation-to-tackle-vote-buying/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T20:16:16.000Z",
-      "summary": "Participants at a public forum in Dambai in the Oti Region have called for increased public education on vote-buying and urged politicians to end the monetisation of votes during elections…",
-      "categories": [
-        "News",
-        "Democracy Is Not For Sale",
-        "Oti Region",
-        "Vote buying"
       ],
       "site": "https://www.myjoyonline.com/"
     },
