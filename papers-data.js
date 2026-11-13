@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:35:24.920Z",
+  "updated": "2026-11-13T12:45:24.158Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GH¢61bn interest payments threaten funding for development – Minority",
+      "link": "https://www.myjoyonline.com/gh%c2%a261bn-interest-payments-threaten-funding-for-development-minority/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:34:51.000Z",
+      "summary": "The Minority has raised concerns about Ghana’s projected GH¢61 billion interest payments in 2027, warning that the cost of servicing public debt is limiting the resources available for…",
+      "categories": [
+        "National",
+        "News",
+        "Amin Adam",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ato Forson touts commercial agriculture as key to tackling youth unemployment",
       "link": "https://www.myjoyonline.com/ato-forson-touts-commercial-agriculture-as-key-to-tackling-youth-unemployment/",
@@ -117,20 +132,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Jobs",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority condemns 35% reduction in funding for social interventions",
-      "link": "https://www.myjoyonline.com/minority-condemns-35-reduction-in-funding-for-social-interventions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:55:31.000Z",
-      "summary": "The Minority in Parliament has raised concerns over a proposed reduction in funding for social intervention programmes in the 2027 Budget, warning that vulnerable households could face…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Interventions",
-        "Minority"
       ],
       "site": "https://www.myjoyonline.com/"
     },
