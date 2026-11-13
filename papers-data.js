@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T17:40:59.113Z",
+  "updated": "2026-11-13T17:50:58.677Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC Deputy Youth Organiser aspirant Daniel Niibi outlines plans to give Greater Accra youth a stronger voice",
+      "link": "https://www.myjoyonline.com/ndc-deputy-youth-organiser-aspirant-daniel-niibi-outlines-plans-to-give-greater-accra-youth-a-stronger-voice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:41:01.000Z",
+      "summary": "Daniel Niibi Afotey Odai, an aspirant for the position of Deputy Youth Organiser of the National Democratic Congress (NDC) in the Greater Accra Region, has outlined a series of proposals…",
+      "categories": [
+        "Politics",
+        "Deputy youth organiser",
+        "Greater Accra",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Aduman SHS: Chaplain, ICT teacher remanded over alleged sodomy",
+      "link": "https://www.graphic.com.gh/news/general-news/aduman-shs-chaplain-ict-teacher-remanded-over-alleged-sodomy.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T17:37:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Prophet Joseph Atarah releases new gospel single, ‘Formula’",
       "link": "https://www.myjoyonline.com/prophet-joseph-atarah-releases-new-gospel-single-formula/",
@@ -116,20 +141,6 @@ window.GDC_PAPERS = {
         "Aduman SHS",
         "Ghana Education Service",
         "Sodomy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwesi Pratt questions Ghana’s sovereignty over reported IMF approval of 2027 Budget",
-      "link": "https://www.myjoyonline.com/kwesi-pratt-questions-ghanas-sovereignty-over-reported-imf-approval-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:00:26.000Z",
-      "summary": "Veteran journalist Kwesi Pratt Jnr has questioned Ghana’s economic sovereignty following reports that the International Monetary Fund (IMF) had approved the country’s 2027 Budget before it…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "IMF",
-        "Kwesi Pratt"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -287,17 +298,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/bog-board-member-beatrice-annan-provides-clarification-on-ghc50-note-and-theodosia-okoh-portrait.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T12:30:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dangote eyes Ghana as cocoa-processing hub in potential 500,000-tonne deal",
-      "link": "https://www.graphic.com.gh/news/general-news/dangote-eyes-ghana-as-cocoa-processing-hub-in-potential-500-000-tonne-deal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T11:58:35.000Z",
       "summary": "",
       "categories": [
         "General News"
