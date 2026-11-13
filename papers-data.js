@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T22:40:59.747Z",
+  "updated": "2026-11-13T23:01:01.265Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC Eastern Region: Osei-Ampem wins big, calls for hard work to secure 2028 victory",
+      "link": "https://www.graphic.com.gh/news/politics/ndc-eastern-region-osei-ampem-wins-big-calls-for-hard-work-to-secure-2028-victory.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T22:55:12.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Counsellor Kweku Adumatta reportedly dies after a short illness",
+      "link": "https://www.myjoyonline.com/counsellor-kweku-adumatta-reportedly-dies-after-a-short-illness/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T22:22:00.000Z",
+      "summary": "Ghanaian relationship and marriage counsellor, motivational speaker and life coach, Kweku Adumatta, popularly known as Uncle Kweku Adumatta, has reportedly died after a short illness.",
+      "categories": [
+        "News",
+        "counsellor",
+        "Kweku Adumatta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Universities told to use sports to attract alumni funding",
       "link": "https://www.myjoyonline.com/universities-told-to-use-sports-to-attract-alumni-funding/",
@@ -121,20 +145,6 @@ window.GDC_PAPERS = {
         "Oti Regional Minister",
         "Politics",
         "Vote-buying"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t should fund political parties to end ‘democracy for sale’ – Oti Regional Minister",
-      "link": "https://www.myjoyonline.com/govt-should-fund-political-parties-to-end-democracy-for-sale-oti-regional-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T20:53:55.000Z",
-      "summary": "The Oti Regional Minister, John Kwadwo Gyapong, has called on the government to provide financial support to political parties, saying that public funding would help address concerns about…",
-      "categories": [
-        "National",
-        "Democracy for sale",
-        "John Kwadwo Gyapong",
-        "Oti Regional Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -297,17 +307,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "IGP Yohuno engages Netherlands Police, IACP on transnational crime and cooperation",
-      "link": "https://www.graphic.com.gh/news/general-news/igp-yohuno-engages-netherlands-police-iacp-on-transnational-crime-and-cooperation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T15:40:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "What Decides a West African Protection Claim",
