@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T19:16:01.345Z",
+  "updated": "2026-11-13T19:26:00.742Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -142,8 +142,8 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Livestream: Democracy Is Not For Sale underway in Dambai",
-      "link": "https://www.myjoyonline.com/livestream-democracy-is-not-for-sale-underway-in-dambai/",
+      "title": "Playback: Democracy Is Not For Sale in Dambai",
+      "link": "https://www.myjoyonline.com/playback-democracy-is-not-for-sale-in-dambai/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T17:20:57.000Z",
       "summary": "Democracy Is Not For Sale is underway in Dambai. Watch livestream below:",
