@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T19:05:59.875Z",
+  "updated": "2026-11-13T19:16:01.345Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Human rights and Democratic futures: Reflections from West and Central Africa",
+      "link": "https://www.myjoyonline.com/human-rights-and-democratic-futures-reflections-from-west-and-central-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T19:11:20.000Z",
+      "summary": "There is a fundamental question confronting the human rights movement in Africa today: How do we defend human rights in societies where many citizens increasingly question whether…",
+      "categories": [
+        "Africa",
+        "Opinion",
+        "Central Africa",
+        "Democracy",
+        "Human rights",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nursing and Midwifery Council inducts 33,698 nurses and midwives, warns social media misuse could cost licences",
       "link": "https://www.graphic.com.gh/news/general-news/nursing-and-midwifery-council-inducts-33-698-nurses-and-midwives-warns-social-media-misuse-could-cost-licences.html",
@@ -42,6 +58,20 @@ window.GDC_PAPERS = {
         "National",
         "Ecobank JoyBusiness SME Fair 2026",
         "Patrons"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Electorates must reduce financial demands on politicians – Krachi East NDC spokesperson",
+      "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-krachi-east-ndc-spokesperson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T18:34:15.000Z",
+      "summary": "Karachi East National Democratic Congress (NDC) Communications Officer, Peter Nlipah, has appealed to voters to reduce the financial demands they make on political aspirants, warning that…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Electorates",
+        "Politicians"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -118,40 +148,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T17:20:57.000Z",
       "summary": "Democracy Is Not For Sale is underway in Dambai. Watch livestream below:",
       "categories": [
-        "HP News 3",
         "National",
         "Democracy Is Not For Sale",
         "JoyNews"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Okyeame Kwame’s advocacy gets massive boost as BoG honours Ghana’s heroines",
-      "link": "https://www.myjoyonline.com/okyeame-kwames-advocacy-gets-massive-boost-as-bog-honours-ghanas-heroines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:18:06.000Z",
-      "summary": "Ghanaian musician Okyeame Kwame has welcomed the Bank of Ghana’s decision to honour prominent Ghanaian women on its newly unveiled cedi notes",
-      "categories": [
-        "Art & Design",
-        "HP Entertainment 2",
-        "HP Lifestyle 2",
-        "National",
-        "Bank notes",
-        "Ghana’s heroines",
-        "Okyeame Kwame"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jinapor, four NPP MPs seek bipartisan probe into alleged passport sales",
-      "link": "https://www.myjoyonline.com/jinapor-four-npp-mps-seek-bipartisan-probe-into-alleged-passport-sales/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:10:41.000Z",
-      "summary": "Five NPP MPs, led by Damongo MP Samuel Abu Jinapor, are seeking a nine-member bipartisan committee to investigate the alleged sale and irregular issuance of Ghanaian diplomatic and service…",
-      "categories": [
-        "Politics",
-        "diplomatic passports",
-        "Samuel Jinapor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
