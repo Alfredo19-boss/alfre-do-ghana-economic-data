@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T14:44:54.618Z",
+  "updated": "2026-11-13T17:30:29.018Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,60 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 7/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana to invest $200m in nuclear power readiness programme",
+      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-to-invest-200m-in-nuclear-power-readiness-programme/",
+      "source": "Ghana Business News",
+      "published": "2026-11-13T16:54:08.000Z",
+      "summary": "Ghana will invest $200 million in a 24-month programme to prepare the country for the construction of its first nuclear power plant."
+    },
+    {
+      "title": "No New Tax in 2027: Forson Stakes the Budget on Collection, Not Levies",
+      "link": "https://thehighstreetjournal.com/no-new-tax-in-2027-forson-stakes-the-budget-on-collection-not-levies/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T16:52:44.000Z",
+      "summary": "Government projects GH¢323.1 billion in revenue and grants as it relies on stronger compliance and tax administration rather than new levies."
+    },
+    {
+      "title": "Excitement builds at Ecobank-JoyBusiness SME Fair 2026, shoppers urged to visit Ghud Park",
+      "link": "https://www.myjoyonline.com/excitement-builds-at-ecobank-joybusiness-sme-fair-2026-shoppers-urged-to-visit-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T16:34:32.000Z",
+      "summary": "Excitement is building at the Ecobank JoyBusiness SME Fair 2026 as businesses showcase an impressive range of products and services at Ghud Park, Accra Mall, with shoppers and prospective…"
+    },
+    {
+      "title": "Ghana government to invest $10b in economic transformation from 2027 to 2030",
+      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-government-to-invest-10b-in-economic-transformation-from-2027-to-2030/",
+      "source": "Ghana Business News",
+      "published": "2026-11-13T16:26:29.000Z",
+      "summary": "The Ghana government says it will invest $10 billion in an economic transformation programme from 2027 to 2030, targeting agriculture, energy, critical minerals and other productive sectors."
+    },
+    {
+      "title": "Ghana risks importing water as miners struggle to afford mercury-free gold catchers",
+      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-risks-importing-water-as-miners-struggle-to-afford-mercury-free-gold-catchers/",
+      "source": "Ghana Business News",
+      "published": "2026-11-13T16:15:53.000Z",
+      "summary": "Ghana risks importing potable water as rivers face increasing pollution from mercury used in artisanal and small-scale mining, with miners struggling to afford mercury-free gold processing…"
+    },
+    {
+      "title": "Customs intercepts concealed textiles and 10 motorbikes at Techiman checkpoint",
+      "link": "https://www.myjoyonline.com/customs-intercepts-concealed-textiles-and-10-motorbikes-at-techiman-checkpoint/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T16:05:23.000Z",
+      "summary": "Officers of the Customs Division at Techiman have intercepted 97 bales of imitation wax prints and 10 unpacked Yamaha Aerox motorbikes concealed in a Burkina Faso-registered cargo truck at…"
+    },
+    {
+      "title": "Ghana Energy Awards’ 2025 Energy Personalities take EPOP to three Western Region schools",
+      "link": "https://www.myjoyonline.com/ghana-energy-awards-2025-energy-personalities-take-epop-to-three-western-region-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T15:38:28.000Z",
+      "summary": "The Energy Personalities Outreach Programme (EPOP), a flagship educational and mentorship initiative of the prestigious Ghana Energy Awards, will, for the first time in its eight-year…"
+    },
     {
       "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
       "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T13:05:45.000Z",
       "summary": "The Petroleum Commission and other state agencies in the upstream oil and gas sector have been instructed by President John Dramani Mahama to work with the Petroleum Hub Development…"
-    },
-    {
-      "title": "Over 70% of Ghanaians expect jobs and youth employment as top priorities in 2027 Budget-KPMG/UNDP survey",
-      "link": "https://www.myjoyonline.com/over-70-of-ghanaians-expect-jobs-and-youth-employment-as-top-priorities-in-2027-budget-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:05:00.000Z",
-      "summary": "54 percent of the respondents identify the cost of living as a key national priority apart from the growing unemployment situation in the country."
-    },
-    {
-      "title": "Powering Ghana’s future: Can small modular reactors drive the nation’s industrial growth",
-      "link": "https://www.myjoyonline.com/powering-ghanas-future-can-small-modular-reactors-drive-the-nations-industrial-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:45:58.000Z",
-      "summary": "Ghana stands at a pivotal juncture in its national energy development. With a rapidly growing economy and an expanding industrial base, long-term national planning requires a secure…"
-    },
-    {
-      "title": "OPEC Fund Calls for Coordinated Climate Financing to Accelerate Country-Led Projects",
-      "link": "https://thehighstreetjournal.com/opec-fund-oncoordinated-climate-financing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T12:35:00.000Z",
-      "summary": "The OPEC Fund says stronger partnerships, country ownership and innovative financing instruments are critical to unlocking private capital and turning climate commitments into development…"
-    },
-    {
-      "title": "2027 Budget: CERPA Outlines a 5-Point Recommendation for Consideration After a Pre-Budget Study",
-      "link": "https://thehighstreetjournal.com/2027-budget-cerpa-outlines-a-5-point-recommendation-for-consideration-after-a-pre-budget-study/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T12:11:00.000Z",
-      "summary": "Ahead of the 2027 Budget, CERPA urges Ghana’s government to target job creation, reduce essential living costs, link macroeconomic goals to household welfare, enhance tax fairness, and…"
-    },
-    {
-      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by Services sector",
-      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-services-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:53:46.000Z",
-      "summary": "Ghana’s economy recorded a 6.8 percent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…"
-    },
-    {
-      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by the services sector",
-      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-the-services-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:53:46.000Z",
-      "summary": "Ghana’s economy recorded a 6.8 per cent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…"
-    },
-    {
-      "title": "IFAD Announces Climate Adaptation Bond to Mobilise Funding for Small-Scale Farmers",
-      "link": "https://thehighstreetjournal.com/ifads-funding-for-small-scale-farmers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T11:12:00.000Z",
-      "summary": "The initiative comes as small-scale farmers face growing exposure to climate change, despite receiving only a small proportion of available climate finance"
     }
   ]
 };

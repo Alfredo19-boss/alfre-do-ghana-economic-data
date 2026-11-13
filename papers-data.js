@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:45:24.865Z",
+  "updated": "2026-11-13T17:30:59.575Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,120 +21,267 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
-      "link": "https://www.myjoyonline.com/microsofts-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "title": "Livestream: Democracy Is Not For Sale underway in Dambai",
+      "link": "https://www.myjoyonline.com/livestream-democracy-is-not-for-sale-underway-in-dambai/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T14:39:55.000Z",
-      "summary": "Microsoft is slowly recovering from its day-long outage after much of the company’s systems were hit by a cascading software issue.",
+      "published": "2026-11-13T17:20:57.000Z",
+      "summary": "Democracy Is Not For Sale is underway in Dambai. Watch livestream below:",
       "categories": [
-        "Technology",
-        "Microsoft",
-        "Outage"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.myjoyonline.com/how-a-sex-scandal-at-nvidia-is-putting-pressure-on-the-white-house/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:31:08.000Z",
-      "summary": "The Nvidia boss was one of the few business leaders with direct access to the US president. He had met Trump repeatedly, travelled with him to Britain and, in May, joined him on Air Force…",
-      "categories": [
-        "International",
-        "Nvidia",
-        "Sex Scandal",
-        "White House"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama charges new NLC members to ensure fair and timely resolution of disputes",
-      "link": "https://www.myjoyonline.com/mahama-charges-new-nlc-members-to-ensure-fair-and-timely-resolution-of-disputes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:29:46.000Z",
-      "summary": "President John Dramani Mahama has called on the newly inaugurated National Labour Commission (NLC) to make fairness and timely resolution of disputes the foundation of its work, warning…",
-      "categories": [
+        "HP News 3",
         "National",
-        "Mahama",
-        "new NLC members"
+        "Democracy Is Not For Sale",
+        "JoyNews"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "From shoreline waste to useful products: How solar-powered recycling is helping communities rethink plastic waste in Ghana",
-      "link": "https://www.myjoyonline.com/from-shoreline-waste-to-useful-products-how-solar-powered-recycling-is-helping-communities-rethink-plastic-waste-in-ghana/",
+      "title": "Okyeame Kwame’s advocacy gets massive boost as BoG honours Ghana’s heroines",
+      "link": "https://www.myjoyonline.com/okyeame-kwames-advocacy-gets-massive-boost-as-bog-honours-ghanas-heroines/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T14:28:36.000Z",
-      "summary": "An environmental non-governmental organisation, Plastic Punch, has partnered with Marco Bernardo, founder of Sun Factory, to demonstrate how solar energy can be used to convert plastic…",
+      "published": "2026-11-13T17:18:06.000Z",
+      "summary": "Ghanaian musician Okyeame Kwame has welcomed the Bank of Ghana’s decision to honour prominent Ghanaian women on its newly unveiled cedi notes",
       "categories": [
-        "National",
-        "Plastic waste"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "link": "https://www.myjoyonline.com/nigerian-university-in-mourning-after-four-students-die-at-post-exam-party/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:19:48.000Z",
-      "summary": "Four Nigerian students have died after attending a party in the south-eastern town of Nsukka to celebrate the end of their final exams.",
-      "categories": [
-        "Africa",
-        "International",
-        "Nsukka",
-        "post-exam party",
-        "University of Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
-      "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:12:59.000Z",
-      "summary": "According to the Director of Communications, Julie Kozack, Ghana’s macroeconomic stability is now becoming entrenched, with the indicators pointing in the right direction.",
-      "categories": [
-        "Business",
-        "Economy",
-        "Dr. Julie Kozack",
-        "external position",
-        "GDP",
-        "IMF",
-        "Inflation",
-        "Macreconomic stability"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Health benefits of dawadawa",
-      "link": "https://www.myjoyonline.com/health-benefits-of-dawadawa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:07:09.000Z",
-      "summary": "Dawadawa, also known as African locust bean, is a highly nutritious West African condiment that serves as a powerful natural remedy for overall immunity.",
-      "categories": [
-        "Health",
+        "Art & Design",
+        "HP Entertainment 2",
         "HP Lifestyle 2",
-        "Lifestyle",
         "National",
-        "dawadawa"
+        "Bank notes",
+        "Ghana’s heroines",
+        "Okyeame Kwame"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Forget building another ChatGPT; Ghana must focus on AI solutions for healthcare, agric – GradePoint AI CEO",
-      "link": "https://www.myjoyonline.com/forget-building-another-chatgpt-ghana-must-focus-on-ai-solutions-for-healthcare-agric-gradepoint-ai-ceo/",
+      "title": "Jinapor, four NPP MPs seek bipartisan probe into alleged passport sales",
+      "link": "https://www.myjoyonline.com/jinapor-four-npp-mps-seek-bipartisan-probe-into-alleged-passport-sales/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T14:06:06.000Z",
-      "summary": "Founder and Chief Executive Officer of GradePoint AI, Dr Gillian Hammah, has cautioned the government against investing heavily in attempts to develop its own large artificial intelligence…",
+      "published": "2026-11-13T17:10:41.000Z",
+      "summary": "Five NPP MPs, led by Damongo MP Samuel Abu Jinapor, are seeking a nine-member bipartisan committee to investigate the alleged sale and irregular issuance of Ghanaian diplomatic and service…",
       "categories": [
-        "National",
-        "Agriculture",
-        "AI",
-        "ChatGPT",
-        "Ghana",
-        "Healthcare"
+        "Politics",
+        "diplomatic passports",
+        "Samuel Jinapor"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lands Ministry investigates Manso Keniago shooting that left four dead, 15 injured",
+      "link": "https://www.myjoyonline.com/lands-ministry-investigates-manso-keniago-shooting-that-left-four-dead-15-injured/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:09:31.000Z",
+      "summary": "The Ministry of Lands and Natural Resources has commenced investigations into a shooting incident at Manso Keniago in the Ashanti Region that left four people dead and 15 others injured.",
+      "categories": [
+        "National",
+        "Manso Keniago shooting",
+        "Ministry of Lands and Natural resources"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP MPs urge Mahama to consider suspensions over alleged passport irregularities",
+      "link": "https://www.myjoyonline.com/npp-mps-urge-mahama-to-consider-suspensions-over-alleged-passport-irregularities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:07:19.000Z",
+      "summary": "Five NPP MPs are urging President John Mahama to consider suspending officials with primary responsibility for an alleged scheme involving the sale and irregular issuance of Ghanaian…",
+      "categories": [
+        "Politics",
+        "diplomatic passports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two Aduman SHS teachers remanded as police probe alleged sodomy case involving a student",
+      "link": "https://www.myjoyonline.com/two-aduman-shs-teachers-remanded-as-police-probe-alleged-sodomy-case-involving-a-student/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:01:25.000Z",
+      "summary": "Two teachers of Aduman Senior High School in the Ashanti Region, who were arrested over allegations of sexual misconduct involving a male student, have been remanded into police custody by…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "National",
+        "News",
+        "Aduman SHS",
+        "Ghana Education Service",
+        "Sodomy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwesi Pratt questions Ghana’s sovereignty over reported IMF approval of 2027 Budget",
+      "link": "https://www.myjoyonline.com/kwesi-pratt-questions-ghanas-sovereignty-over-reported-imf-approval-of-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T17:00:26.000Z",
+      "summary": "Veteran journalist Kwesi Pratt Jnr has questioned Ghana’s economic sovereignty following reports that the International Monetary Fund (IMF) had approved the country’s 2027 Budget before it…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "IMF",
+        "Kwesi Pratt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t must apologise to Ntim Fordjour for attacking him over cocaine bust concerns – Adutwum’s aide",
+      "link": "https://www.myjoyonline.com/govt-must-apologise-to-ntim-fordjour-for-attacking-him-over-cocaine-bust-concerns-adutwums-aide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T16:51:49.000Z",
+      "summary": "The spokesperson for former Education Minister Dr Yaw Osei Adutwum says the government owes the Member of Parliament for Assin South, Rev John Ntim Fordjour, an unqualified apology over its…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Ntim Fordjour",
+        "Yaw Opoku Mensah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nalerigu High Court restrains five co-opted NDC members from North East regional elections",
+      "link": "https://www.graphic.com.gh/news/politics/nalerigu-high-court-restrains-five-co-opted-ndc-members-from-north-east-regional-elections.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T16:50:21.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Drive to Inspire-Africa empowers 20 new scholars with Sonne scholarships",
+      "link": "https://www.graphic.com.gh/news/education/drive-to-inspire-africa-empowers-20-new-scholars-with-sonne-scholarships.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T16:37:06.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "PAG flagbearer: 'We cannot build a new economy with old parties'",
+      "link": "https://www.graphic.com.gh/news/politics/pag-flagbearer-we-cannot-build-a-new-economy-with-old-parties.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T16:30:19.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ato Forson recalls economic meltdown Under NPP",
+      "link": "https://ghanaiantimes.com.gh/ato-forson-recalls-economic-meltdown-under-npp/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T16:20:37.000Z",
+      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has recalled the severe economic hardship Ghanaians went through under the previous NPP government, describing it as an economic meltdown…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gov’t to invest US$3 Billion in commercial agriculture",
+      "link": "https://ghanaiantimes.com.gh/govt-to-invest-us3-billion-in-commercial-agriculture/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T16:15:35.000Z",
+      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced a US$3 billion investment in commercial agriculture under Pillar two of the New Economy Programme. Presenting the 2027 Budget…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DDEP bondholders due Feb 16, 2027 can come for their money now- Ato Forson",
+      "link": "https://ghanaiantimes.com.gh/ddep-bondholders-due-feb-16-2027-can-come-for-their-money-now-ato-forson/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T16:12:43.000Z",
+      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced that bondholders under the Domestic Debt Exchange Programme (DDEP) whose payments fall due on February 16, 2027 can come for…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Government to invest US$2 billion in energy infrastructure",
+      "link": "https://ghanaiantimes.com.gh/government-to-invest-us2-billion-in-energy-infrastructure/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T16:01:31.000Z",
+      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced a US$2 billion investment in Energy Infrastructure under Pillar three of the New Economy Programme. Presenting the 2027…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Armed Forces details GH¢100,000 support for Kumasi stampede victim",
+      "link": "https://ghanaiantimes.com.gh/ghana-armed-forces-details-gh%c2%a2100000-support-for-kumasi-stampede-victim/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T15:59:42.000Z",
+      "summary": "The Ghana Armed Forces (GAF) has clarified the support it has provided to Sandra Baafi, a victim of the Kumasi recruitment stampede, following a viral publication about her condition on…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Focus is on economy, not presidency – Ato Forson",
+      "link": "https://ghanaiantimes.com.gh/focus-is-on-economy-not-presidency-ato-forson/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T15:57:09.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has described calls for him to consider contesting for the presidency as premature, urging Ghanaians to focus on the current government’s mandate. He…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dangote expresses interest in processing more than 50% of Ghana’s cocoa locally by 2028 – Ato Forson",
+      "link": "https://ghanaiantimes.com.gh/dangote-expresses-interest-in-processing-more-than-50-of-ghanas-cocoa-locally-by-2028-ato-forson/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T15:53:52.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has disclosed that Nigerian billionaire Aliko Dangote has expressed interest in using Ghana as a hub to process more than 50 per cent of the country’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "IGP Yohuno engages Netherlands Police, IACP on transnational crime and cooperation",
+      "link": "https://www.graphic.com.gh/news/general-news/igp-yohuno-engages-netherlands-police-iacp-on-transnational-crime-and-cooperation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T15:40:34.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Beauty Narteh becomes first African woman to chair global UNCAC Coalition",
+      "link": "https://www.graphic.com.gh/news/general-news/beauty-narteh-becomes-first-african-woman-to-chair-global-uncac-coalition.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T15:29:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama swears in 7-member Labour Commission led by Justice Duose (FULL LIST)",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-7-member-labour-commission-led-by-justice-duose-full-list.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T15:03:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
@@ -166,151 +313,6 @@ window.GDC_PAPERS = {
       "summary": "When a protection claim from West Africa reaches a tribunal in London or an immigration court in the United States, the hearing rarely turns on whether the applicant is telling the truth…",
       "categories": [
         "Technology"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "See the 4 men left in the race for NDC Chairman as 23 aspirants fall at vetting",
-      "link": "https://www.graphic.com.gh/news/politics/see-the-4-men-left-in-the-race-for-ndc-chairman-as-23-aspirants-fall-at-vetting.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T11:16:26.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Health Ministry warns public against fraudulent Mercy Ships fundraising",
-      "link": "https://www.graphic.com.gh/news/general-news/health-ministry-warns-public-against-fraudulent-mercy-ships-fundraising.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:57:41.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "link": "https://www.graphic.com.gh/news/health/millions-of-ebola-dollars-missing-with-staff-unpaid-while-virus-spreads-charity-says.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:31:22.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Medical Trust Fund expands support to patients with chronic diseases",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-medical-trust-fund-expands-support-to-patients-with-chronic-diseases.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:31:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Antimicrobial resistance bacteria claim 2,100 lives",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-antimicrobial-resistance-bacteria-claim-2-100-lives.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:27:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Make legal system more accessible, responsive - Academy of Arts and Sciences",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-make-legal-system-more-accessible-responsive-academy-of-arts-and-sciences.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T10:24:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Björkegren demands better finishing ahead of Somalia clash on Monday",
-      "link": "https://ghanaiantimes.com.gh/bjorkegren-demands-better-finishing-ahead-of-somalia-clash-on-monday/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:57:57.000Z",
-      "summary": "INTERIM Black Stars head coach Kim Lars Björkegren says the team must improve in several aspects of their play, particularly their finishing, ahead of their next 2027 Africa Cup of Nations…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Stars beat Somalia 2-0 to revive AFCON campaign",
-      "link": "https://ghanaiantimes.com.gh/black-stars-beat-somalia-2-0-to-revive-afcon-campaign/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:54:03.000Z",
-      "summary": "GHANA’S Black Stars revived their 2027 Africa Cup of Nations (AFCON) campaign with a 2-0 victory over the Ocean Stars of Somalia after a frustrating start threatened to turn their dominance…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to host FIBA Africa Zone 3 U-16 Championship",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-host-fiba-africa-zone-3-u-16-championship/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:47:04.000Z",
-      "summary": "GHANA is set to host the International Basketball Federation (FIBA) Africa Zone 3 U-16 Boys and Girls Championship at the Multipurpose Hall of the Borteyman Sports Complex in Accra from…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Africa Teqball Championship kicks off today",
-      "link": "https://ghanaiantimes.com.gh/africa-teqball-championship-kicks-off-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:44:56.000Z",
-      "summary": "GHANA will host some of the continent’s finest teqball talents today and tomorrow as the 2026 Africa Teqball Championship takes centre stage in Accra. The two-day competition will bring…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hearts face tough Samartex test in Samreboi",
-      "link": "https://ghanaiantimes.com.gh/hearts-face-tough-samartex-test-in-samreboi/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:42:42.000Z",
-      "summary": "HEARTS of Oak face a stern test on the road this weekend when they travel to Samreboi to take on Samartex FC at the Nsenkyire Sports Arena in what promises to be a fiercely contested…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US withdraws from U-17 World Cup in Qatar over security fears",
-      "link": "https://ghanaiantimes.com.gh/us-withdraws-from-u-17-world-cup-in-qatar-over-security-fears/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:39:03.000Z",
-      "summary": "The United States has withdrawn from the upcoming U-17 soccer World Cup in Qatar due to concerns about security in the Middle East, US media reported on Wednesday. Players were informed of…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tuchel committed to England until Euro 2028",
-      "link": "https://ghanaiantimes.com.gh/tuchel-committed-to-england-until-euro-2028/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:37:24.000Z",
-      "summary": "Thomas Tuchel says he has no intention of leaving the England job before the 2028 European Championship regardless of any offers that come in from major clubs. Tuchel, who replaced ‌Gareth…",
-      "categories": [
-        "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
