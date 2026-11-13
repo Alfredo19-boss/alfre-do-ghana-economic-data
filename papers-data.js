@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:21:21.216Z",
+  "updated": "2026-11-13T06:31:22.303Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget: Govt unveils $10bn New Economy plan • GH¢30bn allocated for 2027; targets 8% growth, unemployment below 8%",
+      "link": "https://ghanaiantimes.com.gh/2027-budget-govt-unveils-10bn-new-economy-plan-gh%c2%a230bn-allocated-for-2027-targets-8-growth-unemployment-below-8/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T06:24:30.000Z",
+      "summary": "THE government has unveiled a $10 billion economic transformation programme aimed at breaking Ghana’s recurring cycle of economic crises, accelerating industrialisation and creating…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Bloody clash at Manso Keniago…3 residents dead, 2 military personnel injured",
       "link": "https://ghanaiantimes.com.gh/bloody-clash-at-manso-keniago3-residents-dead-2-military-personnel-injured/",
@@ -71,9 +83,9 @@ window.GDC_PAPERS = {
         "Business",
         "Economy",
         "HP Business 1",
-        "HP News 2",
         "National",
         "News",
+        "Top Story",
         "Ecobank",
         "Ghud Park",
         "JoyBusiness",
@@ -304,18 +316,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T17:00:18.000Z",
       "summary": "Former President of Ghana, Nana Addo Dankwa Akufo-Addo, has been appointed by the Economic Community of West African States (ECOWAS) to lead a deployment of Election Observers to the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "New Ghana heritage series cedi notes to circulate from December 1 – BoG Governor",
-      "link": "https://ghanaiantimes.com.gh/new-ghana-heritage-series-cedi-notes-to-circulate-from-december-1-bog-governor/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T16:57:44.000Z",
-      "summary": "The Bank of Ghana will introduce the new Ghana Heritage Series banknotes into circulation from December 1, 2026, while the existing cedi notes will remain legal tender. Governor of the Bank…",
       "categories": [
         "Hot!",
         "News"
