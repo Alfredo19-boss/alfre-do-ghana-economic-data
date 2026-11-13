@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:40:24.006Z",
+  "updated": "2026-11-13T13:45:25.534Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
+      "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:40:21.000Z",
+      "summary": "Ghana and Canada are seeking to deepen their economic partnership and expand investment opportunities following a 56 per cent increase in bilateral trade, which reached US$752 million in…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "bilateral trade",
+        "Canada",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Malawi approves Jospong feasibility study for waste management facilities",
+      "link": "https://www.myjoyonline.com/malawi-approves-jospong-feasibility-study-for-waste-management-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:39:17.000Z",
+      "summary": "Malawi has approved a proposal allowing Ghana’s Jospong Group of Companies (JGC) to undertake a feasibility study for the establishment of integrated waste management facilities in the…",
+      "categories": [
+        "National",
+        "Malawi",
+        "waste management facilities",
+        "Zoomlion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority accuses gov’t of misleading Ghanaians with ‘no new taxes’ claim in 2027 budget",
       "link": "https://www.myjoyonline.com/minority-accuses-govt-of-misleading-ghanaians-with-no-new-taxes-claim-in-2027-budget/",
@@ -102,34 +132,6 @@ window.GDC_PAPERS = {
         "National",
         "Ambassador Victor Smith",
         "Vanderbilt Medical Center"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Ambassador to US urges Ghanaians in the diaspora to drive growth through private investment",
-      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-us-urges-ghanaians-in-the-diaspora-to-drive-growth-through-private-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:53:30.000Z",
-      "summary": "Ghana’s Ambassador to the United States, Emmanuel Victor Smith, has met with members of the Chicago branch of the National Democratic Congress (NDC) in a fruitful engagement, during which…",
-      "categories": [
-        "National",
-        "Diaspora",
-        "Ghanaians",
-        "Investment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New Economy’ rebranded failed 24-Hour Economy – Amin Adam",
-      "link": "https://www.myjoyonline.com/new-economy-rebranded-failed-24-hour-economy-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:45:33.000Z",
-      "summary": "The Minority in Parliament has accused the government of repackaging its 24-hour economy policy under the new ‘New Economy’ banner, arguing that several programmes outlined in the latest…",
-      "categories": [
-        "National",
-        "24-hour economy",
-        "Minority in Parliament",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },

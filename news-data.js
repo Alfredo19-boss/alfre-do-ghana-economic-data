@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:39:53.587Z",
+  "updated": "2026-11-13T13:45:08.363Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 521)"
   ],
   "items": [
+    {
+      "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
+      "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:40:21.000Z",
+      "summary": "Ghana and Canada are seeking to deepen their economic partnership and expand investment opportunities following a 56 per cent increase in bilateral trade, which reached US$752 million in…"
+    },
     {
       "title": "Open Letter to The IGP Over Abandoned Transit Truck Parked Over 2 Months",
       "link": "https://thehighstreetjournal.com/open-letter-to-the-igp-over-abandoned-transit-truck-parked-over-2-months/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T10:28:00.000Z",
       "summary": "The initiative, seeks to help cities develop investment-ready nature-based solutions"
-    },
-    {
-      "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
-      "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:43:35.000Z",
-      "summary": "The Ghana Enterprises Agency (GEA) has brought together women entrepreneurs, policymakers and development partners at its 5th Ghana Women Entrepreneurship Summit to explore strategies for…"
     }
   ]
 };
