@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T20:21:01.789Z",
+  "updated": "2026-11-13T20:41:00.495Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,7 +25,7 @@ window.GDC_PAPERS = {
       "link": "https://www.myjoyonline.com/democracy-is-not-for-sale-dambai-residents-demand-greater-accountability-sensitisation-to-tackle-vote-buying/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T20:16:16.000Z",
-      "summary": "Participants at a public forum in Dambai in the Oti Region have called for increased public education on vote buying and urged politicians to end the monetisation of votes during elections…",
+      "summary": "Participants at a public forum in Dambai in the Oti Region have called for increased public education on vote-buying and urged politicians to end the monetisation of votes during elections…",
       "categories": [
         "News",
         "Democracy Is Not For Sale",
