@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T04:05:56.968Z",
+  "updated": "2026-11-13T04:15:53.125Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
+      "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T03:46:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has credited an aggressive fiscal adjustment programme with stabilising Ghana’s economy in two years, saying the government deliberately exceeded its…"
+    },
     {
       "title": "Taking back 1% of GDP in 2027 won’t harm economy – Ato Forson",
       "link": "https://www.myjoyonline.com/taking-back-1-of-gdp-in-2027-wont-harm-economy-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T18:00:00.000Z",
       "summary": "President Mahama wants foreign investment to deliver more technical expertise, procurement opportunities and skills development for Ghanaian businesses and workers."
-    },
-    {
-      "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
-      "link": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:57:17.000Z",
-      "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…"
     }
   ]
 };

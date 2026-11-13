@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:06:27.825Z",
+  "updated": "2026-11-13T04:16:25.847Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
+      "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T03:46:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has credited an aggressive fiscal adjustment programme with stabilising Ghana’s economy in two years, saying the government deliberately exceeded its…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "US doctor kills building manager after long-running dispute over mould, police say",
       "link": "https://www.myjoyonline.com/us-doctor-kills-building-manager-after-long-running-dispute-over-mould-police-say/",
       "source": "MyJoyOnline",
@@ -30,6 +44,19 @@ window.GDC_PAPERS = {
         "International",
         "Kill",
         "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We saved more; now we must tackle jobs – Ato Forson defends 2027 shift",
+      "link": "https://www.myjoyonline.com/we-saved-more-now-we-must-tackle-jobs-ato-forson-defends-2027-shift/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T03:28:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson defended the government’s shift to job creation in 2027, arguing that stronger-than-required fiscal savings have created room to tackle youth…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Job Creation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -100,34 +127,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Telecom",
         "Telecel Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NHIS quiz: Young people are powerful agents of change —NHIA Deputy CEO",
-      "link": "https://www.myjoyonline.com/nhis-quiz-young-people-are-powerful-agents-of-change-nhia-deputy-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:05:00.000Z",
-      "summary": "The Deputy CEO in charge of Administration and Human Resources at the National Health Insurance Authority (NHIA), has called on students to become ambassadors of the National Health…",
-      "categories": [
-        "Education",
-        "National",
-        "NHIS Quiz",
-        "Raphael Segkpeb"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:29:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes.",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson"
       ],
       "site": "https://www.myjoyonline.com/"
     },
