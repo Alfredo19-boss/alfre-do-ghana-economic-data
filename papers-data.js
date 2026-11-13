@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T01:41:21.112Z",
+  "updated": "2026-11-13T02:21:21.265Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -58,6 +58,21 @@ window.GDC_PAPERS = {
         "Politics",
         "2027 Budget",
         "Minority Caucus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Recruitment stampede: Military rejects claims it abandoned injured victim, cites GH¢143,800 support",
+      "link": "https://www.myjoyonline.com/recruitment-stampede-military-rejects-claims-it-abandoned-injured-victim-cites-gh%c2%a2143800-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-12T23:23:00.000Z",
+      "summary": "The Ghana Armed Forces (GAF) has rejected suggestions that it has abandoned Sandra Baafi Boateng, one of the victims of the military recruitment stampede at the Baba Yara Sports Stadium in…",
+      "categories": [
+        "News",
+        "GAF",
+        "Ghana",
+        "Ghana Armed Forces",
+        "Military"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -134,21 +149,6 @@ window.GDC_PAPERS = {
       "summary": "The Minority in Parliament says the 2027 Budget fails to address the hardship facing Ghanaians, arguing that the government’s economic figures offer little comfort to people struggling with…",
       "categories": [
         "HP News 3",
-        "News",
-        "Politics",
-        "2027 Budget",
-        "Minority Caucus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Stability on paper, hardship in our pockets’ – Minority caucus attacks 2027 Budget",
-      "link": "https://www.myjoyonline.com/stability-on-paper-hardship-in-our-pockets-minority-caucus-attacks-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T22:07:00.000Z",
-      "summary": "The Minority in Parliament has criticised the 2027 Budget, arguing that the government’s claims of economic stability have not translated into affordable food, jobs or relief for businesses.",
-      "categories": [
-        "HP News 1",
         "News",
         "Politics",
         "2027 Budget",
