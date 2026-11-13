@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T02:21:21.265Z",
+  "updated": "2026-11-13T02:26:22.448Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -68,6 +68,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-12T23:23:00.000Z",
       "summary": "The Ghana Armed Forces (GAF) has rejected suggestions that it has abandoned Sandra Baafi Boateng, one of the victims of the military recruitment stampede at the Baba Yara Sports Stadium in…",
       "categories": [
+        "HP News 10",
         "News",
         "GAF",
         "Ghana",
@@ -142,17 +143,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget offers figures, not relief for struggling Ghanaians – Minority caucus",
-      "link": "https://www.myjoyonline.com/2027-budget-offers-figures-not-relief-for-struggling-ghanaians-minority-caucus/",
+      "title": "NDC disqualifies 23 aspirants for Dec 19 national executive elections; 98 cleared",
+      "link": "https://www.myjoyonline.com/ndc-disqualifies-23-aspirants-for-dec-19-national-executive-elections-98-cleared/",
       "source": "MyJoyOnline",
-      "published": "2026-11-12T22:16:12.000Z",
-      "summary": "The Minority in Parliament says the 2027 Budget fails to address the hardship facing Ghanaians, arguing that the government’s economic figures offer little comfort to people struggling with…",
+      "published": "2026-11-12T22:20:00.000Z",
+      "summary": "The National Democratic Congress (NDC) has cleared 98 aspirants to contest its national executive elections scheduled for December 19, 2026, following a two-day vetting exercise.",
       "categories": [
-        "HP News 3",
-        "News",
         "Politics",
-        "2027 Budget",
-        "Minority Caucus"
+        "e;ections",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
