@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T05:51:21.294Z",
+  "updated": "2026-11-13T06:01:21.743Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "100% local processing of cocoa beans achievable but requires political will – Dr Opoku Gakpo",
+      "link": "https://www.myjoyonline.com/100-local-processing-of-cocoa-beans-achievable-but-requires-political-will-dr-opoku-gakpo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T05:53:00.000Z",
+      "summary": "Agricultural analyst Dr Joseph Opoku Gakpo says the government’s plan to ensure 100 per cent of Ghana’s raw cocoa beans are processed locally by 2030 is achievable, provided it has strong…",
+      "categories": [
+        "National",
+        "Cocoa",
+        "Dr Opoku Gakpo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
@@ -47,6 +60,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T05:47:00.000Z",
       "summary": "The United Nations in Ghana has welcomed the decision to feature former UN Secretary-General Kofi Annan on the Bank of Ghana’s newly introduced GH¢100 banknote, describing it as recognition…",
       "categories": [
+        "HP News 9",
         "National",
         "News",
         "Kofi Annan",
@@ -75,6 +89,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T05:33:00.000Z",
       "summary": "President John Mahama says the government is prepared to engage the University Teachers Association of Ghana (UTAG) and the Ghana Tertiary Education Commission (GTEC) to resolve…",
       "categories": [
+        "HP News 3",
         "National",
         "GTEC",
         "Mahama",
@@ -117,19 +132,6 @@ window.GDC_PAPERS = {
       "summary": "Finance Minister Dr Cassiel Ato Forson has announced an allocation of GH¢17.6 billion to the local governance, chieftaincy and religious affairs sector in the 2027 Budget to support local…",
       "categories": [
         "National",
-        "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Capital expenditure to account for 26.4% of total spending in 2027 – Finance Minister",
-      "link": "https://www.myjoyonline.com/capital-expenditure-to-account-for-26-4-of-total-spending-in-2027-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:10:20.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced plans to prohibit commercial rice importation into Ghana by the end of 2030 as part of the government's strategy to boost local rice…",
-      "categories": [
-        "National",
-        "Capital",
         "Dr Cassiel Ato Forson"
       ],
       "site": "https://www.myjoyonline.com/"
