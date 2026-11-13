@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T19:46:00.921Z",
+  "updated": "2026-11-13T20:01:01.878Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nalerigu High Court bars five NDC members from regional elections",
+      "link": "https://www.myjoyonline.com/nalerigu-high-court-bars-five-ndc-members-from-regional-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T19:54:21.000Z",
+      "summary": "The High Court in Nalerigu has restrained five individuals, including disputed co-opted members of the National Democratic Congress (NDC) in the Nalerigu-Gambaga Constituency, from…",
+      "categories": [
+        "Regional",
+        "Nalerigu High Court",
+        "NDC members",
+        "Regional elections"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sam Jonah calls on Mahama to restore Gen Acheampong’s military rank, says Ghana must correct injustice of 1979 execution",
+      "link": "https://www.myjoyonline.com/sam-jonah-calls-on-mahama-to-restore-gen-acheampongs-military-rank-says-ghana-must-correct-injustice-of-1979-execution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T19:50:21.000Z",
+      "summary": "Business magnate and former AngloGold Ashanti Chairman, Sir Sam Jonah, has called on President John Mahama and the Ghana Armed Forces to restore the military rank of former Head of State…",
+      "categories": [
+        "National",
+        "Gen Acheampong",
+        "Mahama",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "No appeal: Odarteifio accepts vetting outcome in NDC Youth Organiser contest",
       "link": "https://www.graphic.com.gh/news/politics/no-appeal-odarteifio-accepts-vetting-outcome-in-ndc-youth-organiser-contest.html",
@@ -129,20 +157,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC Deputy Youth Organiser aspirant Daniel Niibi outlines plans to give Greater Accra youth a stronger voice",
-      "link": "https://www.myjoyonline.com/ndc-deputy-youth-organiser-aspirant-daniel-niibi-outlines-plans-to-give-greater-accra-youth-a-stronger-voice/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:41:01.000Z",
-      "summary": "Daniel Niibi Afotey Odai, an aspirant for the position of Deputy Youth Organiser of the National Democratic Congress (NDC) in the Greater Accra Region, has outlined a series of proposals…",
-      "categories": [
-        "Politics",
-        "Deputy youth organiser",
-        "Greater Accra",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Aduman SHS: Chaplain, ICT teacher remanded over alleged sodomy",
       "link": "https://www.graphic.com.gh/news/general-news/aduman-shs-chaplain-ict-teacher-remanded-over-alleged-sodomy.html",
       "source": "Daily Graphic",
@@ -152,19 +166,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Prophet Joseph Atarah releases new gospel single, ‘Formula’",
-      "link": "https://www.myjoyonline.com/prophet-joseph-atarah-releases-new-gospel-single-formula/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:31:08.000Z",
-      "summary": "Ghanaian gospel musician Prophet Joseph Atarah has released his latest single, Formula, urging believers to remain steadfast in their faith regardless of their circumstances",
-      "categories": [
-        "Music",
-        "formula",
-        "Prophet Joseph Atarah"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Nalerigu High Court restrains five co-opted NDC members from North East regional elections",
