@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T20:41:00.495Z",
+  "updated": "2026-11-13T21:01:00.026Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Politics is an investment, not vote-buying – Oti Regional Minister",
+      "link": "https://www.myjoyonline.com/politics-is-an-investment-not-vote-buying-oti-regional-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T20:54:55.000Z",
+      "summary": "The Oti Regional Minister, John Kwadwo Gyapong, has described electoral politics as an investment, saying that candidates spend money to mobilise support and participate in elections.",
+      "categories": [
+        "National",
+        "Oti Regional Minister",
+        "Politics",
+        "Vote-buying"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t should fund political parties to end ‘democracy for sale’ – Oti Regional Minister",
+      "link": "https://www.myjoyonline.com/govt-should-fund-political-parties-to-end-democracy-for-sale-oti-regional-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T20:53:55.000Z",
+      "summary": "The Oti Regional Minister, John Kwadwo Gyapong, has called on the government to provide financial support to political parties, saying that public funding would help address concerns about…",
+      "categories": [
+        "National",
+        "Democracy for sale",
+        "John Kwadwo Gyapong",
+        "Oti Regional Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Democracy Is Not For Sale: Dambai residents demand greater accountability, sensitisation to tackle vote-buying",
       "link": "https://www.myjoyonline.com/democracy-is-not-for-sale-dambai-residents-demand-greater-accountability-sensitisation-to-tackle-vote-buying/",
@@ -126,34 +154,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Day One ends on high note as patrons urged not to miss remaining days",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-one-ends-on-high-note-as-patrons-urged-not-to-miss-remaining-days/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T18:44:59.000Z",
-      "summary": "The first day of the Ecobank JoyBusiness SME Fair 2026 has ended at Ghud Park, Accra Mall, with an impressive showcase of Ghanaian businesses, products and services, as patrons are…",
-      "categories": [
-        "Events",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Patrons"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Electorates must reduce financial demands on politicians – Krachi East NDC spokesperson",
-      "link": "https://www.myjoyonline.com/electorates-must-reduce-financial-demands-on-politicians-krachi-east-ndc-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T18:34:15.000Z",
-      "summary": "Karachi East National Democratic Congress (NDC) Communications Officer, Peter Nlipah, has appealed to voters to reduce the financial demands they make on political aspirants, warning that…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Electorates",
-        "Politicians"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Aduman SHS: Chaplain, ICT teacher remanded over alleged sodomy",
