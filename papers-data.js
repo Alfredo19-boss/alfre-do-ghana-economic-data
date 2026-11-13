@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:05:24.358Z",
+  "updated": "2026-11-13T13:15:25.496Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Tongu Dredgers Association protests NAIMOS activities and destruction along Volta River",
+      "link": "https://www.myjoyonline.com/tongu-dredgers-association-protests-naimos-activities-and-destruction-along-volta-river/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:06:55.000Z",
+      "summary": "Members of the Tongu Dredgers Association have protested the National Anti-Illegal Mining Operations Secretariat’s (NAIMOS) activities, including the destruction of about 15 pieces of their…",
+      "categories": [
+        "Regional",
+        "National Anti-Illegal Mining Operations Secretariat's (NAIMOS)",
+        "Tongu Dredgers Association"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Removal of Big 6 from cedi notes politically motivated; NPP must restore the images in future – Musah Superior",
       "link": "https://www.myjoyonline.com/removal-of-big-6-from-cedi-notes-politically-motivated-npp-must-restore-the-images-in-future-musah-superior/",
       "source": "MyJoyOnline",
       "published": "2026-11-13T12:57:54.000Z",
       "summary": "Former Tamale Metropolitan Chief Executive, Iddrisu Musah Superior, has described the removal of the Big Six from Ghana’s redesigned banknotes as politically motivated, arguing that the…",
       "categories": [
+        "HP News 5",
         "National",
         "News",
         "Politics",
@@ -77,6 +91,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Amin Adam questions cedi’s value despite reported US$1.2bn forex intervention",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-reported-us1-2bn-forex-intervention/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:41:23.000Z",
+      "summary": "Former Finance Minister and Ranking Member of Parliament’s Finance Committee, Dr Mohammed Amin Adam, has questioned the impact of the government’s foreign exchange interventions, arguing…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amin Adam questions cedi’s value despite alleged US$1.2bn forex intervention",
       "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-alleged-us1-2bn-forex-intervention/",
       "source": "MyJoyOnline",
@@ -101,33 +128,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Ato Forson",
         "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson touts commercial agriculture as key to tackling youth unemployment",
-      "link": "https://www.myjoyonline.com/ato-forson-touts-commercial-agriculture-as-key-to-tackling-youth-unemployment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:24:26.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has described commercial agriculture as a major opportunity for tackling youth unemployment, saying large-scale farming could generate significant…",
-      "categories": [
-        "News",
-        "Agriculture",
-        "Ato Forson",
-        "Unemployment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Presidential staffer Beatrice Annan endorses Dr Sammy Ayeh for NDC’s Deputy National Communications Officer role",
-      "link": "https://www.myjoyonline.com/presidential-staffer-beatrice-annan-endorses-dr-sammy-ayeh-for-ndcs-deputy-national-communications-officer-role/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:23:07.000Z",
-      "summary": "Presidential Staffer Beatrice Annan has endorsed Dr Sammy Ayeh’s bid to become the Deputy National Communications Officer of the National Democratic Congress (NDC), expressing confidence in…",
-      "categories": [
-        "Politics",
-        "Beatrice Annan",
-        "Dr Sammy Ayeh"
       ],
       "site": "https://www.myjoyonline.com/"
     },

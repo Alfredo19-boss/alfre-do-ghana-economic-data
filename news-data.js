@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:04:53.602Z",
+  "updated": "2026-11-13T13:14:54.659Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "Ghana’s BRICS Partnership Could Open New Export Markets, But Local Businesses Face Competitiveness Test",
+      "link": "https://thehighstreetjournal.com/ghanas-brics-partnership-could-open-new-export-markets-but-local-businesses-face-competitiveness-test/",
+      "source": "The High Street Journal",
+      "published": "2026-11-13T13:12:00.000Z",
+      "summary": "Ghana's proposed BRICS partnership could diversify export markets and attract investment, but local businesses need stronger production capacity, competitive pricing and international…"
+    },
     {
       "title": "Ghana-Canada Trade Rises to US$752 Million as Both Countries Pursue Closer Economic Ties",
       "link": "https://thehighstreetjournal.com/ghana-canada-trade-rises-to-us752-million-as-both-countries-pursue-closer-economic-ties/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T08:18:54.000Z",
       "summary": "The Vice President, Professor Jane Naana Opoku-Agyemang, joined the CEO of the Ghana Enterprises Agency (GEA), Ms Margaret Ansei, at the opening of the 5th Ghana Women Entrepreneurship…"
-    },
-    {
-      "title": "Ghana eyes $10.5 trillion non-interest market as three banks seek licences",
-      "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-eyes-10-5-trillion-non-interest-market-as-three-banks-seek-licences/",
-      "source": "Ghana Business News",
-      "published": "2026-11-11T07:01:45.000Z",
-      "summary": "Ghana is positioning itself to tap into the fast-growing global non-interest finance market, projected to reach $10.5 trillion by 2030, as three banks apply to operate non-interest banking…"
     }
   ]
 };
