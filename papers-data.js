@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T12:05:24.340Z",
+  "updated": "2026-11-13T12:15:24.887Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Health Ministry calls for expanded neonatal care services",
+      "link": "https://www.myjoyonline.com/health-ministry-calls-for-expanded-neonatal-care-services/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:09:56.000Z",
+      "summary": "The Deputy Minister of Health, Prof. Dr Grace Ayensu-Danquah, has called for greater investment in neonatal healthcare and comprehensive follow-up services to improve the survival and…",
+      "categories": [
+        "International",
+        "National",
+        "Health Ministry",
+        "Neonatal care"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A Nation Must Never Become A Prisoner Of Its Political History: The dangerous politics of erasing our national heritage",
+      "link": "https://www.myjoyonline.com/a-nation-must-never-become-a-prisoner-of-its-political-history-the-dangerous-politics-of-erasing-our-national-heritage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:02:52.000Z",
+      "summary": "There is something fundamentally troubling about a government that appears more interested in reshaping the historical narrative of a nation than building upon the collective achievements…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Ghana cedi",
+        "Musah Superior",
+        "national heritage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘New Economy’ projects offer no immediate jobs for the youth – Amin Adam",
       "link": "https://www.myjoyonline.com/new-economy-projects-offer-no-immediate-jobs-for-the-youth-amin-adam/",
@@ -104,35 +133,6 @@ window.GDC_PAPERS = {
         "2027 Budget workshop",
         "Majority Leader James Agalga",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African countries urged to turn brain drain into brain circulation",
-      "link": "https://www.myjoyonline.com/african-countries-urged-to-turn-brain-drain-into-brain-circulation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:48:56.000Z",
-      "summary": "African countries have been urged to harness the expertise of their citizens in the diaspora to strengthen higher education, research and innovation on the continent.",
-      "categories": [
-        "National",
-        "African countries",
-        "George K.T. Oduro",
-        "Technical Advisor to Ghana's Minister of Education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority says it has identified conflicting figures in the 2027 budget",
-      "link": "https://www.myjoyonline.com/minority-says-it-has-identified-conflicting-figures-in-the-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:48:14.000Z",
-      "summary": "The Minority in Parliament has accused the government of presenting inconsistent figures in the 2027 budget, raising questions about the reliability and clarity of some of the financial…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "2027 Budget",
-        "Amin Adam",
-        "Minority"
       ],
       "site": "https://www.myjoyonline.com/"
     },
