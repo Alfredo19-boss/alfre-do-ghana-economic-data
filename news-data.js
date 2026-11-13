@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T03:05:49.845Z",
+  "updated": "2026-11-13T03:35:58.105Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Telecel Cash launches E-wallet and Telecel Shop to advance digital commerce",
+      "link": "https://www.myjoyonline.com/telecel-cash-launches-e-wallet-and-telecel-shop-to-advance-digital-commerce/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:21:00.000Z",
+      "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App."
+    },
+    {
+      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
+      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:06:00.000Z",
+      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…"
+    },
     {
       "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
       "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T17:45:24.000Z",
       "summary": "Volta youth want the 2027 Budget to reduce business taxes, import duties and electricity costs while expanding affordable credit, arguing that lower operating costs could support enterprise…"
-    },
-    {
-      "title": "OPEC Chief Says Electrification Will Sustain Demand for Oil-Based Products",
-      "link": "https://thehighstreetjournal.com/opec-chief-urges-electrification/",
-      "source": "The High Street Journal",
-      "published": "2026-11-10T17:40:00.000Z",
-      "summary": "The expansion of electrification would require more plastics, polymers, cables, chargers and other materials made from petroleum"
-    },
-    {
-      "title": "Jospong Group showcases Ghanaian waste management solutions at COP31 in Türkiye",
-      "link": "https://www.myjoyonline.com/jospong-group-showcases-ghanaian-waste-management-solutions-at-cop31-in-turkiye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:38:04.000Z",
-      "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye…"
     }
   ]
 };

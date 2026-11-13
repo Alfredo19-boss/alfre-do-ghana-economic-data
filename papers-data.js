@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T03:06:21.852Z",
+  "updated": "2026-11-13T03:36:30.584Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,10 +34,53 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Telecel Cash launches E-wallet and Telecel Shop to advance digital commerce",
+      "link": "https://www.myjoyonline.com/telecel-cash-launches-e-wallet-and-telecel-shop-to-advance-digital-commerce/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:21:00.000Z",
+      "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App.",
+      "categories": [
+        "Telecom",
+        "Telecel Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
+      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:06:00.000Z",
+      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "News",
+        "2027 Budget",
+        "Cocoa",
+        "Dangote",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NHIS quiz: Young people are powerful agents of change —NHIA Deputy CEO",
+      "link": "https://www.myjoyonline.com/nhis-quiz-young-people-are-powerful-agents-of-change-nhia-deputy-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:05:00.000Z",
+      "summary": "The Deputy CEO in charge of Administration and Human Resources at the National Health Insurance Authority (NHIA), has called on students to become ambassadors of the National Health…",
+      "categories": [
+        "Education",
+        "National",
+        "NHIS Quiz",
+        "Raphael Segkpeb"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
       "link": "https://www.myjoyonline.com/microsoft-struggling-to-restore-service-as-global-outage-affects-outlook-and-teams/",
       "source": "MyJoyOnline",
-      "published": "2026-11-13T01:30:00.000Z",
+      "published": "2026-11-13T01:44:00.000Z",
       "summary": "Microsoft is struggling to fix a major global outage of its service that is reportedly affecting tens of thousands of users.",
       "categories": [
         "International",
@@ -92,35 +135,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Recruitment stampede: Military rejects claims it abandoned injured victim, cites GH¢143,800 support",
-      "link": "https://www.myjoyonline.com/recruitment-stampede-military-rejects-claims-it-abandoned-injured-victim-cites-gh%c2%a2143800-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T23:23:00.000Z",
-      "summary": "The Ghana Armed Forces (GAF) has rejected suggestions that it has abandoned Sandra Baafi Boateng, one of the victims of the military recruitment stampede at the Baba Yara Sports Stadium in…",
-      "categories": [
-        "HP News 10",
-        "News",
-        "GAF",
-        "Ghana",
-        "Ghana Armed Forces",
-        "Military"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority caucus demands jobs and recruitment funding, challenges call for patience",
-      "link": "https://www.myjoyonline.com/minority-caucus-demands-jobs-and-recruitment-funding-challenges-call-for-patience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T23:20:42.000Z",
-      "summary": "The Minority caucus has demanded clear funding for jobs and public-sector recruitment, rejecting the government’s appeal for patience after presenting the 2027 Budget.",
-      "categories": [
-        "Politics",
-        "2027 Budget",
-        "Minority Caucus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Cloudflare brings WebRTC broadcasting out of beta",
       "link": "https://ghanaiantimes.com.gh/cloudflare-brings-webrtc-broadcasting-out-of-beta/",
       "source": "Ghanaian Times",
@@ -141,22 +155,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "[Video] Ato Forson breaks down 2027 Budget on JoyNews’ PM Express",
-      "link": "https://www.myjoyonline.com/live-ato-forson-breaks-down-2027-budget-on-joynews-pm-express/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T22:57:00.000Z",
-      "summary": "Finance Minister, Dr Cassiel Ato Forson, has explained the key policies, spending priorities and economic measures contained in the 2027 Budget on JoyNews’ PM Express.",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "2027 Budget",
-        "Economy",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GH¢900m set aside for district elections, constitutional referendum in 2027",
