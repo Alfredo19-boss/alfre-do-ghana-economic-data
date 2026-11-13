@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T21:11:01.503Z",
+  "updated": "2026-11-13T21:31:01.065Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Manso Keniago Chief challenges NAIMOS to prove alleged shooting that killed six",
+      "link": "https://www.myjoyonline.com/manso-keniago-chief-challenges-naimos-to-prove-alleged-shooting-that-killed-six/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:27:06.000Z",
+      "summary": "The Chief of Manso Keniago in the Amansie West District has challenged the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to provide evidence of the alleged attack on its men…",
+      "categories": [
+        "National",
+        "Manso Keniago",
+        "NAIMOS",
+        "Nana Obeng Mensah Ababio"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Photos from ‘Democracy Is Not for Sale’ dialogue in Oti Region",
       "link": "https://www.myjoyonline.com/photos-from-democracy-is-not-for-sale-dialogue-in-oti-region/",
@@ -129,20 +143,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawumia pledges to make agriculture a national security priority",
-      "link": "https://www.myjoyonline.com/bawumia-pledges-to-make-agriculture-a-national-security-priority/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T19:32:25.000Z",
-      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has pledged to make agriculture a national security priority if elected President, citing challenges facing rice farmers and the…",
-      "categories": [
-        "Politics",
-        "Agriculture",
-        "Bawumia",
-        "National Security"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Nursing and Midwifery Council inducts 33,698 nurses and midwives, warns social media misuse could cost licences",
