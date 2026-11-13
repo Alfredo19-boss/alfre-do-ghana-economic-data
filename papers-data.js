@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T01:24:16.521Z",
+  "updated": "2026-11-13T01:41:21.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:29:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes.",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
       "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
@@ -139,19 +153,6 @@ window.GDC_PAPERS = {
         "Politics",
         "2027 Budget",
         "Minority Caucus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
-      "link": "https://www.myjoyonline.com/fourteen-dead-after-truck-loses-control-in-23-vehicle-crash-in-uae/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:39:52.000Z",
-      "summary": "Fourteen people have been killed and dozens injured after a truck driver lost control and hit several vehicles in Fujairah, in the United Arab Emirates (UAE), the interior ministry has said.",
-      "categories": [
-        "International",
-        "truck loses control",
-        "UAE"
       ],
       "site": "https://www.myjoyonline.com/"
     },

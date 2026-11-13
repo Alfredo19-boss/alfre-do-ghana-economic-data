@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T01:23:45.625Z",
+  "updated": "2026-11-13T01:40:50.476Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T00:29:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes."
+    },
     {
       "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
       "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:30:22.000Z",
       "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…"
-    },
-    {
-      "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
-      "link": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:26:41.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
     }
   ]
 };
