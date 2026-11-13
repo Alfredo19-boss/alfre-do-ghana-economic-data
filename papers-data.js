@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T07:11:20.924Z",
+  "updated": "2026-11-13T07:21:22.455Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+      "link": "https://ghanaiantimes.com.gh/eswatini-gives-illegal-foreign-businesses-12-months-to-leave/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T07:15:42.000Z",
+      "summary": "BUSINESSES owned by Asian nationals are being closed across Eswatini as the government cracks down on foreign-owned enterprises. The crackdown follows Parliament’s approval of the Citizen…",
+      "categories": [
+        "Africa",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ArchXenus calls for better-planned residential communities …Marks 15th anniversary",
+      "link": "https://ghanaiantimes.com.gh/archxenus-calls-for-better-planned-residential-communities-marks-15th-anniversary/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T07:12:58.000Z",
+      "summary": "GHANAIAN-OWNED architectural firm, ArchXenus, has called for a shift towards high-density residential development, improved urban infrastructure and increased participation of women in…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana steps up campaign for ITU Council, Radio Regulations Board seats",
+      "link": "https://www.myjoyonline.com/ghana-steps-up-campaign-for-itu-council-radio-regulations-board-seats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T07:10:30.000Z",
+      "summary": "Ghana has stepped up diplomatic engagements to secure positions on two key governing and regulatory bodies of the International Telecommunication Union (ITU), holding talks with six…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Sam George"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s borders need more than technology",
       "link": "https://ghanaiantimes.com.gh/ghanas-borders-need-more-than-technology/",
@@ -87,18 +123,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bloody clash at Manso Keniago…3 residents dead, 2 military personnel injured",
-      "link": "https://ghanaiantimes.com.gh/bloody-clash-at-manso-keniago3-residents-dead-2-military-personnel-injured/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T06:16:13.000Z",
-      "summary": "AT least three people have been confirmed dead following a confrontation between local residents and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -209,30 +233,6 @@ window.GDC_PAPERS = {
         "Poultry"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson says Ghana’s economic recovery must translate into better living standards for citizens",
-      "link": "https://www.myjoyonline.com/ato-forson-says-ghanas-economic-recovery-must-translate-into-better-living-standards-for-citizens/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:12:27.000Z",
-      "summary": "Finance Minister, Dr Cassiel Ato Forson, has said the next phase of government's economic reset programme will focus on ensuring that the gains from economic stabilisation translate into…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale urges youth to shun drug abuse, recounts friends’ ruined lives",
-      "link": "https://ghanaiantimes.com.gh/shatta-wale-urges-youth-to-shun-drug-abuse-recounts-friends-ruined-lives/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T04:48:18.000Z",
-      "summary": "DANCEHALL artiste Charles Nii Armah Mensah, popularly known as Shatta Wale, has cautioned the youth against drug abuse and peer pressure, recounting how substance addiction has destroyed…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
