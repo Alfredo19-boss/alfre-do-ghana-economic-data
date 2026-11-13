@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:30:25.785Z",
+  "updated": "2026-11-13T13:35:28.030Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority accuses gov’t of misleading Ghanaians with ‘no new taxes’ claim in 2027 budget",
+      "link": "https://www.myjoyonline.com/minority-accuses-govt-of-misleading-ghanaians-with-no-new-taxes-claim-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:27:23.000Z",
+      "summary": "The Minority has accused the government of presenting a misleading picture of its tax policy by repeatedly insisting that the 2027 Budget introduces no new taxes while projecting a sharp…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "African CSOs rally behind AGN Chair as Africa pushes climate finance priorities at COP31",
       "link": "https://www.myjoyonline.com/african-csos-rally-behind-agn-chair-as-africa-pushes-climate-finance-priorities-at-cop31/",
@@ -119,17 +134,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Amin Adam questions cedi’s value despite reported US$1.2bn forex intervention",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-cedis-value-despite-reported-us1-2bn-forex-intervention/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:41:23.000Z",
-      "summary": "Former Finance Minister and Ranking Member of Parliament’s Finance Committee, Dr Mohammed Amin Adam, has questioned the impact of the government’s foreign exchange interventions, arguing…",
+      "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
+      "link": "https://www.graphic.com.gh/news/general-news/bog-board-member-beatrice-annan-provides-clarification-on-ghc50-note-and-theodosia-okoh-portrait.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T12:30:35.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Amin Adam",
-        "Minority"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "What Decides a West African Protection Claim",
@@ -216,17 +229,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Medical students advised to cultivate intellectual curiosity",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-medical-students-advised-to-cultivate-intellectual-curiosity.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:46:59.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
