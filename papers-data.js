@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:55:27.597Z",
+  "updated": "2026-11-13T14:00:25.189Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES processes 347 salary arrears cases for 2024 recruited teachers; 119 staff ID applications unverified",
+      "link": "https://www.myjoyonline.com/ges-processes-347-salary-arrears-cases-for-2024-recruited-teachers-119-staff-id-applications-unverified/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:53:00.000Z",
+      "summary": "The Ghana Education Service (GES) says it has successfully processed 347 salary arrears cases involving teachers recruited in 2024 and forwarded them to the Controller and…",
+      "categories": [
+        "Education",
+        "HP News 10",
+        "National",
+        "GES",
+        "staff ID applications"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority demands BoG Governor’s appearance over new cedi notes and Theodosia Okoh portrait controversy",
       "link": "https://www.myjoyonline.com/minority-demands-bog-governors-appearance-over-new-cedi-notes-and-theodosia-okoh-portrait-controversy/",
@@ -121,20 +136,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Ato Forson",
         "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African CSOs rally behind AGN Chair as Africa pushes climate finance priorities at COP31",
-      "link": "https://www.myjoyonline.com/african-csos-rally-behind-agn-chair-as-africa-pushes-climate-finance-priorities-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:23:42.000Z",
-      "summary": "African civil society organisations (CSOs) have commended the leadership of the African Group of Negotiators on Climate Change (AGN) for advancing the continent's priorities at the ongoing…",
-      "categories": [
-        "National",
-        "African CSOs",
-        "Climate Finance",
-        "COP31"
       ],
       "site": "https://www.myjoyonline.com/"
     },
