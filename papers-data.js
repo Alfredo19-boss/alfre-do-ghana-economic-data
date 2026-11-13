@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T21:01:00.026Z",
+  "updated": "2026-11-13T21:11:01.503Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Photos from ‘Democracy Is Not for Sale’ dialogue in Oti Region",
+      "link": "https://www.myjoyonline.com/photos-from-democracy-is-not-for-sale-dialogue-in-oti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T21:01:27.000Z",
+      "summary": "JoyNews has taken its Democracy Is Not for Sale dialogue to Dambai in the Oti Region, bringing together stakeholders and members of the public to examine the growing influence of money in…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Democracy Is Not For Sale",
+        "Oti Region"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Politics is an investment, not vote-buying – Oti Regional Minister",
       "link": "https://www.myjoyonline.com/politics-is-an-investment-not-vote-buying-oti-regional-minister/",
@@ -82,6 +96,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T19:54:21.000Z",
       "summary": "The High Court in Nalerigu has restrained five individuals, including disputed co-opted members of the National Democratic Congress (NDC) in the Nalerigu-Gambaga Constituency, from…",
       "categories": [
+        "HP News 2",
         "Regional",
         "Nalerigu High Court",
         "NDC members",
@@ -97,6 +112,7 @@ window.GDC_PAPERS = {
       "summary": "Business magnate and former AngloGold Ashanti Chairman, Sir Sam Jonah, has called on President John Mahama and the Ghana Armed Forces to restore the military rank of former Head of State…",
       "categories": [
         "National",
+        "Top Story",
         "Gen Acheampong",
         "Mahama",
         "Sam Jonah"
@@ -125,22 +141,6 @@ window.GDC_PAPERS = {
         "Agriculture",
         "Bawumia",
         "National Security"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Human rights and Democratic futures: Reflections from West and Central Africa",
-      "link": "https://www.myjoyonline.com/human-rights-and-democratic-futures-reflections-from-west-and-central-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T19:11:20.000Z",
-      "summary": "There is a fundamental question confronting the human rights movement in Africa today: How do we defend human rights in societies where many citizens increasingly question whether…",
-      "categories": [
-        "Africa",
-        "Opinion",
-        "Central Africa",
-        "Democracy",
-        "Human rights",
-        "West Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
