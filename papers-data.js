@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T14:20:25.132Z",
+  "updated": "2026-11-13T14:25:27.136Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "link": "https://www.myjoyonline.com/nigerian-university-in-mourning-after-four-students-die-at-post-exam-party/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T14:19:48.000Z",
+      "summary": "Four Nigerian students have died after attending a party in the south-eastern town of Nsukka to celebrate the end of their final exams.",
+      "categories": [
+        "Africa",
+        "International",
+        "Nsukka",
+        "post-exam party",
+        "University of Nigeria"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
       "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
@@ -121,20 +136,6 @@ window.GDC_PAPERS = {
         "Ghana Police Service",
         "Muntaka Mohammed-Mubarak",
         "New York Police Department"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Premature babies need more than survival – Deputy Health Minister",
-      "link": "https://www.myjoyonline.com/premature-babies-need-more-than-survival-deputy-health-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:56:26.000Z",
-      "summary": "The Deputy Minister of Health, Professor Dr Grace Ayensu-Danquah, has called for increased investment in neonatal healthcare and stronger follow-up services to ensure premature babies…",
-      "categories": [
-        "Health",
-        "National",
-        "Premature babies",
-        "Professor Dr Grace Ayensu-Danquah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
