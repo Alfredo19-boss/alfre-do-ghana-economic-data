@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T03:45:52.720Z",
+  "updated": "2026-11-13T04:05:56.968Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Taking back 1% of GDP in 2027 won’t harm economy – Ato Forson",
+      "link": "https://www.myjoyonline.com/taking-back-1-of-gdp-in-2027-wont-harm-economy-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T03:10:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson defended plans to take back 1% of GDP in fiscal savings in 2027, arguing the government exceeded its earlier primary surplus target to restore…"
+    },
     {
       "title": "NaBCo and YEA models cannot deliver lasting jobs – Ato Forson",
       "link": "https://www.myjoyonline.com/nabco-and-yea-models-cannot-deliver-lasting-jobs-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:57:17.000Z",
       "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…"
-    },
-    {
-      "title": "Ghana’s lithium future: Will local communities get a fair share?",
-      "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:51:03.000Z",
-      "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T03:46:24.626Z",
+  "updated": "2026-11-13T04:06:27.825Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,32 @@ window.GDC_PAPERS = {
         "International",
         "Kill",
         "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Taking back 1% of GDP in 2027 won’t harm economy – Ato Forson",
+      "link": "https://www.myjoyonline.com/taking-back-1-of-gdp-in-2027-wont-harm-economy-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T03:10:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson defended plans to take back 1% of GDP in fiscal savings in 2027, arguing the government exceeded its earlier primary surplus target to restore…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lyon conference highlights Morocco’s role in Euro-African Cooperation Dynamics",
+      "link": "https://www.myjoyonline.com/lyon-conference-highlights-moroccos-role-in-euro-african-cooperation-dynamics/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T02:49:00.000Z",
+      "summary": "A conference held Tuesday in Lyon highlighted Morocco’s growing role in Euro-African cooperation and the prospects for a strategic partnership between Rabat and Paris.",
+      "categories": [
+        "Africa",
+        "Morocco"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -97,37 +123,6 @@ window.GDC_PAPERS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T00:29:00.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes.",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
-      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:17:00.000Z",
-      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "News",
-        "2027 Budget",
-        "Cocoa",
-        "Dangote",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:05:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…",
       "categories": [
         "Economy",
         "National",
