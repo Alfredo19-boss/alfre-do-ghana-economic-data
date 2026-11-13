@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T10:45:07.652Z",
+  "updated": "2026-11-13T11:25:24.062Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 520)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 kicks off at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:18:34.000Z",
+      "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…"
+    },
     {
       "title": "UN Welcomes Kofi Annan’s Recognition On New GH¢100 Banknote",
       "link": "https://thehighstreetjournal.com/un-welcomes-kofi-annans-recognition-on-new-gh%c2%a2100-banknote/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:05:03.000Z",
       "summary": "Dr. Kwabena Donkor wants Bui Power to reduce electricity tariffs to 6–7 US cents per kWh, arguing that repaid investment costs and improved efficiency should deliver cheaper power to drive…"
-    },
-    {
-      "title": "2027 Budget Must Back Irrigation and Drought Preparedness as El Niño Threatens Farms",
-      "link": "https://thehighstreetjournal.com/2027-budget-must-back-irrigation-and-drought-preparedness-as-el-nino-threatens-farms/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T05:05:00.000Z",
-      "summary": "Government faces calls to prioritise irrigation, drought-resistant seeds, water management and food reserves in the 2027 Budget as El Niño threatens agricultural production and food…"
     }
   ]
 };

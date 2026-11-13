@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T10:45:25.407Z",
+  "updated": "2026-11-13T11:25:27.174Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,69 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "What Decides a West African Protection Claim",
+      "link": "https://ghanaiantimes.com.gh/what-decides-a-west-african-protection-claim/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T11:23:37.000Z",
+      "summary": "When a protection claim from West Africa reaches a tribunal in London or an immigration court in the United States, the hearing rarely turns on whether the applicant is telling the truth…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prof. Bokpin urges gov’t to use PPPs to fund major road projects and free up resources for social infrastructure",
+      "link": "https://www.myjoyonline.com/prof-bokpin-urges-govt-to-use-ppps-to-fund-major-road-projects-and-free-up-resources-for-social-infrastructure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:19:20.000Z",
+      "summary": "Professor of Finance and Economics at the University of Ghana Business School, Prof. Godfred Bokpin, has urged the government to adopt Public-Private Partnerships (PPPs) to finance major…",
+      "categories": [
+        "National",
+        "Public-Private Partnerships (PPPs)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t has not abandoned PPPs; it seeks to fast-track projects before private sector participation – Theo Acheampong",
+      "link": "https://www.myjoyonline.com/govt-has-not-abandoned-ppps-it-seeks-to-fast-track-projects-before-private-sector-participation-theo-acheampong/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:18:53.000Z",
+      "summary": "Technical Advisor to the Finance Minister, Dr Theophilus Acheampong, has dismissed suggestions that the government is moving away from Public-Private Partnerships (PPPs), explaining that…",
+      "categories": [
+        "National",
+        "Projects",
+        "Public-Private Partnerships"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 kicks off at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T11:18:34.000Z",
+      "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…",
+      "categories": [
+        "Events",
+        "National",
+        "News",
+        "Top Story",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Ghud Park"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "See the 4 men left in the race for NDC Chairman as 23 aspirants fall at vetting",
+      "link": "https://www.graphic.com.gh/news/politics/see-the-4-men-left-in-the-race-for-ndc-chairman-as-23-aspirants-fall-at-vetting.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T11:16:26.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "link": "https://www.graphic.com.gh/news/health/millions-of-ebola-dollars-missing-with-staff-unpaid-while-virus-spreads-charity-says.html",
@@ -127,17 +190,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Govt pushes for local production of polymer bitumen to end import dependence - Roads Minister says",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-pushes-for-local-production-of-polymer-bitumen-to-end-import-dependence-roads-minister-says.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T09:34:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "AFCON 2027Q: Alagidede ‘angry’ with Tanko and Attram over decision not to play home-based players against Somalia",
       "link": "https://www.myjoyonline.com/afcon-2027q-alagidede-angry-with-tanko-and-attram-over-decision-not-to-play-home-based-players-against-somalia/",
       "source": "MyJoyOnline",
@@ -235,17 +287,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Man Utd sack Carrick after disastrous start to season",
-      "link": "https://ghanaiantimes.com.gh/man-utd-sack-carrick-after-disastrous-start-to-season/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T08:36:07.000Z",
-      "summary": "Michael Carrick was fired by Manchester United yesterday after overseeing the 20-time English champion’s worst start to a Premier League season, with U.S. men’s coach Mauricio Pochettino a…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Today’s front pages: Friday, November 13, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-13-2026/",
       "source": "MyJoyOnline",
@@ -276,56 +317,6 @@ window.GDC_PAPERS = {
         "Ivory Coast",
         "Somalia",
         "The Gambia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We can be more intense – Interim Black Stars coach",
-      "link": "https://www.myjoyonline.com/we-can-be-more-intense-interim-black-stars-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T07:52:37.000Z",
-      "summary": "Interim Ghana coach Kim Lars Björkegren has said the team needs to be more intense when they face Somalia again on Monday. The Black Stars secured a 2-0 win over Somalia in a Group C Africa…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "AFCON Qualifiers",
-        "AFCON27Q",
-        "Black Stars",
-        "Ghana",
-        "Kim Lars Björkegren",
-        "Mohammed Kudus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana steps up campaign for ITU Council, Radio Regulations Board seats",
-      "link": "https://www.myjoyonline.com/ghana-steps-up-campaign-for-itu-council-radio-regulations-board-seats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T07:10:30.000Z",
-      "summary": "Ghana has stepped up diplomatic engagements to secure positions on two key governing and regulatory bodies of the International Telecommunication Union (ITU), holding talks with six…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Sam George"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Permanent Black Stars job is not a question for me – Interim coach",
-      "link": "https://www.myjoyonline.com/permanent-black-stars-job-is-not-a-question-for-me-interim-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T06:03:20.000Z",
-      "summary": "Black Stars interim coach Kim Lars Björkegren says securing the permanent Ghana coaching position is not his immediate concern, insisting his responsibility is to help the team win matches…",
-      "categories": [
-        "Football",
-        "HP News 5",
-        "HP Sports 1",
-        "Afcon 2027",
-        "Black Stars",
-        "Black Stars Coach",
-        "Kim Lars Björkegren"
       ],
       "site": "https://www.myjoyonline.com/"
     }
