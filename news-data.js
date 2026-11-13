@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T13:14:54.659Z",
+  "updated": "2026-11-13T13:24:55.028Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,6 +34,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T12:30:00.000Z",
       "summary": "Trade between Ghana and Canada climbed 56 per cent in 2025, with both countries now seeking deeper cooperation in investment, industrial development and technology."
+    },
+    {
+      "title": "Ato Forson touts commercial agriculture as key to tackling youth unemployment",
+      "link": "https://www.myjoyonline.com/ato-forson-touts-commercial-agriculture-as-key-to-tackling-youth-unemployment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T12:24:26.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has described commercial agriculture as a major opportunity for tackling youth unemployment, saying large-scale farming could generate significant…"
     },
     {
       "title": "The Rice Revolution: Total Import Ban by 2030, Quota in 2027 & Compulsory Purchase By Gov’t Institutions",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T08:59:56.000Z",
       "summary": "Ghana’s agricultural sector could benefit from an anticipated decline in global fertilizer prices in 2027, potentially easing input cost pressures on farmers and supporting food production…"
-    },
-    {
-      "title": "Vice President joins GEA CEO Margaret Ansei to promote SMEs at GWES ‘26",
-      "link": "https://www.myjoyonline.com/vice-president-joins-gea-ceo-margaret-ansei-to-promote-smes-at-gwes-26/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:18:54.000Z",
-      "summary": "The Vice President, Professor Jane Naana Opoku-Agyemang, joined the CEO of the Ghana Enterprises Agency (GEA), Ms Margaret Ansei, at the opening of the 5th Ghana Women Entrepreneurship…"
     }
   ]
 };

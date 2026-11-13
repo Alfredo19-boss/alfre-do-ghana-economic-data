@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T13:15:25.496Z",
+  "updated": "2026-11-13T13:25:24.508Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "New Economy offers no immediate jobs for Ghanaians – Amin Adam",
+      "link": "https://www.myjoyonline.com/new-economy-offers-no-immediate-jobs-for-ghanaians-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T13:14:45.000Z",
+      "summary": "The Minority has criticised the government's New Economy programme, arguing that its employment promises are largely long-term and will do little to address the immediate demand for jobs…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Ghanaians",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Tongu Dredgers Association protests NAIMOS activities and destruction along Volta River",
       "link": "https://www.myjoyonline.com/tongu-dredgers-association-protests-naimos-activities-and-destruction-along-volta-river/",
@@ -40,7 +54,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T12:57:54.000Z",
       "summary": "Former Tamale Metropolitan Chief Executive, Iddrisu Musah Superior, has described the removal of the Big Six from Ghana’s redesigned banknotes as politically motivated, arguing that the…",
       "categories": [
-        "HP News 5",
+        "HP News 1",
         "National",
         "News",
         "Politics",
@@ -112,21 +126,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Amin Adam",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢61bn interest payments threaten funding for development – Minority",
-      "link": "https://www.myjoyonline.com/gh%c2%a261bn-interest-payments-threaten-funding-for-development-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:34:51.000Z",
-      "summary": "The Minority has raised concerns about Ghana’s projected GH¢61 billion interest payments in 2027, warning that the cost of servicing public debt is limiting the resources available for…",
-      "categories": [
-        "National",
-        "News",
-        "Amin Adam",
-        "Ato Forson",
         "Minority"
       ],
       "site": "https://www.myjoyonline.com/"
