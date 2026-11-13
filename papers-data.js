@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T19:26:00.742Z",
+  "updated": "2026-11-13T19:46:00.921Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "No appeal: Odarteifio accepts vetting outcome in NDC Youth Organiser contest",
+      "link": "https://www.graphic.com.gh/news/politics/no-appeal-odarteifio-accepts-vetting-outcome-in-ndc-youth-organiser-contest.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-13T19:36:08.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bawumia pledges to make agriculture a national security priority",
+      "link": "https://www.myjoyonline.com/bawumia-pledges-to-make-agriculture-a-national-security-priority/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T19:32:25.000Z",
+      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has pledged to make agriculture a national security priority if elected President, citing challenges facing rice farmers and the…",
+      "categories": [
+        "Politics",
+        "Agriculture",
+        "Bawumia",
+        "National Security"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Human rights and Democratic futures: Reflections from West and Central Africa",
       "link": "https://www.myjoyonline.com/human-rights-and-democratic-futures-reflections-from-west-and-central-africa/",
@@ -138,19 +163,6 @@ window.GDC_PAPERS = {
         "Music",
         "formula",
         "Prophet Joseph Atarah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Playback: Democracy Is Not For Sale in Dambai",
-      "link": "https://www.myjoyonline.com/playback-democracy-is-not-for-sale-in-dambai/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T17:20:57.000Z",
-      "summary": "Democracy Is Not For Sale is underway in Dambai. Watch livestream below:",
-      "categories": [
-        "National",
-        "Democracy Is Not For Sale",
-        "JoyNews"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -286,17 +298,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/beauty-narteh-becomes-first-african-woman-to-chair-global-uncac-coalition.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T15:29:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama swears in 7-member Labour Commission led by Justice Duose (FULL LIST)",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-7-member-labour-commission-led-by-justice-duose-full-list.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T15:03:38.000Z",
       "summary": "",
       "categories": [
         "General News"
