@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T04:41:22.837Z",
+  "updated": "2026-11-13T04:51:21.797Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Shatta Wale urges youth to shun drug abuse, recounts friends’ ruined lives",
+      "link": "https://ghanaiantimes.com.gh/shatta-wale-urges-youth-to-shun-drug-abuse-recounts-friends-ruined-lives/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T04:48:18.000Z",
+      "summary": "DANCEHALL artiste Charles Nii Armah Mensah, popularly known as Shatta Wale, has cautioned the youth against drug abuse and peer pressure, recounting how substance addiction has destroyed…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Do you want me to crash the country?’ – Ato Forson asks critics demanding huge spending",
+      "link": "https://www.myjoyonline.com/do-you-want-me-to-crash-the-country-ato-forson-asks-critics-demanding-huge-spending/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:41:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has defended the government’s expenditure record, saying a substantial part of available public funds is going towards settling inherited debts and…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "News",
+        "Ato Forson",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IJM Ghana donates mattresses, appliances to support human trafficking survivors",
+      "link": "https://www.myjoyonline.com/ijm-ghana-donates-mattresses-appliances-to-support-human-trafficking-survivors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:39:00.000Z",
+      "summary": "The International Justice Mission (IJM) Ghana has donated mattresses and household appliances to the Human Trafficking Female Adult Shelter operated under the Ministry of Gender, Children…",
+      "categories": [
+        "National",
+        "Dr Agnes Naa Momo Lartey",
+        "Gender Ministry",
+        "IJM Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
       "link": "https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/",
@@ -75,6 +115,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "‘Come and buy our cocoa beans, but add value here in Ghana’ – Forson",
+      "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:25:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has urged international cocoa buyers to process beans in Ghana, as the government pursues plans to increase local processing to 50% by 2028 and 100%…",
+      "categories": [
+        "Agribusiness",
+        "HP News 6",
+        "National",
+        "2027 Budget",
+        "Cocoa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana-Canada trade rises 56% to $752m in 2025 – Deputy Trade Minister",
       "link": "https://www.myjoyonline.com/ghana-canada-trade-rises-56-to-752m-in-2025-deputy-trade-minister/",
       "source": "MyJoyOnline",
@@ -98,46 +153,6 @@ window.GDC_PAPERS = {
         "National",
         "2027 Budget",
         "Unemployment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
-      "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:46:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has credited an aggressive fiscal adjustment programme with stabilising Ghana’s economy in two years, saying the government deliberately exceeded its…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US doctor kills building manager after long-running dispute over mould, police say",
-      "link": "https://www.myjoyonline.com/us-doctor-kills-building-manager-after-long-running-dispute-over-mould-police-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:35:37.000Z",
-      "summary": "A doctor who had been in an ongoing dispute over mould and other issues at his Washington DC apartment fatally shot his building's manager and fired at four others before killing himself…",
-      "categories": [
-        "International",
-        "Kill",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We saved more; now we must tackle jobs – Ato Forson defends 2027 shift",
-      "link": "https://www.myjoyonline.com/we-saved-more-now-we-must-tackle-jobs-ato-forson-defends-2027-shift/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:28:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson defended the government’s shift to job creation in 2027, arguing that stronger-than-required fiscal savings have created room to tackle youth…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Job Creation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -294,18 +309,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T16:55:55.000Z",
       "summary": "President John Dramani Mahama says the newly launched Ghana Heritage Series banknotes will help promote the country’s history and culture to both Ghanaians and visitors. He described the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prez Mahama launches new Ghana heritage series banknotes",
-      "link": "https://ghanaiantimes.com.gh/prez-mahama-launches-new-ghana-heritage-series-banknotes/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T16:53:10.000Z",
-      "summary": "President John Dramani Mahama has officially launched the Ghana Heritage Series banknotes, introducing a redesigned set of cedi notes expected to last longer than the existing ones. The…",
       "categories": [
         "Hot!",
         "News"

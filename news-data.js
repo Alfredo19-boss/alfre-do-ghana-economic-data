@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-13T04:40:49.772Z",
+  "updated": "2026-11-13T04:50:51.595Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘Come and buy our cocoa beans, but add value here in Ghana’ – Forson",
+      "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T04:25:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has urged international cocoa buyers to process beans in Ghana, as the government pursues plans to increase local processing to 50% by 2028 and 100%…"
+    },
     {
       "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
       "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T18:10:48.000Z",
       "summary": "Developing countries increased external borrowing to US$9.4 trillion in 2025, but record interest costs and rising repayments threaten to reduce resources for infrastructure, public…"
-    },
-    {
-      "title": "Policy implementation gap undermining West African trade integration- GSA",
-      "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:03:33.000Z",
-      "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and…"
     }
   ]
 };
