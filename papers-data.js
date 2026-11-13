@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T06:41:21.166Z",
+  "updated": "2026-11-13T06:51:21.405Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cardinal Dery’s face on GH¢2 note honours legacy of human development",
+      "link": "https://ghanaiantimes.com.gh/cardinal-derys-face-on-gh%c2%a22-note-honours-legacy-of-human-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-13T06:48:00.000Z",
+      "summary": "THE appearance of the late Servant of God, Peter Cardinal Porekuu Dery, on Ghana’s new GH¢2 banknote is a fitting national tribute to a religious leader whose work helped advance education…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "A new face for Ghana Cedi • Heritage Series honours icons, landmarks, national values",
       "link": "https://ghanaiantimes.com.gh/a-new-face-for-ghana-cedi-heritage-series-honours-icons-landmarks-national-values/",
@@ -64,6 +76,7 @@ window.GDC_PAPERS = {
       "summary": "Black Stars interim coach Kim Lars Björkegren says securing the permanent Ghana coaching position is not his immediate concern, insisting his responsibility is to help the team win matches…",
       "categories": [
         "Football",
+        "HP News 5",
         "HP Sports 1",
         "Afcon 2027",
         "Black Stars",
@@ -304,18 +317,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-12T17:05:41.000Z",
       "summary": "Management of the Ghana Education Service (GES) has interdicted two staff members of Aduman Senior High School over alleged sexual misconduct against a male student. The teachers are Mr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ministry of Health warns public against fake Mercy Ships fundraising campaign on TV",
-      "link": "https://ghanaiantimes.com.gh/ministry-of-health-warns-public-against-fake-mercy-ships-fundraising-campaign-on-tv/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-12T17:04:05.000Z",
-      "summary": "The Ministry of Health has cautioned the public against a fraudulent fundraising campaign being aired on Ghanaian televisions, which falsely solicits money to support patients seeking…",
       "categories": [
         "Hot!",
         "News"
