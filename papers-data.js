@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T03:50:19.246Z",
+  "updated": "2026-11-14T04:00:15.667Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "After 26 years, the US has lost its measles elimination status",
+      "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T01:49:00.000Z",
+      "summary": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
+      "categories": [
+        "International",
+        "Health",
+        "Measles",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
       "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
@@ -129,19 +143,6 @@ window.GDC_PAPERS = {
         "Dr Baah-Nuakoh",
         "Repositioning University Sports as a Driver of Institutional Excellence and National Development",
         "Universities"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government begins billboard crackdown Saturday",
-      "link": "https://www.myjoyonline.com/government-begins-billboard-crackdown-saturday/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:46:56.000Z",
-      "summary": "The government will, from Saturday, November 14, begin a nationwide billboard inspection and enforcement exercise, with structures found to be in breach of prescribed standards and…",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Billboard"
       ],
       "site": "https://www.myjoyonline.com/"
     },
