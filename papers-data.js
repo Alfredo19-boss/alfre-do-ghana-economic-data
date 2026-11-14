@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T15:46:53.953Z",
+  "updated": "2026-11-14T15:56:51.918Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,17 @@ window.GDC_PAPERS = {
         "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government pledges 66-seater bus, GH¢250m GETFund support as Mfantsipim marks 150 years",
+      "link": "https://www.graphic.com.gh/news/general-news/government-pledges-66-seater-bus-ghc250m-getfund-support-as-mfantsipim-marks-150-years.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T15:39:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Surgeon Dr Dakurah enters NPP parliamentary race in Nadowli-Kaleo",
@@ -211,17 +222,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'You didn't even tell your best friend'. The complications from childbirth that never go away",
-      "link": "https://www.graphic.com.gh/news/health/you-didnt-even-tell-your-best-friend-the-complications-from-childbirth-that-never-go-away.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T11:00:13.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
       ],
       "site": "https://www.graphic.com.gh/"
     },
