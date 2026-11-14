@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T22:23:59.445Z",
+  "updated": "2026-11-14T22:39:00.515Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
+      "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T22:35:32.000Z",
+      "summary": "Tanzania, Lesotho and Uganda have shared how they are expanding clean cooking at home, as leaders at COP31 warned that most of the money promised to help Africa make the switch is yet to…",
+      "categories": [
+        "Energy",
+        "Clean cooking",
+        "Lesotho",
+        "Tanzania",
+        "Uganda"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Danso topples Ashie Moore to take NDC Greater Accra chairmanship",
       "link": "https://www.graphic.com.gh/news/politics/danso-topples-ashie-moore-to-take-ndc-greater-accra-chairmanship.html",
@@ -166,20 +181,6 @@ window.GDC_PAPERS = {
         "Acheampong",
         "Sam Jonah",
         "Yentua"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam Jonah calls for honest reassessment of General I.K. Acheampong’s leadership",
-      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-honest-reassessment-of-general-i-k-acheampongs-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:05:52.000Z",
-      "summary": "Business leader and University of Cape Coast Chancellor Sir Sam Jonah has called for a fresh and balanced examination of the leadership of former Head of State General Ignatius Kutu…",
-      "categories": [
-        "National",
-        "General Acheampong",
-        "Leadership",
-        "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },

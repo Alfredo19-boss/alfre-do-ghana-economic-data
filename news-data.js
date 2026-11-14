@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T22:23:27.616Z",
+  "updated": "2026-11-14T22:38:28.335Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
+      "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T22:35:32.000Z",
+      "summary": "Tanzania, Lesotho and Uganda have shared how they are expanding clean cooking at home, as leaders at COP31 warned that most of the money promised to help Africa make the switch is yet to…"
+    },
     {
       "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
       "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana News Agency",
       "published": "2026-11-11T23:40:34.000Z",
       "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "L’AÎNÉ Foundation calls on entrepreneurs to build sustainable businesses that create jobs",
-      "link": "https://www.myjoyonline.com/laine-foundation-calls-on-entrepreneurs-to-build-sustainable-businesses-that-create-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:59:00.000Z",
-      "summary": "L’AÎNÉ Foundation, the corporate social responsibility arm of L’AÎNÉ HR, has called on entrepreneurs in Ghana to build sustainable businesses that go beyond profitability to create jobs…"
     }
   ]
 };
