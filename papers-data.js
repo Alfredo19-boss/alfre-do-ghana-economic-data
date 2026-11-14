@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T16:46:51.501Z",
+  "updated": "2026-11-14T16:56:49.392Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Tight security at NDC Ashanti Regional Delegates’ Congress",
+      "link": "https://www.myjoyonline.com/tight-security-at-ndc-ashanti-regional-delegates-congress/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:49:11.000Z",
+      "summary": "The Ashanti Regional Delegates’ Congress of the National Democratic Congress (NDC) has opened under tight security at the Baba Yara Sports Stadium in Kumasi.",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Ashanti Region",
+        "Delegates’ Congress",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Catholic Bishops’ Conference raises concerns over indiscipline and alleged sexual abuse in schools",
       "link": "https://www.myjoyonline.com/catholic-bishops-conference-raises-concerns-over-indiscipline-and-alleged-sexual-abuse-in-schools/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T16:39:26.000Z",
       "summary": "The Ghana Catholic Bishops’ Conference has called for investigations into allegations of sexual abuse of minors by adults entrusted with their care in schools, describing the reports as…",
       "categories": [
+        "HP News 9",
         "National",
         "Catholic Bishops",
         "Indiscipline"
@@ -133,21 +149,6 @@ window.GDC_PAPERS = {
         "National",
         "Asante Kotoko",
         "Asante Kotoko Ladies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi Sexual Abuse Case: No teacher will be shielded if evidence proves wrongdoing – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/obuasi-sexual-abuse-case-no-teacher-will-be-shielded-if-evidence-proves-wrongdoing-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T14:23:02.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has assured that no teacher implicated in the allegations of sexual misconduct at Obuasi Senior High School (SHS) will be shielded from…",
-      "categories": [
-        "Education",
-        "HP News 3",
-        "National",
-        "Haruna Iddrisu",
-        "Obuasi SHTS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
