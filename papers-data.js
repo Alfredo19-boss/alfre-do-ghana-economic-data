@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T05:56:46.461Z",
+  "updated": "2026-11-14T06:06:45.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -78,6 +78,31 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "GRA arrests China Mall officials in E-VAT crackdown",
+      "link": "https://www.myjoyonline.com/gra-arrests-china-mall-officials-in-e-vat-crackdown/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T02:02:53.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has arrested officials of three China Mall branches after undercover checks allegedly revealed sales transactions that were kept off its approved…",
+      "categories": [
+        "News",
+        "China Mall",
+        "VAT"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim’s red-and-black uniform: How student indiscipline created a school identity",
+      "link": "https://www.myjoyonline.com/mfantsipims-red-and-black-uniform-how-student-indiscipline-created-a-school-identity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T01:57:14.000Z",
+      "summary": "Mfantsipim",
+      "categories": [
+        "Education",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "After 26 years, the US has lost its measles elimination status",
       "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
       "source": "MyJoyOnline",
@@ -101,33 +126,6 @@ window.GDC_PAPERS = {
         "News",
         "BNI",
         "introrrogation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana targets homegrown AI solutions, not rivalry with US, China – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghana-targets-homegrown-ai-solutions-not-rivalry-with-us-china-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T01:14:00.000Z",
-      "summary": "Ghana is looking to develop artificial intelligence (AI) tools that solve local problems rather than compete with the advanced technology industries of the United States and China, Finance…",
-      "categories": [
-        "News",
-        "AI",
-        "China",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
-      "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T01:11:00.000Z",
-      "summary": "The Ghana Police Service and road safety agencies have commenced processes for the installation of large advance warning signboards across key road corridors to alert motorists to the…",
-      "categories": [
-        "National",
-        "News",
-        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
