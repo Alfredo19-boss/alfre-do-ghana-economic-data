@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T20:34:57.927Z",
+  "updated": "2026-11-14T20:44:57.340Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Lali X Lola, King Jerry energise vendors at Ecobank JoyBusiness SME Fair as they turn to the dance floor",
+      "link": "https://www.myjoyonline.com/lali-x-lola-king-jerry-energise-vendors-at-ecobank-joybusiness-sme-fair-as-they-turn-to-the-dance-floor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:43:35.000Z",
+      "summary": "The second day of the Ecobank JoyBusiness SME Fair 2026 ended amid music, dancing and excitement as Ghanaian music acts Lali X Lola and King Jerry treated patrons to lively performances…"
+    },
     {
       "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
       "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T22:18:00.000Z",
       "summary": "Nvidia board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with ​a suspected Chinese spy, the Wall Street Journal reported ‌on Wednesday, citing…"
-    },
-    {
-      "title": "2027 Budget should protect fiscal credibility, direct scarce public resources towards productive capacity – KPMG Boss",
-      "link": "https://www.myjoyonline.com/2027-budget-should-protect-fiscal-credibility-direct-scarce-public-resources-towards-productive-capacity-kpmg-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:19:39.000Z",
-      "summary": "Highlighting his expectations of the 2027 Budget, Mr. Akoto said Ghana enters the 2027 budget cycle from a stronger macroeconomic position, with growth remaining firm and inflation…"
     }
   ]
 };
