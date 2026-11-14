@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T08:56:15.282Z",
+  "updated": "2026-11-14T09:06:34.279Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -17,10 +17,17 @@ window.GDC_NEWS = {
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Over 80% of Gov’t Judgement Claims in Foreign Currencies, Posing Exchange Rate Risks",
+      "link": "https://thehighstreetjournal.com/over-80-of-govt-judgement-claims-in-foreign-currencies-posing-exchange-rate-risks/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T09:00:11.000Z",
+      "summary": "Finance Minister Ato Forson says over 80% of government judgement claims are foreign currency-denominated, exposing public finances to additional exchange-rate risks."
+    },
     {
       "title": "BoG Explains Differences in Theodosia Okoh’s GH₵50 Portrait, Citing Artistic Adjustments",
       "link": "https://thehighstreetjournal.com/bog-explains-differences-in-theodosia-okohs-gh%e2%82%b550-portrait-citing-artistic-adjustments/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T15:58:05.000Z",
       "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR…"
-    },
-    {
-      "title": "71% want jobs and youth employment prioritised in 2027 Budget – KPMG/UNDP survey",
-      "link": "https://www.myjoyonline.com/71-want-jobs-and-youth-employment-prioritised-in-2027-budget-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:42:09.000Z",
-      "summary": "More than seven in 10 respondents want job creation and youth employment prioritised in Ghana’s 2027 Budget, according to a survey conducted by KPMG and the United Nations Development…"
     }
   ]
 };

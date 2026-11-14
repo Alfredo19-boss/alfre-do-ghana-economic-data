@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:56:45.532Z",
+  "updated": "2026-11-14T09:07:05.416Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sir Sam Jonah: Acheampong is an 'Orphan of Ghana's politics'",
+      "link": "https://www.graphic.com.gh/news/politics/sir-sam-jonah-acheampong-is-an-orphan-of-ghanas-politics.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:03:48.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ghana news Climate change: Salaga North MP plans youth initiative to tackle deforestation",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-climate-change-salaga-north-mp-plans-youth-initiative-to-tackle-deforestation.html",
@@ -38,7 +49,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T08:32:01.000Z",
       "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, November 14, examine the government’s fight against illegal mining, recent drug trafficking operations and the key…",
       "categories": [
-        "HP News 3",
+        "HP News 2",
         "National",
         "Newsfile"
       ],
@@ -220,17 +231,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/nursing-and-midwifery-council-inducts-33-698-nurses-and-midwives-warns-social-media-misuse-could-cost-licences.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T18:48:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA intercepts smuggled goods concealed under okro powder",
-      "link": "https://www.graphic.com.gh/news/general-news/gra-intercepts-smuggled-goods-concealed-under-okro-powder.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T18:36:41.000Z",
       "summary": "",
       "categories": [
         "General News"
