@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T14:47:09.209Z",
+  "updated": "2026-11-14T14:57:08.445Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Surgeon Dr Dakurah enters NPP parliamentary race in Nadowli-Kaleo",
+      "link": "https://www.myjoyonline.com/surgeon-dr-dakurah-enters-npp-parliamentary-race-in-nadowli-kaleo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T14:46:09.000Z",
+      "summary": "A surgeon, Dr Justine Dakurah, has declared his intention to contest the New Patriotic Party's (NPP) parliamentary primary in the Nadowli-Kaleo Constituency of the Upper West Region.",
+      "categories": [
+        "HP News 6",
+        "Politics",
+        "Dr Justine Dakurah",
+        "Nadowli-Kaleo Constituency",
+        "NPP Parliamentary Primaries"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kotoko board unveil Asante Kotoko Ladies for 2026/27 season",
       "link": "https://www.myjoyonline.com/kotoko-board-unveil-asante-kotoko-ladies-for-2026-27-season/",
@@ -153,21 +168,6 @@ window.GDC_PAPERS = {
         "Kasoa",
         "Konongo",
         "Robbery"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim @ 150: Gov’t to build 10 model SHSs, upgrade 30 Category B schools – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/mfantsipim-150-govt-to-build-10-model-shss-upgrade-30-category-b-schools-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:14:42.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has announced plans by the government to construct 10 new model senior high schools across the country and upgrade 30 Category B schools to the…",
-      "categories": [
-        "Education",
-        "HP News 8",
-        "National",
-        "Haruna Iddrisu",
-        "Mfantsipim @ 150"
       ],
       "site": "https://www.myjoyonline.com/"
     },
