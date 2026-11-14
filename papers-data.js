@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:17:09.469Z",
+  "updated": "2026-11-14T12:27:09.040Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama, Akufo-Addo, Otumfuo expected at Agogo Manhene’s funeral",
+      "link": "https://www.myjoyonline.com/mahama-akufo-addo-otumfuo-expected-at-agogo-manhenes-funeral/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:22:36.000Z",
+      "summary": "President John Dramani Mahama, former President Nana Addo Dankwa Akufo-Addo and Asantehene Otumfuo Osei Tutu II are among prominent dignitaries expected at the final funeral rites of the…",
+      "categories": [
+        "News",
+        "Agogo",
+        "Akufo-Addo",
+        "Mahama",
+        "Otumfuo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "28 aspirants, 412 delegates: Bono NDC gears up for high-stakes regional election",
+      "link": "https://www.graphic.com.gh/news/politics/28-aspirants-412-delegates-bono-ndc-gears-up-for-high-stakes-regional-election.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T12:21:21.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
       "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
@@ -149,21 +175,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Petrol tipped to fall 8.23%, but LPG faces 21% jump – COMAC",
-      "link": "https://www.myjoyonline.com/petrol-tipped-to-fall-8-23-but-lpg-faces-21-jump-comac/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T10:37:18.000Z",
-      "summary": "Petrol prices could fall by up to 8.23% from November 16, 2026, while diesel prices are also expected to decline, according to the Chamber of Oil Marketing Companies (COMAC).",
-      "categories": [
-        "Energy",
-        "National",
-        "COMAC",
-        "LPG",
-        "Petrol prices"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Cardinal Mines urges women to prioritise breast health",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cardinal-mines-urges-women-to-prioritise-breast-health.html",
       "source": "Daily Graphic",
@@ -212,17 +223,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-presents-111-vehicles-to-bni.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:47:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2027 Budget: Social protection allocated GH¢2.26 billion",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-social-protection-allocated-ghc2-26-billion.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:40:47.000Z",
       "summary": "",
       "categories": [
         "General News"
