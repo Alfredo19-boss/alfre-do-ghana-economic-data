@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:10:28.091Z",
+  "updated": "2026-11-14T20:25:27.681Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "21-year-old Ghanaian Thomas Oduro stabbed to death in North London",
+      "link": "https://www.myjoyonline.com/21-year-old-ghanaian-thomas-oduro-stabbed-to-death-in-north-london/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:19:47.000Z",
+      "summary": "A 21-year-old man, identified as Thomas Oduro, has been killed in a stabbing incident in Haringey, north London.",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "London",
+        "Thomas Oduro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Alhaji Bolnaba wins another term as NDC Upper East Regional Chairman",
       "link": "https://www.myjoyonline.com/alhaji-bolnaba-wins-another-term-as-ndc-upper-east-regional-chairman/",
@@ -122,6 +137,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T18:31:27.000Z",
       "summary": "Godfred Apasinaba Wumbei, popularly known as Yellow Man, has been elected Northern Regional Chairman of the National Democratic Congress (NDC), securing 328 votes in the party's regional…",
       "categories": [
+        "HP News 2",
         "News",
         "Politics",
         "Regional",
@@ -144,23 +160,6 @@ window.GDC_PAPERS = {
         "audit recommendations",
         "Auditor-General",
         "e-tracking system"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkrumah secured political freedom; Mahama will deliver economic freedom – Gyakye Quayson",
-      "link": "https://www.myjoyonline.com/nkrumah-secured-political-freedom-mahama-will-deliver-economic-freedom-gyakye-quayson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:58:18.000Z",
-      "summary": "Deputy Foreign Affairs Minister and Assin North MP James Gyakye Quayson says President John Dramani Mahama has an opportunity to build on Ghana’s political independence by securing economic…",
-      "categories": [
-        "HP News 2",
-        "HP News 7",
-        "National",
-        "Politics",
-        "economic freedom",
-        "Gyakye Quayson",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
