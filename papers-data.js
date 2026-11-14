@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T07:36:46.317Z",
+  "updated": "2026-11-14T07:56:46.390Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -60,6 +60,17 @@ window.GDC_PAPERS = {
         "Police"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC clears 98 for national executive race",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ndc-clears-98-for-national-executive-race.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T05:42:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Asiedu Nketia satisfied with NDC legacy as he prepares to exit chairmanship",
@@ -217,17 +228,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Drive to Inspire-Africa empowers 20 new scholars with Sonne scholarships",
-      "link": "https://www.graphic.com.gh/news/education/drive-to-inspire-africa-empowers-20-new-scholars-with-sonne-scholarships.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T16:37:06.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
