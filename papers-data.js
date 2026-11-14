@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T13:07:08.605Z",
+  "updated": "2026-11-14T13:17:08.327Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mfantsipim @ 150: Gov’t to build 10 model SHSs, upgrade 30 Category B schools – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/mfantsipim-150-govt-to-build-10-model-shss-upgrade-30-category-b-schools-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:14:42.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has announced plans by the government to construct 10 new model senior high schools across the country and upgrade 30 Category B schools to the…",
+      "categories": [
+        "Education",
+        "National",
+        "Haruna Iddrisu",
+        "Mfantsipim @ 150"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Day Two kicks off with exciting bargains, irresistible deals at Ghud Park",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-two-kicks-off-with-exciting-bargains-irresistible-deals-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:11:53.000Z",
+      "summary": "The shopping excitement is back, the bargains are calling and the opportunities to discover Ghanaian-made products are getting even bigger as Day Two of the Ecobank JoyBusiness SME Fair…",
+      "categories": [
+        "Business",
+        "Events",
+        "HP Business 1",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Ghud Park"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister promises Mfantsipim School a 66-seater bus as part of its 150th anniversary celebration",
+      "link": "https://www.myjoyonline.com/education-minister-promises-mfantsipim-school-a-66-seater-bus-as-part-of-its-150th-anniversary-celebration/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:05:04.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has pledged to provide Mfantsipim School with a 66-seater bus as part of activities marking the institution’s 150th anniversary.",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "National",
+        "Haruna Iddrisu",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Haruna Iddrisu promises Mfantsipim School a 66-seater bus as part of 150th anniversary",
       "link": "https://www.myjoyonline.com/haruna-iddrisu-promises-mfantsipim-school-a-66-seater-bus-as-part-of-150th-anniversary/",
@@ -98,25 +143,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Education",
         "Events",
-        "HP News 5",
-        "National",
-        "Regional",
-        "Asantehene",
-        "Cape Coast",
-        "Mfantsipim 150th anniversary",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Osabarimba Kwesi Atta welcomes Asantehene to Cape Coast ahead of Mfantsipim@150",
-      "link": "https://www.myjoyonline.com/photos-osabarimba-kwesi-atta-welcomes-asantehene-to-cape-coast-ahead-of-mfantsipim150/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:35:15.000Z",
-      "summary": "The Paramount Chief of the Oguaa Traditional Area, Osabarimba Kwesi Atta, has welcomed the Asantehene, Otumfuo Osei Tutu II, to the Emintsimadze Palace in Cape Coast ahead of Mfantsipim…",
-      "categories": [
-        "Education",
-        "Events",
+        "HP News 8",
         "National",
         "Regional",
         "Asantehene",
@@ -138,21 +165,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Mahama, Akufo-Addo, Otumfuo expected at Agogo Manhene’s funeral",
-      "link": "https://www.myjoyonline.com/mahama-akufo-addo-otumfuo-expected-at-agogo-manhenes-funeral/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:22:36.000Z",
-      "summary": "President John Dramani Mahama, former President Nana Addo Dankwa Akufo-Addo and Asantehene Otumfuo Osei Tutu II are among prominent dignitaries expected at the final funeral rites of the…",
-      "categories": [
-        "News",
-        "Agogo",
-        "Akufo-Addo",
-        "Mahama",
-        "Otumfuo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "28 aspirants, 412 delegates: Bono NDC gears up for high-stakes regional election",
       "link": "https://www.graphic.com.gh/news/politics/28-aspirants-412-delegates-bono-ndc-gears-up-for-high-stakes-regional-election.html",
       "source": "Daily Graphic",
@@ -162,23 +174,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
-      "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:12:54.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 opened at GHUD Park, Accra Mall, bringing together an impressive collection of Ghanaian businesses, established brands, entrepreneurs and service…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP Business 2",
-        "HP News 2",
-        "National",
-        "News",
-        "Ecobank JoyBusiness SME Fair 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Translate research into resilient food systems – FATAS conference told",

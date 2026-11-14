@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T13:06:39.443Z",
+  "updated": "2026-11-14T13:16:38.314Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Day Two kicks off with exciting bargains, irresistible deals at Ghud Park",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-two-kicks-off-with-exciting-bargains-irresistible-deals-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:11:53.000Z",
+      "summary": "The shopping excitement is back, the bargains are calling and the opportunities to discover Ghanaian-made products are getting even bigger as Day Two of the Ecobank JoyBusiness SME Fair…"
+    },
     {
       "title": "Ghana Must Strengthen Domestic Revenue to Reduce Dependence on External Borrowing",
       "link": "https://thehighstreetjournal.com/ghana-must-strengthen-domestic-revenue-to-reduce-dependence-on-external-borrowing/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T18:16:44.000Z",
       "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality…"
-    },
-    {
-      "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
-      "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:08:51.000Z",
-      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
     }
   ]
 };
