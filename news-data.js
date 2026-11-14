@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T06:36:15.366Z",
+  "updated": "2026-11-14T06:46:14.834Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -24,6 +24,13 @@ window.GDC_NEWS = {
     {
       "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
       "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:25:02.000Z",
+      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
+    },
+    {
+      "title": "NPA reduces price floor for petrol to GH¢13.69, diesel to GH¢16.73",
+      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-diesel-to-gh%c2%a216-73/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T05:25:02.000Z",
       "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T15:22:37.000Z",
       "summary": "The Ghana Petroleum Commission (PC) has introduced a Digital Permit Application Platform to simplify regulatory processes, reduce delays, and improve business operations in Ghana’s upstream…"
-    },
-    {
-      "title": "Planet One opens new exploration frontier with offshore Ghana hydrocarbon discovery",
-      "link": "https://www.myjoyonline.com/planet-one-opens-new-exploration-frontier-with-offshore-ghana-hydrocarbon-discovery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:22:28.000Z",
-      "summary": "Planet One Oil & Gas has announced the discovery of hydrocarbons at its Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana."
     }
   ]
 };

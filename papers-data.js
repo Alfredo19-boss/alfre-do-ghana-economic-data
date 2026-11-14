@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T06:36:46.387Z",
+  "updated": "2026-11-14T06:46:45.647Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's reaction",
+      "link": "https://www.graphic.com.gh/news/general-news/portrait-of-theodosia-okoh-on-ghc50-was-developed-from-different-photos-and-not-her-sister-dr-leticia-obeng-bog.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T06:30:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Asiedu Nketia urges police to act against vote-buying in party elections",
       "link": "https://www.myjoyonline.com/asiedu-nketia-urges-police-to-act-against-vote-buying-in-party-elections/",
@@ -62,6 +73,25 @@ window.GDC_PAPERS = {
         "Asiedu Nketiah",
         "Ghana",
         "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPA reduces price floor for petrol to GH¢13.69, diesel to GH¢16.73",
+      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-diesel-to-gh%c2%a216-73/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:25:02.000Z",
+      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise",
+      "categories": [
+        "Business",
+        "Energy",
+        "COMAC",
+        "Crude Oil",
+        "Diesel",
+        "LPG",
+        "NPA",
+        "Petrol",
+        "price floor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -121,20 +151,6 @@ window.GDC_PAPERS = {
         "Health",
         "Measles",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Day 2 promises more shopping deals, networking and excitement",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-2-promises-more-shopping-deals-networking-and-excitement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T03:47:32.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 enters its second day on Saturday, November 14, with shoppers, families and business enthusiasts expected at Ghud Park, Accra Mall, to explore a wide…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "SME Fair"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -212,17 +228,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PAG flagbearer: 'We cannot build a new economy with old parties'",
-      "link": "https://www.graphic.com.gh/news/politics/pag-flagbearer-we-cannot-build-a-new-economy-with-old-parties.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T16:30:19.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     },
