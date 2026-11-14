@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T06:16:45.873Z",
+  "updated": "2026-11-14T06:26:46.172Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Asiedu Nketia urges police to act against vote-buying in party elections",
+      "link": "https://www.myjoyonline.com/asiedu-nketia-urges-police-to-act-against-vote-buying-in-party-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T06:07:45.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has urged the police and other security agencies to investigate and take appropriate action against…",
+      "categories": [
+        "News",
+        "Politics",
+        "Asiedu Nketiah",
+        "Elections",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
       "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
@@ -114,18 +129,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Uganda"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim’s red-and-black uniform: How student indiscipline created a school identity",
-      "link": "https://www.myjoyonline.com/mfantsipims-red-and-black-uniform-how-student-indiscipline-created-a-school-identity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T01:57:14.000Z",
-      "summary": "Mfantsipim",
-      "categories": [
-        "Education",
-        "Mfantsipim School"
       ],
       "site": "https://www.myjoyonline.com/"
     },
