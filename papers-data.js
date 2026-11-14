@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T15:56:51.918Z",
+  "updated": "2026-11-14T16:06:49.677Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -204,6 +204,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Planned power outage in Ashanti as GRIDCo upgrades Anwomaso-Ridge transmission line from November 16",
+      "link": "https://www.graphic.com.gh/news/general-news/planned-power-outage-in-ashanti-as-gridco-upgrades-anwomaso-ridge-transmission-line-from-november-16.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T12:25:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "28 aspirants, 412 delegates: Bono NDC gears up for high-stakes regional election",
       "link": "https://www.graphic.com.gh/news/politics/28-aspirants-412-delegates-bono-ndc-gears-up-for-high-stakes-regional-election.html",
       "source": "Daily Graphic",
@@ -211,17 +222,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Translate research into resilient food systems – FATAS conference told",
-      "link": "https://www.graphic.com.gh/news/general-news/translate-research-into-resilient-food-systems-fatas-conference-told.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T11:06:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
