@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:35:27.227Z",
+  "updated": "2026-11-14T21:40:27.618Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,43 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One arrested, Chairs destroyed as Northern NDC Treasurer results spark chaos",
+      "link": "https://www.graphic.com.gh/news/politics/one-arrested-chairs-destroyed-as-northern-ndc-treasurer-results-spark-chaos.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T21:34:03.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "ArchXenus marks 15 years with more than 140 projects, launches GeneXus",
+      "link": "https://www.myjoyonline.com/archxenus-marks-15-years-with-more-than-140-projects-launches-genexus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:33:24.000Z",
+      "summary": "Architecture firm ArchXenus has marked 15 years in practice with more than 140 projects, using its anniversary celebration to launch GeneXus, a book documenting 12 of its selected works…",
+      "categories": [
+        "Events",
+        "Technology",
+        "Architecture",
+        "Archxenus",
+        "Projects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bono East NDC Chairman Unas Owusu loses re-election bid to Ali Abubakari Donkor",
+      "link": "https://www.graphic.com.gh/news/politics/bono-east-ndc-chairman-unas-owusu-loses-re-election-bid-to-ali-abubakari-donkor.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T21:27:36.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
       "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
@@ -140,21 +177,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nana Kwasi retains Ashanti NDC chairmanship with 814 votes",
-      "link": "https://www.myjoyonline.com/nana-kwasi-retains-ashanti-ndc-chairmanship-with-814-votes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:45:21.000Z",
-      "summary": "Augustus Andrews Nana Kwasi has retained his position as Ashanti Regional Chairman of the National Democratic Congress (NDC) after defeating his challenger, Isham Alhassan Yaw Bonsu, in the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Politics",
-        "Ashanti NDC",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
       "source": "Daily Graphic",
@@ -206,28 +228,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government pledges 66-seater bus, GH¢250m GETFund support as Mfantsipim marks 150 years",
-      "link": "https://www.graphic.com.gh/news/general-news/government-pledges-66-seater-bus-ghc250m-getfund-support-as-mfantsipim-marks-150-years.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T15:39:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government to recruit 10,000 teachers, 2,000 non-teaching staff in 2027 – Haruna Iddrisu",
-      "link": "https://www.graphic.com.gh/news/education/government-to-recruit-10-000-teachers-2-000-non-teaching-staff-in-2027-haruna-iddrisu.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T14:08:22.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
