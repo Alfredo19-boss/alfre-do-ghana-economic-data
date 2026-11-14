@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T22:18:58.655Z",
+  "updated": "2026-11-14T22:23:59.445Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Danso topples Ashie Moore to take NDC Greater Accra chairmanship",
+      "link": "https://www.graphic.com.gh/news/politics/danso-topples-ashie-moore-to-take-ndc-greater-accra-chairmanship.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T22:20:55.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Daniel Niibi Afotey Odai elected NDC Greater Accra Deputy Youth Organiser",
       "link": "https://www.myjoyonline.com/daniel-niibi-afotey-odai-elected-ndc-greater-accra-deputy-youth-organiser/",
@@ -210,17 +221,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/inside-bnis-modernisation-drive-new-forensic-lab-interrogation-centre-and-111-vehicles-commissioned.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T17:21:46.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "All set for maiden Ahanta Fest UK in London",
-      "link": "https://www.graphic.com.gh/news/general-news/all-set-for-maiden-ahanta-fest-uk-in-london.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T16:28:52.000Z",
       "summary": "",
       "categories": [
         "General News"
