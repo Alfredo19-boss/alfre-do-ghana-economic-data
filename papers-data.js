@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T10:27:05.134Z",
+  "updated": "2026-11-14T10:37:04.773Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,7 +34,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Goalkeeper Owono banned for 12-matches after collision that caused Miguel’s death",
+      "title": "Goalkeeper Owono banned for 12 matches after collision that caused Miguel’s death",
       "link": "https://www.myjoyonline.com/goalkeeper-owono-banned-for-12-matches-after-collision-that-caused-miguels-death/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T10:11:06.000Z",
@@ -42,6 +42,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "HP Sports 3",
+        "News",
         "Jesus Owono"
       ],
       "site": "https://www.myjoyonline.com/"
