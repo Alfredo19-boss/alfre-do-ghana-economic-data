@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T18:10:27.708Z",
+  "updated": "2026-11-14T18:40:28.074Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Godfred Apasinaba Wumbei ‘Yellow Man’ wins NDC Northern Regional chairmanship with 328 votes",
+      "link": "https://www.myjoyonline.com/godfred-apasinaba-wumbei-yellow-man-wins-ndc-northern-regional-chairmanship-with-328-votes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T18:31:27.000Z",
+      "summary": "Godfred Apasinaba Wumbei, popularly known as Yellowman, has been elected Northern Regional Chairman of the National Democratic Congress (NDC), securing 328 votes in the party’s regional…",
+      "categories": [
+        "News",
+        "Politics",
+        "Regional",
+        "Chairman",
+        "NDC",
+        "Northern region",
+        "Yellowman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Auditor-General to introduce e-tracking system to monitor implementation of audit recommendations",
       "link": "https://www.myjoyonline.com/auditor-general-to-introduce-e-tracking-system-to-monitor-implementation-of-audit-recommendations/",
@@ -143,22 +160,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Minister appeals to Otumfuo to lead nationwide campaign against indiscipline in schools",
-      "link": "https://www.myjoyonline.com/education-minister-appeals-to-otumfuo-to-lead-nationwide-campaign-against-indiscipline-in-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:18:38.000Z",
-      "summary": "Minister for Education, Haruna Iddrisu, has called on the Asantehene, Otumfuo Osei Tutu II, to lead a nationwide campaign against growing indiscipline in schools, urging traditional rulers…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "indiscipline campaign",
-        "Otumfuo Osei Tutu II",
-        "schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "All set for maiden Ahanta Fest UK in London",
