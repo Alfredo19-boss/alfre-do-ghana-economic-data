@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T18:00:27.473Z",
+  "updated": "2026-11-14T18:10:27.708Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Auditor-General to introduce e-tracking system to monitor implementation of audit recommendations",
+      "link": "https://www.myjoyonline.com/auditor-general-to-introduce-e-tracking-system-to-monitor-implementation-of-audit-recommendations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T18:00:03.000Z",
+      "summary": "Ghana’s Auditor-General, Dr Pamela Graham, has announced plans to introduce an electronic tracking system to monitor the implementation of recommendations contained in the Auditor-General’s…",
+      "categories": [
+        "National",
+        "audit recommendations",
+        "Auditor-General",
+        "e-tracking system"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkrumah secured political freedom; Mahama will deliver economic freedom – Gyakye Quayson",
+      "link": "https://www.myjoyonline.com/nkrumah-secured-political-freedom-mahama-will-deliver-economic-freedom-gyakye-quayson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:58:18.000Z",
+      "summary": "Deputy Foreign Affairs Minister and Assin North MP James Gyakye Quayson says President John Dramani Mahama has an opportunity to build on Ghana’s political independence by securing economic…",
+      "categories": [
+        "National",
+        "Politics",
+        "economic freedom",
+        "Gyakye Quayson",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ken Ashigbey accuses politicians of frustrating galamsey enforcement",
       "link": "https://www.myjoyonline.com/ken-ashigbey-accuses-politicians-of-frustrating-galamsey-enforcement/",
@@ -128,34 +157,6 @@ window.GDC_PAPERS = {
         "indiscipline campaign",
         "Otumfuo Osei Tutu II",
         "schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President urges Mfantsipim to uphold founding values amid changing global demands",
-      "link": "https://www.myjoyonline.com/vice-president-urges-mfantsipim-to-uphold-founding-values-amid-changing-global-demands/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:11:25.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has urged Mfantsipim School to preserve the values established by its founders while preparing students to navigate the rapidly changing…",
-      "categories": [
-        "Education",
-        "National",
-        "Mfantsipim School",
-        "Professor Naana Jane Opoku-Agyemang"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim@150: Vice President Prof. Opoku-Agyemang urges stakeholders to sustain the school’s legacy",
-      "link": "https://www.myjoyonline.com/mfantsipim150-vice-president-prof-opoku-agyemang-urges-stakeholders-to-sustain-the-schools-legacy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:01:52.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has stressed that the continued success of Mfantsipim School depends on the collective commitment of teachers, school management, parents…",
-      "categories": [
-        "Education",
-        "National",
-        "Mfantsipim School",
-        "Naana Jane opoku-agyemang"
       ],
       "site": "https://www.myjoyonline.com/"
     },

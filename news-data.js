@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T17:59:57.404Z",
+  "updated": "2026-11-14T18:10:21.613Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana adopts first national standards for business development services",
+      "link": "https://gna.org.gh/2026/11/ghana-adopts-first-national-standards-for-business-development-services/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-14T18:08:56.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "Petroleum Commission Digitises Permit Applications to Cut Delays and Attract Upstream Investment",
       "link": "https://thehighstreetjournal.com/petroleum-commission-digitises-permit-applications-to-cut-delays-and-attract-upstream-investment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T21:16:04.000Z",
       "summary": "The factors that would encourage businesses to participate or invest in the 24-hour economy were access to finance, reliable and affordable utilities and tax incentives."
-    },
-    {
-      "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
-      "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:10:23.000Z",
-      "summary": "The survey highlights the combined effect of power interruptions, affordability and billing."
     }
   ]
 };
