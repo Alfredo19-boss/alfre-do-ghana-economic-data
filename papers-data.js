@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T07:56:46.390Z",
+  "updated": "2026-11-14T08:06:46.325Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank-Joy Business SME Fair 2026: Beads speak the language of love",
+      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-2026-beads-speak-the-language-of-love/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T08:02:36.000Z",
+      "summary": "The 2026 edition of the Ecobank-Joy Prime SME Fair, currently going on at Ghud Park, Accra Mall, is more exciting and revealing as well.",
+      "categories": [
+        "Arts and Culture",
+        "Photo Story",
+        "Beads",
+        "the Ecobank-Joy Prime SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's full explanation",
       "link": "https://www.graphic.com.gh/news/general-news/portrait-of-theodosia-okoh-on-ghc50-was-developed-from-different-photos-and-not-her-sister-dr-leticia-obeng-bog.html",
@@ -148,20 +162,6 @@ window.GDC_PAPERS = {
         "News",
         "China Mall",
         "VAT"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPA-backed 24-hour operations boost fuel discharge at Tema oil jetty",
-      "link": "https://www.myjoyonline.com/npa-backed-24-hour-operations-boost-fuel-discharge-at-tema-oil-jetty/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T04:12:00.000Z",
-      "summary": "Fuel discharge operations at the Tema oil jetty have increased following the introduction of round-the-clock berthing and unberthing of vessels, a move facilitated by the National Petroleum…",
-      "categories": [
-        "National",
-        "Edudzi Tameklo",
-        "NPA",
-        "Tema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
