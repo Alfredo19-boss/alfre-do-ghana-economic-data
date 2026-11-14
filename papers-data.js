@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T15:27:09.985Z",
+  "updated": "2026-11-14T15:46:53.953Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Operation Feed Yourself’ cut Ghana’s rice imports to zero in 1975 and 1976 – Sam Jonah",
+      "link": "https://www.myjoyonline.com/operation-feed-yourself-cut-ghanas-rice-imports-to-zero-in-1975-and-1976-sam-jonah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T15:42:41.000Z",
+      "summary": "Chancellor of the University of Cape Coast, Sir Sam Jonah, has credited the late General Ignatius Kutu Acheampong’s ‘Operation Feed Yourself’ with ending Ghana’s rice imports in 1975 and…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Rice",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Surgeon Dr Dakurah enters NPP parliamentary race in Nadowli-Kaleo",
       "link": "https://www.myjoyonline.com/surgeon-dr-dakurah-enters-npp-parliamentary-race-in-nadowli-kaleo/",
@@ -153,21 +167,6 @@ window.GDC_PAPERS = {
         "News",
         "Haruna Iddrisu",
         "Mfantsipim @ 150"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Robbery suspect who escaped from Konongo police custody arrested at Kasoa hideout",
-      "link": "https://www.myjoyonline.com/robbery-suspect-who-escaped-from-konongo-police-custody-arrested-at-kasoa-hideout/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:23:29.000Z",
-      "summary": "Police in Kasoa in the Central Region have recaptured Ibrahim Somaila, one of the suspects who escaped from police custody at Konongo, after a tip-off led officers to his hideout in the…",
-      "categories": [
-        "National",
-        "Regional",
-        "Kasoa",
-        "Konongo",
-        "Robbery"
       ],
       "site": "https://www.myjoyonline.com/"
     },
