@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T16:26:52.146Z",
+  "updated": "2026-11-14T16:36:50.690Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "link": "https://www.myjoyonline.com/hungarian-authorities-uncover-20m-during-probe-of-orban-era-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:36:03.000Z",
+      "summary": "Nearly $20m (£14.8m) in cash has been found hidden in farm buildings and buried in forests as part of an investigation into a former minister of Viktor Orbán, authorities have said.",
+      "categories": [
+        "International",
+        "Hungarian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "All set for maiden Ahanta Fest UK in London",
+      "link": "https://www.graphic.com.gh/news/general-news/all-set-for-maiden-ahanta-fest-uk-in-london.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T16:28:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.myjoyonline.com/us-has-floated-ukraine-ceding-donbas-for-nato-membership-zelensky-says/",
@@ -163,23 +186,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "ECG announces three-day planned power outage in parts of Ashanti Region for upgrade works",
-      "link": "https://www.myjoyonline.com/ecg-announces-three-day-planned-power-outage-in-parts-of-ashanti-region-for-upgrade-works/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:33:08.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has announced a three-day planned power outage in parts of the Ashanti Region to allow the Ghana Grid Company Limited (GRIDCo) to upgrade the…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Regional",
-        "Ashanti Region",
-        "GRIDCo",
-        "Transmission Line"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
       "source": "Daily Graphic",
@@ -191,21 +197,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Technical challenge causes power outage in parts of Accra West",
-      "link": "https://www.graphic.com.gh/news/general-news/technical-challenge-causes-power-outage-in-parts-of-accra-west.html",
+      "title": "Asiedu Nketiah to Police: Arrest anyone buying votes in NDC elections",
+      "link": "https://www.graphic.com.gh/news/politics/asiedu-nketiah-to-police-arrest-anyone-buying-votes-in-ndc-elections.html",
       "source": "Daily Graphic",
-      "published": "2026-11-14T12:28:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC Regional Elections: Voting underway in Northern and North East Regions",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-regional-elections-voting-underway-in-northern-and-north-east-regions.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T12:28:07.000Z",
+      "published": "2026-11-14T12:36:14.000Z",
       "summary": "",
       "categories": [
         "Politics"
@@ -213,10 +208,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Planned power outage in Ashanti as GRIDCo upgrades Anwomaso-Ridge transmission line from November 16",
-      "link": "https://www.graphic.com.gh/news/general-news/planned-power-outage-in-ashanti-as-gridco-upgrades-anwomaso-ridge-transmission-line-from-november-16.html",
+      "title": "ECG announces planned maintenance in Ashanti Region on November 17",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-announces-planned-maintenance-in-ashanti-region-on-november-17.html",
       "source": "Daily Graphic",
-      "published": "2026-11-14T12:25:27.000Z",
+      "published": "2026-11-14T12:31:17.000Z",
       "summary": "",
       "categories": [
         "General News"
