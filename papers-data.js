@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:37:08.686Z",
+  "updated": "2026-11-14T12:47:08.634Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,65 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
+      "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T12:44:10.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "KGL Foundation commits $2m to maintain Mfantsipim’s Alex Dadey Sports Centre",
+      "link": "https://www.myjoyonline.com/kgl-foundation-commits-2m-to-maintain-mfantsipims-alex-dadey-sports-centre/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:43:41.000Z",
+      "summary": "The KGL Foundation has committed an additional $2 million towards the long-term maintenance of the Alex Dadey Sports Centre at Mfantsipim School, following its commissioning as part of the…",
+      "categories": [
+        "National",
+        "Alex Dadey Sports centre",
+        "KGL Foundation",
+        "Mfantsipim"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim lessons shaped my leadership philosophy and business journey – KGL Group Chairman",
+      "link": "https://www.myjoyonline.com/mfantsipim-lessons-shaped-my-leadership-philosophy-and-business-journey-kgl-group-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:43:01.000Z",
+      "summary": "Group Executive Chairman of the KGL Group of Companies, Alex Apau Dadey, says the values of discipline, resilience, consistency and perseverance instilled in him at Mfantsipim School have…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Alex Apau Dadey",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: Osabarimba Kwesi Atta welcomes Asantehene to Cape Coast for Mfantsipim’s 150th anniversary",
+      "link": "https://www.myjoyonline.com/photos-osabarimba-kwesi-atta-welcomes-asantehene-to-cape-coast-for-mfantsipims-150th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:35:15.000Z",
+      "summary": "The Paramount Chief of the Oguaa Traditional Area, Osabarimba Kwesi Atta, has welcomed the Asantehene, Otumfuo Osei Tutu II, to the Emintsimadze Palace in Cape Coast for Mfantsipim School’s…",
+      "categories": [
+        "Education",
+        "Events",
+        "HP News 5",
+        "National",
+        "Regional",
+        "Asantehene",
+        "Cape Coast",
+        "Mfantsipim 150th anniversary",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Photos: Osabarimba Kwesi Atta welcomes Asantehene to Cape Coast ahead of Mfantsipim@150",
       "link": "https://www.myjoyonline.com/photos-osabarimba-kwesi-atta-welcomes-asantehene-to-cape-coast-ahead-of-mfantsipim150/",
@@ -121,52 +180,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "200 police officers deployed to Nalerigu NDC election grounds",
-      "link": "https://www.myjoyonline.com/200-police-officers-deployed-to-nalerigu-ndc-election-grounds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T11:58:46.000Z",
-      "summary": "About 200 unarmed police officers have arrived at the Nalerigu Senior High School, the venue for the National Democratic Congress (NDC) Regional Executive Elections, as security is…",
-      "categories": [
-        "HP News 3",
-        "News",
-        "Politics",
-        "Regional",
-        "Nalerigu",
-        "NDC",
-        "regional executive elections"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We can’t rely on NAIMOS alone to fight galamsey – Senyo Hosi",
-      "link": "https://www.myjoyonline.com/we-cant-rely-on-naimos-alone-to-fight-galamsey-senyo-hosi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T11:50:37.000Z",
-      "summary": "Convener of the OneGhana Movement and Finance and economic policy analyst Senyo Hosi has called for a major rethink of Ghana's approach to tackling illegal mining, warning that the country…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Galamsey Fight",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Miracles Aboagye insists State must account for 6 deaths at Manso Keniago over galamsey",
-      "link": "https://www.myjoyonline.com/miracles-aboagye-insists-state-must-account-for-6-deaths-at-manso-keniago-over-galamsey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T11:25:04.000Z",
-      "summary": "Director of Communications for the New Patriotic Party (NPP), Miracles Aboagye, has condemned the killing of six Ghanaians during a confrontation involving personnel of the National…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "6 Ghanaians",
-        "Manso Keniago",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Translate research into resilient food systems – FATAS conference told",
       "link": "https://www.graphic.com.gh/news/general-news/translate-research-into-resilient-food-systems-fatas-conference-told.html",
       "source": "Daily Graphic",
@@ -215,17 +228,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-partners-global-firm-to-tackle-chronic-kidney-disease.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:54:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana considers more contributions to AU - Ablakwa",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-considers-more-contributions-to-au-ablakwa.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:50:36.000Z",
       "summary": "",
       "categories": [
         "General News"
