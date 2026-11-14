@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T09:46:33.485Z",
+  "updated": "2026-11-14T09:56:34.799Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 6/10 stories",
+    "Ghana Business News: 7/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget allocates over GH¢100b for capital expenditure",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/2027-budget-allocates-over-gh%c2%a2100b-for-capital-expenditure/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T09:49:56.000Z",
+      "summary": "The government has allocated GH¢100.4 billion for capital expenditure in 2027, representing 5.6 per cent of Gross Domestic Product (GDP), to support infrastructure development and economic…"
+    },
     {
       "title": "Government to merge MIIF and GIIF into sovereign wealth fund",
       "link": "https://www.ghanabusinessnews.com/2026/11/14/government-to-merge-miif-and-giif-into-sovereign-wealth-fund/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T16:51:11.000Z",
       "summary": "Lattice Energy Ltd, a member of Abagona Legacy Holdings, has secured a Bulk Import, Distribution and Export (BIDEC) licence from the National Petroleum Authority (NPA), allowing it to…"
-    },
-    {
-      "title": "TOR seeks private investors to shield refinery from political interference",
-      "link": "https://www.myjoyonline.com/tor-seeks-private-investors-to-shield-refinery-from-political-interference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:51:01.000Z",
-      "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political…"
     }
   ]
 };
