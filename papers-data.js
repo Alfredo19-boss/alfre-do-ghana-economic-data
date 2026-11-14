@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:58:59.293Z",
+  "updated": "2026-11-14T22:18:58.655Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daniel Niibi Afotey Odai elected NDC Greater Accra Deputy Youth Organiser",
+      "link": "https://www.myjoyonline.com/daniel-niibi-afotey-odai-elected-ndc-greater-accra-deputy-youth-organiser/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T22:14:41.000Z",
+      "summary": "Daniel Niibi Afotey Odai has been elected Deputy Regional Youth Organiser of the National Democratic Congress (NDC) in the Greater Accra Region after narrowly defeating three other…",
+      "categories": [
+        "Politics",
+        "Daniel Niibi Afotey",
+        "deputy youth",
+        "NDC Greater Accra"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sam Jonah credits Acheampong with advancing Ghanaian ownership of mineral wealth",
       "link": "https://www.myjoyonline.com/sam-jonah-credits-acheampong-with-advancing-ghanaian-ownership-of-mineral-wealth/",
@@ -155,23 +169,6 @@ window.GDC_PAPERS = {
         "General Acheampong",
         "Leadership",
         "Sam Jonah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Toku defeats Borlu to retain NDC Western Regional chairmanship",
-      "link": "https://www.myjoyonline.com/nana-toku-defeats-borlu-to-retain-ndc-western-regional-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:57:47.000Z",
-      "summary": "Nana Kojo Toku has retained his position as Western Regional Chairman of the National Democratic Congress (NDC) after defeating two challengers in the party’s regional executive elections.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Politics",
-        "Borlu",
-        "Nana Kojo Toku",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
