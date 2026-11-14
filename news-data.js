@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T12:56:39.797Z",
+  "updated": "2026-11-14T13:06:39.443Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Ghana Must Strengthen Domestic Revenue to Reduce Dependence on External Borrowing",
+      "link": "https://thehighstreetjournal.com/ghana-must-strengthen-domestic-revenue-to-reduce-dependence-on-external-borrowing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T13:00:00.000Z",
+      "summary": "ACUC wants Ghana to strengthen domestic revenue mobilisation, improve public spending and expand local production to reduce external borrowing and create greater fiscal space for national…"
+    },
     {
       "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
       "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
       "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:08:51.000Z",
-      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
-    },
-    {
-      "title": "From dining table to African AI ecosystem: Npontu Technologies marks 10 years of building digital solutions",
-      "link": "https://www.myjoyonline.com/from-dining-table-to-african-ai-ecosystem-npontu-technologies-marks-10-years-of-building-digital-solutions/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T18:08:51.000Z",
       "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"

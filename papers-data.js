@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:57:09.845Z",
+  "updated": "2026-11-14T13:07:08.605Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Haruna Iddrisu promises Mfantsipim School a 66-seater bus as part of 150th anniversary",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-promises-mfantsipim-school-a-66-seater-bus-as-part-of-150th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:05:04.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has pledged to provide Mfantsipim School with a 66-seater bus as part of activities marking the institution’s 150th anniversary.",
+      "categories": [
+        "Education",
+        "National",
+        "Haruna Iddrisu",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Julius Debrah calls for unity as NDC elects Eastern Regional executives",
+      "link": "https://www.myjoyonline.com/julius-debrah-calls-for-unity-as-ndc-elects-eastern-regional-executives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:00:22.000Z",
+      "summary": "Chief of Staff Julius Debrah has called on delegates participating in the NDC's Eastern Regional executive elections to uphold peace and unity, reminding them that the outcome of the…",
+      "categories": [
+        "National",
+        "Eastern Regional executives",
+        "Julius Debrah",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
@@ -149,34 +177,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Ecobank JoyBusiness SME Fair 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Disqualified NDC National Youth Organizer aspirant rules out appeal",
-      "link": "https://www.myjoyonline.com/disqualified-ndc-national-youth-organizer-aspirant-rules-out-appeal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:11:17.000Z",
-      "summary": "Steven Nhyira Odarteifio says he will neither protest nor appeal his disqualification from the National Democratic Congress (NDC) race for the National Youth Organizer position.",
-      "categories": [
-        "Politics",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drug trafficking isn’t a political problem; it’s an institutional one – Senyo Hosi",
-      "link": "https://www.myjoyonline.com/drug-trafficking-isnt-a-political-problem-its-an-institutional-one-senyo-hosi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:09:36.000Z",
-      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has described drug trafficking in Ghana as an institutional problem, calling for stronger…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Drug trafficking",
-        "Narcotics Control Commission (NACOC)",
-        "Senyo Hosi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
