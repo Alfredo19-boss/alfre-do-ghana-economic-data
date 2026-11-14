@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T04:10:16.279Z",
+  "updated": "2026-11-14T04:20:16.330Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,17 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Tearful Pochettino on ‘difficult’ decision to leave USA for Man Utd",
-      "link": "https://www.myjoyonline.com/tearful-pochettino-on-difficult-decision-to-leave-usa-for-man-utd/",
+      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
+      "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
       "source": "MyJoyOnline",
-      "published": "2026-11-14T04:06:35.000Z",
-      "summary": "Mauricio Pochettino says the decision to leave his role as boss of the USA national team to become Manchester United head coach was \"one of the most difficult\" of his career.",
+      "published": "2026-11-14T03:12:04.000Z",
+      "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that halted departing flights across the United States for more than four hours after a “communication issue”…",
       "categories": [
-        "Football",
-        "Sports",
-        "Manchester United",
-        "Mauricio Pochettino",
-        "USA"
+        "International",
+        "US flights"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arrested generals and a threatened VP: President’s son fuels Ugandan succession fever",
+      "link": "https://www.myjoyonline.com/arrested-generals-and-a-threatened-vp-presidents-son-fuels-ugandan-succession-fever/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T02:15:53.000Z",
+      "summary": "In Uganda's military, even senior generals are finding that their rank offers little protection from the wrath of the country's powerful army chief.",
+      "categories": [
+        "News",
+        "Uganda"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -108,6 +117,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Tearful Pochettino on ‘difficult’ decision to leave USA for Man Utd",
+      "link": "https://www.myjoyonline.com/tearful-pochettino-on-difficult-decision-to-leave-usa-for-man-utd/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T23:06:35.000Z",
+      "summary": "Mauricio Pochettino says the decision to leave his role as boss of the USA national team to become Manchester United head coach was \"one of the most difficult\" of his career.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Manchester United",
+        "Mauricio Pochettino",
+        "USA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NDC Eastern Region: Osei-Ampem wins big, calls for hard work to secure 2028 victory",
       "link": "https://www.graphic.com.gh/news/politics/ndc-eastern-region-osei-ampem-wins-big-calls-for-hard-work-to-secure-2028-victory.html",
       "source": "Daily Graphic",
@@ -117,33 +141,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Counsellor Kweku Adumatta reportedly dies after a short illness",
-      "link": "https://www.myjoyonline.com/counsellor-kweku-adumatta-reportedly-dies-after-a-short-illness/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T22:22:00.000Z",
-      "summary": "Ghanaian relationship and marriage counsellor, motivational speaker and life coach, Kweku Adumatta, popularly known as Uncle Kweku Adumatta, has reportedly died after a short illness.",
-      "categories": [
-        "News",
-        "counsellor",
-        "Kweku Adumatta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "All departing US flights grounded due to communication outage",
-      "link": "https://www.myjoyonline.com/all-departing-us-flights-grounded-due-to-communication-outage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T22:02:00.000Z",
-      "summary": "US aviation regulators issued an extremely rare ground stop of all flights across the country Friday after a major communications outage which the Department of Homeland Security said did…",
-      "categories": [
-        "HP News 10",
-        "International",
-        "Flights",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "No appeal: Odarteifio accepts vetting outcome in NDC Youth Organiser contest",
