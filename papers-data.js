@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T05:36:46.369Z",
+  "updated": "2026-11-14T05:56:46.461Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -105,6 +105,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ghana targets homegrown AI solutions, not rivalry with US, China – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghana-targets-homegrown-ai-solutions-not-rivalry-with-us-china-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T01:14:00.000Z",
+      "summary": "Ghana is looking to develop artificial intelligence (AI) tools that solve local problems rather than compete with the advanced technology industries of the United States and China, Finance…",
+      "categories": [
+        "News",
+        "AI",
+        "China",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
       "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
       "source": "MyJoyOnline",
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AU Commission chairperson pays courtesy call on President Mahama",
-      "link": "https://www.myjoyonline.com/au-commission-chairperson-pays-courtesy-call-on-president-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T00:22:00.000Z",
-      "summary": "A high-level African Union (AU) Commission delegation led by Chairperson Mahmoud Ali Youssouf paid a courtesy call on President John Dramani Mahama, the incoming AU Chairperson, in Accra…",
-      "categories": [
-        "News",
-        "AU",
-        "Ghana",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
