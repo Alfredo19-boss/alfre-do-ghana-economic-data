@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T22:39:00.515Z",
+  "updated": "2026-11-14T22:43:59.448Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
+      "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T22:40:49.000Z",
+      "summary": "Two years after leaders pledged US$2.2 billion to expand clean cooking in Africa, only about US$740 million has been paid out, leaving roughly two-thirds of the money, about US$1.46…",
+      "categories": [
+        "Africa",
+        "Energy",
+        "Clean cooking",
+        "COP31",
+        "Pledges"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
       "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
@@ -167,20 +182,6 @@ window.GDC_PAPERS = {
         "Ahafo Region",
         "NDC",
         "Owusu Nkrumah Ababio"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Yentua’ was negotiation, not recklessness – Sam Jonah on Acheampong’s debt decision",
-      "link": "https://www.myjoyonline.com/yentua-was-negotiation-not-recklessness-sam-jonah-on-acheampongs-debt-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:11:58.000Z",
-      "summary": "Business leader Sam Jonah has praised former Head of State General Ignatius Kutu Acheampong’s 1972 decision to repudiate some of Ghana’s external debt, describing it as an act of courage…",
-      "categories": [
-        "National",
-        "Acheampong",
-        "Sam Jonah",
-        "Yentua"
       ],
       "site": "https://www.myjoyonline.com/"
     },
