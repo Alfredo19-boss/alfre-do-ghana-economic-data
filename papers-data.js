@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T05:06:46.329Z",
+  "updated": "2026-11-14T05:16:46.714Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "Ecobank JoyBusiness SME Fair 2026: Day 2 promises more shopping deals, networking and excitement",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-2-promises-more-shopping-deals-networking-and-excitement/",
       "source": "MyJoyOnline",
-      "published": "2026-11-14T05:03:32.000Z",
+      "published": "2026-11-14T03:47:32.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 enters its second day on Saturday, November 14, with shoppers, families and business enthusiasts expected at Ghud Park, Accra Mall, to explore a wide…",
       "categories": [
         "National",
@@ -106,6 +106,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T23:49:32.000Z",
       "summary": "The Bank of Ghana (BoG) has dismissed concerns that the portrait of the late Mrs Theodosia Salome Okoh on the new GH¢50 Heritage Series banknote was taken from a photograph of her sister…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "Top Story",
