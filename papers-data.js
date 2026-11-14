@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:47:08.634Z",
+  "updated": "2026-11-14T12:57:09.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -38,6 +38,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T12:43:41.000Z",
       "summary": "The KGL Foundation has committed an additional $2 million towards the long-term maintenance of the Alex Dadey Sports Centre at Mfantsipim School, following its commissioning as part of the…",
       "categories": [
+        "In Focus",
         "National",
         "Alex Dadey Sports centre",
         "KGL Foundation",
