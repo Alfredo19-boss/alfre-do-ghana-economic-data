@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T13:47:09.152Z",
+  "updated": "2026-11-14T13:57:09.608Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Upper East NDC Election: Chairman Bolnaba calls for peace as 570 delegates vote",
+      "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-election-chairman-bolnaba-calls-for-peace-as-570-delegates-vote.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T13:50:49.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Mfantsipim @150: Haruna Iddrisu calls for collective effort to tackle indiscipline in schools",
+      "link": "https://www.myjoyonline.com/mfantsipim-150-haruna-iddrisu-calls-for-collective-effort-to-tackle-indiscipline-in-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:48:28.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has called on traditional rulers, religious leaders, parents and students to support efforts to tackle growing indiscipline in schools across the…",
+      "categories": [
+        "Education",
+        "National",
+        "Haruna Iddrisu",
+        "Mfantsipim @150"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The 2027 budget is a “common sense” budget – Senyo Hosi",
       "link": "https://www.myjoyonline.com/the-2027-budget-is-a-common-sense-budget-senyo-hosi/",
@@ -138,20 +163,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Haruna Iddrisu promises Mfantsipim School a 66-seater bus as part of 150th anniversary",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-promises-mfantsipim-school-a-66-seater-bus-as-part-of-150th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:05:04.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has pledged to provide Mfantsipim School with a 66-seater bus as part of activities marking the institution’s 150th anniversary.",
-      "categories": [
-        "Education",
-        "National",
-        "Haruna Iddrisu",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
       "source": "Daily Graphic",
@@ -211,17 +222,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cardinal-mines-urges-women-to-prioritise-breast-health.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T10:06:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Abuakwa State College faces infrastructure, staffing challenges - GETFund projects stalled",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abuakwa-state-college-faces-infrastructure-staffing-challenges-getfund-projects-stalled.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:58:52.000Z",
       "summary": "",
       "categories": [
         "General News"
