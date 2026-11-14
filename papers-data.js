@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T17:16:51.695Z",
+  "updated": "2026-11-14T17:26:49.602Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mfantsipim School has a distinguished place in Ghana’s educational history – Vice President",
+      "link": "https://www.myjoyonline.com/mfantsipim-school-has-a-distinguished-place-in-ghanas-educational-history-vice-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:23:10.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has praised Mfantsipim School for its significant contribution to Ghana's educational development, describing the institution as an…",
+      "categories": [
+        "Education",
+        "In Focus",
+        "National",
+        "Ghana",
+        "Professor Naana Jane Opoku-Agyemang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Inside BNI’s modernisation drive: New forensic lab, interrogation centre, and 111 vehicles commissioned",
+      "link": "https://www.graphic.com.gh/news/general-news/inside-bnis-modernisation-drive-new-forensic-lab-interrogation-centre-and-111-vehicles-commissioned.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T17:21:46.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Education Minister appeals to Otumfuo to lead nationwide campaign against indiscipline in schools",
+      "link": "https://www.myjoyonline.com/education-minister-appeals-to-otumfuo-to-lead-nationwide-campaign-against-indiscipline-in-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:18:38.000Z",
+      "summary": "Minister for Education, Haruna Iddrisu, has called on the Asantehene, Otumfuo Osei Tutu II, to lead a nationwide campaign against growing indiscipline in schools, urging traditional rulers…",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "National",
+        "indiscipline campaign",
+        "Otumfuo Osei Tutu II",
+        "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vice President urges Mfantsipim to uphold founding values amid changing global demands",
       "link": "https://www.myjoyonline.com/vice-president-urges-mfantsipim-to-uphold-founding-values-amid-changing-global-demands/",
@@ -107,18 +149,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "link": "https://www.myjoyonline.com/hungarian-authorities-uncover-20m-during-probe-of-orban-era-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:36:03.000Z",
-      "summary": "Nearly $20m (£14.8m) in cash has been found hidden in farm buildings and buried in forests as part of an investigation into a former minister of Viktor Orbán, authorities have said.",
-      "categories": [
-        "International",
-        "Hungarian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "All set for maiden Ahanta Fest UK in London",
       "link": "https://www.graphic.com.gh/news/general-news/all-set-for-maiden-ahanta-fest-uk-in-london.html",
       "source": "Daily Graphic",
@@ -128,19 +158,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.myjoyonline.com/us-has-floated-ukraine-ceding-donbas-for-nato-membership-zelensky-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:24:30.000Z",
-      "summary": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-      "categories": [
-        "International",
-        "Ukraine",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Government pledges 66-seater bus, GH¢250m GETFund support as Mfantsipim marks 150 years",
@@ -205,17 +222,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ECG announces planned maintenance in Ashanti Region on November 17",
-      "link": "https://www.graphic.com.gh/news/general-news/ecg-announces-planned-maintenance-in-ashanti-region-on-november-17.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T12:31:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
