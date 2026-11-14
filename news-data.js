@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T13:56:42.001Z",
+  "updated": "2026-11-14T14:06:41.071Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Can US$3bn Transform Agriculture and Close Ghana’s Growth Gap with Services?",
+      "link": "https://thehighstreetjournal.com/can-us3bn-transform-agriculture-and-close-ghanas-growth-gap-with-services/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T14:00:56.000Z",
+      "summary": "The government’s four-year commercial agriculture investment aims to raise domestic production and strengthen agro-processing, but reversing the sector’s slower growth will require more…"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026: Day Two kicks off with exciting bargains, irresistible deals at Ghud Park",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-two-kicks-off-with-exciting-bargains-irresistible-deals-at-ghud-park/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T19:17:41.000Z",
       "summary": "President John Mahama has encouraged Thai investors to pursue plans to establish a 12,000-hectare oil palm plantation and a modern processing mill in Ghana."
-    },
-    {
-      "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
-      "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:16:44.000Z",
-      "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality…"
     }
   ]
 };
