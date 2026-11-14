@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T07:16:46.505Z",
+  "updated": "2026-11-14T07:26:46.040Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -141,16 +141,16 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "After 26 years, the US has lost its measles elimination status",
-      "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
+      "title": "NPA-backed 24-hour operations boost fuel discharge at Tema oil jetty",
+      "link": "https://www.myjoyonline.com/npa-backed-24-hour-operations-boost-fuel-discharge-at-tema-oil-jetty/",
       "source": "MyJoyOnline",
-      "published": "2026-11-14T04:09:00.000Z",
-      "summary": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
+      "published": "2026-11-14T04:12:00.000Z",
+      "summary": "Fuel discharge operations at the Tema oil jetty have increased following the introduction of round-the-clock berthing and unberthing of vessels, a move facilitated by the National Petroleum…",
       "categories": [
-        "International",
-        "Health",
-        "Measles",
-        "US"
+        "National",
+        "Edudzi Tameklo",
+        "NPA",
+        "Tema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
