@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:06:46.325Z",
+  "updated": "2026-11-14T08:16:46.240Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Waist beads speak the language of love at Ecobank-Joy Business SME Fair 2026",
+      "link": "https://www.myjoyonline.com/waist-beads-speak-the-language-of-love-at-ecobank-joy-business-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T08:02:36.000Z",
+      "summary": "The 2026 edition of the Ecobank-Joy Prime SME Fair, currently going on at Ghud Park, Accra Mall, is more exciting and revealing as well.",
+      "categories": [
+        "Arts and Culture",
+        "HP News 10",
+        "Photo Story",
+        "Beads",
+        "the Ecobank-Joy Prime SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank-Joy Business SME Fair 2026: Beads speak the language of love",
       "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-2026-beads-speak-the-language-of-love/",
@@ -110,6 +125,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Energy",
+        "In Focus",
         "COMAC",
         "Crude Oil",
         "Diesel",
@@ -148,20 +164,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "US flights"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA arrests China Mall officials in E-VAT crackdown",
-      "link": "https://www.myjoyonline.com/gra-arrests-china-mall-officials-in-e-vat-crackdown/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T04:48:53.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has arrested officials of three China Mall branches after undercover checks allegedly revealed sales transactions that were kept off its approved…",
-      "categories": [
-        "HP News 6",
-        "News",
-        "China Mall",
-        "VAT"
       ],
       "site": "https://www.myjoyonline.com/"
     },

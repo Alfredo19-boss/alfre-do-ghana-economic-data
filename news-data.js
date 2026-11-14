@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T08:06:16.110Z",
+  "updated": "2026-11-14T08:16:15.523Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG Explains Differences in Theodosia Okoh’s GH₵50 Portrait, Citing Artistic Adjustments",
+      "link": "https://thehighstreetjournal.com/bog-explains-differences-in-theodosia-okohs-gh%e2%82%b550-portrait-citing-artistic-adjustments/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T08:15:44.000Z",
+      "summary": "The Bank of Ghana says artistic and technical adjustments during production account for differences in Theodosia Okoh’s portrait on the new GH₵50 banknote."
+    },
     {
       "title": "THE SUCCESS PARADOX: His Dating Pool Becomes Lake Volta; Hers Becomes a Puddle!",
       "link": "https://thehighstreetjournal.com/the-success-paradox-his-dating-pool-becomes-lake-volta-hers-becomes-a-puddle/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T15:42:09.000Z",
       "summary": "More than seven in 10 respondents want job creation and youth employment prioritised in Ghana’s 2027 Budget, according to a survey conducted by KPMG and the United Nations Development…"
-    },
-    {
-      "title": "TOR targets listing on Ghana Stock Exchange by 2028 to ensure long-term sustainability",
-      "link": "https://www.myjoyonline.com/tor-targets-listing-on-ghana-stock-exchange-by-2028-to-ensure-long-term-sustainability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:35:46.000Z",
-      "summary": "The Tema Oil Refinery (TOR) is targeting a listing on the Ghana Stock Exchange by 2028 as part of efforts to secure its long-term sustainability and prevent a recurrence of its operational…"
     }
   ]
 };
