@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T11:56:38.074Z",
+  "updated": "2026-11-14T12:06:38.119Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Major Deals Expected As GIPA Hosts Dangote, Global Investors At Maiden Invest Ghana Summit From Monday",
+      "link": "https://thehighstreetjournal.com/major-deals-expected-as-gipa-hosts-dangote-global-investors-at-maiden-invest-ghana-summit-from-monday/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T12:00:37.000Z",
+      "summary": "The November 16–17 summit brings Aliko Dangote, global investors and a pipeline of about 100 investment-ready projects to Accra."
+    },
     {
       "title": "Gov’t to Cap Public Sector Recruitment in 2027 to Control Expenditure",
       "link": "https://thehighstreetjournal.com/govt-to-cap-public-sector-recruitment-in-2027-to-control-expenditure/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T17:51:09.000Z",
       "summary": "ICSG is targeting cargo-related financial losses through insurance education while calling for higher personal injury compensation limits, highlighting the importance of stronger financial…"
-    },
-    {
-      "title": "Women-Owned Businesses Face Working Capital Constraints Despite Growing Market Opportunities",
-      "link": "https://thehighstreetjournal.com/women-owned-businesses-face-working-capital-constraints-despite-growing-market-opportunities/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T17:45:50.000Z",
-      "summary": "Women-owned businesses face working capital shortages that constrain production and contract execution, prompting calls for affordable financing, stronger market linkages and institutional…"
     }
   ]
 };

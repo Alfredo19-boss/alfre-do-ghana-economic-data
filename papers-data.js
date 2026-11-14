@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T11:57:07.925Z",
+  "updated": "2026-11-14T12:07:07.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,30 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "200 police officers deployed to Nalerigu NDC election grounds",
+      "link": "https://www.myjoyonline.com/200-police-officers-deployed-to-nalerigu-ndc-election-grounds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T11:58:46.000Z",
+      "summary": "About 200 unarmed police officers have arrived at the Nalerigu Senior High School, the venue for the National Democratic Congress (NDC) Regional Executive Elections, as security is…",
+      "categories": [
+        "HP News 2",
+        "News",
+        "Politics",
+        "Regional",
+        "Nalerigu",
+        "NDC",
+        "regional executive elections"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "We can’t rely on NAIMOS alone to fight galamsey – Senyo Hosi",
       "link": "https://www.myjoyonline.com/we-cant-rely-on-naimos-alone-to-fight-galamsey-senyo-hosi/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T11:50:37.000Z",
       "summary": "Convener of the OneGhana Movement and Finance and economic policy analyst Senyo Hosi has called for a major rethink of Ghana's approach to tackling illegal mining, warning that the country…",
       "categories": [
+        "HP News 7",
         "National",
         "Galamsey Fight",
         "NAIMOS"
@@ -207,19 +225,6 @@ window.GDC_PAPERS = {
         "Dr Lawer Egbenya",
         "NDC",
         "Volta Region"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Livestream: Newsfile discusses galamsey clash, drug busts and 2027 Budget",
-      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-galamsey-clash-drug-busts-and-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T08:32:01.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, November 14, examine the government’s fight against illegal mining, recent drug trafficking operations and the key…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Newsfile"
       ],
       "site": "https://www.myjoyonline.com/"
     },
