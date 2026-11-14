@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:30:27.958Z",
+  "updated": "2026-11-14T20:35:27.460Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T20:25:51.000Z",
       "summary": "Private legal practitioner Obeng Inkoom has been elected Central Regional Chairman of the National Democratic Congress (NDC), ending Dr Richard Asiedu’s tenure after a closely contested…",
       "categories": [
+        "HP News 6",
         "National",
         "NDC",
         "Obeng Inkoom",
