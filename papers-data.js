@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:27:09.040Z",
+  "updated": "2026-11-14T12:37:08.686Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Photos: Osabarimba Kwesi Atta welcomes Asantehene to Cape Coast ahead of Mfantsipim@150",
+      "link": "https://www.myjoyonline.com/photos-osabarimba-kwesi-atta-welcomes-asantehene-to-cape-coast-ahead-of-mfantsipim150/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:35:15.000Z",
+      "summary": "The Paramount Chief of the Oguaa Traditional Area, Osabarimba Kwesi Atta, has welcomed the Asantehene, Otumfuo Osei Tutu II, to the Emintsimadze Palace in Cape Coast ahead of Mfantsipim…",
+      "categories": [
+        "Education",
+        "Events",
+        "National",
+        "Regional",
+        "Asantehene",
+        "Cape Coast",
+        "Mfantsipim 150th anniversary",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC Regional Elections: Voting underway in Northern and North East Regions",
+      "link": "https://www.graphic.com.gh/news/politics/ndc-regional-elections-voting-underway-in-northern-and-north-east-regions.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T12:28:07.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Mahama, Akufo-Addo, Otumfuo expected at Agogo Manhene’s funeral",
       "link": "https://www.myjoyonline.com/mahama-akufo-addo-otumfuo-expected-at-agogo-manhenes-funeral/",
@@ -138,21 +167,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC is the biggest enabler of galamsey – Miracles Aboagye claims",
-      "link": "https://www.myjoyonline.com/ndc-is-the-biggest-enabler-of-galamsey-miracles-aboagye-claims/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T11:14:05.000Z",
-      "summary": "Dennis Miracles Aboagye, Director of Communications for the Bawumia Campaign Team, has accused the governing National Democratic Congress (NDC) of enabling illegal small-scale mining…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Galamsey",
-        "Miracles Aboagye",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Translate research into resilient food systems – FATAS conference told",
       "link": "https://www.graphic.com.gh/news/general-news/translate-research-into-resilient-food-systems-fatas-conference-told.html",
       "source": "Daily Graphic",
@@ -212,17 +226,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-considers-more-contributions-to-au-ablakwa.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:50:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama presents 111 vehicles to BNI",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-presents-111-vehicles-to-bni.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:47:02.000Z",
       "summary": "",
       "categories": [
         "General News"
