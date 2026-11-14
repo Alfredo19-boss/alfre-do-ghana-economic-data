@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T17:06:50.211Z",
+  "updated": "2026-11-14T17:16:51.695Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vice President urges Mfantsipim to uphold founding values amid changing global demands",
+      "link": "https://www.myjoyonline.com/vice-president-urges-mfantsipim-to-uphold-founding-values-amid-changing-global-demands/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:11:25.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has urged Mfantsipim School to preserve the values established by its founders while preparing students to navigate the rapidly changing…",
+      "categories": [
+        "Education",
+        "National",
+        "Mfantsipim School",
+        "Professor Naana Jane Opoku-Agyemang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mfantsipim@150: Vice President Prof. Opoku-Agyemang urges stakeholders to sustain the school’s legacy",
       "link": "https://www.myjoyonline.com/mfantsipim150-vice-president-prof-opoku-agyemang-urges-stakeholders-to-sustain-the-schools-legacy/",
@@ -125,20 +139,6 @@ window.GDC_PAPERS = {
         "International",
         "Ukraine",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Operation Feed Yourself’ cut Ghana’s rice imports to zero in 1975 and 1976 – Sam Jonah",
-      "link": "https://www.myjoyonline.com/operation-feed-yourself-cut-ghanas-rice-imports-to-zero-in-1975-and-1976-sam-jonah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T15:42:41.000Z",
-      "summary": "Chancellor of the University of Cape Coast, Sir Sam Jonah, has credited the late General Ignatius Kutu Acheampong’s ‘Operation Feed Yourself’ with ending Ghana’s rice imports in 1975 and…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Rice",
-        "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
