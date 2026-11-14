@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T10:36:34.350Z",
+  "updated": "2026-11-14T11:56:38.074Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gov’t to Cap Public Sector Recruitment in 2027 to Control Expenditure",
+      "link": "https://thehighstreetjournal.com/govt-to-cap-public-sector-recruitment-in-2027-to-control-expenditure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T11:00:08.000Z",
+      "summary": "Government plans to enforce staffing ceilings across public institutions in 2027, requiring quarterly recruitment reports to contain rising public sector wage costs."
+    },
+    {
+      "title": "Petrol tipped to fall 8.23%, but LPG faces 21% jump – COMAC",
+      "link": "https://www.myjoyonline.com/petrol-tipped-to-fall-8-23-but-lpg-faces-21-jump-comac/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T10:37:18.000Z",
+      "summary": "Petrol prices could fall by up to 8.23% from November 16, 2026, while diesel prices are also expected to decline, according to the Chamber of Oil Marketing Companies (COMAC)."
+    },
     {
       "title": "Germany budget committee approves record €560.9b spending plan for 2027",
       "link": "https://www.ghanabusinessnews.com/2026/11/14/germany-budget-committee-approves-record-e560-9b-spending-plan-for-2027/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T17:45:50.000Z",
       "summary": "Women-owned businesses face working capital shortages that constrain production and contract execution, prompting calls for affordable financing, stronger market linkages and institutional…"
-    },
-    {
-      "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
-      "link": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:19:32.000Z",
-      "summary": "The Tema Oil Refinery (TOR) says Bulk Distribution Companies (BDCs) should be considered partners in its operations rather than competitors as it seeks to strengthen its position in Ghana’s…"
-    },
-    {
-      "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
-      "link": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:15:38.000Z",
-      "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the…"
     }
   ]
 };

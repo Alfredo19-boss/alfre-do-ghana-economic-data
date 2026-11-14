@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T10:37:04.773Z",
+  "updated": "2026-11-14T11:57:07.925Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,86 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "We can’t rely on NAIMOS alone to fight galamsey – Senyo Hosi",
+      "link": "https://www.myjoyonline.com/we-cant-rely-on-naimos-alone-to-fight-galamsey-senyo-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T11:50:37.000Z",
+      "summary": "Convener of the OneGhana Movement and Finance and economic policy analyst Senyo Hosi has called for a major rethink of Ghana's approach to tackling illegal mining, warning that the country…",
+      "categories": [
+        "National",
+        "Galamsey Fight",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Miracles Aboagye insists State must account for 6 deaths at Manso Keniago over galamsey",
+      "link": "https://www.myjoyonline.com/miracles-aboagye-insists-state-must-account-for-6-deaths-at-manso-keniago-over-galamsey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T11:25:04.000Z",
+      "summary": "Director of Communications for the New Patriotic Party (NPP), Miracles Aboagye, has condemned the killing of six Ghanaians during a confrontation involving personnel of the National…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "6 Ghanaians",
+        "Manso Keniago",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC is the biggest enabler of galamsey – Miracles Aboagye claims",
+      "link": "https://www.myjoyonline.com/ndc-is-the-biggest-enabler-of-galamsey-miracles-aboagye-claims/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T11:14:05.000Z",
+      "summary": "Dennis Miracles Aboagye, Director of Communications for the Bawumia Campaign Team, has accused the governing National Democratic Congress (NDC) of enabling illegal small-scale mining…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Galamsey",
+        "Miracles Aboagye",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Translate research into resilient food systems – FATAS conference told",
+      "link": "https://www.graphic.com.gh/news/general-news/translate-research-into-resilient-food-systems-fatas-conference-told.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T11:06:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'You didn't even tell your best friend'. The complications from childbirth that never go away",
+      "link": "https://www.graphic.com.gh/news/health/you-didnt-even-tell-your-best-friend-the-complications-from-childbirth-that-never-go-away.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T11:00:13.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Petrol tipped to fall 8.23%, but LPG faces 21% jump – COMAC",
+      "link": "https://www.myjoyonline.com/petrol-tipped-to-fall-8-23-but-lpg-faces-21-jump-comac/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T10:37:18.000Z",
+      "summary": "Petrol prices could fall by up to 8.23% from November 16, 2026, while diesel prices are also expected to decline, according to the Chamber of Oil Marketing Companies (COMAC).",
+      "categories": [
+        "Energy",
+        "National",
+        "COMAC",
+        "LPG",
+        "Petrol prices"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "The fight against galamsey has failed – Senyo Hosi",
       "link": "https://www.myjoyonline.com/the-fight-against-galamsey-has-failed-senyo-hosi/",
       "source": "MyJoyOnline",
@@ -28,6 +108,7 @@ window.GDC_PAPERS = {
       "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, says Ghana's fight against illegal mining has failed and requires a fundamental change in…",
       "categories": [
         "National",
+        "Top Story",
         "Galamsey",
         "Senyo -Hosi"
       ],
@@ -41,6 +122,7 @@ window.GDC_PAPERS = {
       "summary": "FC Andorra goalkeeper Jesus Owono has been given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of…",
       "categories": [
         "Football",
+        "HP News 10",
         "HP Sports 3",
         "News",
         "Jesus Owono"
@@ -114,17 +196,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Abrokyire Abrabo: My Wahala in Germany",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abrokyire-abrabo-my-wahala-in-germany.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:24:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Volta NDC election: Dr Lawer Egbenya outlines vision for Deputy Regional Secretary position",
       "link": "https://www.myjoyonline.com/volta-ndc-election-dr-lawer-egbenya-outlines-vision-for-deputy-regional-secretary-position/",
       "source": "MyJoyOnline",
@@ -140,17 +211,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
-      "link": "https://www.graphic.com.gh/news/politics/sam-jonah-makes-case-for-revisiting-acheampongs-union-government-idea.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:14:31.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Livestream: Newsfile discusses galamsey clash, drug busts and 2027 Budget",
       "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-galamsey-clash-drug-busts-and-2027-budget/",
       "source": "MyJoyOnline",
@@ -160,68 +220,6 @@ window.GDC_PAPERS = {
         "HP News 2",
         "National",
         "Newsfile"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Waist beads speak the language of love at Ecobank-Joy Business SME Fair 2026",
-      "link": "https://www.myjoyonline.com/waist-beads-speak-the-language-of-love-at-ecobank-joy-business-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T08:02:36.000Z",
-      "summary": "The Ecobank-JoyBusiness SME Fair 2026 has offered visitors more than an opportunity to shop for food, fashion, skincare products and crafts.",
-      "categories": [
-        "Arts and Culture",
-        "HP Entertainment 1",
-        "HP Lifestyle 1",
-        "HP News 10",
-        "Lifestyle",
-        "Photo Story",
-        "Beads",
-        "the Ecobank-Joy Prime SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank-Joy Business SME Fair 2026: Beads speak the language of love",
-      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-2026-beads-speak-the-language-of-love/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T08:02:36.000Z",
-      "summary": "The 2026 edition of the Ecobank-Joy Prime SME Fair, currently going on at Ghud Park, Accra Mall, is more exciting and revealing as well.",
-      "categories": [
-        "Arts and Culture",
-        "Photo Story",
-        "Beads",
-        "the Ecobank-Joy Prime SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketia urges police to act against vote-buying in party elections",
-      "link": "https://www.myjoyonline.com/asiedu-nketia-urges-police-to-act-against-vote-buying-in-party-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T06:07:45.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has urged the police and other security agencies to investigate and take appropriate action against…",
-      "categories": [
-        "HP News 4",
-        "News",
-        "Politics",
-        "Asiedu Nketiah",
-        "Elections",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
-      "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:55:00.000Z",
-      "summary": "The Ghana Police Service and road safety agencies have commenced processes for the installation of large advance warning signboards across key road corridors to alert motorists to the…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
