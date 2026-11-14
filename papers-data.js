@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T06:26:46.172Z",
+  "updated": "2026-11-14T06:36:46.387Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T06:07:45.000Z",
       "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has urged the police and other security agencies to investigate and take appropriate action against…",
       "categories": [
+        "HP News 4",
         "News",
         "Politics",
         "Asiedu Nketiah",
@@ -42,9 +43,25 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T05:55:00.000Z",
       "summary": "The Ghana Police Service and road safety agencies have commenced processes for the installation of large advance warning signboards across key road corridors to alert motorists to the…",
       "categories": [
+        "HP News 5",
         "National",
         "News",
         "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketia satisfied with NDC legacy as he prepares to exit chairmanship",
+      "link": "https://www.myjoyonline.com/asiedu-nketia-satisfied-with-ndc-legacy-as-he-prepares-to-exit-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:31:00.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, says he is leaving the party in a stronger position than he found it when he assumed office in…",
+      "categories": [
+        "HP News 7",
+        "Politics",
+        "Asiedu Nketiah",
+        "Ghana",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -86,6 +103,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T04:48:53.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has arrested officials of three China Mall branches after undercover checks allegedly revealed sales transactions that were kept off its approved…",
       "categories": [
+        "HP News 6",
         "News",
         "China Mall",
         "VAT"
@@ -117,18 +135,6 @@ window.GDC_PAPERS = {
         "News",
         "Top Story",
         "SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Arrested generals and a threatened VP: President’s son fuels Ugandan succession fever",
-      "link": "https://www.myjoyonline.com/arrested-generals-and-a-threatened-vp-presidents-son-fuels-ugandan-succession-fever/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T02:36:53.000Z",
-      "summary": "In Uganda's military, even senior generals are finding that their rank offers little protection from the wrath of the country's powerful army chief.",
-      "categories": [
-        "News",
-        "Uganda"
       ],
       "site": "https://www.myjoyonline.com/"
     },
