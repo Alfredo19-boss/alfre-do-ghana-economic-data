@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T04:20:16.330Z",
+  "updated": "2026-11-14T04:56:46.717Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
       "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
       "source": "MyJoyOnline",
-      "published": "2026-11-14T03:12:04.000Z",
+      "published": "2026-11-14T03:21:04.000Z",
       "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that halted departing flights across the United States for more than four hours after a “communication issue”…",
       "categories": [
         "International",
@@ -36,7 +36,7 @@ window.GDC_PAPERS = {
       "title": "Arrested generals and a threatened VP: President’s son fuels Ugandan succession fever",
       "link": "https://www.myjoyonline.com/arrested-generals-and-a-threatened-vp-presidents-son-fuels-ugandan-succession-fever/",
       "source": "MyJoyOnline",
-      "published": "2026-11-14T02:15:53.000Z",
+      "published": "2026-11-14T02:36:53.000Z",
       "summary": "In Uganda's military, even senior generals are finding that their rank offers little protection from the wrath of the country's powerful army chief.",
       "categories": [
         "News",
