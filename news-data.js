@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T09:16:33.847Z",
+  "updated": "2026-11-14T09:26:35.443Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GIIF eyes Volta Lake development to create jobs, boost trade",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/giif-eyes-volta-lake-development-to-create-jobs-boost-trade/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T09:25:13.000Z",
+      "summary": "The Ghana Infrastructure Investment Fund (GIIF) is exploring plans to develop the Volta Lake corridor into a business and industrial hub to create jobs, boost trade and support low-carbon…"
+    },
     {
       "title": "Over 80% of Gov’t Judgement Claims in Foreign Currencies, Posing Exchange Rate Risks",
       "link": "https://thehighstreetjournal.com/over-80-of-govt-judgement-claims-in-foreign-currencies-posing-exchange-rate-risks/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T16:07:15.000Z",
       "summary": "Government will rule out new taxes in the 2027 Budget, introduce a US$10 billion four-year economic transformation programme and outline petroleum-funded infrastructure and financing…"
-    },
-    {
-      "title": "TOR reduces negative equity from GH¢7.5bn to GH¢5bn – Kombat",
-      "link": "https://www.myjoyonline.com/tor-reduces-negative-equity-from-gh%c2%a27-5bn-to-gh%c2%a25bn-kombat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:58:05.000Z",
-      "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR…"
     }
   ]
 };

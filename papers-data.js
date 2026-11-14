@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T09:17:04.788Z",
+  "updated": "2026-11-14T09:27:04.568Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Volta NDC election: Dr Lawer Egbenya outlines vision for Deputy Regional Secretary position",
+      "link": "https://www.myjoyonline.com/volta-ndc-election-dr-lawer-egbenya-outlines-vision-for-deputy-regional-secretary-position/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T09:19:05.000Z",
+      "summary": "With the National Democratic Congress (NDC) set to elect its regional executives on Sunday, November 15, 2026, Dr Lawer Egbenya is seeking to bring his experience in constituency…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Dr Lawer Egbenya",
+        "NDC",
+        "Volta Region"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
       "link": "https://www.graphic.com.gh/news/politics/sam-jonah-makes-case-for-revisiting-acheampongs-union-government-idea.html",
@@ -197,25 +212,6 @@ window.GDC_PAPERS = {
         "Business",
         "Energy",
         "In Focus",
-        "COMAC",
-        "Crude Oil",
-        "Diesel",
-        "LPG",
-        "NPA",
-        "Petrol",
-        "price floor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
-      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:25:02.000Z",
-      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise",
-      "categories": [
-        "Business",
-        "Energy",
         "COMAC",
         "Crude Oil",
         "Diesel",
