@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T10:17:05.205Z",
+  "updated": "2026-11-14T10:27:05.134Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The fight against galamsey has failed – Senyo Hosi",
+      "link": "https://www.myjoyonline.com/the-fight-against-galamsey-has-failed-senyo-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T10:16:18.000Z",
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, says Ghana's fight against illegal mining has failed and requires a fundamental change in…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Senyo -Hosi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Goalkeeper Owono banned for 12-matches after collision that caused Miguel’s death",
       "link": "https://www.myjoyonline.com/goalkeeper-owono-banned-for-12-matches-after-collision-that-caused-miguels-death/",
@@ -89,6 +102,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "2027 Budget: Social protection allocated GH¢2.26 billion",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-social-protection-allocated-ghc2-26-billion.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:40:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Abrokyire Abrabo: My Wahala in Germany",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abrokyire-abrabo-my-wahala-in-germany.html",
       "source": "Daily Graphic",
@@ -119,17 +143,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/sam-jonah-makes-case-for-revisiting-acheampongs-union-government-idea.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:14:31.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sam Jonah: Acheampong's Operation Feed Yourself made Ghana self-sufficient in rice",
-      "link": "https://www.graphic.com.gh/news/politics/sam-jonah-acheampongs-operation-feed-yourself-made-ghana-self-sufficient-in-rice.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:10:18.000Z",
       "summary": "",
       "categories": [
         "Politics"
@@ -208,21 +221,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketia satisfied with NDC legacy as he prepares to exit chairmanship",
-      "link": "https://www.myjoyonline.com/asiedu-nketia-satisfied-with-ndc-legacy-as-he-prepares-to-exit-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:31:00.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, says he is leaving the party in a stronger position than he found it when he assumed office in…",
-      "categories": [
-        "HP News 7",
-        "Politics",
-        "Asiedu Nketiah",
-        "Ghana",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },

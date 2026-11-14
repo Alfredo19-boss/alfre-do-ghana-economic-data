@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T10:16:35.208Z",
+  "updated": "2026-11-14T10:26:34.898Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Germany budget committee approves record €560.9b spending plan for 2027",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/germany-budget-committee-approves-record-e560-9b-spending-plan-for-2027/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T10:19:29.000Z",
+      "summary": "Germany's parliamentary budget committee approved a record €560.9 billion ($620.3 billion) spending plan for 2027 early on Friday, although the budget still faces a final vote and a…"
+    },
     {
       "title": "Terkper Pushes Local Mineral Processing to Increase Ghana’s Mining Revenues",
       "link": "https://thehighstreetjournal.com/terkper-pushes-local-mineral-processing-to-increase-ghanas-mining-revenues/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T17:15:38.000Z",
       "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the…"
-    },
-    {
-      "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
-      "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:51:11.000Z",
-      "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…"
     }
   ]
 };
