@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T13:27:10.423Z",
+  "updated": "2026-11-14T13:37:20.242Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Voting delayed at Ashanti Region NDC Regional Election",
+      "link": "https://www.graphic.com.gh/news/politics/voting-delayed-at-ashanti-region-ndc-regional-election.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T13:35:20.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "ECG announces three-day planned power outage in parts of Ashanti Region for upgrade works",
+      "link": "https://www.myjoyonline.com/ecg-announces-three-day-planned-power-outage-in-parts-of-ashanti-region-for-upgrade-works/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:33:08.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has announced a three-day planned power outage in parts of the Ashanti Region to allow the Ghana Grid Company Limited (GRIDCo) to upgrade the…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "Regional",
+        "Ashanti Region",
+        "GRIDCo",
+        "Transmission Line"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim @ 150: Top 12 WASSCE-performing SHSs to receive GH¢2m each from GETFund – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/mfantsipim-150-top-12-wassce-performing-shss-to-receive-gh%c2%a22m-each-from-getfund-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:30:38.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has announced that the 12 best-performing senior high schools in the West African Senior School Certificate Examination (WASSCE) will each benefit…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Haruna Iddrisu",
+        "Mfantsipim @ 150"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Robbery suspect who escaped from Konongo police custody arrested at Kasoa hideout",
       "link": "https://www.myjoyonline.com/robbery-suspect-who-escaped-from-konongo-police-custody-arrested-at-kasoa-hideout/",
@@ -121,36 +164,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "KGL Foundation commits $2m to maintain Mfantsipim’s Alex Dadey Sports Centre",
-      "link": "https://www.myjoyonline.com/kgl-foundation-commits-2m-to-maintain-mfantsipims-alex-dadey-sports-centre/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:43:41.000Z",
-      "summary": "The KGL Foundation has committed an additional $2 million towards the long-term maintenance of the Alex Dadey Sports Centre at Mfantsipim School, following its commissioning as part of the…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Alex Dadey Sports centre",
-        "KGL Foundation",
-        "Mfantsipim"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim lessons shaped my leadership philosophy and business journey – KGL Group Chairman",
-      "link": "https://www.myjoyonline.com/mfantsipim-lessons-shaped-my-leadership-philosophy-and-business-journey-kgl-group-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:43:01.000Z",
-      "summary": "Group Executive Chairman of the KGL Group of Companies, Alex Apau Dadey, says the values of discipline, resilience, consistency and perseverance instilled in him at Mfantsipim School have…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Alex Apau Dadey",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NDC Regional Elections: Voting underway in Northern and North East Regions",
       "link": "https://www.graphic.com.gh/news/politics/ndc-regional-elections-voting-underway-in-northern-and-north-east-regions.html",
       "source": "Daily Graphic",
@@ -210,17 +223,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abuakwa-state-college-faces-infrastructure-staffing-challenges-getfund-projects-stalled.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:58:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GHS partners global firm to tackle chronic kidney disease",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-partners-global-firm-to-tackle-chronic-kidney-disease.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:54:01.000Z",
       "summary": "",
       "categories": [
         "General News"
