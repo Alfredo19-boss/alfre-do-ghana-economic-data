@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:55:17.518Z",
+  "updated": "2026-11-14T03:40:15.997Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AU Commission chairperson pays courtesy call on President Mahama",
+      "link": "https://www.myjoyonline.com/au-commission-chairperson-pays-courtesy-call-on-president-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T00:22:00.000Z",
+      "summary": "A high-level African Union (AU) Commission delegation led by Chairperson Mahmoud Ali Youssouf paid a courtesy call on President John Dramani Mahama, the incoming AU Chairperson, in Accra…",
+      "categories": [
+        "News",
+        "AU",
+        "Ghana",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Image on new GH¢50 note is Theodosia Okoh, not her sister – BoG",
       "link": "https://www.myjoyonline.com/image-on-new-gh%c2%a250-note-is-theodosia-okoh-not-her-sister-bog/",
@@ -130,21 +144,6 @@ window.GDC_PAPERS = {
         "Adabraka",
         "counterfeit GTP",
         "Ghana Police Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge hold final training session ahead of Angola clash",
-      "link": "https://www.myjoyonline.com/black-challenge-hold-final-training-session-ahead-of-angola-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:36:24.000Z",
-      "summary": "The 15-member squad, led by head coach Richard Obeng and his technical team, took to the training ground following their arrival in Mexico in the early hours of Thursday.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Angola",
-        "Benaiah Elorm Dafeamekpor",
-        "Mexico"
       ],
       "site": "https://www.myjoyonline.com/"
     },
