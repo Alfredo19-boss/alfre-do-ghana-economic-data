@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T22:48:58.034Z",
+  "updated": "2026-11-14T23:13:59.656Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Price and promise of a solitary monetary policy",
+      "link": "https://www.myjoyonline.com/the-price-and-promise-of-a-solitary-monetary-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T23:07:55.000Z",
+      "summary": "In 2025, the Bank of Ghana (BoG) accomplished something of extraordinary monetary significance. The cedi appreciated by 40.7 percent against the US dollar, its first annual gain in more…",
+      "categories": [
+        "Opinion",
+        "Cedi",
+        "Monetary Policy",
+        "Price"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
       "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
@@ -166,22 +180,6 @@ window.GDC_PAPERS = {
         "Ashie Moore",
         "Greater Accra",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Owusu Nkrumah Ababio elected Ahafo NDC Regional Chairman",
-      "link": "https://www.myjoyonline.com/owusu-nkrumah-ababio-elected-ahafo-ndc-regional-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:12:35.000Z",
-      "summary": "Owusu Nkrumah Ababio has been elected Regional Chairman of the National Democratic Congress (NDC) in the Ahafo Region following the party’s 2026 Regional Executives Elections. The keenly…",
-      "categories": [
-        "In Focus",
-        "Politics",
-        "Regional",
-        "Ahafo Region",
-        "NDC",
-        "Owusu Nkrumah Ababio"
       ],
       "site": "https://www.myjoyonline.com/"
     },
