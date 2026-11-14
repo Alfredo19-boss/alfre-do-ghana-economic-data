@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T16:06:49.677Z",
+  "updated": "2026-11-14T16:26:52.146Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.myjoyonline.com/us-has-floated-ukraine-ceding-donbas-for-nato-membership-zelensky-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:24:30.000Z",
+      "summary": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+      "categories": [
+        "International",
+        "Ukraine",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Operation Feed Yourself’ cut Ghana’s rice imports to zero in 1975 and 1976 – Sam Jonah",
       "link": "https://www.myjoyonline.com/operation-feed-yourself-cut-ghanas-rice-imports-to-zero-in-1975-and-1976-sam-jonah/",
@@ -167,21 +180,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mfantsipim @ 150: Top 12 WASSCE-performing SHSs to receive GH¢2m each from GETFund – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/mfantsipim-150-top-12-wassce-performing-shss-to-receive-gh%c2%a22m-each-from-getfund-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:30:38.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has announced that the 12 best-performing senior high schools in the West African Senior School Certificate Examination (WASSCE) will each benefit…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Haruna Iddrisu",
-        "Mfantsipim @ 150"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
       "source": "Daily Graphic",
@@ -189,6 +187,17 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Technical challenge causes power outage in parts of Accra West",
+      "link": "https://www.graphic.com.gh/news/general-news/technical-challenge-causes-power-outage-in-parts-of-accra-west.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T12:28:12.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -211,17 +220,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "28 aspirants, 412 delegates: Bono NDC gears up for high-stakes regional election",
-      "link": "https://www.graphic.com.gh/news/politics/28-aspirants-412-delegates-bono-ndc-gears-up-for-high-stakes-regional-election.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T12:21:21.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     },
