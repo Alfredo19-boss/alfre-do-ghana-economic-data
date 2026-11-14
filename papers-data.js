@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T06:06:45.843Z",
+  "updated": "2026-11-14T06:16:45.873Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
+      "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:55:00.000Z",
+      "summary": "The Ghana Police Service and road safety agencies have commenced processes for the installation of large advance warning signboards across key road corridors to alert motorists to the…",
+      "categories": [
+        "National",
+        "News",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
       "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
@@ -40,6 +53,45 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
+      "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:21:04.000Z",
+      "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that halted departing flights across the United States for more than four hours after a “communication issue”…",
+      "categories": [
+        "International",
+        "US flights"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA arrests China Mall officials in E-VAT crackdown",
+      "link": "https://www.myjoyonline.com/gra-arrests-china-mall-officials-in-e-vat-crackdown/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T04:48:53.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has arrested officials of three China Mall branches after undercover checks allegedly revealed sales transactions that were kept off its approved…",
+      "categories": [
+        "News",
+        "China Mall",
+        "VAT"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "After 26 years, the US has lost its measles elimination status",
+      "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T04:09:00.000Z",
+      "summary": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
+      "categories": [
+        "International",
+        "Health",
+        "Measles",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ecobank JoyBusiness SME Fair 2026: Day 2 promises more shopping deals, networking and excitement",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-2-promises-more-shopping-deals-networking-and-excitement/",
       "source": "MyJoyOnline",
@@ -50,18 +102,6 @@ window.GDC_PAPERS = {
         "News",
         "Top Story",
         "SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
-      "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T03:21:04.000Z",
-      "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that halted departing flights across the United States for more than four hours after a “communication issue”…",
-      "categories": [
-        "International",
-        "US flights"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -78,19 +118,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GRA arrests China Mall officials in E-VAT crackdown",
-      "link": "https://www.myjoyonline.com/gra-arrests-china-mall-officials-in-e-vat-crackdown/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T02:02:53.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has arrested officials of three China Mall branches after undercover checks allegedly revealed sales transactions that were kept off its approved…",
-      "categories": [
-        "News",
-        "China Mall",
-        "VAT"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Mfantsipim’s red-and-black uniform: How student indiscipline created a school identity",
       "link": "https://www.myjoyonline.com/mfantsipims-red-and-black-uniform-how-student-indiscipline-created-a-school-identity/",
       "source": "MyJoyOnline",
@@ -99,33 +126,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Education",
         "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "After 26 years, the US has lost its measles elimination status",
-      "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T01:49:00.000Z",
-      "summary": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
-      "categories": [
-        "International",
-        "Health",
-        "Measles",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama boosts BNI with 111 new vehicles, state-of-the-art forensic lab and interrogation centre",
-      "link": "https://www.myjoyonline.com/mahama-boosts-bni-with-111-new-vehicles-state-of-the-art-forensic-lab-and-interrogation-centre/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T01:27:00.000Z",
-      "summary": "President John Dramani Mahama has officially presented a fleet of 111 operational vehicles and unveiled a newly established forensic laboratory and modernised interrogation centre for the…",
-      "categories": [
-        "News",
-        "BNI",
-        "introrrogation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
