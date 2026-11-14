@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T09:26:35.443Z",
+  "updated": "2026-11-14T09:36:34.681Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government earmarks oil, mineral revenues for Western Corridor Railway",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/government-earmarks-oil-mineral-revenues-for-western-corridor-railway/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T09:30:30.000Z",
+      "summary": "The government will use petroleum revenues and mineral royalties in 2027 and 2028 to finance the construction of the Western Corridor Railway Line."
+    },
     {
       "title": "GIIF eyes Volta Lake development to create jobs, boost trade",
       "link": "https://www.ghanabusinessnews.com/2026/11/14/giif-eyes-volta-lake-development-to-create-jobs-boost-trade/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T16:37:36.000Z",
       "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP…"
-    },
-    {
-      "title": "2027 Budget: Gov’t Rules Out New Taxes as it Unveils $10bn Economic Transformation Plan",
-      "link": "https://thehighstreetjournal.com/2027-budget-govt-rules-out-new-taxes-as-it-unveils-10bn-economic-transformation-plan/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T16:07:15.000Z",
-      "summary": "Government will rule out new taxes in the 2027 Budget, introduce a US$10 billion four-year economic transformation programme and outline petroleum-funded infrastructure and financing…"
     }
   ]
 };
