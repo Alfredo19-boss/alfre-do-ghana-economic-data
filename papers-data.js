@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:50:27.507Z",
+  "updated": "2026-11-14T20:55:28.264Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T20:45:21.000Z",
       "summary": "Augustus Andrews Nana Kwasi has retained his position as Ashanti Regional Chairman of the National Democratic Congress (NDC) after defeating his challenger, Isham Alhassan Yaw Bonsu, in the…",
       "categories": [
+        "HP News 1",
         "National",
         "Politics",
         "Ashanti NDC",
