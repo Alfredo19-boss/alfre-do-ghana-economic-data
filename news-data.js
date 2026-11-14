@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T14:56:40.275Z",
+  "updated": "2026-11-14T15:06:42.397Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Petroleum Commission Digitises Permit Applications to Cut Delays and Attract Upstream Investment",
+      "link": "https://thehighstreetjournal.com/petroleum-commission-digitises-permit-applications-to-cut-delays-and-attract-upstream-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T15:00:08.000Z",
+      "summary": "The Petroleum Commission has introduced digital permitting and launched a Local Content Fund to reduce regulatory delays, improve SME financing and strengthen Ghanaian participation in the…"
+    },
     {
       "title": "Can US$3bn Transform Agriculture and Close Ghana’s Growth Gap with Services?",
       "link": "https://thehighstreetjournal.com/can-us3bn-transform-agriculture-and-close-ghanas-growth-gap-with-services/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T21:10:23.000Z",
       "summary": "The survey highlights the combined effect of power interruptions, affordability and billing."
-    },
-    {
-      "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
-      "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:17:41.000Z",
-      "summary": "President John Mahama has encouraged Thai investors to pursue plans to establish a 12,000-hectare oil palm plantation and a modern processing mill in Ghana."
     }
   ]
 };
