@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T05:16:46.714Z",
+  "updated": "2026-11-14T05:36:46.369Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
+      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:25:02.000Z",
+      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise",
+      "categories": [
+        "Business",
+        "Energy",
+        "COMAC",
+        "Crude Oil",
+        "Diesel",
+        "LPG",
+        "NPA",
+        "Petrol",
+        "price floor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026: Day 2 promises more shopping deals, networking and excitement",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-2-promises-more-shopping-deals-networking-and-excitement/",
@@ -73,6 +92,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Mahama boosts BNI with 111 new vehicles, state-of-the-art forensic lab and interrogation centre",
+      "link": "https://www.myjoyonline.com/mahama-boosts-bni-with-111-new-vehicles-state-of-the-art-forensic-lab-and-interrogation-centre/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T01:27:00.000Z",
+      "summary": "President John Dramani Mahama has officially presented a fleet of 111 operational vehicles and unveiled a newly established forensic laboratory and modernised interrogation centre for the…",
+      "categories": [
+        "News",
+        "BNI",
+        "introrrogation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
       "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
       "source": "MyJoyOnline",
@@ -96,38 +128,6 @@ window.GDC_PAPERS = {
         "AU",
         "Ghana",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Image on new GH¢50 note is Theodosia Okoh, not her sister – BoG",
-      "link": "https://www.myjoyonline.com/image-on-new-gh%c2%a250-note-is-theodosia-okoh-not-her-sister-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T23:49:32.000Z",
-      "summary": "The Bank of Ghana (BoG) has dismissed concerns that the portrait of the late Mrs Theodosia Salome Okoh on the new GH¢50 Heritage Series banknote was taken from a photograph of her sister…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Top Story",
-        "Bank",
-        "Bank of Ghana",
-        "Cedi",
-        "Note",
-        "Theodosia Salome Okoh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US Air Force says it responded to ‘suspected drones’ over RAF Lakenheath",
-      "link": "https://www.myjoyonline.com/us-air-force-says-it-responded-to-suspected-drones-over-raf-lakenheath/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T23:17:04.000Z",
-      "summary": "The US Air Force said it responded to \"suspected unauthorised drone activity\" over RAF Lakenheath in Suffolk on Friday evening.",
-      "categories": [
-        "News",
-        "US",
-        "US Air Force"
       ],
       "site": "https://www.myjoyonline.com/"
     },

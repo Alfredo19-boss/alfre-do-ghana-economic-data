@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T05:16:15.628Z",
+  "updated": "2026-11-14T05:36:15.307Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
+      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:25:02.000Z",
+      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
+    },
     {
       "title": "VIP-Style Bus Model Could Unlock Private Capital for Ghana’s Urban Transport",
       "link": "https://thehighstreetjournal.com/vip-style-bus-model-could-unlock-private-capital-for-ghanas-urban-transport/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T15:22:28.000Z",
       "summary": "Planet One Oil & Gas has announced the discovery of hydrocarbons at its Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana."
-    },
-    {
-      "title": "VRA calls for sustained investment in energy infrastructure to drive industrialisation",
-      "link": "https://www.myjoyonline.com/vra-calls-for-sustained-investment-in-energy-infrastructure-to-drive-industrialisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T14:48:24.000Z",
-      "summary": "The Chief Executive Officer of the Volta River Authority (VRA), Edward Obeng Kenzo, is calling for sustained investment in Ghana’s energy infrastructure to ensure reliable, affordable and…"
     }
   ]
 };
