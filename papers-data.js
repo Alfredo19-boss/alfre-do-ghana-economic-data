@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T14:27:11.182Z",
+  "updated": "2026-11-14T14:47:09.209Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kotoko board unveil Asante Kotoko Ladies for 2026/27 season",
+      "link": "https://www.myjoyonline.com/kotoko-board-unveil-asante-kotoko-ladies-for-2026-27-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T14:37:03.000Z",
+      "summary": "Called Asante Kotoko Ladies, the female team will compete in the Ashanti Region Football Association’s Division One League this season.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "Asante Kotoko",
+        "Asante Kotoko Ladies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Obuasi Sexual Abuse Case: No teacher will be shielded if evidence proves wrongdoing – Haruna Iddrisu",
       "link": "https://www.myjoyonline.com/obuasi-sexual-abuse-case-no-teacher-will-be-shielded-if-evidence-proves-wrongdoing-haruna-iddrisu/",
@@ -153,22 +168,6 @@ window.GDC_PAPERS = {
         "National",
         "Haruna Iddrisu",
         "Mfantsipim @ 150"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Day Two kicks off with exciting bargains, irresistible deals at Ghud Park",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-two-kicks-off-with-exciting-bargains-irresistible-deals-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:11:53.000Z",
-      "summary": "The shopping excitement is back, the bargains are calling and the opportunities to discover Ghanaian-made products are getting even bigger as Day Two of the Ecobank JoyBusiness SME Fair…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP Business 1",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Ghud Park"
       ],
       "site": "https://www.myjoyonline.com/"
     },
