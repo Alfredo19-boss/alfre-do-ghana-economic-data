@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T03:40:15.997Z",
+  "updated": "2026-11-14T03:50:19.246Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police begin rolling out TraffiTech-GH speed camera warning signs after Mahama directive",
+      "link": "https://www.myjoyonline.com/police-begin-rolling-out-traffitech-gh-speed-camera-warning-signs-after-mahama-directive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T01:11:00.000Z",
+      "summary": "The Ghana Police Service and road safety agencies have commenced processes for the installation of large advance warning signboards across key road corridors to alert motorists to the…",
+      "categories": [
+        "National",
+        "News",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AU Commission chairperson pays courtesy call on President Mahama",
       "link": "https://www.myjoyonline.com/au-commission-chairperson-pays-courtesy-call-on-president-mahama/",
@@ -129,21 +142,6 @@ window.GDC_PAPERS = {
         "HP News 2",
         "News",
         "Billboard"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
-      "link": "https://www.myjoyonline.com/police-arrest-three-over-suspected-gh%c2%a220m-counterfeit-gtp-fabrics-at-adabraka/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:37:15.000Z",
-      "summary": "The Ghana Police Service has arrested three suspects and seized assorted fabrics valued at about GH¢20 million, suspected to be counterfeit GTP wax prints, at Adabraka in Accra.",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Adabraka",
-        "counterfeit GTP",
-        "Ghana Police Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
