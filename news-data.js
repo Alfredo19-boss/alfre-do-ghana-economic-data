@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T09:36:34.681Z",
+  "updated": "2026-11-14T09:46:33.485Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,25 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government to merge MIIF and GIIF into sovereign wealth fund",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/government-to-merge-miif-and-giif-into-sovereign-wealth-fund/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T09:40:23.000Z",
+      "summary": "The Government will merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund."
+    },
+    {
+      "title": "Ghana government targets end to emergency power generation by 2030",
+      "link": "https://www.ghanabusinessnews.com/2026/11/14/ghana-government-targets-end-to-emergency-power-generation-by-2030/",
+      "source": "Ghana Business News",
+      "published": "2026-11-14T09:36:49.000Z",
+      "summary": "The Ghana government will phase out all emergency power plants by December 2030 to reduce electricity generation costs and secure reliable power for industrial growth."
+    },
     {
       "title": "Government earmarks oil, mineral revenues for Western Corridor Railway",
       "link": "https://www.ghanabusinessnews.com/2026/11/14/government-earmarks-oil-mineral-revenues-for-western-corridor-railway/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T16:51:01.000Z",
       "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political…"
-    },
-    {
-      "title": "MIIF Targets Foreign Capital To Unlock Ghana’s $528 Million Iron and Steel Import Substitution Potential",
-      "link": "https://thehighstreetjournal.com/miif-targets-foreign-capital-to-unlock-ghanas-528-million-iron-and-steel-import-substitution-potential/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T16:50:00.000Z",
-      "summary": "Ghana is courting international investors to develop its bauxite, iron ore, manganese and lithium resources, with domestic processing offering opportunities to replace US$528 million in…"
-    },
-    {
-      "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
-      "link": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:37:36.000Z",
-      "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP…"
     }
   ]
 };
