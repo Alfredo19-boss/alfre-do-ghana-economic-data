@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T15:07:08.851Z",
+  "updated": "2026-11-14T15:17:11.997Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,7 +27,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T14:46:09.000Z",
       "summary": "A surgeon, Dr Justine Dakurah, has declared his intention to contest the New Patriotic Party's (NPP) parliamentary primary in the Nadowli-Kaleo Constituency of the Upper West Region.",
       "categories": [
-        "HP News 6",
         "Politics",
         "Dr Justine Dakurah",
         "Nadowli-Kaleo Constituency",
