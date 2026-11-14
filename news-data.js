@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T12:06:38.119Z",
+  "updated": "2026-11-14T12:16:39.718Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
+      "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:12:54.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 opened at GHUD Park, Accra Mall, bringing together an impressive collection of Ghanaian businesses, established brands, entrepreneurs and service…"
+    },
     {
       "title": "Major Deals Expected As GIPA Hosts Dangote, Global Investors At Maiden Invest Ghana Summit From Monday",
       "link": "https://thehighstreetjournal.com/major-deals-expected-as-gipa-hosts-dangote-global-investors-at-maiden-invest-ghana-summit-from-monday/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T18:08:51.000Z",
       "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
-    },
-    {
-      "title": "Cargo Losses Threaten Working Capital as ICSG Pushes for Stronger Insurance Awareness Among Importers",
-      "link": "https://thehighstreetjournal.com/cargo-losses-threaten-working-capital-as-icsg-pushes-for-stronger-insurance-awareness-among-importers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T17:51:09.000Z",
-      "summary": "ICSG is targeting cargo-related financial losses through insurance education while calling for higher personal injury compensation limits, highlighting the importance of stronger financial…"
     }
   ]
 };

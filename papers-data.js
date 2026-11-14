@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T12:07:07.880Z",
+  "updated": "2026-11-14T12:17:09.469Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,58 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
+      "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:12:54.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 opened at GHUD Park, Accra Mall, bringing together an impressive collection of Ghanaian businesses, established brands, entrepreneurs and service…",
+      "categories": [
+        "Business",
+        "Events",
+        "HP Business 2",
+        "HP News 2",
+        "National",
+        "News",
+        "Ecobank JoyBusiness SME Fair 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Disqualified NDC National Youth Organizer aspirant rules out appeal",
+      "link": "https://www.myjoyonline.com/disqualified-ndc-national-youth-organizer-aspirant-rules-out-appeal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:11:17.000Z",
+      "summary": "Steven Nhyira Odarteifio says he will neither protest nor appeal his disqualification from the National Democratic Congress (NDC) race for the National Youth Organizer position.",
+      "categories": [
+        "Politics",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Drug trafficking isn’t a political problem; it’s an institutional one – Senyo Hosi",
+      "link": "https://www.myjoyonline.com/drug-trafficking-isnt-a-political-problem-its-an-institutional-one-senyo-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T12:09:36.000Z",
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has described drug trafficking in Ghana as an institutional problem, calling for stronger…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Drug trafficking",
+        "Narcotics Control Commission (NACOC)",
+        "Senyo Hosi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "200 police officers deployed to Nalerigu NDC election grounds",
       "link": "https://www.myjoyonline.com/200-police-officers-deployed-to-nalerigu-ndc-election-grounds/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T11:58:46.000Z",
       "summary": "About 200 unarmed police officers have arrived at the Nalerigu Senior High School, the venue for the National Democratic Congress (NDC) Regional Executive Elections, as security is…",
       "categories": [
-        "HP News 2",
+        "HP News 3",
         "News",
         "Politics",
         "Regional",
@@ -119,35 +164,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The fight against galamsey has failed – Senyo Hosi",
-      "link": "https://www.myjoyonline.com/the-fight-against-galamsey-has-failed-senyo-hosi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T10:16:18.000Z",
-      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, says Ghana's fight against illegal mining has failed and requires a fundamental change in…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Galamsey",
-        "Senyo -Hosi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Goalkeeper Owono banned for 12 matches after collision that caused Miguel’s death",
-      "link": "https://www.myjoyonline.com/goalkeeper-owono-banned-for-12-matches-after-collision-that-caused-miguels-death/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T10:11:06.000Z",
-      "summary": "FC Andorra goalkeeper Jesus Owono has been given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of…",
-      "categories": [
-        "Football",
-        "HP News 10",
-        "HP Sports 3",
-        "News",
-        "Jesus Owono"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Cardinal Mines urges women to prioritise breast health",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cardinal-mines-urges-women-to-prioritise-breast-health.html",
       "source": "Daily Graphic",
@@ -212,21 +228,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Volta NDC election: Dr Lawer Egbenya outlines vision for Deputy Regional Secretary position",
-      "link": "https://www.myjoyonline.com/volta-ndc-election-dr-lawer-egbenya-outlines-vision-for-deputy-regional-secretary-position/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T09:19:05.000Z",
-      "summary": "With the National Democratic Congress (NDC) set to elect its regional executives on Sunday, November 15, 2026, Dr Lawer Egbenya is seeking to bring his experience in constituency…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Dr Lawer Egbenya",
-        "NDC",
-        "Volta Region"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ato Forson recalls economic meltdown Under NPP",
