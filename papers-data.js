@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T17:50:28.436Z",
+  "updated": "2026-11-14T18:00:27.473Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ken Ashigbey accuses politicians of frustrating galamsey enforcement",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-accuses-politicians-of-frustrating-galamsey-enforcement/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:50:28.000Z",
+      "summary": "The Convenor of the Media Coalition Against Galamsey, Kenneth Ashigbey, has accused political interference of undermining efforts by local government authorities to tackle illegal mining…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ken Ashigbey urges Mahama to declare a state of emergency in galamsey hotspots",
       "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mahama-to-declare-a-state-of-emergency-in-galamsey-hotspots/",
@@ -143,22 +156,6 @@ window.GDC_PAPERS = {
         "National",
         "Mfantsipim School",
         "Naana Jane opoku-agyemang"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Catholic Bishops’ Conference calls for urgency as Parliament reconsiders anti-LGBTQ+ Bill",
-      "link": "https://www.myjoyonline.com/ghana-catholic-bishops-conference-calls-for-urgency-as-parliament-reconsiders-anti-lgbtq-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:58:54.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference has called on Parliament and relevant constitutional institutions to act with urgency and ensure strict adherence to constitutional and legislative…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "News",
-        "Anti-LGBTQ+ bill",
-        "Ghana Catholic Bishops' Conference",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
