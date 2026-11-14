@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T18:40:28.074Z",
+  "updated": "2026-11-14T18:50:29.905Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,15 +21,38 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
+      "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T18:42:28.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bono NDC Elections: Nyamekye-Marfo cruises to victory with over 90% of votes",
+      "link": "https://www.graphic.com.gh/news/politics/bono-ndc-elections-nyamekye-marfo-cruises-to-victory-with-over-90-of-votes.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T18:36:36.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Godfred Apasinaba Wumbei ‘Yellow Man’ wins NDC Northern Regional chairmanship with 328 votes",
       "link": "https://www.myjoyonline.com/godfred-apasinaba-wumbei-yellow-man-wins-ndc-northern-regional-chairmanship-with-328-votes/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T18:31:27.000Z",
-      "summary": "Godfred Apasinaba Wumbei, popularly known as Yellowman, has been elected Northern Regional Chairman of the National Democratic Congress (NDC), securing 328 votes in the party’s regional…",
+      "summary": "Godfred Apasinaba Wumbei, popularly known as Yellow Man, has been elected Northern Regional Chairman of the National Democratic Congress (NDC), securing 328 votes in the party's regional…",
       "categories": [
         "News",
         "Politics",
         "Regional",
+        "Top Story",
         "Chairman",
         "NDC",
         "Northern region",
@@ -58,6 +81,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T17:58:18.000Z",
       "summary": "Deputy Foreign Affairs Minister and Assin North MP James Gyakye Quayson says President John Dramani Mahama has an opportunity to build on Ghana’s political independence by securing economic…",
       "categories": [
+        "HP News 2",
+        "HP News 7",
         "National",
         "Politics",
         "economic freedom",
@@ -199,28 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-election-chairman-bolnaba-calls-for-peace-as-570-delegates-vote.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T13:50:49.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Voting delayed at Ashanti Region NDC Regional Election",
-      "link": "https://www.graphic.com.gh/news/politics/voting-delayed-at-ashanti-region-ndc-regional-election.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T13:35:20.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
-      "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T12:44:10.000Z",
       "summary": "",
       "categories": [
         "Politics"
