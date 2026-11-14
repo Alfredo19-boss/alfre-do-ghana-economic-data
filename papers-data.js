@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:46:45.516Z",
+  "updated": "2026-11-14T08:56:45.532Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -53,7 +53,9 @@ window.GDC_PAPERS = {
       "categories": [
         "Arts and Culture",
         "HP Entertainment 1",
+        "HP Lifestyle 1",
         "HP News 10",
+        "Lifestyle",
         "Photo Story",
         "Beads",
         "the Ecobank-Joy Prime SME Fair"
