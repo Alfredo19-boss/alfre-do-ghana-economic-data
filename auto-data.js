@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-14T17:03:32.178Z",
+  "updated": "2026-11-14T17:47:24.005Z",
   "values": {
     "fx.usd": {
       "value": 11.69,
@@ -193,7 +193,7 @@ window.GDC_AUTO = {
     ]
   },
   "fxTable": {
-    "date": "2026-11-14",
+    "date": "2026-11-13",
     "rates": {
       "USD": {
         "ghs": 11.69,
@@ -268,51 +268,51 @@ window.GDC_AUTO = {
         "src": "BoG"
       },
       "AED": {
-        "ghs": 3.19255,
+        "ghs": 3.19164,
         "src": "market"
       },
       "INR": {
-        "ghs": 0.124379,
+        "ghs": 0.124411,
         "src": "market"
       },
       "SAR": {
-        "ghs": 3.12658,
+        "ghs": 3.12568,
         "src": "market"
       },
       "KES": {
-        "ghs": 0.0901739,
+        "ghs": 0.0901938,
         "src": "market"
       },
       "EGP": {
-        "ghs": 0.219145,
+        "ghs": 0.219354,
         "src": "market"
       },
       "MAD": {
-        "ghs": 1.17821,
+        "ghs": 1.18679,
         "src": "market"
       },
       "XAF": {
-        "ghs": 0.0196993,
+        "ghs": 0.0197606,
         "src": "market"
       },
       "TZS": {
-        "ghs": 0.00442815,
+        "ghs": 0.00441575,
         "src": "market"
       },
       "UGX": {
-        "ghs": 0.00284017,
+        "ghs": 0.00284797,
         "src": "market"
       },
       "ETB": {
-        "ghs": 0.072835,
+        "ghs": 0.0718782,
         "src": "market"
       },
       "RWF": {
-        "ghs": 0.00794361,
+        "ghs": 0.00792977,
         "src": "market"
       },
       "BWP": {
-        "ghs": 0.839156,
+        "ghs": 0.844567,
         "src": "market"
       }
     },
@@ -442,6 +442,15 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-11-14T17:47:24.005Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok",
+        "kept newer gold.usdPerOz from 2026-11-14"
+      ]
+    },
+    {
       "at": "2026-11-14T17:03:32.178Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -542,14 +551,6 @@ window.GDC_AUTO = {
     },
     {
       "at": "2026-11-14T05:03:30.180Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-11-14T04:16:58.837Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",

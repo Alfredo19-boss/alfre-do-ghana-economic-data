@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T17:26:49.602Z",
+  "updated": "2026-11-14T17:40:28.225Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Former Regional Minister elected NDC North East Regional Secretary",
+      "link": "https://www.graphic.com.gh/news/politics/former-regional-minister-elected-ndc-north-east-regional-secretary.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T17:30:38.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Samson’s Take: Ghana’s media madness – Politicians created it",
+      "link": "https://www.myjoyonline.com/samsons-take-ghanas-media-madness-politicians-created-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:28:49.000Z",
+      "summary": "Sam Nartey George says Ghana's broadcasting landscape is overcrowded, describing the proliferation of radio and television stations as pure madness. He's absolutely right about the problem.",
+      "categories": [
+        "Features",
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "Ghana",
+        "Media",
+        "Politicians",
+        "Samson's Take"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mfantsipim School has a distinguished place in Ghana’s educational history – Vice President",
       "link": "https://www.myjoyonline.com/mfantsipim-school-has-a-distinguished-place-in-ghanas-educational-history-vice-president/",
@@ -136,19 +165,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ambassador Smith urges investors to create well-paying jobs to curb brain drain",
-      "link": "https://www.myjoyonline.com/ambassador-smith-urges-investors-to-create-well-paying-jobs-to-curb-brain-drain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:36:52.000Z",
-      "summary": "The Embassy of Ghana in the United States, in collaboration with Region 17, has held a special business roundtable in Chicago, Illinois, bringing together investors, business leaders and…",
-      "categories": [
-        "National",
-        "Ambassador Victor Emmanuel Smith",
-        "Brain drain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "All set for maiden Ahanta Fest UK in London",
       "link": "https://www.graphic.com.gh/news/general-news/all-set-for-maiden-ahanta-fest-uk-in-london.html",
       "source": "Daily Graphic",
@@ -208,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T12:44:10.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Asiedu Nketiah to Police: Arrest anyone buying votes in NDC elections",
-      "link": "https://www.graphic.com.gh/news/politics/asiedu-nketiah-to-police-arrest-anyone-buying-votes-in-ndc-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T12:36:14.000Z",
       "summary": "",
       "categories": [
         "Politics"
