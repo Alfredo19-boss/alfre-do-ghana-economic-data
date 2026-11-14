@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:55:28.264Z",
+  "updated": "2026-11-14T21:05:27.151Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nana Kojo Toku defeats Borlu to retain NDC Western Regional chairmanship",
+      "link": "https://www.myjoyonline.com/nana-kojo-toku-defeats-borlu-to-retain-ndc-western-regional-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:57:47.000Z",
+      "summary": "Nana Kojo Toku has retained his position as Western Regional Chairman of the National Democratic Congress (NDC) after defeating two challengers in the party’s regional executive elections.",
+      "categories": [
+        "National",
+        "News",
+        "Borlu",
+        "Nana Kojo Toku",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nana Kwasi retains Ashanti NDC chairmanship with 814 votes",
       "link": "https://www.myjoyonline.com/nana-kwasi-retains-ashanti-ndc-chairmanship-with-814-votes/",
@@ -122,20 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "Ghanaians",
         "social media overuse"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Experts urge Ghanaian youth to rethink their online behaviour as digital risks grow",
-      "link": "https://www.myjoyonline.com/experts-urge-ghanaian-youth-to-rethink-their-online-behaviour-as-digital-risks-grow/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T18:56:39.000Z",
-      "summary": "The Society of Private Medical and Dental Practitioners has called for responsible use of social media among young people, warning that growing exposure to online risks could have serious…",
-      "categories": [
-        "National",
-        "digital risks",
-        "Ghanaian Youth",
-        "online behaviour"
       ],
       "site": "https://www.myjoyonline.com/"
     },
