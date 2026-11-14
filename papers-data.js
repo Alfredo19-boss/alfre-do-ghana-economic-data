@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T13:37:20.242Z",
+  "updated": "2026-11-14T13:47:09.152Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The 2027 budget is a “common sense” budget – Senyo Hosi",
+      "link": "https://www.myjoyonline.com/the-2027-budget-is-a-common-sense-budget-senyo-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:45:20.000Z",
+      "summary": "Convener of the OneGhana Movement and Finance and Economic Policy Analyst, Senyo Hosi, has described the government's 2027 Budget as a “great common-sense budget”, praising its focus on…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "“great common-sense budget”"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Voting delayed at Ashanti Region NDC Regional Election",
       "link": "https://www.graphic.com.gh/news/politics/voting-delayed-at-ashanti-region-ndc-regional-election.html",
@@ -135,20 +148,6 @@ window.GDC_PAPERS = {
         "National",
         "Haruna Iddrisu",
         "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Julius Debrah calls for unity as NDC elects Eastern Regional executives",
-      "link": "https://www.myjoyonline.com/julius-debrah-calls-for-unity-as-ndc-elects-eastern-regional-executives/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:00:22.000Z",
-      "summary": "Chief of Staff Julius Debrah has called on delegates participating in the NDC's Eastern Regional executive elections to uphold peace and unity, reminding them that the outcome of the…",
-      "categories": [
-        "National",
-        "Eastern Regional executives",
-        "Julius Debrah",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
