@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T10:07:05.324Z",
+  "updated": "2026-11-14T10:17:05.205Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,10 +21,56 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Goalkeeper Owono banned for 12-matches after collision that caused Miguel’s death",
+      "link": "https://www.myjoyonline.com/goalkeeper-owono-banned-for-12-matches-after-collision-that-caused-miguels-death/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T10:11:06.000Z",
+      "summary": "FC Andorra goalkeeper Jesus Owono has been given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Jesus Owono"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cardinal Mines urges women to prioritise breast health",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cardinal-mines-urges-women-to-prioritise-breast-health.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T10:06:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Abuakwa State College faces infrastructure, staffing challenges - GETFund projects stalled",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abuakwa-state-college-faces-infrastructure-staffing-challenges-getfund-projects-stalled.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:58:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "GHS partners global firm to tackle chronic kidney disease",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-partners-global-firm-to-tackle-chronic-kidney-disease.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T09:54:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana considers more contributions to AU - Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-considers-more-contributions-to-au-ablakwa.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:50:36.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -87,39 +133,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Prof. Frimpong-Boateng pushes for commercialisation of research findings",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prof-frimpong-boateng-pushes-for-commercialisation-of-research-findings.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:09:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sir Sam Jonah: Acheampong is an 'Orphan of Ghana's politics'",
-      "link": "https://www.graphic.com.gh/news/politics/sir-sam-jonah-acheampong-is-an-orphan-of-ghanas-politics.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:03:48.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NGO advocates reintegration policy for former prisoners",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ngo-advocates-reintegration-policy-for-former-prisoners.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T09:03:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -210,26 +223,6 @@ window.GDC_PAPERS = {
         "Asiedu Nketiah",
         "Ghana",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPA reduces price floor for petrol to GH¢13.69, diesel to GH¢16.73",
-      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-diesel-to-gh%c2%a216-73/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:25:02.000Z",
-      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise",
-      "categories": [
-        "Business",
-        "Energy",
-        "In Focus",
-        "COMAC",
-        "Crude Oil",
-        "Diesel",
-        "LPG",
-        "NPA",
-        "Petrol",
-        "price floor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
