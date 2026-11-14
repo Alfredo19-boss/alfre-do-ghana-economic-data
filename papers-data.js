@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:05:27.151Z",
+  "updated": "2026-11-14T21:10:27.579Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sam Jonah calls for honest reassessment of General I.K. Acheampong’s leadership",
+      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-honest-reassessment-of-general-i-k-acheampongs-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:05:52.000Z",
+      "summary": "Business leader and University of Cape Coast Chancellor Sir Sam Jonah has called for a fresh and balanced examination of the leadership of former Head of State General Ignatius Kutu…",
+      "categories": [
+        "National",
+        "General Acheampong",
+        "Leadership",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nana Toku defeats Borlu to retain NDC Western Regional chairmanship",
+      "link": "https://www.myjoyonline.com/nana-toku-defeats-borlu-to-retain-ndc-western-regional-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:57:47.000Z",
+      "summary": "Nana Kojo Toku has retained his position as Western Regional Chairman of the National Democratic Congress (NDC) after defeating two challengers in the party’s regional executive elections.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Politics",
+        "Borlu",
+        "Nana Kojo Toku",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nana Kojo Toku defeats Borlu to retain NDC Western Regional chairmanship",
       "link": "https://www.myjoyonline.com/nana-kojo-toku-defeats-borlu-to-retain-ndc-western-regional-chairmanship/",
@@ -108,35 +139,6 @@ window.GDC_PAPERS = {
         "Politics",
         "NDC",
         "Upper East"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
-      "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:00:06.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 is getting even more exciting, with Ghanaian music duo Lali X Lola adding a musical dimension to the three-day exhibition at Ghud Park, Accra Mall.",
-      "categories": [
-        "Business",
-        "Events",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Ghud Park",
-        "Lali x Lola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Internet Society of Ghana President urges Ghanaians to be responsible online, warns against social media overuse",
-      "link": "https://www.myjoyonline.com/internet-society-of-ghana-president-urges-ghanaians-to-be-responsible-online-warns-against-social-media-overuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T19:39:19.000Z",
-      "summary": "President of the Internet Society of Ghana, Dr Maud Adjeley Ashong Elliot, has urged Ghanaians to adopt responsible online behaviour, warning that careless use of social media can affect…",
-      "categories": [
-        "National",
-        "Ghanaians",
-        "social media overuse"
       ],
       "site": "https://www.myjoyonline.com/"
     },
