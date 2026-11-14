@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T22:43:28.281Z",
+  "updated": "2026-11-14T22:48:28.081Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
+      "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T22:40:49.000Z",
+      "summary": "Two years after leaders pledged US$2.2 billion to expand clean cooking in Africa, only about US$740 million has been paid out, leaving roughly two-thirds of the money, about US$1.46…"
+    },
     {
       "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
       "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T01:29:00.000Z",
       "summary": "The Chief Executive Officer of Dedeyao Farms, Daniel Asimadi, has called on the government to provide stronger financial and institutional support to farmers, warning that commercial…"
-    },
-    {
-      "title": "Zonda Tec, Rainbow support 42nd National Farmers’ Day",
-      "link": "https://gna.org.gh/2026/11/zonda-tec-rainbow-support-42nd-national-farmers-day/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-11T23:40:34.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };
