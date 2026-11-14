@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:25:28.866Z",
+  "updated": "2026-11-14T21:35:27.227Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
+      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:26:58.000Z",
+      "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Agric investment",
+        "operation feed yourself",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Augustus Andrews secures third term as Ashanti NDC Chairman with 814 votes",
       "link": "https://www.graphic.com.gh/news/politics/augustus-andrews-secures-third-term-as-ashanti-ndc-chairman-with-814-votes.html",
@@ -136,23 +151,6 @@ window.GDC_PAPERS = {
         "Politics",
         "Ashanti NDC",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lali X Lola, King Jerry energise vendors at Ecobank JoyBusiness SME Fair as they turn to the dance floor",
-      "link": "https://www.myjoyonline.com/lali-x-lola-king-jerry-energise-vendors-at-ecobank-joybusiness-sme-fair-as-they-turn-to-the-dance-floor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:43:35.000Z",
-      "summary": "The second day of the Ecobank JoyBusiness SME Fair 2026 ended amid music, dancing and excitement as Ghanaian music acts Lali X Lola and King Jerry treated patrons to lively performances…",
-      "categories": [
-        "Business",
-        "Events",
-        "Music",
-        "National",
-        "Ecobank JoyBusiness SME Fair",
-        "King Jerry",
-        "Lali x Lola"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T21:25:26.373Z",
+  "updated": "2026-11-14T21:34:57.117Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
+      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:26:58.000Z",
+      "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing…"
+    },
     {
       "title": "Lali X Lola, King Jerry energise vendors at Ecobank JoyBusiness SME Fair as they turn to the dance floor",
       "link": "https://www.myjoyonline.com/lali-x-lola-king-jerry-energise-vendors-at-ecobank-joybusiness-sme-fair-as-they-turn-to-the-dance-floor/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T22:59:00.000Z",
       "summary": "L’AÎNÉ Foundation, the corporate social responsibility arm of L’AÎNÉ HR, has called on entrepreneurs in Ghana to build sustainable businesses that go beyond profitability to create jobs…"
-    },
-    {
-      "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-      "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:18:00.000Z",
-      "summary": "Nvidia board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with ​a suspected Chinese spy, the Wall Street Journal reported ‌on Wednesday, citing…"
     }
   ]
 };
