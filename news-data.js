@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T04:56:15.547Z",
+  "updated": "2026-11-14T05:06:19.133Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "VIP-Style Bus Model Could Unlock Private Capital for Ghana’s Urban Transport",
+      "link": "https://thehighstreetjournal.com/vip-style-bus-model-could-unlock-private-capital-for-ghanas-urban-transport/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:05:00.000Z",
+      "summary": "A private-sector investment model that allows individuals, existing trotro owners and small investors to finance professionally managed intra-city bus fleets could reshape public transport…"
+    },
+    {
+      "title": "Gov’t to Secure $500 Million Oil Palm Financing to Create 250,000 Jobs",
+      "link": "https://thehighstreetjournal.com/ghana-to-secure-500mn-oil-palm-financing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:03:00.000Z",
+      "summary": "The programme will support the development of new oil palm plantations across the Western, Central, Eastern, Volta and Ashanti regions"
+    },
+    {
+      "title": "Private Sector Financing Expected to Rise as Ghana Targets 5.2% Growth",
+      "link": "https://thehighstreetjournal.com/private-sector-financing-expected-to-rise-as-ghana-targets-5-2-growth/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:02:00.000Z",
+      "summary": "Government expects lower interest rates, stronger business confidence and improved access to credit to support private investment, economic expansion and job creation."
+    },
+    {
+      "title": "Rates Fall, but Credit Doors Stay Shut for Many Ghanaian Businesses",
+      "link": "https://thehighstreetjournal.com/rates-fall-but-credit-doors-stay-shut-for-many-ghanaian-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:01:00.000Z",
+      "summary": "Prof. Samuel Lartey says falling rates have not eased credit for Ghanaian businesses, citing high lending rates and distressed loans, and urges clearer bank disclosures."
+    },
+    {
+      "title": "GCB Bank Doubles Down on Lending as Profit Hits GH¢2.87bn",
+      "link": "https://thehighstreetjournal.com/gcb-bank-doubles-down-on-lending-as-profit-hits-gh%c2%a22-87bn/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:00:00.000Z",
+      "summary": "GCB Bank's nine-month profit rose 42.6% to GH¢2.87bn, driven by stronger lending, improved loan quality and increased fee income, as it targets GH¢3.7bn in 2026."
+    },
+    {
+      "title": "UKGCC Mobilises Corporate, Public support to strengthen neonatal care at PMLCH",
+      "link": "https://thehighstreetjournal.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T05:00:00.000Z",
+      "summary": "The UK-Ghana Chamber of Commerce has raised GH¢923,165 for neonatal incubators and installed GH¢67,917 CCTV systems at Princess Marie Louise Children's Hospital."
+    },
     {
       "title": "Ghana to invest $200m in nuclear power readiness programme",
       "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-to-invest-200m-in-nuclear-power-readiness-programme/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T14:48:24.000Z",
       "summary": "The Chief Executive Officer of the Volta River Authority (VRA), Edward Obeng Kenzo, is calling for sustained investment in Ghana’s energy infrastructure to ensure reliable, affordable and…"
-    },
-    {
-      "title": "Three Banks Seek Non-Interest Licences as Ghana Targets US$10.5 Trillion Market",
-      "link": "https://thehighstreetjournal.com/three-banks-seek-non-interest-licences-as-ghana-targets-us10-5-trillion-market/",
-      "source": "The High Street Journal",
-      "published": "2026-11-11T14:21:39.000Z",
-      "summary": "Ghana is targeting the US$10.5 trillion global non-interest finance market by 2030 as three banks seek licences, potentially expanding business financing, investment opportunities and…"
-    },
-    {
-      "title": "Beyond Bananas: How Golden Exotics holds a blueprint for Ghana’s agricultural transformation",
-      "link": "https://www.myjoyonline.com/beyond-bananas-how-golden-exotics-holds-a-blueprint-for-ghanas-agricultural-transformation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:58:43.000Z",
-      "summary": "Ghana’s banana industry is demonstrating the potential of large-scale irrigation and private-sector investment to transform agricultural production, create jobs and strengthen the country’s…"
-    },
-    {
-      "title": "Analyst urges focus on high cost of essentials ahead of 2027 budget",
-      "link": "https://www.myjoyonline.com/analyst-urges-focus-on-high-cost-of-essentials-ahead-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:17:41.000Z",
-      "summary": "Economic and environmental policy analyst Michael Adofo Abuah has urged the government to address the rising cost of essential goods and services as it prepares to roll out its New Economy…"
-    },
-    {
-      "title": "Ennobled Foundation recognises Female Accounting Graduate to encourage more women in the profession",
-      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:10:38.000Z",
-      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…"
-    },
-    {
-      "title": "Ennobled Foundation recognises Best Female Accounting Graduate to encourage more women in the profession",
-      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-best-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:10:38.000Z",
-      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…"
-    },
-    {
-      "title": "Mahama directs Petroleum Commission, other agencies to work on feedstock supply for Petroleum Hub Project",
-      "link": "https://www.myjoyonline.com/mahama-directs-petroleum-commission-other-agencies-to-work-on-feedstock-supply-for-petroleum-hub-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:05:45.000Z",
-      "summary": "The Petroleum Commission and other state agencies in the upstream oil and gas sector have been instructed by President John Dramani Mahama to work with the Petroleum Hub Development…"
     }
   ]
 };

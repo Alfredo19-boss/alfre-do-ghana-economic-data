@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T04:56:46.717Z",
+  "updated": "2026-11-14T05:06:46.329Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Day 2 promises more shopping deals, networking and excitement",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-2-promises-more-shopping-deals-networking-and-excitement/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T05:03:32.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 enters its second day on Saturday, November 14, with shoppers, families and business enthusiasts expected at Ghud Park, Accra Mall, to explore a wide…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
       "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
@@ -113,21 +127,6 @@ window.GDC_PAPERS = {
         "News",
         "US",
         "US Air Force"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tearful Pochettino on ‘difficult’ decision to leave USA for Man Utd",
-      "link": "https://www.myjoyonline.com/tearful-pochettino-on-difficult-decision-to-leave-usa-for-man-utd/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T23:06:35.000Z",
-      "summary": "Mauricio Pochettino says the decision to leave his role as boss of the USA national team to become Manchester United head coach was \"one of the most difficult\" of his career.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Manchester United",
-        "Mauricio Pochettino",
-        "USA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
