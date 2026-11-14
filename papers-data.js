@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:05:28.523Z",
+  "updated": "2026-11-14T20:10:28.091Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Alhaji Bolnaba wins another term as NDC Upper East Regional Chairman",
+      "link": "https://www.myjoyonline.com/alhaji-bolnaba-wins-another-term-as-ndc-upper-east-regional-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:04:21.000Z",
+      "summary": "Alhaji Abdulai Mumuni Bolnaba has won another term as Upper East Regional Chairman of the governing National Democratic Congress (NDC), beating challenger Duncan Nsoh Ghaneba by 220 votes…",
+      "categories": [
+        "National",
+        "Politics",
+        "NDC",
+        "Upper East"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
       "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
@@ -147,19 +161,6 @@ window.GDC_PAPERS = {
         "economic freedom",
         "Gyakye Quayson",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey accuses politicians of frustrating galamsey enforcement",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-accuses-politicians-of-frustrating-galamsey-enforcement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:50:28.000Z",
-      "summary": "The Convenor of the Media Coalition Against Galamsey, Kenneth Ashigbey, has accused political interference of undermining efforts by local government authorities to tackle illegal mining…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "Ken Ashigbey"
       ],
       "site": "https://www.myjoyonline.com/"
     },
