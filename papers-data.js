@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T14:07:12.855Z",
+  "updated": "2026-11-14T14:27:11.182Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Obuasi Sexual Abuse Case: No teacher will be shielded if evidence proves wrongdoing – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/obuasi-sexual-abuse-case-no-teacher-will-be-shielded-if-evidence-proves-wrongdoing-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T14:23:02.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has assured that no teacher implicated in the allegations of sexual misconduct at Obuasi Senior High School (SHS) will be shielded from…",
+      "categories": [
+        "Education",
+        "National",
+        "Haruna Iddrisu",
+        "Obuasi SHTS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to recruit 10,000 teachers, 2,000 non-teaching staff in 2027 – Haruna Iddrisu",
+      "link": "https://www.graphic.com.gh/news/education/government-to-recruit-10-000-teachers-2-000-non-teaching-staff-in-2027-haruna-iddrisu.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T14:08:22.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Upper East NDC Election: Chairman Bolnaba calls for peace as 570 delegates vote",
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-election-chairman-bolnaba-calls-for-peace-as-570-delegates-vote.html",
@@ -148,21 +173,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Education Minister promises Mfantsipim School a 66-seater bus as part of its 150th anniversary celebration",
-      "link": "https://www.myjoyonline.com/education-minister-promises-mfantsipim-school-a-66-seater-bus-as-part-of-its-150th-anniversary-celebration/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:05:04.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has pledged to provide Mfantsipim School with a 66-seater bus as part of activities marking the institution’s 150th anniversary.",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "Haruna Iddrisu",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
       "link": "https://www.graphic.com.gh/news/politics/north-east-region-yea-deputy-ceo-criticises-npps-development-record-in-bawumias-home-region.html",
       "source": "Daily Graphic",
@@ -214,17 +224,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Cardinal Mines urges women to prioritise breast health",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cardinal-mines-urges-women-to-prioritise-breast-health.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T10:06:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
