@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T19:00:28.342Z",
+  "updated": "2026-11-14T19:10:30.014Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Experts urge Ghanaian youth to rethink their online behaviour as digital risks grow",
+      "link": "https://www.myjoyonline.com/experts-urge-ghanaian-youth-to-rethink-their-online-behaviour-as-digital-risks-grow/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T18:56:39.000Z",
+      "summary": "The Society of Private Medical and Dental Practitioners has called for responsible use of social media among young people, warning that growing exposure to online risks could have serious…",
+      "categories": [
+        "National",
+        "digital risks",
+        "Ghanaian Youth",
+        "online behaviour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cocaine busts: NPP cautions members against possible drug planting in luggage at airports, seaports",
       "link": "https://www.myjoyonline.com/cocaine-busts-npp-cautions-members-against-possible-drug-planting-in-luggage-at-airports-seaports/",
@@ -156,24 +170,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Samson’s Take: Ghana’s media madness – Politicians created it",
-      "link": "https://www.myjoyonline.com/samsons-take-ghanas-media-madness-politicians-created-it/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:28:49.000Z",
-      "summary": "Sam Nartey George says Ghana's broadcasting landscape is overcrowded, describing the proliferation of radio and television stations as pure madness. He's absolutely right about the problem.",
-      "categories": [
-        "Features",
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "Ghana",
-        "Media",
-        "Politicians",
-        "Samson's Take"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Inside BNI’s modernisation drive: New forensic lab, interrogation centre, and 111 vehicles commissioned",
