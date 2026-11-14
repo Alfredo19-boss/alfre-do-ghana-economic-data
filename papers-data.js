@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T16:36:50.690Z",
+  "updated": "2026-11-14T16:46:51.501Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Catholic Bishops’ Conference raises concerns over indiscipline and alleged sexual abuse in schools",
+      "link": "https://www.myjoyonline.com/catholic-bishops-conference-raises-concerns-over-indiscipline-and-alleged-sexual-abuse-in-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:39:26.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference has called for investigations into allegations of sexual abuse of minors by adults entrusted with their care in schools, describing the reports as…",
+      "categories": [
+        "National",
+        "Catholic Bishops",
+        "Indiscipline"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ambassador Smith urges investors to create well-paying jobs to curb brain drain",
+      "link": "https://www.myjoyonline.com/ambassador-smith-urges-investors-to-create-well-paying-jobs-to-curb-brain-drain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:36:52.000Z",
+      "summary": "The Embassy of Ghana in the United States, in collaboration with Region 17, has held a special business roundtable in Chicago, Illinois, bringing together investors, business leaders and…",
+      "categories": [
+        "National",
+        "Ambassador Victor Emmanuel Smith",
+        "Brain drain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "link": "https://www.myjoyonline.com/hungarian-authorities-uncover-20m-during-probe-of-orban-era-minister/",
@@ -146,33 +172,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mfantsipim @150: Haruna Iddrisu calls for collective effort to tackle indiscipline in schools",
-      "link": "https://www.myjoyonline.com/mfantsipim-150-haruna-iddrisu-calls-for-collective-effort-to-tackle-indiscipline-in-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:48:28.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has called on traditional rulers, religious leaders, parents and students to support efforts to tackle growing indiscipline in schools across the…",
-      "categories": [
-        "Education",
-        "National",
-        "Haruna Iddrisu",
-        "Mfantsipim @150"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The 2027 budget is a “common sense” budget – Senyo Hosi",
-      "link": "https://www.myjoyonline.com/the-2027-budget-is-a-common-sense-budget-senyo-hosi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:45:20.000Z",
-      "summary": "Convener of the OneGhana Movement and Finance and Economic Policy Analyst, Senyo Hosi, has described the government's 2027 Budget as a “great common-sense budget”, praising its focus on…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "“great common-sense budget”"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Voting delayed at Ashanti Region NDC Regional Election",
