@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T07:26:15.015Z",
+  "updated": "2026-11-14T07:36:15.149Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "THE SUCCESS PARADOX: His Dating Pool Becomes Lake Volta; Hers Becomes a Puddle!",
+      "link": "https://thehighstreetjournal.com/the-success-paradox-his-dating-pool-becomes-lake-volta-hers-becomes-a-puddle/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T07:27:46.000Z",
+      "summary": "The hilarious injustice of a world where Mother Nature seems to gives successful men a romantic buffet while successful women are left inspecting the leftovers and wondering who finished…"
+    },
     {
       "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
       "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T15:35:46.000Z",
       "summary": "The Tema Oil Refinery (TOR) is targeting a listing on the Ghana Stock Exchange by 2028 as part of efforts to secure its long-term sustainability and prevent a recurrence of its operational…"
-    },
-    {
-      "title": "Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations",
-      "link": "https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:22:37.000Z",
-      "summary": "The Ghana Petroleum Commission (PC) has introduced a Digital Permit Application Platform to simplify regulatory processes, reduce delays, and improve business operations in Ghana’s upstream…"
     }
   ]
 };
