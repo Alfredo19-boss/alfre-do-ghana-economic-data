@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T13:17:08.327Z",
+  "updated": "2026-11-14T13:27:10.423Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Robbery suspect who escaped from Konongo police custody arrested at Kasoa hideout",
+      "link": "https://www.myjoyonline.com/robbery-suspect-who-escaped-from-konongo-police-custody-arrested-at-kasoa-hideout/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T13:23:29.000Z",
+      "summary": "Police in Kasoa in the Central Region have recaptured Ibrahim Somaila, one of the suspects who escaped from police custody at Konongo, after a tip-off led officers to his hideout in the…",
+      "categories": [
+        "National",
+        "Regional",
+        "Kasoa",
+        "Konongo",
+        "Robbery"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mfantsipim @ 150: Gov’t to build 10 model SHSs, upgrade 30 Category B schools – Haruna Iddrisu",
       "link": "https://www.myjoyonline.com/mfantsipim-150-govt-to-build-10-model-shss-upgrade-30-category-b-schools-haruna-iddrisu/",
       "source": "MyJoyOnline",
@@ -28,6 +43,7 @@ window.GDC_PAPERS = {
       "summary": "The Minister of Education, Haruna Iddrisu, has announced plans by the government to construct 10 new model senior high schools across the country and upgrade 30 Category B schools to the…",
       "categories": [
         "Education",
+        "HP News 8",
         "National",
         "Haruna Iddrisu",
         "Mfantsipim @ 150"
@@ -130,25 +146,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Alex Apau Dadey",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Osabarimba Kwesi Atta welcomes Asantehene to Cape Coast for Mfantsipim’s 150th anniversary",
-      "link": "https://www.myjoyonline.com/photos-osabarimba-kwesi-atta-welcomes-asantehene-to-cape-coast-for-mfantsipims-150th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:35:15.000Z",
-      "summary": "The Paramount Chief of the Oguaa Traditional Area, Osabarimba Kwesi Atta, has welcomed the Asantehene, Otumfuo Osei Tutu II, to the Emintsimadze Palace in Cape Coast for Mfantsipim School’s…",
-      "categories": [
-        "Education",
-        "Events",
-        "HP News 8",
-        "National",
-        "Regional",
-        "Asantehene",
-        "Cape Coast",
-        "Mfantsipim 150th anniversary",
         "Mfantsipim School"
       ],
       "site": "https://www.myjoyonline.com/"
