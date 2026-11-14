@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-13T23:45:16.448Z",
+  "updated": "2026-11-13T23:55:17.518Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Image on new GH¢50 note is Theodosia Okoh, not her sister – BoG",
+      "link": "https://www.myjoyonline.com/image-on-new-gh%c2%a250-note-is-theodosia-okoh-not-her-sister-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-13T23:49:32.000Z",
+      "summary": "The Bank of Ghana (BoG) has dismissed concerns that the portrait of the late Mrs Theodosia Salome Okoh on the new GH¢50 Heritage Series banknote was taken from a photograph of her sister…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Bank",
+        "Bank of Ghana",
+        "Cedi",
+        "Note",
+        "Theodosia Salome Okoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US Air Force says it responded to ‘suspected drones’ over RAF Lakenheath",
       "link": "https://www.myjoyonline.com/us-air-force-says-it-responded-to-suspected-drones-over-raf-lakenheath/",
@@ -94,6 +112,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T21:46:56.000Z",
       "summary": "The government will, from Saturday, November 14, begin a nationwide billboard inspection and enforcement exercise, with structures found to be in breach of prescribed standards and…",
       "categories": [
+        "HP News 2",
         "News",
         "Billboard"
       ],
@@ -106,6 +125,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-13T21:37:15.000Z",
       "summary": "The Ghana Police Service has arrested three suspects and seized assorted fabrics valued at about GH¢20 million, suspected to be counterfeit GTP wax prints, at Adabraka in Accra.",
       "categories": [
+        "HP News 5",
         "National",
         "Adabraka",
         "counterfeit GTP",
@@ -125,21 +145,6 @@ window.GDC_PAPERS = {
         "Angola",
         "Benaiah Elorm Dafeamekpor",
         "Mexico"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police detail dramatic arrest of key suspect in the Sakumono double killing in Kumasi",
-      "link": "https://www.myjoyonline.com/police-detail-dramatic-arrest-of-key-suspect-in-the-sakumono-double-killing-in-kumasi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:35:57.000Z",
-      "summary": "The Ghana Police Service has been giving detailed accounts of the operation that led to the arrest of a prime suspect in the gruesome murder of a 57-year-old man and his niece at Sakumono…",
-      "categories": [
-        "Crime",
-        "Regional",
-        "double murder",
-        "Ejisu",
-        "Sakumono"
       ],
       "site": "https://www.myjoyonline.com/"
     },
