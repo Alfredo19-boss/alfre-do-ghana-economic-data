@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:25:27.681Z",
+  "updated": "2026-11-14T20:30:27.958Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Obeng Inkoom unseats Richard Asiedu to become NDC Central Regional Chair with an 8-vote difference",
+      "link": "https://www.myjoyonline.com/obeng-inkoom-unseats-richard-asiedu-to-become-ndc-central-regional-chair-with-an-8-vote-difference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:25:51.000Z",
+      "summary": "Private legal practitioner Obeng Inkoom has been elected Central Regional Chairman of the National Democratic Congress (NDC), ending Dr Richard Asiedu’s tenure after a closely contested…",
+      "categories": [
+        "National",
+        "NDC",
+        "Obeng Inkoom",
+        "Richard Asiedu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "21-year-old Ghanaian Thomas Oduro stabbed to death in North London",
       "link": "https://www.myjoyonline.com/21-year-old-ghanaian-thomas-oduro-stabbed-to-death-in-north-london/",
@@ -146,20 +160,6 @@ window.GDC_PAPERS = {
         "NDC",
         "Northern region",
         "Yellowman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Auditor-General to introduce e-tracking system to monitor implementation of audit recommendations",
-      "link": "https://www.myjoyonline.com/auditor-general-to-introduce-e-tracking-system-to-monitor-implementation-of-audit-recommendations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T18:00:03.000Z",
-      "summary": "Ghana’s Auditor-General, Dr Pamela Graham, has announced plans to introduce an electronic tracking system to monitor the implementation of recommendations contained in the Auditor-General’s…",
-      "categories": [
-        "National",
-        "audit recommendations",
-        "Auditor-General",
-        "e-tracking system"
       ],
       "site": "https://www.myjoyonline.com/"
     },
