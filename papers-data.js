@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T09:57:05.692Z",
+  "updated": "2026-11-14T10:07:05.324Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GHS partners global firm to tackle chronic kidney disease",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghs-partners-global-firm-to-tackle-chronic-kidney-disease.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:54:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama presents 111 vehicles to BNI",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-presents-111-vehicles-to-bni.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:47:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Abrokyire Abrabo: My Wahala in Germany",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-abrokyire-abrabo-my-wahala-in-germany.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:24:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Volta NDC election: Dr Lawer Egbenya outlines vision for Deputy Regional Secretary position",
       "link": "https://www.myjoyonline.com/volta-ndc-election-dr-lawer-egbenya-outlines-vision-for-deputy-regional-secretary-position/",
@@ -58,6 +91,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Prof. Frimpong-Boateng pushes for commercialisation of research findings",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prof-frimpong-boateng-pushes-for-commercialisation-of-research-findings.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:09:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Sir Sam Jonah: Acheampong is an 'Orphan of Ghana's politics'",
       "link": "https://www.graphic.com.gh/news/politics/sir-sam-jonah-acheampong-is-an-orphan-of-ghanas-politics.html",
       "source": "Daily Graphic",
@@ -69,10 +113,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana news Climate change: Salaga North MP plans youth initiative to tackle deforestation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-climate-change-salaga-north-mp-plans-youth-initiative-to-tackle-deforestation.html",
+      "title": "NGO advocates reintegration policy for former prisoners",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ngo-advocates-reintegration-policy-for-former-prisoners.html",
       "source": "Daily Graphic",
-      "published": "2026-11-14T08:34:59.000Z",
+      "published": "2026-11-14T09:03:22.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -125,28 +169,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget increases household burden - Minority",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-2027-budget-increases-household-burden-minority.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T07:30:56.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's full explanation",
-      "link": "https://www.graphic.com.gh/news/general-news/portrait-of-theodosia-okoh-on-ghc50-was-developed-from-different-photos-and-not-her-sister-dr-leticia-obeng-bog.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T06:30:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Asiedu Nketia urges police to act against vote-buying in party elections",
       "link": "https://www.myjoyonline.com/asiedu-nketia-urges-police-to-act-against-vote-buying-in-party-elections/",
       "source": "MyJoyOnline",
@@ -175,17 +197,6 @@ window.GDC_PAPERS = {
         "Police"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC clears 98 for national executive race",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ndc-clears-98-for-national-executive-race.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T05:42:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Asiedu Nketia satisfied with NDC legacy as he prepares to exit chairmanship",
@@ -221,17 +232,6 @@ window.GDC_PAPERS = {
         "price floor"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC Eastern Region: Osei-Ampem wins big, calls for hard work to secure 2028 victory",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-eastern-region-osei-ampem-wins-big-calls-for-hard-work-to-secure-2028-victory.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T22:55:12.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ato Forson recalls economic meltdown Under NPP",

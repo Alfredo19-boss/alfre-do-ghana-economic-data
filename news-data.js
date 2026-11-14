@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T09:56:34.799Z",
+  "updated": "2026-11-14T10:06:34.294Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 7/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: failed (HTTP 522)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Terkper Pushes Local Mineral Processing to Increase Ghana’s Mining Revenues",
+      "link": "https://thehighstreetjournal.com/terkper-pushes-local-mineral-processing-to-increase-ghanas-mining-revenues/",
+      "source": "The High Street Journal",
+      "published": "2026-11-14T10:02:43.000Z",
+      "summary": "Seth Terkper wants Ghana to accelerate local mineral processing, arguing that value addition, stronger export financing and reduced gold smuggling are critical to increasing mining revenues…"
+    },
     {
       "title": "2027 Budget allocates over GH¢100b for capital expenditure",
       "link": "https://www.ghanabusinessnews.com/2026/11/14/2027-budget-allocates-over-gh%c2%a2100b-for-capital-expenditure/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T16:51:11.000Z",
       "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…"
-    },
-    {
-      "title": "Lattice Energy secures NPA licence for bulk petroleum importation and distribution.",
-      "link": "https://www.myjoyonline.com/lattice-energy-secures-npa-licence-for-bulk-petroleum-importation-and-distribution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:51:11.000Z",
-      "summary": "Lattice Energy Ltd, a member of Abagona Legacy Holdings, has secured a Bulk Import, Distribution and Export (BIDEC) licence from the National Petroleum Authority (NPA), allowing it to…"
     }
   ]
 };
