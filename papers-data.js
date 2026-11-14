@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T06:46:45.647Z",
+  "updated": "2026-11-14T07:16:46.505Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,7 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's reaction",
+      "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's full explanation",
       "link": "https://www.graphic.com.gh/news/general-news/portrait-of-theodosia-okoh-on-ghc50-was-developed-from-different-photos-and-not-her-sister-dr-leticia-obeng-bog.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T06:30:02.000Z",
