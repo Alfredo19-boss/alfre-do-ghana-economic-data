@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T20:45:27.841Z",
+  "updated": "2026-11-14T20:50:27.507Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nana Kwasi retains Ashanti NDC chairmanship with 814 votes",
+      "link": "https://www.myjoyonline.com/nana-kwasi-retains-ashanti-ndc-chairmanship-with-814-votes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:45:21.000Z",
+      "summary": "Augustus Andrews Nana Kwasi has retained his position as Ashanti Regional Chairman of the National Democratic Congress (NDC) after defeating his challenger, Isham Alhassan Yaw Bonsu, in the…",
+      "categories": [
+        "National",
+        "Politics",
+        "Ashanti NDC",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lali X Lola, King Jerry energise vendors at Ecobank JoyBusiness SME Fair as they turn to the dance floor",
+      "link": "https://www.myjoyonline.com/lali-x-lola-king-jerry-energise-vendors-at-ecobank-joybusiness-sme-fair-as-they-turn-to-the-dance-floor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:43:35.000Z",
+      "summary": "The second day of the Ecobank JoyBusiness SME Fair 2026 ended amid music, dancing and excitement as Ghanaian music acts Lali X Lola and King Jerry treated patrons to lively performances…",
+      "categories": [
+        "Business",
+        "Events",
+        "Music",
+        "National",
+        "Ecobank JoyBusiness SME Fair",
+        "King Jerry",
+        "Lali x Lola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Obeng Inkoom unseats Richard Asiedu to become NDC Central Regional Chair with an 8-vote difference",
       "link": "https://www.myjoyonline.com/obeng-inkoom-unseats-richard-asiedu-to-become-ndc-central-regional-chair-with-an-8-vote-difference/",
@@ -108,22 +139,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Cocaine busts: NPP cautions members against possible drug planting in luggage at airports, seaports",
-      "link": "https://www.myjoyonline.com/cocaine-busts-npp-cautions-members-against-possible-drug-planting-in-luggage-at-airports-seaports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T18:51:38.000Z",
-      "summary": "The New Patriotic Party (NPP) has cautioned its members, supporters and sympathisers travelling through Ghana’s airports and seaports to be vigilant over what it describes as possible…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Politics",
-        "Cocaine",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
       "source": "Daily Graphic",
@@ -144,25 +159,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Godfred Apasinaba Wumbei ‘Yellow Man’ wins NDC Northern Regional chairmanship with 328 votes",
-      "link": "https://www.myjoyonline.com/godfred-apasinaba-wumbei-yellow-man-wins-ndc-northern-regional-chairmanship-with-328-votes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T18:31:27.000Z",
-      "summary": "Godfred Apasinaba Wumbei, popularly known as Yellow Man, has been elected Northern Regional Chairman of the National Democratic Congress (NDC), securing 328 votes in the party's regional…",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Politics",
-        "Regional",
-        "Top Story",
-        "Chairman",
-        "NDC",
-        "Northern region",
-        "Yellowman"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Former Regional Minister elected NDC North East Regional Secretary",
