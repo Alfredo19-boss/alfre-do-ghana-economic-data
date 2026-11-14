@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T16:56:49.392Z",
+  "updated": "2026-11-14T17:06:50.211Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mfantsipim@150: Vice President Prof. Opoku-Agyemang urges stakeholders to sustain the school’s legacy",
+      "link": "https://www.myjoyonline.com/mfantsipim150-vice-president-prof-opoku-agyemang-urges-stakeholders-to-sustain-the-schools-legacy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:01:52.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has stressed that the continued success of Mfantsipim School depends on the collective commitment of teachers, school management, parents…",
+      "categories": [
+        "Education",
+        "National",
+        "Mfantsipim School",
+        "Naana Jane opoku-agyemang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Catholic Bishops’ Conference calls for urgency as Parliament reconsiders anti-LGBTQ+ Bill",
+      "link": "https://www.myjoyonline.com/ghana-catholic-bishops-conference-calls-for-urgency-as-parliament-reconsiders-anti-lgbtq-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T16:58:54.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference has called on Parliament and relevant constitutional institutions to act with urgency and ensure strict adherence to constitutional and legislative…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "News",
+        "Anti-LGBTQ+ bill",
+        "Ghana Catholic Bishops' Conference",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Tight security at NDC Ashanti Regional Delegates’ Congress",
       "link": "https://www.myjoyonline.com/tight-security-at-ndc-ashanti-regional-delegates-congress/",
@@ -122,35 +152,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Surgeon Dr Dakurah enters NPP parliamentary race in Nadowli-Kaleo",
-      "link": "https://www.myjoyonline.com/surgeon-dr-dakurah-enters-npp-parliamentary-race-in-nadowli-kaleo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T14:46:09.000Z",
-      "summary": "A surgeon, Dr Justine Dakurah, has declared his intention to contest the New Patriotic Party's (NPP) parliamentary primary in the Nadowli-Kaleo Constituency of the Upper West Region.",
-      "categories": [
-        "Politics",
-        "Dr Justine Dakurah",
-        "Nadowli-Kaleo Constituency",
-        "NPP Parliamentary Primaries"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kotoko board unveil Asante Kotoko Ladies for 2026/27 season",
-      "link": "https://www.myjoyonline.com/kotoko-board-unveil-asante-kotoko-ladies-for-2026-27-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T14:37:03.000Z",
-      "summary": "Called Asante Kotoko Ladies, the female team will compete in the Ashanti Region Football Association’s Division One League this season.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "Asante Kotoko",
-        "Asante Kotoko Ladies"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Government to recruit 10,000 teachers, 2,000 non-teaching staff in 2027 – Haruna Iddrisu",
