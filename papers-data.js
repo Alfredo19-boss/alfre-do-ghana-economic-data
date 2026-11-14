@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T19:20:29.274Z",
+  "updated": "2026-11-14T19:50:27.775Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Internet Society of Ghana President urges Ghanaians to be responsible online, warns against social media overuse",
+      "link": "https://www.myjoyonline.com/internet-society-of-ghana-president-urges-ghanaians-to-be-responsible-online-warns-against-social-media-overuse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T19:39:19.000Z",
+      "summary": "President of the Internet Society of Ghana, Dr Maud Adjeley Ashong Elliot, has urged Ghanaians to adopt responsible online behaviour, warning that careless use of social media can affect…",
+      "categories": [
+        "National",
+        "Ghanaians",
+        "social media overuse"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Experts urge Ghanaian youth to rethink their online behaviour as digital risks grow",
       "link": "https://www.myjoyonline.com/experts-urge-ghanaian-youth-to-rethink-their-online-behaviour-as-digital-risks-grow/",
@@ -144,20 +157,6 @@ window.GDC_PAPERS = {
         "National",
         "Kenneth Ashigbey",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey backs independent probe into NAIMOS-Manso Keniago clash",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-backs-independent-probe-into-naimos-manso-keniago-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:40:48.000Z",
-      "summary": "The Convenor of the Media Coalition Against Illegal Mining, Ing. Kenneth Ashigbey, has backed calls for an independent investigation into the clash between personnel of the National…",
-      "categories": [
-        "National",
-        "Ken Ashigbey",
-        "Manso Keniago clash",
-        "NAIMOS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
