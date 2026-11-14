@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:36:46.349Z",
+  "updated": "2026-11-14T08:46:45.516Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -52,6 +52,7 @@ window.GDC_PAPERS = {
       "summary": "The Ecobank-JoyBusiness SME Fair 2026 has offered visitors more than an opportunity to shop for food, fashion, skincare products and crafts.",
       "categories": [
         "Arts and Culture",
+        "HP Entertainment 1",
         "HP News 10",
         "Photo Story",
         "Beads",
