@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T09:07:05.416Z",
+  "updated": "2026-11-14T09:17:04.788Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
+      "link": "https://www.graphic.com.gh/news/politics/sam-jonah-makes-case-for-revisiting-acheampongs-union-government-idea.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:14:31.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sam Jonah: Acheampong's Operation Feed Yourself made Ghana self-sufficient in rice",
+      "link": "https://www.graphic.com.gh/news/politics/sam-jonah-acheampongs-operation-feed-yourself-made-ghana-self-sufficient-in-rice.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T09:10:18.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Sir Sam Jonah: Acheampong is an 'Orphan of Ghana's politics'",
       "link": "https://www.graphic.com.gh/news/politics/sir-sam-jonah-acheampong-is-an-orphan-of-ghanas-politics.html",
@@ -212,28 +234,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "No appeal: Odarteifio accepts vetting outcome in NDC Youth Organiser contest",
-      "link": "https://www.graphic.com.gh/news/politics/no-appeal-odarteifio-accepts-vetting-outcome-in-ndc-youth-organiser-contest.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T19:36:08.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nursing and Midwifery Council inducts 33,698 nurses and midwives, warns social media misuse could cost licences",
-      "link": "https://www.graphic.com.gh/news/general-news/nursing-and-midwifery-council-inducts-33-698-nurses-and-midwives-warns-social-media-misuse-could-cost-licences.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T18:48:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
