@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:20:28.382Z",
+  "updated": "2026-11-14T21:25:28.866Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,23 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Benjamin Danso defeats NDC Greater Accra chair Ashie Moore by a margin of over 500 votes",
+      "link": "https://www.myjoyonline.com/benjamin-danso-defeats-ndc-greater-accra-chair-ashie-moore-by-a-margin-of-over-500-votes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:17:00.000Z",
+      "summary": "Benjamin Danso has emerged as the new Greater Accra Regional Chairman of the National Democratic Congress (NDC), defeating incumbent Emmanuel Nii Ashie Moore in the party’s regional…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Politics",
+        "Regional",
+        "Ashie Moore",
+        "Greater Accra",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Owusu Nkrumah Ababio elected Ahafo NDC Regional Chairman",
@@ -136,21 +153,6 @@ window.GDC_PAPERS = {
         "Ecobank JoyBusiness SME Fair",
         "King Jerry",
         "Lali x Lola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obeng Inkoom unseats Richard Asiedu to become NDC Central Regional Chair with an 8-vote difference",
-      "link": "https://www.myjoyonline.com/obeng-inkoom-unseats-richard-asiedu-to-become-ndc-central-regional-chair-with-an-8-vote-difference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:25:51.000Z",
-      "summary": "Private legal practitioner Obeng Inkoom has been elected Central Regional Chairman of the National Democratic Congress (NDC), ending Dr Richard Asiedu’s tenure after a closely contested…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "NDC",
-        "Obeng Inkoom",
-        "Richard Asiedu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
