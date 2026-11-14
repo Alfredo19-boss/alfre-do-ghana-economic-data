@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:10:27.579Z",
+  "updated": "2026-11-14T21:20:28.382Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Augustus Andrews secures third term as Ashanti NDC Chairman with 814 votes",
+      "link": "https://www.graphic.com.gh/news/politics/augustus-andrews-secures-third-term-as-ashanti-ndc-chairman-with-814-votes.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T21:19:24.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Owusu Nkrumah Ababio elected Ahafo NDC Regional Chairman",
+      "link": "https://www.myjoyonline.com/owusu-nkrumah-ababio-elected-ahafo-ndc-regional-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:12:35.000Z",
+      "summary": "Owusu Nkrumah Ababio has been elected Regional Chairman of the National Democratic Congress (NDC) in the Ahafo Region following the party’s 2026 Regional Executives Elections. The keenly…",
+      "categories": [
+        "In Focus",
+        "Politics",
+        "Regional",
+        "Ahafo Region",
+        "NDC",
+        "Owusu Nkrumah Ababio"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Yentua’ was negotiation, not recklessness – Sam Jonah on Acheampong’s debt decision",
+      "link": "https://www.myjoyonline.com/yentua-was-negotiation-not-recklessness-sam-jonah-on-acheampongs-debt-decision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:11:58.000Z",
+      "summary": "Business leader Sam Jonah has praised former Head of State General Ignatius Kutu Acheampong’s 1972 decision to repudiate some of Ghana’s external debt, describing it as an act of courage…",
+      "categories": [
+        "National",
+        "Acheampong",
+        "Sam Jonah",
+        "Yentua"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sam Jonah calls for honest reassessment of General I.K. Acheampong’s leadership",
       "link": "https://www.myjoyonline.com/sam-jonah-calls-for-honest-reassessment-of-general-i-k-acheampongs-leadership/",
@@ -114,35 +155,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "21-year-old Ghanaian Thomas Oduro stabbed to death in North London",
-      "link": "https://www.myjoyonline.com/21-year-old-ghanaian-thomas-oduro-stabbed-to-death-in-north-london/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:19:47.000Z",
-      "summary": "A 21-year-old man, identified as Thomas Oduro, has been killed in a stabbing incident in Haringey, north London.",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "London",
-        "Thomas Oduro"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alhaji Bolnaba wins another term as NDC Upper East Regional Chairman",
-      "link": "https://www.myjoyonline.com/alhaji-bolnaba-wins-another-term-as-ndc-upper-east-regional-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:04:21.000Z",
-      "summary": "Alhaji Abdulai Mumuni Bolnaba has won another term as Upper East Regional Chairman of the governing National Democratic Congress (NDC), beating challenger Duncan Nsoh Ghaneba by 220 votes…",
-      "categories": [
-        "National",
-        "Politics",
-        "NDC",
-        "Upper East"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
       "source": "Daily Graphic",
@@ -216,17 +228,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Upper East NDC Election: Chairman Bolnaba calls for peace as 570 delegates vote",
-      "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-election-chairman-bolnaba-calls-for-peace-as-570-delegates-vote.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T13:50:49.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     },
