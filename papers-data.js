@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T19:50:27.775Z",
+  "updated": "2026-11-14T20:05:28.523Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
+      "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:00:06.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 is getting even more exciting, with Ghanaian music duo Lali X Lola adding a musical dimension to the three-day exhibition at Ghud Park, Accra Mall.",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Ghud Park",
+        "Lali x Lola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Internet Society of Ghana President urges Ghanaians to be responsible online, warns against social media overuse",
       "link": "https://www.myjoyonline.com/internet-society-of-ghana-president-urges-ghanaians-to-be-responsible-online-warns-against-social-media-overuse/",
@@ -144,19 +160,6 @@ window.GDC_PAPERS = {
         "National",
         "Galamsey",
         "Ken Ashigbey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey urges Mahama to declare a state of emergency in galamsey hotspots",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mahama-to-declare-a-state-of-emergency-in-galamsey-hotspots/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:45:46.000Z",
-      "summary": "The Convenor of the Media Coalition Against Galamsey, Kenneth Ashigbey, has called on President John Dramani Mahama to declare a state of emergency in areas severely affected by illegal…",
-      "categories": [
-        "National",
-        "Kenneth Ashigbey",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

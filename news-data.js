@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-14T19:49:57.717Z",
+  "updated": "2026-11-14T20:05:26.170Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
+      "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T20:00:06.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 is getting even more exciting, with Ghanaian music duo Lali X Lola adding a musical dimension to the three-day exhibition at Ghud Park, Accra Mall."
+    },
     {
       "title": "Ghana adopts first national standards for business development services",
       "link": "https://gna.org.gh/2026/11/ghana-adopts-first-national-standards-for-business-development-services/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T21:19:39.000Z",
       "summary": "Highlighting his expectations of the 2027 Budget, Mr. Akoto said Ghana enters the 2027 budget cycle from a stronger macroeconomic position, with growth remaining firm and inflation…"
-    },
-    {
-      "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
-      "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:16:04.000Z",
-      "summary": "The factors that would encourage businesses to participate or invest in the 24-hour economy were access to finance, reliable and affordable utilities and tax incentives."
     }
   ]
 };
