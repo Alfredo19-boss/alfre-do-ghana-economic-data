@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:16:46.240Z",
+  "updated": "2026-11-14T08:26:45.705Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -48,6 +48,17 @@ window.GDC_PAPERS = {
         "the Ecobank-Joy Prime SME Fair"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget increases household burden - Minority",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-2027-budget-increases-household-burden-minority.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T07:30:56.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Portrait of Theodosia Okoh on GH¢50 was developed from different photos and not her sister Dr Leticia Obeng - BoG's full explanation",
@@ -219,17 +230,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nalerigu High Court restrains five co-opted NDC members from North East regional elections",
-      "link": "https://www.graphic.com.gh/news/politics/nalerigu-high-court-restrains-five-co-opted-ndc-members-from-north-east-regional-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T16:50:21.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     },
