@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T17:40:28.225Z",
+  "updated": "2026-11-14T17:50:28.436Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ken Ashigbey urges Mahama to declare a state of emergency in galamsey hotspots",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mahama-to-declare-a-state-of-emergency-in-galamsey-hotspots/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:45:46.000Z",
+      "summary": "The Convenor of the Media Coalition Against Galamsey, Kenneth Ashigbey, has called on President John Dramani Mahama to declare a state of emergency in areas severely affected by illegal…",
+      "categories": [
+        "National",
+        "Kenneth Ashigbey",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ken Ashigbey backs independent probe into NAIMOS-Manso Keniago clash",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-backs-independent-probe-into-naimos-manso-keniago-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T17:40:48.000Z",
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining, Ing. Kenneth Ashigbey, has backed calls for an independent investigation into the clash between personnel of the National…",
+      "categories": [
+        "National",
+        "Ken Ashigbey",
+        "Manso Keniago clash",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Former Regional Minister elected NDC North East Regional Secretary",
       "link": "https://www.graphic.com.gh/news/politics/former-regional-minister-elected-ndc-north-east-regional-secretary.html",
@@ -132,35 +159,6 @@ window.GDC_PAPERS = {
         "Anti-LGBTQ+ bill",
         "Ghana Catholic Bishops' Conference",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tight security at NDC Ashanti Regional Delegates’ Congress",
-      "link": "https://www.myjoyonline.com/tight-security-at-ndc-ashanti-regional-delegates-congress/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:49:11.000Z",
-      "summary": "The Ashanti Regional Delegates’ Congress of the National Democratic Congress (NDC) has opened under tight security at the Baba Yara Sports Stadium in Kumasi.",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Ashanti Region",
-        "Delegates’ Congress",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Catholic Bishops’ Conference raises concerns over indiscipline and alleged sexual abuse in schools",
-      "link": "https://www.myjoyonline.com/catholic-bishops-conference-raises-concerns-over-indiscipline-and-alleged-sexual-abuse-in-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T16:39:26.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference has called for investigations into allegations of sexual abuse of minors by adults entrusted with their care in schools, describing the reports as…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Catholic Bishops",
-        "Indiscipline"
       ],
       "site": "https://www.myjoyonline.com/"
     },
