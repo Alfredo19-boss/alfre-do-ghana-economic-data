@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T04:00:15.667Z",
+  "updated": "2026-11-14T04:10:16.279Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Tearful Pochettino on ‘difficult’ decision to leave USA for Man Utd",
+      "link": "https://www.myjoyonline.com/tearful-pochettino-on-difficult-decision-to-leave-usa-for-man-utd/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T04:06:35.000Z",
+      "summary": "Mauricio Pochettino says the decision to leave his role as boss of the USA national team to become Manchester United head coach was \"one of the most difficult\" of his career.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Manchester United",
+        "Mauricio Pochettino",
+        "USA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "After 26 years, the US has lost its measles elimination status",
       "link": "https://www.myjoyonline.com/after-26-years-the-us-has-lost-its-measles-elimination-status/",
@@ -127,22 +142,6 @@ window.GDC_PAPERS = {
         "International",
         "Flights",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Universities told to use sports to attract alumni funding",
-      "link": "https://www.myjoyonline.com/universities-told-to-use-sports-to-attract-alumni-funding/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T21:56:47.000Z",
-      "summary": "Speaking at the maiden University of Ghana Sports Dialogue on the theme \"Repositioning University Sports as a Driver of Institutional Excellence and National Development,\" Dr Baah-Nuakoh…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Dr Baah-Nuakoh",
-        "Repositioning University Sports as a Driver of Institutional Excellence and National Development",
-        "Universities"
       ],
       "site": "https://www.myjoyonline.com/"
     },
