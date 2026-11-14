@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T18:50:29.905Z",
+  "updated": "2026-11-14T19:00:28.342Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cocaine busts: NPP cautions members against possible drug planting in luggage at airports, seaports",
+      "link": "https://www.myjoyonline.com/cocaine-busts-npp-cautions-members-against-possible-drug-planting-in-luggage-at-airports-seaports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T18:51:38.000Z",
+      "summary": "The New Patriotic Party (NPP) has cautioned its members, supporters and sympathisers travelling through Ghana’s airports and seaports to be vigilant over what it describes as possible…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Cocaine",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
@@ -157,21 +172,6 @@ window.GDC_PAPERS = {
         "Media",
         "Politicians",
         "Samson's Take"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim School has a distinguished place in Ghana’s educational history – Vice President",
-      "link": "https://www.myjoyonline.com/mfantsipim-school-has-a-distinguished-place-in-ghanas-educational-history-vice-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T17:23:10.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has praised Mfantsipim School for its significant contribution to Ghana's educational development, describing the institution as an…",
-      "categories": [
-        "Education",
-        "In Focus",
-        "National",
-        "Ghana",
-        "Professor Naana Jane Opoku-Agyemang"
       ],
       "site": "https://www.myjoyonline.com/"
     },
