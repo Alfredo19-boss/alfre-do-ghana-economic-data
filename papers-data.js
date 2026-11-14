@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T15:17:11.997Z",
+  "updated": "2026-11-14T15:27:09.985Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -57,6 +57,7 @@ window.GDC_PAPERS = {
       "summary": "The Minister of Education, Haruna Iddrisu, has assured that no teacher implicated in the allegations of sexual misconduct at Obuasi Senior High School (SHS) will be shielded from…",
       "categories": [
         "Education",
+        "HP News 3",
         "National",
         "Haruna Iddrisu",
         "Obuasi SHTS"
