@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T19:10:30.014Z",
+  "updated": "2026-11-14T19:20:29.274Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -41,6 +41,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-14T18:51:38.000Z",
       "summary": "The New Patriotic Party (NPP) has cautioned its members, supporters and sympathisers travelling through Ghana’s airports and seaports to be vigilant over what it describes as possible…",
       "categories": [
+        "HP News 4",
         "National",
         "News",
         "Politics",
