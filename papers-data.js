@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T08:26:45.705Z",
+  "updated": "2026-11-14T08:36:46.349Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,11 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana news Climate change: Salaga North MP plans youth initiative to tackle deforestation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-climate-change-salaga-north-mp-plans-youth-initiative-to-tackle-deforestation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-14T08:34:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Livestream: Newsfile discusses galamsey clash, drug busts and 2027 Budget",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-galamsey-clash-drug-busts-and-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T08:32:01.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, November 14, examine the government’s fight against illegal mining, recent drug trafficking operations and the key…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Newsfile"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Waist beads speak the language of love at Ecobank-Joy Business SME Fair 2026",
       "link": "https://www.myjoyonline.com/waist-beads-speak-the-language-of-love-at-ecobank-joy-business-sme-fair-2026/",
       "source": "MyJoyOnline",
       "published": "2026-11-14T08:02:36.000Z",
-      "summary": "The 2026 edition of the Ecobank-Joy Prime SME Fair, currently going on at Ghud Park, Accra Mall, is more exciting and revealing as well.",
+      "summary": "The Ecobank-JoyBusiness SME Fair 2026 has offered visitors more than an opportunity to shop for food, fashion, skincare products and crafts.",
       "categories": [
         "Arts and Culture",
         "HP News 10",
@@ -167,18 +191,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
-      "link": "https://www.myjoyonline.com/us-flights-resume-after-faa-lifts-hours-long-nationwide-ground-stop/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:21:04.000Z",
-      "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that halted departing flights across the United States for more than four hours after a “communication issue”…",
-      "categories": [
-        "International",
-        "US flights"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NDC Eastern Region: Osei-Ampem wins big, calls for hard work to secure 2028 victory",
       "link": "https://www.graphic.com.gh/news/politics/ndc-eastern-region-osei-ampem-wins-big-calls-for-hard-work-to-secure-2028-victory.html",
       "source": "Daily Graphic",
@@ -216,17 +228,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/gra-intercepts-smuggled-goods-concealed-under-okro-powder.html",
       "source": "Daily Graphic",
       "published": "2026-11-13T18:36:41.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Aduman SHS: Chaplain, ICT teacher remanded over alleged sodomy",
-      "link": "https://www.graphic.com.gh/news/general-news/aduman-shs-chaplain-ict-teacher-remanded-over-alleged-sodomy.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-13T17:37:38.000Z",
       "summary": "",
       "categories": [
         "General News"
