@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T21:40:27.618Z",
+  "updated": "2026-11-14T21:58:59.293Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sam Jonah credits Acheampong with advancing Ghanaian ownership of mineral wealth",
+      "link": "https://www.myjoyonline.com/sam-jonah-credits-acheampong-with-advancing-ghanaian-ownership-of-mineral-wealth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-14T21:55:57.000Z",
+      "summary": "Business leader Sir Sam Jonah has credited former Head of State General Ignatius Kutu Acheampong with advancing Ghanaian participation and ownership in the country’s mining and timber…",
+      "categories": [
+        "National",
+        "Local ownership",
+        "mining policy",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "One arrested, Chairs destroyed as Northern NDC Treasurer results spark chaos",
       "link": "https://www.graphic.com.gh/news/politics/one-arrested-chairs-destroyed-as-northern-ndc-treasurer-results-spark-chaos.html",
@@ -155,21 +169,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Politics",
-        "Borlu",
-        "Nana Kojo Toku",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Kojo Toku defeats Borlu to retain NDC Western Regional chairmanship",
-      "link": "https://www.myjoyonline.com/nana-kojo-toku-defeats-borlu-to-retain-ndc-western-regional-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:57:47.000Z",
-      "summary": "Nana Kojo Toku has retained his position as Western Regional Chairman of the National Democratic Congress (NDC) after defeating two challengers in the party’s regional executive elections.",
-      "categories": [
-        "National",
-        "News",
         "Borlu",
         "Nana Kojo Toku",
         "NDC"
