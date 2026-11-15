@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T13:09:45.011Z",
+  "updated": "2026-11-15T13:19:44.978Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,30 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "DJ Sonatty makes history with DJ of the Year nomination at Ghana DJ Awards 2026",
+      "link": "https://www.myjoyonline.com/dj-sonatty-makes-history-with-dj-of-the-year-nomination-at-ghana-dj-awards-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T13:11:35.000Z",
+      "summary": "Ghanaian DJ Sonatty has made history at the 2026 Ghana DJ Awards after becoming the first DJ from the Central Region to secure a nomination in the prestigious DJ of the Year category.",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Music",
+        "National",
+        "DJ of the Year nomination",
+        "DJ Sonatty",
+        "Ghana DJ Awards 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ablakwa announces plans for more visa-free travel agreements by 2027",
       "link": "https://www.myjoyonline.com/ablakwa-announces-plans-for-more-visa-free-travel-agreements-by-2027/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T12:58:45.000Z",
       "summary": "Ghana expects to sign additional visa waiver agreements with other countries before the end of 2027 as part of efforts to improve the value and international standing of the Ghanaian…",
       "categories": [
+        "HP News 2",
         "National",
         "Ablakwa",
         "Travel",
@@ -63,6 +81,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T12:21:43.000Z",
       "summary": "The African Group of Negotiators on Climate Change (AGN) has positioned urban adaptation at the center of the global climate agenda, calling for direct, predictable finance to protect the…",
       "categories": [
+        "HP News 8",
         "National",
         "AGN",
         "COP31",
@@ -134,24 +153,11 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T10:08:06.000Z",
       "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has expressed concern over the conduct of some party members during recent constituency-level elections of the National Democratic…",
       "categories": [
-        "HP News 2",
+        "HP News 5",
         "National",
         "Politics",
         "Kwame Governs Agbodza",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Right Diagnosis, an Incomplete Cure: The 2027 Budget and Ghana’s Boom-and-Bust Cycles",
-      "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-the-2027-budget-and-ghanas-boom-and-bust-cycles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:03:48.000Z",
-      "summary": "These boom-and-bust cycles must cease\" On the evening of Thursday, November 12, 2026, the Minister for Finance, Dr Cassiel Ato Forson, when presenting the 2027 budget told Parliament that…",
-      "categories": [
-        "News",
-        "Opinion",
-        "2027 Budget"
       ],
       "site": "https://www.myjoyonline.com/"
     },
