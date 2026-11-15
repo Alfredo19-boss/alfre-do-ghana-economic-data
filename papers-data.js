@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:18:50.072Z",
+  "updated": "2026-11-15T23:24:18.182Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rates",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:14:55.000Z",
+      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount.",
+      "categories": [
+        "Business",
+        "Economy",
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "Interest rates",
+        "Ministry of Finance",
+        "T-Bills"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
@@ -107,8 +126,8 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
-      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
+      "title": "Emerging markets face more challenging external environment heading into 2027 – Moody’s",
+      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-into-2027-moodys/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T22:50:19.000Z",
       "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
@@ -123,29 +142,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "link": "https://www.myjoyonline.com/clothing-factories-shut-in-bangladesh-as-workers-strike-over-pay/",
+      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
+      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
       "source": "MyJoyOnline",
-      "published": "2026-11-15T21:21:00.000Z",
-      "summary": "Dozens of factories in Bangladesh's main clothes-producing area have been shut by workers striking over a higher minimum wage.",
+      "published": "2026-11-15T22:50:19.000Z",
+      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
       "categories": [
-        "International",
-        "Bangladesh",
-        "Clothing factories"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana calls for urgent climate finance delivery to support Africa’s climate ambitions",
-      "link": "https://www.myjoyonline.com/ghana-calls-for-urgent-climate-finance-delivery-to-support-africas-climate-ambitions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:45:16.000Z",
-      "summary": "Ghana has called for the urgent delivery of climate finance commitments to support African countries in addressing the growing effects of climate change.",
-      "categories": [
-        "National",
-        "Africa",
-        "Climate Finance",
-        "Ghana"
+        "Banking and Finance",
+        "Business",
+        "ECB",
+        "Inflation",
+        "Moody’s",
+        "Policy rate"
       ],
       "site": "https://www.myjoyonline.com/"
     },
