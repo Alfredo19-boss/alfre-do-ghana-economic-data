@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:56:19.632Z",
+  "updated": "2026-11-15T08:49:47.101Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,126 +21,130 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Galamsey today is worse than it was in 2024 – Miracles Aboagye",
-      "link": "https://www.myjoyonline.com/galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye/",
+      "title": "Richard Asiedu calls for probe into NDC Central Regional polls over alleged irregularities",
+      "link": "https://www.myjoyonline.com/richard-asiedu-calls-for-probe-into-ndc-central-regional-polls-over-alleged-irregularities/",
       "source": "MyJoyOnline",
-      "published": "2026-11-15T05:46:24.000Z",
-      "summary": "The National Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has claimed that illegal mining, popularly known as galamsey, has worsened under the current…",
+      "published": "2026-11-15T08:48:24.000Z",
+      "summary": "Former Central Regional NDC Chairman, Dr. Richard Asiedu, is calling for an investigation into the party’s November 14 regional executive elections held at Dunkwa on-Offin. He has alleged…",
       "categories": [
-        "HP News 6",
-        "National",
-        "Galamsey",
-        "Miracles Aboagye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ketu North MP condemns cash displays, urges aspirants to reject money politics",
-      "link": "https://www.myjoyonline.com/show-delegates-your-competence-not-money-edem-agbana-urges-ndc-aspirants/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T05:43:57.000Z",
-      "summary": "Member of Parliament for Ketu North, Edem Agbana, has expressed concern about the growing influence of money in politics, urging contestants in the ongoing National Democratic Congress…",
-      "categories": [
-        "National",
         "Politics",
-        "Member of Parliament for Ketu North",
-        "Money"
+        "Central Region",
+        "Elections",
+        "NDC",
+        "Richard Asiedu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘NACOC officers are not adequately equipped’ – Miracles Aboagye",
-      "link": "https://www.myjoyonline.com/nacoc-officers-are-not-adequately-equipped-miracles-aboagye/",
+      "title": "Amputee World Cup: ‘We’ll come back stronger’ – Black Challenge head coach after Angola defeat",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-well-come-back-stronger-black-challenge-head-coach-after-angola-defeat/",
       "source": "MyJoyOnline",
-      "published": "2026-11-15T05:42:58.000Z",
-      "summary": "Director of Communications for the New Patriotic Party (NPP), Miracles Aboagye, has called on the government to commit more resources to the Narcotics Control Commission (NACOC), saying…",
+      "published": "2026-11-15T08:48:14.000Z",
+      "summary": "Black Challenge head coach Richard Obeng remains confident his side can qualify for the next stage of the 2026 Amputee Football World Cup despite their disappointing 2-0 defeat to 2018…",
       "categories": [
-        "National",
-        "budget allocations",
-        "NACOC"
+        "Football",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "World Cup"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NACOC is highly under-resourced; the drug problem is beyond cocaine – Senyo Hosi",
-      "link": "https://www.myjoyonline.com/nacoc-is-highly-under-resourced-the-drug-problem-is-beyond-cocaine-senyo-hosi/",
+      "title": "SNARSA targets illegal mining reclamation, forest monitoring, and flood prevention through technology",
+      "link": "https://www.myjoyonline.com/snarsa-targets-illegal-mining-reclamation-forest-monitoring-and-flood-prevention-through-technology/",
       "source": "MyJoyOnline",
-      "published": "2026-11-15T05:37:39.000Z",
-      "summary": "Convener of the OneGhana Movement, Senyo Hosi, has raised concerns about the capacity of the Narcotics Control Commission (NACOC) to tackle Ghana's drug problem, describing the institution…",
+      "published": "2026-11-15T08:32:59.000Z",
+      "summary": "The School of Natural Resource Students’ Association (SNARSA) at the University of Energy and Natural Resources (UENR) seeks to deploy modern technology to help address illegal mining…",
       "categories": [
-        "HP News 5",
+        "Regional",
+        "Illegal mining",
+        "SNARSA",
+        "Technology"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Abibinsroma Foundation congratulates government on Solar Energy Tax exemption in 2027 budget",
+      "link": "https://www.myjoyonline.com/abibinsroma-foundation-congratulates-government-on-solar-energy-tax-exemption-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T08:32:25.000Z",
+      "summary": "Foundation says the decision is an important step towards climate action, affordable renewable energy and a Just Transition for all Ghanaians. AbibiNsroma Foundation welcomes and…",
+      "categories": [
         "National",
+        "AbibiNsroma Foundation",
+        "Solar Energy",
+        "Tax"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "El Niño: West African governments urged to prepare for food and health threats",
+      "link": "https://www.myjoyonline.com/el-nino-west-african-governments-urged-to-prepare-for-food-and-health-threats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T08:26:36.000Z",
+      "summary": "Experts warn that delayed rainfall, prolonged dry spells and rising temperatures could threaten harvests, water supplies and public health across the region in 2026–2027.",
+      "categories": [
+        "Africa",
         "News",
-        "Cocaine",
-        "Convener of the OneGhana Movement",
+        "Climate change",
+        "Health",
+        "WHO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ahmed Ibrahim calls for stronger government-academia partnership to tackle environmental challenges",
+      "link": "https://www.myjoyonline.com/ahmed-ibrahim-calls-for-stronger-government-academia-partnership-to-tackle-environmental-challenges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T08:25:45.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for stronger collaboration between government, universities, industry and civil society to address Ghana’s…",
+      "categories": [
+        "Regional",
+        "Academia",
+        "Ahmed Ibrahim",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Senyo Hosi commends gov’t over NACOC expansion, warns of growing synthetic drug threat",
+      "link": "https://www.myjoyonline.com/senyo-hosi-commends-govt-over-nacoc-expansion-warns-of-growing-synthetic-drug-threat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T08:25:10.000Z",
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has commended the government for strengthening the operational capacity and nationwide…",
+      "categories": [
+        "National",
+        "Government",
         "NACOC",
         "Senyo Hosi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Oliver Kevor re-elected NDC Eastern Regional Chairman",
-      "link": "https://www.myjoyonline.com/oliver-kevor-re-elected-ndc-eastern-regional-chairman/",
+      "title": "COP31: Disability community gets audience with AGN Chair for inclusivity in climate negotiation process",
+      "link": "https://www.myjoyonline.com/cop31-disability-community-gets-audience-with-agn-chair-for-inclusivity-in-climate-negotiation-process/",
       "source": "MyJoyOnline",
-      "published": "2026-11-15T05:36:50.000Z",
-      "summary": "Ing. Dr Mark Oliver Kevor will continue to lead the National Democratic Congress (NDC) in the Eastern Region after retaining his position as Regional Chairman in the party’s executive…",
+      "published": "2026-11-15T08:24:32.000Z",
+      "summary": "When sudden floodwaters tore through the streets of Accra last June, the devastation left behind was measured not only in damaged infrastructure, but in broken lives and lost independence.",
       "categories": [
         "National",
-        "Dr Mark Oliver Kevor",
-        "NDC"
+        "climate negotiation",
+        "COP31",
+        "Disability Community"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T05:18:46.000Z",
-      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…",
+      "title": "Mark Oliver Kevor retains position as NDC Eastern Regional chairman",
+      "link": "https://www.graphic.com.gh/news/politics/mark-oliver-kevor-re-elected-as-ndc-eastern-regional-chairman.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T08:16:46.000Z",
+      "summary": "",
       "categories": [
-        "Business",
-        "Events",
-        "National",
-        "Top Story",
-        "Ecobank",
-        "JoyBusiness",
-        "SME Fair"
+        "Politics"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
-      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T05:18:46.000Z",
-      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…",
-      "categories": [
-        "Business",
-        "Events",
-        "National",
-        "Top Story",
-        "Ecobank",
-        "JoyBusiness",
-        "SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC regional executive elections: The chairmen who retained their seats and those who lost",
-      "link": "https://www.myjoyonline.com/ndc-regional-executive-elections-the-chairmen-who-retained-their-seats-and-those-who-lost/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T04:53:39.000Z",
-      "summary": "The National Democratic Congress (NDC) has elected regional chairmen in 13 of Ghana’s 16 regions following its 2026 regional executive elections held on Saturday, November 14. Results from…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Politics",
-        "Chairman",
-        "NDC",
-        "regional executive elections",
-        "Seats"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Danso topples Ashie Moore to take NDC Greater Accra chairmanship",
@@ -216,17 +220,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Inside BNI’s modernisation drive: New forensic lab, interrogation centre, and 111 vehicles commissioned",
-      "link": "https://www.graphic.com.gh/news/general-news/inside-bnis-modernisation-drive-new-forensic-lab-interrogation-centre-and-111-vehicles-commissioned.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T17:21:46.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },

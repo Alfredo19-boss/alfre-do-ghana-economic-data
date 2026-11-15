@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T05:56:15.935Z",
+  "updated": "2026-11-15T08:49:44.292Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,39 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 6/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "CNN Travel names Nzulezu among Africa’s most amazing places to visit in Ghana",
+      "link": "https://www.ghanabusinessnews.com/2026/11/15/cnn-travel-names-nzulezu-among-africas-most-amazing-places-to-visit-in-ghana/",
+      "source": "Ghana Business News",
+      "published": "2026-11-15T08:15:16.000Z",
+      "summary": "International media outlet CNN Travel has named Ghana’s historic stilt village of Nzulezu among the 31 most amazing places to visit in Africa, spotlighting the Western Region community as a…"
+    },
+    {
+      "title": "Assembly Member calls on Minister to terminate contract on stalled Afadzato South road",
+      "link": "https://www.ghanabusinessnews.com/2026/11/15/assembly-member-calls-on-minister-to-terminate-contract-on-stalled-afadzato-south-road/",
+      "source": "Ghana Business News",
+      "published": "2026-11-15T08:11:12.000Z",
+      "summary": "The Assembly Member for Leklebi, Mr Joseph Kofi Gakpo, has called on the Minister for Roads and Highways to terminate the contract for the construction of the Logba Vuinta to Ve Koloenu…"
+    },
+    {
+      "title": "Why the $10Bn New Economy Programme of Government is Not Believable – Minority’s Analysis",
+      "link": "https://thehighstreetjournal.com/why-the-10bn-new-economy-programme-of-government-is-not-believable-minoritys-analysis/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T08:00:00.000Z",
+      "summary": "The Minority has questioned the credibility of government's $10 billion New Economy Programme, citing shifting financial targets, changing priorities and unfulfilled promises under previous…"
+    },
+    {
+      "title": "Germany’s solar power production nears record level",
+      "link": "https://www.ghanabusinessnews.com/2026/11/15/germanys-solar-power-production-nears-record-level/",
+      "source": "Ghana Business News",
+      "published": "2026-11-15T07:41:05.000Z",
+      "summary": "Solar energy in net electricity generation in Germany is fast approaching a record total of more than 100 terawatt-hours in a single calendar year."
+    },
     {
       "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
       "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T05:33:43.000Z",
       "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…"
-    },
-    {
-      "title": "Agro-Processing Backed By Deliberate Gov’t Procurement: Ghana’s Practical Route to Industrialisation",
-      "link": "https://thehighstreetjournal.com/agro-processing-backed-by-deliberate-govt-procurement-ghanas-practical-route-to-industrialisation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:05:00.000Z",
-      "summary": "Dr. Kwabena Donkor urges Ghana to prioritise agro-processing through local procurement, rice milling infrastructure and innovative financing, arguing that reducing food imports will expand…"
-    },
-    {
-      "title": "63,673 ‘Ghost Names’ Received National Service Allowances Without Working – Investigator Tells Court",
-      "link": "https://thehighstreetjournal.com/63673-ghost-names-received-national-service-allowances-without-working-investigator-tells-court/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:03:00.000Z",
-      "summary": "The prosecution in the ongoing trial of former National Service Authority (NSA) Deputy Executive Director, Gifty Oware-Mensah, has presented evidence that 63,673 “ghost names” received…"
-    },
-    {
-      "title": "Bank of Ghana Celebrates Ghana’s Rich Heritage on New Cedi Notes",
-      "link": "https://thehighstreetjournal.com/bank-of-ghana-celebrates-ghanas-rich-heritage-on-new-cedi-notes/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:02:00.000Z",
-      "summary": "The redesigned notes, to be launched by President Mahama, bring Ghana’s heritage, heroes and culture to its currency."
-    },
-    {
-      "title": "Growth You Can’t Enjoy: When the Economy Expands but the Household Budget Shrinks",
-      "link": "https://thehighstreetjournal.com/growth-you-cant-enjoy-when-the-economy-expands-but-the-household-budget-shrinks/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:01:00.000Z",
-      "summary": "Prof. Samuel Lartey warns economic growth means little if household budgets shrink, urging Ghana to guard against oil-driven inflation in 2027 and protect purchasing power."
     }
   ]
 };
