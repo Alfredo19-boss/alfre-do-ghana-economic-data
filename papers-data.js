@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:06:17.824Z",
+  "updated": "2026-11-15T05:26:16.612Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,30 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
+      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:18:46.000Z",
+      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Top Story",
+        "Ecobank",
+        "JoyBusiness",
+        "SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NDC regional executive elections: The chairmen who retained their seats and those who lost",
       "link": "https://www.myjoyonline.com/ndc-regional-executive-elections-the-chairmen-who-retained-their-seats-and-those-who-lost/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T04:53:39.000Z",
       "summary": "The National Democratic Congress (NDC) has elected regional chairmen in 13 of Ghana’s 16 regions following its 2026 regional executive elections held on Saturday, November 14. Results from…",
       "categories": [
+        "HP News 1",
         "National",
         "Politics",
         "Chairman",
@@ -43,6 +61,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T04:38:34.000Z",
       "summary": "The National Democratic Congress (NDC) in the Upper West Region has elected procurement consultant Alhaji Alhassan Adam, popularly known as Randy, as its new Regional Chairman. The…",
       "categories": [
+        "HP News 6",
         "Politics",
         "Regional",
         "incumbents",
@@ -58,6 +77,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T04:12:40.000Z",
       "summary": "Aviation professionals have called for stronger training opportunities and career guidance to prepare more young Ghanaians for employment in the aviation industry. They say while many young…",
       "categories": [
+        "HP News 7",
         "National",
         "aviation",
         "Industry",
@@ -131,20 +151,6 @@ window.GDC_PAPERS = {
         "Daniel Niibi Afotey",
         "deputy youth",
         "NDC Greater Accra"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam Jonah credits Acheampong with advancing Ghanaian ownership of mineral wealth",
-      "link": "https://www.myjoyonline.com/sam-jonah-credits-acheampong-with-advancing-ghanaian-ownership-of-mineral-wealth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:55:57.000Z",
-      "summary": "Business leader Sir Sam Jonah has credited former Head of State General Ignatius Kutu Acheampong with advancing Ghanaian participation and ownership in the country’s mining and timber…",
-      "categories": [
-        "National",
-        "Local ownership",
-        "mining policy",
-        "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T05:05:47.928Z",
+  "updated": "2026-11-15T05:25:46.424Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
+      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:18:46.000Z",
+      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
+    },
     {
       "title": "Women’s Development Bank Must Reach Rural Entrepreneurs to Deliver Economic Impact",
       "link": "https://thehighstreetjournal.com/womens-development-bank-must-reach-rural-entrepreneurs-to-deliver-economic-impact/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T05:00:00.000Z",
       "summary": "Government is expanding financing, training and export support for women entrepreneurs, while the proposed Women's Development Bank moves closer to securing regulatory approval."
-    },
-    {
-      "title": "Ghana’s Economic Recovery Faces Household Test as Food Insecurity Rises to 39.8%",
-      "link": "https://thehighstreetjournal.com/ghanas-economic-recovery-faces-household-test-as-food-insecurity-rises-to-39-8/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:00:00.000Z",
-      "summary": "ILAPI wants Ghana's 2027 Budget to prioritise poverty reduction as rising food insecurity exposes the gap between improving macroeconomic indicators and the economic realities facing…"
     }
   ]
 };
