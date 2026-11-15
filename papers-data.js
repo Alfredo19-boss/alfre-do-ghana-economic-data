@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:10:00.097Z",
+  "updated": "2026-11-15T18:20:01.207Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kwame Asiemoah: New NDC Volta Youth Organiser pledges united and empowered wing",
+      "link": "https://www.graphic.com.gh/news/politics/kwame-asiemoah-new-ndc-volta-youth-organiser-pledges-united-and-empowered-wing.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T18:08:44.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Black Stars return a ‘dream come true’ – Kofi Kyereh",
       "link": "https://www.myjoyonline.com/black-stars-return-a-dream-come-true-kofi-kyereh/",
@@ -216,17 +227,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/danso-topples-ashie-moore-to-take-ndc-greater-accra-chairmanship.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T22:20:55.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "One arrested, Chairs destroyed as Northern NDC Treasurer results spark chaos",
-      "link": "https://www.graphic.com.gh/news/politics/one-arrested-chairs-destroyed-as-northern-ndc-treasurer-results-spark-chaos.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T21:34:03.000Z",
       "summary": "",
       "categories": [
         "Politics"
