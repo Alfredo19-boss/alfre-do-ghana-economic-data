@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:55:02.624Z",
+  "updated": "2026-11-15T18:04:59.767Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UMaT introduces meal scheme and an emergency fund for students",
+      "link": "https://www.myjoyonline.com/umat-introduces-meal-scheme-and-an-emergency-fund-for-students/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:58:29.000Z",
+      "summary": "The University of Mines and Technology (UMaT) has introduced a One-Meal-a-Day scheme and an Emergency Student Support Fund to support students facing financial difficulties.",
+      "categories": [
+        "Education",
+        "National",
+        "University of Mines and Technology (UMaT)",
+        "Vice-Chancellor Professor Bernard Kumi-Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Kingsley Braye double downs Young Apostles in Wenchi",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-kingsley-braye-double-downs-young-apostles-in-wenchi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:55:10.000Z",
+      "summary": "Kingsley Braye was the star of the weekend for the Mauve and Yellows who picked up a 2-1 win in Wenchi.",
+      "categories": [
+        "Football",
+        "National",
+        "GPL",
+        "Medeama",
+        "Young Apostles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "To judge and to teach: 150 years of the Supreme Court and Mfantsipim",
       "link": "https://www.myjoyonline.com/to-judge-and-to-teach-150-years-of-the-supreme-court-and-mfantsipim/",
@@ -53,6 +82,22 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "FC AshantiGold ‘04 claim a hard-fought 1-0 home victory over Karela United",
+      "link": "https://www.myjoyonline.com/fc-ashantigold-04-claim-a-hard-fought-1-0-home-victory-over-karela-united/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:41:00.000Z",
+      "summary": "FC AshantiGold ‘04 secured a 1-0 win over Karela United in their Matchday 11 fixture of the Ghana Premier League at the Lens Clay Stadium in Obuasi on Sunday, November 15.",
+      "categories": [
+        "Football",
+        "HP Sports 4",
+        "FC AshantiGold",
+        "Ghana Premier League",
+        "Karela United",
+        "Kojo Twumasi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Agogo announces November 24 to 26 funeral rites for Nana Akuoko Sarpong, President Mahama, Otumfuo expected to lead dignitaries",
       "link": "https://www.graphic.com.gh/news/general-news/agogo-announces-november-24-to-26-funeral-rites-for-nana-akuoko-sarpong-president-mahama-otumfuo-expected-to-lead-dignitaries.html",
       "source": "Daily Graphic",
@@ -82,6 +127,7 @@ window.GDC_PAPERS = {
       "summary": "On the occasion of the 150th Anniversary of Mfantsipim School, it is imperative that we share one significant impact of that School on the independence struggle of the Gold Coast. The…",
       "categories": [
         "HP Opinion 2",
+        "In Focus",
         "National",
         "Opinion",
         "Egbert Faibille Jnr",
@@ -117,49 +163,6 @@ window.GDC_PAPERS = {
         "Jospong",
         "private investment",
         "waste infrastructure"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Swedru All Blacks held by Berekum Chelsea in goalless draw",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-swedru-all-blacks-held-by-berekum-chelsea-in-goalless-draw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:04:00.000Z",
-      "summary": "Swedru All Blacks were held to a goalless draw by Berekum Chelsea in their Ghana Premier League encounter after failing to convert their opportunities.",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Berekum Chelsea",
-        "Ghana Premier League",
-        "Swedru All Blacks"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amoakohene calls for review of NAIMOS operations over Manso Keniago deaths",
-      "link": "https://www.myjoyonline.com/amoakohene-calls-for-review-of-naimos-operations-over-manso-keniago-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:40:12.000Z",
-      "summary": "Ashanti Regional Minister Dr Frank Amoakohene has called for a review of the operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), warning that its approach to the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Manso Keniago",
-        "NAIMO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vatar, makers of Lagos Life, launches in Ghana",
-      "link": "https://www.myjoyonline.com/vatar-makers-of-lagos-life-launches-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:17:08.000Z",
-      "summary": "The makers of Lagos Life are bringing Accra, Kumasi, and Tema into a growing network of interconnected African virtual worlds. Vatar, the African gaming company behind Lagos Life, today…",
-      "categories": [
-        "News",
-        "Ghana",
-        "Lagos Life",
-        "Vatar"
       ],
       "site": "https://www.myjoyonline.com/"
     },
