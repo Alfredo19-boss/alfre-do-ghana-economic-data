@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T12:29:44.461Z",
+  "updated": "2026-11-15T12:39:46.154Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Adams Randy elected NDC Upper West Regional Chairman",
+      "link": "https://www.graphic.com.gh/news/politics/adams-randy-elected-ndc-upper-west-regional-chairman.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T12:37:13.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "AGN Chair demands predictable finance as $7.6 million Urban Resilience Facility launches at COP31",
       "link": "https://www.myjoyonline.com/agn-chair-demands-predictable-finance-as-7-6-million-urban-resilience-facility-launches-at-cop31/",
@@ -206,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/bono-ndc-elections-nyamekye-marfo-cruises-to-victory-with-over-90-of-votes.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T18:36:36.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Former Regional Minister elected NDC North East Regional Secretary",
-      "link": "https://www.graphic.com.gh/news/politics/former-regional-minister-elected-ndc-north-east-regional-secretary.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T17:30:38.000Z",
       "summary": "",
       "categories": [
         "Politics"
