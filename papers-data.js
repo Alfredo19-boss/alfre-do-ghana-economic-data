@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:20:01.207Z",
+  "updated": "2026-11-15T18:30:01.163Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2026/27 Ghana League: Port City rally to beat Debibi United and climb to third",
+      "link": "https://www.myjoyonline.com/2026-27-ghana-league-port-city-rally-to-beat-debibi-united-and-climb-to-third/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:22:58.000Z",
+      "summary": "Port City produced an impressive second-half comeback to beat Debibi United 3-1 at the Debibi Presby Park on Sunday, moving into third place in the Ghana Premier League standings. The…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026/27 Ghana Premier League",
+        "Debibi United",
+        "Port City FC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Somalia coach Yusuf Ali Nour wary of Black Stars quality ahead of AFCON qualifier",
+      "link": "https://www.myjoyonline.com/somalia-coach-yusuf-ali-nour-wary-of-black-stars-quality-ahead-of-afcon-qualifier/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:20:19.000Z",
+      "summary": "Somalia coach Yusuf Ali Nour has acknowledged the quality within the Black Stars squad but insists his side will approach their 2027 Africa Cup of Nations qualifier with confidence as they…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "AFCON Qualifiers",
+        "Black Stars",
+        "Ghana vs Somalia",
+        "Yusuf Ali Nour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kwame Asiemoah: New NDC Volta Youth Organiser pledges united and empowered wing",
       "link": "https://www.graphic.com.gh/news/politics/kwame-asiemoah-new-ndc-volta-youth-organiser-pledges-united-and-empowered-wing.html",
@@ -124,23 +155,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "FC AshantiGold ‘04 claim a hard-fought 1-0 home victory over Karela United",
-      "link": "https://www.myjoyonline.com/fc-ashantigold-04-claim-a-hard-fought-1-0-home-victory-over-karela-united/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:41:00.000Z",
-      "summary": "FC AshantiGold ‘04 secured a 1-0 win over Karela United in their Matchday 11 fixture of the Ghana Premier League at the Lens Clay Stadium in Obuasi on Sunday, November 15.",
-      "categories": [
-        "Football",
-        "HP Sports 4",
-        "FC AshantiGold",
-        "Ghana Premier League",
-        "Karela United",
-        "Kojo Twumasi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agogo announces November 24 to 26 funeral rites for Nana Akuoko Sarpong, President Mahama, Otumfuo expected to lead dignitaries",
+      "title": "Agogohene Nana Akuoko Sarpong's funeral to take place from November 24 to 26",
       "link": "https://www.graphic.com.gh/news/general-news/agogo-announces-november-24-to-26-funeral-rites-for-nana-akuoko-sarpong-president-mahama-otumfuo-expected-to-lead-dignitaries.html",
       "source": "Daily Graphic",
       "published": "2026-11-15T17:36:17.000Z",
@@ -160,23 +175,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mfantsipim School and the founding of Ghana National College – Egbert Faibille Jnr writes",
-      "link": "https://www.myjoyonline.com/mfantsipim-school-and-the-founding-of-ghana-national-college-egbert-faibille-jnr-writes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:17:02.000Z",
-      "summary": "On the occasion of the 150th Anniversary of Mfantsipim School, it is imperative that we share one significant impact of that School on the independence struggle of the Gold Coast. The…",
-      "categories": [
-        "HP Opinion 2",
-        "In Focus",
-        "National",
-        "Opinion",
-        "Egbert Faibille Jnr",
-        "Ghana National College",
-        "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Abu Trica to face jury trial Feb 8, 2027 in alleged $8m romance scam; Court sets Dec 15 deadline if he wants plea deal same as Hushpuppi",
