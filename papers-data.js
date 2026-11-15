@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T19:30:01.088Z",
+  "updated": "2026-11-15T19:49:59.995Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "Asante Kotoko were held to a goalless draw by Bibiani Gold Stars in their Week 11 Ghana Premier League clash at the Baba Yara Sports Stadium.",
       "categories": [
         "Football",
+        "National",
         "Sports",
         "Asante Kotoko",
         "Bibiani Gold Stars",
@@ -59,7 +60,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Education",
         "HP News 2",
-        "HP News 5",
         "National",
         "Ghana Education Service (GES)",
         "teacher recruitment"
