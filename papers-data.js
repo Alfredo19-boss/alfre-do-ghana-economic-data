@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T09:04:45.838Z",
+  "updated": "2026-11-15T09:09:44.581Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T09:01:27.000Z",
       "summary": "Chief Executive Officer of Akina Group of Companies, Alhaji Ali Abubakar, popularly known as “Soldierman,” has defeated incumbent Unas Owusu to become the new Bono East Regional Chairman of…",
       "categories": [
+        "HP News 10",
         "Politics",
         "Alhaji Ali Abubakar",
         "NDC"
