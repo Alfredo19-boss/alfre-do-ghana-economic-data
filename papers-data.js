@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T08:49:47.101Z",
+  "updated": "2026-11-15T08:54:45.512Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T08:48:24.000Z",
       "summary": "Former Central Regional NDC Chairman, Dr. Richard Asiedu, is calling for an investigation into the party’s November 14 regional executive elections held at Dunkwa on-Offin. He has alleged…",
       "categories": [
+        "HP News 3",
         "Politics",
         "Central Region",
         "Elections",
@@ -114,6 +115,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T08:25:10.000Z",
       "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has commended the government for strengthening the operational capacity and nationwide…",
       "categories": [
+        "HP News 4",
         "National",
         "Government",
         "NACOC",
@@ -128,6 +130,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T08:24:32.000Z",
       "summary": "When sudden floodwaters tore through the streets of Accra last June, the devastation left behind was measured not only in damaged infrastructure, but in broken lives and lost independence.",
       "categories": [
+        "HP News 5",
         "National",
         "climate negotiation",
         "COP31",
