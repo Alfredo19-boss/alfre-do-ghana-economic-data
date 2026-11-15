@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-14T23:13:59.656Z",
+  "updated": "2026-11-15T04:16:16.758Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Aviation professionals call for stronger training pathways for aspiring Ghanaian youth",
+      "link": "https://www.myjoyonline.com/aviation-professionals-call-for-stronger-training-pathways-for-aspiring-ghanaian-youth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T04:12:40.000Z",
+      "summary": "Aviation professionals have called for stronger training opportunities and career guidance to prepare more young Ghanaians for employment in the aviation industry. They say while many young…",
+      "categories": [
+        "National",
+        "aviation",
+        "Industry",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Price and promise of a solitary monetary policy",
       "link": "https://www.myjoyonline.com/the-price-and-promise-of-a-solitary-monetary-policy/",
@@ -165,23 +179,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Benjamin Danso defeats NDC Greater Accra chair Ashie Moore by a margin of over 500 votes",
-      "link": "https://www.myjoyonline.com/benjamin-danso-defeats-ndc-greater-accra-chair-ashie-moore-by-a-margin-of-over-500-votes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:17:00.000Z",
-      "summary": "Benjamin Danso has emerged as the new Greater Accra Regional Chairman of the National Democratic Congress (NDC), defeating incumbent Emmanuel Nii Ashie Moore in the party’s regional…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Politics",
-        "Regional",
-        "Ashie Moore",
-        "Greater Accra",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
