@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:24:18.182Z",
+  "updated": "2026-11-15T23:48:48.167Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -110,6 +110,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Wenger decides not to challenge FIFA chief Infantino",
+      "link": "https://www.myjoyonline.com/wenger-decides-not-to-challenge-fifa-chief-infantino/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:01:00.000Z",
+      "summary": "Former Arsenal manager Arsene Wenger has decided not to challenge Gianni Infantino in FIFA's presidential election.",
+      "categories": [
+        "Football",
+        "Arsene Wenger",
+        "FIFA",
+        "Infantino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
       "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
       "source": "MyJoyOnline",
@@ -128,22 +142,6 @@ window.GDC_PAPERS = {
     {
       "title": "Emerging markets face more challenging external environment heading into 2027 – Moody’s",
       "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-into-2027-moodys/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:50:19.000Z",
-      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "ECB",
-        "Inflation",
-        "Moody’s",
-        "Policy rate"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
-      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T22:50:19.000Z",
       "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
