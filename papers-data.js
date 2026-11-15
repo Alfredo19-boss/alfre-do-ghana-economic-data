@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T19:09:59.755Z",
+  "updated": "2026-11-15T19:19:59.498Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Education Service (GES) has cautioned the public against fake teacher recruitment links circulating on social media, stressing that its recruitment exercise has not yet commenced.",
       "categories": [
         "Education",
+        "HP News 5",
         "National",
         "Ghana Education Service (GES)",
         "teacher recruitment"
@@ -42,9 +43,11 @@ window.GDC_PAPERS = {
       "summary": "Veteran gospel musician and award-winning songwriter Bernice Ofeibea Offei has been laid to rest following a funeral service at the Legon Interdenominational Church at the University of…",
       "categories": [
         "Arts and Culture",
+        "HP News 4",
         "Music",
         "National",
-        "Bernice Offei"
+        "Bernice Offei",
+        "Burial Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
