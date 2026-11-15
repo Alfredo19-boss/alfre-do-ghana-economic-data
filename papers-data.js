@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:08:49.909Z",
+  "updated": "2026-11-15T23:14:14.223Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
+      "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:08:12.000Z",
+      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…",
+      "categories": [
+        "Business",
+        "Investments",
+        "AETC",
+        "Emelia Ankmah",
+        "George Opare-Addo",
+        "Ministry of Youth Development"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
       "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
@@ -128,22 +144,6 @@ window.GDC_PAPERS = {
         "Cedi",
         "Ghana",
         "Kwesi Yankah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian community leaders in Toronto urged to step up as gun violence claims young lives",
-      "link": "https://www.myjoyonline.com/ghanaian-community-leaders-in-toronto-urged-to-step-up-as-gun-violence-claims-young-lives/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:04:58.000Z",
-      "summary": "The growing number of young people losing their lives to gun violence in parts of Canada has prompted renewed calls for Ghanaian parents and community leaders to take a more active role in…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Canada",
-        "Ghanaian community",
-        "Gun violence"
       ],
       "site": "https://www.myjoyonline.com/"
     },

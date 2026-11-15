@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T23:08:48.963Z",
+  "updated": "2026-11-15T23:14:13.272Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
+      "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:08:12.000Z",
+      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…"
+    },
     {
       "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
       "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "BoG to roll out nationwide education campaign on new Heritage Series banknotes",
       "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-education-campaign-on-new-heritage-series-banknotes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:03:01.000Z",
-      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
-    },
-    {
-      "title": "BoG to roll out nationwide sensitisation campaign on new Heritage Series banknotes",
-      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-sensitisation-campaign-on-new-heritage-series-banknotes/",
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:03:01.000Z",
       "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
