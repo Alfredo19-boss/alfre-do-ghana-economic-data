@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T20:30:02.170Z",
+  "updated": "2026-11-15T20:39:59.186Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:33:04.000Z",
+      "summary": "The 2026 Ecobank JoyBusiness SME Fair has successfully concluded after three exciting days of business exhibitions, product displays, shopping bargains, networking, cultural performances…",
+      "categories": [
+        "Business",
+        "Events",
+        "HP News 1",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC Regional Elections: Walewale supporters allege sabotage after former parliamentary candidate wins Regional Secretary",
       "link": "https://www.myjoyonline.com/ndc-regional-elections-walewale-supporters-allege-sabotage-after-former-parliamentary-candidate-wins-regional-secretary/",
@@ -122,27 +137,11 @@ window.GDC_PAPERS = {
       "summary": "Veteran gospel musician and award-winning songwriter Bernice Ofeibea Offei has been laid to rest following a funeral service at the Legon Interdenominational Church at the University of…",
       "categories": [
         "Arts and Culture",
-        "HP News 4",
+        "HP News 8",
         "Music",
         "National",
         "Bernice Offei",
         "Burial Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two teenage suspects declared wanted over killing of Ghanaian teenager, Malik Abass, in Canada",
-      "link": "https://www.myjoyonline.com/two-teenage-suspects-declared-wanted-over-killing-of-ghanaian-teenager-malik-abass-in-canada/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:54:39.000Z",
-      "summary": "Canadian police have obtained Canada-wide arrest warrants for two suspects in connection with the fatal shooting of 18-year-old Ghanaian Malik Abass in Toronto. The Toronto Police Service…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Canada",
-        "Malik Abass",
-        "Murder"
       ],
       "site": "https://www.myjoyonline.com/"
     },

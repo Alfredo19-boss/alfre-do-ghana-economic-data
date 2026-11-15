@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T20:29:59.230Z",
+  "updated": "2026-11-15T20:39:29.531Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:33:04.000Z",
+      "summary": "The 2026 Ecobank JoyBusiness SME Fair has successfully concluded after three exciting days of business exhibitions, product displays, shopping bargains, networking, cultural performances…"
+    },
     {
       "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T12:30:17.000Z",
       "summary": "The upgraded Heritage Series will combine enhanced security features, improved durability and Ghanaian cultural identity as the Bank of Ghana prepares to modernise currency management."
-    },
-    {
-      "title": "IFAD Sees $11 Trillion Economic Risk From El Niño and Food System Shocks",
-      "link": "https://thehighstreetjournal.com/el-nino-threatens-11-trillion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T12:03:04.000Z",
-      "summary": "The climate phenomenon could also push an additional 49 million people into acute food insecurity by the end of 2027, with smallholder farmers particularly exposed"
     }
   ]
 };
