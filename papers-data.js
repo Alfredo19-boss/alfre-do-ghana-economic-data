@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T10:19:45.207Z",
+  "updated": "2026-11-15T10:29:43.466Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,42 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NAIMOS intensifies crackdown on illegal sand winning in Ketu North",
+      "link": "https://www.myjoyonline.com/naimos-intensifies-crackdown-on-illegal-sand-winning-in-ketu-north/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:16:13.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), with support from the Artillery Brigade of the Ghana Army, has carried out a major enforcement operation against suspected…",
+      "categories": [
+        "HP News 1",
+        "Regional",
+        "Ketu North",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim @150: MOBA’96 donates to Cape coast hospital pre-term babies unit",
+      "link": "https://www.myjoyonline.com/mfantsipim-150-moba96-donates-to-cape-coast-hospital-pre-term-babies-unit-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:14:50.000Z",
+      "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
+      "categories": [
+        "HP News 7",
+        "Regional",
+        "Cape Coast Hospital",
+        "Mfantsipim @150",
+        "MOBA’96"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mfantsipim @150: MOBA’96 donates to Cape coast hospital pre-term babies unit",
       "link": "https://www.myjoyonline.com/mfantsipim-150-moba96-donates-to-cape-coast-hospital-pre-term-babies-unit/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T10:12:44.000Z",
       "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
       "categories": [
+        "HP News 9",
         "Regional",
         "Cape Coast Hospital",
         "Mfantsipim @150",
@@ -41,6 +71,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T10:08:06.000Z",
       "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has expressed concern over the conduct of some party members during recent constituency-level elections of the National Democratic…",
       "categories": [
+        "HP News 2",
         "National",
         "Politics",
         "Kwame Governs Agbodza",
@@ -105,33 +136,6 @@ window.GDC_PAPERS = {
         "cycling",
         "Open Street Fair",
         "Road"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bono East NDC: Incumbent chairman ousted as Alhaji Ali Abubakar secures victory",
-      "link": "https://www.myjoyonline.com/bono-east-ndc-incumbent-chairman-ousted-as-alhaji-ali-abubakar-secures-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T09:01:27.000Z",
-      "summary": "Chief Executive Officer of Akina Group of Companies, Alhaji Ali Abubakar, popularly known as “Soldierman,” has defeated incumbent Unas Owusu to become the new Bono East Regional Chairman of…",
-      "categories": [
-        "HP News 10",
-        "Politics",
-        "Alhaji Ali Abubakar",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daffiama-Bussie-Issa set for major STEM school as Jakpa, DCE inspect project",
-      "link": "https://www.myjoyonline.com/daffiama-bussie-issa-set-for-major-stem-school-as-jakpa-dce-inspect-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:54:39.000Z",
-      "summary": "Director of Operations at the National Security Secretariat, Richard Jakpa, together with the District Chief Executive (DCE) for Daffiama-Bussie-Issa, James Wor, has inspected construction…",
-      "categories": [
-        "Regional",
-        "Daffiama-Bussie-Issa",
-        "STEM school"
       ],
       "site": "https://www.myjoyonline.com/"
     },
