@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T11:59:13.485Z",
+  "updated": "2026-11-15T12:09:43.093Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Tackling Inflation at Its Roots: How Budget Infrastructure and Farm Investments Could Sustain Low Prices",
+      "link": "https://thehighstreetjournal.com/tackling-inflation-at-its-roots-how-budget-infrastructure-and-farm-investments-could-sustain-low-prices/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T12:00:05.000Z",
+      "summary": "Prioritizing budget infrastructure for farms, roads, and factories alongside prudent spending can sustainably control Ghana's inflation from both supply and demand sides."
+    },
     {
       "title": "ICC/TikTok lunches digital commerce lab to boost SMEs",
       "link": "https://gna.org.gh/2026/11/icc-tiktok-lunches-digital-commerce-lab-to-boost-smes-2/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T11:14:07.000Z",
       "summary": "The Bank of Ghana (BoG) has developed an in-house software system to improve currency management, strengthen operational efficiency, and enhance the distribution of banknotes across the…"
-    },
-    {
-      "title": "Musk Says Hiring Nvidia CEO Jensen Huang Would Be an ‘Honor’ Amid Leadership Uncertainty",
-      "link": "https://thehighstreetjournal.com/musk-comments-on-nvidia-ceo-jensen-huang/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T09:32:32.000Z",
-      "summary": "Musk did not specify a potential role for Huang or indicate whether he had discussed employment with the Nvidia chief executive"
     }
   ]
 };
