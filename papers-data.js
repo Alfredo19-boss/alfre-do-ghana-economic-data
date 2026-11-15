@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T20:20:00.050Z",
+  "updated": "2026-11-15T20:30:02.170Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NDC Regional Elections: Walewale supporters allege sabotage after former parliamentary candidate wins Regional Secretary",
+      "link": "https://www.myjoyonline.com/ndc-regional-elections-walewale-supporters-allege-sabotage-after-former-parliamentary-candidate-wins-regional-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:24:56.000Z",
+      "summary": "Supporters of the National Democratic Congress (NDC) in Walewale have accused officials of the North East Regional Coordinating Directorate of deliberately frustrating celebrations…",
+      "categories": [
+        "Regional",
+        "Abdul Rauf Tanko Ibrahim",
+        "Abubakari Abdallah",
+        "NDC Regional Elections",
+        "Walewale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "The stench of cocaine and Ghana’s new cedi – Occasional Kwatriot Kwesi Yankah writes",
       "link": "https://www.myjoyonline.com/the-stench-of-cocaine-and-ghanas-new-cedi-occasional-kwatriot-kwesi-yankah-writes/",
       "source": "MyJoyOnline",
@@ -28,6 +43,7 @@ window.GDC_PAPERS = {
       "summary": "On my global rounds last year, I was shocked to see at airport shops perfume names that shook me to the core: a perfume called ‘Cocaine,’ then another designer perfume. ‘Opium.’ But the…",
       "categories": [
         "HP Opinion 3",
+        "National",
         "Opinion",
         "Cedi",
         "Ghana",
@@ -127,22 +143,6 @@ window.GDC_PAPERS = {
         "Canada",
         "Malik Abass",
         "Murder"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana coach hints at changes for Somalia return fixture",
-      "link": "https://www.myjoyonline.com/ghana-coach-hints-at-changes-for-somalia-return-fixture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:54:01.000Z",
-      "summary": "Black Stars coach Kim Lars Bjorkegren says he could make changes to his starting line-up for Monday’s 2027 Africa Cup of Nations qualifier against Somalia as he monitors the fitness of his…",
-      "categories": [
-        "Football",
-        "HP Sports 5",
-        "AFCON Qualifiers",
-        "Black Stars",
-        "Ghana vs Somalia",
-        "Kim Lars Björkegren"
       ],
       "site": "https://www.myjoyonline.com/"
     },
