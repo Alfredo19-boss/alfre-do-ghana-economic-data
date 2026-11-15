@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:04:59.767Z",
+  "updated": "2026-11-15T18:10:00.097Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Stars return a ‘dream come true’ – Kofi Kyereh",
+      "link": "https://www.myjoyonline.com/black-stars-return-a-dream-come-true-kofi-kyereh/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:02:35.000Z",
+      "summary": "Ghana midfielder, Daniel-Kofi Kyereh, has described his return to the Black Stars as a \"dream come true\" after making his comeback to the national team following a four-year injury absence.",
+      "categories": [
+        "HP Sports 2",
+        "Sports",
+        "Black Stars",
+        "Daniel Kofi Kyereh",
+        "Ghana vs. Somalia",
+        "Qatar 2022",
+        "Qatar World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UMaT introduces meal scheme and emergency fund for students",
+      "link": "https://www.myjoyonline.com/umat-introduces-meal-scheme-and-emergency-fund-for-students/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:58:29.000Z",
+      "summary": "The University of Mines and Technology (UMaT) has introduced a One-Meal-a-Day scheme and an Emergency Student Support Fund to support students facing financial difficulties.",
+      "categories": [
+        "Education",
+        "National",
+        "University of Mines and Technology (UMaT)",
+        "Vice-Chancellor Professor Bernard Kumi-Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UMaT introduces meal scheme and an emergency fund for students",
       "link": "https://www.myjoyonline.com/umat-introduces-meal-scheme-and-an-emergency-fund-for-students/",
@@ -133,36 +164,6 @@ window.GDC_PAPERS = {
         "Egbert Faibille Jnr",
         "Ghana National College",
         "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jospong, ISA deepen talks on solar energy, green jobs and climate-smart agriculture",
-      "link": "https://www.myjoyonline.com/jospong-isa-deepen-talks-on-solar-energy-green-jobs-and-climate-smart-agriculture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:07:57.000Z",
-      "summary": "The International Solar Alliance (ISA) has presented a comprehensive solarisation roadmap to the Jospong Group of Companies (JGC) at the ongoing 31st United Nations Climate Change…",
-      "categories": [
-        "National",
-        "climate-smart Agriculture",
-        "International Solar Alliance",
-        "Jospong",
-        "Solar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jospong calls for increased private investment in climate-resilient waste infrastructure",
-      "link": "https://www.myjoyonline.com/jospong-calls-for-increased-private-investment-in-climate-resilient-waste-infrastructure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:04:40.000Z",
-      "summary": "The Jospong Group of Companies has called for increased private sector investment in waste management infrastructure, innovative financing arrangements and technology transfer to help…",
-      "categories": [
-        "National",
-        "Climate",
-        "Jospong",
-        "private investment",
-        "waste infrastructure"
       ],
       "site": "https://www.myjoyonline.com/"
     },
