@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:48:48.167Z",
+  "updated": "2026-11-15T23:53:49.890Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -55,6 +55,20 @@ window.GDC_PAPERS = {
         "Interest rates",
         "Ministry of Finance",
         "T-Bills"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Korea’s top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.myjoyonline.com/south-koreas-top-scorer-in-tax-accountancy-exam-admits-cheating/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:12:00.000Z",
+      "summary": "A candidate who came first in South Korea's certified tax accountancy exam has admitted to cheating by using a miniature camera, a mobile phone and AI tools.",
+      "categories": [
+        "International",
+        "Cheating",
+        "South Korea",
+        "tax accountancy exam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -136,22 +150,6 @@ window.GDC_PAPERS = {
         "GUTA",
         "Ministry of Energy",
         "Ministry of Works & Housing"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Emerging markets face more challenging external environment heading into 2027 – Moody’s",
-      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-into-2027-moodys/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:50:19.000Z",
-      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "ECB",
-        "Inflation",
-        "Moody’s",
-        "Policy rate"
       ],
       "site": "https://www.myjoyonline.com/"
     },
