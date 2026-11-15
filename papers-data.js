@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T16:14:58.874Z",
+  "updated": "2026-11-15T16:25:01.445Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vatar, makers of Lagos Life, launches in Ghana",
+      "link": "https://www.myjoyonline.com/vatar-makers-of-lagos-life-launches-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:17:08.000Z",
+      "summary": "The makers of Lagos Life are bringing Accra, Kumasi, and Tema into a growing network of interconnected African virtual worlds. Vatar, the African gaming company behind Lagos Life, today…",
+      "categories": [
+        "News",
+        "Ghana",
+        "Lagos Life",
+        "Vatar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amoakohene formally bows out as NDC Ashanti Regional Secretary, touts party’s electoral gains",
+      "link": "https://www.myjoyonline.com/amoakohene-formally-bows-out-as-ndc-ashanti-regional-secretary-touts-partys-electoral-gains/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:10:58.000Z",
+      "summary": "Ashanti Regional Minister Dr Frank Amoakohene has formally ended his tenure as Ashanti Regional Secretary of the National Democratic Congress (NDC), following the successful conclusion of…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Dr Frank Amoakohene",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "When even your Traffic Fine is a scam!",
       "link": "https://www.myjoyonline.com/when-even-your-traffic-fine-is-a-scam/",
@@ -105,35 +133,6 @@ window.GDC_PAPERS = {
         "African Union member states",
         "Import Levy",
         "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abu Trica jury trial scheduled for Feb 8, 2027; Court sets Dec 15 deadline if he wants a plea deal same as Hushpuppi",
-      "link": "https://www.myjoyonline.com/abu-trica-jury-trial-scheduled-for-feb-8-2027-court-sets-dec-15-deadline-if-he-wants-a-plea-deal-same-as-hushpuppi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:16:55.000Z",
-      "summary": "Frederick Kumi, commonly known as Abu Trica, remains in US federal custody with a new jury trial date scheduled for February 8, 2027.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Abu Trica",
-        "court",
-        "Hushpuppi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana urges businesses to make trust their new currency",
-      "link": "https://www.myjoyonline.com/mtn-ghana-urges-businesses-to-make-trust-their-new-currency/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:06:48.000Z",
-      "summary": "MTN Ghana has urged businesses to make trust their new currency, warning that in today’s digital economy, trust is no longer just a value — it is the asset that determines whether a…",
-      "categories": [
-        "Photo Story",
-        "Cyber security",
-        "MTN Master Classs",
-        "Trust"
       ],
       "site": "https://www.myjoyonline.com/"
     },
