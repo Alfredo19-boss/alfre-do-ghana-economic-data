@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-15T18:49:26.659Z",
+  "updated": "2026-11-15T18:59:26.288Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -3704,11 +3704,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 64582.96,
+        "value": 64703.97,
         "prev": 73964.47,
-        "change": -9381.51,
-        "pct": -12.68,
-        "at": "2026-11-15T18:49:20.000Z",
+        "change": -9260.5,
+        "pct": -12.52,
+        "at": "2026-11-15T18:59:23.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3952,7 +3952,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 64582.96
+            "value": 64703.97
           }
         ]
       },
@@ -3961,11 +3961,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1812.52,
+        "value": 1814.56,
         "prev": 2055.8762,
-        "change": -243.356,
-        "pct": -11.84,
-        "at": "2026-11-15T18:49:20.000Z",
+        "change": -241.316,
+        "pct": -11.74,
+        "at": "2026-11-15T18:59:20.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4209,7 +4209,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 1812.52
+            "value": 1814.56
           }
         ]
       }
@@ -6359,11 +6359,11 @@ window.GDC_MARKETS = {
         "name": "Pound in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.3212,
+        "value": 1.3211,
         "prev": 1.336,
-        "change": -0.0148,
-        "pct": -1.11,
-        "at": "2026-11-15T00:36:47.000Z",
+        "change": -0.0149,
+        "pct": -1.12,
+        "at": "2026-11-15T18:58:44.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -6591,7 +6591,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 1.3212
+            "value": 1.3211
           }
         ]
       },

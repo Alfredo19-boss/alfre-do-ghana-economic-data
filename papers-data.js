@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:50:00.004Z",
+  "updated": "2026-11-15T18:59:59.456Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,38 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Two teenage suspects declared wanted over killing of Ghanaian teenager, Malik Abass in Canada",
+      "link": "https://www.myjoyonline.com/two-teenage-suspects-declared-wanted-over-killing-of-ghanaian-teenager-malik-abass-in-canada/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:54:39.000Z",
+      "summary": "Canadian police have obtained Canada-wide arrest warrants for two suspects in connection with the fatal shooting of 18-year-old Ghanaian Malik Abass in Toronto. The Toronto Police Service…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Canada",
+        "Malik Abass",
+        "Murder"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana coach hints at changes for Somalia return fixture",
+      "link": "https://www.myjoyonline.com/ghana-coach-hints-at-changes-for-somalia-return-fixture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:54:01.000Z",
+      "summary": "Black Stars coach Kim Lars Bjorkegren says he could make changes to his starting line-up for Monday’s 2027 Africa Cup of Nations qualifier against Somalia as he monitors the fitness of his…",
+      "categories": [
+        "Football",
+        "HP Sports 5",
+        "AFCON Qualifiers",
+        "Black Stars",
+        "Ghana vs Somalia",
+        "Kim Lars Björkegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
       "source": "MyJoyOnline",
@@ -29,6 +61,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Events",
+        "HP News 1",
         "National",
         "Ecobank JoyBusiness SME Fair 2026",
         "Kekeli Borborbor Group",
@@ -126,35 +159,6 @@ window.GDC_PAPERS = {
         "National",
         "University of Mines and Technology (UMaT)",
         "Vice-Chancellor Professor Bernard Kumi-Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UMaT introduces meal scheme and an emergency fund for students",
-      "link": "https://www.myjoyonline.com/umat-introduces-meal-scheme-and-an-emergency-fund-for-students/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:58:29.000Z",
-      "summary": "The University of Mines and Technology (UMaT) has introduced a One-Meal-a-Day scheme and an Emergency Student Support Fund to support students facing financial difficulties.",
-      "categories": [
-        "Education",
-        "National",
-        "University of Mines and Technology (UMaT)",
-        "Vice-Chancellor Professor Bernard Kumi-Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Kingsley Braye double downs Young Apostles in Wenchi",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-kingsley-braye-double-downs-young-apostles-in-wenchi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:55:10.000Z",
-      "summary": "Kingsley Braye was the star of the weekend for the Mauve and Yellows who picked up a 2-1 win in Wenchi.",
-      "categories": [
-        "Football",
-        "National",
-        "GPL",
-        "Medeama",
-        "Young Apostles"
       ],
       "site": "https://www.myjoyonline.com/"
     },
