@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T19:19:59.498Z",
+  "updated": "2026-11-15T19:25:00.183Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The right diagnosis, an incomplete cure – Frimpong Boateng writes on 2027 budget",
+      "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-frimpong-boateng-writes-on-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T19:20:11.000Z",
+      "summary": "“These boom-and-bust cycles must cease” On the evening of Thursday, November 12, 2026, the Minister for Finance, Dr Cassiel Ato Forson, when presenting the 2027 budget, told Parliament that…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "budegt",
+        "Prof. Kwabena Frimpong-Boateng."
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GES warns public against fake teacher recruitment links circulating on social media",
       "link": "https://www.myjoyonline.com/ges-warns-public-against-fake-teacher-recruitment-links-circulating-on-social-media/",
@@ -129,22 +144,6 @@ window.GDC_PAPERS = {
         "2026/27 Ghana Premier League",
         "Debibi United",
         "Port City FC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Somalia coach Yusuf Ali Nour wary of Black Stars quality ahead of AFCON qualifier",
-      "link": "https://www.myjoyonline.com/somalia-coach-yusuf-ali-nour-wary-of-black-stars-quality-ahead-of-afcon-qualifier/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:20:19.000Z",
-      "summary": "Somalia coach Yusuf Ali Nour has acknowledged the quality within the Black Stars squad but insists his side will approach their 2027 Africa Cup of Nations qualifier with confidence as they…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "AFCON Qualifiers",
-        "Black Stars",
-        "Ghana vs Somalia",
-        "Yusuf Ali Nour"
       ],
       "site": "https://www.myjoyonline.com/"
     },
