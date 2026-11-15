@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T11:09:23.092Z",
+  "updated": "2026-11-15T11:29:42.520Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Wayoe Engineering wins outstanding in-Country investment award",
+      "link": "https://gna.org.gh/2026/11/wayoe-engineering-wins-outstanding-in-country-investment-award/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-15T11:27:55.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "Lower Fuel Prices Expected At Pumps From Monday",
       "link": "https://thehighstreetjournal.com/lower-fuel-prices-expected-at-pumps/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T06:06:19.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
-    },
-    {
-      "title": "MIIF CEO woos international investors to unlock Ghana’s mineral wealth",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/miif-ceo-woos-international-investors-to-unlock-ghanas-mineral-wealth/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T06:02:28.000Z",
-      "summary": "The Chief Executive Officer (CEO) of the Minerals Income Investment Fund (MIIF), Mrs Justina Nelson, has called for stronger partnerships with international investors to unlock Ghana’s…"
     }
   ]
 };
