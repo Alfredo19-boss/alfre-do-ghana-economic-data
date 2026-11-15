@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T05:00:47.058Z",
+  "updated": "2026-11-15T05:05:47.928Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,37 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Women’s Development Bank Must Reach Rural Entrepreneurs to Deliver Economic Impact",
+      "link": "https://thehighstreetjournal.com/womens-development-bank-must-reach-rural-entrepreneurs-to-deliver-economic-impact/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T05:05:00.000Z",
+      "summary": "SWIDA-Ghana says the Women's Development Bank could accelerate women's business growth and reduce poverty, but insists inclusive financing must reach rural entrepreneurs and women in the…"
+    },
+    {
+      "title": "Poultry and Garments Become the 2027 Budget’s Test of Import Substitution",
+      "link": "https://thehighstreetjournal.com/poultry-and-garments-become-the-2027-budgets-test-of-import-substitution/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T05:03:00.000Z",
+      "summary": "The 2027 Budget is putting dedicated funding behind poultry and textiles, testing whether targeted investment can turn import dependence into local production, jobs and industrial growth."
+    },
+    {
+      "title": "Ghana Warns of Phishing Attacks After Microsoft Outage",
+      "link": "https://thehighstreetjournal.com/ghana-warns-of-phishing-attacks-after-microsoft-outage/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T05:02:00.000Z",
+      "summary": "The Cyber Security Authority and NITA have cautioned businesses and the public against fraudulent account recovery messages targeting users following the disruption."
+    },
+    {
+      "title": "Africa’s $5.2 Billion Streaming Market Faces , Financing, Distribution Gaps, Study Finds",
+      "link": "https://thehighstreetjournal.com/africas-5-2b-streaming-market-faces-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T05:01:00.000Z",
+      "summary": "The report, titled Made in Africa, Watched Globally?, finds that growing film production across the continent has not been matched by investment in distribution and monetisation"
+    },
     {
       "title": "From Street Crime to State Sabotage: Europe’s Emerging Security Threat",
       "link": "https://thehighstreetjournal.com/from-street-crime-to-state-sabotage-europes-emerging-security-threat/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T05:00:00.000Z",
       "summary": "ILAPI wants Ghana's 2027 Budget to prioritise poverty reduction as rising food insecurity exposes the gap between improving macroeconomic indicators and the economic realities facing…"
-    },
-    {
-      "title": "Alliance urges farmers to plant more trees to protect cocoa farms following El Niño weather",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/alliance-urges-farmers-to-plant-more-trees-to-protect-cocoa-farms-following-el-nino-weather/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T04:23:45.000Z",
-      "summary": "Rainforest Alliance has urged cocoa farmers to increase tree cover on their farms to protect cocoa crops against excessive heat and other potential effects of the developing El Niño weather…"
-    },
-    {
-      "title": "120% collateral requirement shuts businesses out of credit — AGI",
-      "link": "https://www.myjoyonline.com/120-collateral-requirement-shuts-businesses-out-of-credit-agi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T03:23:16.000Z",
-      "summary": "The Chairman of the Economic Affairs Committee of the Association of Ghana Industries (AGI), Eric Defor, has raised concerns about the difficulty businesses continue to face in securing…"
-    },
-    {
-      "title": "‘Buyers have no money; we are sitting idle’ — Kantamanto trader",
-      "link": "https://www.myjoyonline.com/buyers-have-no-money-we-are-sitting-idle-kantamanto-trader/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T03:10:21.000Z",
-      "summary": "Traders at the Kantamanto Market in Accra are struggling to make sales as customers increasingly complain about a lack of money to buy goods, a situation that is putting pressure on…"
-    },
-    {
-      "title": "Stable prices, empty pockets: Kantamanto trader urges cash injection ahead of 2027 budget",
-      "link": "https://www.myjoyonline.com/stable-prices-empty-pockets-kantamanto-trader-urges-cash-injection-ahead-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T02:16:00.000Z",
-      "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…"
     }
   ]
 };
