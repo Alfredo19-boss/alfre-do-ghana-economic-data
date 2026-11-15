@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T09:19:43.611Z",
+  "updated": "2026-11-15T09:49:43.391Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T09:39:35.000Z",
+      "summary": "The doors are open, the vendors are ready, the music is playing and the bargains are waiting, the Ecobank JoyBusiness SME Fair 2026 has entered its final day, with patrons being urged to…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Top Story",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Ghud Park"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Open Street Fair pushes for people-centred road infrastructure in Accra",
       "link": "https://www.myjoyonline.com/open-street-fair-pushes-for-people-centred-road-infrastructure-in-accra/",
@@ -118,21 +134,6 @@ window.GDC_PAPERS = {
         "AbibiNsroma Foundation",
         "Solar Energy",
         "Tax"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "El Niño: West African governments urged to prepare for food and health threats",
-      "link": "https://www.myjoyonline.com/el-nino-west-african-governments-urged-to-prepare-for-food-and-health-threats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:26:36.000Z",
-      "summary": "Experts warn that delayed rainfall, prolonged dry spells and rising temperatures could threaten harvests, water supplies and public health across the region in 2026–2027.",
-      "categories": [
-        "Africa",
-        "News",
-        "Climate change",
-        "Health",
-        "WHO"
       ],
       "site": "https://www.myjoyonline.com/"
     },

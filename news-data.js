@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T09:19:13.542Z",
+  "updated": "2026-11-15T09:49:15.907Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T09:39:35.000Z",
+      "summary": "The doors are open, the vendors are ready, the music is playing and the bargains are waiting, the Ecobank JoyBusiness SME Fair 2026 has entered its final day, with patrons being urged to…"
+    },
     {
       "title": "Oppong Nkrumah Charges Fiscal Council to Investigate Fiscal Inconsistencies in 2027 Budget",
       "link": "https://thehighstreetjournal.com/oppong-nkrumah-charges-fiscal-council-to-investigate-fiscal-inconsistencies-in-2027-budget/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T05:47:47.000Z",
       "summary": "Mr Samuel Nartey George, Minister for Communication, Digital Technology and Innovations, has called for stronger international cooperation and investment to bridge Africa’s digital divide…"
-    },
-    {
-      "title": "2027 Budget: Fate of 24-Hour Economy Comes into Question Amid GH¢10bn New Economy Programme",
-      "link": "https://thehighstreetjournal.com/2027-budget-fate-of-24-hour-economy-comes-into-question-amid-gh%c2%a210bn-new-economy-programme/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:35:19.000Z",
-      "summary": "Policy Analyst Alfred Appiah wants government to clarify the relationship between the 24-hour economy and GH¢10 billion New Economy programme, questioning institutional responsibility…"
     }
   ]
 };
