@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T22:54:17.588Z",
+  "updated": "2026-11-15T22:59:15.915Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: failed (HTTP 415)",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
+      "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T22:55:57.000Z",
+      "summary": "The event is also being supported by key stakeholder associations in the country such as the Ghana Electrical Contractors Association, Association of Building & Civil Engineering…"
+    },
     {
       "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
       "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T12:59:03.000Z",
       "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…"
-    },
-    {
-      "title": "Mahama links cedi stability to $10bn New Economy Programme",
-      "link": "https://www.myjoyonline.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:52:00.000Z",
-      "summary": "President John Dramani Mahama says government’s proposed $10 billion, four-year New Economy Programme will be central to efforts to strengthen the Ghana cedi and build a more resilient…"
     }
   ]
 };

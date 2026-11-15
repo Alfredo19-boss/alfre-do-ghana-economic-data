@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T22:54:18.566Z",
+  "updated": "2026-11-15T22:59:16.751Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
+      "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T22:55:57.000Z",
+      "summary": "The event is also being supported by key stakeholder associations in the country such as the Ghana Electrical Contractors Association, Association of Building & Civil Engineering…",
+      "categories": [
+        "Business",
+        "Energy",
+        "AGI",
+        "GUTA",
+        "Ministry of Energy",
+        "Ministry of Works & Housing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
       "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
@@ -126,21 +142,6 @@ window.GDC_PAPERS = {
         "Asante Kotoko",
         "Bibiani Gold Stars",
         "Ghana Premier League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The right diagnosis, an incomplete cure – Frimpong Boateng writes on 2027 budget",
-      "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-frimpong-boateng-writes-on-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T19:20:11.000Z",
-      "summary": "“These boom-and-bust cycles must cease” On the evening of Thursday, November 12, 2026, the Minister for Finance, Dr Cassiel Ato Forson, when presenting the 2027 budget, told Parliament that…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "budegt",
-        "Prof. Kwabena Frimpong-Boateng."
       ],
       "site": "https://www.myjoyonline.com/"
     },
