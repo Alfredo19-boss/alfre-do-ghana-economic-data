@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:10:02.031Z",
+  "updated": "2026-11-15T17:15:02.454Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jospong, ISA deepen talks on solar energy, green jobs and climate-smart agriculture",
+      "link": "https://www.myjoyonline.com/jospong-isa-deepen-talks-on-solar-energy-green-jobs-and-climate-smart-agriculture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:07:57.000Z",
+      "summary": "The International Solar Alliance (ISA) has presented a comprehensive solarisation roadmap to the Jospong Group of Companies (JGC) at the ongoing 31st United Nations Climate Change…",
+      "categories": [
+        "National",
+        "climate-smart Agriculture",
+        "International Solar Alliance",
+        "Jospong",
+        "Solar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jospong calls for increased private investment in climate-resilient waste infrastructure",
       "link": "https://www.myjoyonline.com/jospong-calls-for-increased-private-investment-in-climate-resilient-waste-infrastructure/",
@@ -118,21 +133,6 @@ window.GDC_PAPERS = {
         "Cocoa",
         "Ghana",
         "Jimmy Aglah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African oil producers urged to balance local content with investment",
-      "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:51:38.000Z",
-      "summary": "African oil-producing countries have been urged to strengthen local content development by creating a sustainable pipeline of upstream investments and projects, while maintaining an…",
-      "categories": [
-        "Energy",
-        "National",
-        "African oil",
-        "Baluri Kassim Bukari",
-        "Local Content Conference and Exhibition"
       ],
       "site": "https://www.myjoyonline.com/"
     },
