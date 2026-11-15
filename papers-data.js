@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:26:16.612Z",
+  "updated": "2026-11-15T05:31:17.634Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:18:46.000Z",
+      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Top Story",
+        "Ecobank",
+        "JoyBusiness",
+        "SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
       "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
@@ -139,20 +156,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Daniel Niibi Afotey Odai elected NDC Greater Accra Deputy Youth Organiser",
-      "link": "https://www.myjoyonline.com/daniel-niibi-afotey-odai-elected-ndc-greater-accra-deputy-youth-organiser/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T22:14:41.000Z",
-      "summary": "Daniel Niibi Afotey Odai has been elected Deputy Regional Youth Organiser of the National Democratic Congress (NDC) in the Greater Accra Region after narrowly defeating three other…",
-      "categories": [
-        "Politics",
-        "Daniel Niibi Afotey",
-        "deputy youth",
-        "NDC Greater Accra"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "One arrested, Chairs destroyed as Northern NDC Treasurer results spark chaos",

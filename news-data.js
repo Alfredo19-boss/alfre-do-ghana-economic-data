@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T05:25:46.424Z",
+  "updated": "2026-11-15T05:30:50.535Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -24,6 +24,13 @@ window.GDC_NEWS = {
     {
       "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
       "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:18:46.000Z",
+      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
+    },
+    {
+      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
+      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T05:18:46.000Z",
       "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
@@ -50,7 +57,7 @@ window.GDC_NEWS = {
       "summary": "The Cyber Security Authority and NITA have cautioned businesses and the public against fraudulent account recovery messages targeting users following the disruption."
     },
     {
-      "title": "Africa’s $5.2 Billion Streaming Market Faces , Financing, Distribution Gaps, Study Finds",
+      "title": "Africa’s $5.2 Billion Streaming Market Faces Financing, Distribution Gaps, Study Finds",
       "link": "https://thehighstreetjournal.com/africas-5-2b-streaming-market-faces-gap/",
       "source": "The High Street Journal",
       "published": "2026-11-15T05:01:00.000Z",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T05:01:00.000Z",
       "summary": "Prof. Samuel Lartey warns economic growth means little if household budgets shrink, urging Ghana to guard against oil-driven inflation in 2027 and protect purchasing power."
-    },
-    {
-      "title": "Government Rolls Out Financing, Export Support for Women-led Businesses",
-      "link": "https://thehighstreetjournal.com/government-rolls-out-financing-export-support-for-women-led-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T05:00:00.000Z",
-      "summary": "Government is expanding financing, training and export support for women entrepreneurs, while the proposed Women's Development Bank moves closer to securing regulatory approval."
     }
   ]
 };
