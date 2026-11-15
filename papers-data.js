@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T13:19:44.978Z",
+  "updated": "2026-11-15T13:29:44.414Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana overcome Nigeria to win second edition of Stanbic Bank Polo Invitational Tournament",
+      "link": "https://www.myjoyonline.com/ghana-overcome-nigeria-to-win-second-edition-of-stanbic-bank-polo-invitational-tournament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T13:22:11.000Z",
+      "summary": "Ghana maintained its dominance over Nigeria, beating their West African rivals in the second edition of the Stanbic Bank Polo Invitational Tournament. Represented by the Accra Polo Club…",
+      "categories": [
+        "News",
+        "Accra Polo Club",
+        "Adamu Benin Abdul Karim",
+        "Guards Polo",
+        "Stanbic Bank Polo Invitational Tournament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "DJ Sonatty makes history with DJ of the Year nomination at Ghana DJ Awards 2026",
       "link": "https://www.myjoyonline.com/dj-sonatty-makes-history-with-dj-of-the-year-nomination-at-ghana-dj-awards-2026/",
@@ -143,21 +158,6 @@ window.GDC_PAPERS = {
         "Cape Coast Hospital",
         "Mfantsipim @150",
         "MOBA’96"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agbodza raises concerns over vote-buying, conduct in NDC constituency elections",
-      "link": "https://www.myjoyonline.com/agbodza-raises-concerns-over-vote-buying-conduct-in-ndc-constituency-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:08:06.000Z",
-      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has expressed concern over the conduct of some party members during recent constituency-level elections of the National Democratic…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Politics",
-        "Kwame Governs Agbodza",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
