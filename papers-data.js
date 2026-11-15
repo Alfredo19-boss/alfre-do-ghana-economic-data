@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T19:25:00.183Z",
+  "updated": "2026-11-15T19:30:01.088Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GPL 2026/2027: Kotoko drop points after goalless draw against Gold Stars",
+      "link": "https://www.myjoyonline.com/gpl-2026-2027-kotoko-drop-points-after-goalless-draw-against-gold-stars/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T19:25:36.000Z",
+      "summary": "Asante Kotoko were held to a goalless draw by Bibiani Gold Stars in their Week 11 Ghana Premier League clash at the Baba Yara Sports Stadium.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Asante Kotoko",
+        "Bibiani Gold Stars",
+        "Ghana Premier League"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The right diagnosis, an incomplete cure – Frimpong Boateng writes on 2027 budget",
       "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-frimpong-boateng-writes-on-2027-budget/",
@@ -43,6 +58,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Education Service (GES) has cautioned the public against fake teacher recruitment links circulating on social media, stressing that its recruitment exercise has not yet commenced.",
       "categories": [
         "Education",
+        "HP News 2",
         "HP News 5",
         "National",
         "Ghana Education Service (GES)",
@@ -129,21 +145,6 @@ window.GDC_PAPERS = {
         "Ocean Stars",
         "Somalia captain",
         "Somalia national team"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026/27 Ghana League: Port City rally to beat Debibi United and climb to third",
-      "link": "https://www.myjoyonline.com/2026-27-ghana-league-port-city-rally-to-beat-debibi-united-and-climb-to-third/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:22:58.000Z",
-      "summary": "Port City produced an impressive second-half comeback to beat Debibi United 3-1 at the Debibi Presby Park on Sunday, moving into third place in the Ghana Premier League standings. The…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026/27 Ghana Premier League",
-        "Debibi United",
-        "Port City FC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
