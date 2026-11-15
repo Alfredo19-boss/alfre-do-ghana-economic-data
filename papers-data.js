@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:15:02.454Z",
+  "updated": "2026-11-15T17:25:01.813Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mfantsipim School and the founding of Ghana National College – Egbert Faibille Jnr writes",
+      "link": "https://www.myjoyonline.com/mfantsipim-school-and-the-founding-of-ghana-national-college-egbert-faibille-jnr-writes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:17:02.000Z",
+      "summary": "On the occasion of the 150th Anniversary of Mfantsipim School, it is imperative that we share one significant impact of that School on the independence struggle of the Gold Coast. The…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "Egbert Faibille Jnr",
+        "Ghana National College",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jospong, ISA deepen talks on solar energy, green jobs and climate-smart agriculture",
       "link": "https://www.myjoyonline.com/jospong-isa-deepen-talks-on-solar-energy-green-jobs-and-climate-smart-agriculture/",
@@ -117,22 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "President John Mahama",
         "traditional authorities"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s new export miracle: From Cocoa to Cocaine!",
-      "link": "https://www.myjoyonline.com/ghanas-new-export-miracle-from-cocoa-to-cocaine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:02:10.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, a country famous for producing cocoa, gold and excellent excuses discovered that its agricultural export industry had acquired a rather…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Cocaine",
-        "Cocoa",
-        "Ghana",
-        "Jimmy Aglah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
