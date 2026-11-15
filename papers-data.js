@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T10:09:44.396Z",
+  "updated": "2026-11-15T10:19:45.207Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mfantsipim @150: MOBA’96 donates to Cape coast hospital pre-term babies unit",
+      "link": "https://www.myjoyonline.com/mfantsipim-150-moba96-donates-to-cape-coast-hospital-pre-term-babies-unit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:12:44.000Z",
+      "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
+      "categories": [
+        "Regional",
+        "Cape Coast Hospital",
+        "Mfantsipim @150",
+        "MOBA’96"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agbodza raises concerns over vote-buying, conduct in NDC constituency elections",
+      "link": "https://www.myjoyonline.com/agbodza-raises-concerns-over-vote-buying-conduct-in-ndc-constituency-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:08:06.000Z",
+      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has expressed concern over the conduct of some party members during recent constituency-level elections of the National Democratic…",
+      "categories": [
+        "National",
+        "Politics",
+        "Kwame Governs Agbodza",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Right Diagnosis, an Incomplete Cure: The 2027 Budget and Ghana’s Boom-and-Bust Cycles",
       "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-the-2027-budget-and-ghanas-boom-and-bust-cycles/",
@@ -104,37 +132,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Daffiama-Bussie-Issa",
         "STEM school"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Richard Asiedu calls for probe into NDC Central Regional polls over alleged irregularities",
-      "link": "https://www.myjoyonline.com/richard-asiedu-calls-for-probe-into-ndc-central-regional-polls-over-alleged-irregularities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:48:24.000Z",
-      "summary": "Former Central Regional NDC Chairman, Dr. Richard Asiedu, is calling for an investigation into the party’s November 14 regional executive elections held at Dunkwa on-Offin. He has alleged…",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "Central Region",
-        "Elections",
-        "NDC",
-        "Richard Asiedu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee World Cup: ‘We’ll come back stronger’ – Black Challenge head coach after Angola defeat",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-well-come-back-stronger-black-challenge-head-coach-after-angola-defeat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:48:14.000Z",
-      "summary": "Black Challenge head coach Richard Obeng remains confident his side can qualify for the next stage of the 2026 Amputee Football World Cup despite their disappointing 2-0 defeat to 2018…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "World Cup"
       ],
       "site": "https://www.myjoyonline.com/"
     },
