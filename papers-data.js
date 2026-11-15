@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:46:18.936Z",
+  "updated": "2026-11-15T05:51:18.851Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Galamsey today is worse than it was in 2024 – Miracles Aboagye",
+      "link": "https://www.myjoyonline.com/galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:46:24.000Z",
+      "summary": "The National Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has claimed that illegal mining, popularly known as galamsey, has worsened under the current…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Miracles Aboagye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ketu North MP condemns cash displays, urges aspirants to reject money politics",
+      "link": "https://www.myjoyonline.com/show-delegates-your-competence-not-money-edem-agbana-urges-ndc-aspirants/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:43:57.000Z",
+      "summary": "Member of Parliament for Ketu North, Edem Agbana, has expressed concern about the growing influence of money in politics, urging contestants in the ongoing National Democratic Congress…",
+      "categories": [
+        "National",
+        "Politics",
+        "Member of Parliament for Ketu North",
+        "Money"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘NACOC officers are not adequately equipped’ – Miracles Aboagye",
       "link": "https://www.myjoyonline.com/nacoc-officers-are-not-adequately-equipped-miracles-aboagye/",
@@ -111,37 +138,6 @@ window.GDC_PAPERS = {
         "NDC",
         "regional executive elections",
         "Seats"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC elects new Upper West chairman as four incumbents lose positions",
-      "link": "https://www.myjoyonline.com/ndc-elects-new-upper-west-chairman-as-four-incumbents-lose-positions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T04:38:34.000Z",
-      "summary": "The National Democratic Congress (NDC) in the Upper West Region has elected procurement consultant Alhaji Alhassan Adam, popularly known as Randy, as its new Regional Chairman. The…",
-      "categories": [
-        "HP News 6",
-        "Politics",
-        "Regional",
-        "incumbents",
-        "NDC",
-        "upper west chairman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Aviation professionals call for stronger training pathways for aspiring Ghanaian youth",
-      "link": "https://www.myjoyonline.com/aviation-professionals-call-for-stronger-training-pathways-for-aspiring-ghanaian-youth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T04:12:40.000Z",
-      "summary": "Aviation professionals have called for stronger training opportunities and career guidance to prepare more young Ghanaians for employment in the aviation industry. They say while many young…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "aviation",
-        "Industry",
-        "Youth"
       ],
       "site": "https://www.myjoyonline.com/"
     },
