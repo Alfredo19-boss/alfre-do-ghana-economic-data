@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T09:09:44.581Z",
+  "updated": "2026-11-15T09:19:43.611Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Open Street Fair pushes for people-centred road infrastructure in Accra",
+      "link": "https://www.myjoyonline.com/open-street-fair-pushes-for-people-centred-road-infrastructure-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T09:18:57.000Z",
+      "summary": "The Founder of Transform Transport Accra, Nii Noi Omaboe, is calling for a rethinking of how streets in Ghanaian cities are designed and used, insisting that road infrastructure should…",
+      "categories": [
+        "National",
+        "Accra",
+        "cycling",
+        "Open Street Fair",
+        "Road"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bono East NDC: Incumbent chairman ousted as Alhaji Ali Abubakar secures victory",
       "link": "https://www.myjoyonline.com/bono-east-ndc-incumbent-chairman-ousted-as-alhaji-ali-abubakar-secures-victory/",
@@ -118,20 +133,6 @@ window.GDC_PAPERS = {
         "Climate change",
         "Health",
         "WHO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ahmed Ibrahim calls for stronger government-academia partnership to tackle environmental challenges",
-      "link": "https://www.myjoyonline.com/ahmed-ibrahim-calls-for-stronger-government-academia-partnership-to-tackle-environmental-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:25:45.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for stronger collaboration between government, universities, industry and civil society to address Ghana’s…",
-      "categories": [
-        "Regional",
-        "Academia",
-        "Ahmed Ibrahim",
-        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
