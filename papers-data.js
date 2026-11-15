@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T14:29:46.698Z",
+  "updated": "2026-11-15T16:04:59.278Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,92 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "African oil producers urged to balance local content with investment",
+      "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:51:38.000Z",
+      "summary": "African oil-producing countries have been urged to strengthen local content development by creating a sustainable pipeline of upstream investments and projects, while maintaining an…",
+      "categories": [
+        "Energy",
+        "National",
+        "African oil",
+        "Baluri Kassim Bukari",
+        "Local Content Conference and Exhibition"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana proposes six-point declaration to reform AU financing",
+      "link": "https://www.myjoyonline.com/ghana-proposes-six-point-declaration-to-reform-au-financing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:49:46.000Z",
+      "summary": "Ghana has proposed a six-point declaration to strengthen the financing of the African Union, calling on member states to move beyond discussions and commit to concrete measures to secure…",
+      "categories": [
+        "National",
+        "Accra Declaration on Financing the Union",
+        "African Union",
+        "Ghana",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa urges AU members to implement 0.2% import levy to fund Union",
+      "link": "https://www.myjoyonline.com/ablakwa-urges-au-members-to-implement-0-2-import-levy-to-fund-union/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:17:27.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has urged African Union member states that have not implemented the agreed 0.2 per cent levy on eligible imports to do so without delay to…",
+      "categories": [
+        "National",
+        "African Union member states",
+        "Import Levy",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Abu Trica jury trial scheduled for Feb 8, 2027; Court sets Dec 15 deadline if he wants a plea deal same as Hushpuppi",
+      "link": "https://www.myjoyonline.com/abu-trica-jury-trial-scheduled-for-feb-8-2027-court-sets-dec-15-deadline-if-he-wants-a-plea-deal-same-as-hushpuppi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:16:55.000Z",
+      "summary": "Frederick Kumi, commonly known as Abu Trica, remains in US federal custody with a new jury trial date scheduled for February 8, 2027.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Abu Trica",
+        "court",
+        "Hushpuppi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN Ghana urges businesses to make trust their new currency",
+      "link": "https://www.myjoyonline.com/mtn-ghana-urges-businesses-to-make-trust-their-new-currency/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:06:48.000Z",
+      "summary": "MTN Ghana has urged businesses to make trust their new currency, warning that in today’s digital economy, trust is no longer just a value — it is the asset that determines whether a…",
+      "categories": [
+        "Photo Story",
+        "Cyber security",
+        "MTN Master Classs",
+        "Trust"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana supports AU partnership targeting $200bn in African financing over next decade – Ablakwa",
+      "link": "https://www.myjoyonline.com/ablakwa-backs-plan-to-mobilise-200bn-in-african-financing-over-next-decade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:37:45.000Z",
+      "summary": "Ghana has expressed support for a proposed partnership between the African Union Commission and the Alliance of African Multilateral Financial Institutions aimed at mobilising an additional…",
+      "categories": [
+        "National",
+        "African financing",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The currency portrait blunder: heads must roll",
       "link": "https://www.myjoyonline.com/the-currency-portrait-blunder-heads-must-roll/",
@@ -50,95 +136,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana to deposit ratification instruments for AU financial institutions by 2027 – Ablakwa",
-      "link": "https://www.myjoyonline.com/ghana-to-deposit-ratification-instruments-for-au-financial-institutions-by-2027-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:16:19.000Z",
-      "summary": "The Foreign Affairs Minister, Samuel Okudzeto Ablakwa, has announced that Ghana will deposit its instruments of ratification for the establishment of key African Union financial…",
+      "title": "Abu Trica to face jury trial Feb 8, 2027 in alleged $8m romance scam; Court sets Dec 15 deadline if he wants plea deal same as Hushpuppi",
+      "link": "https://www.graphic.com.gh/news/general-news/abu-trica-jury-trial-scheduled-for-feb-8-2027-court-sets-dec-15-deadline-if-he-wants-a-plea-deal-same-as-hushpuppi.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T13:24:02.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "AU financial institutions",
-        "Ghana",
-        "Samuel Okudzeto Ablakwa"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES cautions public against fake recruitment links, appointment letters",
-      "link": "https://www.myjoyonline.com/ges-cautions-public-against-fake-recruitment-links-appointment-letters/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:02:27.000Z",
-      "summary": "The Ghana Education Service (GES) has cautioned the public against fraudulent recruitment announcements and links circulating on social media, clarifying that it has not yet opened its…",
-      "categories": [
-        "Education",
-        "National",
-        "Fake recruitment",
-        "GES"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:00:12.000Z",
-      "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank…",
-      "categories": [
-        "Art & Design",
-        "Arts and Culture",
-        "Business",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Fugu",
-        "Waist Beads"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T13:54:09.000Z",
-      "summary": "From delicious Ghanaian delicacies and flavour-packed spices to refreshing coconut juice, natural cocoa beverages, grilled chicken and freshly baked treats, the Ecobank JoyBusiness SME Fair…",
-      "categories": [
-        "Business",
-        "Events",
-        "Food",
-        "National",
-        "beverages",
-        "Ecobank JoyBusiness SME Fair 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry, UNICEF deepen partnership to tackle child protection, online abuse",
-      "link": "https://www.myjoyonline.com/gender-ministry-unicef-deepen-partnership-to-tackle-child-protection-online-abuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T13:41:37.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection and the United Nations Children's Fund (UNICEF) are seeking to strengthen their partnership to address emerging child protection…",
-      "categories": [
-        "National",
-        "Child Protection",
-        "Gender Ministry",
-        "UNICEF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana overcome Nigeria to win second edition of Stanbic Bank Polo Invitational Tournament",
-      "link": "https://www.myjoyonline.com/ghana-overcome-nigeria-to-win-second-edition-of-stanbic-bank-polo-invitational-tournament/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T13:22:11.000Z",
-      "summary": "Ghana maintained its dominance over Nigeria, beating their West African rivals in the second edition of the Stanbic Bank Polo Invitational Tournament. Represented by the Accra Polo Club…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Accra Polo Club",
-        "Adamu Benin Abdul Karim",
-        "Guards Polo",
-        "Stanbic Bank Polo Invitational Tournament"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "814 votes to 5 votes: The landslide wins and photo-finish battles of the NDC Regional Elections",
@@ -211,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/augustus-andrews-secures-third-term-as-ashanti-ndc-chairman-with-814-votes.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T21:19:24.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Upper East NDC Elections: Alhaji Bolnaba cruises to victory with 220-vote margin",
-      "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T18:42:28.000Z",
       "summary": "",
       "categories": [
         "Politics"

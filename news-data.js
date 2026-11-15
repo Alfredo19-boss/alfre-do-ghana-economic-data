@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T14:29:44.289Z",
+  "updated": "2026-11-15T16:04:29.148Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "African oil producers urged to balance local content with investment",
+      "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T15:51:38.000Z",
+      "summary": "African oil-producing countries have been urged to strengthen local content development by creating a sustainable pipeline of upstream investments and projects, while maintaining an…"
+    },
+    {
+      "title": "2027 Budget Signals Higher Spending As Government Targets 8% Inflation",
+      "link": "https://thehighstreetjournal.com/2027-budget-signals-higher-spending/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T15:00:44.000Z",
+      "summary": "The 2027 Budget reduces the primary surplus target from 1.5% of GDP in 2026, signalling a shift towards increased government spending"
+    },
     {
       "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T12:01:06.000Z",
       "summary": "The Bank of Ghana has announced the launch of a new Cedi App designed to help the public identify and understand the security features of the newly unveiled Ghana Cedi Heritage Series…"
-    },
-    {
-      "title": "BoG to establish new Cash Centres in Ho and Tamale",
-      "link": "https://www.myjoyonline.com/bog-to-establish-new-cash-centres-in-ho-and-tamale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:37:18.000Z",
-      "summary": "The Bank of Ghana (BoG) is planning to establish new Cash Centres at its Ho and Tamale Regional Offices as part of efforts to improve access to currency services and strengthen cash…"
-    },
-    {
-      "title": "Heritage Series Banknotes designed to foil counterfeiting – BoG Governor",
-      "link": "https://www.myjoyonline.com/heritage-series-banknotes-designed-to-foil-counterfeiting-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:37:00.000Z",
-      "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has said the new Heritage Cedi banknotes have been designed with enhanced security features, improved durability and smaller dimensions…"
     }
   ]
 };
