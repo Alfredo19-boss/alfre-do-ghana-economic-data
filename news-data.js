@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T20:49:58.729Z",
+  "updated": "2026-11-15T22:54:17.588Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,20 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 415)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
+      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T22:50:19.000Z",
+      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures."
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T12:52:00.000Z",
       "summary": "President John Dramani Mahama says government’s proposed $10 billion, four-year New Economy Programme will be central to efforts to strengthen the Ghana cedi and build a more resilient…"
-    },
-    {
-      "title": "BoG Unveils New Cedi Notes with Stronger Security and Improved Durability",
-      "link": "https://thehighstreetjournal.com/bog-unveils-new-cedi-notes-with-stronger-security-and-improved-durability/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T12:30:17.000Z",
-      "summary": "The upgraded Heritage Series will combine enhanced security features, improved durability and Ghanaian cultural identity as the Bank of Ghana prepares to modernise currency management."
     }
   ]
 };

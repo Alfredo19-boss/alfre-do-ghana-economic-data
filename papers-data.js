@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T20:50:01.379Z",
+  "updated": "2026-11-15T22:54:18.566Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
+      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T22:50:19.000Z",
+      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "ECB",
+        "Inflation",
+        "Moody’s",
+        "Policy rate"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana calls for urgent climate finance delivery to support Africa’s climate ambitions",
       "link": "https://www.myjoyonline.com/ghana-calls-for-urgent-climate-finance-delivery-to-support-africas-climate-ambitions/",
@@ -125,21 +141,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "budegt",
         "Prof. Kwabena Frimpong-Boateng."
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES warns public against fake teacher recruitment links circulating on social media",
-      "link": "https://www.myjoyonline.com/ges-warns-public-against-fake-teacher-recruitment-links-circulating-on-social-media/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T19:00:27.000Z",
-      "summary": "The Ghana Education Service (GES) has cautioned the public against fake teacher recruitment links circulating on social media, stressing that its recruitment exercise has not yet commenced.",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "Ghana Education Service (GES)",
-        "teacher recruitment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
