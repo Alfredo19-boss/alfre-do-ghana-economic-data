@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:45:00.853Z",
+  "updated": "2026-11-15T17:55:02.624Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "To judge and to teach: 150 years of the Supreme Court and Mfantsipim",
+      "link": "https://www.myjoyonline.com/to-judge-and-to-teach-150-years-of-the-supreme-court-and-mfantsipim/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:44:22.000Z",
+      "summary": "In 1876, two institutions were born on the Gold Coast within three days of each other. On 31 March, the Supreme Court Ordinance created a Supreme Court for the whole colony. On 3 April, the…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Mfantsipim",
+        "Supreme Court"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Björkegren targets six points as Black Stars prepare for second Somalia clash",
+      "link": "https://www.myjoyonline.com/bjorkegren-targets-six-points-as-black-stars-prepare-for-second-somalia-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:41:30.000Z",
+      "summary": "Black Stars interim coach Kim Lars Björkegren says his immediate priority is to secure maximum points from Ghana's two AFCON qualifying matches as he prepares for his second against Somalia.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "2027 AFCON",
+        "AFCON Qualifier",
+        "Black Stars",
+        "Ghana vs Somalia",
+        "Kim Lars Bjokegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Agogo announces November 24 to 26 funeral rites for Nana Akuoko Sarpong, President Mahama, Otumfuo expected to lead dignitaries",
       "link": "https://www.graphic.com.gh/news/general-news/agogo-announces-november-24-to-26-funeral-rites-for-nana-akuoko-sarpong-president-mahama-otumfuo-expected-to-lead-dignitaries.html",
@@ -128,35 +160,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Lagos Life",
         "Vatar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amoakohene formally bows out as NDC Ashanti Regional Secretary, touts party’s electoral gains",
-      "link": "https://www.myjoyonline.com/amoakohene-formally-bows-out-as-ndc-ashanti-regional-secretary-touts-partys-electoral-gains/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:10:58.000Z",
-      "summary": "Ashanti Regional Minister Dr Frank Amoakohene has formally ended his tenure as Ashanti Regional Secretary of the National Democratic Congress (NDC), following the successful conclusion of…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Dr Frank Amoakohene",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "When even your Traffic Fine is a scam!",
-      "link": "https://www.myjoyonline.com/when-even-your-traffic-fine-is-a-scam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:06:25.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, the government decided that Ghanaian motorists had enjoyed too much freedom on the roads. Some drove as though speed limits were…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Jimmy Aglah",
-        "Traffic Fine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
