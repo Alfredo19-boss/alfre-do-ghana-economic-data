@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T08:59:45.726Z",
+  "updated": "2026-11-15T09:04:45.838Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bono East NDC: Incumbent chairman ousted as Alhaji Ali Abubakar secures victory",
+      "link": "https://www.myjoyonline.com/bono-east-ndc-incumbent-chairman-ousted-as-alhaji-ali-abubakar-secures-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T09:01:27.000Z",
+      "summary": "Chief Executive Officer of Akina Group of Companies, Alhaji Ali Abubakar, popularly known as “Soldierman,” has defeated incumbent Unas Owusu to become the new Bono East Regional Chairman of…",
+      "categories": [
+        "Politics",
+        "Alhaji Ali Abubakar",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daffiama-Bussie-Issa set for major STEM school as Jakpa, DCE inspect project",
       "link": "https://www.myjoyonline.com/daffiama-bussie-issa-set-for-major-stem-school-as-jakpa-dce-inspect-project/",
@@ -118,21 +131,6 @@ window.GDC_PAPERS = {
         "Academia",
         "Ahmed Ibrahim",
         "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Senyo Hosi commends gov’t over NACOC expansion, warns of growing synthetic drug threat",
-      "link": "https://www.myjoyonline.com/senyo-hosi-commends-govt-over-nacoc-expansion-warns-of-growing-synthetic-drug-threat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:25:10.000Z",
-      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has commended the government for strengthening the operational capacity and nationwide…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Government",
-        "NACOC",
-        "Senyo Hosi"
       ],
       "site": "https://www.myjoyonline.com/"
     },

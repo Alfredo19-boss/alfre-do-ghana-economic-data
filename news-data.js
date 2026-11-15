@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T08:59:42.871Z",
+  "updated": "2026-11-15T09:04:42.944Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Oppong Nkrumah Charges Fiscal Council to Investigate Fiscal Inconsistencies in 2027 Budget",
+      "link": "https://thehighstreetjournal.com/oppong-nkrumah-charges-fiscal-council-to-investigate-fiscal-inconsistencies-in-2027-budget/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T09:00:00.000Z",
+      "summary": "Kojo Oppong Nkrumah has challenged Ghana's Fiscal Council to investigate inconsistencies in the 2027 Budget, scrutinise government spending commitments and verify whether announced…"
+    },
     {
       "title": "CNN Travel names Nzulezu among Africa’s most amazing places to visit in Ghana",
       "link": "https://www.ghanabusinessnews.com/2026/11/15/cnn-travel-names-nzulezu-among-africas-most-amazing-places-to-visit-in-ghana/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T05:35:19.000Z",
       "summary": "Policy Analyst Alfred Appiah wants government to clarify the relationship between the 24-hour economy and GH¢10 billion New Economy programme, questioning institutional responsibility…"
-    },
-    {
-      "title": "Industry, manufacturing must drive 2027 Budget — Awuah",
-      "link": "https://www.myjoyonline.com/industry-manufacturing-must-drive-2027-budget-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T05:33:43.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Association of Bankers, John Awuah, says lending to the private sector has increased by more than 30 per cent over the past year, but has challenged…"
     }
   ]
 };
