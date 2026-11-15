@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-15T22:43:46.283Z",
+  "updated": "2026-11-15T22:48:47.653Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -3704,11 +3704,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 65122.81,
+        "value": 65189.47,
         "prev": 73964.47,
-        "change": -8841.66,
-        "pct": -11.95,
-        "at": "2026-11-15T22:43:38.000Z",
+        "change": -8775,
+        "pct": -11.86,
+        "at": "2026-11-15T22:48:44.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3952,7 +3952,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 65122.81
+            "value": 65189.47
           }
         ]
       },
@@ -3961,11 +3961,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1827.17,
+        "value": 1827.37,
         "prev": 2055.8762,
-        "change": -228.706,
-        "pct": -11.12,
-        "at": "2026-11-15T22:43:38.000Z",
+        "change": -228.506,
+        "pct": -11.11,
+        "at": "2026-11-15T22:48:43.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4209,7 +4209,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 1827.17
+            "value": 1827.37
           }
         ]
       }
@@ -6138,7 +6138,7 @@ window.GDC_MARKETS = {
         "prev": 1.1147,
         "change": -0.012,
         "pct": -1.08,
-        "at": "2026-11-15T22:43:43.000Z",
+        "at": "2026-11-15T22:48:44.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -6367,7 +6367,7 @@ window.GDC_MARKETS = {
         "prev": 1.336,
         "change": -0.0144,
         "pct": -1.08,
-        "at": "2026-11-15T22:43:43.000Z",
+        "at": "2026-11-15T22:48:44.000Z",
         "history": [
           {
             "date": "2026-09-16",
