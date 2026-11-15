@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T11:29:42.520Z",
+  "updated": "2026-11-15T11:59:13.485Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "ICC/TikTok lunches digital commerce lab to boost SMEs",
+      "link": "https://gna.org.gh/2026/11/icc-tiktok-lunches-digital-commerce-lab-to-boost-smes-2/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-15T11:58:32.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "Wayoe Engineering wins outstanding in-Country investment award",
       "link": "https://gna.org.gh/2026/11/wayoe-engineering-wins-outstanding-in-country-investment-award/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T09:32:32.000Z",
       "summary": "Musk did not specify a potential role for Huang or indicate whether he had discussed employment with the Nvidia chief executive"
-    },
-    {
-      "title": "GNPC welcomes offshore hydrocarbon discovery, signals boost for petroleum sector",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/gnpc-welcomes-offshore-hydrocarbon-discovery-signals-boost-for-petroleum-sector/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T06:06:19.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
     }
   ]
 };
