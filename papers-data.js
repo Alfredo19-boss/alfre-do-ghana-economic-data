@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T19:49:59.995Z",
+  "updated": "2026-11-15T20:09:59.578Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,22 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghanaian community leaders in Toronto urged to step up as gun violence claims young lives",
+      "link": "https://www.myjoyonline.com/ghanaian-community-leaders-in-toronto-urged-to-step-up-as-gun-violence-claims-young-lives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:04:58.000Z",
+      "summary": "The growing number of young people losing their lives to gun violence in parts of Canada has prompted renewed calls for Ghanaian parents and community leaders to take a more active role in…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Canada",
+        "Ghanaian community",
+        "Gun violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GPL 2026/2027: Kotoko drop points after goalless draw against Gold Stars",
       "link": "https://www.myjoyonline.com/gpl-2026-2027-kotoko-drop-points-after-goalless-draw-against-gold-stars/",
       "source": "MyJoyOnline",
@@ -28,6 +44,7 @@ window.GDC_PAPERS = {
       "summary": "Asante Kotoko were held to a goalless draw by Bibiani Gold Stars in their Week 11 Ghana Premier League clash at the Baba Yara Sports Stadium.",
       "categories": [
         "Football",
+        "HP News 9",
         "National",
         "Sports",
         "Asante Kotoko",
@@ -128,23 +145,6 @@ window.GDC_PAPERS = {
         "Ecobank JoyBusiness SME Fair 2026",
         "Kekeli Borborbor Group",
         "Shakers Band"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Somalia captain urges teammates to give their best against Ghana",
-      "link": "https://www.myjoyonline.com/somalia-captain-urges-teammates-to-give-their-best-against-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:32:33.000Z",
-      "summary": "Somalia captain Abdullahi AbdulSamed has urged his teammates to focus on their performance and effort as they prepare to face Ghana in their 2027 Africa Cup of Nations qualifying encounter.",
-      "categories": [
-        "Football",
-        "HP Sports 4",
-        "AFCON Qualifiers",
-        "Black Stars",
-        "Ocean Stars",
-        "Somalia captain",
-        "Somalia national team"
       ],
       "site": "https://www.myjoyonline.com/"
     },
