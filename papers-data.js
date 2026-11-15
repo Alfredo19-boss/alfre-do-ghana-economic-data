@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:40:00.406Z",
+  "updated": "2026-11-15T18:50:00.004Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:42:37.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 has received an exciting blend of traditional Ghanaian music and live-band entertainment, with the Kekeli Borborbor Group and Shakers Band adding to…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Kekeli Borborbor Group",
+        "Shakers Band"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Somalia captain urges teammates to give their best against Ghana",
       "link": "https://www.myjoyonline.com/somalia-captain-urges-teammates-to-give-their-best-against-ghana/",
@@ -86,7 +102,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T18:02:35.000Z",
       "summary": "Ghana midfielder, Daniel-Kofi Kyereh, has described his return to the Black Stars as a \"dream come true\" after making his comeback to the national team following a four-year injury absence.",
       "categories": [
+        "HP News 10",
         "HP Sports 2",
+        "National",
         "Sports",
         "Black Stars",
         "Daniel Kofi Kyereh",
@@ -104,6 +122,7 @@ window.GDC_PAPERS = {
       "summary": "The University of Mines and Technology (UMaT) has introduced a One-Meal-a-Day scheme and an Emergency Student Support Fund to support students facing financial difficulties.",
       "categories": [
         "Education",
+        "HP News 8",
         "National",
         "University of Mines and Technology (UMaT)",
         "Vice-Chancellor Professor Bernard Kumi-Boateng"
@@ -136,21 +155,6 @@ window.GDC_PAPERS = {
         "GPL",
         "Medeama",
         "Young Apostles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "To judge and to teach: 150 years of the Supreme Court and Mfantsipim",
-      "link": "https://www.myjoyonline.com/to-judge-and-to-teach-150-years-of-the-supreme-court-and-mfantsipim/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:44:22.000Z",
-      "summary": "In 1876, two institutions were born on the Gold Coast within three days of each other. On 31 March, the Supreme Court Ordinance created a Supreme Court for the whole colony. On 3 April, the…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Mfantsipim",
-        "Supreme Court"
       ],
       "site": "https://www.myjoyonline.com/"
     },

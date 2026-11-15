@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T18:39:30.108Z",
+  "updated": "2026-11-15T18:49:29.454Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:42:37.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 has received an exciting blend of traditional Ghanaian music and live-band entertainment, with the Kekeli Borborbor Group and Shakers Band adding to…"
+    },
     {
       "title": "African oil producers urged to balance local content with investment",
       "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T12:03:04.000Z",
       "summary": "The climate phenomenon could also push an additional 49 million people into acute food insecurity by the end of 2027, with smallholder farmers particularly exposed"
-    },
-    {
-      "title": "Bank of Ghana launches Cedi App to help the public identify new banknotes",
-      "link": "https://www.myjoyonline.com/bank-of-ghana-launches-cedi-app-to-help-the-public-identify-new-banknotes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:01:06.000Z",
-      "summary": "The Bank of Ghana has announced the launch of a new Cedi App designed to help the public identify and understand the security features of the newly unveiled Ghana Cedi Heritage Series…"
     }
   ]
 };
