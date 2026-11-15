@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T13:29:44.414Z",
+  "updated": "2026-11-15T13:49:46.070Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Gender Ministry, UNICEF deepen partnership to tackle child protection, online abuse",
+      "link": "https://www.myjoyonline.com/gender-ministry-unicef-deepen-partnership-to-tackle-child-protection-online-abuse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T13:41:37.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection and the United Nations Children's Fund (UNICEF) are seeking to strengthen their partnership to address emerging child protection…",
+      "categories": [
+        "National",
+        "Child Protection",
+        "Gender Ministry",
+        "UNICEF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana overcome Nigeria to win second edition of Stanbic Bank Polo Invitational Tournament",
       "link": "https://www.myjoyonline.com/ghana-overcome-nigeria-to-win-second-edition-of-stanbic-bank-polo-invitational-tournament/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T13:22:11.000Z",
       "summary": "Ghana maintained its dominance over Nigeria, beating their West African rivals in the second edition of the Stanbic Bank Polo Invitational Tournament. Represented by the Accra Polo Club…",
       "categories": [
-        "News",
+        "Other Sports",
+        "Sports",
         "Accra Polo Club",
         "Adamu Benin Abdul Karim",
         "Guards Polo",
@@ -140,20 +155,6 @@ window.GDC_PAPERS = {
       "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
       "categories": [
         "HP News 7",
-        "Regional",
-        "Cape Coast Hospital",
-        "Mfantsipim @150",
-        "MOBA’96"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim @150: MOBA’96 donates to Cape coast hospital pre-term babies unit",
-      "link": "https://www.myjoyonline.com/mfantsipim-150-moba96-donates-to-cape-coast-hospital-pre-term-babies-unit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:12:44.000Z",
-      "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
-      "categories": [
         "Regional",
         "Cape Coast Hospital",
         "Mfantsipim @150",
