@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:14:14.223Z",
+  "updated": "2026-11-15T23:18:50.072Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:14:55.000Z",
+      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount.",
+      "categories": [
+        "Business",
+        "Economy",
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "Interest rates",
+        "Ministry of Finance",
+        "T-Bills"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AETC, Ministry of Youth Development sign MoU to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
+      "link": "https://www.myjoyonline.com/aetc-ministry-of-youth-development-sign-mou-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:08:12.000Z",
+      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…",
+      "categories": [
+        "Business",
+        "Investments",
+        "AETC",
+        "Emelia Ankmah",
+        "George Opare-Addo",
+        "Ministry of Youth Development"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
       "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
@@ -88,6 +123,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "https://www.myjoyonline.com/clothing-factories-shut-in-bangladesh-as-workers-strike-over-pay/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T21:21:00.000Z",
+      "summary": "Dozens of factories in Bangladesh's main clothes-producing area have been shut by workers striking over a higher minimum wage.",
+      "categories": [
+        "International",
+        "Bangladesh",
+        "Clothing factories"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana calls for urgent climate finance delivery to support Africa’s climate ambitions",
       "link": "https://www.myjoyonline.com/ghana-calls-for-urgent-climate-finance-delivery-to-support-africas-climate-ambitions/",
       "source": "MyJoyOnline",
@@ -98,52 +146,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Climate Finance",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:33:04.000Z",
-      "summary": "The 2026 Ecobank JoyBusiness SME Fair has successfully concluded after three exciting days of business exhibitions, product displays, shopping bargains, networking, cultural performances…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP News 1",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC Regional Elections: Walewale supporters allege sabotage after former parliamentary candidate wins Regional Secretary",
-      "link": "https://www.myjoyonline.com/ndc-regional-elections-walewale-supporters-allege-sabotage-after-former-parliamentary-candidate-wins-regional-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:24:56.000Z",
-      "summary": "Supporters of the National Democratic Congress (NDC) in Walewale have accused officials of the North East Regional Coordinating Directorate of deliberately frustrating celebrations…",
-      "categories": [
-        "Regional",
-        "Abdul Rauf Tanko Ibrahim",
-        "Abubakari Abdallah",
-        "NDC Regional Elections",
-        "Walewale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The stench of cocaine and Ghana’s new cedi – Occasional Kwatriot Kwesi Yankah writes",
-      "link": "https://www.myjoyonline.com/the-stench-of-cocaine-and-ghanas-new-cedi-occasional-kwatriot-kwesi-yankah-writes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:16:27.000Z",
-      "summary": "On my global rounds last year, I was shocked to see at airport shops perfume names that shook me to the core: a perfume called ‘Cocaine,’ then another designer perfume. ‘Opium.’ But the…",
-      "categories": [
-        "HP Opinion 3",
-        "National",
-        "Opinion",
-        "Cedi",
-        "Ghana",
-        "Kwesi Yankah"
       ],
       "site": "https://www.myjoyonline.com/"
     },

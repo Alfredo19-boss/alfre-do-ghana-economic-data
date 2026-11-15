@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T23:14:13.272Z",
+  "updated": "2026-11-15T23:18:49.077Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:14:55.000Z",
+      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount."
+    },
     {
       "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
       "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T13:06:34.000Z",
       "summary": "The Bank of Ghana will introduce Heritage Series banknotes on December 1, 2026, while retaining existing notes as legal tender to ensure a smooth currency transition."
-    },
-    {
-      "title": "BoG to roll out nationwide education campaign on new Heritage Series banknotes",
-      "link": "https://www.myjoyonline.com/bog-to-roll-out-nationwide-education-campaign-on-new-heritage-series-banknotes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:03:01.000Z",
-      "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
     }
   ]
 };
