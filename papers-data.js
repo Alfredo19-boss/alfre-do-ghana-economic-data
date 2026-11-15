@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T20:39:59.186Z",
+  "updated": "2026-11-15T20:50:01.379Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana calls for urgent climate finance delivery to support Africa’s climate ambitions",
+      "link": "https://www.myjoyonline.com/ghana-calls-for-urgent-climate-finance-delivery-to-support-africas-climate-ambitions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:45:16.000Z",
+      "summary": "Ghana has called for the urgent delivery of climate finance commitments to support African countries in addressing the growing effects of climate change.",
+      "categories": [
+        "National",
+        "Africa",
+        "Climate Finance",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
@@ -126,22 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "Ghana Education Service (GES)",
         "teacher recruitment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Veteran gospel singer Bernice Offei laid to rest",
-      "link": "https://www.myjoyonline.com/veteran-gospel-singer-bernice-offei-laid-to-rest/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:57:45.000Z",
-      "summary": "Veteran gospel musician and award-winning songwriter Bernice Ofeibea Offei has been laid to rest following a funeral service at the Legon Interdenominational Church at the University of…",
-      "categories": [
-        "Arts and Culture",
-        "HP News 8",
-        "Music",
-        "National",
-        "Bernice Offei",
-        "Burial Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
