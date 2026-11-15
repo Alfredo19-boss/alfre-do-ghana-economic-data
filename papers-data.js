@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T16:45:00.911Z",
+  "updated": "2026-11-15T16:55:00.802Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T16:40:12.000Z",
       "summary": "Ashanti Regional Minister Dr Frank Amoakohene has called for a review of the operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), warning that its approach to the…",
       "categories": [
+        "HP News 1",
         "National",
         "Manso Keniago",
         "NAIMO"
