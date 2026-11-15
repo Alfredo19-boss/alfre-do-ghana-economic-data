@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T20:09:59.578Z",
+  "updated": "2026-11-15T20:20:00.050Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The stench of cocaine and Ghana’s new cedi – Occasional Kwatriot Kwesi Yankah writes",
+      "link": "https://www.myjoyonline.com/the-stench-of-cocaine-and-ghanas-new-cedi-occasional-kwatriot-kwesi-yankah-writes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T20:16:27.000Z",
+      "summary": "On my global rounds last year, I was shocked to see at airport shops perfume names that shook me to the core: a perfume called ‘Cocaine,’ then another designer perfume. ‘Opium.’ But the…",
+      "categories": [
+        "HP Opinion 3",
+        "Opinion",
+        "Cedi",
+        "Ghana",
+        "Kwesi Yankah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian community leaders in Toronto urged to step up as gun violence claims young lives",
       "link": "https://www.myjoyonline.com/ghanaian-community-leaders-in-toronto-urged-to-step-up-as-gun-violence-claims-young-lives/",
@@ -128,23 +143,6 @@ window.GDC_PAPERS = {
         "Black Stars",
         "Ghana vs Somalia",
         "Kim Lars Björkegren"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:42:37.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 has received an exciting blend of traditional Ghanaian music and live-band entertainment, with the Kekeli Borborbor Group and Shakers Band adding to…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP News 1",
-        "National",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Kekeli Borborbor Group",
-        "Shakers Band"
       ],
       "site": "https://www.myjoyonline.com/"
     },
