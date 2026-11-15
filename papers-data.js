@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:25:01.813Z",
+  "updated": "2026-11-15T17:34:59.221Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -67,6 +67,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "GPL 2026/27: Swedru All Blacks held by Berekum Chelsea in goalless draw",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-swedru-all-blacks-held-by-berekum-chelsea-in-goalless-draw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:04:00.000Z",
+      "summary": "Swedru All Blacks were held to a goalless draw by Berekum Chelsea in their Ghana Premier League encounter after failing to convert their opportunities.",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Berekum Chelsea",
+        "Ghana Premier League",
+        "Swedru All Blacks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amoakohene calls for review of NAIMOS operations over Manso Keniago deaths",
       "link": "https://www.myjoyonline.com/amoakohene-calls-for-review-of-naimos-operations-over-manso-keniago-deaths/",
       "source": "MyJoyOnline",
@@ -120,19 +135,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Jimmy Aglah",
         "Traffic Fine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama urges traditional authorities to strengthen role in promoting peace and social cohesion",
-      "link": "https://www.myjoyonline.com/mahama-urges-traditional-authorities-to-strengthen-role-in-promoting-peace-and-social-cohesion/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T16:02:14.000Z",
-      "summary": "President John Mahama has described traditional authorities as indispensable partners in Ghana’s national development, urging them to strengthen their contribution to peace, social cohesion…",
-      "categories": [
-        "National",
-        "President John Mahama",
-        "traditional authorities"
       ],
       "site": "https://www.myjoyonline.com/"
     },
