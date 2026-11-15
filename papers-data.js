@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T12:19:46.569Z",
+  "updated": "2026-11-15T12:29:44.461Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AGN Chair demands predictable finance as $7.6 million Urban Resilience Facility launches at COP31",
+      "link": "https://www.myjoyonline.com/agn-chair-demands-predictable-finance-as-7-6-million-urban-resilience-facility-launches-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T12:21:43.000Z",
+      "summary": "The African Group of Negotiators on Climate Change (AGN) has positioned urban adaptation at the center of the global climate agenda, calling for direct, predictable finance to protect the…",
+      "categories": [
+        "National",
+        "AGN",
+        "COP31",
+        "finance"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Consider midterm election if you want to extend presidential term from four to five years — Akyem Muosohene",
       "link": "https://www.myjoyonline.com/consider-midterm-election-if-you-want-to-extend-presidential-term-from-four-to-five-years-akyem-muosohene/",
@@ -118,22 +132,6 @@ window.GDC_PAPERS = {
         "Hasaacas Ladies",
         "Oak Ladies",
         "Police Ladies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T09:39:35.000Z",
-      "summary": "The doors are open, the vendors are ready, the music is playing and the bargains are waiting, the Ecobank JoyBusiness SME Fair 2026 has entered its final day, with patrons being urged to…",
-      "categories": [
-        "Business",
-        "Events",
-        "National",
-        "Top Story",
-        "Ecobank JoyBusiness SME Fair 2026",
-        "Ghud Park"
       ],
       "site": "https://www.myjoyonline.com/"
     },
