@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T04:45:47.917Z",
+  "updated": "2026-11-15T05:00:47.058Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "From Street Crime to State Sabotage: Europe’s Emerging Security Threat",
+      "link": "https://thehighstreetjournal.com/from-street-crime-to-state-sabotage-europes-emerging-security-threat/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T05:00:00.000Z",
+      "summary": "A suspected attack on Starlink infrastructure in Poland raises concerns that Europe's increasingly violent criminal networks could be recruited for geopolitical sabotage and hybrid…"
+    },
     {
       "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
       "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T02:16:00.000Z",
       "summary": "A trader at the Kantamanto Market in Accra, Susana Asabea, has appealed to the government to take urgent steps to put more money in the hands of ordinary Ghanaians, saying the apparent…"
-    },
-    {
-      "title": "2027 Budget must address farmers’ value chain challenges — Dedeyao Farms CEO",
-      "link": "https://www.myjoyonline.com/2027-budget-must-address-farmers-value-chain-challenges-dedeyao-farms-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T01:29:00.000Z",
-      "summary": "The Chief Executive Officer of Dedeyao Farms, Daniel Asimadi, has called on the government to provide stronger financial and institutional support to farmers, warning that commercial…"
     }
   ]
 };

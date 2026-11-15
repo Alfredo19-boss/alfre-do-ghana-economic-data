@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T04:46:17.785Z",
+  "updated": "2026-11-15T05:01:17.674Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC regional executive elections: The chairmen who retained their seats and those who lost",
+      "link": "https://www.myjoyonline.com/ndc-regional-executive-elections-the-chairmen-who-retained-their-seats-and-those-who-lost/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T04:53:39.000Z",
+      "summary": "The National Democratic Congress (NDC) has elected regional chairmen in 13 of Ghana’s 16 regions following its 2026 regional executive elections held on Saturday, November 14. Results from…",
+      "categories": [
+        "National",
+        "Politics",
+        "Chairman",
+        "NDC",
+        "regional executive elections",
+        "Seats"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC elects new Upper West chairman as four incumbents lose positions",
       "link": "https://www.myjoyonline.com/ndc-elects-new-upper-west-chairman-as-four-incumbents-lose-positions/",
@@ -142,21 +158,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ArchXenus marks 15 years with more than 140 projects, launches GeneXus",
-      "link": "https://www.myjoyonline.com/archxenus-marks-15-years-with-more-than-140-projects-launches-genexus/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:33:24.000Z",
-      "summary": "Architecture firm ArchXenus has marked 15 years in practice with more than 140 projects, using its anniversary celebration to launch GeneXus, a book documenting 12 of its selected works…",
-      "categories": [
-        "Events",
-        "Technology",
-        "Architecture",
-        "Archxenus",
-        "Projects"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Bono East NDC Chairman Unas Owusu loses re-election bid to Ali Abubakari Donkor",
