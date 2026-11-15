@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-15T16:24:26.598Z",
+  "updated": "2026-11-15T16:34:25.891Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -3704,11 +3704,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 64404.2,
+        "value": 64525.91,
         "prev": 73964.47,
-        "change": -9560.27,
-        "pct": -12.93,
-        "at": "2026-11-15T16:24:21.000Z",
+        "change": -9438.56,
+        "pct": -12.76,
+        "at": "2026-11-15T16:34:18.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3952,7 +3952,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 64404.2
+            "value": 64525.91
           }
         ]
       },
@@ -3961,11 +3961,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1806.41,
+        "value": 1812.68,
         "prev": 2055.8762,
-        "change": -249.466,
-        "pct": -12.13,
-        "at": "2026-11-15T16:24:23.000Z",
+        "change": -243.196,
+        "pct": -11.83,
+        "at": "2026-11-15T16:34:19.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4209,7 +4209,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-15",
-            "value": 1806.41
+            "value": 1812.68
           }
         ]
       }
