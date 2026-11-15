@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T04:16:16.758Z",
+  "updated": "2026-11-15T04:46:17.785Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC elects new Upper West chairman as four incumbents lose positions",
+      "link": "https://www.myjoyonline.com/ndc-elects-new-upper-west-chairman-as-four-incumbents-lose-positions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T04:38:34.000Z",
+      "summary": "The National Democratic Congress (NDC) in the Upper West Region has elected procurement consultant Alhaji Alhassan Adam, popularly known as Randy, as its new Regional Chairman. The…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "incumbents",
+        "NDC",
+        "upper west chairman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Aviation professionals call for stronger training pathways for aspiring Ghanaian youth",
       "link": "https://www.myjoyonline.com/aviation-professionals-call-for-stronger-training-pathways-for-aspiring-ghanaian-youth/",
@@ -153,21 +168,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
-      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:26:58.000Z",
-      "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Agric investment",
-        "operation feed yourself",
-        "Sam Jonah"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Augustus Andrews secures third term as Ashanti NDC Chairman with 814 votes",
