@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T13:49:43.626Z",
+  "updated": "2026-11-15T13:59:28.990Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T13:54:09.000Z",
+      "summary": "From delicious Ghanaian delicacies and flavour-packed spices to refreshing coconut juice, natural cocoa beverages, grilled chicken and freshly baked treats, the Ecobank JoyBusiness SME Fair…"
+    },
     {
       "title": "Clear Communication Critical to Prevent Misconceptions Around Government’s New Economy Agenda",
       "link": "https://thehighstreetjournal.com/clear-communication-critical-to-prevent-misconceptions-around-governments-new-economy-agenda/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T11:35:17.000Z",
       "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Asiama, has highlighted the enhanced security features of the newly introduced Ghana Heritage Series banknotes, saying the improvements…"
-    },
-    {
-      "title": "Heritage Series Banknotes to be in circulation from December 1 – BoG Governor",
-      "link": "https://www.myjoyonline.com/heritage-series-banknotes-to-be-in-circulation-from-december-1-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:31:34.000Z",
-      "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series into circulation from December 1, 2026, with the existing banknotes remaining legal tender. Governor of the…"
     }
   ]
 };

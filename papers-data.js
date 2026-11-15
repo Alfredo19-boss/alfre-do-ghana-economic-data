@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T13:49:46.070Z",
+  "updated": "2026-11-15T13:59:44.866Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T13:54:09.000Z",
+      "summary": "From delicious Ghanaian delicacies and flavour-packed spices to refreshing coconut juice, natural cocoa beverages, grilled chicken and freshly baked treats, the Ecobank JoyBusiness SME Fair…",
+      "categories": [
+        "Business",
+        "Events",
+        "Food",
+        "National",
+        "beverages",
+        "Ecobank JoyBusiness SME Fair 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gender Ministry, UNICEF deepen partnership to tackle child protection, online abuse",
       "link": "https://www.myjoyonline.com/gender-ministry-unicef-deepen-partnership-to-tackle-child-protection-online-abuse/",
@@ -144,21 +160,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Ketu North",
         "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim @150: MOBA’96 donates to Cape coast hospital pre-term babies unit",
-      "link": "https://www.myjoyonline.com/mfantsipim-150-moba96-donates-to-cape-coast-hospital-pre-term-babies-unit-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:14:50.000Z",
-      "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
-      "categories": [
-        "HP News 7",
-        "Regional",
-        "Cape Coast Hospital",
-        "Mfantsipim @150",
-        "MOBA’96"
       ],
       "site": "https://www.myjoyonline.com/"
     },
