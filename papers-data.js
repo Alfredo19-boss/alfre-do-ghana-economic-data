@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:30:01.163Z",
+  "updated": "2026-11-15T18:40:00.406Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Somalia captain urges teammates to give their best against Ghana",
+      "link": "https://www.myjoyonline.com/somalia-captain-urges-teammates-to-give-their-best-against-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:32:33.000Z",
+      "summary": "Somalia captain Abdullahi AbdulSamed has urged his teammates to focus on their performance and effort as they prepare to face Ghana in their 2027 Africa Cup of Nations qualifying encounter.",
+      "categories": [
+        "Football",
+        "HP Sports 4",
+        "AFCON Qualifiers",
+        "Black Stars",
+        "Ocean Stars",
+        "Somalia captain",
+        "Somalia national team"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2026/27 Ghana League: Port City rally to beat Debibi United and climb to third",
       "link": "https://www.myjoyonline.com/2026-27-ghana-league-port-city-rally-to-beat-debibi-united-and-climb-to-third/",
@@ -134,23 +151,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Mfantsipim",
         "Supreme Court"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Björkegren targets six points as Black Stars prepare for second Somalia clash",
-      "link": "https://www.myjoyonline.com/bjorkegren-targets-six-points-as-black-stars-prepare-for-second-somalia-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:41:30.000Z",
-      "summary": "Black Stars interim coach Kim Lars Björkegren says his immediate priority is to secure maximum points from Ghana's two AFCON qualifying matches as he prepares for his second against Somalia.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "2027 AFCON",
-        "AFCON Qualifier",
-        "Black Stars",
-        "Ghana vs Somalia",
-        "Kim Lars Bjokegren"
       ],
       "site": "https://www.myjoyonline.com/"
     },
