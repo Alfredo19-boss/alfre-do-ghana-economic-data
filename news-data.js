@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T10:29:13.390Z",
+  "updated": "2026-11-15T11:09:23.092Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Lower Fuel Prices Expected At Pumps From Monday",
+      "link": "https://thehighstreetjournal.com/lower-fuel-prices-expected-at-pumps/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T11:00:21.000Z",
+      "summary": "Ghanaian motorists face fuel relief from Monday as petrol and diesel prices drop, driven by a steady cedi and softer global oil prices."
+    },
     {
       "title": "DDEP Design Was Likely to End in Another Default, But Thanks to Govt’s Sinking Fund – Economist Says",
       "link": "https://thehighstreetjournal.com/ddep-design-was-likely-to-end-in-another-default-but-thanks-to-govts-sinking-fund-economist-says/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T06:02:28.000Z",
       "summary": "The Chief Executive Officer (CEO) of the Minerals Income Investment Fund (MIIF), Mrs Justina Nelson, has called for stronger partnerships with international investors to unlock Ghana’s…"
-    },
-    {
-      "title": "Ghana calls for stronger regional cooperation, climate finance to address climate mobility",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/ghana-calls-for-stronger-regional-cooperation-climate-finance-to-address-climate-mobility/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T05:52:01.000Z",
-      "summary": "Ghana has called for increased climate adaptation financing, stronger regional cooperation and improved protection for vulnerable communities to address the growing threat of…"
     }
   ]
 };
