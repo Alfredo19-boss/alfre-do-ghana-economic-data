@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T18:59:59.456Z",
+  "updated": "2026-11-15T19:09:59.755Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Two teenage suspects declared wanted over killing of Ghanaian teenager, Malik Abass in Canada",
+      "title": "GES warns public against fake teacher recruitment links circulating on social media",
+      "link": "https://www.myjoyonline.com/ges-warns-public-against-fake-teacher-recruitment-links-circulating-on-social-media/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T19:00:27.000Z",
+      "summary": "The Ghana Education Service (GES) has cautioned the public against fake teacher recruitment links circulating on social media, stressing that its recruitment exercise has not yet commenced.",
+      "categories": [
+        "Education",
+        "National",
+        "Ghana Education Service (GES)",
+        "teacher recruitment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Veteran gospel singer Bernice Offei laid to rest",
+      "link": "https://www.myjoyonline.com/veteran-gospel-singer-bernice-offei-laid-to-rest/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T18:57:45.000Z",
+      "summary": "Veteran gospel musician and award-winning songwriter Bernice Ofeibea Offei has been laid to rest following a funeral service at the Legon Interdenominational Church at the University of…",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "National",
+        "Bernice Offei"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two teenage suspects declared wanted over killing of Ghanaian teenager, Malik Abass, in Canada",
       "link": "https://www.myjoyonline.com/two-teenage-suspects-declared-wanted-over-killing-of-ghanaian-teenager-malik-abass-in-canada/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T18:54:39.000Z",
@@ -127,40 +155,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Black Stars return a ‘dream come true’ – Kofi Kyereh",
-      "link": "https://www.myjoyonline.com/black-stars-return-a-dream-come-true-kofi-kyereh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:02:35.000Z",
-      "summary": "Ghana midfielder, Daniel-Kofi Kyereh, has described his return to the Black Stars as a \"dream come true\" after making his comeback to the national team following a four-year injury absence.",
-      "categories": [
-        "HP News 10",
-        "HP Sports 2",
-        "National",
-        "Sports",
-        "Black Stars",
-        "Daniel Kofi Kyereh",
-        "Ghana vs. Somalia",
-        "Qatar 2022",
-        "Qatar World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UMaT introduces meal scheme and emergency fund for students",
-      "link": "https://www.myjoyonline.com/umat-introduces-meal-scheme-and-emergency-fund-for-students/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T17:58:29.000Z",
-      "summary": "The University of Mines and Technology (UMaT) has introduced a One-Meal-a-Day scheme and an Emergency Student Support Fund to support students facing financial difficulties.",
-      "categories": [
-        "Education",
-        "HP News 8",
-        "National",
-        "University of Mines and Technology (UMaT)",
-        "Vice-Chancellor Professor Bernard Kumi-Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Agogohene Nana Akuoko Sarpong's funeral to take place from November 24 to 26",
