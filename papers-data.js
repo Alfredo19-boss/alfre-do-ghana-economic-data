@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T12:09:45.546Z",
+  "updated": "2026-11-15T12:19:46.569Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Consider midterm election if you want to extend presidential term from four to five years — Akyem Muosohene",
+      "link": "https://www.myjoyonline.com/consider-midterm-election-if-you-want-to-extend-presidential-term-from-four-to-five-years-akyem-muosohene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T12:10:15.000Z",
+      "summary": "Chief of Akyem Muoso Osabarima Dr Owusu Beyeeman says extending the presidential and parliamentary term from four to five years without putting measures to check accountability may be…",
+      "categories": [
+        "Regional",
+        "Dr Owusu Beyeeman",
+        "Presidential term"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NAIMOS intensifies crackdown on illegal sand winning in Ketu North",
       "link": "https://www.myjoyonline.com/naimos-intensifies-crackdown-on-illegal-sand-winning-in-ketu-north/",
@@ -121,21 +134,6 @@ window.GDC_PAPERS = {
         "Top Story",
         "Ecobank JoyBusiness SME Fair 2026",
         "Ghud Park"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Open Street Fair pushes for people-centred road infrastructure in Accra",
-      "link": "https://www.myjoyonline.com/open-street-fair-pushes-for-people-centred-road-infrastructure-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T09:18:57.000Z",
-      "summary": "The Founder of Transform Transport Accra, Nii Noi Omaboe, is calling for a rethinking of how streets in Ghanaian cities are designed and used, insisting that road infrastructure should…",
-      "categories": [
-        "National",
-        "Accra",
-        "cycling",
-        "Open Street Fair",
-        "Road"
       ],
       "site": "https://www.myjoyonline.com/"
     },
