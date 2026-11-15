@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T12:59:15.224Z",
+  "updated": "2026-11-15T13:09:15.377Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Clear Communication Critical to Prevent Misconceptions Around Government’s New Economy Agenda",
+      "link": "https://thehighstreetjournal.com/clear-communication-critical-to-prevent-misconceptions-around-governments-new-economy-agenda/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T13:00:10.000Z",
+      "summary": "Government must clearly communicate that its New Economy Agenda is private sector-led to avoid public misconceptions that previously stalled 1D1F and 24-Hour Economy."
+    },
     {
       "title": "Tackling Inflation at Its Roots: How Budget Infrastructure and Farm Investments Could Sustain Low Prices",
       "link": "https://thehighstreetjournal.com/tackling-inflation-at-its-roots-how-budget-infrastructure-and-farm-investments-could-sustain-low-prices/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T11:31:34.000Z",
       "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series into circulation from December 1, 2026, with the existing banknotes remaining legal tender. Governor of the…"
-    },
-    {
-      "title": "Bank of Ghana unveils homegrown currency management software",
-      "link": "https://www.myjoyonline.com/bank-of-ghana-unveils-homegrown-currency-management-software/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:14:07.000Z",
-      "summary": "The Bank of Ghana (BoG) has developed an in-house software system to improve currency management, strengthen operational efficiency, and enhance the distribution of banknotes across the…"
     }
   ]
 };

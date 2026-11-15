@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T12:59:45.344Z",
+  "updated": "2026-11-15T13:09:45.011Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa announces plans for more visa-free travel agreements by 2027",
+      "link": "https://www.myjoyonline.com/ablakwa-announces-plans-for-more-visa-free-travel-agreements-by-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T12:58:45.000Z",
+      "summary": "Ghana expects to sign additional visa waiver agreements with other countries before the end of 2027 as part of efforts to improve the value and international standing of the Ghanaian…",
+      "categories": [
+        "National",
+        "Ablakwa",
+        "Travel",
+        "visa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "814 votes to 5 votes: The landslide wins and photo-finish battles of the NDC Regional Elections",
       "link": "https://www.graphic.com.gh/news/politics/814-votes-to-5-votes-the-landslide-wins-and-photo-finish-battles-of-the-ndc-regional-elections.html",
@@ -138,22 +152,6 @@ window.GDC_PAPERS = {
         "News",
         "Opinion",
         "2027 Budget"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WPL 2026/27: Hasaacas Ladies go top as Oak Ladies thrash Epiphany Warriors",
-      "link": "https://www.myjoyonline.com/wpl-2026-27-hasaacas-ladies-go-top-as-oak-ladies-thrash-epiphany-warriors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:02:54.000Z",
-      "summary": "Hasaacas Ladies toppled Police Ladies into the first position, while Oak Ladies also moved up the league table following Saturday's results.",
-      "categories": [
-        "Football",
-        "National",
-        "2026/27 Women's Premier League",
-        "Hasaacas Ladies",
-        "Oak Ladies",
-        "Police Ladies"
       ],
       "site": "https://www.myjoyonline.com/"
     },
