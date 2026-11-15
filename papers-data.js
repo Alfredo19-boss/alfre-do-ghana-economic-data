@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T17:34:59.221Z",
+  "updated": "2026-11-15T17:45:00.853Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Agogo announces November 24 to 26 funeral rites for Nana Akuoko Sarpong, President Mahama, Otumfuo expected to lead dignitaries",
+      "link": "https://www.graphic.com.gh/news/general-news/agogo-announces-november-24-to-26-funeral-rites-for-nana-akuoko-sarpong-president-mahama-otumfuo-expected-to-lead-dignitaries.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T17:36:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'NAIMOS and their operations must be reviewed before they send NDC back to opposition' - Ashanti Regional Minister Amoakohene",
+      "link": "https://www.graphic.com.gh/news/politics/naimos-and-their-operations-must-be-reviewed-before-they-send-ndc-back-to-opposition-ashanti-regional-minister-amoakohene.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T17:22:46.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Mfantsipim School and the founding of Ghana National College – Egbert Faibille Jnr writes",
       "link": "https://www.myjoyonline.com/mfantsipim-school-and-the-founding-of-ghana-national-college-egbert-faibille-jnr-writes/",
@@ -198,28 +220,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/one-arrested-chairs-destroyed-as-northern-ndc-treasurer-results-spark-chaos.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T21:34:03.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bono East NDC Chairman Unas Owusu loses re-election bid to Ali Abubakari Donkor",
-      "link": "https://www.graphic.com.gh/news/politics/bono-east-ndc-chairman-unas-owusu-loses-re-election-bid-to-ali-abubakari-donkor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T21:27:36.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Augustus Andrews secures third term as Ashanti NDC Chairman with 814 votes",
-      "link": "https://www.graphic.com.gh/news/politics/augustus-andrews-secures-third-term-as-ashanti-ndc-chairman-with-814-votes.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T21:19:24.000Z",
       "summary": "",
       "categories": [
         "Politics"
