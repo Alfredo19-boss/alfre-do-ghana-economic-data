@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T13:59:28.990Z",
+  "updated": "2026-11-15T14:09:15.662Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:00:12.000Z",
+      "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank…"
+    },
     {
       "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T11:37:00.000Z",
       "summary": "The Governor of the Bank of Ghana, Dr Johnson Asiama, has said the new Heritage Cedi banknotes have been designed with enhanced security features, improved durability and smaller dimensions…"
-    },
-    {
-      "title": "Heritage series incorporates enhanced security features – BoG Governor",
-      "link": "https://www.myjoyonline.com/heritage-series-incorporates-enhanced-security-features-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T11:35:17.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Asiama, has highlighted the enhanced security features of the newly introduced Ghana Heritage Series banknotes, saying the improvements…"
     }
   ]
 };

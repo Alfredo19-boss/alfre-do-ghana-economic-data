@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T13:59:44.866Z",
+  "updated": "2026-11-15T14:09:44.799Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES cautions public against fake recruitment links, appointment letters",
+      "link": "https://www.myjoyonline.com/ges-cautions-public-against-fake-recruitment-links-appointment-letters/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:02:27.000Z",
+      "summary": "The Ghana Education Service (GES) has cautioned the public against fraudulent recruitment announcements and links circulating on social media, clarifying that it has not yet opened its…",
+      "categories": [
+        "Education",
+        "National",
+        "Fake recruitment",
+        "GES"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:00:12.000Z",
+      "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank…",
+      "categories": [
+        "Art & Design",
+        "Arts and Culture",
+        "Business",
+        "National",
+        "Ecobank JoyBusiness SME Fair 2026",
+        "Fugu",
+        "Waist Beads"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
@@ -132,34 +163,6 @@ window.GDC_PAPERS = {
         "AGN",
         "COP31",
         "finance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Consider midterm election if you want to extend presidential term from four to five years — Akyem Muosohene",
-      "link": "https://www.myjoyonline.com/consider-midterm-election-if-you-want-to-extend-presidential-term-from-four-to-five-years-akyem-muosohene/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T12:10:15.000Z",
-      "summary": "Chief of Akyem Muoso Osabarima Dr Owusu Beyeeman says extending the presidential and parliamentary term from four to five years without putting measures to check accountability may be…",
-      "categories": [
-        "HP News 9",
-        "Regional",
-        "Dr Owusu Beyeeman",
-        "Presidential term"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAIMOS intensifies crackdown on illegal sand winning in Ketu North",
-      "link": "https://www.myjoyonline.com/naimos-intensifies-crackdown-on-illegal-sand-winning-in-ketu-north/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T10:16:13.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), with support from the Artillery Brigade of the Ghana Army, has carried out a major enforcement operation against suspected…",
-      "categories": [
-        "HP News 1",
-        "Regional",
-        "Ketu North",
-        "NAIMOS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
