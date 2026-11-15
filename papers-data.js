@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T14:09:44.799Z",
+  "updated": "2026-11-15T14:29:46.698Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The currency portrait blunder: heads must roll",
+      "link": "https://www.myjoyonline.com/the-currency-portrait-blunder-heads-must-roll/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:23:52.000Z",
+      "summary": "Let me state this without mincing words: IF IT IS ESTABLISHED THAT THE PORTRAIT USED IS INDEED NOT THAT OF THEODOSIA OKOH, THEN THE PERSON RESPONSIBLE FOR THE DESIGN, SOURCING AND…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Bank of Ghana",
+        "Evans Mawunyo Tsikata",
+        "portrait blunder",
+        "Theodosia Okoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama to open GH¢148.4m cashew processing factory in Techiman – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/mahama-to-open-gh%c2%a2148-4m-cashew-processing-factory-in-techiman-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:21:51.000Z",
+      "summary": "President John Dramani Mahama is expected to travel to Techiman on Monday to officially open the Nadkansco Cashew Processing Factory, a GH¢148.4 million facility financed by the Ghana…",
+      "categories": [
+        "National",
+        "Cashew",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to deposit ratification instruments for AU financial institutions by 2027 – Ablakwa",
+      "link": "https://www.myjoyonline.com/ghana-to-deposit-ratification-instruments-for-au-financial-institutions-by-2027-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T14:16:19.000Z",
+      "summary": "The Foreign Affairs Minister, Samuel Okudzeto Ablakwa, has announced that Ghana will deposit its instruments of ratification for the establishment of key African Union financial…",
+      "categories": [
+        "National",
+        "AU financial institutions",
+        "Ghana",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GES cautions public against fake recruitment links, appointment letters",
       "link": "https://www.myjoyonline.com/ges-cautions-public-against-fake-recruitment-links-appointment-letters/",
@@ -98,38 +141,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "DJ Sonatty makes history with DJ of the Year nomination at Ghana DJ Awards 2026",
-      "link": "https://www.myjoyonline.com/dj-sonatty-makes-history-with-dj-of-the-year-nomination-at-ghana-dj-awards-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T13:11:35.000Z",
-      "summary": "Ghanaian DJ Sonatty has made history at the 2026 Ghana DJ Awards after becoming the first DJ from the Central Region to secure a nomination in the prestigious DJ of the Year category.",
-      "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Music",
-        "National",
-        "DJ of the Year nomination",
-        "DJ Sonatty",
-        "Ghana DJ Awards 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa announces plans for more visa-free travel agreements by 2027",
-      "link": "https://www.myjoyonline.com/ablakwa-announces-plans-for-more-visa-free-travel-agreements-by-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T12:58:45.000Z",
-      "summary": "Ghana expects to sign additional visa waiver agreements with other countries before the end of 2027 as part of efforts to improve the value and international standing of the Ghanaian…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Ablakwa",
-        "Travel",
-        "visa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "814 votes to 5 votes: The landslide wins and photo-finish battles of the NDC Regional Elections",
       "link": "https://www.graphic.com.gh/news/politics/814-votes-to-5-votes-the-landslide-wins-and-photo-finish-battles-of-the-ndc-regional-elections.html",
       "source": "Daily Graphic",
@@ -150,21 +161,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AGN Chair demands predictable finance as $7.6 million Urban Resilience Facility launches at COP31",
-      "link": "https://www.myjoyonline.com/agn-chair-demands-predictable-finance-as-7-6-million-urban-resilience-facility-launches-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T12:21:43.000Z",
-      "summary": "The African Group of Negotiators on Climate Change (AGN) has positioned urban adaptation at the center of the global climate agenda, calling for direct, predictable finance to protect the…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "AGN",
-        "COP31",
-        "finance"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mark Oliver Kevor retains position as NDC Eastern Regional chairman",
