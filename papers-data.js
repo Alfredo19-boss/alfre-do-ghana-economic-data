@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T12:39:46.154Z",
+  "updated": "2026-11-15T12:59:45.344Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "814 votes to 5 votes: The landslide wins and photo-finish battles of the NDC Regional Elections",
+      "link": "https://www.graphic.com.gh/news/politics/814-votes-to-5-votes-the-landslide-wins-and-photo-finish-battles-of-the-ndc-regional-elections.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-15T12:54:36.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Adams Randy elected NDC Upper West Regional Chairman",
       "link": "https://www.graphic.com.gh/news/politics/adams-randy-elected-ndc-upper-west-regional-chairman.html",
@@ -52,6 +63,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T12:10:15.000Z",
       "summary": "Chief of Akyem Muoso Osabarima Dr Owusu Beyeeman says extending the presidential and parliamentary term from four to five years without putting measures to check accountability may be…",
       "categories": [
+        "HP News 9",
         "Regional",
         "Dr Owusu Beyeeman",
         "Presidential term"
@@ -94,7 +106,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T10:12:44.000Z",
       "summary": "The Child Health Unit of the Cape coast Teaching Hospital has received a boost in healthcare delivery after the 1996 Old Boys year group of Mfantsipim School made a kind donation to the…",
       "categories": [
-        "HP News 9",
         "Regional",
         "Cape Coast Hospital",
         "Mfantsipim @150",
@@ -206,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/upper-east-ndc-elections-alhaji-bolnaba-cruises-to-victory-with-220-vote-margin.html",
       "source": "Daily Graphic",
       "published": "2026-11-14T18:42:28.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bono NDC Elections: Nyamekye-Marfo cruises to victory with over 90% of votes",
-      "link": "https://www.graphic.com.gh/news/politics/bono-ndc-elections-nyamekye-marfo-cruises-to-victory-with-over-90-of-votes.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T18:36:36.000Z",
       "summary": "",
       "categories": [
         "Politics"
