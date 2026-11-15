@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:41:18.454Z",
+  "updated": "2026-11-15T05:46:18.936Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘NACOC officers are not adequately equipped’ – Miracles Aboagye",
+      "link": "https://www.myjoyonline.com/nacoc-officers-are-not-adequately-equipped-miracles-aboagye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:42:58.000Z",
+      "summary": "Director of Communications for the New Patriotic Party (NPP), Miracles Aboagye, has called on the government to commit more resources to the Narcotics Control Commission (NACOC), saying…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "budget allocations",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NACOC is highly under-resourced; the drug problem is beyond cocaine – Senyo Hosi",
       "link": "https://www.myjoyonline.com/nacoc-is-highly-under-resourced-the-drug-problem-is-beyond-cocaine-senyo-hosi/",
@@ -128,20 +142,6 @@ window.GDC_PAPERS = {
         "aviation",
         "Industry",
         "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Price and promise of a solitary monetary policy",
-      "link": "https://www.myjoyonline.com/the-price-and-promise-of-a-solitary-monetary-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T23:07:55.000Z",
-      "summary": "In 2025, the Bank of Ghana (BoG) accomplished something of extraordinary monetary significance. The cedi appreciated by 40.7 percent against the US dollar, its first annual gain in more…",
-      "categories": [
-        "Opinion",
-        "Cedi",
-        "Monetary Policy",
-        "Price"
       ],
       "site": "https://www.myjoyonline.com/"
     },
