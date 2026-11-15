@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T09:49:15.907Z",
+  "updated": "2026-11-15T10:09:13.302Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "DDEP Design Was Likely to End in Another Default, But Thanks to Govt’s Sinking Fund – Economist Says",
+      "link": "https://thehighstreetjournal.com/ddep-design-was-likely-to-end-in-another-default-but-thanks-to-govts-sinking-fund-economist-says/",
+      "source": "The High Street Journal",
+      "published": "2026-11-15T10:00:00.000Z",
+      "summary": "Dr Theo Acheampong says Ghana risked another debt default after the DDEP but strengthened Sinking Fund reserves and dedicated 7% of non-tax revenue towards debt repayment, enabling the…"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T05:52:01.000Z",
       "summary": "Ghana has called for increased climate adaptation financing, stronger regional cooperation and improved protection for vulnerable communities to address the growing threat of…"
-    },
-    {
-      "title": "Ghana advocates stronger global cooperation to bridge Africa’s digital divide",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/ghana-advocates-stronger-global-cooperation-to-bridge-africas-digital-divide/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T05:47:47.000Z",
-      "summary": "Mr Samuel Nartey George, Minister for Communication, Digital Technology and Innovations, has called for stronger international cooperation and investment to bridge Africa’s digital divide…"
     }
   ]
 };

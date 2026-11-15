@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T09:49:43.391Z",
+  "updated": "2026-11-15T10:09:44.396Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Right Diagnosis, an Incomplete Cure: The 2027 Budget and Ghana’s Boom-and-Bust Cycles",
+      "link": "https://www.myjoyonline.com/the-right-diagnosis-an-incomplete-cure-the-2027-budget-and-ghanas-boom-and-bust-cycles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:03:48.000Z",
+      "summary": "These boom-and-bust cycles must cease\" On the evening of Thursday, November 12, 2026, the Minister for Finance, Dr Cassiel Ato Forson, when presenting the 2027 budget told Parliament that…",
+      "categories": [
+        "News",
+        "Opinion",
+        "2027 Budget"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WPL 2026/27: Hasaacas Ladies go top as Oak Ladies thrash Epiphany Warriors",
+      "link": "https://www.myjoyonline.com/wpl-2026-27-hasaacas-ladies-go-top-as-oak-ladies-thrash-epiphany-warriors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T10:02:54.000Z",
+      "summary": "Hasaacas Ladies toppled Police Ladies into the first position, while Oak Ladies also moved up the league table following Saturday's results.",
+      "categories": [
+        "Football",
+        "National",
+        "2026/27 Women's Premier League",
+        "Hasaacas Ladies",
+        "Oak Ladies",
+        "Police Ladies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
@@ -106,34 +135,6 @@ window.GDC_PAPERS = {
         "Benaiah Elorm Dafeamekpor",
         "Black Challenge",
         "World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SNARSA targets illegal mining reclamation, forest monitoring, and flood prevention through technology",
-      "link": "https://www.myjoyonline.com/snarsa-targets-illegal-mining-reclamation-forest-monitoring-and-flood-prevention-through-technology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:32:59.000Z",
-      "summary": "The School of Natural Resource Students’ Association (SNARSA) at the University of Energy and Natural Resources (UENR) seeks to deploy modern technology to help address illegal mining…",
-      "categories": [
-        "Regional",
-        "Illegal mining",
-        "SNARSA",
-        "Technology"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abibinsroma Foundation congratulates government on Solar Energy Tax exemption in 2027 budget",
-      "link": "https://www.myjoyonline.com/abibinsroma-foundation-congratulates-government-on-solar-energy-tax-exemption-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:32:25.000Z",
-      "summary": "Foundation says the decision is an important step towards climate action, affordable renewable energy and a Just Transition for all Ghanaians. AbibiNsroma Foundation welcomes and…",
-      "categories": [
-        "National",
-        "AbibiNsroma Foundation",
-        "Solar Energy",
-        "Tax"
       ],
       "site": "https://www.myjoyonline.com/"
     },
