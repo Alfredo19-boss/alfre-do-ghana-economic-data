@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:31:17.634Z",
+  "updated": "2026-11-15T05:41:18.454Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NACOC is highly under-resourced; the drug problem is beyond cocaine – Senyo Hosi",
+      "link": "https://www.myjoyonline.com/nacoc-is-highly-under-resourced-the-drug-problem-is-beyond-cocaine-senyo-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:37:39.000Z",
+      "summary": "Convener of the OneGhana Movement, Senyo Hosi, has raised concerns about the capacity of the Narcotics Control Commission (NACOC) to tackle Ghana's drug problem, describing the institution…",
+      "categories": [
+        "National",
+        "News",
+        "Cocaine",
+        "Convener of the OneGhana Movement",
+        "NACOC",
+        "Senyo Hosi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oliver Kevor re-elected NDC Eastern Regional Chairman",
+      "link": "https://www.myjoyonline.com/oliver-kevor-re-elected-ndc-eastern-regional-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T05:36:50.000Z",
+      "summary": "Ing. Dr Mark Oliver Kevor will continue to lead the National Democratic Congress (NDC) in the Eastern Region after retaining his position as Regional Chairman in the party’s executive…",
+      "categories": [
+        "National",
+        "Dr Mark Oliver Kevor",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
       "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
@@ -113,36 +142,6 @@ window.GDC_PAPERS = {
         "Cedi",
         "Monetary Policy",
         "Price"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
-      "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T22:40:49.000Z",
-      "summary": "Two years after leaders pledged US$2.2 billion to expand clean cooking in Africa, only about US$740 million has been paid out, leaving roughly two-thirds of the money, about US$1.46…",
-      "categories": [
-        "Africa",
-        "Energy",
-        "Clean cooking",
-        "COP31",
-        "Pledges"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
-      "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T22:35:32.000Z",
-      "summary": "Tanzania, Lesotho and Uganda have shared how they are expanding clean cooking at home, as leaders at COP31 warned that most of the money promised to help Africa make the switch is yet to…",
-      "categories": [
-        "Energy",
-        "Clean cooking",
-        "Lesotho",
-        "Tanzania",
-        "Uganda"
       ],
       "site": "https://www.myjoyonline.com/"
     },
