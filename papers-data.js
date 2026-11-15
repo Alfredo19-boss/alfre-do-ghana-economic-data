@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:53:49.890Z",
+  "updated": "2026-11-15T23:58:48.358Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "link": "https://www.myjoyonline.com/judo-champion-shakes-up-french-presidential-race-with-surprise-candidacy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:34:00.000Z",
+      "summary": "Apart from an overwhelming urge to pin one's opponent to the floor of the house, there is no obvious connection between politics and the world of top-level judo.",
+      "categories": [
+        "International",
+        "France",
+        "Teddy Riner"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "link": "https://www.myjoyonline.com/staggered-age-of-consent-to-be-discussed-after-brand-case-minister-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:21:00.000Z",
+      "summary": "A discussion over a staggered age of consent is to take place, the work and pensions secretary has said, as the government faces calls to change the law following the case against Russell…",
+      "categories": [
+        "International",
+        "Movies",
+        "Age of consent",
+        "Russell Brand"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rates",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rates/",
@@ -120,36 +147,6 @@ window.GDC_PAPERS = {
         "IMF",
         "interbank market",
         "PCI"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wenger decides not to challenge FIFA chief Infantino",
-      "link": "https://www.myjoyonline.com/wenger-decides-not-to-challenge-fifa-chief-infantino/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:01:00.000Z",
-      "summary": "Former Arsenal manager Arsene Wenger has decided not to challenge Gianni Infantino in FIFA's presidential election.",
-      "categories": [
-        "Football",
-        "Arsene Wenger",
-        "FIFA",
-        "Infantino"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
-      "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:55:57.000Z",
-      "summary": "The event is also being supported by key stakeholder associations in the country such as the Ghana Electrical Contractors Association, Association of Building & Civil Engineering…",
-      "categories": [
-        "Business",
-        "Energy",
-        "AGI",
-        "GUTA",
-        "Ministry of Energy",
-        "Ministry of Works & Housing"
       ],
       "site": "https://www.myjoyonline.com/"
     },
