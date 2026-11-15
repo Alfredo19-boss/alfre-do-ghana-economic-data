@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-15T22:59:15.915Z",
+  "updated": "2026-11-15T23:08:48.963Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
+      "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:05:12.000Z",
+      "summary": "IC Insights said, “We interpret raising gold sale requirements for large-scale miners as a reference to the newly established Ghana Accelerated National Reserves Accumulation Policy…"
+    },
     {
       "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
       "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:03:01.000Z",
       "summary": "The Bank of Ghana (BoG) is set to embark on a nationwide public education campaign to familiarise Ghanaians with the newly introduced Heritage Series banknotes and their enhanced security…"
-    },
-    {
-      "title": "Eni Ghana pledges more opportunities for local firms in upstream sector",
-      "link": "https://www.myjoyonline.com/eni-ghana-pledges-more-opportunities-for-local-firms-in-upstream-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T12:59:03.000Z",
-      "summary": "The Managing Director of Eni Ghana, Mr Federico Ricco, has reaffirmed the company’s commitment to strengthening local content development and expanding opportunities for local businesses in…"
     }
   ]
 };

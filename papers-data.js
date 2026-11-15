@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T22:59:16.751Z",
+  "updated": "2026-11-15T23:08:49.909Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
+      "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:05:12.000Z",
+      "summary": "IC Insights said, “We interpret raising gold sale requirements for large-scale miners as a reference to the newly established Ghana Accelerated National Reserves Accumulation Policy…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Cedi",
+        "Dollar",
+        "Forex Market",
+        "IC Insights",
+        "IMF",
+        "interbank market",
+        "PCI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
       "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
@@ -125,23 +144,6 @@ window.GDC_PAPERS = {
         "Canada",
         "Ghanaian community",
         "Gun violence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/2027: Kotoko drop points after goalless draw against Gold Stars",
-      "link": "https://www.myjoyonline.com/gpl-2026-2027-kotoko-drop-points-after-goalless-draw-against-gold-stars/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T19:25:36.000Z",
-      "summary": "Asante Kotoko were held to a goalless draw by Bibiani Gold Stars in their Week 11 Ghana Premier League clash at the Baba Yara Sports Stadium.",
-      "categories": [
-        "Football",
-        "HP News 9",
-        "National",
-        "Sports",
-        "Asante Kotoko",
-        "Bibiani Gold Stars",
-        "Ghana Premier League"
       ],
       "site": "https://www.myjoyonline.com/"
     },
