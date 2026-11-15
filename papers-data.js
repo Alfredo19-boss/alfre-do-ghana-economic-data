@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T05:51:18.851Z",
+  "updated": "2026-11-15T05:56:19.632Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T05:46:24.000Z",
       "summary": "The National Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has claimed that illegal mining, popularly known as galamsey, has worsened under the current…",
       "categories": [
+        "HP News 6",
         "National",
         "Galamsey",
         "Miracles Aboagye"
@@ -54,7 +55,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T05:42:58.000Z",
       "summary": "Director of Communications for the New Patriotic Party (NPP), Miracles Aboagye, has called on the government to commit more resources to the Narcotics Control Commission (NACOC), saying…",
       "categories": [
-        "HP News 5",
         "National",
         "budget allocations",
         "NACOC"
@@ -68,6 +68,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-15T05:37:39.000Z",
       "summary": "Convener of the OneGhana Movement, Senyo Hosi, has raised concerns about the capacity of the Narcotics Control Commission (NACOC) to tackle Ghana's drug problem, describing the institution…",
       "categories": [
+        "HP News 5",
         "National",
         "News",
         "Cocaine",
