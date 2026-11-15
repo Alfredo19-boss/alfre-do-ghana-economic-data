@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T16:55:00.802Z",
+  "updated": "2026-11-15T17:10:02.031Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jospong calls for increased private investment in climate-resilient waste infrastructure",
+      "link": "https://www.myjoyonline.com/jospong-calls-for-increased-private-investment-in-climate-resilient-waste-infrastructure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T17:04:40.000Z",
+      "summary": "The Jospong Group of Companies has called for increased private sector investment in waste management infrastructure, innovative financing arrangements and technology transfer to help…",
+      "categories": [
+        "National",
+        "Climate",
+        "Jospong",
+        "private investment",
+        "waste infrastructure"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Amoakohene calls for review of NAIMOS operations over Manso Keniago deaths",
       "link": "https://www.myjoyonline.com/amoakohene-calls-for-review-of-naimos-operations-over-manso-keniago-deaths/",
@@ -118,21 +133,6 @@ window.GDC_PAPERS = {
         "African oil",
         "Baluri Kassim Bukari",
         "Local Content Conference and Exhibition"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana proposes six-point declaration to reform AU financing",
-      "link": "https://www.myjoyonline.com/ghana-proposes-six-point-declaration-to-reform-au-financing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:49:46.000Z",
-      "summary": "Ghana has proposed a six-point declaration to strengthen the financing of the African Union, calling on member states to move beyond discussions and commit to concrete measures to secure…",
-      "categories": [
-        "National",
-        "Accra Declaration on Financing the Union",
-        "African Union",
-        "Ghana",
-        "Samuel Okudzeto Ablakwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
