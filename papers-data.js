@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T08:54:45.512Z",
+  "updated": "2026-11-15T08:59:45.726Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daffiama-Bussie-Issa set for major STEM school as Jakpa, DCE inspect project",
+      "link": "https://www.myjoyonline.com/daffiama-bussie-issa-set-for-major-stem-school-as-jakpa-dce-inspect-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T08:54:39.000Z",
+      "summary": "Director of Operations at the National Security Secretariat, Richard Jakpa, together with the District Chief Executive (DCE) for Daffiama-Bussie-Issa, James Wor, has inspected construction…",
+      "categories": [
+        "Regional",
+        "Daffiama-Bussie-Issa",
+        "STEM school"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Richard Asiedu calls for probe into NDC Central Regional polls over alleged irregularities",
       "link": "https://www.myjoyonline.com/richard-asiedu-calls-for-probe-into-ndc-central-regional-polls-over-alleged-irregularities/",
@@ -120,21 +133,6 @@ window.GDC_PAPERS = {
         "Government",
         "NACOC",
         "Senyo Hosi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: Disability community gets audience with AGN Chair for inclusivity in climate negotiation process",
-      "link": "https://www.myjoyonline.com/cop31-disability-community-gets-audience-with-agn-chair-for-inclusivity-in-climate-negotiation-process/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T08:24:32.000Z",
-      "summary": "When sudden floodwaters tore through the streets of Accra last June, the devastation left behind was measured not only in damaged infrastructure, but in broken lives and lost independence.",
-      "categories": [
-        "HP News 5",
-        "National",
-        "climate negotiation",
-        "COP31",
-        "Disability Community"
       ],
       "site": "https://www.myjoyonline.com/"
     },
