@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T16:04:59.278Z",
+  "updated": "2026-11-15T16:14:58.874Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "When even your Traffic Fine is a scam!",
+      "link": "https://www.myjoyonline.com/when-even-your-traffic-fine-is-a-scam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:06:25.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, the government decided that Ghanaian motorists had enjoyed too much freedom on the roads. Some drove as though speed limits were…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Jimmy Aglah",
+        "Traffic Fine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama urges traditional authorities to strengthen role in promoting peace and social cohesion",
+      "link": "https://www.myjoyonline.com/mahama-urges-traditional-authorities-to-strengthen-role-in-promoting-peace-and-social-cohesion/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:02:14.000Z",
+      "summary": "President John Mahama has described traditional authorities as indispensable partners in Ghana’s national development, urging them to strengthen their contribution to peace, social cohesion…",
+      "categories": [
+        "National",
+        "President John Mahama",
+        "traditional authorities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s new export miracle: From Cocoa to Cocaine!",
+      "link": "https://www.myjoyonline.com/ghanas-new-export-miracle-from-cocoa-to-cocaine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:02:10.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, a country famous for producing cocoa, gold and excellent excuses discovered that its agricultural export industry had acquired a rather…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Cocaine",
+        "Cocoa",
+        "Ghana",
+        "Jimmy Aglah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "African oil producers urged to balance local content with investment",
       "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
@@ -90,48 +134,6 @@ window.GDC_PAPERS = {
         "Cyber security",
         "MTN Master Classs",
         "Trust"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana supports AU partnership targeting $200bn in African financing over next decade – Ablakwa",
-      "link": "https://www.myjoyonline.com/ablakwa-backs-plan-to-mobilise-200bn-in-african-financing-over-next-decade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:37:45.000Z",
-      "summary": "Ghana has expressed support for a proposed partnership between the African Union Commission and the Alliance of African Multilateral Financial Institutions aimed at mobilising an additional…",
-      "categories": [
-        "National",
-        "African financing",
-        "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The currency portrait blunder: heads must roll",
-      "link": "https://www.myjoyonline.com/the-currency-portrait-blunder-heads-must-roll/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:23:52.000Z",
-      "summary": "Let me state this without mincing words: IF IT IS ESTABLISHED THAT THE PORTRAIT USED IS INDEED NOT THAT OF THEODOSIA OKOH, THEN THE PERSON RESPONSIBLE FOR THE DESIGN, SOURCING AND…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Bank of Ghana",
-        "Evans Mawunyo Tsikata",
-        "portrait blunder",
-        "Theodosia Okoh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama to open GH¢148.4m cashew processing factory in Techiman – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/mahama-to-open-gh%c2%a2148-4m-cashew-processing-factory-in-techiman-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:21:51.000Z",
-      "summary": "President John Dramani Mahama is expected to travel to Techiman on Monday to officially open the Nadkansco Cashew Processing Factory, a GH¢148.4 million facility financed by the Ghana…",
-      "categories": [
-        "National",
-        "Cashew",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
