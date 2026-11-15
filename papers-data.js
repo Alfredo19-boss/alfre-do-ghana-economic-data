@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T16:25:01.445Z",
+  "updated": "2026-11-15T16:45:00.911Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amoakohene calls for review of NAIMOS operations over Manso Keniago deaths",
+      "link": "https://www.myjoyonline.com/amoakohene-calls-for-review-of-naimos-operations-over-manso-keniago-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T16:40:12.000Z",
+      "summary": "Ashanti Regional Minister Dr Frank Amoakohene has called for a review of the operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), warning that its approach to the…",
+      "categories": [
+        "National",
+        "Manso Keniago",
+        "NAIMO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vatar, makers of Lagos Life, launches in Ghana",
       "link": "https://www.myjoyonline.com/vatar-makers-of-lagos-life-launches-in-ghana/",
@@ -118,20 +131,6 @@ window.GDC_PAPERS = {
         "Accra Declaration on Financing the Union",
         "African Union",
         "Ghana",
-        "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa urges AU members to implement 0.2% import levy to fund Union",
-      "link": "https://www.myjoyonline.com/ablakwa-urges-au-members-to-implement-0-2-import-levy-to-fund-union/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:17:27.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has urged African Union member states that have not implemented the agreed 0.2 per cent levy on eligible imports to do so without delay to…",
-      "categories": [
-        "National",
-        "African Union member states",
-        "Import Levy",
         "Samuel Okudzeto Ablakwa"
       ],
       "site": "https://www.myjoyonline.com/"
