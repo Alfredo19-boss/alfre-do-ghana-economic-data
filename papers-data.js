@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:35:31.327Z",
+  "updated": "2026-11-16T04:45:30.335Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US officials say violence against Christians in Nigeria remains a key concern",
+      "link": "https://www.myjoyonline.com/us-officials-say-violence-against-christians-in-nigeria-remains-a-key-concern/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:35:00.000Z",
+      "summary": "Violence against Nigerian Christians remains a key concern, the US State Department said, a year after the Trump administration accused Nigeria of violating religious freedoms and…",
+      "categories": [
+        "Africa",
+        "Nigeria",
+        "Violence against Christians"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Oil prices fall on expectations of coming supply surplus",
       "link": "https://www.myjoyonline.com/oil-prices-fall-on-expectations-of-coming-supply-surplus/",
@@ -112,18 +125,6 @@ window.GDC_PAPERS = {
         "Tennis",
         "Aryna Sabalenka",
         "Elina Svitolina"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Zverev ‘felt a lot of joy’ in first win as world number one",
-      "link": "https://www.myjoyonline.com/zverev-felt-a-lot-of-joy-in-first-win-as-world-number-one/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:25:00.000Z",
-      "summary": "Alexander Zverev said he felt \"a lot of joy\" after sweeping aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
-      "categories": [
-        "Tennis",
-        "Alexander Zverev"
       ],
       "site": "https://www.myjoyonline.com/"
     },
