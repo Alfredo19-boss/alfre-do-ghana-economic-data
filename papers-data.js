@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T06:15:29.910Z",
+  "updated": "2026-11-16T06:25:29.781Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GRA uncovers massive VAT violations at Achimota Shopping Centre",
+      "link": "https://ghanaiantimes.com.gh/gra-uncovers-massive-vat-violations-at-achimota-shopping-centre/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:18:32.000Z",
+      "summary": "THE Ghana Revenue Authority (GRA) has uncovered widespread tax violations by businesses at the Achimota Shopping Centre in Accra. This came to light following an enforcement operation that…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Government plans GH¢28.8bn buyback of DDEP bonds due in February 2027",
       "link": "https://www.myjoyonline.com/government-plans-gh%c2%a228-8bn-buyback-of-ddep-bonds-due-in-february-2027/",
@@ -299,17 +311,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "What Decides a West African Protection Claim",
-      "link": "https://ghanaiantimes.com.gh/what-decides-a-west-african-protection-claim/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T11:23:37.000Z",
-      "summary": "When a protection claim from West Africa reaches a tribunal in London or an immigration court in the United States, the hearing rarely turns on whether the applicant is telling the truth…",
-      "categories": [
-        "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
