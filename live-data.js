@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-11-16T01:08:37.140Z",
+  "updated": "2026-11-16T01:13:36.881Z",
   "note": "Market quotes for the cedi, taken through the day. The Bank of Ghana's interbank rate, shown elsewhere on this page, is the official figure and is published once each morning.",
   "source": "Yahoo Finance",
   "quotes": {
@@ -32,10 +32,10 @@ window.GDC_LIVE = {
       "prev": 1.7493
     },
     "gold": {
-      "value": 3896.6,
-      "at": "2026-11-16T00:58:34.000Z",
+      "value": 3868,
+      "at": "2026-11-16T01:03:36.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 3894.9
+      "prev": 3896.6
     }
   }
 };
