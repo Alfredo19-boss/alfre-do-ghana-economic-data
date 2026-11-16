@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:05:28.534Z",
+  "updated": "2026-11-16T04:15:29.690Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,45 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Zverev ‘felt a lot of joy’ in first win as world number one",
+      "link": "https://www.myjoyonline.com/zverev-felt-a-lot-of-joy-in-first-win-as-world-number-one/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:25:00.000Z",
+      "summary": "Alexander Zverev said he felt \"a lot of joy\" after sweeping aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
+      "categories": [
+        "Tennis",
+        "Alexander Zverev"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Belgium come back to beat Italy to quarters spot",
+      "link": "https://www.myjoyonline.com/belgium-come-back-to-beat-italy-to-quarters-spot/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:17:00.000Z",
+      "summary": "Belgium qualified for the Nations League quarter-finals at the expense of Italy after coming from behind to beat the Azzurri.",
+      "categories": [
+        "Football",
+        "Belgium",
+        "Italy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kroupi scores as France beat Turkey to take top spot",
+      "link": "https://www.myjoyonline.com/kroupi-scores-as-france-beat-turkey-to-take-top-spot/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:11:00.000Z",
+      "summary": "Bournemouth forward Eli Junior Kroupi scored his first goal for France as they beat Turkey to seal a place in the Nations League quarter-finals.",
+      "categories": [
+        "Football",
+        "France",
+        "Turkey",
+        "Uefa Nations League"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -85,49 +124,6 @@ window.GDC_PAPERS = {
         "Ben White",
         "Declan Rice",
         "England"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ancelotti and captain Raphinha were sent off as Japan beat Brazil",
-      "link": "https://www.myjoyonline.com/ancelotti-and-captain-raphinha-were-sent-off-as-japan-beat-brazil/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:25:00.000Z",
-      "summary": "Manager Carlo Ancelotti and captain Raphinha were sent off as Brazil were beaten by a stoppage-time winner in a friendly against Japan in Singapore.",
-      "categories": [
-        "Football",
-        "Ancelotti",
-        "Brazil",
-        "Japan",
-        "Raphinha"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "England hold on to stun world champions Spain in thriller",
-      "link": "https://www.myjoyonline.com/england-hold-on-to-stun-world-champions-spain-in-thriller/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:16:00.000Z",
-      "summary": "England produced a superb display – their finest under head coach Thomas Tuchel – and survived a late siege to earn a landmark victory against World Cup holders Spain in Madrid.",
-      "categories": [
-        "Football",
-        "Englaand",
-        "Spain",
-        "Uefa Nations League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "link": "https://www.myjoyonline.com/mexican-drug-lord-miguel-angel-felix-gallardo-dies-age-80/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:05:00.000Z",
-      "summary": "Notorious Mexican drug lord Miguel Ángel Félix Gallardo has died in a hospital at age 80.",
-      "categories": [
-        "International",
-        "Drug lord",
-        "Mexican",
-        "Miguel Angel Felix Gallardo"
       ],
       "site": "https://www.myjoyonline.com/"
     },
