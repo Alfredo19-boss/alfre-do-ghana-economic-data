@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T00:08:48.122Z",
+  "updated": "2026-11-16T00:23:49.054Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ronaldinho, 46, makes comeback in Ravenna win",
+      "link": "https://www.myjoyonline.com/ronaldinho-46-makes-comeback-in-ravenna-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T00:19:00.000Z",
+      "summary": "Brazil legend Ronaldinho made his comeback at 46 for Ravenna in their 2-0 win over Forli in an Italian third-tier derby.",
+      "categories": [
+        "Football",
+        "Ravenna",
+        "Ronaldinho"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
       "link": "https://www.myjoyonline.com/thousands-of-us-flights-still-cancelled-or-delayed-two-days-after-grounding-of-planes-nationwide/",
@@ -120,20 +133,6 @@ window.GDC_PAPERS = {
         "Interest rates",
         "Ministry of Finance",
         "T-Bills"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Korea’s top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.myjoyonline.com/south-koreas-top-scorer-in-tax-accountancy-exam-admits-cheating/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:12:00.000Z",
-      "summary": "A candidate who came first in South Korea's certified tax accountancy exam has admitted to cheating by using a miniature camera, a mobile phone and AI tools.",
-      "categories": [
-        "International",
-        "Cheating",
-        "South Korea",
-        "tax accountancy exam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
