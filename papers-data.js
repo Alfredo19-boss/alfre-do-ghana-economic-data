@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:40:08.996Z",
+  "updated": "2026-11-16T11:50:08.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "No new taxes in 2027 will bring relief to Ghanaians – Taxpayers League",
+      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-will-bring-relief-to-ghanaians-taxpayers-league/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:43:31.000Z",
+      "summary": "Taxpayers League Ghana says the government's decision not to introduce new taxes in the 2027 Budget will help ease the financial burden on households and businesses.",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Hopeson Adorye",
+        "Taxpayers League Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Keep new taxes off the table in 2027 – Hopeson Adorye tells government",
       "link": "https://www.myjoyonline.com/keep-new-taxes-off-the-table-in-2027-hopeson-adorye-tells-government/",
@@ -121,22 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "David Azupio",
         "Energy Sector"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
-      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:20:17.000Z",
-      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "El Niño",
-        "Fitch Solutions",
-        "Mike Kruniger"
       ],
       "site": "https://www.myjoyonline.com/"
     },
