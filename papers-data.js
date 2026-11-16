@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T09:10:08.422Z",
+  "updated": "2026-11-16T09:30:09.443Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "New Savannah NDC Secretary sets sights on reclaiming Damongo seat in 2028",
+      "link": "https://www.myjoyonline.com/new-savannah-ndc-secretary-sets-sights-on-reclaiming-damongo-seat-in-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T09:28:53.000Z",
+      "summary": "The newly elected Savannah Regional Secretary of the National Democratic Congress (NDC), Issifu Seidu Kudus Gbeadese, says reclaiming the Damongo parliamentary seat from the New Patriotic…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Damongo",
+        "NDC",
+        "Savannah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP Maame Tiwaa honoured as ‘Outstanding Female Police Officer’ at Ghana Women Awards",
+      "link": "https://www.myjoyonline.com/cop-maame-tiwaa-honoured-as-outstanding-female-police-officer-at-ghana-women-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T09:19:32.000Z",
+      "summary": "Technical Advisor to the Interior Minister, COP Maame Yaa Tiwaa Addo-Danquah, has been honoured for her distinguished service in the Ghana Police Service at the 2026 Ghana Women Awards. She…",
+      "categories": [
+        "National",
+        "COP Maame Tiwaa",
+        "Ghana Women Awards",
+        "Police Officer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
       "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
@@ -135,19 +164,6 @@ window.GDC_PAPERS = {
         "cable theft",
         "Linda Ocloo",
         "streetlight outages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Today’s front pages: Monday, November 16, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-monday-november-16-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:04:03.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -272,22 +288,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "AFCON 2027Q: Kofi Kyereh admits tough period during injury period",
-      "link": "https://www.myjoyonline.com/afcon-2027q-kofi-kyereh-admits-tough-period-during-injury-period/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T06:46:35.000Z",
-      "summary": "The 30-year-old had a tough period after returning to club football following his involvement in the 2022 FIFA World Cup in Qatar.",
-      "categories": [
-        "Football",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Daniel-Kofi Kyereh",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Kwame Asiemoah: New NDC Volta Youth Organiser pledges united and empowered wing",
