@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:00:08.751Z",
+  "updated": "2026-11-16T10:10:09.290Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Court dismisses Wontumi’s bail application pending appeal",
+      "link": "https://www.myjoyonline.com/court-dismisses-wontumis-bail-application-pending-appeal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T10:05:59.000Z",
+      "summary": "An Accra High Court has dismissed an application by former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, seeking bail…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Bail application",
+        "Wontumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Over 6,000 visas revoked in crackdown on foreigners seeking US-born babies’ citizenship",
       "link": "https://www.myjoyonline.com/over-6000-visas-revoked-in-crackdown-on-foreigners-seeking-us-born-babies-citizenship/",
@@ -99,6 +114,83 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Sam Jonah eulogises Gen. Acheampong as ‘the builder Ghana forgot’",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-sam-jonah-eulogises-gen-acheampong-as-the-builder-ghana-forgot.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T09:12:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Fight against galamsey: Catholic Bishops call for targeted state of emergency",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-catholic-bishops-call-for-targeted-state-of-emergency.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T09:08:32.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama charges new Labour Commission to deliver fair, speedy justice for workers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-charges-new-labour-commission-to-deliver-fair-speedy-justice-for-workers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T09:05:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Institutional reset catalyst for national transformation - Ishmael Yamson",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-institutional-reset-catalyst-for-national-transformation-ishmael-yamson.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T09:01:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "China’s imports from Ghana surge 166% under zero-tariff policy - Chinese Ambassador",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chinas-imports-from-ghana-surge-166-under-zero-tariff-policy-chinese-ambassador.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T08:58:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama holds discussions with Guan chiefs",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-holds-discussions-with-guan-chiefs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T08:55:19.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt to recruit 10,000 teachers in 2027- Haruna Iddrisu",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-to-recruit-10-000-teachers-in-2027-haruna-iddrisu.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T08:43:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
       "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
       "source": "MyJoyOnline",
@@ -133,51 +225,13 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi Trade Show 2026 to bring businesses together for four-day exhibition in December",
-      "link": "https://www.myjoyonline.com/obuasi-trade-show-2026-to-bring-businesses-together-for-four-day-exhibition-in-december/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:24:22.000Z",
-      "summary": "The 2026 Obuasi Trade Show is scheduled to take place from December 21 to 24 at the Obuasi Black Park, bringing together businesses, entrepreneurs, manufacturers and traders from across the…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Regional",
-        "Anglogold",
-        "December",
-        "obuasi trade show"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama to NDC: The family contest is over, let's unite for victory",
-      "link": "https://www.graphic.com.gh/news/politics/president-mahama-to-ndc-the-family-contest-is-over-lets-unite-for-victory.html",
+      "title": "Minority urges Koforidua traders to let economic hardship guide 2028 vote",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-minority-urges-koforidua-traders-to-let-economic-hardship-guide-2028-vote.html",
       "source": "Daily Graphic",
-      "published": "2026-11-16T08:16:57.000Z",
+      "published": "2026-11-16T08:27:01.000Z",
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Partner local universities for joint degree programmes - Education minister to European universities",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-partner-local-universities-for-joint-degree-programmes-education-minister-to-european-universities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T08:06:55.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Don't fall for the scam: GES says teacher recruitment portal is not open",
-      "link": "https://www.graphic.com.gh/news/general-news/dont-fall-for-the-scam-ges-says-teacher-recruitment-portal-is-not-open.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T07:52:46.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -191,17 +245,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "State land belongs to all Ghanaians: State Housing Company defends Sandbox asset recovery",
-      "link": "https://www.graphic.com.gh/news/general-news/state-land-belongs-to-all-ghanaians-state-housing-company-defends-sandbox-asset-recovery.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T07:42:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Dreams FC stun Lions in Kpando to claim second win",
@@ -259,17 +302,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Mist, sun, then thunder: Ghana Meteo's full weather breakdown for today",
-      "link": "https://www.graphic.com.gh/news/general-news/mist-sun-then-thunder-ghana-meteos-full-weather-breakdown-for-today.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T07:29:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "GSE records positive 0.34% average share price gain …as trading value rises 15.37%",
       "link": "https://ghanaiantimes.com.gh/gse-records-positive-0-34-average-share-price-gain-as-trading-value-rises-15-37/",
       "source": "Ghanaian Times",
@@ -291,39 +323,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kwame Asiemoah: New NDC Volta Youth Organiser pledges united and empowered wing",
-      "link": "https://www.graphic.com.gh/news/politics/kwame-asiemoah-new-ndc-volta-youth-organiser-pledges-united-and-empowered-wing.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T18:08:44.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Agogohene Nana Akuoko Sarpong's funeral to take place from November 24 to 26",
-      "link": "https://www.graphic.com.gh/news/general-news/agogo-announces-november-24-to-26-funeral-rites-for-nana-akuoko-sarpong-president-mahama-otumfuo-expected-to-lead-dignitaries.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T17:36:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'NAIMOS and their operations must be reviewed before they send NDC back to opposition' - Ashanti Regional Minister Amoakohene",
-      "link": "https://www.graphic.com.gh/news/politics/naimos-and-their-operations-must-be-reviewed-before-they-send-ndc-back-to-opposition-ashanti-regional-minister-amoakohene.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T17:22:46.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };

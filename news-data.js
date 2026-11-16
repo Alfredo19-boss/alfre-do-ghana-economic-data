@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T09:59:38.547Z",
+  "updated": "2026-11-16T10:09:39.684Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "‘No Verification, No Pay’: All Public Sector Workers to Go Through Self-Verification Before Salaries in 2027",
+      "link": "https://thehighstreetjournal.com/no-verification-no-pay-all-public-sector-workers-to-go-through-self-verification-before-salaries-in-2027/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T10:00:00.000Z",
+      "summary": "Government will require all public sector workers and pensioners to undergo biometric self-verification before receiving salaries in 2027, linking payroll to Ghana Card data to eliminate…"
+    },
     {
       "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
       "link": "https://thehighstreetjournal.com/from-consumption-to-lasting-legacies-ghanas-resource-money-to-fund-only-critical-infrastructure-projects/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T16:52:51.000Z",
       "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said."
-    },
-    {
-      "title": "Court Dismisses Stay Applications in Skytrain Case, Grants Recall of Former Akonta Mines Manager in Tano Nimiri Trial",
-      "link": "https://thehighstreetjournal.com/court-dismisses-stay-applications-in-skytrain-case-grants-recall-of-former-akonta-mines-manager-in-tano-nimiri-trial/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T16:15:33.000Z",
-      "summary": "With the applications dismissed and the recall request granted, both cases are set for further proceedings next week."
     }
   ]
 };
