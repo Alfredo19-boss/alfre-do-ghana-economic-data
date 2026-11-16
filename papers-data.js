@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T21:26:22.455Z",
+  "updated": "2026-11-16T21:46:21.669Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "No permit, no clearance – Customs blocks release of right-hand steering vehicles",
+      "link": "https://www.myjoyonline.com/no-permit-no-clearance-customs-blocks-release-of-right-hand-steering-vehicles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:27:00.000Z",
+      "summary": "The Customs Division has ordered officers to stop processing or releasing right-hand steering vehicles imported without valid permits from the Ministry of Transport.",
+      "categories": [
+        "National",
+        "Customs",
+        "right-hand steering vehicles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Rashid Seidu writes: Madina at the crossroads – Why Siidi must go unopposed",
       "link": "https://www.myjoyonline.com/rashid-seidu-writes-madina-at-the-crossroads-why-siidi-must-go-unopposed/",
@@ -124,21 +137,6 @@ window.GDC_PAPERS = {
         "Ghanaians",
         "Russia",
         "Young people"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
-      "link": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:13:32.000Z",
-      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national…",
-      "categories": [
-        "National",
-        "Technology",
-        "Dr Joseph Tandoh",
-        "Ghana",
-        "GSSTI"
       ],
       "site": "https://www.myjoyonline.com/"
     },
