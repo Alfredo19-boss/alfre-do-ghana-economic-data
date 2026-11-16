@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:10:09.339Z",
+  "updated": "2026-11-16T12:20:09.739Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC Ashanti election: Delegates receive fridges, TVs, blenders and cash",
+      "link": "https://www.myjoyonline.com/ndc-ashanti-election-delegates-receive-fridges-tvs-blenders-and-cash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:19:48.000Z",
+      "summary": "The just-ended Ashanti Regional Youth and Women’s Congress of the National Democratic Congress (NDC) was marked by the distribution of household appliances and cash to delegates by…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Election",
+        "Fridges",
+        "NDC",
+        "TVs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Disappointed but not discouraged’ – Atta Akyea reacts to dismissal of Wontumi’s bail application",
+      "link": "https://www.myjoyonline.com/disappointed-but-not-discouraged-atta-akyea-reacts-to-dismissal-of-wontumis-bail-application/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:15:35.000Z",
+      "summary": "Lawyer for embattled former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has said he is disappointed but not…",
+      "categories": [
+        "National",
+        "Atta Akyea",
+        "Bail application",
+        "Wontumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New Cedi notes: What does Ghana stand to gain?",
       "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
@@ -119,38 +150,6 @@ window.GDC_PAPERS = {
         "National",
         "Ghana Immigration Service",
         "Hamile dynamite explosion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Economy agenda needs clear roadmap, not just ambitious targets – Vicky Bright",
-      "link": "https://www.myjoyonline.com/new-economy-agenda-needs-clear-roadmap-not-just-ambitious-targets-vicky-bright/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:32:00.000Z",
-      "summary": "International corporate lawyer and entrepreneur Vicky Bright has backed the NDC government's ambition to transform Ghana's economy under its proposed 2027 New Economy agenda, but says a…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "NDC",
-        "new economy",
-        "Vicky Bright"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-      "link": "https://www.myjoyonline.com/us-basketball-player-arrested-with-34kg-of-cannabis-at-nigerian-airport/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:28:58.000Z",
-      "summary": "A basketball player from the US has been arrested in Nigeria with 33.95kg (75lbs) of cannabis in his luggage at the main airport in Lagos.",
-      "categories": [
-        "Africa",
-        "HP News 9",
-        "International",
-        "News",
-        "Cannabis",
-        "Nigerian airport",
-        "US Basketball player"
       ],
       "site": "https://www.myjoyonline.com/"
     },
