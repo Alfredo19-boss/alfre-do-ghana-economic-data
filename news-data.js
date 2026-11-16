@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T13:09:39.500Z",
+  "updated": "2026-11-16T13:19:38.541Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Dangote Pledges $50 Billion to Drive African Industrial Investment",
+      "link": "https://thehighstreetjournal.com/dangote-pledges-50bn-to-drive-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T13:15:00.000Z",
+      "summary": "African economies would struggle to attract sustained foreign investment unless domestic entrepreneurs demonstrated confidence in their markets through local investment and industrial…"
+    },
     {
       "title": "GIPA Banks on Reforms and Resilience to Attract Global Investors",
       "link": "https://thehighstreetjournal.com/gipa-banks-on-reforms-and-resilience/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T20:11:12.000Z",
       "summary": "The government plans to free up an additional GH¢1 billion for youth employment and apprenticeship programmes by removing the cap on funding allocated to the initiatives."
-    },
-    {
-      "title": "No new taxes in 2027 Budget as government moves to improve revenue collection – Ato Forson",
-      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-budget-as-government-moves-to-improve-revenue-collection-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T19:50:28.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says the government will not introduce any new taxes in 2027, opting instead to strengthen revenue collection and improve the administration of…"
     }
   ]
 };
