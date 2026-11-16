@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:40:11.387Z",
+  "updated": "2026-11-16T10:50:08.754Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Manufacturer says Toyota Voxy is designed for paved roads and intra-city use, not inter-city travel – NRSA chair",
+      "link": "https://www.myjoyonline.com/the-manufacturer-says-toyota-voxy-is-designed-for-paved-roads-and-intra-city-use-not-inter-city-travel-nrsa-chair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T10:48:38.000Z",
+      "summary": "The Working Committee Chairman of the National Road Safety Authority (NRSA), Dr Godwin Kwesi Ayetor, says Toyota has told the Authority that Toyota Voxy vehicles were designed for paved…",
+      "categories": [
+        "National",
+        "Toyota Voxy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AFCON 2027Q: Black Stars target second win ahead of Somalia return fixture",
       "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-target-second-win-ahead-of-somalia-return-fixture/",
@@ -142,20 +154,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "COP Maame Tiwaa honoured as ‘Outstanding Female Police Officer’ at Ghana Women Awards",
-      "link": "https://www.myjoyonline.com/cop-maame-tiwaa-honoured-as-outstanding-female-police-officer-at-ghana-women-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T09:19:32.000Z",
-      "summary": "Technical Advisor to the Interior Minister, COP Maame Yaa Tiwaa Addo-Danquah, has been honoured for her distinguished service in the Ghana Police Service at the 2026 Ghana Women Awards. She…",
-      "categories": [
-        "National",
-        "COP Maame Tiwaa",
-        "Ghana Women Awards",
-        "Police Officer"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Sam Jonah eulogises Gen. Acheampong as ‘the builder Ghana forgot’",
