@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:50:08.754Z",
+  "updated": "2026-11-16T11:00:10.658Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,24 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Speaker Bagbin in Abuja to address global PR forum",
+      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-in-abuja-to-address-global-pr-forum.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T10:55:41.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "The Manufacturer says Toyota Voxy is designed for paved roads and intra-city use, not inter-city travel – NRSA chair",
       "link": "https://www.myjoyonline.com/the-manufacturer-says-toyota-voxy-is-designed-for-paved-roads-and-intra-city-use-not-inter-city-travel-nrsa-chair/",
       "source": "MyJoyOnline",
       "published": "2026-11-16T10:48:38.000Z",
       "summary": "The Working Committee Chairman of the National Road Safety Authority (NRSA), Dr Godwin Kwesi Ayetor, says Toyota has told the Authority that Toyota Voxy vehicles were designed for paved…",
       "categories": [
+        "HP News 2",
         "National",
         "Toyota Voxy"
       ],
@@ -215,17 +227,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-holds-discussions-with-guan-chiefs.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T08:55:19.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt to recruit 10,000 teachers in 2027- Haruna Iddrisu",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-to-recruit-10-000-teachers-in-2027-haruna-iddrisu.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T08:43:47.000Z",
       "summary": "",
       "categories": [
         "General News"
