@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T19:26:48.880Z",
+  "updated": "2026-11-16T19:36:51.146Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "GACL exposes 1,000 schoolchildren to aviation careers",
+      "link": "https://gna.org.gh/2026/11/gacl-exposes-1000-schoolchildren-to-aviation-careers/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-16T19:33:42.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
       "link": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:00:00.000Z",
       "summary": "Ghana has mandated a total ban on raw cocoa exports by 2030 to capture more global value. The government requires domestic processing facilities to refine 50% of cocoa locally by 2028 and…"
-    },
-    {
-      "title": "‘Stop making people pay for poor service’, Chief of Staff tells public institutions",
-      "link": "https://www.myjoyonline.com/stop-making-people-pay-for-poor-service-chief-of-staff-tells-public-institutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T06:02:00.000Z",
-      "summary": "A mother takes time off work to register her child’s birth. She makes the trip to the registration office, only to learn at the counter that she needs another document. The instruction…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T19:26:51.751Z",
+  "updated": "2026-11-16T19:36:56.430Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Police seek stronger Netherlands partnership on drug and human trafficking",
+      "link": "https://www.myjoyonline.com/ghana-police-seek-stronger-netherlands-partnership-on-drug-and-human-trafficking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T19:28:15.000Z",
+      "summary": "The Ghana Police Service is strengthening its security cooperation with the Netherlands to tackle human trafficking, drug trafficking, vehicle-related crimes and other transnational…",
+      "categories": [
+        "National",
+        "Christian Tetteh Yohuno",
+        "Drug trafficking",
+        "Ghana Police Service",
+        "Human trafficking",
+        "Netherlands"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accra summit makes the case for African culture in the Culture Global Stocktake",
       "link": "https://www.myjoyonline.com/accra-summit-makes-the-case-for-african-culture-in-the-culture-global-stocktake/",
@@ -116,19 +132,6 @@ window.GDC_PAPERS = {
         "National",
         "Top Story",
         "Cashew"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra–Kumasi Expressway – Ghana must not miss the digital infrastructure opportunity",
-      "link": "https://www.myjoyonline.com/accra-kumasi-expressway-ghana-must-not-miss-the-digital-infrastructure-opportunity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:32:12.000Z",
-      "summary": "The Accra–Kumasi Expressway is one of Ghana’s most consequential infrastructure investments in recent years. But its significance should not be measured only in kilometres of asphalt…",
-      "categories": [
-        "National",
-        "Accra–Kumasi Expressway",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
