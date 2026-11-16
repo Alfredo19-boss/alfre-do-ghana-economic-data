@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T12:39:39.489Z",
+  "updated": "2026-11-16T12:49:39.367Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:37:04.000Z",
+      "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…"
+    },
     {
       "title": "Dangote Says Africa Needs More Mega Corporations to Sustain SMEs",
       "link": "https://thehighstreetjournal.com/dangote-saysafricaneeds-mega-corporations/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T19:09:43.000Z",
       "summary": "Government is committing GH¢30 billion to its proposed New Economy Programme in 2027, as part of efforts to transform Ghana’s economic structure, expand businesses and create jobs…"
-    },
-    {
-      "title": "Government targets 8% GDP growth, unemployment below 8% by 2030",
-      "link": "https://www.myjoyonline.com/government-targets-8-gdp-growth-unemployment-below-8-by-2030/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T18:50:18.000Z",
-      "summary": "The government is targeting real gross domestic product (GDP) growth of about 8 per cent and an unemployment rate below 8 per cent by 2030 under its New Economy programme. Finance Minister…"
     }
   ]
 };

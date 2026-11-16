@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:40:08.886Z",
+  "updated": "2026-11-16T12:50:09.369Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,64 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
+      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:50:03.000Z",
+      "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dangote challenges Ghana to tap 450m West African market, boost local production",
+      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-450m-west-african-market-boost-local-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:48:01.000Z",
+      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "In Focus",
+        "National",
+        "News",
+        "Dangote",
+        "Ghana",
+        "Trade hub"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dr Akushika Andoh urges Ghanaian creatives to build businesses beyond their professions",
+      "link": "https://www.myjoyonline.com/dr-akushika-andoh-urges-ghanaian-creatives-to-build-businesses-beyond-their-professions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:47:42.000Z",
+      "summary": "Head of the Department of Marketing at the University of Professional Studies, Accra (UPSA), Dr Juliana Akushika Andoh, has urged Ghanaian creatives and public figures to look beyond their…",
+      "categories": [
+        "HP Entertainment 2",
+        "Radio & TV",
+        "creatives",
+        "Dr Akushika Andoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sarkodie’s attempt at fashion business highlights need for strong business structures – Nana Yaw Wiredu",
+      "link": "https://www.myjoyonline.com/sarkodies-attempt-at-fashion-business-highlights-need-for-strong-business-structures-nana-yaw-wiredu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:43:16.000Z",
+      "summary": "Media entrepreneur and founder of Oneplay Africa, Nana Yaw Wiredu, says Ghanaian artistes who venture into businesses outside music need strong management teams and operational structures…",
+      "categories": [
+        "Art & Design",
+        "HP Entertainment 3",
+        "Nana Yaw Wiredu",
+        "Sark Collection",
+        "Sarkodie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
       "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
@@ -81,53 +139,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "QIC to host 30-hour praise and worship event for 30th anniversary",
-      "link": "https://www.myjoyonline.com/qic-to-host-30-hour-praise-and-worship-event-for-30th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:20:52.000Z",
-      "summary": "QIC will host a 30-hour non-stop praise and worship event, dubbed Amplified Praise, to mark its 30th anniversary.",
-      "categories": [
-        "Events",
-        "30th anniversary",
-        "Amplified Praise",
-        "QIC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wontumi to pursue bail at Court of Appeal after High Court dismissal – Atta Akyea",
-      "link": "https://www.myjoyonline.com/wontumi-to-pursue-bail-at-court-of-appeal-after-high-court-dismissal-atta-akyea/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:20:11.000Z",
-      "summary": "The legal team of former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, plans to renew its application for bail at the…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Atta Akyea",
-        "High court dismissal",
-        "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC Ashanti election: Delegates receive fridges, TVs, blenders and cash",
-      "link": "https://www.myjoyonline.com/ndc-ashanti-election-delegates-receive-fridges-tvs-blenders-and-cash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:19:48.000Z",
-      "summary": "The just-ended Ashanti Regional Youth and Women’s Congress of the National Democratic Congress (NDC) was marked by the distribution of household appliances and cash to delegates by…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Politics",
-        "Election",
-        "Fridges",
-        "NDC",
-        "TVs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Farmers will produce if buyers are guaranteed – President Mahama urges investors to secure markets for farm produce",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-investors-to-guarantee-markets-for-ghanaian-farmers.html",
       "source": "Daily Graphic",
@@ -137,21 +148,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "‘Disappointed but not discouraged’ – Atta Akyea reacts to dismissal of Wontumi’s bail application",
-      "link": "https://www.myjoyonline.com/disappointed-but-not-discouraged-atta-akyea-reacts-to-dismissal-of-wontumis-bail-application/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:15:35.000Z",
-      "summary": "Lawyer for embattled former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has said he is disappointed but not…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Atta Akyea",
-        "Bail application",
-        "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case over disagreement with court",
