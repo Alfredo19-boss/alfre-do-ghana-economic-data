@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T06:55:29.933Z",
+  "updated": "2026-11-16T07:05:30.790Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget: Economists back 2027 Budget • Demand jobs, infrastructure, lower cost of living",
+      "link": "https://ghanaiantimes.com.gh/2027-budget-economists-back-2027-budget-demand-jobs-infrastructure-lower-cost-of-living/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:02:12.000Z",
+      "summary": "SOME economists, policy analysts and members of the public have welcomed the 2027 Budget and Economic Policy of the government, describing its focus on fiscal discipline, economic stability…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Stop producing graduates without jobs — Prof. Aryeetey",
       "link": "https://ghanaiantimes.com.gh/stop-producing-graduates-without-jobs-prof-aryeetey/",
@@ -141,17 +153,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Crime",
         "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2 remanded over murder of 39-year-old woman in Oti Region",
-      "link": "https://ghanaiantimes.com.gh/2-remanded-over-murder-of-39-year-old-woman-in-oti-region/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:25:46.000Z",
-      "summary": "TWO men have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Rejoice Sena Akpaku, in the Oti Region. The…",
-      "categories": [
-        "Crime"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
