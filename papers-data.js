@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T21:56:23.685Z",
+  "updated": "2026-11-16T22:46:34.857Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,6 +49,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-16T21:27:00.000Z",
       "summary": "The Customs Division has ordered officers to stop processing or releasing right-hand steering vehicles imported without valid permits from the Ministry of Transport.",
       "categories": [
+        "HP News 7",
         "National",
         "Customs",
         "right-hand steering vehicles"
