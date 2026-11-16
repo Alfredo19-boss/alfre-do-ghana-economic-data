@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T06:25:29.781Z",
+  "updated": "2026-11-16T06:35:32.549Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Discipline and excellence must go hand in hand",
+      "link": "https://ghanaiantimes.com.gh/discipline-and-excellence-must-go-hand-in-hand/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:34:48.000Z",
+      "summary": "THE celebration of 150 years of Mfantsipim School is more than an occasion to look back on a proud institutional history. It is also an opportunity to reflect on the state of education in…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bole-Bamboi MP congratulates new NDC Savannah executives, calls for unity ahead of 2028",
+      "link": "https://www.myjoyonline.com/bole-bamboi-mp-congratulates-new-ndc-savannah-executives-calls-for-unity-ahead-of-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T06:31:42.000Z",
+      "summary": "The Member of Parliament for Bole-Bamboi, Yusif Sulemana, has congratulated newly elected executives of the National Democratic Congress (NDC) in the Savannah Region, urging party members…",
+      "categories": [
+        "National",
+        "Bole-Bamboi MP",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2 teachers remanded over alleged sodomy",
+      "link": "https://ghanaiantimes.com.gh/2-teachers-remanded-over-alleged-sodomy/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:28:11.000Z",
+      "summary": "TWO teachers from Aduman Senior High School in the Ashanti Region have been remanded into police custody by the Nsuta Circuit Court following allegations of sodomy involving two minor…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2 remanded over murder of 39-year-old woman in Oti Region",
+      "link": "https://ghanaiantimes.com.gh/2-remanded-over-murder-of-39-year-old-woman-in-oti-region/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:25:46.000Z",
+      "summary": "TWO men have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Rejoice Sena Akpaku, in the Oti Region. The…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GRA uncovers massive VAT violations at Achimota Shopping Centre",
       "link": "https://ghanaiantimes.com.gh/gra-uncovers-massive-vat-violations-at-achimota-shopping-centre/",
@@ -126,20 +173,6 @@ window.GDC_PAPERS = {
         "Ablakwa",
         "Ghana",
         "visa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ajumako 24-hour economy market 9% complete; traders raise concerns over project location",
-      "link": "https://www.myjoyonline.com/ajumako-24-hour-economy-market-9-complete-traders-raise-concerns-over-project-location/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:14:00.000Z",
-      "summary": "The construction of a 24-hour economy market in the Ajumako-Enyan-Essiam District in the Central Region, which commenced in April this year, is progressing steadily, with nine per cent of…",
-      "categories": [
-        "National",
-        "24-hour economy",
-        "Ajumako",
-        "market"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -273,41 +306,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-13T16:01:31.000Z",
       "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced a US$2 billion investment in Energy Infrastructure under Pillar three of the New Economy Programme. Presenting the 2027…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Armed Forces details GH¢100,000 support for Kumasi stampede victim",
-      "link": "https://ghanaiantimes.com.gh/ghana-armed-forces-details-gh%c2%a2100000-support-for-kumasi-stampede-victim/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T15:59:42.000Z",
-      "summary": "The Ghana Armed Forces (GAF) has clarified the support it has provided to Sandra Baafi, a victim of the Kumasi recruitment stampede, following a viral publication about her condition on…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Focus is on economy, not presidency – Ato Forson",
-      "link": "https://ghanaiantimes.com.gh/focus-is-on-economy-not-presidency-ato-forson/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T15:57:09.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has described calls for him to consider contesting for the presidency as premature, urging Ghanaians to focus on the current government’s mandate. He…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dangote expresses interest in processing more than 50% of Ghana’s cocoa locally by 2028 – Ato Forson",
-      "link": "https://ghanaiantimes.com.gh/dangote-expresses-interest-in-processing-more-than-50-of-ghanas-cocoa-locally-by-2028-ato-forson/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T15:53:52.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has disclosed that Nigerian billionaire Aliko Dangote has expressed interest in using Ghana as a hub to process more than 50 per cent of the country’s…",
       "categories": [
         "Hot!",
         "News"
