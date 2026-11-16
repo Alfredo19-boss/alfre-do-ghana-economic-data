@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T13:00:08.815Z",
+  "updated": "2026-11-16T13:10:10.014Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -43,6 +43,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-16T12:52:38.000Z",
       "summary": "The trial of former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Solomon Asamoah, and a former Board Chairman of the fund, Professor Christopher…",
       "categories": [
+        "HP News 9",
         "National",
         "News",
         "GIIF",

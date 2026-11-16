@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T12:59:40.198Z",
+  "updated": "2026-11-16T13:09:39.500Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "GIPA Banks on Reforms and Resilience to Attract Global Investors",
+      "link": "https://thehighstreetjournal.com/gipa-banks-on-reforms-and-resilience/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T13:08:00.000Z",
+      "summary": "The summit is designed to present Ghana's investment potential to the global business community and strengthen the country's appeal as a destination for capital"
+    },
     {
       "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
       "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
@@ -41,6 +48,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:37:04.000Z",
       "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…"
+    },
+    {
+      "title": "Dangote plans sugar investment in Ghana, targets nearly 50,000 jobs",
+      "link": "https://www.myjoyonline.com/dangote-plans-sugar-investment-in-ghana-targets-nearly-50000-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:31:28.000Z",
+      "summary": "African business magnate Aliko Dangote has announced plans to partner with the Ghanaian government to invest in sugar production, a project he says could create nearly 50,000 jobs."
     },
     {
       "title": "Dangote Says Africa Needs More Mega Corporations to Sustain SMEs",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T19:50:28.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says the government will not introduce any new taxes in 2027, opting instead to strengthen revenue collection and improve the administration of…"
-    },
-    {
-      "title": "Government to invest $1bn in Pwalugu multipurpose dam, first phase expected by 2029",
-      "link": "https://www.myjoyonline.com/government-to-invest-1bn-in-pwalugu-multipurpose-dam-first-phase-expected-by-2029/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T19:17:03.000Z",
-      "summary": "Government is planning to invest US$1 billion in the full completion of the Pwalugu Multipurpose Dam, as part of efforts to boost agricultural production, expand agro-processing and…"
-    },
-    {
-      "title": "Government targets self-sufficiency in sugar production by 2030",
-      "link": "https://www.myjoyonline.com/government-targets-self-sufficiency-in-sugar-production-by-2030/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T19:12:16.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana will pursue self-sufficiency in sugar production by 2030 as part of efforts to reduce dependence on imports and strengthen domestic…"
     }
   ]
 };
