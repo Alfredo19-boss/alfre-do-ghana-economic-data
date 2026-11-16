@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T11:10:08.626Z",
+  "updated": "2026-11-16T11:20:08.296Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
+      "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:08:15.000Z",
+      "summary": "The Ghana High Commission in London and the Okyeman Amanonehene, Otuapem Oduduobiribi Benkyi, have agreed to strengthen collaboration to channel diaspora skills, expertise and capital into…"
+    },
     {
       "title": "High Court Refuses Chairman Wontumi Bail Pending Appeal; to Remain in Prison",
       "link": "https://thehighstreetjournal.com/high-court-refuses-chairman-wontumi-bail-pending-appeal-to-remain-in-prison/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T17:14:32.000Z",
       "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and…"
-    },
-    {
-      "title": "Ghana Pushes for Inclusive AI Development as Digital Divide Threatens to Widen",
-      "link": "https://thehighstreetjournal.com/ghana-pushes-for-inclusive-ai-development-as-digital-divide-threatens-to-widen/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T17:03:30.000Z",
-      "summary": "Ghana is calling for inclusive AI and digital infrastructure development, stressing affordability, local innovation, technology transfer and skills training to ensure emerging technologies…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:10:11.240Z",
+  "updated": "2026-11-16T11:20:11.086Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2028 demands unity, sacrifice and strategic action – Muntaka tells new NDC executives",
+      "link": "https://www.myjoyonline.com/2028-demands-unity-sacrifice-and-strategic-action-muntaka-tells-new-ndc-executives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:15:34.000Z",
+      "summary": "The Minister of the Interior and Member of Parliament for Asawase, Muntaka Mubarak, has called on members of the National Democratic Congress (NDC) in the Ashanti Region to close ranks and…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Politics",
+        "Muntaka Mubarak",
+        "NDC",
+        "The Minister of the Interior",
+        "Unity"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vote-buying could derail Ghana’s democratic gains – NDC’s Kabila",
+      "link": "https://www.myjoyonline.com/vote-buying-could-derail-ghanas-democratic-gains-ndcs-kabila/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:13:19.000Z",
+      "summary": "A member of the National Democratic Congress (NDC) Communications Team and Deputy National Organiser hopeful, Matthias Alagbo Kabila, has warned that the growing monetisation of internal…",
+      "categories": [
+        "National",
+        "Politics",
+        "Democratic gains",
+        "Ghana",
+        "Vote buying"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
       "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
@@ -116,39 +148,6 @@ window.GDC_PAPERS = {
         "Dr Godwin Kwesi Ayetor",
         "NRSA",
         "Toyota Voxy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court dismisses Wontumi’s bail application pending appeal",
-      "link": "https://www.myjoyonline.com/court-dismisses-wontumis-bail-application-pending-appeal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T10:05:59.000Z",
-      "summary": "An Accra High Court has dismissed an application by former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, seeking bail…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Bail application",
-        "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over 6,000 visas revoked in crackdown on foreigners seeking US-born babies’ citizenship",
-      "link": "https://www.myjoyonline.com/over-6000-visas-revoked-in-crackdown-on-foreigners-seeking-us-born-babies-citizenship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T09:49:30.000Z",
-      "summary": "The United States has revoked more than 6,000 visas and intensified efforts to dismantle international networks suspected of facilitating birth tourism and visa fraud.",
-      "categories": [
-        "HP News 1",
-        "International",
-        "National",
-        "News",
-        "Babies",
-        "Citizenship",
-        "US",
-        "Visas"
       ],
       "site": "https://www.myjoyonline.com/"
     },
