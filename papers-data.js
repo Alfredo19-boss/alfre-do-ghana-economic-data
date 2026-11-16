@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T05:25:31.603Z",
+  "updated": "2026-11-16T05:35:31.426Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Advertisers Association rejects political claims over crackdown on illegal billboards",
+      "link": "https://www.myjoyonline.com/advertisers-association-rejects-political-claims-over-crackdown-on-illegal-billboards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:28:05.000Z",
+      "summary": "The Advertising Association of Ghana (AAG) has rejected suggestions that the ongoing demolition of unauthorised billboards and advertising structures is politically motivated, saying the…",
+      "categories": [
+        "National",
+        "AAG",
+        "Billboards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Assemblies to face sanctions over illegal billboards – Deputy Minister",
+      "link": "https://www.myjoyonline.com/assemblies-to-face-sanctions-over-illegal-billboards-deputy-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:26:00.000Z",
+      "summary": "The Deputy Minister for Local Government, Chieftaincy and Religious Affairs, Rita Naa Odoley Sowah, has warned Metropolitan, Municipal and District Chief Executives (MMDCEs) that they will…",
+      "categories": [
+        "National",
+        "Billboards",
+        "Deputy Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Every family should have a Family Pharmacist: The future of personalised pharmaceutical care in Ghana",
       "link": "https://www.myjoyonline.com/every-family-should-have-a-family-pharmacist-the-future-of-personalised-pharmaceutical-care-in-ghana/",
@@ -98,33 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Ablakwa",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Joyce Bawah Mogtari hails NDC’s democratic process, expresses confidence in party’s future",
-      "link": "https://www.myjoyonline.com/joyce-bawah-mogtari-hails-ndcs-democratic-process-expresses-confidence-in-partys-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:54:00.000Z",
-      "summary": "Senior Aide and Advisor to President John Mahama, Joyce Bawah Mogtari, has expressed renewed confidence in the National Democratic Congress (NDC) 's future following the successful…",
-      "categories": [
-        "National",
-        "Joyce Bawah Mogtari",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Moroccan Sahara: France reiterates ‘unwavering’ position in support of Morocco’s sovereignty and of autonomy",
-      "link": "https://www.myjoyonline.com/moroccan-sahara-france-reiterates-unwavering-position-in-support-of-moroccos-sovereignty-and-of-autonomy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:52:00.000Z",
-      "summary": "France reiterated on Friday its \"unwavering\" position that \"the present and future of Western Sahara fall within the framework of Moroccan sovereignty,\" according to a statement from the…",
-      "categories": [
-        "Africa",
-        "France",
-        "Morocco",
-        "Western Sahara"
       ],
       "site": "https://www.myjoyonline.com/"
     },
