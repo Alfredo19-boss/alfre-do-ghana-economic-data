@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T09:40:10.619Z",
+  "updated": "2026-11-16T09:50:13.428Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "FIFA worse under Infantino than Blatter – Klopp",
+      "link": "https://www.myjoyonline.com/fifa-worse-under-infantino-than-blatter-klopp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T09:41:35.000Z",
+      "summary": "FIFA president Gianni Infantino should be replaced as he has made world football's governing body worse than ​it was under disgraced former chief Sepp Blatter, Germany coach ‌Juergen Klopp…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "FIFA President",
+        "Gianni Infantino",
+        "Jurgen Klopp",
+        "Sepp Blatter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Deceptive marketing in the digital era",
       "link": "https://www.myjoyonline.com/deceptive-marketing-in-the-digital-era/",
@@ -139,22 +155,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NAIMOS arrests 23 suspected illegal miners, destroys 33 changfan machines in Tarkwa crackdown",
-      "link": "https://www.myjoyonline.com/naimos-arrests-23-suspected-illegal-miners-destroys-33-changfan-machines-in-tarkwa-crackdown/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:09:26.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has arrested 23 suspected illegal miners and destroyed 33 changfan machines and 47 water pumps in a two-day crackdown on…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Changfan",
-        "ILLEGAL MINERS",
-        "NAIMOS",
-        "Tarkwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Partner local universities for joint degree programmes - Education minister to European universities",
