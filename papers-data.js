@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:25:31.357Z",
+  "updated": "2026-11-16T04:35:31.327Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Oil prices fall on expectations of coming supply surplus",
+      "link": "https://www.myjoyonline.com/oil-prices-fall-on-expectations-of-coming-supply-surplus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:26:00.000Z",
+      "summary": "Oil prices fell on Monday on expectations of a supply surplus as shipments from the Middle East through the Strait of Hormuz have nearly returned to pre-war levels and the US took steps to…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+      "link": "https://www.myjoyonline.com/nearly-1500-migrants-arrive-in-canary-islands-in-one-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:18:00.000Z",
+      "summary": "Almost 1,500 migrants arrived in Spain's Canary Islands on Saturday, the highest number in a single day since 2020, the EFE ​news agency reported on Sunday, citing the maritime rescue…",
+      "categories": [
+        "Africa",
+        "Canary Islands",
+        "Migrants"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Klopp says FIFA worse under Infantino than Blatter",
+      "link": "https://www.myjoyonline.com/klopp-says-fifa-worse-under-infantino-than-blatter/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:10:00.000Z",
+      "summary": "FIFA president Gianni Infantino should be replaced, as he has made world football's governing body worse than it was under disgraced former chief Sepp Blatter, Germany coach Jürgen Klopp…",
+      "categories": [
+        "Football",
+        "Gianni Infantino",
+        "Jurgen Klopp",
+        "Sepp Blatter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
       "link": "https://www.myjoyonline.com/salah-breaks-egypt-scoring-record-as-tunisia-lose-to-libya/",
@@ -84,46 +124,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Tennis",
         "Alexander Zverev"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Belgium come back to beat Italy to quarters spot",
-      "link": "https://www.myjoyonline.com/belgium-come-back-to-beat-italy-to-quarters-spot/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:17:00.000Z",
-      "summary": "Belgium qualified for the Nations League quarter-finals at the expense of Italy after coming from behind to beat the Azzurri.",
-      "categories": [
-        "Football",
-        "Belgium",
-        "Italy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kroupi scores as France beat Turkey to take top spot",
-      "link": "https://www.myjoyonline.com/kroupi-scores-as-france-beat-turkey-to-take-top-spot/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:11:00.000Z",
-      "summary": "Bournemouth forward Eli Junior Kroupi scored his first goal for France as they beat Turkey to seal a place in the Nations League quarter-finals.",
-      "categories": [
-        "Football",
-        "France",
-        "Turkey",
-        "Uefa Nations League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tenerife return to action after death of De Miguel",
-      "link": "https://www.myjoyonline.com/tenerife-return-to-action-after-death-of-de-miguel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:05:00.000Z",
-      "summary": "Tenerife played their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
-      "categories": [
-        "Football",
-        "Jesus de Miguel",
-        "Tenerife"
       ],
       "site": "https://www.myjoyonline.com/"
     },
