@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T21:46:21.669Z",
+  "updated": "2026-11-16T21:56:23.685Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dikan brings the story of Nkrumah to more than 6,000 people",
+      "link": "https://www.myjoyonline.com/dikan-brings-the-story-of-nkrumah-to-more-than-6000-people/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:46:19.000Z",
+      "summary": "The programme combined four screenings at Dikan with events at four other locations, ending at the National Theatre on 13 November 2026.",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Diaspora",
+        "HP Entertainment 1",
+        "Movies",
+        "Theatre",
+        "Travel and Tourism",
+        "Chris Hesse",
+        "Dikan",
+        "Kwame Nkrumah",
+        "Paul Ninson",
+        "The Eyes of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "No permit, no clearance – Customs blocks release of right-hand steering vehicles",
       "link": "https://www.myjoyonline.com/no-permit-no-clearance-customs-blocks-release-of-right-hand-steering-vehicles/",
@@ -119,24 +141,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "grow",
         "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Open Letter To the Government: Who’s protecting young Ghanaians travelling to Russia? Are they safe?",
-      "link": "https://www.myjoyonline.com/open-letter-to-the-government-whos-protecting-young-ghanaians-travelling-to-russia-are-they-safe/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:29:26.000Z",
-      "summary": "Dear President John Dramani Mahama and Honourable Samuel Okudzeto Ablakwa, Minister for Foreign Affairs, I write as a concerned Ghanaian journalist, increasingly worried about reports of…",
-      "categories": [
-        "Features",
-        "HP News 6",
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Ghanaians",
-        "Russia",
-        "Young people"
       ],
       "site": "https://www.myjoyonline.com/"
     },
