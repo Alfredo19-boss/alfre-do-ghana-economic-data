@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T14:35:10.925Z",
+  "updated": "2026-11-16T14:45:10.941Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Transforming diabetes care: One blue point at a time",
+      "link": "https://ghanaiantimes.com.gh/transforming-diabetes-care-one-blue-point-at-a-time/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T14:44:51.000Z",
+      "summary": "On World Diabetes Day , I think about what access to diabetes care means for a person living far from a capital city. Who will recognise their risk? Who will diagnose their condition early?…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Police hospital announces mass burial of 350 unclaimed bodies",
       "link": "https://ghanaiantimes.com.gh/police-hospital-announces-mass-burial-of-350-unclaimed-bodies/",
@@ -305,17 +317,6 @@ window.GDC_PAPERS = {
       "summary": "GHANA’S Black Challenge began their WAFF Amputee Football World Cup campaign with a 2-0 defeat to Angola on Saturday at San Martin in San Juan de los Lagos, Mexico. Ghana conceded one goal…",
       "categories": [
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GCB Bank records GH¢2.87bn profit in 9 months, targets GH¢3.7bn for 2026",
-      "link": "https://ghanaiantimes.com.gh/gcb-bank-records-gh%c2%a22-87bn-profit-in-9-months-targets-gh%c2%a23-7bn-for-2026/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:30:44.000Z",
-      "summary": "GCB Bank PLC has recorded a Profit Before Tax (PBT) of GH¢2.87 billion for the nine months ending September 2026, representing a 42.6 per cent increase over the corresponding period last…",
-      "categories": [
-        "Business"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }

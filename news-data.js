@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T14:35:08.803Z",
+  "updated": "2026-11-16T14:44:40.671Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "BoG warns El Niño could trigger food inflation, threaten cocoa export earnings",
+      "link": "https://www.myjoyonline.com/bog-warns-el-nino-could-trigger-food-inflation-threaten-cocoa-export-earnings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T14:41:25.000Z",
+      "summary": "The Bank of Ghana (BoG) has identified the potential impact of an unusually strong El Niño weather phenomenon as a major risk to Ghana’s inflation outlook, agricultural production and…"
+    },
     {
       "title": "Solomon Asamoah’s Lawyer Withdraws Representation in Skytrain Trial After Court Refuses Adjournment",
       "link": "https://thehighstreetjournal.com/solomon-asamoahs-lawyer-withdraws-representation-in-skytrain-trial-after-court-refuses-adjournment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T00:17:00.000Z",
       "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…"
-    },
-    {
-      "title": "Ghana’s economy would have crashed in 2026 without tough decisions – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghanas-economy-would-have-crashed-in-2026-without-tough-decisions-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:05:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…"
     }
   ]
 };
