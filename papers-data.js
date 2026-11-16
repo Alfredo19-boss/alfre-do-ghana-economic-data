@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T19:21:34.174Z",
+  "updated": "2026-11-16T19:26:51.751Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra summit makes the case for African culture in the Culture Global Stocktake",
+      "link": "https://www.myjoyonline.com/accra-summit-makes-the-case-for-african-culture-in-the-culture-global-stocktake/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T19:19:06.000Z",
+      "summary": "The Climate x Culture Summit in Accra opened with an acoustic performance by EliThreeSixty. Later in the programme, a live band from the Restoration Artistes Network took the stage with…",
+      "categories": [
+        "Arts and Culture",
+        "National",
+        "Climate x Culture Summit",
+        "Culture Global Stocktake"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Climate x Culture Summit makes the case for culture in the Culture Global Stocktake",
       "link": "https://www.myjoyonline.com/climate-x-culture-summit-makes-the-case-for-culture-in-the-culture-global-stocktake/",
@@ -115,20 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "Accra–Kumasi Expressway",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deputy Communications Minister urges action-oriented partnerships to expand satellite connectivity",
-      "link": "https://www.myjoyonline.com/deputy-communications-minister-urges-action-oriented-partnerships-to-expand-satellite-connectivity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:21:37.000Z",
-      "summary": "The Deputy Minister for Communication, Digital Technology and Innovations, Mohammed Adam Sukparu, has called for stronger partnerships among government, industry players and international…",
-      "categories": [
-        "National",
-        "Technology",
-        "Mohammed Adam Sukparu",
-        "satellite connectivity"
       ],
       "site": "https://www.myjoyonline.com/"
     },
