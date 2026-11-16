@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T12:20:01.158Z",
+  "updated": "2026-11-16T12:29:40.994Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Dangote Says Africa Needs More Mega Corporations to Sustain SMEs",
+      "link": "https://thehighstreetjournal.com/dangote-saysafricaneeds-mega-corporations/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T12:20:36.000Z",
+      "summary": "Large corporations provide the demand, contracts and commercial opportunities that allow small and medium-sized enterprises to expand"
+    },
     {
       "title": "New Cedi notes: What does Ghana stand to gain?",
       "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T18:50:18.000Z",
       "summary": "The government is targeting real gross domestic product (GDP) growth of about 8 per cent and an unemployment rate below 8 per cent by 2030 under its New Economy programme. Finance Minister…"
-    },
-    {
-      "title": "Ecobank Ties X’mas Rewards to Savings, Borrowing and Digital Banking",
-      "link": "https://thehighstreetjournal.com/ecobank-ties-xmas-rewards-to-savings-borrowing-and-digital-banking/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T18:49:52.000Z",
-      "summary": "Ecobank Ghana's Blue Christmas campaign rewards customer banking activities while encouraging regular savings, responsible borrowing and increased use of digital banking services."
     }
   ]
 };

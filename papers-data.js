@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:20:09.739Z",
+  "updated": "2026-11-16T12:30:09.770Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,58 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Daily Insight for CEOs: The CEO’s role in strengthening corporate governance",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-corporate-governance-3/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:25:12.000Z",
+      "summary": "Strong corporate governance is essential to building a credible, accountable and sustainable organization. It provides the structures, policies and processes through which an organization…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "CEOs",
+        "Daily Insight",
+        "Ernest De-Graft Egyir"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "QIC to host 30-hour praise and worship event for 30th anniversary",
+      "link": "https://www.myjoyonline.com/qic-to-host-30-hour-praise-and-worship-event-for-30th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:20:52.000Z",
+      "summary": "QIC will host a 30-hour non-stop praise and worship event, dubbed Amplified Praise, to mark its 30th anniversary.",
+      "categories": [
+        "Events",
+        "30th anniversary",
+        "Amplified Praise",
+        "QIC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wontumi to pursue bail at Court of Appeal after High Court dismissal – Atta Akyea",
+      "link": "https://www.myjoyonline.com/wontumi-to-pursue-bail-at-court-of-appeal-after-high-court-dismissal-atta-akyea/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:20:11.000Z",
+      "summary": "The legal team of former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, plans to renew its application for bail at the…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Atta Akyea",
+        "High court dismissal",
+        "Wontumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NDC Ashanti election: Delegates receive fridges, TVs, blenders and cash",
       "link": "https://www.myjoyonline.com/ndc-ashanti-election-delegates-receive-fridges-tvs-blenders-and-cash/",
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:19:48.000Z",
       "summary": "The just-ended Ashanti Regional Youth and Women’s Congress of the National Democratic Congress (NDC) was marked by the distribution of household appliances and cash to delegates by…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "Politics",
@@ -44,6 +90,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-16T12:15:35.000Z",
       "summary": "Lawyer for embattled former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has said he is disappointed but not…",
       "categories": [
+        "HP News 3",
         "National",
         "Atta Akyea",
         "Bail application",
@@ -101,7 +148,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case",
+      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case over disagreement with court",
       "link": "https://www.graphic.com.gh/news/general-news/skytrain-trial-solomon-asamoahs-lawyer-withdraws-from-case.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T11:55:51.000Z",
@@ -110,48 +157,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "No new taxes in 2027 will bring relief to Ghanaians – Taxpayers League",
-      "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-will-bring-relief-to-ghanaians-taxpayers-league/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:43:31.000Z",
-      "summary": "Taxpayers League Ghana says the government's decision not to introduce new taxes in the 2027 Budget will help ease the financial burden on households and businesses.",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Hopeson Adorye",
-        "Taxpayers League Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Keep new taxes off the table in 2027 – Hopeson Adorye tells government",
-      "link": "https://www.myjoyonline.com/keep-new-taxes-off-the-table-in-2027-hopeson-adorye-tells-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:39:47.000Z",
-      "summary": "Taxpayers League Ghana has urged the government to maintain its commitment not to introduce new taxes throughout 2027, while demanding greater accountability, transparency and efficiency in…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Hopeson Adorye",
-        "Taxpayers League Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIS buries officer killed in Hamile dynamite explosion",
-      "link": "https://www.myjoyonline.com/gis-buries-officer-killed-in-hamile-dynamite-explosion/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:36:40.000Z",
-      "summary": "The Ghana Immigration Service (GIS) has held a solemn burial and thanksgiving service in honour of Immigration Control Officer (ICO) Shadrack Danso, who died following a dynamite explosion…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Ghana Immigration Service",
-        "Hamile dynamite explosion"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Speaker Bagbin in Abuja to address global PR forum",
