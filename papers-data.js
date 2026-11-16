@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T14:10:15.966Z",
+  "updated": "2026-11-16T14:20:11.897Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority leader criticises removal of Big Six from new banknotes",
+      "link": "https://ghanaiantimes.com.gh/minority-leader-criticises-removal-of-big-six-from-new-banknotes/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T14:18:15.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has criticised the government’s decision to remove the collective portrait of the Big Six from Ghana’s newly unveiled banknotes, describing it as a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana showcases carbon market leadership, urges African unity on critical minerals at COP31",
+      "link": "https://www.myjoyonline.com/ghana-showcases-carbon-market-leadership-urges-african-unity-on-critical-minerals-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T14:07:58.000Z",
+      "summary": "Ghana has showcased its growing leadership in international carbon markets, positioning its experience under the Paris Agreement as a model for other African countries.",
+      "categories": [
+        "National",
+        "carbon market leadership",
+        "COP31",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "King Ayisoba earns first Grammy nomination",
+      "link": "https://www.myjoyonline.com/king-ayisoba-earns-first-grammy-nomination/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T14:07:36.000Z",
+      "summary": "Ghanaian traditional musician King Ayisoba has secured his first Grammy nomination in the Best African Music Performance category for the 2027 Grammy Awards.",
+      "categories": [
+        "HP Entertainment 2",
+        "Music",
+        "first nomination",
+        "Grammy Awards",
+        "King Ayisoba"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gomoa Ajumako Akwansrahene pledges development drive, unveils support fund plan",
       "link": "https://www.myjoyonline.com/gomoa-ajumako-akwansrahene-pledges-development-drive-unveils-support-fund-plan/",
@@ -124,32 +165,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Where have you been all this while?’ – Bawah Mogtari challenges Boako over credit ratings",
-      "link": "https://www.myjoyonline.com/where-have-you-been-all-this-while-bawah-mogtari-challenges-boako-over-credit-ratings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:36:21.000Z",
-      "summary": "Senior Presidential Advisor and Aide to President John Dramani Mahama, Joyce Bawah Mogtari, has hit back at Tano North MP Dr Gideon Boako following his assertion that Ghana’s sovereign…",
+      "title": "'Your currency will never be stable if you are an importer': Dangote's bold message to Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/your-currency-will-never-be-stable-if-you-are-an-importer-dangotes-bold-message-to-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T13:03:04.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Gideon Boako",
-        "Joyce Bawah Mogtari",
-        "Junk"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afia Schwarzenegger handed 63-day jail term over contempt of court",
-      "link": "https://www.myjoyonline.com/afia-schwarzenegger-handed-63-day-jail-term-over-contempt-of-court/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:33:58.000Z",
-      "summary": "Media personality Afia Schwarzenegger has been sentenced to 63 days’ imprisonment by the Accra High Court after being found guilty of contempt.",
-      "categories": [
-        "National",
-        "Afia Schwarzenegger",
-        "court",
-        "Sammy Gyamfi"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Farmers will produce if buyers are guaranteed – President Mahama urges investors to secure markets for farm produce",
@@ -211,17 +235,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-catholic-bishops-call-for-targeted-state-of-emergency.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T09:08:32.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama charges new Labour Commission to deliver fair, speedy justice for workers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-charges-new-labour-commission-to-deliver-fair-speedy-justice-for-workers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T09:05:59.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -302,18 +315,6 @@ window.GDC_PAPERS = {
       "summary": "THE Ghana Stock Exchange (GSE) recorded a positive average share price performance during the trading week of November 9 to 13, 2026, with the market posting a 0.34 per cent gain despite…",
       "categories": [
         "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC elects new regional executives ahead of 2028 elections",
-      "link": "https://ghanaiantimes.com.gh/ndc-elects-new-regional-executives-ahead-of-2028-elections/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:22:26.000Z",
-      "summary": "DELEGATES of the governing National Democratic Congress (NDC) on Saturday elected new regional executive officers to steer the party’s administrative and political affairs for the next four…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }

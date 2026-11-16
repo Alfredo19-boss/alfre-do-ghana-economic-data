@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T14:10:09.348Z",
+  "updated": "2026-11-16T14:20:09.380Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Solomon Asamoah’s Lawyer Withdraws Representation in Skytrain Trial After Court Refuses Adjournment",
+      "link": "https://thehighstreetjournal.com/solomon-asamoahs-lawyer-withdraws-representation-in-skytrain-trial-after-court-refuses-adjournment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T14:10:55.000Z",
+      "summary": "Proceedings in the ongoing Skytrain trial took an unexpected turn on Monday, November 16, 2026, after counsel for the first accused person (A1), Solomon Asamoah, the former Chief Executive…"
+    },
     {
       "title": "Ghana offers carbon market roadmap to African countries",
       "link": "https://www.ghanabusinessnews.com/2026/11/16/ghana-offers-carbon-market-roadmap-to-african-countries/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T00:05:00.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana’s economy would have crashed in 2026 if the government had not taken tough decisions to restrain spending and restore discipline in public…"
-    },
-    {
-      "title": "The rise and fall of Jensen Huang – how the tech superstar became mired in scandal",
-      "link": "https://www.myjoyonline.com/the-rise-and-fall-of-jensen-huang-how-the-tech-superstar-became-mired-in-scandal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T21:58:00.000Z",
-      "summary": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen…"
     }
   ]
 };
