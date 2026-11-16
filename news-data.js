@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T11:59:55.908Z",
+  "updated": "2026-11-16T12:09:39.933Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "New Cedi notes: What does Ghana stand to gain?",
+      "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:08:39.000Z",
+      "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?"
+    },
+    {
+      "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
+      "link": "https://thehighstreetjournal.com/from-consumption-to-lasting-legacies-ghanas-resource-money-to-fund-only-critical-infrastructure-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T12:01:00.000Z",
+      "summary": "Ghana plans to legally ring-fence all natural resource revenues for legacy infrastructure projects, replacing the petroleum-only framework with a unified law and consolidating MIIF and GIIF…"
+    },
     {
       "title": "Ghana Targets More Exporters as Trade Ministry Promises Support for Manufacturers",
       "link": "https://thehighstreetjournal.com/ghana-targets-more-exporters-as-trade-ministry-promises-support-for-manufacturers/",
@@ -62,13 +76,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T10:00:00.000Z",
       "summary": "Government will require all public sector workers and pensioners to undergo biometric self-verification before receiving salaries in 2027, linking payroll to Ghana Card data to eliminate…"
-    },
-    {
-      "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
-      "link": "https://thehighstreetjournal.com/from-consumption-to-lasting-legacies-ghanas-resource-money-to-fund-only-critical-infrastructure-projects/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T09:30:00.000Z",
-      "summary": "Ghana plans to legally ring-fence all natural resource revenues for legacy infrastructure projects, replacing the petroleum-only framework with a unified law and consolidating MIIF and GIIF…"
     },
     {
       "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T18:49:52.000Z",
       "summary": "Ecobank Ghana's Blue Christmas campaign rewards customer banking activities while encouraging regular savings, responsible borrowing and increased use of digital banking services."
-    },
-    {
-      "title": "SmartPensions targets informal sector workers as People’s Pension Trust, Pan-African launch retirement scheme",
-      "link": "https://www.myjoyonline.com/smartpensions-targets-informal-sector-workers-as-peoples-pension-trust-pan-african-launch-retirement-scheme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T18:48:24.000Z",
-      "summary": "The initiative, launched at Madina market in Accra, is designed to enable traders, artisans, drivers, entrepreneurs and other self-employed individuals to build retirement savings through…"
     }
   ]
 };

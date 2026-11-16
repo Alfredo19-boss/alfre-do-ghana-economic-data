@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:00:09.143Z",
+  "updated": "2026-11-16T12:10:09.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,38 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "New Cedi notes: What does Ghana stand to gain?",
+      "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:08:39.000Z",
+      "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?",
+      "categories": [
+        "Banking and Finance",
+        "HP Opinion 5",
+        "National",
+        "Opinion",
+        "Cedi",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The New Cedi at the Altar: Beyond the portrait, beneath the gift",
+      "link": "https://www.myjoyonline.com/the-new-cedi-at-the-altar-beyond-the-portrait-beneath-the-gift/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:03:15.000Z",
+      "summary": "1. INTRODUCTION Money occupies an important place in human society. From the bustling markets of Makola to the smallest village shops across Ghana, money facilitates the exchange of goods…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "Bank of Ghana",
+        "Cedi",
+        "portrait"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Sandbox Beach Club not being politically targeted – State Housing Company",
       "link": "https://www.myjoyonline.com/sandbox-beach-club-not-being-politically-targeted-state-housing-company/",
       "source": "MyJoyOnline",
@@ -36,6 +68,17 @@ window.GDC_PAPERS = {
         "SHC"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case",
+      "link": "https://www.graphic.com.gh/news/general-news/skytrain-trial-solomon-asamoahs-lawyer-withdraws-from-case.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T11:55:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "No new taxes in 2027 will bring relief to Ghanaians – Taxpayers League",
@@ -112,37 +155,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NRSA boss rejects calls to lobby Customs over right-hand drive vehicle restrictions",
-      "link": "https://www.myjoyonline.com/nrsa-boss-rejects-calls-to-lobby-customs-over-right-hand-drive-vehicle-restrictions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:27:31.000Z",
-      "summary": "The Director General of the National Road Safety Authority (NRSA), Abraham Amaliba, says he rejected several calls asking him to intervene with Customs to relax restrictions on the…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Abraham Amaliba",
-        "NRSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s 2027 Budget: Investing in Ghana’s energy future",
-      "link": "https://www.myjoyonline.com/ghanas-2027-budget-investing-in-ghanas-energy-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:23:48.000Z",
-      "summary": "The intersection of energy reliability and industrial capacity remains the most critical determinant of economic growth in developing economies.",
-      "categories": [
-        "HP Opinion 3",
-        "National",
-        "Opinion",
-        "2027 Budget",
-        "Energy",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Speaker Bagbin in Abuja to address global PR forum",
       "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-in-abuja-to-address-global-pr-forum.html",
       "source": "Daily Graphic",
@@ -213,17 +225,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chinas-imports-from-ghana-surge-166-under-zero-tariff-policy-chinese-ambassador.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T08:58:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama holds discussions with Guan chiefs",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-holds-discussions-with-guan-chiefs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T08:55:19.000Z",
       "summary": "",
       "categories": [
         "General News"
