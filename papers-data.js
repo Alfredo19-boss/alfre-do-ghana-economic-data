@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T00:23:49.054Z",
+  "updated": "2026-11-16T03:45:29.319Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Suspected China spy linked to Nvidia’s ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.myjoyonline.com/suspected-china-spy-linked-to-nvidias-ex-boss-left-in-2025-megaspeed-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:31:00.000Z",
+      "summary": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.",
+      "categories": [
+        "International",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "link": "https://www.myjoyonline.com/mexican-drug-lord-miguel-angel-felix-gallardo-dies-age-80/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:05:00.000Z",
+      "summary": "Notorious Mexican drug lord Miguel Ángel Félix Gallardo has died in a hospital at age 80.",
+      "categories": [
+        "International",
+        "Drug lord",
+        "Mexican",
+        "Miguel Angel Felix Gallardo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ronaldinho, 46, makes comeback in Ravenna win",
       "link": "https://www.myjoyonline.com/ronaldinho-46-makes-comeback-in-ravenna-win/",
@@ -95,44 +122,6 @@ window.GDC_PAPERS = {
         "Movies",
         "Age of consent",
         "Russell Brand"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rates",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:14:55.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount.",
-      "categories": [
-        "Business",
-        "Economy",
-        "182-day",
-        "364-day",
-        "91-day",
-        "BoG",
-        "Interest rates",
-        "Ministry of Finance",
-        "T-Bills"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:14:55.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount.",
-      "categories": [
-        "Business",
-        "Economy",
-        "182-day",
-        "364-day",
-        "91-day",
-        "BoG",
-        "Interest rates",
-        "Ministry of Finance",
-        "T-Bills"
       ],
       "site": "https://www.myjoyonline.com/"
     },
