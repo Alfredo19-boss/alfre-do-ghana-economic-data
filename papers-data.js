@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T23:26:52.112Z",
+  "updated": "2026-11-16T23:46:51.314Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -86,6 +86,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "One-quarter of my family were born in Ghana – Dangote",
+      "link": "https://www.myjoyonline.com/one-quarter-of-my-family-were-born-in-ghana-dangote/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:22:00.000Z",
+      "summary": "Africa’s richest man, Aliko Dangote, has revealed a deep family connection to Ghana, disclosing that about one-quarter of his family members were born in the country.",
+      "categories": [
+        "News",
+        "Dangote",
+        "Ghana",
+        "Nigeria"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Rashid Seidu writes: Madina at the crossroads – Why Siidi must go unopposed",
       "link": "https://www.myjoyonline.com/rashid-seidu-writes-madina-at-the-crossroads-why-siidi-must-go-unopposed/",
       "source": "MyJoyOnline",
@@ -129,20 +143,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "grow",
         "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amantia Chief urges prioritisation of rural development to combat poverty and social vices",
-      "link": "https://www.myjoyonline.com/amantia-chief-urges-prioritisation-of-rural-development-to-combat-poverty-and-social-vices/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:55:07.000Z",
-      "summary": "Newly enstooled Chief of Amantia in the Asante Akyem South District, Nana Kwadwo Bredu III, has expressed concern over the neglect of rural development by successive governments.",
-      "categories": [
-        "Regional",
-        "Amantia Chief",
-        "Nana Kwadwo Bredu III",
-        "rural development"
       ],
       "site": "https://www.myjoyonline.com/"
     },
