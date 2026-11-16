@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:10:09.290Z",
+  "updated": "2026-11-16T10:20:10.875Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Toyota Voxy crashes: 16 accidents per 1,000 vehicles against national average of six – NRSA",
+      "link": "https://www.myjoyonline.com/toyota-voxy-crashes-16-accidents-per-1000-vehicles-against-national-average-of-six-nrsa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T10:17:09.000Z",
+      "summary": "The National Road Safety Authority (NRSA) says Toyota Voxy vehicles record approximately 16 crashes per 1,000 vehicles, nearly three times Ghana's national average of six crashes per 1,000…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "News",
+        "Dr Godwin Kwesi Ayetor",
+        "NRSA",
+        "Toyota Voxy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Court dismisses Wontumi’s bail application pending appeal",
       "link": "https://www.myjoyonline.com/court-dismisses-wontumis-bail-application-pending-appeal/",
@@ -207,28 +223,10 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PNP criticises Ghana’s 2027 Budget over unfulfilled promises on women’s bank, poultry and jobs",
-      "link": "https://www.myjoyonline.com/pnp-criticises-ghanas-2027-budget-over-unfulfilled-promises-on-womens-bank-poultry-and-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:35:00.000Z",
-      "summary": "The People’s National Party (PNP) has criticised the 2027 Budget, describing it as a collection of recycled promises and accusing the government of failing to demonstrate tangible results…",
-      "categories": [
-        "Economy",
-        "National",
-        "Politics",
-        "Budget 2027",
-        "Jobs",
-        "PNP",
-        "Poultry",
-        "women's bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority urges Koforidua traders to let economic hardship guide 2028 vote",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-minority-urges-koforidua-traders-to-let-economic-hardship-guide-2028-vote.html",
+      "title": "Sam Jonah proposes new Union Govt for Ghana",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-sam-jonah-proposes-new-union-govt-for-ghana.html",
       "source": "Daily Graphic",
-      "published": "2026-11-16T08:27:01.000Z",
+      "published": "2026-11-16T08:33:08.000Z",
       "summary": "",
       "categories": [
         "Politics"
