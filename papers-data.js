@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T20:26:50.901Z",
+  "updated": "2026-11-16T20:36:23.442Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Open Letter To the Government: Who’s protecting young Ghanaians travelling to Russia? Are they safe?",
+      "link": "https://www.myjoyonline.com/open-letter-to-the-government-whos-protecting-young-ghanaians-travelling-to-russia-are-they-safe/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:29:26.000Z",
+      "summary": "Dear President John Dramani Mahama and Honourable Samuel Okudzeto Ablakwa, Minister for Foreign Affairs, I write as a concerned Ghanaian journalist, increasingly worried about reports of…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
       "link": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
@@ -119,21 +130,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Exim Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
-      "link": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:45:35.000Z",
-      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Belinda Akorfa Adokpa",
-        "Cashew",
-        "NADKANSCO LIMITED"
       ],
       "site": "https://www.myjoyonline.com/"
     },
