@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:15:29.690Z",
+  "updated": "2026-11-16T04:25:31.357Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,15 +21,57 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
+      "link": "https://www.myjoyonline.com/salah-breaks-egypt-scoring-record-as-tunisia-lose-to-libya/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:02:00.000Z",
+      "summary": "Tunisia’s dismal ​run continued with a 2-0 home defeat by Libya in an Africa Cup of Nations qualifier on ‌Friday, while Mohamed Salah became Egypt’s record scorer in their 5-0 rout of…",
+      "categories": [
+        "Africa",
+        "Football",
+        "Egypt",
+        "Libya",
+        "Mo Salah",
+        "Tunisia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria cautions against travel via Ethiopia’s main airport due to altitude",
+      "link": "https://www.myjoyonline.com/nigeria-cautions-against-travel-via-ethiopias-main-airport-due-to-altitude/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:54:00.000Z",
+      "summary": "Nigeria's government has cautioned its citizens, especially those with medical conditions, against travelling via Ethiopia's main airport because of its altitude.",
+      "categories": [
+        "Africa",
+        "Ethiopia",
+        "Nigeria"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia’s ex-boss left in 2025, Megaspeed says",
       "link": "https://www.myjoyonline.com/suspected-china-spy-linked-to-nvidias-ex-boss-left-in-2025-megaspeed-says/",
       "source": "MyJoyOnline",
-      "published": "2026-11-16T03:31:00.000Z",
+      "published": "2026-11-16T03:44:00.000Z",
       "summary": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.",
       "categories": [
         "International",
         "Jensen Huang",
         "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sabalenka apologises and says viral comment ‘not directed at Svitolina’",
+      "link": "https://www.myjoyonline.com/sabalenka-apologises-and-says-viral-comment-not-directed-at-svitolina/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:36:00.000Z",
+      "summary": "Aryna Sabalenka has apologised and denied claims that she insulted opponent Elina Svitolina after a viral clip showed her swearing during her WTA Finals defeat by the Ukrainian.",
+      "categories": [
+        "Tennis",
+        "Aryna Sabalenka",
+        "Elina Svitolina"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -82,48 +124,6 @@ window.GDC_PAPERS = {
         "Football",
         "Jesus de Miguel",
         "Tenerife"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "United States thrash Haiti in Pochettino’s penultimate match",
-      "link": "https://www.myjoyonline.com/united-states-thrash-haiti-in-pochettinos-penultimate-match/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:56:00.000Z",
-      "summary": "Mauricio Pochettino guided the United States to a thumping 6-0 win over Haiti in his penultimate game in charge.",
-      "categories": [
-        "Football",
-        "Haiti",
-        "Mauricio Pochettino",
-        "United States"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Portugal humbled in first game since Ronaldo retirement",
-      "link": "https://www.myjoyonline.com/portugal-humbled-in-first-game-since-ronaldo-retirement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:46:00.000Z",
-      "summary": "Portugal suffered a heavy loss in their first game since Cristiano Ronaldo announced his international retirement as former Manchester United striker Rasmus Hojlund scored twice to help…",
-      "categories": [
-        "Football",
-        "Cristiano Ronaldo",
-        "International retirement",
-        "Portugal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ben White has ‘exciting future’ despite boos – Declan Rice",
-      "link": "https://www.myjoyonline.com/ben-white-has-exciting-future-despite-boos-declan-rice/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T02:35:00.000Z",
-      "summary": "Declan Rice has defended Arsenal teammate Ben White after the defender was booed at Wembley during England's 2-1 win over Croatia on Thursday.",
-      "categories": [
-        "Football",
-        "Ben White",
-        "Declan Rice",
-        "England"
       ],
       "site": "https://www.myjoyonline.com/"
     },
