@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T09:50:13.428Z",
+  "updated": "2026-11-16T10:00:08.751Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Over 6,000 visas revoked in crackdown on foreigners seeking US-born babies’ citizenship",
+      "link": "https://www.myjoyonline.com/over-6000-visas-revoked-in-crackdown-on-foreigners-seeking-us-born-babies-citizenship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T09:49:30.000Z",
+      "summary": "The United States has revoked more than 6,000 visas and intensified efforts to dismantle international networks suspected of facilitating birth tourism and visa fraud.",
+      "categories": [
+        "HP News 1",
+        "International",
+        "National",
+        "News",
+        "Babies",
+        "Citizenship",
+        "US",
+        "Visas"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "FIFA worse under Infantino than Blatter – Klopp",
       "link": "https://www.myjoyonline.com/fifa-worse-under-infantino-than-blatter-klopp/",
@@ -127,21 +145,6 @@ window.GDC_PAPERS = {
         "Anglogold",
         "December",
         "obuasi trade show"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAIMOS arrests 30 suspects, intercepts 35 trucks in Ketu North sand-winning operation",
-      "link": "https://www.myjoyonline.com/naimos-arrests-30-suspects-intercepts-35-trucks-in-ketu-north-sand-winning-operation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:19:46.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has arrested 30 people and intercepted 35 tipper trucks in a crackdown on suspected illegal sand-winning activities in the…",
-      "categories": [
-        "National",
-        "Ketu North",
-        "NAIMOS",
-        "sand winning",
-        "tipper trucks"
       ],
       "site": "https://www.myjoyonline.com/"
     },
