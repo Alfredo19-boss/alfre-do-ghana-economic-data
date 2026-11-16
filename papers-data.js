@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:55:31.979Z",
+  "updated": "2026-11-16T05:05:32.660Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,32 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ablakwa highlights Mahama’s Volta projects",
+      "link": "https://www.myjoyonline.com/ablakwa-highlights-mahamas-volta-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:01:00.000Z",
+      "summary": "Samuel Okudzeto Ablakwa, Member of Parliament (MP) for North Tongu, has described the Volivo bridge construction and the 12,000-capacity FIFA-standard stadium in the Volta region as a big…",
+      "categories": [
+        "National",
+        "Ablakwa",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Joyce Bawah Mogtari hails NDC’s democratic process, expresses confidence in party’s future",
+      "link": "https://www.myjoyonline.com/joyce-bawah-mogtari-hails-ndcs-democratic-process-expresses-confidence-in-partys-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:54:00.000Z",
+      "summary": "Senior Aide and Advisor to President John Mahama, Joyce Bawah Mogtari, has expressed renewed confidence in the National Democratic Congress (NDC) 's future following the successful…",
+      "categories": [
+        "National",
+        "Joyce Bawah Mogtari",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Moroccan Sahara: France reiterates ‘unwavering’ position in support of Morocco’s sovereignty and of autonomy",
       "link": "https://www.myjoyonline.com/moroccan-sahara-france-reiterates-unwavering-position-in-support-of-moroccos-sovereignty-and-of-autonomy/",
       "source": "MyJoyOnline",
@@ -31,6 +57,19 @@ window.GDC_PAPERS = {
         "France",
         "Morocco",
         "Western Sahara"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana receives up to 62 tonnes of mercury annually through illicit channels",
+      "link": "https://www.myjoyonline.com/ghana-receives-up-to-62-tonnes-of-mercury-annually-through-illicit-channels/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:49:00.000Z",
+      "summary": "Ghana receives between 42.5 and 62 tonnes of mercury annually through illicit channels for use in artisanal and small-scale gold mining, stakeholders have disclosed.",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Mercury"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -86,49 +125,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Canary Islands",
         "Migrants"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Klopp says FIFA worse under Infantino than Blatter",
-      "link": "https://www.myjoyonline.com/klopp-says-fifa-worse-under-infantino-than-blatter/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:10:00.000Z",
-      "summary": "FIFA president Gianni Infantino should be replaced, as he has made world football's governing body worse than it was under disgraced former chief Sepp Blatter, Germany coach Jürgen Klopp…",
-      "categories": [
-        "Football",
-        "Gianni Infantino",
-        "Jurgen Klopp",
-        "Sepp Blatter"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
-      "link": "https://www.myjoyonline.com/salah-breaks-egypt-scoring-record-as-tunisia-lose-to-libya/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:02:00.000Z",
-      "summary": "Tunisia’s dismal ​run continued with a 2-0 home defeat by Libya in an Africa Cup of Nations qualifier on ‌Friday, while Mohamed Salah became Egypt’s record scorer in their 5-0 rout of…",
-      "categories": [
-        "Africa",
-        "Football",
-        "Egypt",
-        "Libya",
-        "Mo Salah",
-        "Tunisia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria cautions against travel via Ethiopia’s main airport due to altitude",
-      "link": "https://www.myjoyonline.com/nigeria-cautions-against-travel-via-ethiopias-main-airport-due-to-altitude/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:54:00.000Z",
-      "summary": "Nigeria's government has cautioned its citizens, especially those with medical conditions, against travelling via Ethiopia's main airport because of its altitude.",
-      "categories": [
-        "Africa",
-        "Ethiopia",
-        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },

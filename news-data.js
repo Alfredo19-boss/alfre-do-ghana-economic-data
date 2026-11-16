@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T04:55:29.779Z",
+  "updated": "2026-11-16T05:05:30.367Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,41 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Mahama to Commission GH¢148.4m Cashew Processing Factory in Techiman",
+      "link": "https://thehighstreetjournal.com/mahama-to-commission-gh%c2%a2148-4m-cashew-processing-factory-in-techiman/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:03:00.000Z",
+      "summary": "Ghana EXIM Bank-backed facility will process 100 tonnes of raw cashew nuts daily as government pushes for greater local value addition."
+    },
+    {
+      "title": "The $10Bn New Economy: Where is the Place of SMEs in Programme Design? – SME Coach Questions",
+      "link": "https://thehighstreetjournal.com/the-10bn-new-economy-where-is-the-place-of-smes-in-programme-design-sme-coach-questions/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:02:00.000Z",
+      "summary": "SME Consultant Dickson Assan has criticised the $10 billion New Economy Programme for neglecting SMEs, arguing that without dedicated funding and technical support, Ghana risks undermining…"
+    },
+    {
+      "title": "Ghana’s Pension & Private Equity Funds: A Viable Way to Fund Nation’s Industrialization Agenda – Dr. Donkor",
+      "link": "https://thehighstreetjournal.com/ghanas-pension-private-equity-funds-a-viable-way-to-fund-nations-industrialization-agenda-dr-donkor/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:01:00.000Z",
+      "summary": "Dr. Kwabena Donkor urges Ghana to mobilise pension funds, private equity and domestic financial institutions to finance industrialisation, with government providing seed capital while…"
+    },
+    {
+      "title": "T-Bills Slip in Budget Week, Record 22% Undersubscription Despite Drop in Interest Rate",
+      "link": "https://thehighstreetjournal.com/t-bills-slip-in-budget-week-record-22-undersubscription-despite-drop-in-interest-rate/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:00:00.000Z",
+      "summary": "Ghana’s T-Bills auction recorded 22.23% undersubscription during the 2027 Budget week, with government raising GH¢3.452 billion against a GH¢5.572 billion target, despite declining yields…"
+    },
+    {
+      "title": "The Cedi Deserves Better: Why Ghana Must Get Its History Right",
+      "link": "https://thehighstreetjournal.com/the-cedi-deserves-better-why-ghana-must-get-its-history-right/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:00:00.000Z",
+      "summary": "The article urges the Bank of Ghana to verify and explain the GH¢50 portrait controversy, arguing accurate history and transparency underpin public trust in currency."
+    },
     {
       "title": "Ghana’s difficult reforms are bearing fruit – IMF",
       "link": "https://www.myjoyonline.com/ghanas-difficult-reforms-are-bearing-fruit-imf/",
@@ -1035,41 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T15:18:09.000Z",
       "summary": "Premier Towers occupies a prominent place in Accra’s Ministries enclave, beside SSNIT Pension House. But location alone has not delivered what a pension-funded commercial property should…"
-    },
-    {
-      "title": "BoG Pushes for New Currency Law to Tighten Counterfeiting Penalties",
-      "link": "https://thehighstreetjournal.com/bog-pushes-for-new-currency-law-to-tighten-counterfeiting-penalties/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T14:15:00.000Z",
-      "summary": "Proposed legislation will replace the 1964 Currency Act, strengthen anti-counterfeiting measures, and introduce tougher penalties for currency-related offences."
-    },
-    {
-      "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
-      "link": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T14:02:51.000Z",
-      "summary": "President John Dramani Mahama has called on Ghanaians to put aside political differences and take collective responsibility for protecting the cedi, insisting that the national currency…"
-    },
-    {
-      "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
-      "link": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:45:21.000Z",
-      "summary": "Former Second Lady Hajia Samira Bawumia has called for an annual investment of about US$4 billion to accelerate Africa’s transition to clean cooking, warning that inadequate funding is…"
-    },
-    {
-      "title": "UKGCC mobilises corporate, public support to strengthen neonatal care at PMLCH",
-      "link": "https://www.myjoyonline.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:41:51.000Z",
-      "summary": "Speaking during the presentation ceremony to PMLCH, Adjoba Kyiamah, Executive Director of the UKGCC, shared the strategic vision behind the initiative, emphasising that marking a decade of…"
-    },
-    {
-      "title": "GHIB partners with property specialists to connect African clients with London residential developments",
-      "link": "https://www.myjoyonline.com/ghib-partners-with-property-specialists-to-connect-african-clients-with-london-residential-developments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T13:37:44.000Z",
-      "summary": "Ghana International Bank plc (GHIB) has announced a collaboration with Daniel Ford International and the Berkeley Group to provide African clients with information on selected residential…"
     }
   ]
 };
