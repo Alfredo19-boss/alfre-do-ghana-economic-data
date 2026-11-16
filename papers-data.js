@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T03:45:29.319Z",
+  "updated": "2026-11-16T03:55:29.106Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,49 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ben White has ‘exciting future’ despite boos – Declan Rice",
+      "link": "https://www.myjoyonline.com/ben-white-has-exciting-future-despite-boos-declan-rice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:35:00.000Z",
+      "summary": "Declan Rice has defended Arsenal teammate Ben White after the defender was booed at Wembley during England's 2-1 win over Croatia on Thursday.",
+      "categories": [
+        "Football",
+        "Ben White",
+        "Declan Rice",
+        "England"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ancelotti and captain Raphinha were sent off as Japan beat Brazil",
+      "link": "https://www.myjoyonline.com/ancelotti-and-captain-raphinha-were-sent-off-as-japan-beat-brazil/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:25:00.000Z",
+      "summary": "Manager Carlo Ancelotti and captain Raphinha were sent off as Brazil were beaten by a stoppage-time winner in a friendly against Japan in Singapore.",
+      "categories": [
+        "Football",
+        "Ancelotti",
+        "Brazil",
+        "Japan",
+        "Raphinha"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "England hold on to stun world champions Spain in thriller",
+      "link": "https://www.myjoyonline.com/england-hold-on-to-stun-world-champions-spain-in-thriller/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:16:00.000Z",
+      "summary": "England produced a superb display – their finest under head coach Thomas Tuchel – and survived a late siege to earn a landmark victory against World Cup holders Spain in Madrid.",
+      "categories": [
+        "Football",
+        "Englaand",
+        "Spain",
+        "Uefa Nations League"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -82,46 +125,6 @@ window.GDC_PAPERS = {
         "International",
         "Prince Harry",
         "Ukraine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "link": "https://www.myjoyonline.com/three-men-sentenced-to-death-in-jordan-over-fatal-church-mass-shooting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:45:00.000Z",
-      "summary": "A Jordanian court has sentenced three men to death by hanging for carrying out a fatal mass shooting at a church last month.",
-      "categories": [
-        "International",
-        "Jordan",
-        "Sentenced to death"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "link": "https://www.myjoyonline.com/judo-champion-shakes-up-french-presidential-race-with-surprise-candidacy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:34:00.000Z",
-      "summary": "Apart from an overwhelming urge to pin one's opponent to the floor of the house, there is no obvious connection between politics and the world of top-level judo.",
-      "categories": [
-        "International",
-        "France",
-        "Teddy Riner"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Staggered age of consent to be discussed after Brand case, minister says",
-      "link": "https://www.myjoyonline.com/staggered-age-of-consent-to-be-discussed-after-brand-case-minister-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:21:00.000Z",
-      "summary": "A discussion over a staggered age of consent is to take place, the work and pensions secretary has said, as the government faces calls to change the law following the case against Russell…",
-      "categories": [
-        "International",
-        "Movies",
-        "Age of consent",
-        "Russell Brand"
       ],
       "site": "https://www.myjoyonline.com/"
     },
