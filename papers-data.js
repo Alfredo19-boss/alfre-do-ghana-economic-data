@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T05:15:30.439Z",
+  "updated": "2026-11-16T05:25:31.603Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,60 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Every family should have a Family Pharmacist: The future of personalised pharmaceutical care in Ghana",
+      "link": "https://www.myjoyonline.com/every-family-should-have-a-family-pharmacist-the-future-of-personalised-pharmaceutical-care-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:21:14.000Z",
+      "summary": "One such approach is introducing and promoting Family Pharmacist services, so every family can access a designated pharmacist who understands the family's pharmaceutical and…",
+      "categories": [
+        "Opinion",
+        "Family pharmacist"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama to commission 30,000-tonne cashew processing factory in Techiman",
+      "link": "https://www.myjoyonline.com/mahama-to-commission-30000-tonne-cashew-processing-factory-in-techiman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:21:00.000Z",
+      "summary": "President John Dramani Mahama is expected to commission the Nadkansco Cashew Processing Factory in Techiman on Monday, November 16, in a move aimed at strengthening local agro-processing…",
+      "categories": [
+        "National",
+        "Cashew",
+        "Mahama",
+        "Techiman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana targets more visa waiver deals by end of 2027 – Ablakwa",
+      "link": "https://www.myjoyonline.com/ghana-targets-more-visa-waiver-deals-by-end-of-2027-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:20:54.000Z",
+      "summary": "Ghana is pursuing additional visa waiver agreements with countries across the world, with the government expecting to conclude more deals before the end of 2027, Foreign Affairs Minister…",
+      "categories": [
+        "National",
+        "Ablakwa",
+        "Ghana",
+        "visa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ajumako 24-hour economy market 9% complete; traders raise concerns over project location",
+      "link": "https://www.myjoyonline.com/ajumako-24-hour-economy-market-9-complete-traders-raise-concerns-over-project-location/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:14:00.000Z",
+      "summary": "The construction of a 24-hour economy market in the Ajumako-Enyan-Essiam District in the Central Region, which commenced in April this year, is progressing steadily, with nine per cent of…",
+      "categories": [
+        "National",
+        "24-hour economy",
+        "Ajumako",
+        "market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana records GHS209.7m in cybersecurity losses in nine months",
       "link": "https://www.myjoyonline.com/ghana-records-ghs209-7m-in-cybersecurity-losses-in-nine-months/",
@@ -71,61 +125,6 @@ window.GDC_PAPERS = {
         "France",
         "Morocco",
         "Western Sahara"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana receives up to 62 tonnes of mercury annually through illicit channels",
-      "link": "https://www.myjoyonline.com/ghana-receives-up-to-62-tonnes-of-mercury-annually-through-illicit-channels/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:49:00.000Z",
-      "summary": "Ghana receives between 42.5 and 62 tonnes of mercury annually through illicit channels for use in artisanal and small-scale gold mining, stakeholders have disclosed.",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Mercury"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s difficult reforms are bearing fruit – IMF",
-      "link": "https://www.myjoyonline.com/ghanas-difficult-reforms-are-bearing-fruit-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:45:50.000Z",
-      "summary": "The International Monetary Fund (IMF) says Ghana is reaping the benefits of difficult policy reforms, with stronger-than-expected growth, single-digit inflation and an improved fiscal…",
-      "categories": [
-        "Economy",
-        "HP News 7",
-        "National",
-        "IMF",
-        "Julie Kozack"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US officials say violence against Christians in Nigeria remains a key concern",
-      "link": "https://www.myjoyonline.com/us-officials-say-violence-against-christians-in-nigeria-remains-a-key-concern/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:35:00.000Z",
-      "summary": "Violence against Nigerian Christians remains a key concern, the US State Department said, a year after the Trump administration accused Nigeria of violating religious freedoms and…",
-      "categories": [
-        "Africa",
-        "HP News 8",
-        "Nigeria",
-        "Violence against Christians"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices fall on expectations of coming supply surplus",
-      "link": "https://www.myjoyonline.com/oil-prices-fall-on-expectations-of-coming-supply-surplus/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:26:00.000Z",
-      "summary": "Oil prices fell on Monday on expectations of a supply surplus as shipments from the Middle East through the Strait of Hormuz have nearly returned to pre-war levels and the US took steps to…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
