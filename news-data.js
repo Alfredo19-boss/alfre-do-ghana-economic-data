@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T20:16:31.735Z",
+  "updated": "2026-11-16T20:26:48.587Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
+      "link": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:13:32.000Z",
+      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national…"
+    },
+    {
+      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
+      "link": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:13:25.000Z",
+      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its…"
+    },
     {
       "title": "GACL exposes 1,000 schoolchildren to aviation careers",
       "link": "https://gna.org.gh/2026/11/gacl-exposes-1000-schoolchildren-to-aviation-careers/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:05:00.000Z",
       "summary": "Government has earmarked GH¢100.4 billion for capital expenditure and GH¢28 billion for Big Push projects in 2027, alongside major allocations for education, healthcare, agriculture and…"
-    },
-    {
-      "title": "$10Bn New Economy: Here Are All the Fiscal Targets Under the Ambitious Initiative",
-      "link": "https://thehighstreetjournal.com/10bn-new-economy-here-are-all-the-fiscal-targets-under-the-ambitious-initiative/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T09:01:06.000Z",
-      "summary": "Ghana’s $10 billion New Economy Programme targets 8% economic growth, unemployment below 8%, debt at 45% of GDP, single-digit inflation and interest rates, while prioritising…"
-    },
-    {
-      "title": "From Raw Beans Export to Rich Brands: Ghana Aims a Total Ban on Raw Cocoa Exports by 2030",
-      "link": "https://thehighstreetjournal.com/from-raw-beans-export-to-rich-brands-ghana-aims-a-total-ban-on-raw-cocoa-exports-by-2030/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T09:00:00.000Z",
-      "summary": "Ghana has mandated a total ban on raw cocoa exports by 2030 to capture more global value. The government requires domestic processing facilities to refine 50% of cocoa locally by 2028 and…"
     }
   ]
 };
