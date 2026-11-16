@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-15T23:58:48.358Z",
+  "updated": "2026-11-16T00:03:52.667Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "link": "https://www.myjoyonline.com/three-men-sentenced-to-death-in-jordan-over-fatal-church-mass-shooting/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:45:00.000Z",
+      "summary": "A Jordanian court has sentenced three men to death by hanging for carrying out a fatal mass shooting at a church last month.",
+      "categories": [
+        "International",
+        "Jordan",
+        "Sentenced to death"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Judo champion shakes up French presidential race with surprise candidacy",
       "link": "https://www.myjoyonline.com/judo-champion-shakes-up-french-presidential-race-with-surprise-candidacy/",
@@ -128,25 +141,6 @@ window.GDC_PAPERS = {
         "Emelia Ankmah",
         "George Opare-Addo",
         "Ministry of Youth Development"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
-      "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:05:12.000Z",
-      "summary": "IC Insights said, “We interpret raising gold sale requirements for large-scale miners as a reference to the newly established Ghana Accelerated National Reserves Accumulation Policy…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Cedi",
-        "Dollar",
-        "Forex Market",
-        "IC Insights",
-        "IMF",
-        "interbank market",
-        "PCI"
       ],
       "site": "https://www.myjoyonline.com/"
     },
