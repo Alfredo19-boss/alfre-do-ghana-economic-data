@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T14:20:11.897Z",
+  "updated": "2026-11-16T14:35:10.925Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police hospital announces mass burial of 350 unclaimed bodies",
+      "link": "https://ghanaiantimes.com.gh/police-hospital-announces-mass-burial-of-350-unclaimed-bodies/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T14:31:42.000Z",
+      "summary": "The Police Hospital in Accra has announced plans to conduct a mass burial of about 350 unclaimed and unidentified bodies currently kept at its mortuary. The exercise, scheduled for the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Minority leader criticises removal of Big Six from new banknotes",
       "link": "https://ghanaiantimes.com.gh/minority-leader-criticises-removal-of-big-six-from-new-banknotes/",
@@ -302,17 +314,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-16T07:30:44.000Z",
       "summary": "GCB Bank PLC has recorded a Profit Before Tax (PBT) of GH¢2.87 billion for the nine months ending September 2026, representing a 42.6 per cent increase over the corresponding period last…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GSE records positive 0.34% average share price gain …as trading value rises 15.37%",
-      "link": "https://ghanaiantimes.com.gh/gse-records-positive-0-34-average-share-price-gain-as-trading-value-rises-15-37/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:29:05.000Z",
-      "summary": "THE Ghana Stock Exchange (GSE) recorded a positive average share price performance during the trading week of November 9 to 13, 2026, with the market posting a 0.34 per cent gain despite…",
       "categories": [
         "Business"
       ],
