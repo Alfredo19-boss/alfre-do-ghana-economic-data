@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T13:50:10.729Z",
+  "updated": "2026-11-16T14:00:10.628Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Phlakes releases ‘Outside’ ahead of upcoming DLAR Vol. 2 project",
+      "link": "https://www.myjoyonline.com/phlakes-releases-outside-ahead-of-upcoming-dlar-vol-2-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:48:16.000Z",
+      "summary": "Ghanaian multidisciplinary artist Phlakes has released his latest single, Outside, a street-inspired record that brings together infectious sounds and a message centred on different…",
+      "categories": [
+        "Music",
+        "DLAR Vol 2",
+        "Outside",
+        "Phlakes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UESD, EPA call for shift to circular economy in waste management",
+      "link": "https://www.myjoyonline.com/uesd-epa-call-for-shift-to-circular-economy-in-waste-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:45:18.000Z",
+      "summary": "The University of Environment and Sustainable Development (UESD), Somanya, and the Environmental Protection Authority (EPA) have called for Ghana to adopt a circular economy promoting…",
+      "categories": [
+        "National",
+        "Economy",
+        "EPA",
+        "UESD",
+        "waste management"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Two dead from Monday morning crash at Buduburam",
       "link": "https://www.graphic.com.gh/news/general-news/two-dead-from-monday-morning-crash-at-buduburam.html",
@@ -118,34 +147,6 @@ window.GDC_PAPERS = {
         "Landscape",
         "Stones",
         "Tree"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama urges investors to guarantee markets for farmers to boost production",
-      "link": "https://www.myjoyonline.com/mahama-urges-investors-to-guarantee-markets-for-farmers-to-boost-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:31:15.000Z",
-      "summary": "President John Dramani Mahama has called on private investors to establish dependable markets for agricultural produce, saying guaranteed buyers would encourage farmers to increase…",
-      "categories": [
-        "National",
-        "farm produce",
-        "Farmers",
-        "Johm Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bagbin to address Global PR Forum in Abuja",
-      "link": "https://www.myjoyonline.com/bagbin-to-address-global-pr-forum-in-abuja/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:26:37.000Z",
-      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, is set to join an influential gathering of world leaders, policymakers and communication experts in Abuja, Nigeria, where…",
-      "categories": [
-        "National",
-        "Abuja",
-        "Alban Sumana Kingsford Bagbin",
-        "Global PR Forum"
       ],
       "site": "https://www.myjoyonline.com/"
     },

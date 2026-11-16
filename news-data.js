@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T13:50:08.477Z",
+  "updated": "2026-11-16T14:00:08.158Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 521)"
   ],
   "items": [
     {
@@ -48,6 +48,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T13:08:00.000Z",
       "summary": "The summit is designed to present Ghana's investment potential to the global business community and strengthen the country's appeal as a destination for capital"
+    },
+    {
+      "title": "There is decent work in the market for every graduate – GAMA President",
+      "link": "https://www.myjoyonline.com/there-is-decent-work-in-the-market-for-every-graduate-gama-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:00:00.000Z",
+      "summary": "President for Greater Accra Markets Association (GAMA), Madam Mercy Afrowa Needjan has called on young graduates to desist from chasing non-existing jobs and see the market as a place they…"
     },
     {
       "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T20:35:20.000Z",
       "summary": "The Ghana Export-Import Bank (EXIM Bank) will become the sole financial institution responsible for financing Ghana's poultry sector under a four-year programme beginning in 2027."
-    },
-    {
-      "title": "Gov’t to merge MIIF and GIIF to establish Ghana Sovereign Wealth Fund – Finance Minister",
-      "link": "https://www.myjoyonline.com/govt-to-merge-miif-and-giif-to-establish-ghana-sovereign-wealth-fund-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:33:47.000Z",
-      "summary": "The government plans to merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund aimed at improving…"
     }
   ]
 };
