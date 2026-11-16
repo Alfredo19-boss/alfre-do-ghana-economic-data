@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T05:05:30.367Z",
+  "updated": "2026-11-16T05:15:08.254Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 521)"
   ],
   "items": [
+    {
+      "title": "Invest in Ghana Summit Opens Today; Gov’t Pitches Investments in New Economy to Investors",
+      "link": "https://thehighstreetjournal.com/invest-in-ghana-summit-opens-today/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T05:05:00.000Z",
+      "summary": "President John Dramani Mahama and Nigerian industrialist Aliko Dangote are headlining the gathering at the Kempinski Hotel"
+    },
     {
       "title": "Mahama to Commission GH¢148.4m Cashew Processing Factory in Techiman",
       "link": "https://thehighstreetjournal.com/mahama-to-commission-gh%c2%a2148-4m-cashew-processing-factory-in-techiman/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T15:41:00.000Z",
       "summary": "President says boosting local production and exports will reduce import dependence and strengthen the cedi."
-    },
-    {
-      "title": "The SSNIT Real Estate Gamble: Premier Towers: Empty floors, broken systems and unanswered questions",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/the-ssnit-real-estate-gamble-premier-towers-empty-floors-broken-systems-and-unanswered-questions/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T15:18:09.000Z",
-      "summary": "Premier Towers occupies a prominent place in Accra’s Ministries enclave, beside SSNIT Pension House. But location alone has not delivered what a pension-funded commercial property should…"
     }
   ]
 };

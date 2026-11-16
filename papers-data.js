@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T05:05:32.660Z",
+  "updated": "2026-11-16T05:15:30.439Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana records GHS209.7m in cybersecurity losses in nine months",
+      "link": "https://www.myjoyonline.com/ghana-records-ghs209-7m-in-cybersecurity-losses-in-nine-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:07:00.000Z",
+      "summary": "Ghana recorded more than GHS209.7 million in financial losses from 4,938 cybersecurity incidents between January and September 2026.",
+      "categories": [
+        "National",
+        "Cybersecurity",
+        "Ghana",
+        "Losses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ablakwa highlights Mahama’s Volta projects",
       "link": "https://www.myjoyonline.com/ablakwa-highlights-mahamas-volta-projects/",
@@ -112,19 +126,6 @@ window.GDC_PAPERS = {
         "International",
         "Oil prices",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
-      "link": "https://www.myjoyonline.com/nearly-1500-migrants-arrive-in-canary-islands-in-one-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:18:00.000Z",
-      "summary": "Almost 1,500 migrants arrived in Spain's Canary Islands on Saturday, the highest number in a single day since 2020, the EFE ​news agency reported on Sunday, citing the maritime rescue…",
-      "categories": [
-        "Africa",
-        "Canary Islands",
-        "Migrants"
       ],
       "site": "https://www.myjoyonline.com/"
     },
