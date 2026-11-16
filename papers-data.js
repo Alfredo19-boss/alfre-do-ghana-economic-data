@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T22:46:34.857Z",
+  "updated": "2026-11-16T23:06:30.947Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
+      "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T22:47:00.000Z",
+      "summary": "The Ecobank JoyBusiness SME Fair 2026 brought together three days of business exhibitions, product displays, shopping bargains, networking and live entertainment at Ghud Park, Accra Mall…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Photo Story",
+        "Ecobank JoyBusiness SME Fair 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dikan brings the story of Nkrumah to more than 6,000 people",
       "link": "https://www.myjoyonline.com/dikan-brings-the-story-of-nkrumah-to-more-than-6000-people/",
@@ -124,24 +139,6 @@ window.GDC_PAPERS = {
         "Anglogold Ashanti",
         "company of th eyear",
         "SSI foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana can grow the rice it eats",
-      "link": "https://www.myjoyonline.com/ghana-can-grow-the-rice-it-eats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:37:00.000Z",
-      "summary": "I have worked as a rice breeder in Ghana for the past two decades. During that time, people in Ghana and abroad have asked me a simple question.",
-      "categories": [
-        "Opinion",
-        "Agriculture",
-        "Farm",
-        "Farmer",
-        "FEED Ghana",
-        "Ghana",
-        "grow",
-        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
