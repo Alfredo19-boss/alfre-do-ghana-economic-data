@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:30:08.407Z",
+  "updated": "2026-11-16T10:40:11.387Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AFCON 2027Q: Black Stars target second win ahead of Somalia return fixture",
+      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-target-second-win-ahead-of-somalia-return-fixture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T10:34:55.000Z",
+      "summary": "On Monday, Kim Lars Bjorkegren will hope to end his interim reign with yet another victory when the team face Somalia once again.",
+      "categories": [
+        "Football",
+        "HP News 3",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Toyota Voxy crashes: 16 accidents per 1,000 vehicles against national average of six – NRSA",
       "link": "https://www.myjoyonline.com/toyota-voxy-crashes-16-accidents-per-1000-vehicles-against-national-average-of-six-nrsa/",
@@ -216,22 +233,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
-      "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:39:26.000Z",
-      "summary": "When we discuss Ghana’s housing challenges, the conversation often turns to acquiring more land, building new estates, and finding the money to finance construction. These are important…",
-      "categories": [
-        "Opinion",
-        "Real Estate",
-        "Building",
-        "Compound House",
-        "housing solution",
-        "Rent"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Black Stars seek double over Somalia • In AFCON 2027 qualifier",

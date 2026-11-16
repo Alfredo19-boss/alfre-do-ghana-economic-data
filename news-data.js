@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T10:29:38.770Z",
+  "updated": "2026-11-16T10:40:09.116Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "High Court Refuses Chairman Wontumi Bail Pending Appeal; to Remain in Prison",
+      "link": "https://thehighstreetjournal.com/high-court-refuses-chairman-wontumi-bail-pending-appeal-to-remain-in-prison/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T10:35:33.000Z",
+      "summary": "In refusing the application, the Court held that Wontumi had not demonstrated exceptional circumstances warranting his release on bail pending appeal."
+    },
     {
       "title": "‘No Verification, No Pay’: All Public Sector Workers to Go Through Self-Verification Before Salaries in 2027",
       "link": "https://thehighstreetjournal.com/no-verification-no-pay-all-public-sector-workers-to-go-through-self-verification-before-salaries-in-2027/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T17:03:30.000Z",
       "summary": "Ghana is calling for inclusive AI and digital infrastructure development, stressing affordability, local innovation, technology transfer and skills training to ensure emerging technologies…"
-    },
-    {
-      "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
-      "link": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:52:51.000Z",
-      "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said."
     }
   ]
 };
