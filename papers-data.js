@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T20:56:22.286Z",
+  "updated": "2026-11-16T21:06:21.414Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amantia Chief urges prioritisation of rural development to combat poverty and social vices",
+      "link": "https://www.myjoyonline.com/amantia-chief-urges-prioritisation-of-rural-development-to-combat-poverty-and-social-vices/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:55:07.000Z",
+      "summary": "Newly enstooled Chief of Amantia in the Asante Akyem South District, Nana Kwadwo Bredu III, has expressed concern over the neglect of rural development by successive governments.",
+      "categories": [
+        "Regional",
+        "Amantia Chief",
+        "Nana Kwadwo Bredu III",
+        "rural development"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Breaking the raw material curse: How Techiman’s new cashew factory redefines Ghana’s export future",
+      "link": "https://www.myjoyonline.com/breaking-the-raw-material-curse-how-techimans-new-cashew-factory-redefines-ghanas-export-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:54:48.000Z",
+      "summary": "In a significant boost to Ghana's industrialisation drive and agricultural value addition, President John Dramani Mahama has commissioned a state-of-the-art 100-metric-tonne-per-day cashew…",
+      "categories": [
+        "Regional",
+        "cashew factory",
+        "Techiman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AngloGold Ashanti Obuasi wins SSI Foundation Company of the Year",
       "link": "https://www.myjoyonline.com/anglogold-ashanti-obuasi-wins-ssi-foundation-company-of-the-year/",
@@ -115,34 +142,6 @@ window.GDC_PAPERS = {
         "Ghana Police Service",
         "Human trafficking",
         "Netherlands"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra summit makes the case for African culture in the Culture Global Stocktake",
-      "link": "https://www.myjoyonline.com/accra-summit-makes-the-case-for-african-culture-in-the-culture-global-stocktake/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T19:19:06.000Z",
-      "summary": "The Climate x Culture Summit in Accra opened with an acoustic performance by EliThreeSixty. Later in the programme, a live band from the Restoration Artistes Network took the stage with…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "Climate x Culture Summit",
-        "Culture Global Stocktake"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Climate x Culture Summit makes the case for culture in the Culture Global Stocktake",
-      "link": "https://www.myjoyonline.com/climate-x-culture-summit-makes-the-case-for-culture-in-the-culture-global-stocktake/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T19:19:06.000Z",
-      "summary": "The Climate x Culture Summit in Accra opened with an acoustic performance by EliThreeSixty. Later in the programme, a live band from the Restoration Artistes Network took the stage with…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "Climate x Culture Summit",
-        "Culture Global Stocktake"
       ],
       "site": "https://www.myjoyonline.com/"
     },
