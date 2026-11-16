@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T20:46:22.014Z",
+  "updated": "2026-11-16T20:56:22.286Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AngloGold Ashanti Obuasi wins SSI Foundation Company of the Year",
+      "link": "https://www.myjoyonline.com/anglogold-ashanti-obuasi-wins-ssi-foundation-company-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:50:21.000Z",
+      "summary": "AngloGold Ashanti Obuasi Mine has received multiple honours at the 10th edition of the Sustainability and Social Investment (SSI) Awards, including the SSI Foundation Company of the Year…",
+      "categories": [
+        "Events",
+        "National",
+        "Anglogold Ashanti",
+        "company of th eyear",
+        "SSI foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana can grow the rice it eats",
       "link": "https://www.myjoyonline.com/ghana-can-grow-the-rice-it-eats/",
@@ -45,7 +60,14 @@ window.GDC_PAPERS = {
       "published": "2026-11-16T20:29:26.000Z",
       "summary": "Dear President John Dramani Mahama and Honourable Samuel Okudzeto Ablakwa, Minister for Foreign Affairs, I write as a concerned Ghanaian journalist, increasingly worried about reports of…",
       "categories": [
-        "News"
+        "Features",
+        "HP News 6",
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Ghanaians",
+        "Russia",
+        "Young people"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -121,21 +143,6 @@ window.GDC_PAPERS = {
         "National",
         "Climate x Culture Summit",
         "Culture Global Stocktake"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketiah urges police to investigate alleged vote-buying in NDC regional elections",
-      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-police-to-investigate-alleged-vote-buying-in-ndc-regional-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:57:05.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called on the Ghana Police Service to investigate allegations of vote-buying during the party's…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Johnson Asiedu Nketiah",
-        "NDC Regional Elections",
-        "Vote-buying"
       ],
       "site": "https://www.myjoyonline.com/"
     },
