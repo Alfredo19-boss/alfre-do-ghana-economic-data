@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T07:15:30.087Z",
+  "updated": "2026-11-16T09:00:08.450Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,59 +21,241 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Govt, stakeholders move to tackle school indiscipline",
-      "link": "https://ghanaiantimes.com.gh/govt-stakeholders-move-to-tackle-school-indiscipline/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:13:46.000Z",
-      "summary": "THE Mfantsipim School has climaxed its 150th anniversary celebrations with a call on all to help address the rising level of indiscipline and also promote academic excellence in today’s…",
+      "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
+      "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:39:26.000Z",
+      "summary": "When we discuss Ghana’s housing challenges, the conversation often turns to acquiring more land, building new estates, and finding the money to finance construction. These are important…",
       "categories": [
-        "Hot!",
-        "News"
+        "Opinion",
+        "Real Estate",
+        "Building",
+        "Compound House",
+        "housing solution",
+        "Rent"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PNP criticises Ghana’s 2027 Budget over unfulfilled promises on women’s bank, poultry and jobs",
+      "link": "https://www.myjoyonline.com/pnp-criticises-ghanas-2027-budget-over-unfulfilled-promises-on-womens-bank-poultry-and-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:35:00.000Z",
+      "summary": "The People’s National Party (PNP) has criticised the 2027 Budget, describing it as a collection of recycled promises and accusing the government of failing to demonstrate tangible results…",
+      "categories": [
+        "Economy",
+        "National",
+        "Politics",
+        "Budget 2027",
+        "Jobs",
+        "PNP",
+        "Poultry",
+        "women's bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi Trade Show 2026 to bring businesses together for four-day exhibition in December",
+      "link": "https://www.myjoyonline.com/obuasi-trade-show-2026-to-bring-businesses-together-for-four-day-exhibition-in-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:24:22.000Z",
+      "summary": "The 2026 Obuasi Trade Show is scheduled to take place from December 21 to 24 at the Obuasi Black Park, bringing together businesses, entrepreneurs, manufacturers and traders from across the…",
+      "categories": [
+        "Business",
+        "Mining",
+        "Regional",
+        "Anglogold",
+        "December",
+        "obuasi trade show"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NAIMOS arrests 30 suspects, intercepts 35 trucks in Ketu North sand-winning operation",
+      "link": "https://www.myjoyonline.com/naimos-arrests-30-suspects-intercepts-35-trucks-in-ketu-north-sand-winning-operation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:19:46.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has arrested 30 people and intercepted 35 tipper trucks in a crackdown on suspected illegal sand-winning activities in the…",
+      "categories": [
+        "National",
+        "Ketu North",
+        "NAIMOS",
+        "sand winning",
+        "tipper trucks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama to NDC: The family contest is over, let's unite for victory",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-to-ndc-the-family-contest-is-over-lets-unite-for-victory.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T08:16:57.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NAIMOS arrests 23 suspected illegal miners, destroys 33 changfan machines in Tarkwa crackdown",
+      "link": "https://www.myjoyonline.com/naimos-arrests-23-suspected-illegal-miners-destroys-33-changfan-machines-in-tarkwa-crackdown/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:09:26.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has arrested 23 suspected illegal miners and destroyed 33 changfan machines and 47 water pumps in a two-day crackdown on…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Changfan",
+        "ILLEGAL MINERS",
+        "NAIMOS",
+        "Tarkwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Linda Ocloo blames persistent Accra streetlight outages on cable theft",
+      "link": "https://www.myjoyonline.com/linda-ocloo-blames-persistent-accra-streetlight-outages-on-cable-theft/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:05:20.000Z",
+      "summary": "Greater Accra Regional Minister Linda Ocloo has blamed persistent streetlight outages in parts of Accra on the theft of cables and other components, saying the problem is undermining…",
+      "categories": [
+        "HP News 10",
+        "Regional",
+        "cable theft",
+        "Linda Ocloo",
+        "streetlight outages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Today’s front pages: Monday, November 16, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-monday-november-16-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:04:03.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Don't fall for the scam: GES says teacher recruitment portal is not open",
+      "link": "https://www.graphic.com.gh/news/general-news/dont-fall-for-the-scam-ges-says-teacher-recruitment-portal-is-not-open.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T07:52:46.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Black Stars seek double over Somalia • In AFCON 2027 qualifier",
+      "link": "https://ghanaiantimes.com.gh/black-stars-seek-double-over-somalia-in-afcon-2027-qualifier/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:43:55.000Z",
+      "summary": "THE Black Stars will be under pressure to show that their 2-0 victory over Somalia on Thursday was more than just a good start when the two sides meet again today at the Essipon Sports…",
+      "categories": [
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Declare state of emergency in galamsey areas • Catholic Bishops urge Pres Mahama to take decisive action",
-      "link": "https://ghanaiantimes.com.gh/declare-state-of-emergency-in-galamsey-areas-catholic-bishops-urge-pres-mahama-to-take-decisive-action/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:06:17.000Z",
-      "summary": "THE Ghana Catholic Bishops’ Conference has called on President John Dramani Mahama to declare a targeted state of emergency in communities severely affected by illegal mining (galamsey) to…",
+      "title": "State land belongs to all Ghanaians: State Housing Company defends Sandbox asset recovery",
+      "link": "https://www.graphic.com.gh/news/general-news/state-land-belongs-to-all-ghanaians-state-housing-company-defends-sandbox-asset-recovery.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T07:42:21.000Z",
+      "summary": "",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dreams FC stun Lions in Kpando to claim second win",
+      "link": "https://ghanaiantimes.com.gh/dreams-fc-stun-lions-in-kpando-to-claim-second-win/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:39:09.000Z",
+      "summary": "DREAMS FC delivered a timely boost with a stunning 2-1 victory over fellow strugglers Heart of Lions in Kpando on Saturday, securing just their second win of the 2026/27 Ghana Premier…",
+      "categories": [
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "2027 Budget: Economists back 2027 Budget • Demand jobs, infrastructure, lower cost of living",
-      "link": "https://ghanaiantimes.com.gh/2027-budget-economists-back-2027-budget-demand-jobs-infrastructure-lower-cost-of-living/",
+      "title": "MTN FA Cup Round of 64 draw set for tomorrow",
+      "link": "https://ghanaiantimes.com.gh/mtn-fa-cup-round-of-64-draw-set-for-tomorrow/",
       "source": "Ghanaian Times",
-      "published": "2026-11-16T07:02:12.000Z",
-      "summary": "SOME economists, policy analysts and members of the public have welcomed the 2027 Budget and Economic Policy of the government, describing its focus on fiscal discipline, economic stability…",
+      "published": "2026-11-16T07:37:55.000Z",
+      "summary": "THE draw for the Round of 64 of the MTN FA Cup ’27 will be held tomorrow at the Ghana Football Association (GFA) Conference Room at 11 a.m. A total of 64 teams from the Premier League…",
       "categories": [
-        "Hot!",
-        "News"
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Stop producing graduates without jobs — Prof. Aryeetey",
-      "link": "https://ghanaiantimes.com.gh/stop-producing-graduates-without-jobs-prof-aryeetey/",
+      "title": "Black Meteors intensify preparations for Libya return leg",
+      "link": "https://ghanaiantimes.com.gh/black-meteors-intensify-preparations-for-libya-return-leg/",
       "source": "Ghanaian Times",
-      "published": "2026-11-16T06:52:19.000Z",
-      "summary": "THE former Vice-Chancellor of the University of Ghana, Professor Ernest Aryeetey, has called for a major shift in the country’s education policy to ensure that graduates acquire skills that…",
+      "published": "2026-11-16T07:35:15.000Z",
+      "summary": "THE Black Meteors have stepped up preparations for their crucial return-leg clash against Libya in the CAF U-23 Africa Cup of Nations qualifiers tomorrow at the Accra Sports Stadium. The…",
       "categories": [
-        "Hot!",
-        "News"
+        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Chiefs demand review of Northern Ashanti Mines takeover",
-      "link": "https://ghanaiantimes.com.gh/chiefs-demand-review-of-northern-ashanti-mines-takeover/",
+      "title": "Amputee World Cup: Ghana lose opener to Angola",
+      "link": "https://ghanaiantimes.com.gh/amputee-world-cup-ghana-lose-opener-to-angola/",
       "source": "Ghanaian Times",
-      "published": "2026-11-16T06:48:46.000Z",
-      "summary": "THE Asante Akyem Traditional Council has petitioned President John Dramani Mahama to intervene in the revocation of the mining lease of Northern Ashanti Mines Limited Company (NAMLC) and…",
+      "published": "2026-11-16T07:33:53.000Z",
+      "summary": "GHANA’S Black Challenge began their WAFF Amputee Football World Cup campaign with a 2-0 defeat to Angola on Saturday at San Martin in San Juan de los Lagos, Mexico. Ghana conceded one goal…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GCB Bank records GH¢2.87bn profit in 9 months, targets GH¢3.7bn for 2026",
+      "link": "https://ghanaiantimes.com.gh/gcb-bank-records-gh%c2%a22-87bn-profit-in-9-months-targets-gh%c2%a23-7bn-for-2026/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:30:44.000Z",
+      "summary": "GCB Bank PLC has recorded a Profit Before Tax (PBT) of GH¢2.87 billion for the nine months ending September 2026, representing a 42.6 per cent increase over the corresponding period last…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mist, sun, then thunder: Ghana Meteo's full weather breakdown for today",
+      "link": "https://www.graphic.com.gh/news/general-news/mist-sun-then-thunder-ghana-meteos-full-weather-breakdown-for-today.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T07:29:44.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GSE records positive 0.34% average share price gain …as trading value rises 15.37%",
+      "link": "https://ghanaiantimes.com.gh/gse-records-positive-0-34-average-share-price-gain-as-trading-value-rises-15-37/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:29:05.000Z",
+      "summary": "THE Ghana Stock Exchange (GSE) recorded a positive average share price performance during the trading week of November 9 to 13, 2026, with the market posting a 0.34 per cent gain despite…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NDC elects new regional executives ahead of 2028 elections",
+      "link": "https://ghanaiantimes.com.gh/ndc-elects-new-regional-executives-ahead-of-2028-elections/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:22:26.000Z",
+      "summary": "DELEGATES of the governing National Democratic Congress (NDC) on Saturday elected new regional executive officers to steer the party’s administrative and political affairs for the next four…",
       "categories": [
         "Hot!",
         "News"
@@ -93,137 +275,6 @@ window.GDC_PAPERS = {
         "Black Stars",
         "Daniel-Kofi Kyereh",
         "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jospong takes African waste management solutions to COP31",
-      "link": "https://ghanaiantimes.com.gh/jospong-takes-african-waste-management-solutions-to-cop31/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:44:21.000Z",
-      "summary": "GHANAIAN business conglomerate, Jospong Group of Companies (JGC), has made a strong showing at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye, with an…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Attractive designs or purchasing power? The Cedi must earn our trust",
-      "link": "https://ghanaiantimes.com.gh/attractive-designs-or-purchasing-power-the-cedi-must-earn-our-trust/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:42:36.000Z",
-      "summary": "A BANKNOTE passes through countless hands, carrying both purchasing power and a country’s account of itself. Ghana’s Heritage Series controversy shows why historical recognition deserves…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gideon Boako accuses Ato Forson of buying cedi stability with $10.6bn forex interventions",
-      "link": "https://www.myjoyonline.com/gideon-boako-accuses-ato-forson-of-buying-cedi-stability-with-10-6bn-forex-interventions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T06:40:58.000Z",
-      "summary": "Tano North MP Dr Gideon Boako has questioned the sustainability of Ghana’s recent currency appreciation, alleging that the Bank of Ghana spent about $10.6 billion on foreign exchange…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Cedi",
-        "Gideon Boako"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana proposes Accra Declaration, pledges ratification of AU financial institutions by 2027",
-      "link": "https://ghanaiantimes.com.gh/ghana-proposes-accra-declaration-pledges-ratification-of-au-financial-institutions-by-2027/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:37:44.000Z",
-      "summary": "THE Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has called on African leaders to end their dependence on external funding and take full responsibility for financing the African…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bole-Bamboi MP congratulates new NDC Savannah executives, calls for unity ahead of 2028",
-      "link": "https://www.myjoyonline.com/bole-bamboi-mp-congratulates-new-ndc-savannah-executives-calls-for-unity-ahead-of-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T06:31:42.000Z",
-      "summary": "The Member of Parliament for Bole-Bamboi, Yusif Sulemana, has congratulated newly elected executives of the National Democratic Congress (NDC) in the Savannah Region, urging party members…",
-      "categories": [
-        "National",
-        "Bole-Bamboi MP",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government plans GH¢28.8bn buyback of DDEP bonds due in February 2027",
-      "link": "https://www.myjoyonline.com/government-plans-gh%c2%a228-8bn-buyback-of-ddep-bonds-due-in-february-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T06:11:11.000Z",
-      "summary": "The government is preparing to buy back up to GH¢28.8 billion worth of bonds issued under the Domestic Debt Exchange Programme (DDEP) and scheduled to mature in February 2027.",
-      "categories": [
-        "National",
-        "Top Story",
-        "Bonds",
-        "DDEP",
-        "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gideon Boako: Ato Forson inherited debt restructuring gains, gold reserves and rising credit ratings",
-      "link": "https://www.myjoyonline.com/gideon-boako-ato-forson-inherited-debt-restructuring-gains-gold-reserves-and-rising-credit-ratings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:43:00.000Z",
-      "summary": "Tano North MP Dr Gideon Boako has accused Finance Minister Dr Cassiel Ato Forson of taking excessive credit for Ghana’s economic recovery, arguing that several of the gains recorded under…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Gideon Boako"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afenyo-Markin accuses Mahama of sidelining Big Six in new currency design",
-      "link": "https://www.myjoyonline.com/afenyo-markin-accuses-mahama-of-sidelining-big-six-in-new-currency-design/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:37:33.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has taken aim at the Mahama administration over the exclusion of five members of the Big Six from Ghana’s newly unveiled banknotes, arguing that the…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Afenyo-Markin",
-        "Big Six",
-        "Mahama",
-        "New banknotes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Advertisers Association rejects political claims over crackdown on illegal billboards",
-      "link": "https://www.myjoyonline.com/advertisers-association-rejects-political-claims-over-crackdown-on-illegal-billboards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:28:05.000Z",
-      "summary": "The Advertising Association of Ghana (AAG) has rejected suggestions that the ongoing demolition of unauthorised billboards and advertising structures is politically motivated, saying the…",
-      "categories": [
-        "National",
-        "AAG",
-        "Billboards"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Assemblies to face sanctions over illegal billboards – Deputy Minister",
-      "link": "https://www.myjoyonline.com/assemblies-to-face-sanctions-over-illegal-billboards-deputy-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:26:00.000Z",
-      "summary": "The Deputy Minister for Local Government, Chieftaincy and Religious Affairs, Rita Naa Odoley Sowah, has warned Metropolitan, Municipal and District Chief Executives (MMDCEs) that they will…",
-      "categories": [
-        "National",
-        "Billboards",
-        "Deputy Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -268,50 +319,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "814 votes to 5 votes: The landslide wins and photo-finish battles of the NDC Regional Elections",
-      "link": "https://www.graphic.com.gh/news/politics/814-votes-to-5-votes-the-landslide-wins-and-photo-finish-battles-of-the-ndc-regional-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T12:54:36.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Adams Randy elected NDC Upper West Regional Chairman",
-      "link": "https://www.graphic.com.gh/news/politics/adams-randy-elected-ndc-upper-west-regional-chairman.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T12:37:13.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mark Oliver Kevor retains position as NDC Eastern Regional chairman",
-      "link": "https://www.graphic.com.gh/news/politics/mark-oliver-kevor-re-elected-as-ndc-eastern-regional-chairman.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T08:16:46.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Danso topples Ashie Moore to take NDC Greater Accra chairmanship",
-      "link": "https://www.graphic.com.gh/news/politics/danso-topples-ashie-moore-to-take-ndc-greater-accra-chairmanship.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-14T22:20:55.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     }

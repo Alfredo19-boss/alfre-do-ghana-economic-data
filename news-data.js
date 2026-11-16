@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T07:15:00.309Z",
+  "updated": "2026-11-16T08:59:38.452Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
+      "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:39:26.000Z",
+      "summary": "When we discuss Ghana’s housing challenges, the conversation often turns to acquiring more land, building new estates, and finding the money to finance construction. These are important…"
+    },
+    {
+      "title": "PNP criticises Ghana’s 2027 Budget over unfulfilled promises on women’s bank, poultry and jobs",
+      "link": "https://www.myjoyonline.com/pnp-criticises-ghanas-2027-budget-over-unfulfilled-promises-on-womens-bank-poultry-and-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:35:00.000Z",
+      "summary": "The People’s National Party (PNP) has criticised the 2027 Budget, describing it as a collection of recycled promises and accusing the government of failing to demonstrate tangible results…"
+    },
+    {
+      "title": "Obuasi Trade Show 2026 to bring businesses together for four-day exhibition in December",
+      "link": "https://www.myjoyonline.com/obuasi-trade-show-2026-to-bring-businesses-together-for-four-day-exhibition-in-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T08:24:22.000Z",
+      "summary": "The 2026 Obuasi Trade Show is scheduled to take place from December 21 to 24 at the Obuasi Black Park, bringing together businesses, entrepreneurs, manufacturers and traders from across the…"
+    },
     {
       "title": "Economists urge disciplined implementation of 2027 Budget",
       "link": "https://www.ghanabusinessnews.com/2026/11/16/economists-urge-disciplined-implementation-of-2027-budget/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-12T16:09:15.000Z",
       "summary": "President John Dramani Mahama on Thursday launched the Bank of Ghana’s (BoG) upgraded Heritage Series banknotes at the Bank Square in Accra, describing the new currency as a symbol of…"
-    },
-    {
-      "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
-      "link": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T16:00:14.000Z",
-      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, has called for stronger institutional coordination and clearly defined regulatory responsibilities to…"
-    },
-    {
-      "title": "Adu-Boahene to Open Defence on Nine Counts as High Court Acquits Him on Two",
-      "link": "https://thehighstreetjournal.com/adu-boahene-to-open-defence-on-nine-counts-as-high-court-acquits-him-on-two/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T15:59:13.000Z",
-      "summary": "His wife, Angela Adjei-Boateng, the second accused person, has also been ordered to open her defence on four counts bordering on stealing and money laundering."
-    },
-    {
-      "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
-      "link": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T15:47:50.000Z",
-      "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027…"
     }
   ]
 };
