@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T09:00:08.450Z",
+  "updated": "2026-11-16T09:10:08.422Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -111,6 +111,17 @@ window.GDC_PAPERS = {
         "Tarkwa"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Partner local universities for joint degree programmes - Education minister to European universities",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-partner-local-universities-for-joint-degree-programmes-education-minister-to-european-universities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T08:06:55.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Linda Ocloo blames persistent Accra streetlight outages on cable theft",
@@ -308,17 +319,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Abu Trica to face jury trial Feb 8, 2027 in alleged $8m romance scam; Court sets Dec 15 deadline if he wants plea deal same as Hushpuppi",
-      "link": "https://www.graphic.com.gh/news/general-news/abu-trica-jury-trial-scheduled-for-feb-8-2027-court-sets-dec-15-deadline-if-he-wants-a-plea-deal-same-as-hushpuppi.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-15T13:24:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
