@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T13:40:10.795Z",
+  "updated": "2026-11-16T13:50:10.729Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,78 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two dead from Monday morning crash at Buduburam",
+      "link": "https://www.graphic.com.gh/news/general-news/two-dead-from-monday-morning-crash-at-buduburam.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T13:42:08.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NYPD officers visit Ghana to support underprivileged children and promote police-community relations",
+      "link": "https://www.myjoyonline.com/nypd-officers-visit-ghana-to-support-underprivileged-children-and-promote-police-community-relations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:38:37.000Z",
+      "summary": "When Lieutenant Yaw Offin pinned on his NYPD badge years ago, he never imagined it would one day take him back to the land of his heritage, not with a warrant, but with books, pens, and a…",
+      "categories": [
+        "National",
+        "ALEO delegation",
+        "Ghana",
+        "NYPD"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ahenfie crowned Miss Malaika Ghana 2026, wins car and Egypt trip",
+      "link": "https://www.myjoyonline.com/ahenfie-crowned-miss-malaika-ghana-2026-wins-car-and-egypt-trip/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:38:04.000Z",
+      "summary": "Ahenfie has been crowned Miss Malaika Ghana 2026, winning a brand-new car, while all ten finalists have secured an all-expenses-paid trip to Egypt.",
+      "categories": [
+        "Events",
+        "Ahenfie",
+        "Car",
+        "Egypt",
+        "Miss Malaika 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prof Sarpong: Frank conversation with Salisu on quality of football pitches in Ghana",
+      "link": "https://www.myjoyonline.com/prof-sarpong-frank-conversation-with-salisu-on-quality-of-football-pitches-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:37:15.000Z",
+      "summary": "On Sunday, at the Essipong Stadium, I had the opportunity to engage Salisu in a frank and constructive discussion on one of the most important issues affecting football development in…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Accra Sports Stadium",
+        "Baba Yara Sports Stadium",
+        "Cape Coast Sports Stadium",
+        "Essipong Stadium",
+        "National Sports Authority",
+        "Prof Sarpong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Where have you been all this while?’ – Bawah Mogtari challenges Boako over credit ratings",
+      "link": "https://www.myjoyonline.com/where-have-you-been-all-this-while-bawah-mogtari-challenges-boako-over-credit-ratings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:36:21.000Z",
+      "summary": "Senior Presidential Advisor and Aide to President John Dramani Mahama, Joyce Bawah Mogtari, has hit back at Tano North MP Dr Gideon Boako following his assertion that Ghana’s sovereign…",
+      "categories": [
+        "National",
+        "Gideon Boako",
+        "Joyce Bawah Mogtari",
+        "Junk"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Afia Schwarzenegger handed 63-day jail term over contempt of court",
       "link": "https://www.myjoyonline.com/afia-schwarzenegger-handed-63-day-jail-term-over-contempt-of-court/",
@@ -74,71 +146,6 @@ window.GDC_PAPERS = {
         "Abuja",
         "Alban Sumana Kingsford Bagbin",
         "Global PR Forum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Saint Chicago’s Frafra Piano is hiplife – Nana Yaw Wiredu",
-      "link": "https://www.myjoyonline.com/saint-chicagos-frafra-piano-is-hiplife-nana-yaw-wiredu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:57:33.000Z",
-      "summary": "Founder of OnePlay Africa, Nana Yaw Wiredu, has called on Ghana’s music industry to recognise emerging sounds such as Saint Chicago’s Frafra Piano as part of hiplife.",
-      "categories": [
-        "HP Entertainment 1",
-        "Movies",
-        "Frafra Piano",
-        "Hiplife",
-        "Nana Yaw Wiredu",
-        "Saint Chicago"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case over disagreement with court",
-      "link": "https://www.myjoyonline.com/skytrain-trial-solomon-asamoahs-lawyer-withdraws-from-case-over-disagreement-with-court/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:52:38.000Z",
-      "summary": "The trial of former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Solomon Asamoah, and a former Board Chairman of the fund, Professor Christopher…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "GIIF",
-        "Sky train case",
-        "Solomon Asamoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
-      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:50:03.000Z",
-      "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 6",
-        "Ecobank",
-        "Joy Business SME Fair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote challenges Ghana to tap into West African market of 450 million people, boost local production",
-      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-into-west-african-market-of-450-million-people-boost-local-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:48:01.000Z",
-      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "In Focus",
-        "National",
-        "News",
-        "Dangote",
-        "Ghana",
-        "Trade hub"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -213,17 +220,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-charges-new-labour-commission-to-deliver-fair-speedy-justice-for-workers.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T09:05:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Institutional reset catalyst for national transformation - Ishmael Yamson",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-institutional-reset-catalyst-for-national-transformation-ishmael-yamson.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T09:01:45.000Z",
       "summary": "",
       "categories": [
         "General News"

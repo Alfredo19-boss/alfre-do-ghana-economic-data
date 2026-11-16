@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T13:39:56.891Z",
+  "updated": "2026-11-16T13:50:08.477Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "GRA Arrests China Mall Operators Over Alleged E-VAT Tax Evasion",
+      "link": "https://thehighstreetjournal.com/gra-arrests-china-mall-operators-over-alleged-e-vat-tax-evasion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T13:45:42.000Z",
+      "summary": "GRA has arrested operators of three China Mall branches over suspected E-VAT evasion, following investigations into alleged parallel invoicing systems used to divert sales and under-declare…"
+    },
     {
       "title": "Mahama Says Ghana Must Guarantee Buyers for Farmers to Spur Industrial Growth",
       "link": "https://thehighstreetjournal.com/ghana-must-guarantee-buyers-for-farmers/",
@@ -83,6 +90,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:08:39.000Z",
       "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?"
+    },
+    {
+      "title": "President of GAMA, Mercy Naa Afrowa Needjan honored as Legendary Woman at GWA ’26",
+      "link": "https://www.myjoyonline.com/president-of-gama-mercy-naa-afrowa-needjan-honored-as-legendary-woman-at-gwa-26/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:03:00.000Z",
+      "summary": "President of the Greater Accra Markets Association (GAMA), Mercy Naa Afrowa Needjan has been conferred with the highest honor of the Ghana Women Awards (GWA) as a ‘Legendary Woman’. The…"
     },
     {
       "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T20:33:47.000Z",
       "summary": "The government plans to merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund aimed at improving…"
-    },
-    {
-      "title": "Government to uncap Exim Bank levies to boost poultry production – Ato Forson",
-      "link": "https://www.myjoyonline.com/government-to-uncap-exim-bank-levies-to-boost-poultry-production-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:30:02.000Z",
-      "summary": "Government will uncap the levies allocated to the Ghana Export-Import Bank (Exim Bank) to increase its funding capacity and support local poultry production."
-    },
-    {
-      "title": "“Your cash is ready, come for your money” – Ato Forson announces early redemption of GH¢29bn DDEP bonds",
-      "link": "https://www.myjoyonline.com/your-cash-is-ready-come-for-your-money-ato-forson-announces-early-redemption-of-gh%c2%a229bn-ddep-bonds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:22:05.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced the early redemption of GH¢29 billion in Domestic Debt Exchange Programme (DDEP) bonds due in February 2027, assuring bondholders that…"
     }
   ]
 };
