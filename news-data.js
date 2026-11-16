@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T11:20:08.296Z",
+  "updated": "2026-11-16T11:30:09.052Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
+      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:20:17.000Z",
+      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
+    },
     {
       "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
       "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T17:27:31.000Z",
       "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at…"
-    },
-    {
-      "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
-      "link": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:14:32.000Z",
-      "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and…"
     }
   ]
 };

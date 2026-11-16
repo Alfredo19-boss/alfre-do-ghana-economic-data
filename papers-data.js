@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:20:11.086Z",
+  "updated": "2026-11-16T11:30:14.679Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,82 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "link": "https://www.myjoyonline.com/us-basketball-player-arrested-with-34kg-of-cannabis-at-nigerian-airport/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:28:58.000Z",
+      "summary": "A basketball player from the US has been arrested in Nigeria with 33.95kg (75lbs) of cannabis in his luggage at the main airport in Lagos.",
+      "categories": [
+        "Africa",
+        "International",
+        "News",
+        "Cannabis",
+        "Nigerian airport",
+        "US Basketball player"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NRSA boss rejects calls to lobby Customs over right-hand drive vehicle restrictions",
+      "link": "https://www.myjoyonline.com/nrsa-boss-rejects-calls-to-lobby-customs-over-right-hand-drive-vehicle-restrictions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:27:31.000Z",
+      "summary": "The Director General of the National Road Safety Authority (NRSA), Abraham Amaliba, says he rejected several calls asking him to intervene with Customs to relax restrictions on the…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "Abraham Amaliba",
+        "NRSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s 2027 Budget: Investing in Ghana’s energy future",
+      "link": "https://www.myjoyonline.com/ghanas-2027-budget-investing-in-ghanas-energy-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:23:48.000Z",
+      "summary": "The intersection of energy reliability and industrial capacity remains the most critical determinant of economic growth in developing economies.",
+      "categories": [
+        "HP Opinion 3",
+        "National",
+        "Opinion",
+        "2027 Budget",
+        "Energy",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Energy Sector CEO of the Year, David Azupio, urges young people to dream beyond their circumstances",
+      "link": "https://www.myjoyonline.com/energy-sector-ceo-of-the-year-david-azupio-urges-young-people-to-dream-beyond-their-circumstances/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:20:51.000Z",
+      "summary": "The newly crowned Energy CEO of the Year, David Azupio, has urged young people and aspiring entrepreneurs not to allow their present circumstances to limit their ambitions. The Founder and…",
+      "categories": [
+        "National",
+        "David Azupio",
+        "Energy Sector"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
+      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:20:17.000Z",
+      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "El Niño",
+        "Fitch Solutions",
+        "Mike Kruniger"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2028 demands unity, sacrifice and strategic action – Muntaka tells new NDC executives",
       "link": "https://www.myjoyonline.com/2028-demands-unity-sacrifice-and-strategic-action-muntaka-tells-new-ndc-executives/",
@@ -68,33 +144,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bono East NDC shake-up: ‘Soldier Man’ ousts incumbent chairman Unas Owusu",
-      "link": "https://www.myjoyonline.com/bono-east-ndc-shake-up-soldier-man-ousts-incumbent-chairman-unas-owusu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:07:30.000Z",
-      "summary": "A political earthquake has shaken the Bono East Regional leadership of the National Democratic Congress (NDC), with incumbent Chairman Unas Owusu losing his bid for re-election to Alhaji…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Bono East",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Annoh-Dompreh commissions Adoagyiri Health Centre, outlines more healthcare projects",
-      "link": "https://www.myjoyonline.com/annoh-dompreh-commissions-adoagyiri-health-centre-outlines-more-healthcare-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:05:04.000Z",
-      "summary": "Nsawam-Adoagyiri MP Frank Annoh-Dompreh has commissioned the Adoagyiri Health Centre as part of efforts to expand access to healthcare services in the constituency.",
-      "categories": [
-        "Health",
-        "Adoagyiri Health Centre",
-        "Annoh-Dompreh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Speaker Bagbin in Abuja to address global PR forum",
       "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-in-abuja-to-address-global-pr-forum.html",
       "source": "Daily Graphic",
@@ -104,52 +153,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The Manufacturer says Toyota Voxy is designed for paved roads and intra-city use, not inter-city travel – NRSA chair",
-      "link": "https://www.myjoyonline.com/the-manufacturer-says-toyota-voxy-is-designed-for-paved-roads-and-intra-city-use-not-inter-city-travel-nrsa-chair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T10:48:38.000Z",
-      "summary": "The Working Committee Chairman of the National Road Safety Authority (NRSA), Dr Godwin Kwesi Ayetor, says Toyota has told the Authority that Toyota Voxy vehicles were designed for paved…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Toyota Voxy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: Black Stars target second win ahead of Somalia return fixture",
-      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-target-second-win-ahead-of-somalia-return-fixture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T10:34:55.000Z",
-      "summary": "On Monday, Kim Lars Bjorkegren will hope to end his interim reign with yet another victory when the team face Somalia once again.",
-      "categories": [
-        "Football",
-        "HP News 3",
-        "HP Sports 1",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Toyota Voxy crashes: 16 accidents per 1,000 vehicles against national average of six – NRSA",
-      "link": "https://www.myjoyonline.com/toyota-voxy-crashes-16-accidents-per-1000-vehicles-against-national-average-of-six-nrsa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T10:17:09.000Z",
-      "summary": "The National Road Safety Authority (NRSA) says Toyota Voxy vehicles record approximately 16 crashes per 1,000 vehicles, nearly three times Ghana's national average of six crashes per 1,000…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Dr Godwin Kwesi Ayetor",
-        "NRSA",
-        "Toyota Voxy"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Court throws out Wontumi’s bail application pending appeal",
