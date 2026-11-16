@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T04:45:30.335Z",
+  "updated": "2026-11-16T04:55:31.979Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Moroccan Sahara: France reiterates ‘unwavering’ position in support of Morocco’s sovereignty and of autonomy",
+      "link": "https://www.myjoyonline.com/moroccan-sahara-france-reiterates-unwavering-position-in-support-of-moroccos-sovereignty-and-of-autonomy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:52:00.000Z",
+      "summary": "France reiterated on Friday its \"unwavering\" position that \"the present and future of Western Sahara fall within the framework of Moroccan sovereignty,\" according to a statement from the…",
+      "categories": [
+        "Africa",
+        "France",
+        "Morocco",
+        "Western Sahara"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s difficult reforms are bearing fruit – IMF",
+      "link": "https://www.myjoyonline.com/ghanas-difficult-reforms-are-bearing-fruit-imf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:45:50.000Z",
+      "summary": "The International Monetary Fund (IMF) says Ghana is reaping the benefits of difficult policy reforms, with stronger-than-expected growth, single-digit inflation and an improved fiscal…",
+      "categories": [
+        "Economy",
+        "HP News 7",
+        "National",
+        "IMF",
+        "Julie Kozack"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "US officials say violence against Christians in Nigeria remains a key concern",
       "link": "https://www.myjoyonline.com/us-officials-say-violence-against-christians-in-nigeria-remains-a-key-concern/",
       "source": "MyJoyOnline",
@@ -28,6 +57,7 @@ window.GDC_PAPERS = {
       "summary": "Violence against Nigerian Christians remains a key concern, the US State Department said, a year after the Trump administration accused Nigeria of violating religious freedoms and…",
       "categories": [
         "Africa",
+        "HP News 8",
         "Nigeria",
         "Violence against Christians"
       ],
@@ -99,32 +129,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Ethiopia",
         "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia’s ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.myjoyonline.com/suspected-china-spy-linked-to-nvidias-ex-boss-left-in-2025-megaspeed-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:44:00.000Z",
-      "summary": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.",
-      "categories": [
-        "International",
-        "Jensen Huang",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sabalenka apologises and says viral comment ‘not directed at Svitolina’",
-      "link": "https://www.myjoyonline.com/sabalenka-apologises-and-says-viral-comment-not-directed-at-svitolina/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T03:36:00.000Z",
-      "summary": "Aryna Sabalenka has apologised and denied claims that she insulted opponent Elina Svitolina after a viral clip showed her swearing during her WTA Finals defeat by the Ukrainian.",
-      "categories": [
-        "Tennis",
-        "Aryna Sabalenka",
-        "Elina Svitolina"
       ],
       "site": "https://www.myjoyonline.com/"
     },

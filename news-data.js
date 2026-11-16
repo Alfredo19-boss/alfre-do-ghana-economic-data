@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T04:45:07.686Z",
+  "updated": "2026-11-16T04:55:29.779Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 520)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana’s difficult reforms are bearing fruit – IMF",
+      "link": "https://www.myjoyonline.com/ghanas-difficult-reforms-are-bearing-fruit-imf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T04:45:50.000Z",
+      "summary": "The International Monetary Fund (IMF) says Ghana is reaping the benefits of difficult policy reforms, with stronger-than-expected growth, single-digit inflation and an improved fiscal…"
+    },
     {
       "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T13:37:44.000Z",
       "summary": "Ghana International Bank plc (GHIB) has announced a collaboration with Daniel Ford International and the Berkeley Group to provide African clients with information on selected residential…"
-    },
-    {
-      "title": "New Heritage Series Cedi Notes to Begin Circulation on December 1 2026",
-      "link": "https://thehighstreetjournal.com/new-heritage-series-cedi-notes-to-begin-circulation-on-december-1-2026/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T13:33:54.000Z",
-      "summary": "Bank of Ghana will introduce Heritage Series cedi notes on December 1, 2026, alongside existing banknotes, which remain legal tender, ensuring a gradual transition without disrupting…"
     }
   ]
 };
