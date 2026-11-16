@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T06:44:59.989Z",
+  "updated": "2026-11-16T06:55:00.135Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Economists urge disciplined implementation of 2027 Budget",
+      "link": "https://www.ghanabusinessnews.com/2026/11/16/economists-urge-disciplined-implementation-of-2027-budget/",
+      "source": "Ghana Business News",
+      "published": "2026-11-16T06:45:53.000Z",
+      "summary": "Economists have urged the government to mobilise resources and ensure effective implementation of flagship programmes to achieve the targets of the 2027 Budget."
+    },
     {
       "title": "Invest in Ghana Summit Opens Today; Gov’t Pitches Investments in New Economy to Investors",
       "link": "https://thehighstreetjournal.com/invest-in-ghana-summit-opens-today/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T15:47:50.000Z",
       "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027…"
-    },
-    {
-      "title": "Mahama Links Cedi Stability to $10bn New Economy Programme",
-      "link": "https://thehighstreetjournal.com/mahama-links-cedi-stability-to-10bn-new-economy-programme/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T15:41:00.000Z",
-      "summary": "President says boosting local production and exports will reduce import dependence and strengthen the cedi."
     }
   ]
 };

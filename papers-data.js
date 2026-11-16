@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T06:45:29.749Z",
+  "updated": "2026-11-16T06:55:29.933Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stop producing graduates without jobs — Prof. Aryeetey",
+      "link": "https://ghanaiantimes.com.gh/stop-producing-graduates-without-jobs-prof-aryeetey/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:52:19.000Z",
+      "summary": "THE former Vice-Chancellor of the University of Ghana, Professor Ernest Aryeetey, has called for a major shift in the country’s education policy to ensure that graduates acquire skills that…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Chiefs demand review of Northern Ashanti Mines takeover",
+      "link": "https://ghanaiantimes.com.gh/chiefs-demand-review-of-northern-ashanti-mines-takeover/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:48:46.000Z",
+      "summary": "THE Asante Akyem Traditional Council has petitioned President John Dramani Mahama to intervene in the revocation of the mining lease of Northern Ashanti Mines Limited Company (NAMLC) and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Kofi Kyereh admits tough period during injury period",
+      "link": "https://www.myjoyonline.com/afcon-2027q-kofi-kyereh-admits-tough-period-during-injury-period/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T06:46:35.000Z",
+      "summary": "The 30-year-old had a tough period after returning to club football following his involvement in the 2022 FIFA World Cup in Qatar.",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Daniel-Kofi Kyereh",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jospong takes African waste management solutions to COP31",
       "link": "https://ghanaiantimes.com.gh/jospong-takes-african-waste-management-solutions-to-cop31/",
@@ -116,18 +156,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GRA uncovers massive VAT violations at Achimota Shopping Centre",
-      "link": "https://ghanaiantimes.com.gh/gra-uncovers-massive-vat-violations-at-achimota-shopping-centre/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:18:32.000Z",
-      "summary": "THE Ghana Revenue Authority (GRA) has uncovered widespread tax violations by businesses at the Achimota Shopping Centre in Accra. This came to light following an enforcement operation that…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Government plans GH¢28.8bn buyback of DDEP bonds due in February 2027",
       "link": "https://www.myjoyonline.com/government-plans-gh%c2%a228-8bn-buyback-of-ddep-bonds-due-in-february-2027/",
       "source": "MyJoyOnline",
@@ -139,6 +167,19 @@ window.GDC_PAPERS = {
         "Bonds",
         "DDEP",
         "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gideon Boako: Ato Forson inherited debt restructuring gains, gold reserves and rising credit ratings",
+      "link": "https://www.myjoyonline.com/gideon-boako-ato-forson-inherited-debt-restructuring-gains-gold-reserves-and-rising-credit-ratings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:43:00.000Z",
+      "summary": "Tano North MP Dr Gideon Boako has accused Finance Minister Dr Cassiel Ato Forson of taking excessive credit for Ghana’s economic recovery, arguing that several of the gains recorded under…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Gideon Boako"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -181,32 +222,6 @@ window.GDC_PAPERS = {
         "National",
         "Billboards",
         "Deputy Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Every family should have a Family Pharmacist: The future of personalised pharmaceutical care in Ghana",
-      "link": "https://www.myjoyonline.com/every-family-should-have-a-family-pharmacist-the-future-of-personalised-pharmaceutical-care-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:21:14.000Z",
-      "summary": "One such approach is introducing and promoting Family Pharmacist services, so every family can access a designated pharmacist who understands the family's pharmaceutical and…",
-      "categories": [
-        "Opinion",
-        "Family pharmacist"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama to commission 30,000-tonne cashew processing factory in Techiman",
-      "link": "https://www.myjoyonline.com/mahama-to-commission-30000-tonne-cashew-processing-factory-in-techiman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:21:00.000Z",
-      "summary": "President John Dramani Mahama is expected to commission the Nadkansco Cashew Processing Factory in Techiman on Monday, November 16, in a move aimed at strengthening local agro-processing…",
-      "categories": [
-        "National",
-        "Cashew",
-        "Mahama",
-        "Techiman"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -297,18 +312,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ato Forson recalls economic meltdown Under NPP",
-      "link": "https://ghanaiantimes.com.gh/ato-forson-recalls-economic-meltdown-under-npp/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T16:20:37.000Z",
-      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has recalled the severe economic hardship Ghanaians went through under the previous NPP government, describing it as an economic meltdown…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
