@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:30:09.770Z",
+  "updated": "2026-11-16T12:40:08.886Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:37:04.000Z",
+      "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 5",
+        "PwC Post Budget Forum"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Inconvenient Truth: We applaud Africa at the summit, then frown at it on the supermarket shelf",
+      "link": "https://www.myjoyonline.com/the-inconvenient-truth-we-applaud-africa-at-the-summit-then-frown-at-it-on-the-supermarket-shelf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:35:48.000Z",
+      "summary": "Imagine a Ghanaian entrepreneur who manufactures an excellent product that meets international standards, is competitively priced and could succeed anywhere on the continent. She sets off…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Douglas Boateng",
+        "Inconvenient Truth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dangote plans sugar investment in Ghana, targets nearly 50,000 jobs",
+      "link": "https://www.myjoyonline.com/dangote-plans-sugar-investment-in-ghana-targets-nearly-50000-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:31:28.000Z",
+      "summary": "African business magnate Aliko Dangote has announced plans to partner with the Ghanaian government to invest in sugar production, a project he says could create nearly 50,000 jobs.",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Aliko Dangote",
+        "Ghana",
+        "sugar investment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: The CEO’s role in strengthening corporate governance",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-corporate-governance-3/",
@@ -84,6 +128,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Farmers will produce if buyers are guaranteed – President Mahama urges investors to secure markets for farm produce",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-investors-to-guarantee-markets-for-ghanaian-farmers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T12:17:57.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "‘Disappointed but not discouraged’ – Atta Akyea reacts to dismissal of Wontumi’s bail application",
       "link": "https://www.myjoyonline.com/disappointed-but-not-discouraged-atta-akyea-reacts-to-dismissal-of-wontumis-bail-application/",
       "source": "MyJoyOnline",
@@ -95,55 +150,6 @@ window.GDC_PAPERS = {
         "Atta Akyea",
         "Bail application",
         "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Cedi notes: What does Ghana stand to gain?",
-      "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:08:39.000Z",
-      "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?",
-      "categories": [
-        "Banking and Finance",
-        "HP Opinion 5",
-        "National",
-        "Opinion",
-        "Cedi",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The New Cedi at the Altar: Beyond the portrait, beneath the gift",
-      "link": "https://www.myjoyonline.com/the-new-cedi-at-the-altar-beyond-the-portrait-beneath-the-gift/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:03:15.000Z",
-      "summary": "1. INTRODUCTION Money occupies an important place in human society. From the bustling markets of Makola to the smallest village shops across Ghana, money facilitates the exchange of goods…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "Bank of Ghana",
-        "Cedi",
-        "portrait"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sandbox Beach Club not being politically targeted – State Housing Company",
-      "link": "https://www.myjoyonline.com/sandbox-beach-club-not-being-politically-targeted-state-housing-company/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:56:50.000Z",
-      "summary": "The State Housing Company Limited (SHC) says its move to reclaim the land occupied by Sandbox Beach Club is part of a wider exercise to recover state properties and enforce tenancy…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Beach",
-        "Club",
-        "Sandbox",
-        "SHC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -218,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-institutional-reset-catalyst-for-national-transformation-ishmael-yamson.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T09:01:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "China’s imports from Ghana surge 166% under zero-tariff policy - Chinese Ambassador",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chinas-imports-from-ghana-surge-166-under-zero-tariff-policy-chinese-ambassador.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T08:58:21.000Z",
       "summary": "",
       "categories": [
         "General News"
