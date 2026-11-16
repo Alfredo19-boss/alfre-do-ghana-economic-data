@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T05:45:30.300Z",
+  "updated": "2026-11-16T06:15:29.910Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government plans GH¢28.8bn buyback of DDEP bonds due in February 2027",
+      "link": "https://www.myjoyonline.com/government-plans-gh%c2%a228-8bn-buyback-of-ddep-bonds-due-in-february-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T06:11:11.000Z",
+      "summary": "The government is preparing to buy back up to GH¢28.8 billion worth of bonds issued under the Domestic Debt Exchange Programme (DDEP) and scheduled to mature in February 2027.",
+      "categories": [
+        "National",
+        "Top Story",
+        "Bonds",
+        "DDEP",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Afenyo-Markin accuses Mahama of sidelining Big Six in new currency design",
       "link": "https://www.myjoyonline.com/afenyo-markin-accuses-mahama-of-sidelining-big-six-in-new-currency-design/",
@@ -113,20 +128,6 @@ window.GDC_PAPERS = {
         "24-hour economy",
         "Ajumako",
         "market"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana records GHS209.7m in cybersecurity losses in nine months",
-      "link": "https://www.myjoyonline.com/ghana-records-ghs209-7m-in-cybersecurity-losses-in-nine-months/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:07:00.000Z",
-      "summary": "Ghana recorded more than GHS209.7 million in financial losses from 4,938 cybersecurity incidents between January and September 2026.",
-      "categories": [
-        "National",
-        "Cybersecurity",
-        "Ghana",
-        "Losses"
       ],
       "site": "https://www.myjoyonline.com/"
     },
