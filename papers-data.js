@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T07:05:30.790Z",
+  "updated": "2026-11-16T07:15:30.087Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Govt, stakeholders move to tackle school indiscipline",
+      "link": "https://ghanaiantimes.com.gh/govt-stakeholders-move-to-tackle-school-indiscipline/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:13:46.000Z",
+      "summary": "THE Mfantsipim School has climaxed its 150th anniversary celebrations with a call on all to help address the rising level of indiscipline and also promote academic excellence in today’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Declare state of emergency in galamsey areas • Catholic Bishops urge Pres Mahama to take decisive action",
+      "link": "https://ghanaiantimes.com.gh/declare-state-of-emergency-in-galamsey-areas-catholic-bishops-urge-pres-mahama-to-take-decisive-action/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T07:06:17.000Z",
+      "summary": "THE Ghana Catholic Bishops’ Conference has called on President John Dramani Mahama to declare a targeted state of emergency in communities severely affected by illegal mining (galamsey) to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "2027 Budget: Economists back 2027 Budget • Demand jobs, infrastructure, lower cost of living",
       "link": "https://ghanaiantimes.com.gh/2027-budget-economists-back-2027-budget-demand-jobs-infrastructure-lower-cost-of-living/",
@@ -121,17 +145,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Discipline and excellence must go hand in hand",
-      "link": "https://ghanaiantimes.com.gh/discipline-and-excellence-must-go-hand-in-hand/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:34:48.000Z",
-      "summary": "THE celebration of 150 years of Mfantsipim School is more than an occasion to look back on a proud institutional history. It is also an opportunity to reflect on the state of education in…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Bole-Bamboi MP congratulates new NDC Savannah executives, calls for unity ahead of 2028",
       "link": "https://www.myjoyonline.com/bole-bamboi-mp-congratulates-new-ndc-savannah-executives-calls-for-unity-ahead-of-2028/",
       "source": "MyJoyOnline",
@@ -143,18 +156,6 @@ window.GDC_PAPERS = {
         "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2 teachers remanded over alleged sodomy",
-      "link": "https://ghanaiantimes.com.gh/2-teachers-remanded-over-alleged-sodomy/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T06:28:11.000Z",
-      "summary": "TWO teachers from Aduman Senior High School in the Ashanti Region have been remanded into police custody by the Nsuta Circuit Court following allegations of sodomy involving two minor…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Government plans GH¢28.8bn buyback of DDEP bonds due in February 2027",
