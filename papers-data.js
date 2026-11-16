@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T03:55:29.106Z",
+  "updated": "2026-11-16T04:05:28.534Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,47 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tenerife return to action after death of De Miguel",
+      "link": "https://www.myjoyonline.com/tenerife-return-to-action-after-death-of-de-miguel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T03:05:00.000Z",
+      "summary": "Tenerife played their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+      "categories": [
+        "Football",
+        "Jesus de Miguel",
+        "Tenerife"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "United States thrash Haiti in Pochettino’s penultimate match",
+      "link": "https://www.myjoyonline.com/united-states-thrash-haiti-in-pochettinos-penultimate-match/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:56:00.000Z",
+      "summary": "Mauricio Pochettino guided the United States to a thumping 6-0 win over Haiti in his penultimate game in charge.",
+      "categories": [
+        "Football",
+        "Haiti",
+        "Mauricio Pochettino",
+        "United States"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Portugal humbled in first game since Ronaldo retirement",
+      "link": "https://www.myjoyonline.com/portugal-humbled-in-first-game-since-ronaldo-retirement/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T02:46:00.000Z",
+      "summary": "Portugal suffered a heavy loss in their first game since Cristiano Ronaldo announced his international retirement as former Manchester United striker Rasmus Hojlund scored twice to help…",
+      "categories": [
+        "Football",
+        "Cristiano Ronaldo",
+        "International retirement",
+        "Portugal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -87,44 +128,6 @@ window.GDC_PAPERS = {
         "Drug lord",
         "Mexican",
         "Miguel Angel Felix Gallardo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ronaldinho, 46, makes comeback in Ravenna win",
-      "link": "https://www.myjoyonline.com/ronaldinho-46-makes-comeback-in-ravenna-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T00:19:00.000Z",
-      "summary": "Brazil legend Ronaldinho made his comeback at 46 for Ravenna in their 2-0 win over Forli in an Italian third-tier derby.",
-      "categories": [
-        "Football",
-        "Ravenna",
-        "Ronaldinho"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "link": "https://www.myjoyonline.com/thousands-of-us-flights-still-cancelled-or-delayed-two-days-after-grounding-of-planes-nationwide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T00:07:13.000Z",
-      "summary": "Thousands of US flights were cancelled or delayed on Sunday as the US air-traffic control system continued to recover from a technical failure that led to a rare national ground stop…",
-      "categories": [
-        "International",
-        "Flight disruptions"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "link": "https://www.myjoyonline.com/prince-harry-praises-war-veterans-on-surprise-visit-to-ukraine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:56:00.000Z",
-      "summary": "The Duke of Sussex was warmly welcomed on a surprise visit to Ukraine to support injured war veterans, meeting Ukrainian competitors taking part in his Invictus Games.",
-      "categories": [
-        "International",
-        "Prince Harry",
-        "Ukraine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
