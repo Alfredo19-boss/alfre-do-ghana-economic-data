@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T23:06:29.055Z",
+  "updated": "2026-11-16T23:26:50.070Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
     {
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T22:47:00.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 brought together three days of business exhibitions, product displays, shopping bargains, networking and live entertainment at Ghud Park, Accra Mall…"
+    },
+    {
+      "title": "Ghana Space Conference 2026 brings policymakers, experts together to advance space technology",
+      "link": "https://www.myjoyonline.com/ghana-space-conference-2026-brings-policymakers-experts-together-to-advance-space-technology/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:28:00.000Z",
+      "summary": "More than 300 policymakers, scientists, technology experts, industry leaders and international partners have gathered in Accra for the 2026 Ghana Space Conference to explore ways of…"
     },
     {
       "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:11:18.000Z",
       "summary": "Government targets domestic rice production, sugar self-sufficiency and stronger agricultural value chains to reduce food imports."
-    },
-    {
-      "title": "Textile and Garment Industry Set for $1 Billion Investment",
-      "link": "https://thehighstreetjournal.com/textile-and-garment-industry-investment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T09:06:55.000Z",
-      "summary": "Ghana plans to invest $1 billion in its textile and garment industry as the government seeks to expand domestic manufacturing, increase exports and create jobs, particularly for young…"
     }
   ]
 };

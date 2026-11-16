@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T23:06:30.947Z",
+  "updated": "2026-11-16T23:26:52.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -58,6 +58,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ghana Space Conference 2026 brings policymakers, experts together to advance space technology",
+      "link": "https://www.myjoyonline.com/ghana-space-conference-2026-brings-policymakers-experts-together-to-advance-space-technology/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:28:00.000Z",
+      "summary": "More than 300 policymakers, scientists, technology experts, industry leaders and international partners have gathered in Accra for the 2026 Ghana Space Conference to explore ways of…",
+      "categories": [
+        "National",
+        "Technology",
+        "Ghana Space Conference 2026",
+        "space technology"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "No permit, no clearance – Customs blocks release of right-hand steering vehicles",
       "link": "https://www.myjoyonline.com/no-permit-no-clearance-customs-blocks-release-of-right-hand-steering-vehicles/",
       "source": "MyJoyOnline",
@@ -101,6 +115,24 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ghana can grow the rice it eats",
+      "link": "https://www.myjoyonline.com/ghana-can-grow-the-rice-it-eats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:03:00.000Z",
+      "summary": "I have worked as a rice breeder in Ghana for the past two decades. During that time, people in Ghana and abroad have asked me a simple question.",
+      "categories": [
+        "Opinion",
+        "Agriculture",
+        "Farm",
+        "Farmer",
+        "FEED Ghana",
+        "Ghana",
+        "grow",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amantia Chief urges prioritisation of rural development to combat poverty and social vices",
       "link": "https://www.myjoyonline.com/amantia-chief-urges-prioritisation-of-rural-development-to-combat-poverty-and-social-vices/",
       "source": "MyJoyOnline",
@@ -111,34 +143,6 @@ window.GDC_PAPERS = {
         "Amantia Chief",
         "Nana Kwadwo Bredu III",
         "rural development"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Breaking the raw material curse: How Techiman’s new cashew factory redefines Ghana’s export future",
-      "link": "https://www.myjoyonline.com/breaking-the-raw-material-curse-how-techimans-new-cashew-factory-redefines-ghanas-export-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:54:48.000Z",
-      "summary": "In a significant boost to Ghana's industrialisation drive and agricultural value addition, President John Dramani Mahama has commissioned a state-of-the-art 100-metric-tonne-per-day cashew…",
-      "categories": [
-        "Regional",
-        "cashew factory",
-        "Techiman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AngloGold Ashanti Obuasi wins SSI Foundation Company of the Year",
-      "link": "https://www.myjoyonline.com/anglogold-ashanti-obuasi-wins-ssi-foundation-company-of-the-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:50:21.000Z",
-      "summary": "AngloGold Ashanti Obuasi Mine has received multiple honours at the 10th edition of the Sustainability and Social Investment (SSI) Awards, including the SSI Foundation Company of the Year…",
-      "categories": [
-        "Events",
-        "National",
-        "Anglogold Ashanti",
-        "company of th eyear",
-        "SSI foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
