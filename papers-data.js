@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:50:08.772Z",
+  "updated": "2026-11-16T12:00:09.143Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sandbox Beach Club not being politically targeted – State Housing Company",
+      "link": "https://www.myjoyonline.com/sandbox-beach-club-not-being-politically-targeted-state-housing-company/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:56:50.000Z",
+      "summary": "The State Housing Company Limited (SHC) says its move to reclaim the land occupied by Sandbox Beach Club is part of a wider exercise to recover state properties and enforce tenancy…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "News",
+        "Beach",
+        "Club",
+        "Sandbox",
+        "SHC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "No new taxes in 2027 will bring relief to Ghanaians – Taxpayers League",
       "link": "https://www.myjoyonline.com/no-new-taxes-in-2027-will-bring-relief-to-ghanaians-taxpayers-league/",
@@ -122,19 +139,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "Energy",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Energy Sector CEO of the Year, David Azupio, urges young people to dream beyond their circumstances",
-      "link": "https://www.myjoyonline.com/energy-sector-ceo-of-the-year-david-azupio-urges-young-people-to-dream-beyond-their-circumstances/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:20:51.000Z",
-      "summary": "The newly crowned Energy CEO of the Year, David Azupio, has urged young people and aspiring entrepreneurs not to allow their present circumstances to limit their ambitions. The Founder and…",
-      "categories": [
-        "National",
-        "David Azupio",
-        "Energy Sector"
       ],
       "site": "https://www.myjoyonline.com/"
     },

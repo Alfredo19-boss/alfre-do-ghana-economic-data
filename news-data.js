@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T11:49:39.723Z",
+  "updated": "2026-11-16T11:59:55.908Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -31,6 +31,13 @@ window.GDC_NEWS = {
     {
       "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
       "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:20:17.000Z",
+      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
+    },
+    {
+      "title": "PwC Post-Budget Forum: Fitch Solutions forecasts cedi averaging GH¢12.40 in 2027",
+      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-solutions-forecasts-cedi-averaging-gh12-40-in-2027/",
       "source": "MyJoyOnline",
       "published": "2026-11-16T11:20:17.000Z",
       "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T18:48:24.000Z",
       "summary": "The initiative, launched at Madina market in Accra, is designed to enable traders, artisans, drivers, entrepreneurs and other self-employed individuals to build retirement savings through…"
-    },
-    {
-      "title": "2027 Budget: Ato Forson pledges disciplined use of fiscal space to create jobs and boost production",
-      "link": "https://www.myjoyonline.com/2027-budget-ato-forson-pledges-disciplined-use-of-fiscal-space-to-create-jobs-and-boost-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T18:39:57.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says the government must use every cedi of fiscal space to generate jobs, strengthen domestic production and create lasting value for Ghanaians…"
     }
   ]
 };
