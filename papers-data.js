@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T19:36:56.430Z",
+  "updated": "2026-11-16T20:16:33.984Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
+      "link": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:13:32.000Z",
+      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national…",
+      "categories": [
+        "National",
+        "Technology",
+        "Dr Joseph Tandoh",
+        "Ghana",
+        "GSSTI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
+      "link": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:13:25.000Z",
+      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its…",
+      "categories": [
+        "National",
+        "Technology",
+        "Telecom",
+        "Ghana",
+        "Kwaku Sumah",
+        "Space Hubs Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Police seek stronger Netherlands partnership on drug and human trafficking",
       "link": "https://www.myjoyonline.com/ghana-police-seek-stronger-netherlands-partnership-on-drug-and-human-trafficking/",
@@ -103,35 +134,6 @@ window.GDC_PAPERS = {
         "Belinda Akorfa Adokpa",
         "Cashew",
         "NADKANSCO LIMITED"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ejisu MP supports 410 tertiary students with scholarships for equitable education",
-      "link": "https://www.myjoyonline.com/ejisu-mp-supports-410-tertiary-students-with-scholarships-for-equitable-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:40:03.000Z",
-      "summary": "The Member of Parliament for Ejisu in the Ashanti Region, Kwabena Boateng, has extended financial support to over 400 tertiary students in the constituency as part of efforts to promote…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Ejisu",
-        "Kwabena Boateng",
-        "Scholarships",
-        "Tertiary Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama announces 3-month ban on raw cashew exports to prioritise local processors",
-      "link": "https://www.myjoyonline.com/president-mahama-announces-three-month-ban-on-raw-cashew-exports-to-prioritise-local-processors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:39:11.000Z",
-      "summary": "President John Dramani Mahama has announced plans to restrict the export of raw cashew nuts for the first three months of the harvesting season to ensure local processing companies have…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Cashew"
       ],
       "site": "https://www.myjoyonline.com/"
     },
