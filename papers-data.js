@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T20:36:23.442Z",
+  "updated": "2026-11-16T20:46:22.014Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana can grow the rice it eats",
+      "link": "https://www.myjoyonline.com/ghana-can-grow-the-rice-it-eats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T20:37:00.000Z",
+      "summary": "I have worked as a rice breeder in Ghana for the past two decades. During that time, people in Ghana and abroad have asked me a simple question.",
+      "categories": [
+        "Opinion",
+        "Agriculture",
+        "Farm",
+        "Farmer",
+        "FEED Ghana",
+        "Ghana",
+        "grow",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Open Letter To the Government: Who’s protecting young Ghanaians travelling to Russia? Are they safe?",
       "link": "https://www.myjoyonline.com/open-letter-to-the-government-whos-protecting-young-ghanaians-travelling-to-russia-are-they-safe/",
@@ -118,18 +136,6 @@ window.GDC_PAPERS = {
         "Johnson Asiedu Nketiah",
         "NDC Regional Elections",
         "Vote-buying"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t will provide funds to EXIM Bank for on-lending to the tree crop sector – President Mahama",
-      "link": "https://www.myjoyonline.com/govt-will-provide-funds-to-exim-bank-for-on-lending-to-the-tree-crop-sector-president-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:56:38.000Z",
-      "summary": "President John Dramani Mahama has announced plans to provide funding to the Ghana Export-Import Bank (Ghana EXIM Bank) to support financing for Ghana's cashew industry as part of…",
-      "categories": [
-        "National",
-        "Exim Bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
