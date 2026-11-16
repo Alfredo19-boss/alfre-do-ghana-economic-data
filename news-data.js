@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T09:29:40.941Z",
+  "updated": "2026-11-16T09:40:08.529Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
+      "link": "https://thehighstreetjournal.com/from-consumption-to-lasting-legacies-ghanas-resource-money-to-fund-only-critical-infrastructure-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T09:30:00.000Z",
+      "summary": "Ghana plans to legally ring-fence all natural resource revenues for legacy infrastructure projects, replacing the petroleum-only framework with a unified law and consolidating MIIF and GIIF…"
+    },
     {
       "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
       "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-12T16:15:33.000Z",
       "summary": "With the applications dismissed and the recall request granted, both cases are set for further proceedings next week."
-    },
-    {
-      "title": "President launches Ghana’s new Heritage Series cedi banknotes",
-      "link": "https://www.ghanabusinessnews.com/2026/11/12/president-launches-ghanas-new-heritage-series-cedi-banknotes/",
-      "source": "Ghana Business News",
-      "published": "2026-11-12T16:09:15.000Z",
-      "summary": "President John Dramani Mahama on Thursday launched the Bank of Ghana’s (BoG) upgraded Heritage Series banknotes at the Bank Square in Accra, describing the new currency as a symbol of…"
     }
   ]
 };

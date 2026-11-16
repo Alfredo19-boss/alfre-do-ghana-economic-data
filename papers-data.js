@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T09:30:09.443Z",
+  "updated": "2026-11-16T09:40:10.619Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Deceptive marketing in the digital era",
+      "link": "https://www.myjoyonline.com/deceptive-marketing-in-the-digital-era/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T09:32:51.000Z",
+      "summary": "A single Instagram post can fill a vendor’s DMs with hundreds of orders. A good photo, low prices, or a word from a popular influencer can close a sale within minutes. Some businesses use…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "digital era",
+        "Marketing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New Savannah NDC Secretary sets sights on reclaiming Damongo seat in 2028",
       "link": "https://www.myjoyonline.com/new-savannah-ndc-secretary-sets-sights-on-reclaiming-damongo-seat-in-2028/",
@@ -151,21 +166,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Linda Ocloo blames persistent Accra streetlight outages on cable theft",
-      "link": "https://www.myjoyonline.com/linda-ocloo-blames-persistent-accra-streetlight-outages-on-cable-theft/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:05:20.000Z",
-      "summary": "Greater Accra Regional Minister Linda Ocloo has blamed persistent streetlight outages in parts of Accra on the theft of cables and other components, saying the problem is undermining…",
-      "categories": [
-        "HP News 10",
-        "Regional",
-        "cable theft",
-        "Linda Ocloo",
-        "streetlight outages"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Don't fall for the scam: GES says teacher recruitment portal is not open",
