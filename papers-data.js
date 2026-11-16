@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T14:00:10.628Z",
+  "updated": "2026-11-16T14:10:15.966Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gomoa Ajumako Akwansrahene pledges development drive, unveils support fund plan",
+      "link": "https://www.myjoyonline.com/gomoa-ajumako-akwansrahene-pledges-development-drive-unveils-support-fund-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:57:32.000Z",
+      "summary": "The newly installed Akwansrahene of the Gomoa Ajumako Traditional Area, Nana Barima Owusu I, has called for a collective effort to move Gomoa to the next level of development. Nana Barima…",
+      "categories": [
+        "National",
+        "News",
+        "Regional",
+        "Akwansrahene",
+        "Gomoa Ajumako",
+        "Nana Barima Owusu I"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Phlakes releases ‘Outside’ ahead of upcoming DLAR Vol. 2 project",
       "link": "https://www.myjoyonline.com/phlakes-releases-outside-ahead-of-upcoming-dlar-vol-2-project/",
@@ -132,21 +148,6 @@ window.GDC_PAPERS = {
         "Afia Schwarzenegger",
         "court",
         "Sammy Gyamfi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stones cannot replace trees and landscape plants: Is Accra’s beautification turning our capital into a concrete jungle?",
-      "link": "https://www.myjoyonline.com/stones-cannot-replace-trees-and-landscape-plants-is-accras-beautification-turning-our-capital-into-a-concrete-jungle/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:31:23.000Z",
-      "summary": "Something disturbing is happening to Accra's urban landscape. Along some of the capital's major roads, established flowering shrubs, ornamental plants and mature trees are being removed and…",
-      "categories": [
-        "Opinion",
-        "Concrete Jungle",
-        "Landscape",
-        "Stones",
-        "Tree"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T14:00:08.158Z",
+  "updated": "2026-11-16T14:10:09.348Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,25 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 521)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana offers carbon market roadmap to African countries",
+      "link": "https://www.ghanabusinessnews.com/2026/11/16/ghana-offers-carbon-market-roadmap-to-african-countries/",
+      "source": "Ghana Business News",
+      "published": "2026-11-16T14:05:14.000Z",
+      "summary": "Ghana has offered to share its experience in carbon credit generation and transfer with other African countries to support their participation in international carbon markets."
+    },
+    {
+      "title": "Ghana Opens Garment, Pharmaceutical and Agribusiness Projects to Private Investors",
+      "link": "https://thehighstreetjournal.com/ghana-opens-garment-pharmaceutical-and-agribusiness-projects-to-private-investors/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T14:00:00.000Z",
+      "summary": "The government is seeking private sector participation in new factories, agricultural processing estates and industrial hubs as it looks to expand domestic production, create jobs and…"
+    },
     {
       "title": "GRA Arrests China Mall Operators Over Alleged E-VAT Tax Evasion",
       "link": "https://thehighstreetjournal.com/gra-arrests-china-mall-operators-over-alleged-e-vat-tax-evasion/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T21:58:00.000Z",
       "summary": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen…"
-    },
-    {
-      "title": "Government to invest US$1bn in textile and garment industry – Ato Forson",
-      "link": "https://www.myjoyonline.com/government-to-invest-us1bn-in-textile-and-garment-industry-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:48:36.000Z",
-      "summary": "Government will invest US$1 billion to transform Ghana's textile and garment industry into a competitive manufacturing hub capable of supplying global fashion markets."
-    },
-    {
-      "title": "EXIM Bank to lead poultry sector financing under four-year programme from 2027 – Ato Forson",
-      "link": "https://www.myjoyonline.com/exim-bank-to-lead-poultry-sector-financing-under-four-year-programme-from-2027-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:35:20.000Z",
-      "summary": "The Ghana Export-Import Bank (EXIM Bank) will become the sole financial institution responsible for financing Ghana's poultry sector under a four-year programme beginning in 2027."
     }
   ]
 };
