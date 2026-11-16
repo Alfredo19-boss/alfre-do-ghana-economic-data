@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T05:35:31.426Z",
+  "updated": "2026-11-16T05:45:30.300Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Afenyo-Markin accuses Mahama of sidelining Big Six in new currency design",
+      "link": "https://www.myjoyonline.com/afenyo-markin-accuses-mahama-of-sidelining-big-six-in-new-currency-design/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T05:37:33.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has taken aim at the Mahama administration over the exclusion of five members of the Big Six from Ghana’s newly unveiled banknotes, arguing that the…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Afenyo-Markin",
+        "Big Six",
+        "Mahama",
+        "New banknotes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Advertisers Association rejects political claims over crackdown on illegal billboards",
       "link": "https://www.myjoyonline.com/advertisers-association-rejects-political-claims-over-crackdown-on-illegal-billboards/",
@@ -111,19 +127,6 @@ window.GDC_PAPERS = {
         "Cybersecurity",
         "Ghana",
         "Losses"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa highlights Mahama’s Volta projects",
-      "link": "https://www.myjoyonline.com/ablakwa-highlights-mahamas-volta-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:01:00.000Z",
-      "summary": "Samuel Okudzeto Ablakwa, Member of Parliament (MP) for North Tongu, has described the Volivo bridge construction and the 12,000-capacity FIFA-standard stadium in the Volta region as a big…",
-      "categories": [
-        "National",
-        "Ablakwa",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
