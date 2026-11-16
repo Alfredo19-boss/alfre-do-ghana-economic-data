@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T14:44:40.671Z",
+  "updated": "2026-11-16T19:21:25.506Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,163 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
+      "link": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:45:35.000Z",
+      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands…"
+    },
+    {
+      "title": "Deputy Communications Minister urges action-oriented partnerships to expand satellite connectivity",
+      "link": "https://www.myjoyonline.com/deputy-communications-minister-urges-action-oriented-partnerships-to-expand-satellite-connectivity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:21:37.000Z",
+      "summary": "The Deputy Minister for Communication, Digital Technology and Innovations, Mohammed Adam Sukparu, has called for stronger partnerships among government, industry players and international…"
+    },
+    {
+      "title": "Mahama calls on local and foreign investors to tap into US$10bn New Economy Programme",
+      "link": "https://www.myjoyonline.com/mahama-calls-on-local-and-foreign-investors-to-tap-into-us10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:10:02.000Z",
+      "summary": "President John Mahama has urged local and international investors to take advantage of Ghana's US$10 billion New Economy Programme, which is expected to mobilise investments across eight…"
+    },
+    {
+      "title": "NADKANSCO targets export market with cashew kernels, shell liquid and briquettes",
+      "link": "https://www.myjoyonline.com/nadkansco-targets-export-market-with-cashew-kernels-shell-liquid-and-briquettes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T17:06:12.000Z",
+      "summary": "NADKANSCO Cashew Processing Limited in Techiman is preparing to supply international markets with processed cashew products, including cashew kernels, cashew nut shell liquid and…"
+    },
+    {
+      "title": "Fidelity Bank Atta Gyan calls for greater investment in Ghana’s productive sectors to drive industrial growth",
+      "link": "https://www.myjoyonline.com/fidelity-bank-atta-gyan-calls-for-greater-investment-in-ghanas-productive-sectors-to-drive-industrial-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T17:03:16.000Z",
+      "summary": "Fidelity Bank Ghana has called for greater mobilisation of domestic capital, investment in technology, and targeted policy interventions to accelerate industrialisation and turn Ghana’s…"
+    },
+    {
+      "title": "EXIM Bank-funded cashew factory targets 33,000-tonne annual processing capacity",
+      "link": "https://www.myjoyonline.com/exim-bank-funded-cashew-factory-targets-33000-tonne-annual-processing-capacity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T17:02:35.000Z",
+      "summary": "The newly commissioned NADKANSCO Cashew Processing Limited in Techiman has the capacity to process up to 33,000 metric tonnes of raw cashew nuts annually, in a major boost to Ghana's…"
+    },
+    {
+      "title": "Wholesalers, distributors and retailers excited about 2027 budget as Ekumfi Juice shortages could become a thing of the past",
+      "link": "https://www.myjoyonline.com/wholesalers-distributors-and-street-retailers-excited-about-2027-budget-as-ekumfi-juice-shortages-could-become-a-thing-of-the-past/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:55:28.000Z",
+      "summary": "Ghana’s 2027 Budget, presented by the Minister of Finance, Dr Cassiel Ato Forson, named Ekumfi Fruits & Juices Limited for commercial contract farming and pineapple outgrower development, a…"
+    },
+    {
+      "title": "BoG appoints Peter Quartey to MPC as Joshua Abor bows out",
+      "link": "https://www.myjoyonline.com/bog-appoints-peter-quartey-to-mpc-as-joshua-abor-bows-out/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:54:13.000Z",
+      "summary": "Professor of Economics, Peter Quartey, has joined the Bank of Ghana’s (BoG) Monetary Policy Committee (MPC) as an external member, replacing Professor Joshua Abor, who is stepping down…"
+    },
+    {
+      "title": "Fuel prices fall as Star Oil cuts petrol to GH¢14.97, diesel to GH¢17.95",
+      "link": "https://www.myjoyonline.com/fuel-prices-fall-as-star-oil-cuts-petrol-to-gh%c2%a214-97-diesel-to-gh%c2%a217-95/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:52:40.000Z",
+      "summary": "Fuel prices have begun to fall at the pumps, with Star Oil reducing petrol to GH¢14.97 per litre and diesel to GH¢17.95 per litre from Monday, November 16, 2026."
+    },
+    {
+      "title": "Ghana EXIM Bank commits $12m to NADKANSCO cashew processing factory – Sylvester Mensah",
+      "link": "https://www.myjoyonline.com/ghana-exim-bank-commits-12m-to-nadkansco-cashew-processing-factory-sylvester-mensah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:51:12.000Z",
+      "summary": "The Ghana Export-Import Bank (Ghana EXIM Bank) has committed approximately $12 million to support the establishment and operations of NADCANSCO Cashew Processing Limited in Techiman."
+    },
+    {
+      "title": "Ghana produced 262,000 tonnes of cashew in 2025 but processed only 17,000 tonnes locally – EXIM Bank CEO",
+      "link": "https://www.myjoyonline.com/ghana-produced-262000-tonnes-of-cashew-in-2025-but-processed-only-17000-tonnes-locally-exim-bank-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:46:46.000Z",
+      "summary": "Ghana produced more than 262,000 metric tonnes of raw cashew nuts in 2025, but only 17,000 metric tonnes were processed locally, highlighting the country's limited capacity to add value to…"
+    },
+    {
+      "title": "AfDB Secures $583m Japanese Loan To Expand Concessional Financing For Africa",
+      "link": "https://thehighstreetjournal.com/afdb-secures-583m-japanese-loan-to-expand-concessional-financing-for-africa/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T16:30:00.000Z",
+      "summary": "AfDB has secured a $583.4 million concessional Japanese loan for ADF-17, expanding affordable development financing for Africa's poorest countries and supporting infrastructure, energy…"
+    },
+    {
+      "title": "Ghana’s 2027 Budget: From macroeconomic stability to prioritising public investment",
+      "link": "https://www.myjoyonline.com/ghanas-2027-budget-from-macroeconomic-stability-to-prioritising-public-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:14:49.000Z",
+      "summary": "The 2026 economic outturn supports the government’s claim that stabilisation has advanced. Real GDP grew 6.2% in the first half of 2026; headline inflation was 5.5% in October. During…"
+    },
+    {
+      "title": "Achievements of ‘New Economy’ must be measured by sustained improvements in economic growth, employment and productivity – Dr. Nsafoah",
+      "link": "https://www.myjoyonline.com/achievements-of-new-economy-must-be-measured-by-sustained-improvements-in-economic-growth-employment-and-productivity-dr-nsafoah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T16:05:22.000Z",
+      "summary": "In his commentary on the budget titled “Ghana's 2027 Budget: From Macroeconomic Stability to Prioritising Public Investment”, Dr. Nsafoah said the 2027 Budget identifies a markedly larger…"
+    },
+    {
+      "title": "Gold Price Decline Raises Concerns for Ghana’s Export Earnings",
+      "link": "https://thehighstreetjournal.com/gold-price-decline-raises-concerns-for-ghanas-export-earnings/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T16:02:00.000Z",
+      "summary": "Bullion falls to a 13-month low as expectations of higher US interest rates strengthen the dollar, exposing Ghana’s growing dependence on gold for foreign exchange."
+    },
+    {
+      "title": "Government Targets 5.2% Growth As $10bn New Economy Programme Takes Centre Stage in 2027 Budget",
+      "link": "https://thehighstreetjournal.com/government-targets-5-2-growth-as-10bn-new-economy-programme-takes-centre-stage-in-2027-budget/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T15:37:00.000Z",
+      "summary": "Government targets 5.2% growth in 2027, backed by GH¢30 billion for productive investment and a $10 billion New Economy Programme aimed at expanding industries, production and employment."
+    },
+    {
+      "title": "JENSEN HUANG’S INFIDELITY EXPLAINED: Why It Could Be You Next!",
+      "link": "https://thehighstreetjournal.com/jensen-huangs-infidelity-explained-why-it-could-be-you-next/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T15:16:06.000Z",
+      "summary": "When Mother Nature gives successful men a sexual buffet, but society expects them to have the appetite of a Pope on hunger strike"
+    },
+    {
+      "title": "BoG flags renewed inflationary pressures as rate rises to 5.5% in October",
+      "link": "https://www.myjoyonline.com/bog-flags-renewed-inflationary-pressures-as-rate-rises-to-5-5-in-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T15:14:45.000Z",
+      "summary": "The Bank of Ghana (BoG) is closely monitoring emerging inflationary pressures following an increase in headline inflation to 5.5% in October 2026, from 5.2% in September. Governor of the…"
+    },
+    {
+      "title": "GEXIM-backed cashew factory to create 1,500 jobs, boost Ghana’s value-added exports",
+      "link": "https://www.myjoyonline.com/gexim-backed-cashew-factory-to-create-1500-jobs-boost-ghanas-value-added-exports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T15:13:05.000Z",
+      "summary": "Support from the Ghana Export-Import Bank (GEXIM) for the Nadkansco Cashew Processing Factory in Techiman is expected to strengthen Ghana’s agro-processing capacity, expand exports of…"
+    },
+    {
+      "title": "The Race for the Gavel: Who Succeeds Baffoe-Bonnie as Chief Justice?",
+      "link": "https://thehighstreetjournal.com/the-race-for-the-gavel-who-succeeds-baffoe-bonnie-as-chief-justice/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T15:09:00.000Z",
+      "summary": "The Constitution, by its article 144, places the appointment of the Chief Justice in the hands of the President, acting in consultation with the Council of State and subject to the approval…"
+    },
+    {
+      "title": "BoG to scrutinise 2027 budget financing, spending for inflation and exchange rate risks",
+      "link": "https://www.myjoyonline.com/bog-to-scrutinise-2027-budget-financing-spending-for-inflation-and-exchange-rate-risks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T15:05:08.000Z",
+      "summary": "The Bank of Ghana (BoG) says it will closely examine the financing arrangements and expenditure plans under the government’s 2027 Budget to assess their potential implications for…"
+    },
+    {
+      "title": "BoG considers changes to monetary policy framework to improve credit transmission",
+      "link": "https://www.myjoyonline.com/bog-considers-changes-to-monetary-policy-framework-to-improve-credit-transmission/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T14:48:41.000Z",
+      "summary": "The Bank of Ghana (BoG) is reviewing the effectiveness of its monetary policy framework, with particular attention to how policy rate decisions translate into bank lending rates and credit…"
+    },
     {
       "title": "BoG warns El Niño could trigger food inflation, threaten cocoa export earnings",
       "link": "https://www.myjoyonline.com/bog-warns-el-nino-could-trigger-food-inflation-threaten-cocoa-export-earnings/",
@@ -916,160 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T06:02:00.000Z",
       "summary": "A mother takes time off work to register her child’s birth. She makes the trip to the registration office, only to learn at the counter that she needs another document. The instruction…"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 opens today at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-opens-today-at-ghud-park-accra-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:48:00.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 opens today at the GHUD Park, Accra Mall, bringing together businesses and consumers for a three-day exhibition of Ghanaian products and services."
-    },
-    {
-      "title": "US$200m chicken import bill puts local poultry production in focus – Forson",
-      "link": "https://www.myjoyonline.com/us200m-chicken-import-bill-puts-local-poultry-production-in-focus-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:26:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has questioned Ghana’s annual spending of about US$200 million on chicken imports, arguing that local maize and soybean production could support a…"
-    },
-    {
-      "title": "The Gospel According to Ato Forson: The New Economy Vrs the 24-Hour Economy – The What & What Not",
-      "link": "https://thehighstreetjournal.com/the-gospel-according-to-ato-forson-the-new-economy-vrs-the-24-hour-economy-the-what-what-not/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:05:00.000Z",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson clarified that the ten billion dollar New Economy Programme provides the state infrastructure foundation, while the 24-Hour Economy serves as a…"
-    },
-    {
-      "title": "Peasant agriculture cannot solve Ghana’s food problems – Ato Forson",
-      "link": "https://www.myjoyonline.com/peasant-agriculture-cannot-solve-ghanas-food-problems-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T05:03:57.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must move beyond peasant agriculture and modernise food production to reduce its dependence on imports."
-    },
-    {
-      "title": "GH¢323Bn In, GH¢375Bn Out: How Ghana Plans to Mobilize and Spend in the 2027 Budget",
-      "link": "https://thehighstreetjournal.com/gh%c2%a2323bn-in-gh%c2%a2375bn-out-how-ghana-plans-to-mobilize-and-spend-in-the-2027-budget/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:03:00.000Z",
-      "summary": "Ghana’s 2027 Budget targets GH¢323.1 billion in total revenue, led by GH¢255.8 billion in non-oil taxes, against GH¢375.0 billion in expenditure. Spending prioritizes capital…"
-    },
-    {
-      "title": "Ghana to Invest $1 Billion in Pharmaceuticals to Cut Medicine Imports and Boost Local Production",
-      "link": "https://thehighstreetjournal.com/ghana-to-invest-1bn-in-pharmaceuticals/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:02:00.000Z",
-      "summary": "Ghana plans to invest $1 billion in pharmaceutical and biomanufacturing facilities as the government seeks to reduce its reliance on imported medicines, conserve foreign exchange and…"
-    },
-    {
-      "title": "Ghana Commits US$1.45bn To Energy Infrastructure, Targets End To Emergency Power By 2030",
-      "link": "https://thehighstreetjournal.com/ghana-commits-us1-45bn-to-energy-infrastructure-targets-end-to-emergency-power-by-2030/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:01:00.000Z",
-      "summary": "Government plans a 1,450MW state-owned thermal plant, solar generation, and battery storage to reduce electricity costs and strengthen energy security."
-    },
-    {
-      "title": "GSE IPO Revival Raises GH¢2.1bn as Exchange Eyes Digital Assets",
-      "link": "https://thehighstreetjournal.com/gse-ipo-revival-raises-gh%c2%a22-1bn-as-exchange-eyes-digital-assets/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:00:00.000Z",
-      "summary": "GSE's three recent IPOs raised GH¢2.1 billion, as the Exchange prepares to expand capital-raising opportunities through regulated digital securities."
-    },
-    {
-      "title": "National AI Centre, Rural 4G Upgrade Set for $300 Million Investment",
-      "link": "https://thehighstreetjournal.com/national-ai-centre-rural-4g-upgrade/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:00:00.000Z",
-      "summary": "The investment will provide shared computing infrastructure, research facilities and technical training for local businesses, universities, researchers and public institutions"
-    },
-    {
-      "title": "Trump Backs Tim Cook to Replace Jensen Huang as Nvidia CEO",
-      "link": "https://thehighstreetjournal.com/trump-backs-tim-cook-to-replace-jensen/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:00:00.000Z",
-      "summary": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple"
-    },
-    {
-      "title": "Mercury Pollution Spreads Beyond Mining Sites as Ghana Faces Growing Water Safety Risks",
-      "link": "https://thehighstreetjournal.com/mercury-pollution-spreads-beyond-mining-sites-as-ghana-faces-growing-water-safety-risks/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:00:00.000Z",
-      "summary": "Research findings point to contamination in rivers, sediments, and boreholes, raising concerns about exposure through drinking water and fish."
-    },
-    {
-      "title": "Ghana’s First Carbonate Hydrocarbon Discovery Opens New Oil Exploration Frontier",
-      "link": "https://thehighstreetjournal.com/ghanas-first-carbonate-hydrocarbon-discovery-opens-new-oil-exploration-frontier/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T05:00:00.000Z",
-      "summary": "Ghana's first successful carbonate reservoir discovery offshore could expand exploration prospects, support reserve replacement and attract investment, although further technical evaluation…"
-    },
-    {
-      "title": "2027 Budget: Promised 24-hour economy incentives still missing",
-      "link": "https://www.myjoyonline.com/2027-budget-promised-24-hour-economy-incentives-still-missing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:54:56.000Z",
-      "summary": "The 2027 Budget does not specify several incentives proposed to attract businesses into Ghana’s 24-hour economy programme; instead, it outlines a narrower set of tax measures for…"
-    },
-    {
-      "title": "‘It cannot continue’ – Ato Forson challenges Ghana’s $3.5bn food import bill",
-      "link": "https://www.myjoyonline.com/it-cannot-continue-ato-forson-challenges-ghanas-3-5bn-food-import-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:41:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has called for a shift towards modern commercial agriculture to reduce Ghana’s annual US$3.5 billion food import bill."
-    },
-    {
-      "title": "‘Come and buy our cocoa beans, but add value here in Ghana’ – Forson",
-      "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T04:25:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has urged international cocoa buyers to process beans in Ghana, as the government pursues plans to increase local processing to 50% by 2028 and 100%…"
-    },
-    {
-      "title": "Ato Forson credits ‘shock therapy’ for Ghana’s two-year stabilisation",
-      "link": "https://www.myjoyonline.com/ato-forson-credits-shock-therapy-for-ghanas-two-year-stabilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:46:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has credited an aggressive fiscal adjustment programme with stabilising Ghana’s economy in two years, saying the government deliberately exceeded its…"
-    },
-    {
-      "title": "Taking back 1% of GDP in 2027 won’t harm economy – Ato Forson",
-      "link": "https://www.myjoyonline.com/taking-back-1-of-gdp-in-2027-wont-harm-economy-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T03:10:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson defended plans to take back 1% of GDP in fiscal savings in 2027, arguing the government exceeded its earlier primary surplus target to restore…"
-    },
-    {
-      "title": "NaBCo and YEA models cannot deliver lasting jobs – Ato Forson",
-      "link": "https://www.myjoyonline.com/nabco-and-yea-models-cannot-deliver-lasting-jobs-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:40:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must restructure its economy to create lasting employment, rather than rely on temporary jobs under models such as NaBCo and the Youth…"
-    },
-    {
-      "title": "Telecel Cash launches E-wallet and Telecel Shop to advance digital commerce",
-      "link": "https://www.myjoyonline.com/telecel-cash-launches-e-wallet-and-telecel-shop-to-advance-digital-commerce/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T02:21:00.000Z",
-      "summary": "Telecel Mobile Financial Services has introduced the Telecel Cash E-Wallet and Telecel Shop, bringing shopping, payments and digital financial services together in the Telecel Play App."
-    },
-    {
-      "title": "‘Dangote has reached out to use Ghana as a hub to process cocoa locally’ – Ato Forson",
-      "link": "https://www.myjoyonline.com/dangote-has-reached-out-to-use-ghana-as-a-hub-to-process-cocoa-locally-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T01:43:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Dangote has expressed interest in using Ghana as a cocoa-processing hub, with discussions underway over a proposed contract involving 500,000…"
-    },
-    {
-      "title": "Ghana must modernise economy to meet growing population’s needs – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghana-must-modernise-economy-to-meet-growing-populations-needs-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:29:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana must reshape its economy to support 35 million people and create decent jobs, rather than rely on temporary employment programmes."
-    },
-    {
-      "title": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana – Ato Forson",
-      "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T00:17:00.000Z",
-      "summary": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing…"
     }
   ]
 };

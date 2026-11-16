@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T14:45:10.941Z",
+  "updated": "2026-11-16T19:21:34.174Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,197 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Climate x Culture Summit makes the case for culture in the Culture Global Stocktake",
+      "link": "https://www.myjoyonline.com/climate-x-culture-summit-makes-the-case-for-culture-in-the-culture-global-stocktake/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T19:19:06.000Z",
+      "summary": "The Climate x Culture Summit in Accra opened with an acoustic performance by EliThreeSixty. Later in the programme, a live band from the Restoration Artistes Network took the stage with…",
+      "categories": [
+        "Arts and Culture",
+        "National",
+        "Climate x Culture Summit",
+        "Culture Global Stocktake"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketiah urges police to investigate alleged vote-buying in NDC regional elections",
+      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-police-to-investigate-alleged-vote-buying-in-ndc-regional-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:57:05.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called on the Ghana Police Service to investigate allegations of vote-buying during the party's…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Johnson Asiedu Nketiah",
+        "NDC Regional Elections",
+        "Vote-buying"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t will provide funds to EXIM Bank for on-lending to the tree crop sector – President Mahama",
+      "link": "https://www.myjoyonline.com/govt-will-provide-funds-to-exim-bank-for-on-lending-to-the-tree-crop-sector-president-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:56:38.000Z",
+      "summary": "President John Dramani Mahama has announced plans to provide funding to the Ghana Export-Import Bank (Ghana EXIM Bank) to support financing for Ghana's cashew industry as part of…",
+      "categories": [
+        "National",
+        "Exim Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
+      "link": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:45:35.000Z",
+      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Belinda Akorfa Adokpa",
+        "Cashew",
+        "NADKANSCO LIMITED"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ejisu MP supports 410 tertiary students with scholarships for equitable education",
+      "link": "https://www.myjoyonline.com/ejisu-mp-supports-410-tertiary-students-with-scholarships-for-equitable-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:40:03.000Z",
+      "summary": "The Member of Parliament for Ejisu in the Ashanti Region, Kwabena Boateng, has extended financial support to over 400 tertiary students in the constituency as part of efforts to promote…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Ejisu",
+        "Kwabena Boateng",
+        "Scholarships",
+        "Tertiary Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama announces 3-month ban on raw cashew exports to prioritise local processors",
+      "link": "https://www.myjoyonline.com/president-mahama-announces-three-month-ban-on-raw-cashew-exports-to-prioritise-local-processors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:39:11.000Z",
+      "summary": "President John Dramani Mahama has announced plans to restrict the export of raw cashew nuts for the first three months of the harvesting season to ensure local processing companies have…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Cashew"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra–Kumasi Expressway – Ghana must not miss the digital infrastructure opportunity",
+      "link": "https://www.myjoyonline.com/accra-kumasi-expressway-ghana-must-not-miss-the-digital-infrastructure-opportunity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:32:12.000Z",
+      "summary": "The Accra–Kumasi Expressway is one of Ghana’s most consequential infrastructure investments in recent years. But its significance should not be measured only in kilometres of asphalt…",
+      "categories": [
+        "National",
+        "Accra–Kumasi Expressway",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Communications Minister urges action-oriented partnerships to expand satellite connectivity",
+      "link": "https://www.myjoyonline.com/deputy-communications-minister-urges-action-oriented-partnerships-to-expand-satellite-connectivity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T18:21:37.000Z",
+      "summary": "The Deputy Minister for Communication, Digital Technology and Innovations, Mohammed Adam Sukparu, has called for stronger partnerships among government, industry players and international…",
+      "categories": [
+        "National",
+        "Technology",
+        "Mohammed Adam Sukparu",
+        "satellite connectivity"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC arrests India-bound passenger over 58 suspected cocaine pellets at airport",
+      "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-india-bound-passenger-with-58-suspected-cocaine-pellets-at-accra-airport.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T17:26:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GES warns public against fake teacher recruitment links, says portal remains closed",
+      "link": "https://www.graphic.com.gh/news/general-news/ges-warns-public-against-fake-teacher-recruitment-links-says-portal-remains-closed.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T17:06:08.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Royalhouse Spintex marks 15th anniversary with donation and health screening",
+      "link": "https://www.graphic.com.gh/news/general-news/royalhouse-spintex-marks-15th-anniversary-with-donation-and-health-screening.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T16:17:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Afia Schwarzenegger handed 63-day sentence over Sammy Gyamfi defamation",
+      "link": "https://www.graphic.com.gh/news/general-news/afia-schwarzenegger-handed-63-day-sentence-over-sammy-gyamfi-defamation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T15:52:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana replaces ageing presidential jet with US$60.68m Falcon 6X",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-replaces-ageing-presidential-jet-with-us-60-68m-falcon-6x.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T15:18:30.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Crucial hurdle for Black Challenge as they face Iraq in final group game",
+      "link": "https://ghanaiantimes.com.gh/crucial-hurdle-for-black-challenge-as-they-face-iraq-in-final-group-game/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T14:53:24.000Z",
+      "summary": "The two-time African champions take on Iraq on Monday, November 16, in their final Group D game at the 2026 WAFF Amputee Football World Cup in Mexico — and only a win will keep their hopes…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Meteors Assistant coach confident of Libya comeback ahead of decisive U-23 AFCON Qualifier",
+      "link": "https://ghanaiantimes.com.gh/black-meteors-assistant-coach-confident-of-libya-comeback-ahead-of-decisive-u-23-afcon-qualifier/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T14:49:43.000Z",
+      "summary": "Ghana’s Black Meteors will seek to overturn a 1-0 first-leg deficit when they host Libya’s Mediterranean Knights in the return leg of their 2027 CAF U-23 Africa Cup of Nations qualifier at…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Transforming diabetes care: One blue point at a time",
       "link": "https://ghanaiantimes.com.gh/transforming-diabetes-care-one-blue-point-at-a-time/",
@@ -57,80 +248,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ghana showcases carbon market leadership, urges African unity on critical minerals at COP31",
-      "link": "https://www.myjoyonline.com/ghana-showcases-carbon-market-leadership-urges-african-unity-on-critical-minerals-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T14:07:58.000Z",
-      "summary": "Ghana has showcased its growing leadership in international carbon markets, positioning its experience under the Paris Agreement as a model for other African countries.",
-      "categories": [
-        "National",
-        "carbon market leadership",
-        "COP31",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "King Ayisoba earns first Grammy nomination",
-      "link": "https://www.myjoyonline.com/king-ayisoba-earns-first-grammy-nomination/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T14:07:36.000Z",
-      "summary": "Ghanaian traditional musician King Ayisoba has secured his first Grammy nomination in the Best African Music Performance category for the 2027 Grammy Awards.",
-      "categories": [
-        "HP Entertainment 2",
-        "Music",
-        "first nomination",
-        "Grammy Awards",
-        "King Ayisoba"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gomoa Ajumako Akwansrahene pledges development drive, unveils support fund plan",
-      "link": "https://www.myjoyonline.com/gomoa-ajumako-akwansrahene-pledges-development-drive-unveils-support-fund-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:57:32.000Z",
-      "summary": "The newly installed Akwansrahene of the Gomoa Ajumako Traditional Area, Nana Barima Owusu I, has called for a collective effort to move Gomoa to the next level of development. Nana Barima…",
-      "categories": [
-        "National",
-        "News",
-        "Regional",
-        "Akwansrahene",
-        "Gomoa Ajumako",
-        "Nana Barima Owusu I"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Phlakes releases ‘Outside’ ahead of upcoming DLAR Vol. 2 project",
-      "link": "https://www.myjoyonline.com/phlakes-releases-outside-ahead-of-upcoming-dlar-vol-2-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:48:16.000Z",
-      "summary": "Ghanaian multidisciplinary artist Phlakes has released his latest single, Outside, a street-inspired record that brings together infectious sounds and a message centred on different…",
-      "categories": [
-        "Music",
-        "DLAR Vol 2",
-        "Outside",
-        "Phlakes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UESD, EPA call for shift to circular economy in waste management",
-      "link": "https://www.myjoyonline.com/uesd-epa-call-for-shift-to-circular-economy-in-waste-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:45:18.000Z",
-      "summary": "The University of Environment and Sustainable Development (UESD), Somanya, and the Environmental Protection Authority (EPA) have called for Ghana to adopt a circular economy promoting…",
-      "categories": [
-        "National",
-        "Economy",
-        "EPA",
-        "UESD",
-        "waste management"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Two dead from Monday morning crash at Buduburam",
       "link": "https://www.graphic.com.gh/news/general-news/two-dead-from-monday-morning-crash-at-buduburam.html",
       "source": "Daily Graphic",
@@ -140,53 +257,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NYPD officers visit Ghana to support underprivileged children and promote police-community relations",
-      "link": "https://www.myjoyonline.com/nypd-officers-visit-ghana-to-support-underprivileged-children-and-promote-police-community-relations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:38:37.000Z",
-      "summary": "When Lieutenant Yaw Offin pinned on his NYPD badge years ago, he never imagined it would one day take him back to the land of his heritage, not with a warrant, but with books, pens, and a…",
-      "categories": [
-        "National",
-        "ALEO delegation",
-        "Ghana",
-        "NYPD"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ahenfie crowned Miss Malaika Ghana 2026, wins car and Egypt trip",
-      "link": "https://www.myjoyonline.com/ahenfie-crowned-miss-malaika-ghana-2026-wins-car-and-egypt-trip/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:38:04.000Z",
-      "summary": "Ahenfie has been crowned Miss Malaika Ghana 2026, winning a brand-new car, while all ten finalists have secured an all-expenses-paid trip to Egypt.",
-      "categories": [
-        "Events",
-        "Ahenfie",
-        "Car",
-        "Egypt",
-        "Miss Malaika 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof Sarpong: Frank conversation with Salisu on quality of football pitches in Ghana",
-      "link": "https://www.myjoyonline.com/prof-sarpong-frank-conversation-with-salisu-on-quality-of-football-pitches-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:37:15.000Z",
-      "summary": "On Sunday, at the Essipong Stadium, I had the opportunity to engage Salisu in a frank and constructive discussion on one of the most important issues affecting football development in…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Accra Sports Stadium",
-        "Baba Yara Sports Stadium",
-        "Cape Coast Sports Stadium",
-        "Essipong Stadium",
-        "National Sports Authority",
-        "Prof Sarpong"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Your currency will never be stable if you are an importer': Dangote's bold message to Ghana",
@@ -204,61 +274,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-investors-to-guarantee-markets-for-ghanaian-farmers.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T12:17:57.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case over disagreement with court",
-      "link": "https://www.graphic.com.gh/news/general-news/skytrain-trial-solomon-asamoahs-lawyer-withdraws-from-case.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T11:55:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Speaker Bagbin in Abuja to address global PR forum",
-      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-in-abuja-to-address-global-pr-forum.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T10:55:41.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court throws out Wontumi’s bail application pending appeal",
-      "link": "https://www.graphic.com.gh/news/general-news/court-throws-out-wontumis-bail-application-pending-appeal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T09:24:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sam Jonah eulogises Gen. Acheampong as ‘the builder Ghana forgot’",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-sam-jonah-eulogises-gen-acheampong-as-the-builder-ghana-forgot.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T09:12:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fight against galamsey: Catholic Bishops call for targeted state of emergency",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-catholic-bishops-call-for-targeted-state-of-emergency.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T09:08:32.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -293,28 +308,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-16T07:37:55.000Z",
       "summary": "THE draw for the Round of 64 of the MTN FA Cup ’27 will be held tomorrow at the Ghana Football Association (GFA) Conference Room at 11 a.m. A total of 64 teams from the Premier League…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Meteors intensify preparations for Libya return leg",
-      "link": "https://ghanaiantimes.com.gh/black-meteors-intensify-preparations-for-libya-return-leg/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:35:15.000Z",
-      "summary": "THE Black Meteors have stepped up preparations for their crucial return-leg clash against Libya in the CAF U-23 Africa Cup of Nations qualifiers tomorrow at the Accra Sports Stadium. The…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Amputee World Cup: Ghana lose opener to Angola",
-      "link": "https://ghanaiantimes.com.gh/amputee-world-cup-ghana-lose-opener-to-angola/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:33:53.000Z",
-      "summary": "GHANA’S Black Challenge began their WAFF Amputee Football World Cup campaign with a 2-0 defeat to Angola on Saturday at San Martin in San Juan de los Lagos, Mexico. Ghana conceded one goal…",
       "categories": [
         "Sports"
       ],
