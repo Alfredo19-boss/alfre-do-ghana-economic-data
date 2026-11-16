@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T06:35:32.549Z",
+  "updated": "2026-11-16T06:45:29.749Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,54 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jospong takes African waste management solutions to COP31",
+      "link": "https://ghanaiantimes.com.gh/jospong-takes-african-waste-management-solutions-to-cop31/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:44:21.000Z",
+      "summary": "GHANAIAN business conglomerate, Jospong Group of Companies (JGC), has made a strong showing at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye, with an…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Attractive designs or purchasing power? The Cedi must earn our trust",
+      "link": "https://ghanaiantimes.com.gh/attractive-designs-or-purchasing-power-the-cedi-must-earn-our-trust/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:42:36.000Z",
+      "summary": "A BANKNOTE passes through countless hands, carrying both purchasing power and a country’s account of itself. Ghana’s Heritage Series controversy shows why historical recognition deserves…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gideon Boako accuses Ato Forson of buying cedi stability with $10.6bn forex interventions",
+      "link": "https://www.myjoyonline.com/gideon-boako-accuses-ato-forson-of-buying-cedi-stability-with-10-6bn-forex-interventions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T06:40:58.000Z",
+      "summary": "Tano North MP Dr Gideon Boako has questioned the sustainability of Ghana’s recent currency appreciation, alleging that the Bank of Ghana spent about $10.6 billion on foreign exchange…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Cedi",
+        "Gideon Boako"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana proposes Accra Declaration, pledges ratification of AU financial institutions by 2027",
+      "link": "https://ghanaiantimes.com.gh/ghana-proposes-accra-declaration-pledges-ratification-of-au-financial-institutions-by-2027/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T06:37:44.000Z",
+      "summary": "THE Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has called on African leaders to end their dependence on external funding and take full responsibility for financing the African…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Discipline and excellence must go hand in hand",
       "link": "https://ghanaiantimes.com.gh/discipline-and-excellence-must-go-hand-in-hand/",
@@ -163,20 +211,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana targets more visa waiver deals by end of 2027 – Ablakwa",
-      "link": "https://www.myjoyonline.com/ghana-targets-more-visa-waiver-deals-by-end-of-2027-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T05:20:54.000Z",
-      "summary": "Ghana is pursuing additional visa waiver agreements with countries across the world, with the government expecting to conclude more deals before the end of 2027, Foreign Affairs Minister…",
-      "categories": [
-        "National",
-        "Ablakwa",
-        "Ghana",
-        "visa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Kwame Asiemoah: New NDC Volta Youth Organiser pledges united and empowered wing",
       "link": "https://www.graphic.com.gh/news/politics/kwame-asiemoah-new-ndc-volta-youth-organiser-pledges-united-and-empowered-wing.html",
       "source": "Daily Graphic",
@@ -270,42 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-13T16:20:37.000Z",
       "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has recalled the severe economic hardship Ghanaians went through under the previous NPP government, describing it as an economic meltdown…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gov’t to invest US$3 Billion in commercial agriculture",
-      "link": "https://ghanaiantimes.com.gh/govt-to-invest-us3-billion-in-commercial-agriculture/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T16:15:35.000Z",
-      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced a US$3 billion investment in commercial agriculture under Pillar two of the New Economy Programme. Presenting the 2027 Budget…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "DDEP bondholders due Feb 16, 2027 can come for their money now- Ato Forson",
-      "link": "https://ghanaiantimes.com.gh/ddep-bondholders-due-feb-16-2027-can-come-for-their-money-now-ato-forson/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T16:12:43.000Z",
-      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced that bondholders under the Domestic Debt Exchange Programme (DDEP) whose payments fall due on February 16, 2027 can come for…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Government to invest US$2 billion in energy infrastructure",
-      "link": "https://ghanaiantimes.com.gh/government-to-invest-us2-billion-in-energy-infrastructure/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-13T16:01:31.000Z",
-      "summary": "The Minister of Finance, Dr. Cassiel Ato Forson, has announced a US$2 billion investment in Energy Infrastructure under Pillar three of the New Economy Programme. Presenting the 2027…",
       "categories": [
         "Hot!",
         "News"
