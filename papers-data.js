@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T13:20:09.034Z",
+  "updated": "2026-11-16T13:40:10.795Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Afia Schwarzenegger handed 63-day jail term over contempt of court",
+      "link": "https://www.myjoyonline.com/afia-schwarzenegger-handed-63-day-jail-term-over-contempt-of-court/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:33:58.000Z",
+      "summary": "Media personality Afia Schwarzenegger has been sentenced to 63 days’ imprisonment by the Accra High Court after being found guilty of contempt.",
+      "categories": [
+        "National",
+        "Afia Schwarzenegger",
+        "court",
+        "Sammy Gyamfi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stones cannot replace trees and landscape plants: Is Accra’s beautification turning our capital into a concrete jungle?",
+      "link": "https://www.myjoyonline.com/stones-cannot-replace-trees-and-landscape-plants-is-accras-beautification-turning-our-capital-into-a-concrete-jungle/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:31:23.000Z",
+      "summary": "Something disturbing is happening to Accra's urban landscape. Along some of the capital's major roads, established flowering shrubs, ornamental plants and mature trees are being removed and…",
+      "categories": [
+        "Opinion",
+        "Concrete Jungle",
+        "Landscape",
+        "Stones",
+        "Tree"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama urges investors to guarantee markets for farmers to boost production",
+      "link": "https://www.myjoyonline.com/mahama-urges-investors-to-guarantee-markets-for-farmers-to-boost-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:31:15.000Z",
+      "summary": "President John Dramani Mahama has called on private investors to establish dependable markets for agricultural produce, saying guaranteed buyers would encourage farmers to increase…",
+      "categories": [
+        "National",
+        "farm produce",
+        "Farmers",
+        "Johm Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bagbin to address Global PR Forum in Abuja",
+      "link": "https://www.myjoyonline.com/bagbin-to-address-global-pr-forum-in-abuja/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T13:26:37.000Z",
+      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, is set to join an influential gathering of world leaders, policymakers and communication experts in Abuja, Nigeria, where…",
+      "categories": [
+        "National",
+        "Abuja",
+        "Alban Sumana Kingsford Bagbin",
+        "Global PR Forum"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Saint Chicago’s Frafra Piano is hiplife – Nana Yaw Wiredu",
       "link": "https://www.myjoyonline.com/saint-chicagos-frafra-piano-is-hiplife-nana-yaw-wiredu/",
@@ -82,67 +139,6 @@ window.GDC_PAPERS = {
         "Dangote",
         "Ghana",
         "Trade hub"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote challenges Ghana to tap 450m West African market, boost local production",
-      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-450m-west-african-market-boost-local-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:48:01.000Z",
-      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "In Focus",
-        "National",
-        "News",
-        "Dangote",
-        "Ghana",
-        "Trade hub"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Akushika Andoh urges Ghanaian creatives to build businesses beyond their professions",
-      "link": "https://www.myjoyonline.com/dr-akushika-andoh-urges-ghanaian-creatives-to-build-businesses-beyond-their-professions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:47:42.000Z",
-      "summary": "Head of the Department of Marketing at the University of Professional Studies, Accra (UPSA), Dr Juliana Akushika Andoh, has urged Ghanaian creatives and public figures to look beyond their…",
-      "categories": [
-        "HP Entertainment 2",
-        "Radio & TV",
-        "creatives",
-        "Dr Akushika Andoh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sarkodie’s attempt at fashion business highlights need for strong business structures – Nana Yaw Wiredu",
-      "link": "https://www.myjoyonline.com/sarkodies-attempt-at-fashion-business-highlights-need-for-strong-business-structures-nana-yaw-wiredu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:43:16.000Z",
-      "summary": "Media entrepreneur and founder of Oneplay Africa, Nana Yaw Wiredu, says Ghanaian artistes who venture into businesses outside music need strong management teams and operational structures…",
-      "categories": [
-        "Art & Design",
-        "HP Entertainment 3",
-        "Nana Yaw Wiredu",
-        "Sark Collection",
-        "Sarkodie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:37:04.000Z",
-      "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 5",
-        "PwC Post Budget Forum"
       ],
       "site": "https://www.myjoyonline.com/"
     },

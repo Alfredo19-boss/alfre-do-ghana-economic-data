@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T13:19:38.541Z",
+  "updated": "2026-11-16T13:39:56.891Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Mahama Says Ghana Must Guarantee Buyers for Farmers to Spur Industrial Growth",
+      "link": "https://thehighstreetjournal.com/ghana-must-guarantee-buyers-for-farmers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T13:35:00.000Z",
+      "summary": "The government is also promoting investment opportunities across all 16 regions, including commercial farming, agro-processing, mineral processing, energy, tourism, pharmaceuticals…"
+    },
     {
       "title": "Dangote Pledges $50 Billion to Drive African Industrial Investment",
       "link": "https://thehighstreetjournal.com/dangote-pledges-50bn-to-drive-investment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T20:22:05.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson has announced the early redemption of GH¢29 billion in Domestic Debt Exchange Programme (DDEP) bonds due in February 2027, assuring bondholders that…"
-    },
-    {
-      "title": "Gov’t to remove funding cap, free up GH¢1bn for youth employment programmes – Ato Forson",
-      "link": "https://www.myjoyonline.com/govt-to-remove-funding-cap-free-up-gh%c2%a21bn-for-youth-employment-programmes-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T20:11:12.000Z",
-      "summary": "The government plans to free up an additional GH¢1 billion for youth employment and apprenticeship programmes by removing the cap on funding allocated to the initiatives."
     }
   ]
 };
