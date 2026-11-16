@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T21:06:21.414Z",
+  "updated": "2026-11-16T21:16:22.959Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Religion must not become a pawn in geopolitical power plays",
+      "link": "https://www.myjoyonline.com/religion-must-not-become-a-pawn-in-geopolitical-power-plays/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:09:08.000Z",
+      "summary": "Religion has always played an important role in Ghanaian society. Churches have contributed to education, healthcare, community development and the moral upbringing of generations. They…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "geopolitical power",
+        "religion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Amantia Chief urges prioritisation of rural development to combat poverty and social vices",
       "link": "https://www.myjoyonline.com/amantia-chief-urges-prioritisation-of-rural-development-to-combat-poverty-and-social-vices/",
@@ -126,22 +141,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Kwaku Sumah",
         "Space Hubs Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Police seek stronger Netherlands partnership on drug and human trafficking",
-      "link": "https://www.myjoyonline.com/ghana-police-seek-stronger-netherlands-partnership-on-drug-and-human-trafficking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T19:28:15.000Z",
-      "summary": "The Ghana Police Service is strengthening its security cooperation with the Netherlands to tackle human trafficking, drug trafficking, vehicle-related crimes and other transnational…",
-      "categories": [
-        "National",
-        "Christian Tetteh Yohuno",
-        "Drug trafficking",
-        "Ghana Police Service",
-        "Human trafficking",
-        "Netherlands"
       ],
       "site": "https://www.myjoyonline.com/"
     },
