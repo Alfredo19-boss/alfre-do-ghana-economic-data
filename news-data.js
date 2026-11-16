@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T12:49:39.367Z",
+  "updated": "2026-11-16T12:59:40.198Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
+      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:50:03.000Z",
+      "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…"
+    },
+    {
+      "title": "Dangote challenges Ghana to tap into West African market of 450 million people, boost local production",
+      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-into-west-african-market-of-450-million-people-boost-local-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:48:01.000Z",
+      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…"
+    },
     {
       "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
       "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T19:12:16.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana will pursue self-sufficiency in sugar production by 2030 as part of efforts to reduce dependence on imports and strengthen domestic…"
-    },
-    {
-      "title": "Ghana’s Financial Inclusion Gap Shifts Focus to Household Security and Small Business Resilience",
-      "link": "https://thehighstreetjournal.com/ghanas-financial-inclusion-gap-shifts-focus-to-household-security-and-small-business-resilience/",
-      "source": "The High Street Journal",
-      "published": "2026-11-12T19:11:01.000Z",
-      "summary": "Ghana's financial inclusion gains face a deeper test as only 22% of adults achieve financial health, highlighting the need for savings, suitable credit and stronger small business…"
-    },
-    {
-      "title": "Government commits GH¢30bn to New Economy Programme in 2027",
-      "link": "https://www.myjoyonline.com/government-commits-gh%c2%a230bn-to-new-economy-programme-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T19:09:43.000Z",
-      "summary": "Government is committing GH¢30 billion to its proposed New Economy Programme in 2027, as part of efforts to transform Ghana’s economic structure, expand businesses and create jobs…"
     }
   ]
 };

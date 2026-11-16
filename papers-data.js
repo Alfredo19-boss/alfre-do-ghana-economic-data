@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T12:50:09.369Z",
+  "updated": "2026-11-16T13:00:08.815Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,66 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Saint Chicago’s Frafra Piano is hiplife – Nana Yaw Wiredu",
+      "link": "https://www.myjoyonline.com/saint-chicagos-frafra-piano-is-hiplife-nana-yaw-wiredu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:57:33.000Z",
+      "summary": "Founder of OnePlay Africa, Nana Yaw Wiredu, has called on Ghana’s music industry to recognise emerging sounds such as Saint Chicago’s Frafra Piano as part of hiplife.",
+      "categories": [
+        "HP Entertainment 1",
+        "Movies",
+        "Frafra Piano",
+        "Hiplife",
+        "Nana Yaw Wiredu",
+        "Saint Chicago"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SkyTrain trial: Solomon Asamoah’s lawyer withdraws from case over disagreement with court",
+      "link": "https://www.myjoyonline.com/skytrain-trial-solomon-asamoahs-lawyer-withdraws-from-case-over-disagreement-with-court/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:52:38.000Z",
+      "summary": "The trial of former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Solomon Asamoah, and a former Board Chairman of the fund, Professor Christopher…",
+      "categories": [
+        "National",
+        "News",
+        "GIIF",
+        "Sky train case",
+        "Solomon Asamoah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
       "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:50:03.000Z",
       "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…",
       "categories": [
-        "News"
+        "Business",
+        "Economy",
+        "HP Business 6",
+        "Ecobank",
+        "Joy Business SME Fair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dangote challenges Ghana to tap into West African market of 450 million people, boost local production",
+      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-into-west-african-market-of-450-million-people-boost-local-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T12:48:01.000Z",
+      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "In Focus",
+        "National",
+        "News",
+        "Dangote",
+        "Ghana",
+        "Trade hub"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -89,52 +142,6 @@ window.GDC_PAPERS = {
         "Economy",
         "HP Business 5",
         "PwC Post Budget Forum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Inconvenient Truth: We applaud Africa at the summit, then frown at it on the supermarket shelf",
-      "link": "https://www.myjoyonline.com/the-inconvenient-truth-we-applaud-africa-at-the-summit-then-frown-at-it-on-the-supermarket-shelf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:35:48.000Z",
-      "summary": "Imagine a Ghanaian entrepreneur who manufactures an excellent product that meets international standards, is competitively priced and could succeed anywhere on the continent. She sets off…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Douglas Boateng",
-        "Inconvenient Truth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote plans sugar investment in Ghana, targets nearly 50,000 jobs",
-      "link": "https://www.myjoyonline.com/dangote-plans-sugar-investment-in-ghana-targets-nearly-50000-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:31:28.000Z",
-      "summary": "African business magnate Aliko Dangote has announced plans to partner with the Ghanaian government to invest in sugar production, a project he says could create nearly 50,000 jobs.",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Aliko Dangote",
-        "Ghana",
-        "sugar investment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: The CEO’s role in strengthening corporate governance",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-corporate-governance-3/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:25:12.000Z",
-      "summary": "Strong corporate governance is essential to building a credible, accountable and sustainable organization. It provides the structures, policies and processes through which an organization…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "CEOs",
-        "Daily Insight",
-        "Ernest De-Graft Egyir"
       ],
       "site": "https://www.myjoyonline.com/"
     },
