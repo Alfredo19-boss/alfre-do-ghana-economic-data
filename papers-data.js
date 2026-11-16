@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T00:03:52.667Z",
+  "updated": "2026-11-16T00:08:48.122Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "link": "https://www.myjoyonline.com/thousands-of-us-flights-still-cancelled-or-delayed-two-days-after-grounding-of-planes-nationwide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T00:07:13.000Z",
+      "summary": "Thousands of US flights were cancelled or delayed on Sunday as the US air-traffic control system continued to recover from a technical failure that led to a rare national ground stop…",
+      "categories": [
+        "International",
+        "Flight disruptions"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "link": "https://www.myjoyonline.com/prince-harry-praises-war-veterans-on-surprise-visit-to-ukraine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-15T23:56:00.000Z",
+      "summary": "The Duke of Sussex was warmly welcomed on a surprise visit to Ukraine to support injured war veterans, meeting Ukrainian competitors taking part in his Invictus Games.",
+      "categories": [
+        "International",
+        "Prince Harry",
+        "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
       "link": "https://www.myjoyonline.com/three-men-sentenced-to-death-in-jordan-over-fatal-church-mass-shooting/",
@@ -109,38 +134,6 @@ window.GDC_PAPERS = {
         "Cheating",
         "South Korea",
         "tax accountancy exam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AETC, Ministry of Youth Development sign MoU to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
-      "link": "https://www.myjoyonline.com/aetc-ministry-of-youth-development-sign-mou-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:08:12.000Z",
-      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…",
-      "categories": [
-        "Business",
-        "Investments",
-        "AETC",
-        "Emelia Ankmah",
-        "George Opare-Addo",
-        "Ministry of Youth Development"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
-      "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:08:12.000Z",
-      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…",
-      "categories": [
-        "Business",
-        "Investments",
-        "AETC",
-        "Emelia Ankmah",
-        "George Opare-Addo",
-        "Ministry of Youth Development"
       ],
       "site": "https://www.myjoyonline.com/"
     },
