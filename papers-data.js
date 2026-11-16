@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T21:16:22.959Z",
+  "updated": "2026-11-16T21:26:22.455Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Rashid Seidu writes: Madina at the crossroads – Why Siidi must go unopposed",
+      "link": "https://www.myjoyonline.com/rashid-seidu-writes-madina-at-the-crossroads-why-siidi-must-go-unopposed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T21:14:23.000Z",
+      "summary": "Madina is tired of waiting. Tired of promises that fade after the votes are counted, and of roads, jobs and hope that never arrive. Now, as 2028 draws near, the constituency has one…",
+      "categories": [
+        "Opinion",
+        "Madina",
+        "Rashid Seidu",
+        "Siidi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Religion must not become a pawn in geopolitical power plays",
       "link": "https://www.myjoyonline.com/religion-must-not-become-a-pawn-in-geopolitical-power-plays/",
@@ -125,22 +139,6 @@ window.GDC_PAPERS = {
         "Dr Joseph Tandoh",
         "Ghana",
         "GSSTI"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
-      "link": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:13:25.000Z",
-      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its…",
-      "categories": [
-        "National",
-        "Technology",
-        "Telecom",
-        "Ghana",
-        "Kwaku Sumah",
-        "Space Hubs Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
