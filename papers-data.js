@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T10:20:10.875Z",
+  "updated": "2026-11-16T10:30:08.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -116,6 +116,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Court throws out Wontumi’s bail application pending appeal",
+      "link": "https://www.graphic.com.gh/news/general-news/court-throws-out-wontumis-bail-application-pending-appeal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-16T09:24:56.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "COP Maame Tiwaa honoured as ‘Outstanding Female Police Officer’ at Ghana Women Awards",
       "link": "https://www.myjoyonline.com/cop-maame-tiwaa-honoured-as-outstanding-female-police-officer-at-ghana-women-awards/",
       "source": "MyJoyOnline",
@@ -221,17 +232,6 @@ window.GDC_PAPERS = {
         "Rent"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam Jonah proposes new Union Govt for Ghana",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-sam-jonah-proposes-new-union-govt-for-ghana.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T08:33:08.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Black Stars seek double over Somalia • In AFCON 2027 qualifier",
