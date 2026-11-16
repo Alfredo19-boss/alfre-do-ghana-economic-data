@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:00:10.658Z",
+  "updated": "2026-11-16T11:10:11.240Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
+      "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:08:15.000Z",
+      "summary": "The Ghana High Commission in London and the Okyeman Amanonehene, Otuapem Oduduobiribi Benkyi, have agreed to strengthen collaboration to channel diaspora skills, expertise and capital into…",
+      "categories": [
+        "Business",
+        "Investments",
+        "Ghana High Commission",
+        "Okyeman Amanonehene",
+        "Otuapem Oduduobiribi Benkyi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bono East NDC shake-up: ‘Soldier Man’ ousts incumbent chairman Unas Owusu",
+      "link": "https://www.myjoyonline.com/bono-east-ndc-shake-up-soldier-man-ousts-incumbent-chairman-unas-owusu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:07:30.000Z",
+      "summary": "A political earthquake has shaken the Bono East Regional leadership of the National Democratic Congress (NDC), with incumbent Chairman Unas Owusu losing his bid for re-election to Alhaji…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Bono East",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Annoh-Dompreh commissions Adoagyiri Health Centre, outlines more healthcare projects",
+      "link": "https://www.myjoyonline.com/annoh-dompreh-commissions-adoagyiri-health-centre-outlines-more-healthcare-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:05:04.000Z",
+      "summary": "Nsawam-Adoagyiri MP Frank Annoh-Dompreh has commissioned the Adoagyiri Health Centre as part of efforts to expand access to healthcare services in the constituency.",
+      "categories": [
+        "Health",
+        "Adoagyiri Health Centre",
+        "Annoh-Dompreh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Speaker Bagbin in Abuja to address global PR forum",
       "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-in-abuja-to-address-global-pr-forum.html",
@@ -107,52 +149,6 @@ window.GDC_PAPERS = {
         "Citizenship",
         "US",
         "Visas"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FIFA worse under Infantino than Blatter – Klopp",
-      "link": "https://www.myjoyonline.com/fifa-worse-under-infantino-than-blatter-klopp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T09:41:35.000Z",
-      "summary": "FIFA president Gianni Infantino should be replaced as he has made world football's governing body worse than ​it was under disgraced former chief Sepp Blatter, Germany coach ‌Juergen Klopp…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "FIFA President",
-        "Gianni Infantino",
-        "Jurgen Klopp",
-        "Sepp Blatter"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deceptive marketing in the digital era",
-      "link": "https://www.myjoyonline.com/deceptive-marketing-in-the-digital-era/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T09:32:51.000Z",
-      "summary": "A single Instagram post can fill a vendor’s DMs with hundreds of orders. A good photo, low prices, or a word from a popular influencer can close a sale within minutes. Some businesses use…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "digital era",
-        "Marketing"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Savannah NDC Secretary sets sights on reclaiming Damongo seat in 2028",
-      "link": "https://www.myjoyonline.com/new-savannah-ndc-secretary-sets-sights-on-reclaiming-damongo-seat-in-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T09:28:53.000Z",
-      "summary": "The newly elected Savannah Regional Secretary of the National Democratic Congress (NDC), Issifu Seidu Kudus Gbeadese, says reclaiming the Damongo parliamentary seat from the New Patriotic…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Damongo",
-        "NDC",
-        "Savannah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
