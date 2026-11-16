@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-16T11:30:09.052Z",
+  "updated": "2026-11-16T11:39:39.336Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana Targets More Exporters as Trade Ministry Promises Support for Manufacturers",
+      "link": "https://thehighstreetjournal.com/ghana-targets-more-exporters-as-trade-ministry-promises-support-for-manufacturers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-16T11:37:38.000Z",
+      "summary": "Government plans to improve export access, strengthen industrial standards and tackle trade barriers as it positions Ghanaian businesses to compete in African markets."
+    },
     {
       "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
       "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-12T18:39:57.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson says the government must use every cedi of fiscal space to generate jobs, strengthen domestic production and create lasting value for Ghanaians…"
-    },
-    {
-      "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
-      "link": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-12T17:27:31.000Z",
-      "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at…"
     }
   ]
 };

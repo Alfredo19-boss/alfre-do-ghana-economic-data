@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T11:30:14.679Z",
+  "updated": "2026-11-16T11:40:08.996Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,49 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Keep new taxes off the table in 2027 – Hopeson Adorye tells government",
+      "link": "https://www.myjoyonline.com/keep-new-taxes-off-the-table-in-2027-hopeson-adorye-tells-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:39:47.000Z",
+      "summary": "Taxpayers League Ghana has urged the government to maintain its commitment not to introduce new taxes throughout 2027, while demanding greater accountability, transparency and efficiency in…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Hopeson Adorye",
+        "Taxpayers League Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIS buries officer killed in Hamile dynamite explosion",
+      "link": "https://www.myjoyonline.com/gis-buries-officer-killed-in-hamile-dynamite-explosion/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:36:40.000Z",
+      "summary": "The Ghana Immigration Service (GIS) has held a solemn burial and thanksgiving service in honour of Immigration Control Officer (ICO) Shadrack Danso, who died following a dynamite explosion…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Ghana Immigration Service",
+        "Hamile dynamite explosion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New Economy agenda needs clear roadmap, not just ambitious targets – Vicky Bright",
+      "link": "https://www.myjoyonline.com/new-economy-agenda-needs-clear-roadmap-not-just-ambitious-targets-vicky-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T11:32:00.000Z",
+      "summary": "International corporate lawyer and entrepreneur Vicky Bright has backed the NDC government's ambition to transform Ghana's economy under its proposed 2027 New Economy agenda, but says a…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "NDC",
+        "new economy",
+        "Vicky Bright"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
       "link": "https://www.myjoyonline.com/us-basketball-player-arrested-with-34kg-of-cannabis-at-nigerian-airport/",
       "source": "MyJoyOnline",
@@ -28,6 +71,7 @@ window.GDC_PAPERS = {
       "summary": "A basketball player from the US has been arrested in Nigeria with 33.95kg (75lbs) of cannabis in his luggage at the main airport in Lagos.",
       "categories": [
         "Africa",
+        "HP News 9",
         "International",
         "News",
         "Cannabis",
@@ -93,53 +137,6 @@ window.GDC_PAPERS = {
         "El Niño",
         "Fitch Solutions",
         "Mike Kruniger"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2028 demands unity, sacrifice and strategic action – Muntaka tells new NDC executives",
-      "link": "https://www.myjoyonline.com/2028-demands-unity-sacrifice-and-strategic-action-muntaka-tells-new-ndc-executives/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:15:34.000Z",
-      "summary": "The Minister of the Interior and Member of Parliament for Asawase, Muntaka Mubarak, has called on members of the National Democratic Congress (NDC) in the Ashanti Region to close ranks and…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Politics",
-        "Muntaka Mubarak",
-        "NDC",
-        "The Minister of the Interior",
-        "Unity"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vote-buying could derail Ghana’s democratic gains – NDC’s Kabila",
-      "link": "https://www.myjoyonline.com/vote-buying-could-derail-ghanas-democratic-gains-ndcs-kabila/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:13:19.000Z",
-      "summary": "A member of the National Democratic Congress (NDC) Communications Team and Deputy National Organiser hopeful, Matthias Alagbo Kabila, has warned that the growing monetisation of internal…",
-      "categories": [
-        "National",
-        "Politics",
-        "Democratic gains",
-        "Ghana",
-        "Vote buying"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
-      "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:08:15.000Z",
-      "summary": "The Ghana High Commission in London and the Okyeman Amanonehene, Otuapem Oduduobiribi Benkyi, have agreed to strengthen collaboration to channel diaspora skills, expertise and capital into…",
-      "categories": [
-        "Business",
-        "Investments",
-        "Ghana High Commission",
-        "Okyeman Amanonehene",
-        "Otuapem Oduduobiribi Benkyi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
