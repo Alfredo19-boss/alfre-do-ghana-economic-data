@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T03:45:58.404Z",
+  "updated": "2026-11-17T03:55:58.822Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -50,6 +50,35 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "‘We were determined to break the eight’ – Amin Adam defends debt repayment timetable",
+      "link": "https://www.myjoyonline.com/we-were-determined-to-break-the-eight-amin-adam-defends-debt-repayment-timetable/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:49:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has rejected claims that the previous government deliberately deferred debt repayments to 2027 and 2028 to force an NDC administration into…",
+      "categories": [
+        "Politics",
+        "debt restructuring",
+        "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Circle railway fire: One person burnt to death, several shops destroyed",
+      "link": "https://www.myjoyonline.com/circle-railway-fire-one-person-burnt-to-death-several-shops-destroyed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:36:00.000Z",
+      "summary": "A man has been burnt to death after a fire swept through the Railways Area behind the State Transport Corporation (STC) station at Kwame Nkrumah Circle in Accra.",
+      "categories": [
+        "News",
+        "Top Story",
+        "Circle",
+        "Fire",
+        "GNFS",
+        "Railways"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "One dead as firefighters battle Railways Area blaze at Kwame Nkrumah Circle",
       "link": "https://www.myjoyonline.com/one-dead-as-firefighters-battle-railways-area-blaze-at-kwame-nkrumah-circle/",
       "source": "MyJoyOnline",
@@ -66,6 +95,33 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Our debt restructuring secured $11bn in relief – Amin Adam",
+      "link": "https://www.myjoyonline.com/our-debt-restructuring-secured-11bn-in-relief-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:31:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana secured $11 billion in relief through debt restructuring. He has rejected claims that the repayment schedule was designed to push…",
+      "categories": [
+        "Politics",
+        "debt restructring",
+        "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We did not defer debt payments to make NDC default – Amin Adam",
+      "link": "https://www.myjoyonline.com/we-did-not-defer-debt-payments-to-make-ndc-default-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:12:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has rejected claims that the previous government deliberately deferred debt repayments to 2027 and 2028 to make the NDC government default.",
+      "categories": [
+        "HP News 4",
+        "Politics",
+        "debt restructring",
+        "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Three fire tenders deployed as fire hits Tema Community 1 Market",
       "link": "https://www.myjoyonline.com/three-fire-tenders-deployed-as-fire-hits-tema-community-1-market/",
       "source": "MyJoyOnline",
@@ -76,59 +132,6 @@ window.GDC_PAPERS = {
         "News",
         "Fire",
         "Tema"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two suspects remanded over murder of 39-year-old woman in Oti Region",
-      "link": "https://www.myjoyonline.com/two-suspects-remanded-over-murder-of-39-year-old-woman-in-oti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T22:50:00.000Z",
-      "summary": "Two men have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Madam Rejoice Sena Akpaku, whose body was…",
-      "categories": [
-        "Crime",
-        "Oti Region",
-        "Remanded"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T22:47:00.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 brought together three days of business exhibitions, product displays, shopping bargains, networking and live entertainment at Ghud Park, Accra Mall…",
-      "categories": [
-        "Business",
-        "Events",
-        "HP Entertainment 1",
-        "National",
-        "Photo Story",
-        "Ecobank JoyBusiness SME Fair 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia dismisses ‘Bring Jensen Back’ campaign as Trump backs effort to reinstate ex CEO",
-      "link": "https://www.myjoyonline.com/nvidia-dismisses-bring-jensen-back-campaign-as-trump-backs-effort-to-reinstate-ex-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T22:36:00.000Z",
-      "summary": "Nvidia has dismissed a campaign calling for Jensen Huang to be handed back his job as allies, including US President Donald Trump, backed the effort.",
-      "categories": [
-        "International",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "link": "https://www.myjoyonline.com/forensic-expert-says-his-analysis-of-autopsy-photos-suggests-epstein-was-killed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T22:04:00.000Z",
-      "summary": "A forensic expert has said he believes that convicted sex offender Jeffrey Epstein's death in prison was the result of a homicide, not suicide.",
-      "categories": [
-        "International",
-        "Jeffrey Epstein"
       ],
       "site": "https://www.myjoyonline.com/"
     },
