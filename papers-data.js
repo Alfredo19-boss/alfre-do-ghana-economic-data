@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T16:49:17.138Z",
+  "updated": "2026-11-17T16:58:49.002Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Shatta Wale denies cocaine use, admits weed and cigarette smoking in the past",
+      "link": "https://www.myjoyonline.com/shatta-wale-denies-cocaine-use-admits-weed-and-cigarette-smoking-in-the-past/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:54:07.000Z",
+      "summary": "Ghanaian dancehall artiste Shatta Wale has dismissed public perceptions that he engages in hard drugs, insisting that his only experiences with substance use have been smoking cannabis and…",
+      "categories": [
+        "Music",
+        "National",
+        "cigratte",
+        "Cocaine",
+        "Shatta Wale",
+        "Weed"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government claims to be retooling Air Force, but bought a presidential jet – Abu Jinapor",
+      "link": "https://www.myjoyonline.com/government-claims-to-be-retooling-air-force-but-bought-a-presidential-jet-abu-jinapor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:52:04.000Z",
+      "summary": "Member of Parliament for Damongo, Samuel Abu Jinapor, has criticised the Mahama-led government's justification for acquiring a new presidential aircraft, arguing that the purchase is…",
+      "categories": [
+        "National",
+        "Air Force",
+        "Member of Parliament for Damongo Minister",
+        "Presidential jet",
+        "Samuel Abu Jinapor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Coalition of medical practitioners endorses Dr Sammy Ayeh for NDC Deputy Communications Officer",
+      "link": "https://www.myjoyonline.com/coalition-of-medical-practitioners-endorses-dr-sammy-ayeh-for-ndc-deputy-communications-officer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:48:43.000Z",
+      "summary": "A coalition of medical practitioners and former student leaders has endorsed Dr Sammy Ayeh’s bid for the position of Deputy National Communications Officer of the National Democratic…",
+      "categories": [
+        "National",
+        "Politics",
+        "Medical doctors",
+        "NDC",
+        "NDC Communications Officer",
+        "Sammy Ayeh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Veterinary Association calls for urgent recruitment to support poultry self-sufficiency drive",
       "link": "https://www.graphic.com.gh/news/general-news/veterinary-association-calls-for-urgent-recruitment-to-support-poultry-self-sufficiency-drive.html",
@@ -38,6 +85,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T16:37:59.000Z",
       "summary": "The Majority Caucus in Parliament has defended the government’s decision to acquire a new presidential jet, arguing that Ghana’s improved economic performance makes the purchase affordable…",
       "categories": [
+        "HP News 3",
         "National",
         "News",
         "Economic conditions",
@@ -214,33 +262,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GRA explains renewed enforcement of permit requirement for right-hand-drive vehicles",
-      "link": "https://www.myjoyonline.com/gra-explains-renewed-enforcement-of-permit-requirement-for-right-hand-drive-vehicles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:33:34.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has explained its decision to enforce the permit requirement for the importation of right-hand-drive vehicles, saying the directive is not a new policy but…",
-      "categories": [
-        "National",
-        "News",
-        "GRA",
-        "Mr Aaron Kanor",
-        "right-hand-drive vehicles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Enterprise Risk Management as a leadership responsibility",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-enterprise-risk-management-as-a-leadership-responsibility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:21:40.000Z",
-      "summary": "Risk management is not simply a compliance function or the responsibility of a risk department. It is a fundamental leadership responsibility that must influence how the organization plans…",
-      "categories": [
-        "Features",
-        "Opinion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: Fuel tanker catches fire after crash on Mamfe-Koforidua section of N4 Highway",
       "link": "https://www.graphic.com.gh/news/general-news/fuel-tanker-catches-fire-after-crash-on-mamfe-koforidua-section-of-n4-highway.html",
       "source": "Daily Graphic",
@@ -250,19 +271,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "COP31: It is time for adaptation finance to reach local communities – AbibiNsroma Foundation",
-      "link": "https://www.myjoyonline.com/cop31-it-is-time-for-adaptation-finance-to-reach-local-communities-abibinsroma-foundation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:07:29.000Z",
-      "summary": "AbibiNsroma Foundation is using its participation at the 31st United Nations Climate Change Conference (COP31) in Türkiye to amplify the voices, concerns and lived experiences of local…",
-      "categories": [
-        "National",
-        "AbibiNsroma Foundation",
-        "Adaptation"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
