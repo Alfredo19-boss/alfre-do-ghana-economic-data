@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T22:28:06.187Z",
+  "updated": "2026-11-17T22:38:30.774Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
+      "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:36:36.000Z",
+      "summary": "South African miner AngloGold Ashanti (AU.N) plans to invest about $2.5 billion ‌in a copper mine in Colombia, conditional on environmental permits, its ​corporate affairs manager Stewart…",
+      "categories": [
+        "Africa",
+        "Mining",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New Nvidia boss says ‘ambition has never been greater’ after Jensen Huang’s exit",
       "link": "https://www.myjoyonline.com/new-nvidia-boss-says-ambition-has-never-been-greater-after-jensen-huangs-exit/",
@@ -111,21 +124,6 @@ window.GDC_PAPERS = {
         "GDP",
         "primary surplus",
         "Public Debt"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petrol price battle: GOIL cuts to GH¢14.99 as Star Oil drops to GH¢13.95",
-      "link": "https://www.myjoyonline.com/petrol-price-battle-goil-cuts-to-gh%c2%a214-99-as-star-oil-drops-to-gh%c2%a213-95/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:34:00.000Z",
-      "summary": "GOIL has reduced its petrol price to GH¢14.99 per litre, while Star Oil has announced a lower price of GH¢13.95 per litre as competition among oil marketing companies intensifies.",
-      "categories": [
-        "Energy",
-        "National",
-        "GOIL",
-        "Petrol price battle",
-        "Star Oil"
       ],
       "site": "https://www.myjoyonline.com/"
     },
