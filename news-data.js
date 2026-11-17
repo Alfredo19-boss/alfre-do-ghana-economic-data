@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T22:38:27.678Z",
+  "updated": "2026-11-17T22:43:28.303Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
+      "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:36:36.000Z",
+      "summary": "South African miner AngloGold Ashanti (AU.N) plans to invest about $2.5 billion ‌in a copper mine in Colombia, conditional on environmental permits, its ​corporate affairs manager Stewart…"
+    },
     {
       "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
       "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T14:00:56.000Z",
       "summary": "The government’s four-year commercial agriculture investment aims to raise domestic production and strengthen agro-processing, but reversing the sector’s slower growth will require more…"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Day Two kicks off with exciting bargains, irresistible deals at Ghud Park",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-day-two-kicks-off-with-exciting-bargains-irresistible-deals-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T13:11:53.000Z",
-      "summary": "The shopping excitement is back, the bargains are calling and the opportunities to discover Ghanaian-made products are getting even bigger as Day Two of the Ecobank JoyBusiness SME Fair…"
     }
   ]
 };

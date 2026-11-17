@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T22:38:30.774Z",
+  "updated": "2026-11-17T22:43:32.590Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -29,7 +29,8 @@ window.GDC_PAPERS = {
       "categories": [
         "Africa",
         "Mining",
-        "National"
+        "National",
+        "Anglogold Ashanti"
       ],
       "site": "https://www.myjoyonline.com/"
     },
