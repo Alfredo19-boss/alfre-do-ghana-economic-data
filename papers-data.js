@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T11:38:45.695Z",
+  "updated": "2026-11-17T11:49:15.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Konongo traffic gridlock: Motorists lose hours as authorities promise relief in 3 weeks",
+      "link": "https://www.myjoyonline.com/konongo-traffic-gridlock-motorists-lose-hours-as-authorities-promise-relief-in-3-weeks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:39:43.000Z",
+      "summary": "Motorists and commuters travelling along the Konongo-Kumasi-Accra highway are spending more than two hours navigating severe traffic congestion, with authorities promising relief within…",
+      "categories": [
+        "National",
+        "Regional",
+        "Konongo-Kumasi-Accra highway",
+        "Motorists"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Timothy Bentum announces five-year anti-drug tour targeting 252 SHSs across Ghana",
+      "link": "https://www.myjoyonline.com/timothy-bentum-announces-five-year-anti-drug-tour-targeting-252-shss-across-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:39:07.000Z",
+      "summary": "Media personality and Lead Pastor of Grace Avenue Ministry, Timothy Bentum, has announced a five-year anti-drug abuse campaign targeting 252 senior high schools across Ghana's 16 regions to…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Timothy Bentum"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Timothy Bentum urges parents to be actively involved in children’s lives to prevent drug abuse",
       "link": "https://www.myjoyonline.com/timothy-bentum-urges-parents-to-be-actively-involved-in-childrens-lives-to-prevent-drug-abuse/",
@@ -111,40 +138,6 @@ window.GDC_PAPERS = {
         "Economy",
         "Ghana",
         "Otumfuo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KGL Group’s Alex Apau Dadey wins top honour at Ghana CEO Vision and Awards",
-      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-wins-top-honour-at-ghana-ceo-vision-and-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:48:25.000Z",
-      "summary": "Alex Apau Dadey, Executive Chairman and Group Chief Executive Officer of KGL Group, has been named CEO of CEOs at the fifth Ghana CEO Vision and Awards, where 39 corporate leaders were…",
-      "categories": [
-        "Events",
-        "Alex Apau Dadey",
-        "ceo awards",
-        "ceo of ceos",
-        "KGL Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tourism Authority shuts down over 20 hotels, restaurants in Ashanti Region over licensing violations",
-      "link": "https://www.myjoyonline.com/tourism-authority-shuts-down-over-20-hotels-restaurants-in-ashanti-region-over-licensing-violations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:44:21.000Z",
-      "summary": "The Ghana Tourism Authority (GTA) has shut down more than 20 hotels and restaurants operating within the Kumasi and Konongo enclaves in the Ashanti Region for operating without valid…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "HP News 5",
-        "National",
-        "News",
-        "Ashanti Region",
-        "Hotel",
-        "Restaurants",
-        "Tourism Authority"
       ],
       "site": "https://www.myjoyonline.com/"
     },
