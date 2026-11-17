@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T20:28:32.982Z",
+  "updated": "2026-11-17T20:38:00.546Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T20:25:12.000Z",
       "summary": "Ghanaian dancehall artiste Shatta Wale has appealed to his former partner, Shatta Michy, to put their past differences aside and work with him to secure a better future for their son…",
       "categories": [
+        "HP Entertainment 1",
+        "HP News 9",
         "Music",
         "National",
         "Shatta Michy",
