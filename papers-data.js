@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:15:57.962Z",
+  "updated": "2026-11-17T07:26:19.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Transfer interest affected my form’",
+      "link": "https://ghanaiantimes.com.gh/transfer-interest-affected-my-form/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:24:16.000Z",
+      "summary": "REAL Madrid forward Vinicius Jr says he felt “truly overwhelmed” by transfer speculation in the summer, which contributed to his mixed form at the start of the season. The Brazil…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "England ends Spain’s unbeaten run, Italy eliminated",
+      "link": "https://ghanaiantimes.com.gh/england-ends-spains-unbeaten-run-italy-eliminated/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:22:37.000Z",
+      "summary": "ENGLAND ended world champions Spain’s record unbeaten run with a 3-2 win in Madrid to top their Nations League group, but Italy’s hopes of joining them in next year’s quarter-finals were…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Infantino worse than Blatter — Klopp",
+      "link": "https://ghanaiantimes.com.gh/infantino-worse-than-blatter-klopp/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:20:11.000Z",
+      "summary": "GERMANY manager Jurgen Klopp says he “didn’t think things could get worse after Sepp Blatter, but someone has managed to do just that” as he called for FIFA president Gianni Infantino to be…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Meteors will bounce back against Libya today",
+      "link": "https://ghanaiantimes.com.gh/black-meteors-will-bounce-back-against-libya-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:17:55.000Z",
+      "summary": "GHANA’S Black Meteors are gearing up for a decisive encounter today against Libya’s Mediterranean Knights as they seek to overturn a 1-0 first-leg deficit and keep their hopes of qualifying…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "National Banking College launches financial magazine",
       "link": "https://ghanaiantimes.com.gh/national-banking-college-launches-financial-magazine/",
@@ -66,42 +110,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "5-year presidential term must come with midterm polls – Akyem Muoso Chief",
-      "link": "https://ghanaiantimes.com.gh/5-year-presidential-term-must-come-with-midterm-polls-akyem-muoso-chief/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:00:16.000Z",
-      "summary": "THE Chief of Akyem Muoso, Osabarima Dr Owusu Beyeeman, has warned that extending the presidential and parliamentary terms of office from four to five years without introducing effective…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "WOMEC calls for domestic funding of maternal, child nutrition",
-      "link": "https://ghanaiantimes.com.gh/womec-calls-for-domestic-funding-of-maternal-child-nutrition/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:49:54.000Z",
-      "summary": "WOMEN, Media and Change (WOMEC) has called on the government to commit sustainable domestic resources to financing essential nutrition commodities to reduce the country’s dependence on…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nation’s digital health drive faces major hurdles • Assessment identifies poor coordination, funding gaps",
-      "link": "https://ghanaiantimes.com.gh/nations-digital-health-drive-faces-major-hurdles-assessment-identifies-poor-coordination-funding-gaps/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:43:51.000Z",
-      "summary": "GHANA’S efforts to transform healthcare delivery through digital technology are being hampered by poor coordination among service providers, inadequate funding, weak infrastructure and gaps…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "AFCON 2027Q: Somalia wins enough ‘motivation’ for Black Stars ahead of final two games – Ati Zigi",
       "link": "https://www.myjoyonline.com/afcon-2027q-somalia-wins-enough-motivation-for-black-stars-ahead-of-final-two-games-ati-zigi/",
       "source": "MyJoyOnline",
@@ -117,17 +125,6 @@ window.GDC_PAPERS = {
         "Somalia"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Korean Embassy, companies support Osu Children’s Home",
-      "link": "https://ghanaiantimes.com.gh/korean-embassy-companies-support-osu-childrens-home/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:39:50.000Z",
-      "summary": "THE Embassy of the Republic of Korea in Ghana, in partnership with Korean companies, has donated essential items to the Osu Children’s Home in Accra to improve the welfare and living…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "AFCON 2027Q: We did better than first game – Kim Lars Bjorkegren",
