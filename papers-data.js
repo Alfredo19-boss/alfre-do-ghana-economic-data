@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T05:05:59.118Z",
+  "updated": "2026-11-17T05:35:57.713Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,110 +21,109 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
-      "link": "https://www.myjoyonline.com/robert-pattinson-to-replace-daniel-craig-as-james-bond-2/",
+      "title": "Agyinasare demands full disclosure of National Cathedral money",
+      "link": "https://www.myjoyonline.com/agyinasare-demands-full-disclosure-of-national-cathedral-money/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T04:23:00.000Z",
-      "summary": "Robert Pattinson, the British actor known for films such as Twilight and The Batman, has been confirmed as the next actor to play James Bond.",
-      "categories": [
-        "Movies",
-        "James Bond",
-        "Robert Pattinson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
-      "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T04:12:00.000Z",
-      "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 1",
-        "National",
-        "Dr Zakari Mumuni",
-        "First Deputy Governor of the Bank of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 interest bill exceeds allocations to four job-creating ministries, says Amin Adam",
-      "link": "https://www.myjoyonline.com/2027-interest-bill-exceeds-allocations-to-four-job-creating-ministries-says-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T04:03:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana’s projected GH¢61 billion interest bill for 2027 exceeds the combined allocations to four ministries he identified as key to job…",
-      "categories": [
-        "Politics",
-        "2027 Budget",
-        "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Economic recovery did not start with NDC’ – Amin Adam",
-      "link": "https://www.myjoyonline.com/economic-recovery-did-not-start-with-ndc-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T03:51:22.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of taking undue credit for Ghana’s economic recovery, insisting that key improvements in the economy were already…",
+      "published": "2026-11-17T05:25:00.000Z",
+      "summary": "Archbishop Charles Agyinasare has challenged those behind the National Cathedral project to open their financial records to public scrutiny, insisting that churches must know how…",
       "categories": [
         "National",
         "News",
-        "Amin Adam",
-        "Economy",
-        "finance",
+        "Cathedral",
+        "Church",
+        "national cathedral"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Retaining the incumbent regional chairman is the surest bet for Ashanti NDC",
+      "link": "https://www.myjoyonline.com/retaining-the-incumbent-regional-chairman-is-the-surest-bet-for-ashanti-ndc/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:15:00.000Z",
+      "summary": "Mohammed Yakubu, the Member of Parliament (MP) for Ahafo Ano South-East, has described the re-election of Mr Andrews Nana Akwasi as Ashanti Regional Chairman of the NDC as the surest bet…",
+      "categories": [
+        "National",
+        "Ashanti Region",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oti Regional Minister highlights government development projects",
+      "link": "https://www.myjoyonline.com/oti-regional-minister-highlights-government-development-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:13:00.000Z",
+      "summary": "The government has set a target to process 100 per cent of Ghana’s cocoa locally by 2030 as part of efforts to deepen value addition, expand agro-processing and retain more economic…",
+      "categories": [
+        "National",
+        "Government",
+        "Oti Regional Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana exports to China surge under zero-tariff policy",
+      "link": "https://www.myjoyonline.com/ghana-exports-to-china-surge-under-zero-tariff-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:10:00.000Z",
+      "summary": "Ghana’s exports to China rose sharply following the implementation of China’s zero-tariff policy, with imports from Ghana reaching US$290 million in June 2026.",
+      "categories": [
+        "National",
+        "China",
         "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.myjoyonline.com/intel-sued-by-investors-after-pc-sales-slump-hits-share-price/",
+      "title": "BoG warns strong El Niño could affect food prices, cocoa and cedi",
+      "link": "https://www.myjoyonline.com/bog-warns-strong-el-nino-could-affect-food-prices-cocoa-and-cedi/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T03:42:00.000Z",
-      "summary": "Intel, the US chip giant, faces a shareholder lawsuit accusing it of hiding the severity of a slump in personal computer (PC) sales that caused its share price to plunge almost 29% in one…",
+      "published": "2026-11-17T05:04:00.000Z",
+      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), Monday warned that an unusually strong El Niño episode could affect agricultural production across West Africa, including…",
       "categories": [
-        "Technology",
-        "Intel"
+        "National",
+        "BoG",
+        "Cedi",
+        "Cocoa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "California sues OpenAI over Hugging Face attack",
-      "link": "https://www.myjoyonline.com/california-sues-openai-over-hugging-face-attack/",
+      "title": "Opoku-Agyemang rallies collective responsibility for quality education",
+      "link": "https://www.myjoyonline.com/opoku-agyemang-rallies-collective-responsibility-for-quality-education/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T03:34:00.000Z",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper…",
+      "published": "2026-11-17T05:01:00.000Z",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has called for sustained collaboration between government and stakeholders to make quality education a shared national responsibility.",
       "categories": [
-        "Technology",
-        "Hugging Face hack",
-        "OpenAI"
+        "National",
+        "Opoku-Agyemang",
+        "Vice President"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Imran Khan seeks urgent medical care fearing he ‘may not return alive’",
-      "link": "https://www.myjoyonline.com/imran-khan-seeks-urgent-medical-care-fearing-he-may-not-return-alive/",
+      "title": "Ghana now Africa’s eighth-largest economy, second in West Africa – Mahama tells Investment Summit",
+      "link": "https://www.myjoyonline.com/ghana-now-africas-eighth-largest-economy-second-in-west-africa-mahama-tells-investment-summit/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T03:26:00.000Z",
-      "summary": "Pakistan's jailed former PM Imran Khan has appealed for urgent medical treatment, saying that his and his wife's health has been deteriorating.",
+      "published": "2026-11-17T04:59:00.000Z",
+      "summary": "President John Dramani Mahama has hailed Ghana’s economic recovery, declaring the country as “one of Africa’s most resilient and promising economies” as he opened the Ghana Investment…",
       "categories": [
-        "International",
-        "Imran Khan",
-        "Pakistan"
+        "National",
+        "Ghana",
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nvidia dismisses ‘Bring Jensen Back’ campaign as Trump backs effort to reinstate ex CEO",
-      "link": "https://www.myjoyonline.com/nvidia-dismisses-bring-jensen-back-campaign-as-trump-backs-effort-to-reinstate-ex-ceo-2/",
+      "title": "Governor Asiama urges vigilance as MPC holds final 2026 meeting",
+      "link": "https://www.myjoyonline.com/governor-asiama-urges-vigilance-as-mpc-holds-final-2026-meeting/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T03:26:00.000Z",
-      "summary": "Nvidia has dismissed a campaign calling for the company's co-founder Jensen Huang to be handed back his job as allies, including US President Donald Trump, supported the effort.",
+      "published": "2026-11-17T04:56:00.000Z",
+      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), has cautioned against complacency as the Monetary Policy Committee (MPC) holds its final meeting for 2026.",
       "categories": [
-        "International",
-        "Jensen Huang",
-        "Nvidia"
+        "National",
+        "Asiama",
+        "MPC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
