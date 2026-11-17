@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:18:50.218Z",
+  "updated": "2026-11-17T13:29:17.774Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Why Ubuntu Needs Meritocracy",
+      "link": "https://ghanaiantimes.com.gh/why-ubuntu-needs-meritocracy/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T13:27:46.000Z",
+      "summary": "The biologist Edward O. Wilson summed up the dilemma: “we have Paleolithic emotions, medieval institutions, and godlike technology.” A specialist in ants, he had observed that these insects…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Rent Commission threatens legal action against University of Ghana over hostel fee hikes",
+      "link": "https://www.myjoyonline.com/rent-commission-threatens-legal-action-against-university-of-ghana-over-hostel-fee-hikes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:21:37.000Z",
+      "summary": "The Rent Commission has threatened legal action against the University of Ghana (UG) over its failure to comply with a directive to suspend recent hostel fee increases and refund affected…",
+      "categories": [
+        "Education",
+        "Hostel",
+        "Rent Commissioner",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana failed to establish Ofori-Atta’s personal benefit in alleged financial crimes – INTERPOL",
+      "link": "https://www.myjoyonline.com/ghana-failed-to-establish-ofori-attas-personal-benefit-in-alleged-financial-crimes-interpol/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:15:30.000Z",
+      "summary": "The Commission for the Control of INTERPOL's Files has questioned the evidence submitted by the Office of the Special Prosecutor (OSP) against former Finance Minister Ken Ofori-Atta, saying…",
+      "categories": [
+        "National",
+        "Interpol",
+        "Ken Ofori Atta",
+        "OSP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31: Ghana demands funds to repair Africa’s mining-scarred lands, triple adaptation finance",
       "link": "https://www.myjoyonline.com/cop31-ghana-demands-funds-to-repair-africas-mining-scarred-lands-triple-adaptation-finance/",
@@ -100,33 +139,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Politics"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I sold four truckloads of cement daily’ – Dangote recalls humble business beginnings",
-      "link": "https://www.myjoyonline.com/i-sold-four-truckloads-of-cement-daily-dangote-recalls-humble-business-beginnings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:46:55.000Z",
-      "summary": "Africa’s richest man and Nigerian business magnate, Aliko Dangote, has recounted how he began his entrepreneurial journey in 1978, selling just four truckloads of cement daily and making…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Cement",
-        "Dangote"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Four arrested for impersonating National Security operatives to extort miners in Ashanti Region",
-      "link": "https://www.myjoyonline.com/four-arrested-for-impersonating-national-security-operatives-to-extort-miners-in-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:44:53.000Z",
-      "summary": "Four suspected members of an organised criminal syndicate have been arrested for allegedly impersonating National Security operatives and extorting huge sums of money from small-scale…",
-      "categories": [
-        "HP News 10",
-        "Regional",
-        "National Security"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,17 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-17T07:55:04.000Z",
       "summary": "VIRTUAL assets are digital representations of value that can be traded, transferred or utilised for payment purposes, explicitly excluding fiat currencies, securities and conventional…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Beyond portraits: Why the Cedi should celebrate Ghana’s landscapes, architecture, and shared symbols",
-      "link": "https://ghanaiantimes.com.gh/beyond-portraits-why-the-cedi-should-celebrate-ghanas-landscapes-architecture-and-shared-symbols/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:53:22.000Z",
-      "summary": "WHEN the Bank of Ghana (BoG) unveiled the new Ghana Cedi Heritage Series on Thursday, November 12, 2026, the goal was clear: to give Ghanaians stronger, safer, and more modern banknotes…",
       "categories": [
         "Features"
       ],
