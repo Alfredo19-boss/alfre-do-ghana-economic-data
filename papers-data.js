@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T23:23:30.576Z",
+  "updated": "2026-11-17T23:33:29.601Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s nuclear journey: From Nkrumah’s vision to a new investment commitment",
+      "link": "https://www.myjoyonline.com/ghanas-nuclear-journey-from-nkrumahs-vision-to-a-new-investment-commitment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:24:16.000Z",
+      "summary": "Ghana’s proposed US$200 million investment in nuclear power readiness marks a significant step in a journey that began more than six decades ago. It renews an ambition rooted in the…",
+      "categories": [
+        "Opinion",
+        "Investment",
+        "Nkrumah",
+        "nuclear journey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Child Online Africa calls for AU action on online violence against children",
       "link": "https://www.myjoyonline.com/child-online-africa-calls-for-au-action-on-online-violence-against-children/",
@@ -108,19 +122,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Grindr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jensen Huang says he would be ‘honoured’ to return as Nvidia CEO if board asked him",
-      "link": "https://www.myjoyonline.com/jensen-huang-says-he-would-be-honoured-to-return-as-nvidia-ceo-if-board-asked-him/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:43:00.000Z",
-      "summary": "Jensen Huang said he would be \"honoured\" to return as tech giant Nvidia's boss if the board asked him to, in his first public comments since his shock resignation.",
-      "categories": [
-        "Technology",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
