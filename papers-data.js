@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T21:03:34.522Z",
+  "updated": "2026-11-17T21:23:00.851Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
+      "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:14:00.000Z",
+      "summary": "According to the November 2026 Summary of Economic and Financial Data by the Bank of Ghana, the cedi traded at GH¢11.69 to one American greenback in November 2026.",
+      "categories": [
+        "Business",
+        "Economy",
+        "BoG",
+        "Cedi",
+        "Dollar",
+        "Euro",
+        "Pound"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cedi to weaken by 7.4% in 2027, to end 2027 at GH¢12.8 per dollar – Fitch Solutions",
       "link": "https://www.myjoyonline.com/cedi-to-weaken-by-7-4-in-2027-to-end-2027-at-gh%c2%a212-8-per-dollar-fitch-solutions/",
@@ -128,20 +145,6 @@ window.GDC_PAPERS = {
         "improved economy",
         "Kwakye Ofosu",
         "Presidential jet"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Falcon 6X bought for President Mahama, not a retooling of Air Force – Abu Jinapor",
-      "link": "https://www.myjoyonline.com/falcon-6x-bought-for-president-mahama-not-a-retooling-of-the-ghana-air-force-abu-jinapor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:13:46.000Z",
-      "summary": "Ranking Member on Parliament’s Foreign Affairs committee, Samuel Abu Jinapor, has rejected the government's explanation that the newly acquired Falcon 6X executive jet is part of a broader…",
-      "categories": [
-        "National",
-        "Falcon 6X executive jet",
-        "President John Mahama",
-        "Samuel Abu Jinapor"
       ],
       "site": "https://www.myjoyonline.com/"
     },

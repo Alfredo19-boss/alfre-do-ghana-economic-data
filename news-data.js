@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T21:03:29.567Z",
+  "updated": "2026-11-17T21:22:58.881Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
+      "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:14:00.000Z",
+      "summary": "According to the November 2026 Summary of Economic and Financial Data by the Bank of Ghana, the cedi traded at GH¢11.69 to one American greenback in November 2026."
+    },
     {
       "title": "Cedi to weaken by 7.4% in 2027, to end 2027 at GH¢12.8 per dollar – Fitch Solutions",
       "link": "https://www.myjoyonline.com/cedi-to-weaken-by-7-4-in-2027-to-end-2027-at-gh%c2%a212-8-per-dollar-fitch-solutions/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T12:00:37.000Z",
       "summary": "The November 16–17 summit brings Aliko Dangote, global investors and a pipeline of about 100 investment-ready projects to Accra."
-    },
-    {
-      "title": "Gov’t to Cap Public Sector Recruitment in 2027 to Control Expenditure",
-      "link": "https://thehighstreetjournal.com/govt-to-cap-public-sector-recruitment-in-2027-to-control-expenditure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T11:00:08.000Z",
-      "summary": "Government plans to enforce staffing ceilings across public institutions in 2027, requiring quarterly recruitment reports to contain rising public sector wage costs."
     }
   ]
 };
