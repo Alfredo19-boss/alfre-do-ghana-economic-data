@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:05:59.061Z",
+  "updated": "2026-11-17T07:15:57.962Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "National Banking College launches financial magazine",
+      "link": "https://ghanaiantimes.com.gh/national-banking-college-launches-financial-magazine/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:14:03.000Z",
+      "summary": "THE National Banking College (NBC) has launched a new industry magazine, The Financial Perspective, to promote knowledge-sharing and highlight emerging developments in Ghana’s banking and…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "RMU-AskRaf Annual Blue Economy Public Lecture set for November 25",
+      "link": "https://ghanaiantimes.com.gh/rmu-askraf-annual-blue-economy-public-lecture-set-for-november-25/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:11:45.000Z",
+      "summary": "THE Regional Maritime University (RMU), in collaboration with AskRaf International Company Limited, will on Wednesday, November 25, 2026, host the RMU-AskRaf Annual Blue Economy Public…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prisons Service urged to restore public confidence",
+      "link": "https://ghanaiantimes.com.gh/prisons-service-urged-to-restore-public-confidence/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:08:53.000Z",
+      "summary": "THE Deputy Minister of Interior, Ebenezer Okletey Terlabi, has urged the Ghana Prisons Service (GPS) to uphold professionalism and integrity to restore public confidence. He said there was…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Africa must speak with one voice on climate finance – Minister",
+      "link": "https://ghanaiantimes.com.gh/africa-must-speak-with-one-voice-on-climate-finance-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:06:45.000Z",
+      "summary": "THE Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has urged African countries to strengthen their collective voice in international climate negotiations to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "5-year presidential term must come with midterm polls – Akyem Muoso Chief",
       "link": "https://ghanaiantimes.com.gh/5-year-presidential-term-must-come-with-midterm-polls-akyem-muoso-chief/",
@@ -102,18 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Farmer-herder conflict threatens Ghana’s security – Prof. Aning",
-      "link": "https://ghanaiantimes.com.gh/farmer-herder-conflict-threatens-ghanas-security-prof-aning/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:27:12.000Z",
-      "summary": "GHANA’S persistent farmer-herder conflicts are creating conditions that could be exploited by extremist groups operating across West Africa, security expert Professor Kwesi Aning has…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana wins two ITU seats in Doha: what the victories mean for the country’s digital future",
       "link": "https://www.myjoyonline.com/ghana-wins-two-itu-seats-in-doha-what-the-victories-mean-for-the-countrys-digital-future/",
       "source": "MyJoyOnline",
@@ -126,40 +159,6 @@ window.GDC_PAPERS = {
         "ITU Plenipotentiary Conference"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest 3 over GH¢20m suspected counterfeit GTP fabrics",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-3-over-gh%c2%a220m-suspected-counterfeit-gtp-fabrics/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:21:34.000Z",
-      "summary": "THE Ghana Police Service has arrested three persons and seized assorted wax print fabrics suspected to be counterfeit GTP products at Adabraka in Accra. Estimated at GH¢20 million, the…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former CEO of GIIF given time to engage new lawyer",
-      "link": "https://ghanaiantimes.com.gh/former-ceo-of-giif-given-time-to-engage-new-lawyer/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:19:48.000Z",
-      "summary": "THE High Court in Accra has given former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Mr Solomon Asamoah, time to engage a new lawyer after his counsel, Ms…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghanaians must take advantage of China’s Zero Tariff Policy – Okudzeto Ablakwa",
-      "link": "https://ghanaiantimes.com.gh/ghanaians-must-take-advantage-of-chinas-zero-tariff-policy-okudzeto-ablakwa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:13:28.000Z",
-      "summary": "THE Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has urged Ghanaians to increase local production in order to take advantage of China’s zero-tariff policy. He said the time had…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "The beacon of hope: Coach Opeele touts Andre Ayew as the man to rescue Ghana football",
