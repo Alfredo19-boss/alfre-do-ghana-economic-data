@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:53:52.363Z",
+  "updated": "2026-11-17T14:03:50.373Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,11 +21,39 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Minority to demand procurement details of presidential jet purchase",
+      "link": "https://www.myjoyonline.com/minority-to-demand-procurement-details-of-presidential-jet-purchase/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:55:12.000Z",
+      "summary": "The Minority in Parliament is demanding full disclosure of the procurement details surrounding the acquisition of a new presidential jet, following government's announcement of the…",
+      "categories": [
+        "National",
+        "News",
+        "Minority",
+        "Presidential jet",
+        "Samuel Abu Jinapor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa offers handsome reward for information on Ghanaian woman allegedly assaulted in Iraq",
+      "link": "https://www.myjoyonline.com/ablakwa-offers-handsome-reward-for-information-on-ghanaian-woman-allegedly-assaulted-in-iraq/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:53:45.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has announced a reward for anyone who provides credible information to help identify and locate a Ghanaian woman believed to have been…",
+      "categories": [
+        "National",
+        "Iraq",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Sam Jonah: The human and political complexities behind Gen. Kutu Acheampong’s leadership",
       "link": "https://www.myjoyonline.com/sam-jonah-the-human-and-political-complexities-behind-gen-kutu-acheampongs-leadership/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:47:27.000Z",
-      "summary": "Se wo were fi na wosankofa a yenkyi. “It is not wrong to go back for what you have forgotten.” – AKAN PROVERB Delivered by Sam Jonah, KBE, OSG Chancellor, University of Cape Coast Executive…",
+      "summary": "Se wo were fi na wosankofa a yenkyi. – “It is not wrong to go back for what you have forgotten.” – AKAN PROVERB Delivered by Sam Jonah, KBE, OSG Chancellor, University of Cape Coast…",
       "categories": [
         "Opinion",
         "Kutu Acheampong",
@@ -103,39 +131,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority questions need for new presidential jet amid economic challenges",
-      "link": "https://www.myjoyonline.com/minority-questions-need-for-new-presidential-jet-amid-economic-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:33:19.000Z",
-      "summary": "The Minority in Parliament has questioned the government's decision to acquire a new presidential jet at a reported cost of GH¢720 million, citing competing financial demands and what it…",
-      "categories": [
-        "National",
-        "News",
-        "Minority",
-        "Presidential jet"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "First National Bank’s unique approach to banking yielding good results – CEO",
-      "link": "https://www.myjoyonline.com/first-national-banks-unique-approach-to-banking-yielding-good-results-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:31:36.000Z",
-      "summary": "The CEO asserted that the results reflected progress in the bank’s growth strategy and the confidence customers continued to place in the business. “We have delivered steady profitability…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Customer Deposits",
-        "FNB",
-        "interest income",
-        "Net fees and commission",
-        "Profit",
-        "Sylvia Inkoom"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof Fred Newton Binka, pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",
+      "title": "Prof Fred Newton Binka pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",
       "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T13:29:35.000Z",

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T13:53:49.823Z",
+  "updated": "2026-11-17T14:03:47.322Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "World Bank Group Mobilises Record $112 Billion as It Courts Private Investors",
+      "link": "https://thehighstreetjournal.com/world-bank-group-mobilises-record-112-bn/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T14:01:00.000Z",
+      "summary": "Ariane Di Iorio, MIGA's Economics and Sustainability Director, said the World Bank Group had already exceeded its 2030 target for its guarantee platform"
+    },
     {
       "title": "High Interest Rates Threaten Ghana’s Cashew Processing Ambitions",
       "link": "https://thehighstreetjournal.com/high-interest-rates-threaten-ghanas-cashew-processing-ambitions/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T05:02:00.000Z",
       "summary": "Government expects lower interest rates, stronger business confidence and improved access to credit to support private investment, economic expansion and job creation."
-    },
-    {
-      "title": "Rates Fall, but Credit Doors Stay Shut for Many Ghanaian Businesses",
-      "link": "https://thehighstreetjournal.com/rates-fall-but-credit-doors-stay-shut-for-many-ghanaian-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:01:00.000Z",
-      "summary": "Prof. Samuel Lartey says falling rates have not eased credit for Ghanaian businesses, citing high lending rates and distressed loans, and urges clearer bank disclosures."
     }
   ]
 };
