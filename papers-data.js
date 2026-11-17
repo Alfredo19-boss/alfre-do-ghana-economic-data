@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T00:36:22.592Z",
+  "updated": "2026-11-17T00:56:22.043Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -59,9 +59,22 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Events",
+        "HP Entertainment 1",
         "National",
         "Photo Story",
         "Ecobank JoyBusiness SME Fair 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "link": "https://www.myjoyonline.com/forensic-expert-says-his-analysis-of-autopsy-photos-suggests-epstein-was-killed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T22:04:00.000Z",
+      "summary": "A forensic expert has said he believes that convicted sex offender Jeffrey Epstein's death in prison was the result of a homicide, not suicide.",
+      "categories": [
+        "News",
+        "Jeffrey Epstein"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -75,7 +88,7 @@ window.GDC_PAPERS = {
         "Arts and Culture",
         "Comp. Entertainment",
         "Diaspora",
-        "HP Entertainment 1",
+        "HP Entertainment 3",
         "Movies",
         "Theatre",
         "Travel and Tourism",
@@ -127,20 +140,6 @@ window.GDC_PAPERS = {
         "Dangote",
         "Ghana",
         "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rashid Seidu writes: Madina at the crossroads – Why Siidi must go unopposed",
-      "link": "https://www.myjoyonline.com/rashid-seidu-writes-madina-at-the-crossroads-why-siidi-must-go-unopposed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:14:23.000Z",
-      "summary": "Madina is tired of waiting. Tired of promises that fade after the votes are counted, and of roads, jobs and hope that never arrive. Now, as 2028 draws near, the constituency has one…",
-      "categories": [
-        "Opinion",
-        "Madina",
-        "Rashid Seidu",
-        "Siidi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
