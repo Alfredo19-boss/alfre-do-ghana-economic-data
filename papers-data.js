@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T21:23:00.851Z",
+  "updated": "2026-11-17T21:38:05.890Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
+      "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:34:05.000Z",
+      "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase.",
+      "categories": [
+        "Business",
+        "Economy",
+        "domestic debt",
+        "external debt",
+        "Fiscal Deficit",
+        "GDP",
+        "primary surplus",
+        "Public Debt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
       "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
@@ -130,21 +148,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "President John Mahama",
         "Sliding-scale mining royalties"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New presidential jet purchase was driven by cost concerns, not improved economy – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/new-presidential-jet-purchase-was-driven-by-cost-concerns-not-improved-economy-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:17:53.000Z",
-      "summary": "Minister of State in charge of Government Communications, Felix Kwakye Ofosu, says the decision to procure a new presidential aircraft was driven by concerns over the cost of maintaining…",
-      "categories": [
-        "National",
-        "News",
-        "improved economy",
-        "Kwakye Ofosu",
-        "Presidential jet"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T21:22:58.881Z",
+  "updated": "2026-11-17T21:38:01.876Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
+      "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:34:05.000Z",
+      "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase."
+    },
     {
       "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
       "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T12:12:54.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 opened at GHUD Park, Accra Mall, bringing together an impressive collection of Ghanaian businesses, established brands, entrepreneurs and service…"
-    },
-    {
-      "title": "Major Deals Expected As GIPA Hosts Dangote, Global Investors At Maiden Invest Ghana Summit From Monday",
-      "link": "https://thehighstreetjournal.com/major-deals-expected-as-gipa-hosts-dangote-global-investors-at-maiden-invest-ghana-summit-from-monday/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T12:00:37.000Z",
-      "summary": "The November 16–17 summit brings Aliko Dangote, global investors and a pipeline of about 100 investment-ready projects to Accra."
     }
   ]
 };
