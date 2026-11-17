@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:33:47.177Z",
+  "updated": "2026-11-17T15:44:04.668Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The UN Succession: Why Grynspan’s growing momentum matters to Africa",
+      "link": "https://www.myjoyonline.com/the-un-succession-why-grynspans-growing-momentum-matters-to-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:35:33.000Z",
+      "summary": "The contest to choose the next Secretary-General of the United Nations is beginning to reveal something more consequential than the electoral fortunes of individual candidates. It is…",
+      "categories": [
+        "Opinion",
+        "Costa Rica",
+        "Tourism",
+        "UN secretary egenral"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA explains renewed enforcement of permit requirement for right-hand-drive vehicles",
+      "link": "https://www.myjoyonline.com/gra-explains-renewed-enforcement-of-permit-requirement-for-right-hand-drive-vehicles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:33:34.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has explained its decision to enforce the permit requirement for the importation of right-hand-drive vehicles, saying the directive is not a new policy but…",
+      "categories": [
+        "National",
+        "News",
+        "GRA",
+        "Mr Aaron Kanor",
+        "right-hand-drive vehicles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: Enterprise Risk Management as a leadership responsibility",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-enterprise-risk-management-as-a-leadership-responsibility/",
@@ -114,38 +143,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Banking and Finance",
         "National"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "80-year-old woman rescued after alleged ritual attempt to behead her in Ashanti Region",
-      "link": "https://www.myjoyonline.com/80-year-old-woman-rescued-after-alleged-ritual-attempt-to-behead-her-in-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:54:18.000Z",
-      "summary": "An 80-year-old woman has been rescued by residents after unknown assailants attacked her at Nyankyerenease in the Kwadaso Municipality of the Ashanti Region.",
-      "categories": [
-        "Crime",
-        "Regional",
-        "80-year-old woman",
-        "Ashanti Region",
-        "ritual attempt"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama to unveil new DNA, vaccine research laboratories at Noguchi",
-      "link": "https://www.myjoyonline.com/mahama-to-unveil-new-dna-vaccine-research-laboratories-at-noguchi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:53:44.000Z",
-      "summary": "President John Dramani Mahama is expected to commission new human DNA testing laboratories and a dedicated vaccine development facility at the Noguchi Memorial Institute for Medical…",
-      "categories": [
-        "Health",
-        "National",
-        "News",
-        "new DNA",
-        "Noguchi",
-        "President John Dramani Mahama",
-        "vaccine research laboratories"
       ],
       "site": "https://www.myjoyonline.com/"
     },
