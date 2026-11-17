@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T23:46:51.314Z",
+  "updated": "2026-11-16T23:56:26.351Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -92,6 +92,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-16T21:22:00.000Z",
       "summary": "Africa’s richest man, Aliko Dangote, has revealed a deep family connection to Ghana, disclosing that about one-quarter of his family members were born in the country.",
       "categories": [
+        "HP News 2",
         "News",
         "Dangote",
         "Ghana",
