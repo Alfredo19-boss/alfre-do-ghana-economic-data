@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T02:45:59.403Z",
+  "updated": "2026-11-17T03:45:58.404Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -80,6 +80,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Two suspects remanded over murder of 39-year-old woman in Oti Region",
+      "link": "https://www.myjoyonline.com/two-suspects-remanded-over-murder-of-39-year-old-woman-in-oti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T22:50:00.000Z",
+      "summary": "Two men have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Madam Rejoice Sena Akpaku, whose body was…",
+      "categories": [
+        "Crime",
+        "Oti Region",
+        "Remanded"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
       "source": "MyJoyOnline",
@@ -116,28 +129,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Jeffrey Epstein"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dikan brings the story of Nkrumah to more than 6,000 people",
-      "link": "https://www.myjoyonline.com/dikan-brings-the-story-of-nkrumah-to-more-than-6000-people/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:46:19.000Z",
-      "summary": "The programme combined four screenings at Dikan with events at four other locations, ending at the National Theatre on 13 November 2026.",
-      "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Diaspora",
-        "HP Entertainment 3",
-        "Movies",
-        "Theatre",
-        "Travel and Tourism",
-        "Chris Hesse",
-        "Dikan",
-        "Kwame Nkrumah",
-        "Paul Ninson",
-        "The Eyes of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
