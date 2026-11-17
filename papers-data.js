@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T06:46:03.080Z",
+  "updated": "2026-11-17T06:55:59.476Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "WOMEC calls for domestic funding of maternal, child nutrition",
+      "link": "https://ghanaiantimes.com.gh/womec-calls-for-domestic-funding-of-maternal-child-nutrition/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:49:54.000Z",
+      "summary": "WOMEN, Media and Change (WOMEC) has called on the government to commit sustainable domestic resources to financing essential nutrition commodities to reduce the country’s dependence on…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Nation’s digital health drive faces major hurdles • Assessment identifies poor coordination, funding gaps",
       "link": "https://ghanaiantimes.com.gh/nations-digital-health-drive-faces-major-hurdles-assessment-identifies-poor-coordination-funding-gaps/",
@@ -145,18 +157,6 @@ window.GDC_PAPERS = {
       "summary": "THE high cost of diagnosing pineal region tumours, as highlighted by a senior neurosurgeon at the Greater Accra Regional Hospital, Dr Justice Asare, raises an important concern about access…",
       "categories": [
         "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Chairman Wontumi’s appeal application dismissed by High Court",
-      "link": "https://ghanaiantimes.com.gh/chairman-wontumis-appeal-application-dismissed-by-high-court/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:08:14.000Z",
-      "summary": "THE High Court in Accra yesterday dismissed former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako’s application for bail pending his appeal against his…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
