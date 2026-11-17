@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:35:59.892Z",
+  "updated": "2026-11-17T07:45:58.975Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Haiti’s former first lady to run for president",
+      "link": "https://ghanaiantimes.com.gh/haitis-former-first-lady-to-run-for-president/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:45:28.000Z",
+      "summary": "Martine Moise, the widow of Haiti’s last president whose 2021 assassination was a major turning point for the nation, has ​registered as a candidate for the first presidential election in a…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cape Verde President wins second term",
+      "link": "https://ghanaiantimes.com.gh/cape-verde-president-wins-second-term/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:41:39.000Z",
+      "summary": "Cape Verde President José Maria Neves has won ‌a second five-year term, according to provisional results from Sunday’s election, besting five challengers including the archipelago’s first…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Black Stars labour to narrow win over Somalia",
       "link": "https://ghanaiantimes.com.gh/black-stars-labour-to-narrow-win-over-somalia/",
@@ -99,28 +121,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-17T07:24:16.000Z",
       "summary": "REAL Madrid forward Vinicius Jr says he felt “truly overwhelmed” by transfer speculation in the summer, which contributed to his mixed form at the start of the season. The Brazil…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "England ends Spain’s unbeaten run, Italy eliminated",
-      "link": "https://ghanaiantimes.com.gh/england-ends-spains-unbeaten-run-italy-eliminated/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:22:37.000Z",
-      "summary": "ENGLAND ended world champions Spain’s record unbeaten run with a 3-2 win in Madrid to top their Nations League group, but Italy’s hopes of joining them in next year’s quarter-finals were…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Infantino worse than Blatter — Klopp",
-      "link": "https://ghanaiantimes.com.gh/infantino-worse-than-blatter-klopp/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:20:11.000Z",
-      "summary": "GERMANY manager Jurgen Klopp says he “didn’t think things could get worse after Sepp Blatter, but someone has managed to do just that” as he called for FIFA president Gianni Infantino to be…",
       "categories": [
         "Foriegn"
       ],
