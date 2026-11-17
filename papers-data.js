@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T16:19:16.678Z",
+  "updated": "2026-11-17T16:49:17.138Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Veterinary Association calls for urgent recruitment to support poultry self-sufficiency drive",
+      "link": "https://www.graphic.com.gh/news/general-news/veterinary-association-calls-for-urgent-recruitment-to-support-poultry-self-sufficiency-drive.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T16:47:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Improved economic conditions make presidential jet purchase timely – Toobu",
+      "link": "https://www.myjoyonline.com/improved-economic-conditions-make-presidential-jet-purchase-timely-toobu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:37:59.000Z",
+      "summary": "The Majority Caucus in Parliament has defended the government’s decision to acquire a new presidential jet, arguing that Ghana’s improved economic performance makes the purchase affordable…",
+      "categories": [
+        "National",
+        "News",
+        "Economic conditions",
+        "Presidential jet",
+        "Toobu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama Pays courtesy visit to Akufo-Addo at Nima residence",
       "link": "https://ghanaiantimes.com.gh/mahama-pays-courtesy-visit-to-akufo-addo-at-nima-residence/",
@@ -239,22 +265,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MIIF surpasses 2026 royalty target, records over GH¢9bn by October",
-      "link": "https://www.myjoyonline.com/miif-surpasses-2026-royalty-target-records-over-gh%c2%a29bn-by-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:05:36.000Z",
-      "summary": "The Chief Executive Officer of MIIF, Justina Nelson, announced this on Monday, November 16, 2026, at the Invest Ghana Summit 2026, held at the Kempinski Gold Coast Hotel in Accra.",
-      "categories": [
-        "Business",
-        "Mining",
-        "Invest Summit",
-        "Justina Nelson",
-        "MIIF",
-        "mineral royalty"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -303,17 +313,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/see-the-inside-of-ghanas-new-60-68-million-presidential-aircraft-the-dassault-falcon-6x.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T10:35:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "8 Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-      "link": "https://www.graphic.com.gh/news/general-news/nigerians-among-12-suspects-arrested-in-4-5m-canada-luxury-car-theft-syndicate.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T10:15:37.000Z",
       "summary": "",
       "categories": [
         "General News"
