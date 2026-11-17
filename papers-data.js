@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:59:16.910Z",
+  "updated": "2026-11-17T15:08:46.948Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Four fake illegal mining taskforce members arrested in Nweneso, 4 others on the run",
+      "link": "https://www.myjoyonline.com/four-fake-illegal-mining-taskforce-members-arrested-in-nweneso-4-others-on-the-run/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:01:56.000Z",
+      "summary": "National Security operatives have arrested four members of an eight-man criminal syndicate accused of impersonating security personnel to extort large sums of money from small-scale miners…",
+      "categories": [
+        "Crime",
+        "Illegal mining",
+        "National Security",
+        "Nweneso Number 2",
+        "Taskforce"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget good but fiscal target difficult to attain – Cynergy Global",
+      "link": "https://www.myjoyonline.com/2027-budget-good-but-fiscal-target-difficult-to-attain-cynergy-global/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:56:25.000Z",
+      "summary": "It stated that the 2027 target is steep, highlighting that implied nominal GDP grows by about 13% in 2027 in its calculation from the 17.9% ratio.",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "capital expenditure",
+        "Cynnergy Global",
+        "new economy",
+        "Tax Revenue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GCB Bank records GH¢2.87bn profit before tax in nine months to September",
+      "link": "https://www.myjoyonline.com/gcb-bank-records-gh%c2%a22-87bn-profit-before-tax-in-nine-months-to-september/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:55:48.000Z",
+      "summary": "Loans grow 47.7%, non-performing loans ratio falls to 4.8%, while earnings per share rise 43.3%. Bank targets at least GH¢3.7bn profit before tax for 2026. GCB Bank PLC recorded a profit…",
+      "categories": [
+        "Banking and Finance",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "80-year-old woman rescued after alleged ritual attempt to behead her in Ashanti Region",
       "link": "https://www.myjoyonline.com/80-year-old-woman-rescued-after-alleged-ritual-attempt-to-behead-her-in-ashanti-region/",
@@ -93,52 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "António Guterres",
         "GreenFaith"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama visits Akufo-Addo at Nima residence",
-      "link": "https://www.myjoyonline.com/mahama-visits-akufo-addo-at-nima-residence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:41:55.000Z",
-      "summary": "President John Dramani Mahama has paid a visit to former President Nana Akufo-Addo at his residence in Nima, Accra. The two leaders discussed matters of national and international concern…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Akufo-Addo",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
-      "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:33:10.000Z",
-      "summary": "Cnergy Global Holdings has stated that though Ghana’s economic output has expanded strongly, productive capacity has not been matched by the capacity to finance growth, withstand external…",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "Cynergy Global",
-        "GDP",
-        "HDI",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
-      "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:24:29.000Z",
-      "summary": "The Ghana Chamber of Clean Energy (GCCE) has commended the Bui Power Authority (BPA) and First Sky Limited following the completion of a 50-megawatt-peak (MWp) solar photovoltaic power…",
-      "categories": [
-        "Energy",
-        "BPA",
-        "first sky",
-        "Ghana chamber of clean energy",
-        "Yendi solar plant"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T14:59:14.174Z",
+  "updated": "2026-11-17T15:08:44.687Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "MIIF surpasses 2026 royalty target, records over GH¢9bn by October",
+      "link": "https://www.myjoyonline.com/miif-surpasses-2026-royalty-target-records-over-gh%c2%a29bn-by-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:05:36.000Z",
+      "summary": "The Chief Executive Officer of MIIF, Justina Nelson, announced this on Monday, November 16, 2026, at the Invest Ghana Summit 2026, held at the Kempinski Gold Coast Hotel in Accra."
+    },
     {
       "title": "2027 Budget good but fiscal target difficult to attain – Cynergy Global",
       "link": "https://www.myjoyonline.com/2027-budget-good-but-fiscal-target-difficult-to-attain-cynergy-global/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T08:15:44.000Z",
       "summary": "The Bank of Ghana says artistic and technical adjustments during production account for differences in Theodosia Okoh’s portrait on the new GH₵50 banknote."
-    },
-    {
-      "title": "THE SUCCESS PARADOX: His Dating Pool Becomes Lake Volta; Hers Becomes a Puddle!",
-      "link": "https://thehighstreetjournal.com/the-success-paradox-his-dating-pool-becomes-lake-volta-hers-becomes-a-puddle/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T07:27:46.000Z",
-      "summary": "The hilarious injustice of a world where Mother Nature seems to gives successful men a romantic buffet while successful women are left inspecting the leftovers and wondering who finished…"
     }
   ]
 };
