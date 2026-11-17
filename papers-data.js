@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:45:58.975Z",
+  "updated": "2026-11-17T07:56:27.646Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Navigating dual regulation: A readiness assessment for virtual asset service providers",
+      "link": "https://ghanaiantimes.com.gh/navigating-dual-regulation-a-readiness-assessment-for-virtual-asset-service-providers/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:55:04.000Z",
+      "summary": "VIRTUAL assets are digital representations of value that can be traded, transferred or utilised for payment purposes, explicitly excluding fiat currencies, securities and conventional…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Beyond portraits: Why the Cedi should celebrate Ghana’s landscapes, architecture, and shared symbols",
+      "link": "https://ghanaiantimes.com.gh/beyond-portraits-why-the-cedi-should-celebrate-ghanas-landscapes-architecture-and-shared-symbols/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:53:22.000Z",
+      "summary": "WHEN the Bank of Ghana (BoG) unveiled the new Ghana Cedi Heritage Series on Thursday, November 12, 2026, the goal was clear: to give Ghanaians stronger, safer, and more modern banknotes…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ILO chief wins second term",
+      "link": "https://ghanaiantimes.com.gh/ilo-chief-wins-second-term/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:51:22.000Z",
+      "summary": "The head of the UN labour agency, ‌Togo’s Gilbert Houngbo, won a second five-year term yesterday after his rival’s ⁠dropped out. Houngbo, the International Labour Organization’s first…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ethiopia, Sudan accuse each other of backing armed groups",
+      "link": "https://ghanaiantimes.com.gh/ethiopia-sudan-accuse-each-other-of-backing-armed-groups/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:48:18.000Z",
+      "summary": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Haiti’s former first lady to run for president",
       "link": "https://ghanaiantimes.com.gh/haitis-former-first-lady-to-run-for-president/",
@@ -81,50 +125,6 @@ window.GDC_PAPERS = {
         "Iraq"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana weightlifting star Osarfo announces retirement",
-      "link": "https://ghanaiantimes.com.gh/ghana-weightlifting-star-osarfo-announces-retirement/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:30:57.000Z",
-      "summary": "Richmond Osarfo, one of Ghana’s most accomplished weightlifters and a former African junior record holder, has announced his retirement from the national weightlifting team, the Black…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Medeama stretch lead as Hearts, Kotoko stumble",
-      "link": "https://ghanaiantimes.com.gh/medeama-stretch-lead-as-hearts-kotoko-stumble/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:29:16.000Z",
-      "summary": "Medeama SC strengthened their grip on the Premier League summit after securing a 2-1 away victory over Young Apostles in Wenchi, opening a three-point lead at the top following an eventful…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Lukaku quits Int’l football",
-      "link": "https://ghanaiantimes.com.gh/lukaku-quits-intl-football/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:26:38.000Z",
-      "summary": "Romelu Lukaku has retired from international football, saying he has “enjoyed every single moment” of playing for Belgium. Fenerbahce striker Lukaku, 33, made his international debut in…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Transfer interest affected my form’",
-      "link": "https://ghanaiantimes.com.gh/transfer-interest-affected-my-form/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:24:16.000Z",
-      "summary": "REAL Madrid forward Vinicius Jr says he felt “truly overwhelmed” by transfer speculation in the summer, which contributed to his mixed form at the start of the season. The Brazil…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "AFCON 2027Q: Somalia wins enough ‘motivation’ for Black Stars ahead of final two games – Ati Zigi",
