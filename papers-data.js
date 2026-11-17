@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:53:46.850Z",
+  "updated": "2026-11-17T14:59:16.910Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,69 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "80-year-old woman rescued after alleged ritual attempt to behead her in Ashanti Region",
+      "link": "https://www.myjoyonline.com/80-year-old-woman-rescued-after-alleged-ritual-attempt-to-behead-her-in-ashanti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:54:18.000Z",
+      "summary": "An 80-year-old woman has been rescued by residents after unknown assailants attacked her at Nyankyerenease in the Kwadaso Municipality of the Ashanti Region.",
+      "categories": [
+        "Crime",
+        "Regional",
+        "80-year-old woman",
+        "Ashanti Region",
+        "ritual attempt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama to unveil new DNA, vaccine research laboratories at Noguchi",
+      "link": "https://www.myjoyonline.com/mahama-to-unveil-new-dna-vaccine-research-laboratories-at-noguchi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:53:44.000Z",
+      "summary": "President John Dramani Mahama is expected to commission new human DNA testing laboratories and a dedicated vaccine development facility at the Noguchi Memorial Institute for Medical…",
+      "categories": [
+        "Health",
+        "National",
+        "News",
+        "new DNA",
+        "Noguchi",
+        "President John Dramani Mahama",
+        "vaccine research laboratories"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bola Ray featured in GQ Poland, says Africa is not the next big thing, Africa is now",
+      "link": "https://www.myjoyonline.com/bola-ray-featured-in-gq-poland-says-africa-is-not-the-next-big-thing-africa-is-now/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:53:39.000Z",
+      "summary": "Renowned media mogul and CEO of EIB Network, Nathan Kwabena Anokye Adisi, popularly known as Bola Ray, has been featured in the 2026 edition of GQ Poland’s GQ Business magazine in a…",
+      "categories": [
+        "Lifestyle",
+        "Bola Ray",
+        "GQ Poland"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP31: Advocates urge funders to double clean air money for Africa, Asia and Latin America by COP32",
+      "link": "https://www.myjoyonline.com/cop31-advocates-urge-funders-to-double-clean-air-money-for-africa-asia-and-latin-america-by-cop32/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:50:48.000Z",
+      "summary": "Clean air advocates at COP31 have urged philanthropic funders to double their annual support for air quality initiatives in Africa, Latin America and parts of Asia, warning that inadequate…",
+      "categories": [
+        "Energy",
+        "International",
+        "Africa",
+        "Asia",
+        "Clean Air",
+        "cop 32",
+        "COP31",
+        "Latin America"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GreenFaith joins Make Polluters Pay coalition to honour Guterres for climate leadership",
       "link": "https://www.myjoyonline.com/greenfaith-joins-make-polluters-pay-coalition-to-honour-guterres-for-climate-leadership/",
@@ -80,21 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asante Akim North MP Ohene Kwame Frimpong won’t contest US extradition – Lawyer",
-      "link": "https://www.myjoyonline.com/asante-akim-north-mp-ohene-kwame-frimpong-wont-contest-us-extradition-lawyer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:19:10.000Z",
-      "summary": "The Member of Parliament for Asante Akim North, Ohene Kwame Frimpong, will not challenge his extradition to the United States when his case is heard in an Amsterdam court on Wednesday…",
-      "categories": [
-        "National",
-        "News",
-        "Asante Akim North MP",
-        "Ohene Kwame Frimpong",
-        "US extradition"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -104,48 +152,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Abu Jinapor questions NDC’s consistency over US$60.68m presidential jet",
-      "link": "https://www.myjoyonline.com/abu-jinapor-questions-ndcs-consistency-over-us60-68m-presidential-jet/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:09:59.000Z",
-      "summary": "Former Lands and Natural Resources Minister Samuel Abu Jinapor has questioned the government’s decision to acquire a US$60.68 million presidential aircraft, accusing the governing National…",
-      "categories": [
-        "National",
-        "Politics"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One dead, tanker driver critically injured in fire outbreak at Amamprobi Junction",
-      "link": "https://www.myjoyonline.com/one-dead-tanker-driver-critically-injured-in-fire-outbreak-at-amamprobi-junction/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:08:39.000Z",
-      "summary": "One person has died, while a fuel tanker driver has sustained serious injuries following an accident that triggered a fire outbreak at Amamprobi Junction on the Mamfe–Adawso road in the…",
-      "categories": [
-        "HP News 1",
-        "Regional",
-        "Amamprobi Junction",
-        "Fire",
-        "tanker"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ohene Kwame Frimpong agrees to extradition from the Netherlands to face US charges – Lawyer",
-      "link": "https://www.myjoyonline.com/ohene-kwame-frimpong-agrees-to-extradition-from-the-netherlands-to-face-us-charges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:07:32.000Z",
-      "summary": "The detained Member of Parliament for Asante Akim North, Ohene Kwame Frimpong, has agreed not to challenge his extradition from the Netherlands to the United States, a member of his legal…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Asante Akim North",
-        "extradition",
-        "Netherlands"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Prof Fred Newton Binka pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",

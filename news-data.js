@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T14:53:44.139Z",
+  "updated": "2026-11-17T14:59:14.174Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "2027 Budget good but fiscal target difficult to attain – Cynergy Global",
+      "link": "https://www.myjoyonline.com/2027-budget-good-but-fiscal-target-difficult-to-attain-cynergy-global/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:56:25.000Z",
+      "summary": "It stated that the 2027 target is steep, highlighting that implied nominal GDP grows by about 13% in 2027 in its calculation from the 17.9% ratio."
+    },
+    {
+      "title": "GCB Bank records GH¢2.87bn profit before tax in nine months to September",
+      "link": "https://www.myjoyonline.com/gcb-bank-records-gh%c2%a22-87bn-profit-before-tax-in-nine-months-to-september/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:55:48.000Z",
+      "summary": "Loans grow 47.7%, non-performing loans ratio falls to 4.8%, while earnings per share rise 43.3%. Bank targets at least GH¢3.7bn profit before tax for 2026. GCB Bank PLC recorded a profit…"
+    },
     {
       "title": "COP31: Advocates urge funders to double clean air money for Africa, Asia and Latin America by COP32",
       "link": "https://www.myjoyonline.com/cop31-advocates-urge-funders-to-double-clean-air-money-for-africa-asia-and-latin-america-by-cop32/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T07:27:46.000Z",
       "summary": "The hilarious injustice of a world where Mother Nature seems to gives successful men a romantic buffet while successful women are left inspecting the leftovers and wondering who finished…"
-    },
-    {
-      "title": "NPA reduces price floor for petrol to GH¢13.69, but increases diesel to GH¢16.73",
-      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-but-increases-diesel-to-gh%c2%a216-73/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:25:02.000Z",
-      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
-    },
-    {
-      "title": "NPA reduces price floor for petrol to GH¢13.69, diesel to GH¢16.73",
-      "link": "https://www.myjoyonline.com/npa-reduces-price-floor-for-petrol-to-gh%c2%a213-69-diesel-to-gh%c2%a216-73/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T05:25:02.000Z",
-      "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
     }
   ]
 };
