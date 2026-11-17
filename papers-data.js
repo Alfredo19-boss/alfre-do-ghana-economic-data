@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:56:27.646Z",
+  "updated": "2026-11-17T08:06:27.274Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Best Assurance boosts GETFund’s education support drive",
+      "link": "https://ghanaiantimes.com.gh/best-assurance-boosts-getfunds-education-support-drive/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T08:04:13.000Z",
+      "summary": "THE Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited to support teaching and learning in educational…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Customs Commissioner directs ports to detain right-hand-drive vehicles without import permits",
+      "link": "https://www.myjoyonline.com/customs-commissioner-directs-ports-to-detain-right-hand-drive-vehicles-without-import-permits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T08:00:14.000Z",
+      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has directed all ports and stations across the country not to process or release right-hand steering vehicles unless importers…",
+      "categories": [
+        "National",
+        "Customs Division of GRA",
+        "Right-hand drive vehicle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Govt cracks down on illegal billboards",
+      "link": "https://ghanaiantimes.com.gh/govt-cracks-down-on-illegal-billboards/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:58:07.000Z",
+      "summary": "THE government has begun removing illegal and non-compliant outdoor advertising billboards across Accra as part of efforts to sanitise the city and enforce regulations governing the outdoor…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Navigating dual regulation: A readiness assessment for virtual asset service providers",
       "link": "https://ghanaiantimes.com.gh/navigating-dual-regulation-a-readiness-assessment-for-virtual-asset-service-providers/",
@@ -83,28 +119,6 @@ window.GDC_PAPERS = {
       "summary": "Cape Verde President José Maria Neves has won ‌a second five-year term, according to provisional results from Sunday’s election, besting five challengers including the archipelago’s first…",
       "categories": [
         "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Stars labour to narrow win over Somalia",
-      "link": "https://ghanaiantimes.com.gh/black-stars-labour-to-narrow-win-over-somalia/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:35:06.000Z",
-      "summary": "GHANA’S Black Stars secured a hard-fought 1-0 victory over Somalia in their 2027 Africa Cup of Nations (AFCON) qualifier played at the Essipon Sports Stadium yesterday. Captain Jordan Ayew…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIBA Africa Zone 3 U-16 Championship postponed",
-      "link": "https://ghanaiantimes.com.gh/fiba-africa-zone-3-u-16-championship-postponed/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:32:10.000Z",
-      "summary": "The much-anticipated start of the International Basketball Federation (FIBA) Africa Zone 3 U-16 Boys and Girls Championship at the Borteyman Sports Complex has been postponed indefinitely…",
-      "categories": [
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -214,22 +228,6 @@ window.GDC_PAPERS = {
         "National",
         "Agyinasare",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agyinasare demands full disclosure of National Cathedral money",
-      "link": "https://www.myjoyonline.com/agyinasare-demands-full-disclosure-of-national-cathedral-money/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:25:00.000Z",
-      "summary": "Archbishop Charles Agyinasare has challenged those behind the National Cathedral project to open their financial records to public scrutiny, insisting that churches must know how…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Cathedral",
-        "Church",
-        "national cathedral"
       ],
       "site": "https://www.myjoyonline.com/"
     },
