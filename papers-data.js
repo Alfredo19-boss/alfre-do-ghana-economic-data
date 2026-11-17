@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:44:16.093Z",
+  "updated": "2026-11-17T13:53:52.363Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sam Jonah: The human and political complexities behind Gen. Kutu Acheampong’s leadership",
+      "link": "https://www.myjoyonline.com/sam-jonah-the-human-and-political-complexities-behind-gen-kutu-acheampongs-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:47:27.000Z",
+      "summary": "Se wo were fi na wosankofa a yenkyi. “It is not wrong to go back for what you have forgotten.” – AKAN PROVERB Delivered by Sam Jonah, KBE, OSG Chancellor, University of Cape Coast Executive…",
+      "categories": [
+        "Opinion",
+        "Kutu Acheampong",
+        "Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Charles Osei Asibey in Cairo to defend armwrestling’s inclusion in African Games",
+      "link": "https://www.myjoyonline.com/charles-osei-asibey-in-cairo-to-defend-armwrestlings-inclusion-in-african-games/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:44:17.000Z",
+      "summary": "Ghana and Africa Armwrestling President Charles Osei Asibey is in Cairo, Egypt, to advocate for the inclusion and retention of armwrestling on the programme of the African Games.",
+      "categories": [
+        "National",
+        "Other Sports",
+        "Sports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Ministry probes viral video of Ghanaian woman allegedly assaulted by employer in Iraq",
+      "link": "https://www.myjoyonline.com/foreign-ministry-probes-viral-video-of-ghanaian-woman-allegedly-assaulted-by-employer-in-iraq/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:39:38.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says the government is investigating a viral video purportedly showing a Ghanaian woman being brutally assaulted by her employer in Iraq.",
+      "categories": [
+        "National",
+        "Ghanaian woman",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ablakwa investigates viral video of Ghanaian woman allegedly assaulted by employer in Iraq",
       "link": "https://www.myjoyonline.com/ablakwa-investigates-viral-video-of-ghanaian-woman-allegedly-assaulted-by-employer-in-iraq/",
@@ -40,6 +79,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T13:37:36.000Z",
       "summary": "A 20-year-old scrap dealer has been killed and another left in critical condition following an alleged stabbing over a GH¢1,000 debt at Aboabo Pelele in the Asokore Mampong Municipality of…",
       "categories": [
+        "HP News 1",
         "National",
         "Regional",
         "Asokore Mampong Municipality",
@@ -95,35 +135,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sunyani Technical University VC calls for tax incentives, policy reforms to promote recycled construction materials",
-      "link": "https://www.myjoyonline.com/sunyani-technical-university-vc-calls-for-tax-incentives-policy-reforms-to-promote-recycled-construction-materials/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:31:26.000Z",
-      "summary": "The Vice-Chancellor of Sunyani Technical University (STU), Ing. Prof. Kwadwo Adinkrah-Appiah, has called on the government to introduce tax incentives, regulatory reforms and targeted…",
-      "categories": [
-        "National",
-        "STU",
-        "tax incentives"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Who gets to tell Ghana’s story on the Cedi? An open letter to the Bank of Ghana on the Heritage Series",
-      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:29:36.000Z",
-      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…",
-      "categories": [
-        "Banking and Finance",
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Dr Ike Tandoh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof Fred Newton Binka, founding Vice-Chancellor of UHAS passes on",
+      "title": "Prof Fred Newton Binka, pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",
       "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T13:29:35.000Z",
@@ -143,20 +155,6 @@ window.GDC_PAPERS = {
         "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Rent Commission threatens legal action against University of Ghana over hostel fee hikes",
-      "link": "https://www.myjoyonline.com/rent-commission-threatens-legal-action-against-university-of-ghana-over-hostel-fee-hikes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:21:37.000Z",
-      "summary": "The Rent Commission has threatened legal action against the University of Ghana (UG) over its failure to comply with a directive to suspend recent hostel fee increases and refund affected…",
-      "categories": [
-        "Education",
-        "Hostel",
-        "Rent Commissioner",
-        "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
