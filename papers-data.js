@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T16:08:54.928Z",
+  "updated": "2026-11-17T16:19:16.678Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mahama Pays courtesy visit to Akufo-Addo at Nima residence",
+      "link": "https://ghanaiantimes.com.gh/mahama-pays-courtesy-visit-to-akufo-addo-at-nima-residence/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T16:10:19.000Z",
+      "summary": "President John Dramani Mahama has today paid a visit to former President Nana Akufo-Addo at his Nima residence. During the visit, the two discussed matters of national and international…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "One dead, over 50 STC buses saved as fire guts Circle railway",
       "link": "https://ghanaiantimes.com.gh/one-dead-over-50-stc-buses-saved-as-fire-guts-circle-railway/",
       "source": "Ghanaian Times",
@@ -31,6 +43,22 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "COP31: EPIC joins calls for doubling of clean air funding for Africa, Asia and Latin America",
+      "link": "https://www.myjoyonline.com/cop31-epic-joins-calls-for-doubling-of-clean-air-funding-for-africa-asia-and-latin-america/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:06:16.000Z",
+      "summary": "The University of Chicago’s EPIC Air Quality Fund has called on philanthropic funders to double their annual support for clean air initiatives in Africa, Latin America and parts of Asia to…",
+      "categories": [
+        "Africa",
+        "International",
+        "Asia",
+        "Clean air funding",
+        "Epic",
+        "Latin America"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
@@ -59,6 +87,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ADB Medicals, Philips partner to advance healthcare delivery",
+      "link": "https://www.graphic.com.gh/news/general-news/adb-medicals-philips-partner-to-advance-healthcare-delivery.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T16:04:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Dangote’s bold Agri-Push signals a new era for West African trade – Borderless Alliance President",
@@ -216,22 +255,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Four fake illegal mining taskforce members arrested in Nweneso, 4 others on the run",
-      "link": "https://www.myjoyonline.com/four-fake-illegal-mining-taskforce-members-arrested-in-nweneso-4-others-on-the-run/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:01:56.000Z",
-      "summary": "National Security operatives have arrested four members of an eight-man criminal syndicate accused of impersonating security personnel to extort large sums of money from small-scale miners…",
-      "categories": [
-        "Crime",
-        "HP News 2",
-        "Illegal mining",
-        "National Security",
-        "Nweneso Number 2",
-        "Taskforce"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -252,17 +275,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Why Ubuntu Needs Meritocracy",
-      "link": "https://ghanaiantimes.com.gh/why-ubuntu-needs-meritocracy/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T13:27:46.000Z",
-      "summary": "The biologist Edward O. Wilson summed up the dilemma: “we have Paleolithic emotions, medieval institutions, and godlike technology.” A specialist in ants, he had observed that these insects…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
@@ -302,17 +314,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/nigerians-among-12-suspects-arrested-in-4-5m-canada-luxury-car-theft-syndicate.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T10:15:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Eight Ghanaian seafarers freed from Iranian detention back home in Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/iran-releases-eight-ghanaian-seafarers-ablakwa-pledges-compensation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T10:03:22.000Z",
       "summary": "",
       "categories": [
         "General News"
