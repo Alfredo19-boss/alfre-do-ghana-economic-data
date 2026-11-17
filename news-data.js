@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T17:09:19.041Z",
+  "updated": "2026-11-17T20:28:29.705Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "All Eyes on Ghana’s Digital Progress at Cape Town Summit",
+      "link": "https://thehighstreetjournal.com/ghanas-digital-progress-takes-spotlight/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T20:00:00.000Z",
+      "summary": "Communications Minister Samuel Nartey George is scheduled to join South African Deputy Minister of Communications and Digital Technologies Mondli Gungubele and Angela Wamola, head of Africa…"
+    },
+    {
+      "title": "Fidelity Bank Pushes Domestic Capital Towards Manufacturing to Accelerate Industrial Growth",
+      "link": "https://thehighstreetjournal.com/fidelity-bank-pushes-domestic-capital-towards-manufacturing-to-accelerate-industrial-growth/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T18:58:42.000Z",
+      "summary": "Fidelity Bank wants pension funds, insurance investments and private capital channelled into manufacturing and agro-processing, arguing that domestic financing is critical to reducing gold…"
+    },
+    {
+      "title": "Gov’t Seeks to Turn Invest Ghana Summit Talks Into Funded Projects, Julius Debrah Says",
+      "link": "https://thehighstreetjournal.com/invest-ghana-summit-talks-closes/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T18:55:14.000Z",
+      "summary": "Ghana will measure the success of its Invest Ghana Summit by how many investment proposals secure financing and move into operation, Chief of Staff Julius Debrah said, as the government…"
+    },
+    {
+      "title": "Ecobank Ghana’s Regina Ofori wins global award for Outstanding Contribution to Marketing",
+      "link": "https://www.myjoyonline.com/ecobank-ghanas-regina-ofori-wins-global-award-for-outstanding-contribution-to-marketing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T18:02:20.000Z",
+      "summary": "Head of Marketing and Corporate Communications at Ecobank Ghana PLC, Regina Ofori, has received the Outstanding Contribution to Marketing (Brand) award at the 2026 Global Women in Marketing…"
+    },
+    {
+      "title": "Gold Fields says Tarkwa mine has contributed US$3.3bn to Ghana",
+      "link": "https://www.myjoyonline.com/gold-fields-says-tarkwa-mine-has-contributed-us3-3bn-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T17:39:23.000Z",
+      "summary": "Gold Fields Ghana Limited says it has paid US$3.3 billion to the Government of Ghana in royalties, corporate taxes and dividends from its operations at the Tarkwa mine. In a media statement…"
+    },
+    {
+      "title": "GVCA, NOVA Business School organise masterclass on private equity, venture capital",
+      "link": "https://www.myjoyonline.com/gvca-nova-business-school-organise-masterclass-on-private-equity-venture-capital/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T17:30:00.000Z",
+      "summary": "The Ghana Venture Capital and Private Equity Association (GVCA) and NOVA Business School Africa have held a masterclass to help women and young executives explore career opportunities in…"
+    },
     {
       "title": "Gold Fields Cites Over US$5bn Investment in Tarkwa Mine in Bid to Renew Mining Leases",
       "link": "https://thehighstreetjournal.com/gold-fields-cites-over-us5bn-investment-in-tarkwa-mine-in-bid-to-renew-mining-leases/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T10:37:18.000Z",
       "summary": "Petrol prices could fall by up to 8.23% from November 16, 2026, while diesel prices are also expected to decline, according to the Chamber of Oil Marketing Companies (COMAC)."
-    },
-    {
-      "title": "Germany budget committee approves record €560.9b spending plan for 2027",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/germany-budget-committee-approves-record-e560-9b-spending-plan-for-2027/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T10:19:29.000Z",
-      "summary": "Germany's parliamentary budget committee approved a record €560.9 billion ($620.3 billion) spending plan for 2027 early on Friday, although the budget still faces a final vote and a…"
-    },
-    {
-      "title": "Terkper Pushes Local Mineral Processing to Increase Ghana’s Mining Revenues",
-      "link": "https://thehighstreetjournal.com/terkper-pushes-local-mineral-processing-to-increase-ghanas-mining-revenues/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T10:02:43.000Z",
-      "summary": "Seth Terkper wants Ghana to accelerate local mineral processing, arguing that value addition, stronger export financing and reduced gold smuggling are critical to increasing mining revenues…"
-    },
-    {
-      "title": "2027 Budget allocates over GH¢100b for capital expenditure",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/2027-budget-allocates-over-gh%c2%a2100b-for-capital-expenditure/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T09:49:56.000Z",
-      "summary": "The government has allocated GH¢100.4 billion for capital expenditure in 2027, representing 5.6 per cent of Gross Domestic Product (GDP), to support infrastructure development and economic…"
-    },
-    {
-      "title": "Government to merge MIIF and GIIF into sovereign wealth fund",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/government-to-merge-miif-and-giif-into-sovereign-wealth-fund/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T09:40:23.000Z",
-      "summary": "The Government will merge the Minerals Income Investment Fund (MIIF) and the Ghana Infrastructure Investment Fund (GIIF) to establish a Ghana Sovereign Wealth Fund."
-    },
-    {
-      "title": "Ghana government targets end to emergency power generation by 2030",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/ghana-government-targets-end-to-emergency-power-generation-by-2030/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T09:36:49.000Z",
-      "summary": "The Ghana government will phase out all emergency power plants by December 2030 to reduce electricity generation costs and secure reliable power for industrial growth."
-    },
-    {
-      "title": "Government earmarks oil, mineral revenues for Western Corridor Railway",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/government-earmarks-oil-mineral-revenues-for-western-corridor-railway/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T09:30:30.000Z",
-      "summary": "The government will use petroleum revenues and mineral royalties in 2027 and 2028 to finance the construction of the Western Corridor Railway Line."
     }
   ]
 };

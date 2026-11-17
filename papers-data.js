@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T17:09:22.089Z",
+  "updated": "2026-11-17T20:28:32.982Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,97 +21,113 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Apart from new helicopter, most Ghana Air Force helicopters are grounded – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/apart-from-new-helicopter-most-ghana-air-force-helicopters-grounded-kwakye-ofosu/",
+      "title": "Shatta Wale appeals to Shatta Michy to put differences aside for son Majesty",
+      "link": "https://www.myjoyonline.com/shatta-wale-appeals-to-shatta-michy-to-put-differences-aside-for-son-majesty/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T17:02:20.000Z",
-      "summary": "Government Spokesperson Felix Kwakye Ofosu has disclosed that nearly all helicopters belonging to the Ghana Air Force are grounded due to technical challenges, ageing equipment and…",
+      "published": "2026-11-17T20:25:12.000Z",
+      "summary": "Ghanaian dancehall artiste Shatta Wale has appealed to his former partner, Shatta Michy, to put their past differences aside and work with him to secure a better future for their son…",
       "categories": [
+        "Music",
         "National",
-        "News",
-        "Felix Kwakye Ofosu",
-        "Ghana Air Force",
-        "Helicopters"
+        "Shatta Michy",
+        "Shatta Wale"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government dismisses claims that new presidential jet cost GH¢1.4bn",
-      "link": "https://www.myjoyonline.com/government-dismisses-claims-that-new-presidential-jet-cost-gh%c2%a21-4bn/",
+      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
+      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T16:58:59.000Z",
-      "summary": "Government Spokesperson Felix Kwakye Ofosu has dismissed claims that the government is spending GH¢1.4 billion on the purchase of a presidential jet, describing the figure as false.",
+      "published": "2026-11-17T20:21:45.000Z",
+      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…",
       "categories": [
         "National",
         "News",
-        "Top Story",
-        "Felix Kwakye Ofosu",
-        "Government",
+        "Ghana",
+        "President John Mahama",
+        "Sliding-scale mining royalties"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New presidential jet purchase was driven by cost concerns, not improved economy – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/new-presidential-jet-purchase-was-driven-by-cost-concerns-not-improved-economy-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:17:53.000Z",
+      "summary": "Minister of State in charge of Government Communications, Felix Kwakye Ofosu, says the decision to procure a new presidential aircraft was driven by concerns over the cost of maintaining…",
+      "categories": [
+        "National",
+        "News",
+        "improved economy",
+        "Kwakye Ofosu",
         "Presidential jet"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Shatta Wale denies cocaine use, admits to past weed and cigarette smoking",
-      "link": "https://www.myjoyonline.com/shatta-wale-denies-cocaine-use-admits-to-past-weed-and-cigarette-smoking/",
+      "title": "Falcon 6X bought for President Mahama, not a retooling of Air Force – Abu Jinapor",
+      "link": "https://www.myjoyonline.com/falcon-6x-bought-for-president-mahama-not-a-retooling-of-the-ghana-air-force-abu-jinapor/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T16:54:07.000Z",
-      "summary": "Ghanaian dancehall artiste Shatta Wale has dismissed public perceptions that he engages in hard drugs, insisting that his only experiences with substance use have been smoking cannabis and…",
-      "categories": [
-        "HP News 8",
-        "Music",
-        "National",
-        "cigratte",
-        "Cocaine",
-        "Shatta Wale",
-        "Weed"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale denies cocaine use, admits weed and cigarette smoking in the past",
-      "link": "https://www.myjoyonline.com/shatta-wale-denies-cocaine-use-admits-weed-and-cigarette-smoking-in-the-past/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:54:07.000Z",
-      "summary": "Ghanaian dancehall artiste Shatta Wale has dismissed public perceptions that he engages in hard drugs, insisting that his only experiences with substance use have been smoking cannabis and…",
-      "categories": [
-        "Music",
-        "National",
-        "cigratte",
-        "Cocaine",
-        "Shatta Wale",
-        "Weed"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government claims to be retooling Air Force, but bought a presidential jet – Abu Jinapor",
-      "link": "https://www.myjoyonline.com/government-claims-to-be-retooling-air-force-but-bought-a-presidential-jet-abu-jinapor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:52:04.000Z",
-      "summary": "Member of Parliament for Damongo, Samuel Abu Jinapor, has criticised the Mahama-led government's justification for acquiring a new presidential aircraft, arguing that the purchase is…",
+      "published": "2026-11-17T20:13:46.000Z",
+      "summary": "Ranking Member on Parliament’s Foreign Affairs committee, Samuel Abu Jinapor, has rejected the government's explanation that the newly acquired Falcon 6X executive jet is part of a broader…",
       "categories": [
         "National",
-        "Air Force",
-        "Member of Parliament for Damongo Minister",
-        "Presidential jet",
+        "Falcon 6X executive jet",
+        "President John Mahama",
         "Samuel Abu Jinapor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Coalition of medical practitioners endorses Dr Sammy Ayeh for NDC Deputy Communications Officer",
-      "link": "https://www.myjoyonline.com/coalition-of-medical-practitioners-endorses-dr-sammy-ayeh-for-ndc-deputy-communications-officer/",
+      "title": "U23 AFCON 2027Q: ‘I’m the best coach in the world’ – Desmond Ofei",
+      "link": "https://www.myjoyonline.com/u23-afcon-2027q-im-the-best-coach-in-the-world-desmond-ofei/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T16:48:43.000Z",
-      "summary": "A coalition of medical practitioners and former student leaders has endorsed Dr Sammy Ayeh’s bid for the position of Deputy National Communications Officer of the National Democratic…",
+      "published": "2026-11-17T20:08:02.000Z",
+      "summary": "Ghana advanced into the next stage of the competition following a 3-2 aggregate win over Libya to set up a clash with Niger.",
+      "categories": [
+        "Football",
+        "National",
+        "Black Meteors",
+        "Desmond Ofei"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Delta broadens summer schedule with new and expanded weekend routes",
+      "link": "https://www.myjoyonline.com/delta-broadens-summer-schedule-with-new-and-expanded-weekend-routes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T19:59:39.000Z",
+      "summary": "Delta is expanding its summer 2027 schedule with seasonal service and additional weekend frequencies to popular leisure destinations across the U.S., Canada, Latin America and the…",
+      "categories": [
+        "Travel",
+        "Delta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: Late Oulai goal seals draw for Côte d’Ivoire against Gambia",
+      "link": "https://www.myjoyonline.com/afcon-2027q-late-oulai-goal-seals-draw-for-cote-divoire-against-gambia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T19:10:21.000Z",
+      "summary": "Christ Inao Oulai came off trench to score a last ditch equaliser to salvage a point for the Ivorians in a 2-2 draw.",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Côte d’Ivoire",
+        "Gambia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adjei-Mensah Korsah calls for Rent Commissioner to be called to order over confrontational approach",
+      "link": "https://www.myjoyonline.com/adjei-mensah-korsah-calls-for-rent-commissioner-to-be-called-to-order-over-confrontational-approach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T18:59:00.000Z",
+      "summary": "Former Minister for Local Government, Decentralisation and Rural Development, Martin Adjei-Mensah Korsah, has criticised Rent Commissioner Frederick Opoku over videos showing him engaging…",
       "categories": [
         "National",
-        "Politics",
-        "Medical doctors",
-        "NDC",
-        "NDC Communications Officer",
-        "Sammy Ayeh"
+        "Rent Commissioner"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -125,22 +141,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Improved economic conditions make presidential jet purchase timely – Toobu",
-      "link": "https://www.myjoyonline.com/improved-economic-conditions-make-presidential-jet-purchase-timely-toobu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:37:59.000Z",
-      "summary": "The Majority Caucus in Parliament has defended the government’s decision to acquire a new presidential jet, arguing that Ghana’s improved economic performance makes the purchase affordable…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Economic conditions",
-        "Presidential jet",
-        "Toobu"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mahama Pays courtesy visit to Akufo-Addo at Nima residence",
@@ -165,22 +165,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "COP31: EPIC joins calls for doubling of clean air funding for Africa, Asia and Latin America",
-      "link": "https://www.myjoyonline.com/cop31-epic-joins-calls-for-doubling-of-clean-air-funding-for-africa-asia-and-latin-america/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:06:16.000Z",
-      "summary": "The University of Chicago’s EPIC Air Quality Fund has called on philanthropic funders to double their annual support for clean air initiatives in Africa, Latin America and parts of Asia to…",
-      "categories": [
-        "Africa",
-        "International",
-        "Asia",
-        "Clean air funding",
-        "Epic",
-        "Latin America"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "8 Ghanaian seafarers rescued from Iran after months in detention return home",
