@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T16:58:49.002Z",
+  "updated": "2026-11-17T17:09:22.089Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,54 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Apart from new helicopter, most Ghana Air Force helicopters are grounded – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/apart-from-new-helicopter-most-ghana-air-force-helicopters-grounded-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T17:02:20.000Z",
+      "summary": "Government Spokesperson Felix Kwakye Ofosu has disclosed that nearly all helicopters belonging to the Ghana Air Force are grounded due to technical challenges, ageing equipment and…",
+      "categories": [
+        "National",
+        "News",
+        "Felix Kwakye Ofosu",
+        "Ghana Air Force",
+        "Helicopters"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government dismisses claims that new presidential jet cost GH¢1.4bn",
+      "link": "https://www.myjoyonline.com/government-dismisses-claims-that-new-presidential-jet-cost-gh%c2%a21-4bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:58:59.000Z",
+      "summary": "Government Spokesperson Felix Kwakye Ofosu has dismissed claims that the government is spending GH¢1.4 billion on the purchase of a presidential jet, describing the figure as false.",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Felix Kwakye Ofosu",
+        "Government",
+        "Presidential jet"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shatta Wale denies cocaine use, admits to past weed and cigarette smoking",
+      "link": "https://www.myjoyonline.com/shatta-wale-denies-cocaine-use-admits-to-past-weed-and-cigarette-smoking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:54:07.000Z",
+      "summary": "Ghanaian dancehall artiste Shatta Wale has dismissed public perceptions that he engages in hard drugs, insisting that his only experiences with substance use have been smoking cannabis and…",
+      "categories": [
+        "HP News 8",
+        "Music",
+        "National",
+        "cigratte",
+        "Cocaine",
+        "Shatta Wale",
+        "Weed"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Shatta Wale denies cocaine use, admits weed and cigarette smoking in the past",
       "link": "https://www.myjoyonline.com/shatta-wale-denies-cocaine-use-admits-weed-and-cigarette-smoking-in-the-past/",
@@ -135,22 +183,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
-      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-with-us-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:04:42.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has urged local and international businesses to seize opportunities under the New Economy programme, outlining how planned public investment…",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "Dr. Ato Forson",
-        "GIPA",
-        "Ministry of Finance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "8 Ghanaian seafarers rescued from Iran after months in detention return home",
       "link": "https://ghanaiantimes.com.gh/8-ghanaian-seafarers-rescued-from-iran-after-months-in-detention-return-home/",
       "source": "Ghanaian Times",
@@ -172,20 +204,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dangote’s bold Agri-Push signals a new era for West African trade – Borderless Alliance President",
-      "link": "https://www.myjoyonline.com/dangotes-bold-agri-push-signals-a-new-era-for-west-african-trade-borderless-alliance-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:03:25.000Z",
-      "summary": "Africa’s richest man, Aliko Dangote, has set his sights on transforming Ghana’s agricultural sector with massive investments in sugar, cocoa, and rice processing—a move that regional trade…",
-      "categories": [
-        "Africa",
-        "National",
-        "Dangote",
-        "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Our rice farmers cannot sell their rice – Dr.Bawumia",
@@ -246,20 +264,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "The UN Succession: Why Grynspan’s growing momentum matters to Africa",
-      "link": "https://www.myjoyonline.com/the-un-succession-why-grynspans-growing-momentum-matters-to-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:35:33.000Z",
-      "summary": "The contest to choose the next Secretary-General of the United Nations is beginning to reveal something more consequential than the electoral fortunes of individual candidates. It is…",
-      "categories": [
-        "Opinion",
-        "Costa Rica",
-        "Tourism",
-        "UN secretary egenral"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "VIDEO: Fuel tanker catches fire after crash on Mamfe-Koforidua section of N4 Highway",

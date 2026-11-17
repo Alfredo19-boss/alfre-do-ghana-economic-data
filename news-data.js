@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T16:58:44.535Z",
+  "updated": "2026-11-17T17:09:19.041Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Gold Fields Cites Over US$5bn Investment in Tarkwa Mine in Bid to Renew Mining Leases",
+      "link": "https://thehighstreetjournal.com/gold-fields-cites-over-us5bn-investment-in-tarkwa-mine-in-bid-to-renew-mining-leases/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T17:00:00.000Z",
+      "summary": "Gold Fields highlights over US$5 billion invested in Tarkwa, alongside its economic contributions, as it seeks renewal of the mine's leases from government."
+    },
     {
       "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
       "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-with-us-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-14T09:30:30.000Z",
       "summary": "The government will use petroleum revenues and mineral royalties in 2027 and 2028 to finance the construction of the Western Corridor Railway Line."
-    },
-    {
-      "title": "GIIF eyes Volta Lake development to create jobs, boost trade",
-      "link": "https://www.ghanabusinessnews.com/2026/11/14/giif-eyes-volta-lake-development-to-create-jobs-boost-trade/",
-      "source": "Ghana Business News",
-      "published": "2026-11-14T09:25:13.000Z",
-      "summary": "The Ghana Infrastructure Investment Fund (GIIF) is exploring plans to develop the Volta Lake corridor into a business and industrial hub to create jobs, boost trade and support low-carbon…"
     }
   ]
 };
