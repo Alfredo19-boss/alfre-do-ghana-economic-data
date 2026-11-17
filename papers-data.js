@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T00:06:53.029Z",
+  "updated": "2026-11-17T00:36:22.592Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,20 @@ window.GDC_PAPERS = {
         "Fire",
         "GNFS",
         "Railways"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Three fire tenders deployed as fire hits Tema Community 1 Market",
+      "link": "https://www.myjoyonline.com/three-fire-tenders-deployed-as-fire-hits-tema-community-1-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:01:00.000Z",
+      "summary": "Firefighters are battling to contain a fire outbreak at the Tema Community 1 Market, near the Community 1 Police Station.",
+      "categories": [
+        "HP News 1",
+        "News",
+        "Fire",
+        "Tema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -127,21 +141,6 @@ window.GDC_PAPERS = {
         "Madina",
         "Rashid Seidu",
         "Siidi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Religion must not become a pawn in geopolitical power plays",
-      "link": "https://www.myjoyonline.com/religion-must-not-become-a-pawn-in-geopolitical-power-plays/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:09:08.000Z",
-      "summary": "Religion has always played an important role in Ghanaian society. Churches have contributed to education, healthcare, community development and the moral upbringing of generations. They…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "geopolitical power",
-        "religion"
       ],
       "site": "https://www.myjoyonline.com/"
     },
