@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T00:56:19.808Z",
+  "updated": "2026-11-17T01:06:20.114Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Customers report service outages at major US banks",
+      "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T00:22:49.000Z",
+      "summary": "Thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, have reported trouble accessing services."
+    },
     {
       "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T09:16:08.000Z",
       "summary": "Government plans integrated poultry production and aquaculture clusters to reduce imports and strengthen domestic food supply."
-    },
-    {
-      "title": "Ghana Commits US$3bn To Commercial Agriculture Under New Economy Programme",
-      "link": "https://thehighstreetjournal.com/ghana-commits-us3bn-to-commercial-agriculture-under-new-economy-programme/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T09:11:18.000Z",
-      "summary": "Government targets domestic rice production, sugar self-sufficiency and stronger agricultural value chains to reduce food imports."
     }
   ]
 };

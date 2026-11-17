@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T00:56:22.043Z",
+  "updated": "2026-11-17T01:06:23.023Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Customers report service outages at major US banks",
+      "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T01:01:49.000Z",
+      "summary": "Thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, have reported trouble accessing services.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "International",
+        "Bank of America",
+        "JP Morgan Chase"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "link": "https://www.myjoyonline.com/five-eu-countries-announce-migrant-deportation-centre-in-rwanda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T00:09:13.000Z",
+      "summary": "Five EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals.",
+      "categories": [
+        "Africa",
+        "International",
+        "EU",
+        "Rwanda"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "One dead as firefighters battle Railways Area blaze at Kwame Nkrumah Circle",
       "link": "https://www.myjoyonline.com/one-dead-as-firefighters-battle-railways-area-blaze-at-kwame-nkrumah-circle/",
@@ -67,13 +96,25 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Nvidia dismisses ‘Bring Jensen Back’ campaign as Trump backs effort to reinstate ex CEO",
+      "link": "https://www.myjoyonline.com/nvidia-dismisses-bring-jensen-back-campaign-as-trump-backs-effort-to-reinstate-ex-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T22:36:00.000Z",
+      "summary": "Nvidia has dismissed a campaign calling for Jensen Huang to be handed back his job as allies, including US President Donald Trump, backed the effort.",
+      "categories": [
+        "International",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "link": "https://www.myjoyonline.com/forensic-expert-says-his-analysis-of-autopsy-photos-suggests-epstein-was-killed/",
       "source": "MyJoyOnline",
       "published": "2026-11-16T22:04:00.000Z",
       "summary": "A forensic expert has said he believes that convicted sex offender Jeffrey Epstein's death in prison was the result of a homicide, not suicide.",
       "categories": [
-        "News",
+        "International",
         "Jeffrey Epstein"
       ],
       "site": "https://www.myjoyonline.com/"
@@ -97,49 +138,6 @@ window.GDC_PAPERS = {
         "Kwame Nkrumah",
         "Paul Ninson",
         "The Eyes of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Space Conference 2026 brings policymakers, experts together to advance space technology",
-      "link": "https://www.myjoyonline.com/ghana-space-conference-2026-brings-policymakers-experts-together-to-advance-space-technology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:28:00.000Z",
-      "summary": "More than 300 policymakers, scientists, technology experts, industry leaders and international partners have gathered in Accra for the 2026 Ghana Space Conference to explore ways of…",
-      "categories": [
-        "National",
-        "Technology",
-        "Ghana Space Conference 2026",
-        "space technology"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No permit, no clearance – Customs blocks release of right-hand steering vehicles",
-      "link": "https://www.myjoyonline.com/no-permit-no-clearance-customs-blocks-release-of-right-hand-steering-vehicles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:27:00.000Z",
-      "summary": "The Customs Division has ordered officers to stop processing or releasing right-hand steering vehicles imported without valid permits from the Ministry of Transport.",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Customs",
-        "right-hand steering vehicles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One-quarter of my family were born in Ghana – Dangote",
-      "link": "https://www.myjoyonline.com/one-quarter-of-my-family-were-born-in-ghana-dangote/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:22:00.000Z",
-      "summary": "Africa’s richest man, Aliko Dangote, has revealed a deep family connection to Ghana, disclosing that about one-quarter of his family members were born in the country.",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Dangote",
-        "Ghana",
-        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },
