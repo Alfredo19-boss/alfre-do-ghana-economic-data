@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T04:56:25.929Z",
+  "updated": "2026-11-17T05:01:01.230Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Ghana Scouts Align National, Regional Leadership Structures to Drive Strategic Plan",
+      "link": "https://thehighstreetjournal.com/ghana-scouts-align-national-regional-leadership-structures-to-drive-strategic-plan/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:00:00.000Z",
+      "summary": "Ghana Scout Association brings national executives and regional leaders together to improve coordination and drive implementation of its strategic plan nationwide."
+    },
+    {
+      "title": "Govt to Halt Cashew Exports to Boost Local Processing",
+      "link": "https://thehighstreetjournal.com/cashew-export-halttoboostlocal-processing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:00:00.000Z",
+      "summary": "The proposed measures are aimed at ensuring local factories have enough raw materials to operate throughout the year"
+    },
     {
       "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
       "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T11:18:34.000Z",
       "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…"
-    },
-    {
-      "title": "UN Welcomes Kofi Annan’s Recognition On New GH¢100 Banknote",
-      "link": "https://thehighstreetjournal.com/un-welcomes-kofi-annans-recognition-on-new-gh%c2%a2100-banknote/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T10:30:00.000Z",
-      "summary": "The UN has welcomed Kofi Annan’s appearance on Ghana’s new GH¢100 banknote, saying the tribute celebrates his global contributions to peace, diplomacy, human rights and international…"
-    },
-    {
-      "title": "Dr Julius Debrah calls for Public Service reforms to cut business costs",
-      "link": "https://www.myjoyonline.com/dr-julius-debrah-calls-for-public-service-reforms-to-cut-business-costs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T10:18:53.000Z",
-      "summary": "Chief of Staff, Dr Julius Debrah is urging public sector leaders to adopt private-sector customer service practices to improve efficiency, reduce bureaucratic delays and strengthen Ghana’s…"
     }
   ]
 };

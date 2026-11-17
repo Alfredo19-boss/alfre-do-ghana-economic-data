@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:56:27.950Z",
+  "updated": "2026-11-17T05:01:03.309Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…",
       "categories": [
         "Banking and Finance",
+        "HP Business 1",
         "National",
         "Dr Zakari Mumuni",
         "First Deputy Governor of the Bank of Ghana"
@@ -44,6 +45,22 @@ window.GDC_PAPERS = {
         "Politics",
         "2027 Budget",
         "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Economic recovery did not start with NDC’ – Amin Adam",
+      "link": "https://www.myjoyonline.com/economic-recovery-did-not-start-with-ndc-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:51:22.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of taking undue credit for Ghana’s economic recovery, insisting that key improvements in the economy were already…",
+      "categories": [
+        "National",
+        "News",
+        "Amin Adam",
+        "Economy",
+        "finance",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -73,6 +90,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Imran Khan seeks urgent medical care fearing he ‘may not return alive’",
+      "link": "https://www.myjoyonline.com/imran-khan-seeks-urgent-medical-care-fearing-he-may-not-return-alive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:26:00.000Z",
+      "summary": "Pakistan's jailed former PM Imran Khan has appealed for urgent medical treatment, saying that his and his wife's health has been deteriorating.",
+      "categories": [
+        "International",
+        "Imran Khan",
+        "Pakistan"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nvidia dismisses ‘Bring Jensen Back’ campaign as Trump backs effort to reinstate ex CEO",
       "link": "https://www.myjoyonline.com/nvidia-dismisses-bring-jensen-back-campaign-as-trump-backs-effort-to-reinstate-ex-ceo-2/",
       "source": "MyJoyOnline",
@@ -95,33 +125,6 @@ window.GDC_PAPERS = {
         "Politics",
         "Dr Mohammed Amin Adam",
         "Public Debt"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam accuses Finance Minister of heavy borrowing as debt rises GH¢118bn",
-      "link": "https://www.myjoyonline.com/amin-adam-accuses-finance-minister-of-heavy-borrowing-as-debt-rises-gh%c2%a2118bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T02:52:00.000Z",
-      "summary": "Former Finance Minister in the Akufo-Addo administration, Dr Mohammed Amin Adam, has accused Finance Minister Cassiel Ato Forson of heavy borrowing.",
-      "categories": [
-        "Politics",
-        "Dr Cassiel Ato Forson",
-        "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Declare emergency in galamsey-ravaged communities – Agyinasare",
-      "link": "https://www.myjoyonline.com/declare-emergency-in-galamsey-ravaged-communities-agyinasare/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T02:41:00.000Z",
-      "summary": "Archbishop Charles Agyinasare has urged the government to impose emergency measures in communities devastated by illegal mining (galamsey), warning that some forests and rivers have…",
-      "categories": [
-        "News",
-        "Galamsey",
-        "Gold",
-        "Mining"
       ],
       "site": "https://www.myjoyonline.com/"
     },
