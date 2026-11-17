@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:03:50.373Z",
+  "updated": "2026-11-17T14:14:12.918Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,17 +21,72 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Abu Jinapor questions NDC’s consistency over US$60.68m presidential jet",
+      "link": "https://www.myjoyonline.com/abu-jinapor-questions-ndcs-consistency-over-us60-68m-presidential-jet/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:09:59.000Z",
+      "summary": "Former Lands and Natural Resources Minister Samuel Abu Jinapor has questioned the government’s decision to acquire a US$60.68 million presidential aircraft, accusing the governing National…",
+      "categories": [
+        "National",
+        "Politics"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "One dead, tanker driver critically injured in fire outbreak at Amamprobi Junction",
+      "link": "https://www.myjoyonline.com/one-dead-tanker-driver-critically-injured-in-fire-outbreak-at-amamprobi-junction/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:08:39.000Z",
+      "summary": "One person has died, while a fuel tanker driver has sustained serious injuries following an accident that triggered a fire outbreak at Amamprobi Junction on the Mamfe–Adawso road in the…",
+      "categories": [
+        "Regional",
+        "Top Story",
+        "Amamprobi Junction",
+        "Fire",
+        "tanker"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ohene Kwame Frimpong agrees to extradition from the Netherlands to face US charges – Lawyer",
+      "link": "https://www.myjoyonline.com/ohene-kwame-frimpong-agrees-to-extradition-from-the-netherlands-to-face-us-charges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:07:32.000Z",
+      "summary": "The detained Member of Parliament for Asante Akim North, Ohene Kwame Frimpong, has agreed not to challenge his extradition from the Netherlands to the United States, a member of his legal…",
+      "categories": [
+        "National",
+        "Asante Akim North",
+        "extradition",
+        "Netherlands"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Minority to demand procurement details of presidential jet purchase",
       "link": "https://www.myjoyonline.com/minority-to-demand-procurement-details-of-presidential-jet-purchase/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:55:12.000Z",
       "summary": "The Minority in Parliament is demanding full disclosure of the procurement details surrounding the acquisition of a new presidential jet, following government's announcement of the…",
       "categories": [
+        "HP News 2",
         "National",
         "News",
         "Minority",
         "Presidential jet",
         "Samuel Abu Jinapor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa offers reward for information on Ghanaian woman allegedly assaulted in Iraq",
+      "link": "https://www.myjoyonline.com/ablakwa-offers-reward-for-information-on-ghanaian-woman-allegedly-assaulted-in-iraq/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:53:45.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has announced a reward for anyone who provides credible information to help identify and locate a Ghanaian woman believed to have been…",
+      "categories": [
+        "National",
+        "Iraq",
+        "Samuel Okudzeto Ablakwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -55,7 +110,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T13:47:27.000Z",
       "summary": "Se wo were fi na wosankofa a yenkyi. – “It is not wrong to go back for what you have forgotten.” – AKAN PROVERB Delivered by Sam Jonah, KBE, OSG Chancellor, University of Cape Coast…",
       "categories": [
-        "Opinion",
+        "National",
         "Kutu Acheampong",
         "Sam Jonah"
       ],
@@ -71,62 +126,6 @@ window.GDC_PAPERS = {
         "National",
         "Other Sports",
         "Sports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Foreign Ministry probes viral video of Ghanaian woman allegedly assaulted by employer in Iraq",
-      "link": "https://www.myjoyonline.com/foreign-ministry-probes-viral-video-of-ghanaian-woman-allegedly-assaulted-by-employer-in-iraq/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:39:38.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says the government is investigating a viral video purportedly showing a Ghanaian woman being brutally assaulted by her employer in Iraq.",
-      "categories": [
-        "National",
-        "Ghanaian woman",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa investigates viral video of Ghanaian woman allegedly assaulted by employer in Iraq",
-      "link": "https://www.myjoyonline.com/ablakwa-investigates-viral-video-of-ghanaian-woman-allegedly-assaulted-by-employer-in-iraq/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:39:38.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says the government is investigating a viral video purportedly showing a Ghanaian woman being brutally assaulted by her employer in Iraq.",
-      "categories": [
-        "National",
-        "Ghanaian woman",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Scrap dealer stabbed to death over GH¢1,000 debt",
-      "link": "https://www.myjoyonline.com/scrap-dealer-stabbed-to-death-over-gh%c2%a21000-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:37:36.000Z",
-      "summary": "A 20-year-old scrap dealer has been killed and another left in critical condition following an alleged stabbing over a GH¢1,000 debt at Aboabo Pelele in the Asokore Mampong Municipality of…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Regional",
-        "Asokore Mampong Municipality",
-        "Scrap Dealer"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Data intelligence empowers African climate negotiators via first-of-its-kind Situation Room",
-      "link": "https://www.myjoyonline.com/data-intelligence-empowers-african-climate-negotiators-via-first-of-its-kind-situation-room/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:35:00.000Z",
-      "summary": "The African Group of Negotiators (AGN) is leveraging data, technology and real-time intelligence to strengthen Africa’s participation and influence in international climate negotiations at…",
-      "categories": [
-        "Africa",
-        "National",
-        "African climate negotiators",
-        "COP31",
-        "data intelligence"
       ],
       "site": "https://www.myjoyonline.com/"
     },
