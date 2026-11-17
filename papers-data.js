@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T22:43:32.590Z",
+  "updated": "2026-11-17T23:23:30.576Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Child Online Africa calls for AU action on online violence against children",
+      "link": "https://www.myjoyonline.com/child-online-africa-calls-for-au-action-on-online-violence-against-children/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:20:06.000Z",
+      "summary": "Child Online Africa has called on the African Union (AU) and its member states to take urgent and coordinated action to protect children from online violence, sexual exploitation and other…",
+      "categories": [
+        "News",
+        "AU action",
+        "Child Online Africa",
+        "violence agaibst children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
       "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
@@ -107,24 +121,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
-      "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:34:05.000Z",
-      "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase.",
-      "categories": [
-        "Business",
-        "Economy",
-        "domestic debt",
-        "external debt",
-        "Fiscal Deficit",
-        "GDP",
-        "primary surplus",
-        "Public Debt"
       ],
       "site": "https://www.myjoyonline.com/"
     },
