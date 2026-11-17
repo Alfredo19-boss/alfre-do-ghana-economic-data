@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T08:15:58.946Z",
+  "updated": "2026-11-17T08:25:57.898Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NADKANSCO commissions 100-tonne-per-day cashew processing factory in Bono East, boosting Ghana’s value-addition drive",
+      "link": "https://www.myjoyonline.com/nadkansco-commissions-100-tonne-per-day-cashew-processing-factory-in-bono-east-boosting-ghanas-value-addition-drive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T08:16:59.000Z",
+      "summary": "NADKANSCO Processing Limited has officially commissioned its modern cashew processing factory at Tuobodom in the Techiman North District of the Bono East Region, marking a significant…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 6",
+        "National",
+        "Bono East",
+        "Cashew",
+        "NADKANSCO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Today’s Front pages: Tuesday, November 17, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-17-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T08:15:58.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Relief and Aid International invests in 16 students",
       "link": "https://ghanaiantimes.com.gh/relief-and-aid-international-invests-in-16-students/",
@@ -216,33 +246,6 @@ window.GDC_PAPERS = {
         "GFA elections",
         "Ghana",
         "Isaac Opeele Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa must reject unfunded climate obligations at COP31 — Zanetor",
-      "link": "https://www.myjoyonline.com/africa-must-reject-unfunded-climate-obligations-at-cop31-zanetor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:44:00.000Z",
-      "summary": "African countries should not accept new climate obligations without adequate financial, technological and capacity-building support, Dr Zanetor Agyeman-Rawlings, Minister of Environment…",
-      "categories": [
-        "National",
-        "Africa",
-        "COP31",
-        "Zanetor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agyinasare says Mahama’s second term outperforms first",
-      "link": "https://www.myjoyonline.com/agyinasare-says-mahamas-second-term-outperforms-first/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:38:00.000Z",
-      "summary": "Founder of Perez Chapel International, Archbishop Dr Charles Agyinasare, has rated President John Dramani Mahama’s second administration ahead of his first, citing improvements in the…",
-      "categories": [
-        "National",
-        "Agyinasare",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

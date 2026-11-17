@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T08:15:56.693Z",
+  "updated": "2026-11-17T08:25:55.744Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "NADKANSCO commissions 100-tonne-per-day cashew processing factory in Bono East, boosting Ghana’s value-addition drive",
+      "link": "https://www.myjoyonline.com/nadkansco-commissions-100-tonne-per-day-cashew-processing-factory-in-bono-east-boosting-ghanas-value-addition-drive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T08:16:59.000Z",
+      "summary": "NADKANSCO Processing Limited has officially commissioned its modern cashew processing factory at Tuobodom in the Techiman North District of the Bono East Region, marking a significant…"
+    },
     {
       "title": "Ghana exports to China under zero-tariff policy reach $290m",
       "link": "https://www.ghanabusinessnews.com/2026/11/17/ghana-exports-to-china-under-zero-tariff-policy-reach-290m/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T13:12:00.000Z",
       "summary": "Ghana's proposed BRICS partnership could diversify export markets and attract investment, but local businesses need stronger production capacity, competitive pricing and international…"
-    },
-    {
-      "title": "Ghana-Canada Trade Rises to US$752 Million as Both Countries Pursue Closer Economic Ties",
-      "link": "https://thehighstreetjournal.com/ghana-canada-trade-rises-to-us752-million-as-both-countries-pursue-closer-economic-ties/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T12:30:00.000Z",
-      "summary": "Trade between Ghana and Canada climbed 56 per cent in 2025, with both countries now seeking deeper cooperation in investment, industrial development and technology."
     }
   ]
 };
