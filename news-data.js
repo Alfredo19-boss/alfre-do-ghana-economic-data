@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T12:58:44.152Z",
+  "updated": "2026-11-17T13:08:44.255Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "CIB Ghana, GhISP strengthen SME financing capacity among financial institutions in Kumasi and surrounding areas",
+      "link": "https://www.myjoyonline.com/cib-ghana-ghisp-strengthen-sme-financing-capacity-among-financial-institutions-in-kumasi-and-surrounding-areas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:05:45.000Z",
+      "summary": "Efforts to strengthen access to appropriate financing for businesses across Ghana received further support as the Ghana Investment Support Programme (GhISP) and Chartered Institute of…"
+    },
     {
       "title": "Ireland Renews WTO Funding to Help Developing Countries Meet Trade Standards",
       "link": "https://thehighstreetjournal.com/ireland-renews-wto-funding/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T16:52:44.000Z",
       "summary": "Government projects GH¢323.1 billion in revenue and grants as it relies on stronger compliance and tax administration rather than new levies."
-    },
-    {
-      "title": "Excitement builds at Ecobank-JoyBusiness SME Fair 2026, shoppers urged to visit Ghud Park",
-      "link": "https://www.myjoyonline.com/excitement-builds-at-ecobank-joybusiness-sme-fair-2026-shoppers-urged-to-visit-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T16:34:32.000Z",
-      "summary": "Excitement is building at the Ecobank JoyBusiness SME Fair 2026 as businesses showcase an impressive range of products and services at Ghud Park, Accra Mall, with shoppers and prospective…"
     }
   ]
 };

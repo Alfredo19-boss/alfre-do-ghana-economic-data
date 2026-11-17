@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:58:45.924Z",
+  "updated": "2026-11-17T13:08:46.296Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Who gets to tell Ghana’s story on the cedi? An open letter to the Bank of Ghana on the Heritage series",
+      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:01:14.000Z",
+      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…",
+      "categories": [
+        "News",
+        "Bank of Ghana",
+        "Heritage Series",
+        "Mrketing",
+        "PR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister pushes student innovation to power Ghana’s green economy",
+      "link": "https://www.myjoyonline.com/education-minister-pushes-student-innovation-to-power-ghanas-green-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:55:19.000Z",
+      "summary": "Education Minister Haruna Iddrisu has called on students, educational institutions, industry players and research organisations to translate innovative renewable energy ideas into practical…",
+      "categories": [
+        "Education",
+        "National",
+        "Education Minister",
+        "Green Economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget: APL claims ‘contradictions’ over Western Corridor railway financing, other projects",
       "link": "https://www.myjoyonline.com/2027-budget-apl-claims-contradictions-over-western-corridor-railway-financing-other-projects/",
@@ -96,34 +125,6 @@ window.GDC_PAPERS = {
         "National",
         "Dr Victor Bampoe",
         "NHIA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "INTERPOL questions need for Ofori-Atta Red Notice, says OSP knew his US location",
-      "link": "https://www.myjoyonline.com/interpol-questions-need-for-ofori-atta-red-notice-says-osp-knew-his-us-location/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:19:18.000Z",
-      "summary": "The Commission for the Control of INTERPOL’s Files (CCF) has questioned the necessity of a Red Notice issued for former Finance Minister Ken Ofori-Atta, noting that the Office of the…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Interpol",
-        "Ken Ofori Atta",
-        "OSP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why news of over 5,000 businesses offering customers credit through their Ghana Cards is game-changing",
-      "link": "https://www.myjoyonline.com/why-news-of-over-5000-businesses-offering-customers-credit-through-their-ghana-cards-is-game-changing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:13:10.000Z",
-      "summary": "With news that a total of 5,486 businesses across the country are now offering customers credit on the basis of their Ghana Cards alone, the Ghana Card is no longer just an identity card…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Ghana Card"
       ],
       "site": "https://www.myjoyonline.com/"
     },
