@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T06:15:58.018Z",
+  "updated": "2026-11-17T06:25:57.035Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police arrest 3 over GH¢20m suspected counterfeit GTP fabrics",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-3-over-gh%c2%a220m-suspected-counterfeit-gtp-fabrics/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:21:34.000Z",
+      "summary": "THE Ghana Police Service has arrested three persons and seized assorted wax print fabrics suspected to be counterfeit GTP products at Adabraka in Accra. Estimated at GH¢20 million, the…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Former CEO of GIIF given time to engage new lawyer",
+      "link": "https://ghanaiantimes.com.gh/former-ceo-of-giif-given-time-to-engage-new-lawyer/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:19:48.000Z",
+      "summary": "THE High Court in Accra has given former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Mr Solomon Asamoah, time to engage a new lawyer after his counsel, Ms…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghanaians must take advantage of China’s Zero Tariff Policy – Okudzeto Ablakwa",
       "link": "https://ghanaiantimes.com.gh/ghanaians-must-take-advantage-of-chinas-zero-tariff-policy-okudzeto-ablakwa/",
@@ -68,6 +90,33 @@ window.GDC_PAPERS = {
         "GFA elections",
         "Ghana",
         "Isaac Opeele Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa must reject unfunded climate obligations at COP31 — Zanetor",
+      "link": "https://www.myjoyonline.com/africa-must-reject-unfunded-climate-obligations-at-cop31-zanetor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:44:00.000Z",
+      "summary": "African countries should not accept new climate obligations without adequate financial, technological and capacity-building support, Dr Zanetor Agyeman-Rawlings, Minister of Environment…",
+      "categories": [
+        "National",
+        "Africa",
+        "COP31",
+        "Zanetor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agyinasare says Mahama’s second term outperforms first",
+      "link": "https://www.myjoyonline.com/agyinasare-says-mahamas-second-term-outperforms-first/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:38:00.000Z",
+      "summary": "Founder of Perez Chapel International, Archbishop Dr Charles Agyinasare, has rated President John Dramani Mahama’s second administration ahead of his first, citing improvements in the…",
+      "categories": [
+        "National",
+        "Agyinasare",
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -139,32 +188,6 @@ window.GDC_PAPERS = {
         "BoG",
         "Cedi",
         "Cocoa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Opoku-Agyemang rallies collective responsibility for quality education",
-      "link": "https://www.myjoyonline.com/opoku-agyemang-rallies-collective-responsibility-for-quality-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:01:00.000Z",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has called for sustained collaboration between government and stakeholders to make quality education a shared national responsibility.",
-      "categories": [
-        "National",
-        "Opoku-Agyemang",
-        "Vice President"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana now Africa’s eighth-largest economy, second in West Africa – Mahama tells Investment Summit",
-      "link": "https://www.myjoyonline.com/ghana-now-africas-eighth-largest-economy-second-in-west-africa-mahama-tells-investment-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T04:59:00.000Z",
-      "summary": "President John Dramani Mahama has hailed Ghana’s economic recovery, declaring the country as “one of Africa’s most resilient and promising economies” as he opened the Ghana Investment…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -255,30 +278,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Transforming diabetes care: One blue point at a time",
-      "link": "https://ghanaiantimes.com.gh/transforming-diabetes-care-one-blue-point-at-a-time/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T14:44:51.000Z",
-      "summary": "On World Diabetes Day , I think about what access to diabetes care means for a person living far from a capital city. Who will recognise their risk? Who will diagnose their condition early?…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police hospital announces mass burial of 350 unclaimed bodies",
-      "link": "https://ghanaiantimes.com.gh/police-hospital-announces-mass-burial-of-350-unclaimed-bodies/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T14:31:42.000Z",
-      "summary": "The Police Hospital in Accra has announced plans to conduct a mass burial of about 350 unclaimed and unidentified bodies currently kept at its mortuary. The exercise, scheduled for the…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
