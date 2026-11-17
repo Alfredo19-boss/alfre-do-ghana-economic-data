@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:58:46.847Z",
+  "updated": "2026-11-17T16:08:54.928Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,84 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One dead, over 50 STC buses saved as fire guts Circle railway",
+      "link": "https://ghanaiantimes.com.gh/one-dead-over-50-stc-buses-saved-as-fire-guts-circle-railway/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T16:07:08.000Z",
+      "summary": "A devastating fire outbreak at Circle Railway last night destroyed multiple wooden structures, leaving one person dead. The fire, which completely engulfed the wooden structures, raged for…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
+      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-with-us-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:04:42.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has urged local and international businesses to seize opportunities under the New Economy programme, outlining how planned public investment…",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "Dr. Ato Forson",
+        "GIPA",
+        "Ministry of Finance"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "8 Ghanaian seafarers rescued from Iran after months in detention return home",
+      "link": "https://ghanaiantimes.com.gh/8-ghanaian-seafarers-rescued-from-iran-after-months-in-detention-return-home/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T16:04:32.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says it was heartwarming to receive a group of Ghanaians who were rescued in Iran after their fishing vessel was detained for several months…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dangote’s bold Agri-Push signals a new era for West African trade – Borderless Alliance President",
+      "link": "https://www.myjoyonline.com/dangotes-bold-agri-push-signals-a-new-era-for-west-african-trade-borderless-alliance-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:03:25.000Z",
+      "summary": "Africa’s richest man, Aliko Dangote, has set his sights on transforming Ghana’s agricultural sector with massive investments in sugar, cocoa, and rice processing—a move that regional trade…",
+      "categories": [
+        "Africa",
+        "National",
+        "Dangote",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Our rice farmers cannot sell their rice – Dr.Bawumia",
+      "link": "https://ghanaiantimes.com.gh/our-rice-farmers-cannot-sell-their-rice-dr-bawumia/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T16:01:35.000Z",
+      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr. Mahamudu Bawumia, has warned that Ghana’s agriculture sector is under serious threat, describing it as a national security issue. Dr…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Chairman Wontumi’s bail dismissal :I’m disappointed but not discouraged -Samuel Atta Akyea",
+      "link": "https://ghanaiantimes.com.gh/chairman-wontumis-bail-dismissal-im-disappointed-but-not-discouraged-samuel-atta-akyea/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T15:59:25.000Z",
+      "summary": "Lawyer Atta Kyea, lead member of the legal team for former Ashanti Regional NPP Chairman Bernard Antwi Boasiako, popularly known as Chairman Wontumi, has expressed disappointment following…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Newly elected Central Regional NDC Chairman, pledges unity and healing",
       "link": "https://ghanaiantimes.com.gh/newly-elected-central-regional-ndc-chairman-pledges-unity-and-healing/",
@@ -154,35 +232,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget good but fiscal target difficult to attain – Cynergy Global",
-      "link": "https://www.myjoyonline.com/2027-budget-good-but-fiscal-target-difficult-to-attain-cynergy-global/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:56:25.000Z",
-      "summary": "It stated that the 2027 target is steep, highlighting that implied nominal GDP grows by about 13% in 2027 in its calculation from the 17.9% ratio.",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "capital expenditure",
-        "Cynnergy Global",
-        "new economy",
-        "Tax Revenue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCB Bank records GH¢2.87bn profit before tax in nine months to September",
-      "link": "https://www.myjoyonline.com/gcb-bank-records-gh%c2%a22-87bn-profit-before-tax-in-nine-months-to-september/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:55:48.000Z",
-      "summary": "Loans grow 47.7%, non-performing loans ratio falls to 4.8%, while earnings per share rise 43.3%. Bank targets at least GH¢3.7bn profit before tax for 2026. GCB Bank PLC recorded a profit…",
-      "categories": [
-        "Banking and Finance",
-        "National"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -269,51 +318,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Relief and Aid International invests in 16 students",
-      "link": "https://ghanaiantimes.com.gh/relief-and-aid-international-invests-in-16-students/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T08:14:07.000Z",
-      "summary": "RELIEF and Aid International, a humanitarian non-governmental organisation (NGO) focused on poverty reduction and community development, has awarded scholarships to 16 students to pursue…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FAO, partners brace Ghana for El Niño impact",
-      "link": "https://ghanaiantimes.com.gh/fao-partners-brace-ghana-for-el-nino-impact/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T08:12:04.000Z",
-      "summary": "THE Food and Agriculture Organisation of the United Nations (FAO) is collaborating with national and local partners to strengthen disaster risk reduction, climate information services and…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nungua Mankralo’s office defends Borkete Lawe’s authority",
-      "link": "https://ghanaiantimes.com.gh/nungua-mankralos-office-defends-borkete-lawes-authority/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T08:09:28.000Z",
-      "summary": "THE Office of the Nungua Mankralo and the Akutsotsemei (Laweh State Council) has rejected claims relating to the lineage of Odei Akoto, insisting that historical records and customary…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dome-Kwabenya MP supports trotro drivers, okada riders",
-      "link": "https://ghanaiantimes.com.gh/dome-kwabenya-mp-supports-trotro-drivers-okada-riders/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T08:06:42.000Z",
-      "summary": "THE Member of Parliament (MP) for Dome-Kwabenya, Ms Elikplim Akurugu, has distributed fuel coupons worth GH¢100 and GH¢200 to commercial transport operators in 12 communities in her…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };

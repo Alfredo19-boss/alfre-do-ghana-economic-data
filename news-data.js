@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T15:58:44.495Z",
+  "updated": "2026-11-17T16:08:52.555Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
+      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-with-us-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T16:04:42.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has urged local and international businesses to seize opportunities under the New Economy programme, outlining how planned public investment…"
+    },
     {
       "title": "Ghana’s Cashew Processing Industry Faces a Working Capital Trap",
       "link": "https://thehighstreetjournal.com/ghanas-cashew-processing-industry-faces-a-working-capital-trap/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-14T09:25:13.000Z",
       "summary": "The Ghana Infrastructure Investment Fund (GIIF) is exploring plans to develop the Volta Lake corridor into a business and industrial hub to create jobs, boost trade and support low-carbon…"
-    },
-    {
-      "title": "Over 80% of Gov’t Judgement Claims in Foreign Currencies, Posing Exchange Rate Risks",
-      "link": "https://thehighstreetjournal.com/over-80-of-govt-judgement-claims-in-foreign-currencies-posing-exchange-rate-risks/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T09:00:11.000Z",
-      "summary": "Finance Minister Ato Forson says over 80% of government judgement claims are foreign currency-denominated, exposing public finances to additional exchange-rate risks."
     }
   ]
 };
