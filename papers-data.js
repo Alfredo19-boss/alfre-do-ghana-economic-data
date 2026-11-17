@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T05:01:03.309Z",
+  "updated": "2026-11-17T05:05:59.118Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "link": "https://www.myjoyonline.com/robert-pattinson-to-replace-daniel-craig-as-james-bond-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T04:23:00.000Z",
+      "summary": "Robert Pattinson, the British actor known for films such as Twilight and The Batman, has been confirmed as the next actor to play James Bond.",
+      "categories": [
+        "Movies",
+        "James Bond",
+        "Robert Pattinson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
       "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
@@ -112,19 +125,6 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s public debt has jumped from $49bn to $65bn, says Amin Adam",
-      "link": "https://www.myjoyonline.com/ghanas-public-debt-has-jumped-from-49bn-to-65bn-says-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T03:17:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana’s public debt has risen from $49 billion at the end of 2024 to $65 billion in October 2026.",
-      "categories": [
-        "Politics",
-        "Dr Mohammed Amin Adam",
-        "Public Debt"
       ],
       "site": "https://www.myjoyonline.com/"
     },

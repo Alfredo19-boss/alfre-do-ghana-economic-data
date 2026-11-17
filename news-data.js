@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T05:01:01.230Z",
+  "updated": "2026-11-17T05:05:57.152Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,34 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "YOUR X’MAS SHOPPING STARTS THIS NOVEMBER WITH AGRIFAIR AND GEXPO",
+      "link": "https://thehighstreetjournal.com/your-xmas-shopping-starts-this-november-with-agrifair-and-gexpo/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:05:00.000Z",
+      "summary": "Two major exhibitions are bringing Ghanaian-made products closer to consumers this November, offering festive bargains while creating new opportunities for local businesses, farmers and…"
+    },
+    {
+      "title": "Enough Pure Water! Pres. Mahama Challenges Ghanaians to Think Beyond Sachets & Build Bigger Businesses",
+      "link": "https://thehighstreetjournal.com/enough-pure-water-pres-mahama-challenges-ghanaians-to-think-beyond-sachets-build-bigger-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:03:00.000Z",
+      "summary": "President Mahama has challenged Ghanaian entrepreneurs to move beyond sachet water production and pursue bigger industrial ventures, manufacturing, agriculture and exports, positioning…"
+    },
+    {
+      "title": "Burkina Faso Cattle Export Ban Threatens Ghana’s Meat Supply and Christmas Prices",
+      "link": "https://thehighstreetjournal.com/burkina-faso-cattle-export-ban-threatens-ghanas-meat-supply-and-christmas-prices/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:02:00.000Z",
+      "summary": "Burkina Faso’s cattle export ban has disrupted supplies to Kumasi Abattoir, threatening butchers’ livelihoods, abattoir revenue and affordable meat availability as traders warn of higher…"
+    },
+    {
+      "title": "Ghana Urged to Revive GSTS Education Model as Graduate Job Concerns Grow",
+      "link": "https://thehighstreetjournal.com/ghana-urged-to-revive-gsts-education-model-as-graduate-job-concerns-grow/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T05:01:00.000Z",
+      "summary": "GSTS alumni want government to revive and modernise the school's blend of academic and technical education, citing graduate employment concerns and Ghana's industrial ambitions."
+    },
     {
       "title": "Ghana Scouts Align National, Regional Leadership Structures to Drive Strategic Plan",
       "link": "https://thehighstreetjournal.com/ghana-scouts-align-national-regional-leadership-structures-to-drive-strategic-plan/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T12:24:26.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson has described commercial agriculture as a major opportunity for tackling youth unemployment, saying large-scale farming could generate significant…"
-    },
-    {
-      "title": "The Rice Revolution: Total Import Ban by 2030, Quota in 2027 & Compulsory Purchase By Gov’t Institutions",
-      "link": "https://thehighstreetjournal.com/the-rice-revolution-total-import-ban-by-2030-quota-in-2027-compulsory-purchase-by-govt-institutions/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T12:00:00.000Z",
-      "summary": "Ghana plans to ban commercial rice imports by 2030, starting with import quotas in 2027 tied to local purchases. Public institutions will be legally required to buy Ghanaian rice, while…"
-    },
-    {
-      "title": "Somotex opens ultra-modern Electro Point showroom in Wa to boost access to home appliances",
-      "link": "https://www.myjoyonline.com/somotex-opens-ultra-modern-electro-point-showroom-in-wa-to-boost-access-to-home-appliances/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:39:06.000Z",
-      "summary": "Somotex Ghana Limited, in partnership with Jamang Enterprise, has opened a new electronics showroom, Electro Point, in Wa, the Upper West Regional capital, to expand access to household…"
-    },
-    {
-      "title": "Samira Bawumia launches solar power initiative for underserved maternity facilities in Africa",
-      "link": "https://www.myjoyonline.com/samira-bawumia-launches-solar-power-initiative-for-underserved-maternity-facilities-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:27:02.000Z",
-      "summary": "Former Second Lady Samira Bawumia has launched an initiative to provide reliable solar electricity to underserved healthcare facilities in Africa, initially focusing on improving maternal…"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 kicks off at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T11:18:34.000Z",
-      "summary": "The 2026 Ecobank JoyBusiness SME Fair has opened at Ghud Park, Accra Mall, bringing together businesses, entrepreneurs, financial institutions and consumers for a three-day exhibition of…"
     }
   ]
 };
