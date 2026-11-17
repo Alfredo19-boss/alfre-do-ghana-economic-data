@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T11:58:50.365Z",
+  "updated": "2026-11-17T12:08:45.995Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -41,7 +41,16 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T11:50:34.000Z",
       "summary": "Once upon a time in the Republic of Uncommon Sense, a Finance Minister announced that he was expecting a New Economy. It was supposed to be a bouncing economic baby, conceived in the…",
       "categories": [
-        "News"
+        "Features",
+        "HP News 10",
+        "National",
+        "News",
+        "Opinion",
+        "24-hour economy",
+        "Afenyo",
+        "Ato Forson",
+        "Jimmy Aglah",
+        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },

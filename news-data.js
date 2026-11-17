@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T11:58:47.541Z",
+  "updated": "2026-11-17T12:08:44.067Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 500)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Fixing the 2027 ‘Research-Deficient’ Budget Before Appropriation: Analyst Proposes 3 Quick Ways",
+      "link": "https://thehighstreetjournal.com/fixing-the-2027-research-deficient-budget-before-appropriation-analyst-proposes-3-quick-ways/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T12:00:00.000Z",
+      "summary": "IMANI's Sitsofe Mensah proposes three parliamentary interventions: capitalising the National Research Fund with GH¢1.5 billion, allocating GH¢250 million to CSIR and GAEC, and directing 15%…"
+    },
     {
       "title": "Ghanaian farmers losing confidence in rice farming – CSIR-CRI Chief Scientist",
       "link": "https://www.myjoyonline.com/ghanaian-farmers-losing-confidence-in-rice-farming-csir-cri-chief-scientist/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-13T16:26:29.000Z",
       "summary": "The Ghana government says it will invest $10 billion in an economic transformation programme from 2027 to 2030, targeting agriculture, energy, critical minerals and other productive sectors."
-    },
-    {
-      "title": "Ghana risks importing water as miners struggle to afford mercury-free gold catchers",
-      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-risks-importing-water-as-miners-struggle-to-afford-mercury-free-gold-catchers/",
-      "source": "Ghana Business News",
-      "published": "2026-11-13T16:15:53.000Z",
-      "summary": "Ghana risks importing potable water as rivers face increasing pollution from mercury used in artisanal and small-scale mining, with miners struggling to afford mercury-free gold processing…"
     }
   ]
 };
