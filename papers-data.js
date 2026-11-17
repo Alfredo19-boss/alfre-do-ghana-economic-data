@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:14:12.918Z",
+  "updated": "2026-11-17T14:24:17.877Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Asante Akim North MP Ohene Kwame Frimpong won’t contest US extradition – Lawyer",
+      "link": "https://www.myjoyonline.com/asante-akim-north-mp-ohene-kwame-frimpong-wont-contest-us-extradition-lawyer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:19:10.000Z",
+      "summary": "The Member of Parliament for Asante Akim North, Ohene Kwame Frimpong, will not challenge his extradition to the United States when his case is heard in an Amsterdam court on Wednesday…",
+      "categories": [
+        "National",
+        "News",
+        "Asante Akim North MP",
+        "Ohene Kwame Frimpong",
+        "US extradition"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T14:15:46.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Abu Jinapor questions NDC’s consistency over US$60.68m presidential jet",
       "link": "https://www.myjoyonline.com/abu-jinapor-questions-ndcs-consistency-over-us60-68m-presidential-jet/",
@@ -117,19 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Charles Osei Asibey in Cairo to defend armwrestling’s inclusion in African Games",
-      "link": "https://www.myjoyonline.com/charles-osei-asibey-in-cairo-to-defend-armwrestlings-inclusion-in-african-games/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:44:17.000Z",
-      "summary": "Ghana and Africa Armwrestling President Charles Osei Asibey is in Cairo, Egypt, to advocate for the inclusion and retention of armwrestling on the programme of the African Games.",
-      "categories": [
-        "National",
-        "Other Sports",
-        "Sports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Prof Fred Newton Binka pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",
       "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
       "source": "Daily Graphic",
@@ -211,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bog-assesses-2027-budget-implications-for-inflation-cedi-stability.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T09:34:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Audit Service to launch e-tracker",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-audit-service-to-launch-e-tracker.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T09:31:01.000Z",
       "summary": "",
       "categories": [
         "General News"
