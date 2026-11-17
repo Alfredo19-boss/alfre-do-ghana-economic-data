@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T13:08:44.255Z",
+  "updated": "2026-11-17T13:18:48.257Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 1/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+      "link": "https://www.ghanabusinessnews.com/2026/11/17/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
+      "source": "Ghana Business News",
+      "published": "2026-11-17T13:12:17.000Z",
+      "summary": "More than 15 million internal files. Emails from senior executives. Secret risk assessments. Suspicious transaction reports. Private information about billionaires, oligarchs, politicians…"
+    },
     {
       "title": "CIB Ghana, GhISP strengthen SME financing capacity among financial institutions in Kumasi and surrounding areas",
       "link": "https://www.myjoyonline.com/cib-ghana-ghisp-strengthen-sme-financing-capacity-among-financial-institutions-in-kumasi-and-surrounding-areas/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-13T16:54:08.000Z",
       "summary": "Ghana will invest $200 million in a 24-month programme to prepare the country for the construction of its first nuclear power plant."
-    },
-    {
-      "title": "No New Tax in 2027: Forson Stakes the Budget on Collection, Not Levies",
-      "link": "https://thehighstreetjournal.com/no-new-tax-in-2027-forson-stakes-the-budget-on-collection-not-levies/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T16:52:44.000Z",
-      "summary": "Government projects GH¢323.1 billion in revenue and grants as it relies on stronger compliance and tax administration rather than new levies."
     }
   ]
 };

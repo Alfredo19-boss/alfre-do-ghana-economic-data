@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:08:46.296Z",
+  "updated": "2026-11-17T13:18:50.218Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP31: Ghana demands funds to repair Africa’s mining-scarred lands, triple adaptation finance",
+      "link": "https://www.myjoyonline.com/cop31-ghana-demands-funds-to-repair-africas-mining-scarred-lands-triple-adaptation-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:13:55.000Z",
+      "summary": "Ghana has demanded that countries which grew rich on Africa’s minerals pay to restore the rivers, forests and lands damaged by mining, and deliver on a pledge to triple finance for climate…",
+      "categories": [
+        "Africa",
+        "National",
+        "Adaptation finance",
+        "COP 31",
+        "Mining scarred lands"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CIB Ghana, GhISP strengthen SME financing capacity among financial institutions in Kumasi and surrounding areas",
+      "link": "https://www.myjoyonline.com/cib-ghana-ghisp-strengthen-sme-financing-capacity-among-financial-institutions-in-kumasi-and-surrounding-areas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:05:45.000Z",
+      "summary": "Efforts to strengthen access to appropriate financing for businesses across Ghana received further support as the Ghana Investment Support Programme (GhISP) and Chartered Institute of…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "CIB Ghana",
+        "GhISP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana pushes Africa to demand tripled adaptation finance at COP31",
+      "link": "https://www.myjoyonline.com/ghana-pushes-africa-to-demand-tripled-adaptation-finance-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:05:37.000Z",
+      "summary": "Ghana has proposed six demands that African environment ministers should take into the high-level talks at the UN climate conference, COP31, in Antalya, Türkiye, and urged them to speak…",
+      "categories": [
+        "Africa",
+        "Adaptation finance",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Who gets to tell Ghana’s story on the cedi? An open letter to the Bank of Ghana on the Heritage series",
       "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series/",
@@ -85,46 +127,6 @@ window.GDC_PAPERS = {
         "HP News 10",
         "Regional",
         "National Security"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: Parliament asked to approve GH¢30bn “New Economy Fund” with no named spending institution – Africa Policy Lens",
-      "link": "https://www.myjoyonline.com/2027-budget-parliament-asked-to-approve-gh%c2%a230bn-new-economy-fund-with-no-named-spending-institution-africa-policy-lens/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:29:12.000Z",
-      "summary": "Parliament is being asked to approve a whopping GH¢30 billion for the New Economy Programme in 2027 without being told which institution will spend the money or what it will be spent on…",
-      "categories": [
-        "National",
-        "Politics",
-        "Budget",
-        "new economy",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Unapproved rice imports threaten Ghana’s local rice industry, CSIR-CRI director warns",
-      "link": "https://www.myjoyonline.com/unapproved-rice-imports-threaten-ghanas-local-rice-industry-csir-cri-director-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:23:11.000Z",
-      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, has identified the…",
-      "categories": [
-        "National",
-        "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Facilities charging NHIS patients illegally risk prosecution – NHIA boss",
-      "link": "https://www.myjoyonline.com/facilities-charging-nhis-patients-illegally-risk-prosecution-nhia-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:20:53.000Z",
-      "summary": "The Chief Executive of the National Health Insurance Authority (NHIA), Dr Victor Bampoe, has warned health facilities that continue to charge NHIS cardholders illegally could face…",
-      "categories": [
-        "National",
-        "Dr Victor Bampoe",
-        "NHIA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
