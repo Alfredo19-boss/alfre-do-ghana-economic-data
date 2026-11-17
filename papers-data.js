@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:13:46.791Z",
+  "updated": "2026-11-17T15:33:47.177Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: Enterprise Risk Management as a leadership responsibility",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-enterprise-risk-management-as-a-leadership-responsibility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:21:40.000Z",
+      "summary": "Risk management is not simply a compliance function or the responsibility of a risk department. It is a fundamental leadership responsibility that must influence how the organization plans…",
+      "categories": [
+        "Features",
+        "Opinion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: Fuel tanker catches fire after crash on Mamfe-Koforidua section of N4 Highway",
+      "link": "https://www.graphic.com.gh/news/general-news/fuel-tanker-catches-fire-after-crash-on-mamfe-koforidua-section-of-n4-highway.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T15:19:15.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "COP31: It is time for adaptation finance to reach local communities – AbibiNsroma Foundation",
       "link": "https://www.myjoyonline.com/cop31-it-is-time-for-adaptation-finance-to-reach-local-communities-abibinsroma-foundation/",
@@ -127,19 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bola Ray featured in GQ Poland, says Africa is not the next big thing, Africa is now",
-      "link": "https://www.myjoyonline.com/bola-ray-featured-in-gq-poland-says-africa-is-not-the-next-big-thing-africa-is-now/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:53:39.000Z",
-      "summary": "Renowned media mogul and CEO of EIB Network, Nathan Kwabena Anokye Adisi, popularly known as Bola Ray, has been featured in the 2026 edition of GQ Poland’s GQ Business magazine in a…",
-      "categories": [
-        "Lifestyle",
-        "Bola Ray",
-        "GQ Poland"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -221,17 +231,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/iran-releases-eight-ghanaian-seafarers-ablakwa-pledges-compensation.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T10:03:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG assesses 2027 budget implications for inflation, cedi stability",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bog-assesses-2027-budget-implications-for-inflation-cedi-stability.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T09:34:31.000Z",
       "summary": "",
       "categories": [
         "General News"

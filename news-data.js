@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T15:13:43.780Z",
+  "updated": "2026-11-17T15:33:44.871Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana’s Cashew Processing Industry Faces a Working Capital Trap",
+      "link": "https://thehighstreetjournal.com/ghanas-cashew-processing-industry-faces-a-working-capital-trap/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T15:25:00.000Z",
+      "summary": "Ghana's cashew processing ambitions face a working capital challenge as expensive borrowing limits raw material purchases, threatens factory utilisation and weakens domestic processors'…"
+    },
     {
       "title": "MIIF surpasses 2026 royalty target, records over GH¢9bn by October",
       "link": "https://www.myjoyonline.com/miif-surpasses-2026-royalty-target-records-over-gh%c2%a29bn-by-october/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T09:00:11.000Z",
       "summary": "Finance Minister Ato Forson says over 80% of government judgement claims are foreign currency-denominated, exposing public finances to additional exchange-rate risks."
-    },
-    {
-      "title": "BoG Explains Differences in Theodosia Okoh’s GH₵50 Portrait, Citing Artistic Adjustments",
-      "link": "https://thehighstreetjournal.com/bog-explains-differences-in-theodosia-okohs-gh%e2%82%b550-portrait-citing-artistic-adjustments/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T08:15:44.000Z",
-      "summary": "The Bank of Ghana says artistic and technical adjustments during production account for differences in Theodosia Okoh’s portrait on the new GH₵50 banknote."
     }
   ]
 };
