@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:44:04.668Z",
+  "updated": "2026-11-17T15:54:16.944Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana must increase domestic investment in digital health transformation – Nahashon Aluoka urges",
+      "link": "https://ghanaiantimes.com.gh/ghana-must-increase-domestic-investment-in-digital-health-transformation-nahashon-aluoka-urges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T15:53:53.000Z",
+      "summary": "Ghana must increase domestic investment in digital healthcare and address fragmented systems, outdated policies and poor infrastructure to accelerate the country’s digital health…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Where is the principle? – Jinapor questions US$60.68 Million presidential jet",
+      "link": "https://ghanaiantimes.com.gh/where-is-the-principle-jinapor-questions-us60-68-million-presidential-jet/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T15:50:11.000Z",
+      "summary": "The Member of Parliament for Damongo and former Minister for Lands and Natural Resources, Samuel Abu Jinapor, has questioned government’s acquisition of a new Falcon 6X presidential jet…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "The UN Succession: Why Grynspan’s growing momentum matters to Africa",
       "link": "https://www.myjoyonline.com/the-un-succession-why-grynspans-growing-momentum-matters-to-africa/",
@@ -287,29 +311,6 @@ window.GDC_PAPERS = {
       "summary": "THE Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited to support teaching and learning in educational…",
       "categories": [
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Govt cracks down on illegal billboards",
-      "link": "https://ghanaiantimes.com.gh/govt-cracks-down-on-illegal-billboards/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:58:07.000Z",
-      "summary": "THE government has begun removing illegal and non-compliant outdoor advertising billboards across Accra as part of efforts to sanitise the city and enforce regulations governing the outdoor…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Navigating dual regulation: A readiness assessment for virtual asset service providers",
-      "link": "https://ghanaiantimes.com.gh/navigating-dual-regulation-a-readiness-assessment-for-virtual-asset-service-providers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:55:04.000Z",
-      "summary": "VIRTUAL assets are digital representations of value that can be traded, transferred or utilised for payment purposes, explicitly excluding fiat currencies, securities and conventional…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
