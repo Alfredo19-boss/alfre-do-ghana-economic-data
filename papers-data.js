@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:08:45.995Z",
+  "updated": "2026-11-17T12:19:15.547Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Why news of over 5,000 businesses offering customers credit through their Ghana Cards is game-changing",
+      "link": "https://www.myjoyonline.com/why-news-of-over-5000-businesses-offering-customers-credit-through-their-ghana-cards-is-game-changing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:13:10.000Z",
+      "summary": "With news that a total of 5,486 businesses across the country are now offering customers credit on the basis of their Ghana Cards alone, the Ghana Card is no longer just an identity card…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Ghana Card"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "INTERPOL orders deletion of Ken Ofori-Atta’s data, cites political character of case",
+      "link": "https://www.myjoyonline.com/interpol-orders-deletion-of-ken-ofori-attas-data-cites-political-character-of-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:06:07.000Z",
+      "summary": "The Commission for the Control of INTERPOL's Files (CCF) has ordered the deletion of all information concerning former Finance Minister Ken Ofori-Atta from INTERPOL's databases, concluding…",
+      "categories": [
+        "National",
+        "Interpol",
+        "Ken Ofori Atta",
+        "OSP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "M.anifest gave me hope to stay true to the art in Ghana – Kwartengg",
       "link": "https://www.myjoyonline.com/m-anifest-gave-me-hope-to-stay-true-to-the-art-in-ghana-kwartengg/",
@@ -128,36 +155,6 @@ window.GDC_PAPERS = {
         "Ato Forson",
         "Ghana",
         "Investors"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian rice quality has improved significantly – CSIR-CRI Chief Director",
-      "link": "https://www.myjoyonline.com/ghanaian-rice-quality-has-improved-significantly-csir-cri-chief-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:24:09.000Z",
-      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says the quality of…",
-      "categories": [
-        "National",
-        "cri",
-        "CSIR",
-        "Ghana Rice",
-        "Prof. Maxwell Darko Asante",
-        "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Don Little accuses female police officer of verbal abuse during encounter in Kumasi",
-      "link": "https://www.myjoyonline.com/don-little-accuses-female-police-officer-of-verbal-abuse-during-encounter-in-kumasi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:23:06.000Z",
-      "summary": "Ghanaian actor Don Little has expressed anger and disappointment towards the Ghana Police Service following an alleged unpleasant encounter with a female police officer at Kumasi Breman.",
-      "categories": [
-        "National",
-        "Don Little",
-        "Kumasi",
-        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
