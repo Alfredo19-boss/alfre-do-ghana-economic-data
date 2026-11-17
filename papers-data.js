@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:43:46.993Z",
+  "updated": "2026-11-17T14:53:46.850Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GreenFaith joins Make Polluters Pay coalition to honour Guterres for climate leadership",
+      "link": "https://www.myjoyonline.com/greenfaith-joins-make-polluters-pay-coalition-to-honour-guterres-for-climate-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:46:52.000Z",
+      "summary": "GreenFaith has joined the Make Polluters Pay International Coalition to honour United Nations Secretary-General António Guterres for his leadership in the global climate movement and his…",
+      "categories": [
+        "National",
+        "António Guterres",
+        "GreenFaith"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama visits Akufo-Addo at Nima residence",
+      "link": "https://www.myjoyonline.com/mahama-visits-akufo-addo-at-nima-residence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:41:55.000Z",
+      "summary": "President John Dramani Mahama has paid a visit to former President Nana Akufo-Addo at his residence in Nima, Accra. The two leaders discussed matters of national and international concern…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Akufo-Addo",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
       "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
@@ -97,8 +124,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T14:08:39.000Z",
       "summary": "One person has died, while a fuel tanker driver has sustained serious injuries following an accident that triggered a fire outbreak at Amamprobi Junction on the Mamfe–Adawso road in the…",
       "categories": [
+        "HP News 1",
         "Regional",
-        "Top Story",
         "Amamprobi Junction",
         "Fire",
         "tanker"
@@ -117,35 +144,6 @@ window.GDC_PAPERS = {
         "Asante Akim North",
         "extradition",
         "Netherlands"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority to demand procurement details of presidential jet purchase",
-      "link": "https://www.myjoyonline.com/minority-to-demand-procurement-details-of-presidential-jet-purchase/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:55:12.000Z",
-      "summary": "The Minority in Parliament is demanding full disclosure of the procurement details surrounding the acquisition of a new presidential jet, following government's announcement of the…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Minority",
-        "Presidential jet",
-        "Samuel Abu Jinapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa offers reward for information on Ghanaian woman allegedly assaulted in Iraq",
-      "link": "https://www.myjoyonline.com/ablakwa-offers-reward-for-information-on-ghanaian-woman-allegedly-assaulted-in-iraq/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:53:45.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has announced a reward for anyone who provides credible information to help identify and locate a Ghanaian woman believed to have been…",
-      "categories": [
-        "National",
-        "Iraq",
-        "Samuel Okudzeto Ablakwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },

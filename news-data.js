@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T14:43:44.687Z",
+  "updated": "2026-11-17T14:53:44.139Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "COP31: Advocates urge funders to double clean air money for Africa, Asia and Latin America by COP32",
+      "link": "https://www.myjoyonline.com/cop31-advocates-urge-funders-to-double-clean-air-money-for-africa-asia-and-latin-america-by-cop32/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:50:48.000Z",
+      "summary": "Clean air advocates at COP31 have urged philanthropic funders to double their annual support for air quality initiatives in Africa, Latin America and parts of Asia, warning that inadequate…"
+    },
     {
       "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
       "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T05:25:02.000Z",
       "summary": "The price of petrol per litre is expected to fall further from November 16, 2026, by some significant margin, while that of diesel could rise"
-    },
-    {
-      "title": "VIP-Style Bus Model Could Unlock Private Capital for Ghana’s Urban Transport",
-      "link": "https://thehighstreetjournal.com/vip-style-bus-model-could-unlock-private-capital-for-ghanas-urban-transport/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:05:00.000Z",
-      "summary": "A private-sector investment model that allows individuals, existing trotro owners and small investors to finance professionally managed intra-city bus fleets could reshape public transport…"
     }
   ]
 };
