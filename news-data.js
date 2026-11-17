@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T22:08:15.978Z",
+  "updated": "2026-11-17T22:18:00.306Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,10 +15,10 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
     {
@@ -69,6 +69,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T18:55:14.000Z",
       "summary": "Ghana will measure the success of its Invest Ghana Summit by how many investment proposals secure financing and move into operation, Chief of Staff Julius Debrah said, as the government…"
+    },
+    {
+      "title": "AngloGold Ashanti recognized for its sustainability initiatives",
+      "link": "https://gna.org.gh/2026/11/anglogold-ashanti-recognized-for-its-sustainability-initiatives/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-17T18:19:50.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     },
     {
       "title": "Ecobank Ghana’s Regina Ofori wins global award for Outstanding Contribution to Marketing",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T13:11:53.000Z",
       "summary": "The shopping excitement is back, the bargains are calling and the opportunities to discover Ghanaian-made products are getting even bigger as Day Two of the Ecobank JoyBusiness SME Fair…"
-    },
-    {
-      "title": "Ghana Must Strengthen Domestic Revenue to Reduce Dependence on External Borrowing",
-      "link": "https://thehighstreetjournal.com/ghana-must-strengthen-domestic-revenue-to-reduce-dependence-on-external-borrowing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T13:00:00.000Z",
-      "summary": "ACUC wants Ghana to strengthen domestic revenue mobilisation, improve public spending and expand local production to reduce external borrowing and create greater fiscal space for national…"
     }
   ]
 };

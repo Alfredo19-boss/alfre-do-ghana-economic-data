@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T22:08:19.370Z",
+  "updated": "2026-11-17T22:18:03.342Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Six in court accused of high-value Pokemon card theft",
+      "link": "https://www.myjoyonline.com/six-in-court-accused-of-high-value-pokemon-card-theft/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:58:00.000Z",
+      "summary": "Six men charged with stealing high-value Pokemon cards from a warehouse in Nottinghamshire have appeared in court.",
+      "categories": [
+        "International",
+        "Pokemon"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘We’re a capitalist society’: Grindr defends $120 a month premium tier",
       "link": "https://www.myjoyonline.com/were-a-capitalist-society-grindr-defends-120-a-month-premium-tier/",
@@ -125,22 +137,6 @@ window.GDC_PAPERS = {
         "Falcon 6X executive jet",
         "President John Mahama",
         "Samuel Abu Jinapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A hacker that doesn’t sleep: Google warns of autonomous AI cyberattacks",
-      "link": "https://www.myjoyonline.com/a-hacker-that-doesnt-sleep-google-warns-of-autonomous-ai-cyberattacks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:47:39.000Z",
-      "summary": "Google has issued a stark warning that the threat landscape in cybersecurity has crossed a critical threshold, declaring that \"the era of autonomous attacks has arrived.\"",
-      "categories": [
-        "National",
-        "News",
-        "Technology",
-        "AI cyberattacks",
-        "Google",
-        "Hacker"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -307,10 +303,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
-      "link": "https://www.graphic.com.gh/news/general-news/asante-gold-regalia-to-remain-in-kumasi-as-uk-museums-extend-loan-agreements.html",
+      "title": "Researcher on how to cook local Ghanaian rice for it to taste better than Vietnamese rice",
+      "link": "https://www.graphic.com.gh/news/general-news/researcher-on-how-to-cook-local-ghanaian-rice-for-it-to-taste-better-than-vietnamese-rice.html",
       "source": "Daily Graphic",
-      "published": "2026-11-17T11:42:58.000Z",
+      "published": "2026-11-17T13:07:15.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -318,10 +314,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Minority demands full disclosure as US$60.68m Falcon 6X presidential jet arrives",
-      "link": "https://www.graphic.com.gh/news/general-news/minority-demands-full-disclosure-as-us-60-68m-falcon-6x-presidential-jet-arrives.html",
+      "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
+      "link": "https://www.graphic.com.gh/news/general-news/asante-gold-regalia-to-remain-in-kumasi-as-uk-museums-extend-loan-agreements.html",
       "source": "Daily Graphic",
-      "published": "2026-11-17T11:31:49.000Z",
+      "published": "2026-11-17T11:42:58.000Z",
       "summary": "",
       "categories": [
         "General News"
