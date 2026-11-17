@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T08:06:27.274Z",
+  "updated": "2026-11-17T08:15:58.946Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,51 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Relief and Aid International invests in 16 students",
+      "link": "https://ghanaiantimes.com.gh/relief-and-aid-international-invests-in-16-students/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T08:14:07.000Z",
+      "summary": "RELIEF and Aid International, a humanitarian non-governmental organisation (NGO) focused on poverty reduction and community development, has awarded scholarships to 16 students to pursue…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FAO, partners brace Ghana for El Niño impact",
+      "link": "https://ghanaiantimes.com.gh/fao-partners-brace-ghana-for-el-nino-impact/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T08:12:04.000Z",
+      "summary": "THE Food and Agriculture Organisation of the United Nations (FAO) is collaborating with national and local partners to strengthen disaster risk reduction, climate information services and…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nungua Mankralo’s office defends Borkete Lawe’s authority",
+      "link": "https://ghanaiantimes.com.gh/nungua-mankralos-office-defends-borkete-lawes-authority/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T08:09:28.000Z",
+      "summary": "THE Office of the Nungua Mankralo and the Akutsotsemei (Laweh State Council) has rejected claims relating to the lineage of Odei Akoto, insisting that historical records and customary…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dome-Kwabenya MP supports trotro drivers, okada riders",
+      "link": "https://ghanaiantimes.com.gh/dome-kwabenya-mp-supports-trotro-drivers-okada-riders/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T08:06:42.000Z",
+      "summary": "THE Member of Parliament (MP) for Dome-Kwabenya, Ms Elikplim Akurugu, has distributed fuel coupons worth GH¢100 and GH¢200 to commercial transport operators in 12 communities in her…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Best Assurance boosts GETFund’s education support drive",
       "link": "https://ghanaiantimes.com.gh/best-assurance-boosts-getfunds-education-support-drive/",
       "source": "Ghanaian Times",
@@ -32,12 +77,24 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "No open-chest surgery: How Korle Bu doctors saved a 14-year-old with a groundbreaking procedure",
+      "link": "https://www.graphic.com.gh/news/general-news/no-open-chest-surgery-how-korle-bu-doctors-saved-a-14-year-old-with-a-groundbreaking-procedure.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T08:03:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Customs Commissioner directs ports to detain right-hand-drive vehicles without import permits",
       "link": "https://www.myjoyonline.com/customs-commissioner-directs-ports-to-detain-right-hand-drive-vehicles-without-import-permits/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T08:00:14.000Z",
       "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has directed all ports and stations across the country not to process or release right-hand steering vehicles unless importers…",
       "categories": [
+        "HP News 5",
         "National",
         "Customs Division of GRA",
         "Right-hand drive vehicle"
@@ -79,50 +136,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "ILO chief wins second term",
-      "link": "https://ghanaiantimes.com.gh/ilo-chief-wins-second-term/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:51:22.000Z",
-      "summary": "The head of the UN labour agency, ‌Togo’s Gilbert Houngbo, won a second five-year term yesterday after his rival’s ⁠dropped out. Houngbo, the International Labour Organization’s first…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ethiopia, Sudan accuse each other of backing armed groups",
-      "link": "https://ghanaiantimes.com.gh/ethiopia-sudan-accuse-each-other-of-backing-armed-groups/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:48:18.000Z",
-      "summary": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Haiti’s former first lady to run for president",
-      "link": "https://ghanaiantimes.com.gh/haitis-former-first-lady-to-run-for-president/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:45:28.000Z",
-      "summary": "Martine Moise, the widow of Haiti’s last president whose 2021 assassination was a major turning point for the nation, has ​registered as a candidate for the first presidential election in a…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cape Verde President wins second term",
-      "link": "https://ghanaiantimes.com.gh/cape-verde-president-wins-second-term/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:41:39.000Z",
-      "summary": "Cape Verde President José Maria Neves has won ‌a second five-year term, according to provisional results from Sunday’s election, besting five challengers including the archipelago’s first…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Amputee World Cup: Black Challenge thrash Iraq to secure Round of 16 spot at Amputee World Cup",
       "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-thrash-iraq-to-secure-round-of-16-spot-at-amputee-world-cup/",
       "source": "MyJoyOnline",
@@ -130,6 +143,7 @@ window.GDC_PAPERS = {
       "summary": "Ghana headed into the encounter desperately needing a convincing victory to boost their chances of progressing to the knockout stage after suffering a 2-0 defeat to Angola and playing out a…",
       "categories": [
         "Football",
+        "HP News 9",
         "HP Sports 2",
         "National",
         "Sports",
@@ -148,6 +162,7 @@ window.GDC_PAPERS = {
       "summary": "Ghana recorded their first back-to-back wins in over a year following their victory over Somalia on Monday with Jordan Ayew scoring from the penalty box.",
       "categories": [
         "Football",
+        "HP News 8",
         "HP Sports 1",
         "National",
         "2027 AFCON Qualifiers",
@@ -302,17 +317,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/your-currency-will-never-be-stable-if-you-are-an-importer-dangotes-bold-message-to-ghana.html",
       "source": "Daily Graphic",
       "published": "2026-11-16T13:03:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Farmers will produce if buyers are guaranteed – President Mahama urges investors to secure markets for farm produce",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-investors-to-guarantee-markets-for-ghanaian-farmers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T12:17:57.000Z",
       "summary": "",
       "categories": [
         "General News"
