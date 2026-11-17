@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:39:20.602Z",
+  "updated": "2026-11-17T13:44:16.093Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa investigates viral video of Ghanaian woman allegedly assaulted by employer in Iraq",
+      "link": "https://www.myjoyonline.com/ablakwa-investigates-viral-video-of-ghanaian-woman-allegedly-assaulted-by-employer-in-iraq/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:39:38.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says the government is investigating a viral video purportedly showing a Ghanaian woman being brutally assaulted by her employer in Iraq.",
+      "categories": [
+        "National",
+        "Ghanaian woman",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Scrap dealer stabbed to death over GH¢1,000 debt",
+      "link": "https://www.myjoyonline.com/scrap-dealer-stabbed-to-death-over-gh%c2%a21000-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:37:36.000Z",
+      "summary": "A 20-year-old scrap dealer has been killed and another left in critical condition following an alleged stabbing over a GH¢1,000 debt at Aboabo Pelele in the Asokore Mampong Municipality of…",
+      "categories": [
+        "National",
+        "Regional",
+        "Asokore Mampong Municipality",
+        "Scrap Dealer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Data intelligence empowers African climate negotiators via first-of-its-kind Situation Room",
       "link": "https://www.myjoyonline.com/data-intelligence-empowers-african-climate-negotiators-via-first-of-its-kind-situation-room/",
@@ -96,6 +123,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Prof Fred Newton Binka, founding Vice-Chancellor of UHAS passes on",
+      "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T13:29:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Why Ubuntu Needs Meritocracy",
       "link": "https://ghanaiantimes.com.gh/why-ubuntu-needs-meritocracy/",
       "source": "Ghanaian Times",
@@ -117,35 +155,6 @@ window.GDC_PAPERS = {
         "Hostel",
         "Rent Commissioner",
         "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana failed to establish Ofori-Atta’s personal benefit in alleged financial crimes – INTERPOL",
-      "link": "https://www.myjoyonline.com/ghana-failed-to-establish-ofori-attas-personal-benefit-in-alleged-financial-crimes-interpol/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:15:30.000Z",
-      "summary": "The Commission for the Control of INTERPOL's Files has questioned the evidence submitted by the Office of the Special Prosecutor (OSP) against former Finance Minister Ken Ofori-Atta, saying…",
-      "categories": [
-        "National",
-        "Interpol",
-        "Ken Ofori Atta",
-        "OSP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: Ghana demands funds to repair Africa’s mining-scarred lands, triple adaptation finance",
-      "link": "https://www.myjoyonline.com/cop31-ghana-demands-funds-to-repair-africas-mining-scarred-lands-triple-adaptation-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:13:55.000Z",
-      "summary": "Ghana has demanded that countries which grew rich on Africa’s minerals pay to restore the rivers, forests and lands damaged by mining, and deliver on a pledge to triple finance for climate…",
-      "categories": [
-        "Africa",
-        "National",
-        "Adaptation finance",
-        "COP 31",
-        "Mining scarred lands"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -220,17 +229,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-audit-service-to-launch-e-tracker.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T09:31:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Invest in Ghana summit: President urges investors to tap nation’s New Economy",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-invest-in-ghana-summit-president-urges-investors-to-tap-nations-new-economy.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T09:27:42.000Z",
       "summary": "",
       "categories": [
         "General News"
