@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:38:49.063Z",
+  "updated": "2026-11-17T12:48:47.580Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Four arrested for impersonating National Security operatives to extort miners in Ashanti Region",
+      "link": "https://www.myjoyonline.com/four-arrested-for-impersonating-national-security-operatives-to-extort-miners-in-ashanti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:44:53.000Z",
+      "summary": "Four suspected members of an organised criminal syndicate have been arrested for allegedly impersonating National Security operatives and extorting huge sums of money from small-scale…",
+      "categories": [
+        "Regional",
+        "National Security"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget: Parliament asked to approve GH¢30bn “New Economy Fund” with no named spending institution – Africa Policy Lens",
       "link": "https://www.myjoyonline.com/2027-budget-parliament-asked-to-approve-gh%c2%a230bn-new-economy-fund-with-no-named-spending-institution-africa-policy-lens/",
@@ -110,26 +122,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Kwartengg",
         "M.anifest"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A New Economy, Old Headaches and Afenyo’s Budget Fever!",
-      "link": "https://www.myjoyonline.com/a-new-economy-old-headaches-and-afenyos-budget-fever/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:50:34.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, a Finance Minister announced that he was expecting a New Economy. It was supposed to be a bouncing economic baby, conceived in the…",
-      "categories": [
-        "Features",
-        "HP News 10",
-        "National",
-        "News",
-        "Opinion",
-        "24-hour economy",
-        "Afenyo",
-        "Ato Forson",
-        "Jimmy Aglah",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
