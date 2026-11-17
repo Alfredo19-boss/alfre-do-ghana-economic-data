@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T07:26:19.880Z",
+  "updated": "2026-11-17T07:35:59.892Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,79 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Stars labour to narrow win over Somalia",
+      "link": "https://ghanaiantimes.com.gh/black-stars-labour-to-narrow-win-over-somalia/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:35:06.000Z",
+      "summary": "GHANA’S Black Stars secured a hard-fought 1-0 victory over Somalia in their 2027 Africa Cup of Nations (AFCON) qualifier played at the Essipon Sports Stadium yesterday. Captain Jordan Ayew…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIBA Africa Zone 3 U-16 Championship postponed",
+      "link": "https://ghanaiantimes.com.gh/fiba-africa-zone-3-u-16-championship-postponed/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:32:10.000Z",
+      "summary": "The much-anticipated start of the International Basketball Federation (FIBA) Africa Zone 3 U-16 Boys and Girls Championship at the Borteyman Sports Complex has been postponed indefinitely…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Amputee World Cup: Black Challenge thrash Iraq to secure Round of 16 spot at Amputee World Cup",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-thrash-iraq-to-secure-round-of-16-spot-at-amputee-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T07:31:33.000Z",
+      "summary": "Ghana headed into the encounter desperately needing a convincing victory to boost their chances of progressing to the knockout stage after suffering a 2-0 defeat to Angola and playing out a…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "National",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Ghana",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana weightlifting star Osarfo announces retirement",
+      "link": "https://ghanaiantimes.com.gh/ghana-weightlifting-star-osarfo-announces-retirement/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:30:57.000Z",
+      "summary": "Richmond Osarfo, one of Ghana’s most accomplished weightlifters and a former African junior record holder, has announced his retirement from the national weightlifting team, the Black…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Medeama stretch lead as Hearts, Kotoko stumble",
+      "link": "https://ghanaiantimes.com.gh/medeama-stretch-lead-as-hearts-kotoko-stumble/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:29:16.000Z",
+      "summary": "Medeama SC strengthened their grip on the Premier League summit after securing a 2-1 away victory over Young Apostles in Wenchi, opening a three-point lead at the top following an eventful…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Lukaku quits Int’l football",
+      "link": "https://ghanaiantimes.com.gh/lukaku-quits-intl-football/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:26:38.000Z",
+      "summary": "Romelu Lukaku has retired from international football, saying he has “enjoyed every single moment” of playing for Belgium. Fenerbahce striker Lukaku, 33, made his international debut in…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "‘Transfer interest affected my form’",
       "link": "https://ghanaiantimes.com.gh/transfer-interest-affected-my-form/",
@@ -50,62 +123,6 @@ window.GDC_PAPERS = {
       "summary": "GERMANY manager Jurgen Klopp says he “didn’t think things could get worse after Sepp Blatter, but someone has managed to do just that” as he called for FIFA president Gianni Infantino to be…",
       "categories": [
         "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Meteors will bounce back against Libya today",
-      "link": "https://ghanaiantimes.com.gh/black-meteors-will-bounce-back-against-libya-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:17:55.000Z",
-      "summary": "GHANA’S Black Meteors are gearing up for a decisive encounter today against Libya’s Mediterranean Knights as they seek to overturn a 1-0 first-leg deficit and keep their hopes of qualifying…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "National Banking College launches financial magazine",
-      "link": "https://ghanaiantimes.com.gh/national-banking-college-launches-financial-magazine/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:14:03.000Z",
-      "summary": "THE National Banking College (NBC) has launched a new industry magazine, The Financial Perspective, to promote knowledge-sharing and highlight emerging developments in Ghana’s banking and…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "RMU-AskRaf Annual Blue Economy Public Lecture set for November 25",
-      "link": "https://ghanaiantimes.com.gh/rmu-askraf-annual-blue-economy-public-lecture-set-for-november-25/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:11:45.000Z",
-      "summary": "THE Regional Maritime University (RMU), in collaboration with AskRaf International Company Limited, will on Wednesday, November 25, 2026, host the RMU-AskRaf Annual Blue Economy Public…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prisons Service urged to restore public confidence",
-      "link": "https://ghanaiantimes.com.gh/prisons-service-urged-to-restore-public-confidence/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:08:53.000Z",
-      "summary": "THE Deputy Minister of Interior, Ebenezer Okletey Terlabi, has urged the Ghana Prisons Service (GPS) to uphold professionalism and integrity to restore public confidence. He said there was…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Africa must speak with one voice on climate finance – Minister",
-      "link": "https://ghanaiantimes.com.gh/africa-must-speak-with-one-voice-on-climate-finance-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T07:06:45.000Z",
-      "summary": "THE Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has urged African countries to strengthen their collective voice in international climate negotiations to…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -213,19 +230,6 @@ window.GDC_PAPERS = {
         "Cathedral",
         "Church",
         "national cathedral"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Retaining the incumbent regional chairman is the surest bet for Ashanti NDC",
-      "link": "https://www.myjoyonline.com/retaining-the-incumbent-regional-chairman-is-the-surest-bet-for-ashanti-ndc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:15:00.000Z",
-      "summary": "Mohammed Yakubu, the Member of Parliament (MP) for Ahafo Ano South-East, has described the re-election of Mr Andrews Nana Akwasi as Ashanti Regional Chairman of the NDC as the surest bet…",
-      "categories": [
-        "National",
-        "Ashanti Region",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
