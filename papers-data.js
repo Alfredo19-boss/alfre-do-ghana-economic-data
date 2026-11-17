@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T05:56:28.336Z",
+  "updated": "2026-11-17T06:15:58.018Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaians must take advantage of China’s Zero Tariff Policy – Okudzeto Ablakwa",
+      "link": "https://ghanaiantimes.com.gh/ghanaians-must-take-advantage-of-chinas-zero-tariff-policy-okudzeto-ablakwa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:13:28.000Z",
+      "summary": "THE Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has urged Ghanaians to increase local production in order to take advantage of China’s zero-tariff policy. He said the time had…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Make early diagnosis of brain tumours affordable",
+      "link": "https://ghanaiantimes.com.gh/make-early-diagnosis-of-brain-tumours-affordable/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:10:04.000Z",
+      "summary": "THE high cost of diagnosing pineal region tumours, as highlighted by a senior neurosurgeon at the Greater Accra Regional Hospital, Dr Justice Asare, raises an important concern about access…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Chairman Wontumi’s appeal application dismissed by High Court",
+      "link": "https://ghanaiantimes.com.gh/chairman-wontumis-appeal-application-dismissed-by-high-court/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:08:14.000Z",
+      "summary": "THE High Court in Accra yesterday dismissed former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako’s application for bail pending his appeal against his…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "The beacon of hope: Coach Opeele touts Andre Ayew as the man to rescue Ghana football",
       "link": "https://www.myjoyonline.com/the-beacon-of-hope-coach-opeele-touts-andre-ayew-as-the-man-to-rescue-ghana-football/",
@@ -98,7 +133,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T05:04:00.000Z",
       "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), Monday warned that an unusually strong El Niño episode could affect agricultural production across West Africa, including…",
       "categories": [
+        "HP News 10",
         "National",
+        "News",
         "BoG",
         "Cedi",
         "Cocoa"
@@ -246,18 +283,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Minority leader criticises removal of Big Six from new banknotes",
-      "link": "https://ghanaiantimes.com.gh/minority-leader-criticises-removal-of-big-six-from-new-banknotes/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T14:18:15.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has criticised the government’s decision to remove the collective portrait of the Big Six from Ghana’s newly unveiled banknotes, describing it as a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Two dead from Monday morning crash at Buduburam",
       "link": "https://www.graphic.com.gh/news/general-news/two-dead-from-monday-morning-crash-at-buduburam.html",
       "source": "Daily Graphic",
@@ -289,28 +314,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Black Stars seek double over Somalia • In AFCON 2027 qualifier",
-      "link": "https://ghanaiantimes.com.gh/black-stars-seek-double-over-somalia-in-afcon-2027-qualifier/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:43:55.000Z",
-      "summary": "THE Black Stars will be under pressure to show that their 2-0 victory over Somalia on Thursday was more than just a good start when the two sides meet again today at the Essipon Sports…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dreams FC stun Lions in Kpando to claim second win",
-      "link": "https://ghanaiantimes.com.gh/dreams-fc-stun-lions-in-kpando-to-claim-second-win/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:39:09.000Z",
-      "summary": "DREAMS FC delivered a timely boost with a stunning 2-1 victory over fellow strugglers Heart of Lions in Kpando on Saturday, securing just their second win of the 2026/27 Ghana Premier…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
