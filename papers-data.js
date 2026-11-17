@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T20:48:31.104Z",
+  "updated": "2026-11-17T20:58:00.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Abu Jinapor accuses Mahama gov’t of double standards over presidential jet purchase",
+      "link": "https://www.myjoyonline.com/abu-jinapor-accuses-mahama-govt-of-double-standards-over-presidential-jet-purchase/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:49:05.000Z",
+      "summary": "The Ranking Member of Parliament’s Foreign Affairs and Regional Integration Committee, Samuel Abu Jinapor, has accused the Mahama administration of double standards over its decision to…",
+      "categories": [
+        "National",
+        "Falcon 6X executive jet",
+        "President John Mahama",
+        "Samuel Abu Jinapor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A hacker that doesn’t sleep: Google warns of autonomous AI cyberattacks",
+      "link": "https://www.myjoyonline.com/a-hacker-that-doesnt-sleep-google-warns-of-autonomous-ai-cyberattacks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:47:39.000Z",
+      "summary": "Google has issued a stark warning that the threat landscape in cybersecurity has crossed a critical threshold, declaring that \"the era of autonomous attacks has arrived.\"",
+      "categories": [
+        "National",
+        "News",
+        "Technology",
+        "AI cyberattacks",
+        "Google",
+        "Hacker"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Black Challenge fine-tune preparations for Wednesday’s USA clash",
       "link": "https://www.myjoyonline.com/black-challenge-fine-tune-preparations-for-wednesdays-usa-clash/",
@@ -107,33 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "Black Meteors",
         "Desmond Ofei"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Delta broadens summer schedule with new and expanded weekend routes",
-      "link": "https://www.myjoyonline.com/delta-broadens-summer-schedule-with-new-and-expanded-weekend-routes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T19:59:39.000Z",
-      "summary": "Delta is expanding its summer 2027 schedule with seasonal service and additional weekend frequencies to popular leisure destinations across the U.S., Canada, Latin America and the…",
-      "categories": [
-        "Travel",
-        "Delta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: Late Oulai goal seals draw for Côte d’Ivoire against Gambia",
-      "link": "https://www.myjoyonline.com/afcon-2027q-late-oulai-goal-seals-draw-for-cote-divoire-against-gambia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T19:10:21.000Z",
-      "summary": "Christ Inao Oulai came off trench to score a last ditch equaliser to salvage a point for the Ivorians in a 2-2 draw.",
-      "categories": [
-        "Football",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Côte d’Ivoire",
-        "Gambia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
