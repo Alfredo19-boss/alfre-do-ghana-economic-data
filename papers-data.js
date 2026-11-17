@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T20:38:00.546Z",
+  "updated": "2026-11-17T20:48:31.104Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Challenge fine-tune preparations for Wednesday’s USA clash",
+      "link": "https://www.myjoyonline.com/black-challenge-fine-tune-preparations-for-wednesdays-usa-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:41:44.000Z",
+      "summary": "The Black Challenge booked their place in the knockout stage after thrashing Iraq 6-0 in their final Group D match to finish second with four points.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Amputee Football World Cup",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mexico"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Shatta Wale appeals to Shatta Michy to put differences aside for son Majesty",
       "link": "https://www.myjoyonline.com/shatta-wale-appeals-to-shatta-michy-to-put-differences-aside-for-son-majesty/",
@@ -118,18 +134,6 @@ window.GDC_PAPERS = {
         "2027 AFCON Qualifiers",
         "Côte d’Ivoire",
         "Gambia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adjei-Mensah Korsah calls for Rent Commissioner to be called to order over confrontational approach",
-      "link": "https://www.myjoyonline.com/adjei-mensah-korsah-calls-for-rent-commissioner-to-be-called-to-order-over-confrontational-approach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T18:59:00.000Z",
-      "summary": "Former Minister for Local Government, Decentralisation and Rural Development, Martin Adjei-Mensah Korsah, has criticised Rent Commissioner Frederick Opoku over videos showing him engaging…",
-      "categories": [
-        "National",
-        "Rent Commissioner"
       ],
       "site": "https://www.myjoyonline.com/"
     },
