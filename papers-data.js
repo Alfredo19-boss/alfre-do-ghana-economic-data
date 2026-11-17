@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:48:47.580Z",
+  "updated": "2026-11-17T12:58:45.924Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,39 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "2027 Budget: APL claims ‘contradictions’ over Western Corridor railway financing, other projects",
+      "link": "https://www.myjoyonline.com/2027-budget-apl-claims-contradictions-over-western-corridor-railway-financing-other-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:52:30.000Z",
+      "summary": "Policy think tank Africa Policy Lens (APL) says the 2027 Budget and the New Economy policy document give conflicting accounts of how the Western Corridor Railway from Takoradi to Nyinahin…",
+      "categories": [
+        "National",
+        "Politics"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘I sold four truckloads of cement daily’ – Dangote recalls humble business beginnings",
+      "link": "https://www.myjoyonline.com/i-sold-four-truckloads-of-cement-daily-dangote-recalls-humble-business-beginnings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:46:55.000Z",
+      "summary": "Africa’s richest man and Nigerian business magnate, Aliko Dangote, has recounted how he began his entrepreneurial journey in 1978, selling just four truckloads of cement daily and making…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Cement",
+        "Dangote"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Four arrested for impersonating National Security operatives to extort miners in Ashanti Region",
       "link": "https://www.myjoyonline.com/four-arrested-for-impersonating-national-security-operatives-to-extort-miners-in-ashanti-region/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T12:44:53.000Z",
       "summary": "Four suspected members of an organised criminal syndicate have been arrested for allegedly impersonating National Security operatives and extorting huge sums of money from small-scale…",
       "categories": [
+        "HP News 10",
         "Regional",
         "National Security"
       ],
@@ -40,7 +67,10 @@ window.GDC_PAPERS = {
       "summary": "Parliament is being asked to approve a whopping GH¢30 billion for the New Economy Programme in 2027 without being told which institution will spend the money or what it will be spent on…",
       "categories": [
         "National",
-        "Politics"
+        "Politics",
+        "Budget",
+        "new economy",
+        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -77,6 +107,7 @@ window.GDC_PAPERS = {
       "summary": "The Commission for the Control of INTERPOL’s Files (CCF) has questioned the necessity of a Red Notice issued for former Finance Minister Ken Ofori-Atta, noting that the Office of the…",
       "categories": [
         "National",
+        "Top Story",
         "Interpol",
         "Ken Ofori Atta",
         "OSP"
@@ -93,35 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Opinion",
         "Ghana Card"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "INTERPOL orders deletion of Ken Ofori-Atta’s data, cites political character of case",
-      "link": "https://www.myjoyonline.com/interpol-orders-deletion-of-ken-ofori-attas-data-cites-political-character-of-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:06:07.000Z",
-      "summary": "The Commission for the Control of INTERPOL's Files (CCF) has ordered the deletion of all information concerning former Finance Minister Ken Ofori-Atta from INTERPOL's databases, concluding…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Interpol",
-        "Ken Ofori Atta",
-        "OSP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "M.anifest gave me hope to stay true to the art in Ghana – Kwartengg",
-      "link": "https://www.myjoyonline.com/m-anifest-gave-me-hope-to-stay-true-to-the-art-in-ghana-kwartengg/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:52:22.000Z",
-      "summary": "Alternative musician Kwartengg says M.anifest inspired him to remain true to his craft while pursuing a music career in Ghana.",
-      "categories": [
-        "Music",
-        "Ghana",
-        "Kwartengg",
-        "M.anifest"
       ],
       "site": "https://www.myjoyonline.com/"
     },
