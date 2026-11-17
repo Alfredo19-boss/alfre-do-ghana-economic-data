@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T05:35:57.713Z",
+  "updated": "2026-11-17T05:56:28.336Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "The beacon of hope: Coach Opeele touts Andre Ayew as the man to rescue Ghana football",
+      "link": "https://www.myjoyonline.com/the-beacon-of-hope-coach-opeele-touts-andre-ayew-as-the-man-to-rescue-ghana-football/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T05:45:18.000Z",
+      "summary": "A growing call for change at the top of Ghana football is gaining momentum, with former Black Stars captain Andre “Dede” Ayew emerging as the people’s favourite to lead the Ghana Football…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Andre Ayew",
+        "GFA elections",
+        "Ghana",
+        "Isaac Opeele Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Agyinasare demands full disclosure of National Cathedral money",
       "link": "https://www.myjoyonline.com/agyinasare-demands-full-disclosure-of-national-cathedral-money/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T05:25:00.000Z",
       "summary": "Archbishop Charles Agyinasare has challenged those behind the National Cathedral project to open their financial records to public scrutiny, insisting that churches must know how…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "Cathedral",
@@ -115,19 +132,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Governor Asiama urges vigilance as MPC holds final 2026 meeting",
-      "link": "https://www.myjoyonline.com/governor-asiama-urges-vigilance-as-mpc-holds-final-2026-meeting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T04:56:00.000Z",
-      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), has cautioned against complacency as the Monetary Policy Committee (MPC) holds its final meeting for 2026.",
-      "categories": [
-        "National",
-        "Asiama",
-        "MPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NACOC arrests India-bound passenger over 58 suspected cocaine pellets at airport",
       "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-india-bound-passenger-with-58-suspected-cocaine-pellets-at-accra-airport.html",
       "source": "Daily Graphic",
@@ -148,6 +152,17 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "TitBest platforms for online dating in Ukraine: top services rankedle",
+      "link": "https://ghanaiantimes.com.gh/titbest-platforms-for-online-dating-in-ukraine-top-services-rankedle/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-16T16:57:36.000Z",
+      "summary": "The cross-border matchmaking ecosystem catering to singles exploring online dating in Ukraine encompasses two distinctly different technological models: high-turnover casual swipe apps and…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Royalhouse Spintex marks 15th anniversary with donation and health screening",
@@ -292,17 +307,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-16T07:39:09.000Z",
       "summary": "DREAMS FC delivered a timely boost with a stunning 2-1 victory over fellow strugglers Heart of Lions in Kpando on Saturday, securing just their second win of the 2026/27 Ghana Premier…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MTN FA Cup Round of 64 draw set for tomorrow",
-      "link": "https://ghanaiantimes.com.gh/mtn-fa-cup-round-of-64-draw-set-for-tomorrow/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T07:37:55.000Z",
-      "summary": "THE draw for the Round of 64 of the MTN FA Cup ’27 will be held tomorrow at the Ghana Football Association (GFA) Conference Room at 11 a.m. A total of 64 teams from the Premier League…",
       "categories": [
         "Sports"
       ],
