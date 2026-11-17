@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T06:55:57.543Z",
+  "updated": "2026-11-17T07:05:57.186Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Ghana exports to China under zero-tariff policy reach $290m",
+      "link": "https://www.ghanabusinessnews.com/2026/11/17/ghana-exports-to-china-under-zero-tariff-policy-reach-290m/",
+      "source": "Ghana Business News",
+      "published": "2026-11-17T06:57:01.000Z",
+      "summary": "Ghana's exports to China rose sharply following the implementation of China's zero-tariff policy, with imports from Ghana reaching $290 million in June 2026."
+    },
     {
       "title": "YOUR X’MAS SHOPPING STARTS THIS NOVEMBER WITH AGRIFAIR AND GEXPO",
       "link": "https://thehighstreetjournal.com/your-xmas-shopping-starts-this-november-with-agrifair-and-gexpo/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T12:30:00.000Z",
       "summary": "Trade between Ghana and Canada climbed 56 per cent in 2025, with both countries now seeking deeper cooperation in investment, industrial development and technology."
-    },
-    {
-      "title": "Ato Forson touts commercial agriculture as key to tackling youth unemployment",
-      "link": "https://www.myjoyonline.com/ato-forson-touts-commercial-agriculture-as-key-to-tackling-youth-unemployment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T12:24:26.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has described commercial agriculture as a major opportunity for tackling youth unemployment, saying large-scale farming could generate significant…"
     }
   ]
 };

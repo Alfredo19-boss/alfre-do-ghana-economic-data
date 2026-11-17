@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T06:55:59.476Z",
+  "updated": "2026-11-17T07:05:59.061Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "5-year presidential term must come with midterm polls – Akyem Muoso Chief",
+      "link": "https://ghanaiantimes.com.gh/5-year-presidential-term-must-come-with-midterm-polls-akyem-muoso-chief/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T07:00:16.000Z",
+      "summary": "THE Chief of Akyem Muoso, Osabarima Dr Owusu Beyeeman, has warned that extending the presidential and parliamentary terms of office from four to five years without introducing effective…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "WOMEC calls for domestic funding of maternal, child nutrition",
       "link": "https://ghanaiantimes.com.gh/womec-calls-for-domestic-funding-of-maternal-child-nutrition/",
@@ -146,17 +158,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Make early diagnosis of brain tumours affordable",
-      "link": "https://ghanaiantimes.com.gh/make-early-diagnosis-of-brain-tumours-affordable/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T06:10:04.000Z",
-      "summary": "THE high cost of diagnosing pineal region tumours, as highlighted by a senior neurosurgeon at the Greater Accra Regional Hospital, Dr Justice Asare, raises an important concern about access…",
-      "categories": [
-        "Editorial"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
