@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:36:00.339Z",
+  "updated": "2026-11-17T04:46:02.055Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 interest bill exceeds allocations to four job-creating ministries, says Amin Adam",
+      "link": "https://www.myjoyonline.com/2027-interest-bill-exceeds-allocations-to-four-job-creating-ministries-says-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T04:03:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana’s projected GH¢61 billion interest bill for 2027 exceeds the combined allocations to four ministries he identified as key to job…",
+      "categories": [
+        "Politics",
+        "2027 Budget",
+        "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "link": "https://www.myjoyonline.com/intel-sued-by-investors-after-pc-sales-slump-hits-share-price/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:42:00.000Z",
+      "summary": "Intel, the US chip giant, faces a shareholder lawsuit accusing it of hiding the severity of a slump in personal computer (PC) sales that caused its share price to plunge almost 29% in one…",
+      "categories": [
+        "Technology",
+        "Intel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "link": "https://www.myjoyonline.com/california-sues-openai-over-hugging-face-attack/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:34:00.000Z",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper…",
+      "categories": [
+        "Technology",
+        "Hugging Face hack",
+        "OpenAI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nvidia dismisses ‘Bring Jensen Back’ campaign as Trump backs effort to reinstate ex CEO",
+      "link": "https://www.myjoyonline.com/nvidia-dismisses-bring-jensen-back-campaign-as-trump-backs-effort-to-reinstate-ex-ceo-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:26:00.000Z",
+      "summary": "Nvidia has dismissed a campaign calling for the company's co-founder Jensen Huang to be handed back his job as allies, including US President Donald Trump, supported the effort.",
+      "categories": [
+        "International",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s public debt has jumped from $49bn to $65bn, says Amin Adam",
       "link": "https://www.myjoyonline.com/ghanas-public-debt-has-jumped-from-49bn-to-65bn-says-amin-adam/",
@@ -71,63 +122,6 @@ window.GDC_PAPERS = {
         "Football",
         "Real Madrid",
         "Vinicius jnr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Belgium’s Lukaku retires from internationals",
-      "link": "https://www.myjoyonline.com/belgiums-lukaku-retires-from-internationals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T02:13:00.000Z",
-      "summary": "Romelu Lukaku has retired from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
-      "categories": [
-        "Football",
-        "Belgium",
-        "Romelu Lukaku"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wirtz double helps Germany thrash Netherlands",
-      "link": "https://www.myjoyonline.com/wirtz-double-helps-germany-thrash-netherlands/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T02:02:00.000Z",
-      "summary": "Florian Wirtz scored twice as Germany thrashed the Netherlands in their final Nations League game - with both sides qualifying for the quarter-finals.",
-      "categories": [
-        "Football",
-        "Florian Wirtz",
-        "Germany",
-        "Netherlands"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Portugal boss responds to criticism from Ronaldo’s mum",
-      "link": "https://www.myjoyonline.com/portugal-boss-responds-to-criticism-from-ronaldos-mum/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T01:55:00.000Z",
-      "summary": "Jorge Jesus has responded to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
-      "categories": [
-        "Football",
-        "Cristiano Ronaldo",
-        "Jorge Jesus",
-        "Portugal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wontumi offers GH¢25m in fresh bid to end EXIM Bank prosecution",
-      "link": "https://www.myjoyonline.com/wontumi-offers-gh%c2%a225m-in-fresh-bid-to-end-exim-bank-prosecution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T01:16:43.000Z",
-      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has made a fresh proposal to the Attorney-General to pay GH¢25…",
-      "categories": [
-        "National",
-        "News",
-        "Chairman Wontumi",
-        "court",
-        "Exim Bank",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },

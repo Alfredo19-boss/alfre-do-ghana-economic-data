@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T04:35:57.980Z",
+  "updated": "2026-11-17T04:45:59.249Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "link": "https://www.myjoyonline.com/intel-sued-by-investors-after-pc-sales-slump-hits-share-price/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:42:00.000Z",
+      "summary": "Intel, the US chip giant, faces a shareholder lawsuit accusing it of hiding the severity of a slump in personal computer (PC) sales that caused its share price to plunge almost 29% in one…"
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "link": "https://www.myjoyonline.com/california-sues-openai-over-hugging-face-attack/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:34:00.000Z",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper…"
+    },
     {
       "title": "Customers report service outages at major US banks",
       "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-13T10:15:00.000Z",
       "summary": "Government plans to merge MIIF and GIIF into a Ghana Sovereign Wealth Fund to coordinate state investments, improve returns and provide equity financing for strategic infrastructure and…"
-    },
-    {
-      "title": "World Bank Group, Queen Máxima push financial health agenda for informal-sector workers",
-      "link": "https://www.myjoyonline.com/world-bank-group-queen-maxima-push-financial-health-agenda-for-informal-sector-workers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T09:55:23.000Z",
-      "summary": "The World Bank Group has convened Her Majesty Queen Máxima of the Netherlands, the United Nations Secretary-General’s Special Advocate for Financial Health (UNSGSA), alongside senior…"
-    },
-    {
-      "title": "Ghana Targets Poultry Expansion, Seeks to Close 500,000-tonne Fish Supply Gap",
-      "link": "https://thehighstreetjournal.com/ghana-targets-poultry-expansion-seeks-to-close-500000-tonne-fish-supply-gap/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T09:16:08.000Z",
-      "summary": "Government plans integrated poultry production and aquaculture clusters to reduce imports and strengthen domestic food supply."
     }
   ]
 };
