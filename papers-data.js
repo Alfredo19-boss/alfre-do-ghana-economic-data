@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:08:46.948Z",
+  "updated": "2026-11-17T15:13:46.791Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "COP31: It is time for adaptation finance to reach local communities – AbibiNsroma Foundation",
+      "link": "https://www.myjoyonline.com/cop31-it-is-time-for-adaptation-finance-to-reach-local-communities-abibinsroma-foundation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:07:29.000Z",
+      "summary": "AbibiNsroma Foundation is using its participation at the 31st United Nations Climate Change Conference (COP31) in Türkiye to amplify the voices, concerns and lived experiences of local…",
+      "categories": [
+        "National",
+        "AbibiNsroma Foundation",
+        "Adaptation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MIIF surpasses 2026 royalty target, records over GH¢9bn by October",
+      "link": "https://www.myjoyonline.com/miif-surpasses-2026-royalty-target-records-over-gh%c2%a29bn-by-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T15:05:36.000Z",
+      "summary": "The Chief Executive Officer of MIIF, Justina Nelson, announced this on Monday, November 16, 2026, at the Invest Ghana Summit 2026, held at the Kempinski Gold Coast Hotel in Accra.",
+      "categories": [
+        "Business",
+        "Mining",
+        "Invest Summit",
+        "Justina Nelson",
+        "MIIF",
+        "mineral royalty"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Four fake illegal mining taskforce members arrested in Nweneso, 4 others on the run",
       "link": "https://www.myjoyonline.com/four-fake-illegal-mining-taskforce-members-arrested-in-nweneso-4-others-on-the-run/",
       "source": "MyJoyOnline",
@@ -28,6 +57,7 @@ window.GDC_PAPERS = {
       "summary": "National Security operatives have arrested four members of an eight-man criminal syndicate accused of impersonating security personnel to extort large sums of money from small-scale miners…",
       "categories": [
         "Crime",
+        "HP News 2",
         "Illegal mining",
         "National Security",
         "Nweneso Number 2",
@@ -106,37 +136,6 @@ window.GDC_PAPERS = {
         "Lifestyle",
         "Bola Ray",
         "GQ Poland"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: Advocates urge funders to double clean air money for Africa, Asia and Latin America by COP32",
-      "link": "https://www.myjoyonline.com/cop31-advocates-urge-funders-to-double-clean-air-money-for-africa-asia-and-latin-america-by-cop32/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:50:48.000Z",
-      "summary": "Clean air advocates at COP31 have urged philanthropic funders to double their annual support for air quality initiatives in Africa, Latin America and parts of Asia, warning that inadequate…",
-      "categories": [
-        "Energy",
-        "International",
-        "Africa",
-        "Asia",
-        "Clean Air",
-        "cop 32",
-        "COP31",
-        "Latin America"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GreenFaith joins Make Polluters Pay coalition to honour Guterres for climate leadership",
-      "link": "https://www.myjoyonline.com/greenfaith-joins-make-polluters-pay-coalition-to-honour-guterres-for-climate-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:46:52.000Z",
-      "summary": "GreenFaith has joined the Make Polluters Pay International Coalition to honour United Nations Secretary-General António Guterres for his leadership in the global climate movement and his…",
-      "categories": [
-        "National",
-        "António Guterres",
-        "GreenFaith"
       ],
       "site": "https://www.myjoyonline.com/"
     },
