@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T03:55:58.822Z",
+  "updated": "2026-11-17T04:05:59.639Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,6 +32,20 @@ window.GDC_PAPERS = {
         "International",
         "Bank of America",
         "JP Morgan Chase"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "You cannot claim restructuring gains and fault repayments – Amin Adam challenges Forson",
+      "link": "https://www.myjoyonline.com/you-cannot-claim-restructuring-gains-and-fault-repayments-amin-adam-challenges-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T00:11:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has challenged Finance Minister Cassiel Ato Forson over his criticism of Ghana’s debt repayment schedule.",
+      "categories": [
+        "Politics",
+        "debt restructring",
+        "Dr Cassiel Ato Forson",
+        "Dr Mohammed Amin Adam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -118,20 +132,6 @@ window.GDC_PAPERS = {
         "Politics",
         "debt restructring",
         "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three fire tenders deployed as fire hits Tema Community 1 Market",
-      "link": "https://www.myjoyonline.com/three-fire-tenders-deployed-as-fire-hits-tema-community-1-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:01:00.000Z",
-      "summary": "Firefighters are battling to contain a fire outbreak at the Tema Community 1 Market, near the Community 1 Police Station.",
-      "categories": [
-        "HP News 1",
-        "News",
-        "Fire",
-        "Tema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
