@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T14:34:13.846Z",
+  "updated": "2026-11-17T14:43:44.687Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
+      "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:33:10.000Z",
+      "summary": "Cnergy Global Holdings has stated that though Ghana’s economic output has expanded strongly, productive capacity has not been matched by the capacity to finance growth, withstand external…"
+    },
     {
       "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
       "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T05:05:00.000Z",
       "summary": "A private-sector investment model that allows individuals, existing trotro owners and small investors to finance professionally managed intra-city bus fleets could reshape public transport…"
-    },
-    {
-      "title": "Gov’t to Secure $500 Million Oil Palm Financing to Create 250,000 Jobs",
-      "link": "https://thehighstreetjournal.com/ghana-to-secure-500mn-oil-palm-financing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:03:00.000Z",
-      "summary": "The programme will support the development of new oil palm plantations across the Western, Central, Eastern, Volta and Ashanti regions"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:34:16.963Z",
+  "updated": "2026-11-17T14:43:46.993Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
+      "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:33:10.000Z",
+      "summary": "Cnergy Global Holdings has stated that though Ghana’s economic output has expanded strongly, productive capacity has not been matched by the capacity to finance growth, withstand external…",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "Cynergy Global",
+        "GDP",
+        "HDI",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
       "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
@@ -95,6 +112,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T14:07:32.000Z",
       "summary": "The detained Member of Parliament for Asante Akim North, Ohene Kwame Frimpong, has agreed not to challenge his extradition from the Netherlands to the United States, a member of his legal…",
       "categories": [
+        "HP News 8",
         "National",
         "Asante Akim North",
         "extradition",
@@ -121,19 +139,6 @@ window.GDC_PAPERS = {
     {
       "title": "Ablakwa offers reward for information on Ghanaian woman allegedly assaulted in Iraq",
       "link": "https://www.myjoyonline.com/ablakwa-offers-reward-for-information-on-ghanaian-woman-allegedly-assaulted-in-iraq/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:53:45.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has announced a reward for anyone who provides credible information to help identify and locate a Ghanaian woman believed to have been…",
-      "categories": [
-        "National",
-        "Iraq",
-        "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa offers handsome reward for information on Ghanaian woman allegedly assaulted in Iraq",
-      "link": "https://www.myjoyonline.com/ablakwa-offers-handsome-reward-for-information-on-ghanaian-woman-allegedly-assaulted-in-iraq/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:53:45.000Z",
       "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has announced a reward for anyone who provides credible information to help identify and locate a Ghanaian woman believed to have been…",
