@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T01:06:23.023Z",
+  "updated": "2026-11-17T02:45:59.403Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "Customers report service outages at major US banks",
       "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T01:01:49.000Z",
+      "published": "2026-11-17T00:22:49.000Z",
       "summary": "Thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, have reported trouble accessing services.",
       "categories": [
         "Banking and Finance",
