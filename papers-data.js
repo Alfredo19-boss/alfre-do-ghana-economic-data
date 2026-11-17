@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:19:15.547Z",
+  "updated": "2026-11-17T12:28:45.980Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Unapproved rice imports threaten Ghana’s local rice industry, CSIR-CRI director warns",
+      "link": "https://www.myjoyonline.com/unapproved-rice-imports-threaten-ghanas-local-rice-industry-csir-cri-director-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:23:11.000Z",
+      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, has identified the…",
+      "categories": [
+        "National",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Facilities charging NHIS patients illegally risk prosecution – NHIA boss",
+      "link": "https://www.myjoyonline.com/facilities-charging-nhis-patients-illegally-risk-prosecution-nhia-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:20:53.000Z",
+      "summary": "The Chief Executive of the National Health Insurance Authority (NHIA), Dr Victor Bampoe, has warned health facilities that continue to charge NHIS cardholders illegally could face…",
+      "categories": [
+        "National",
+        "Dr Victor Bampoe",
+        "NHIA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "INTERPOL questions need for Ofori-Atta Red Notice, says OSP knew his US location",
+      "link": "https://www.myjoyonline.com/interpol-questions-need-for-ofori-atta-red-notice-says-osp-knew-his-us-location/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:19:18.000Z",
+      "summary": "The Commission for the Control of INTERPOL’s Files (CCF) has questioned the necessity of a Red Notice issued for former Finance Minister Ken Ofori-Atta, noting that the Office of the…",
+      "categories": [
+        "National",
+        "Interpol",
+        "Ken Ofori Atta",
+        "OSP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Why news of over 5,000 businesses offering customers credit through their Ghana Cards is game-changing",
       "link": "https://www.myjoyonline.com/why-news-of-over-5000-businesses-offering-customers-credit-through-their-ghana-cards-is-game-changing/",
@@ -40,6 +79,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-17T12:06:07.000Z",
       "summary": "The Commission for the Control of INTERPOL's Files (CCF) has ordered the deletion of all information concerning former Finance Minister Ken Ofori-Atta from INTERPOL's databases, concluding…",
       "categories": [
+        "HP News 6",
         "National",
         "Interpol",
         "Ken Ofori Atta",
@@ -107,19 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Timothy Bentum announces five-year anti-drug tour targeting 252 SHSs across Ghana",
-      "link": "https://www.myjoyonline.com/timothy-bentum-announces-five-year-anti-drug-tour-targeting-252-shss-across-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:39:07.000Z",
-      "summary": "Media personality and Lead Pastor of Grace Avenue Ministry, Timothy Bentum, has announced a five-year anti-drug abuse campaign targeting 252 senior high schools across Ghana's 16 regions to…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Timothy Bentum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Minority demands full disclosure as US$60.68m Falcon 6X presidential jet arrives",
       "link": "https://www.graphic.com.gh/news/general-news/minority-demands-full-disclosure-as-us-60-68m-falcon-6x-presidential-jet-arrives.html",
       "source": "Daily Graphic",
@@ -129,34 +156,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Timothy Bentum urges parents to be actively involved in children’s lives to prevent drug abuse",
-      "link": "https://www.myjoyonline.com/timothy-bentum-urges-parents-to-be-actively-involved-in-childrens-lives-to-prevent-drug-abuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:30:15.000Z",
-      "summary": "Media personality and Lead Pastor of Grace Avenue Ministry, Timothy Bentum, has urged parents to become more actively involved in their children's lives beyond providing financial support…",
-      "categories": [
-        "National",
-        "Children",
-        "Drug Abuse",
-        "Timothy Bentum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Invest in Ghana, produce here and grow” – Ato Forson Urges Investors",
-      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-ato-forson-urges-investors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:29:45.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has called on local and international investors to commit resources to businesses in Ghana, stressing the need to translate investment opportunities…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Ghana",
-        "Investors"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "See the inside of Ghana’s new $60.68 million presidential aircraft, the Dassault Falcon 6X",
