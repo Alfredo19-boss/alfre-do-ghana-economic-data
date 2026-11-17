@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T11:49:15.772Z",
+  "updated": "2026-11-17T11:58:50.365Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "M.anifest gave me hope to stay true to the art in Ghana – Kwartengg",
+      "link": "https://www.myjoyonline.com/m-anifest-gave-me-hope-to-stay-true-to-the-art-in-ghana-kwartengg/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:52:22.000Z",
+      "summary": "Alternative musician Kwartengg says M.anifest inspired him to remain true to his craft while pursuing a music career in Ghana.",
+      "categories": [
+        "Music",
+        "Ghana",
+        "Kwartengg",
+        "M.anifest"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A New Economy, Old Headaches and Afenyo’s Budget Fever!",
+      "link": "https://www.myjoyonline.com/a-new-economy-old-headaches-and-afenyos-budget-fever/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:50:34.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, a Finance Minister announced that he was expecting a New Economy. It was supposed to be a bouncing economic baby, conceived in the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
+      "link": "https://www.graphic.com.gh/news/general-news/asante-gold-regalia-to-remain-in-kumasi-as-uk-museums-extend-loan-agreements.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T11:42:58.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Konongo traffic gridlock: Motorists lose hours as authorities promise relief in 3 weeks",
       "link": "https://www.myjoyonline.com/konongo-traffic-gridlock-motorists-lose-hours-as-authorities-promise-relief-in-3-weeks/",
@@ -46,6 +82,17 @@ window.GDC_PAPERS = {
         "Timothy Bentum"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority demands full disclosure as US$60.68m Falcon 6X presidential jet arrives",
+      "link": "https://www.graphic.com.gh/news/general-news/minority-demands-full-disclosure-as-us-60-68m-falcon-6x-presidential-jet-arrives.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T11:31:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Timothy Bentum urges parents to be actively involved in children’s lives to prevent drug abuse",
@@ -102,42 +149,6 @@ window.GDC_PAPERS = {
         "Don Little",
         "Kumasi",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian farmers losing confidence in rice farming – CSIR-CRI Chief Scientist",
-      "link": "https://www.myjoyonline.com/ghanaian-farmers-losing-confidence-in-rice-farming-csir-cri-chief-scientist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:09:46.000Z",
-      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says Ghanaian farmers…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 3",
-        "HP News 8",
-        "National",
-        "News",
-        "CSIR",
-        "Rice Production"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Otumfuo pushes for creative industry investment to boost Ghana’s economy",
-      "link": "https://www.myjoyonline.com/otumfuo-pushes-for-creative-industry-investment-to-boost-ghanas-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:06:59.000Z",
-      "summary": "The Asantehene, Otumfuo Osei Tutu II, has called for increased investment in Ghana’s creative industry, identifying its potential to generate employment, create wealth and drive economic…",
-      "categories": [
-        "Art & Design",
-        "Arts and Culture",
-        "HP Entertainment 2",
-        "National",
-        "Creative Industry",
-        "Economy",
-        "Ghana",
-        "Otumfuo"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -201,28 +212,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-invest-in-ghana-summit-president-urges-investors-to-tap-nations-new-economy.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T09:27:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dangote eyes Ghana sugar, cocoa plants: Each project to create 50,000 jobs - Urges Africans to invest at home",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dangote-eyes-ghana-sugar-cocoa-plants-each-project-to-create-50-000-jobs-urges-africans-to-invest-at-home.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T09:11:05.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President inaugurates cashew processing factory at Tuobodom",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-inaugurates-cashew-processing-factory-at-tuobodom.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T08:56:02.000Z",
       "summary": "",
       "categories": [
         "General News"
