@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T06:35:59.044Z",
+  "updated": "2026-11-17T06:46:03.080Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nation’s digital health drive faces major hurdles • Assessment identifies poor coordination, funding gaps",
+      "link": "https://ghanaiantimes.com.gh/nations-digital-health-drive-faces-major-hurdles-assessment-identifies-poor-coordination-funding-gaps/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:43:51.000Z",
+      "summary": "GHANA’S efforts to transform healthcare delivery through digital technology are being hampered by poor coordination among service providers, inadequate funding, weak infrastructure and gaps…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Somalia wins enough ‘motivation’ for Black Stars ahead of final two games – Ati Zigi",
+      "link": "https://www.myjoyonline.com/afcon-2027q-somalia-wins-enough-motivation-for-black-stars-ahead-of-final-two-games-ati-zigi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T06:43:30.000Z",
+      "summary": "Ghana recorded their first back-to-back wins in over a year following their victory over Somalia on Monday with Jordan Ayew scoring from the penalty box.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Lawrence Ati-Zigi",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Korean Embassy, companies support Osu Children’s Home",
+      "link": "https://ghanaiantimes.com.gh/korean-embassy-companies-support-osu-childrens-home/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:39:50.000Z",
+      "summary": "THE Embassy of the Republic of Korea in Ghana, in partnership with Korean companies, has donated essential items to the Osu Children’s Home in Accra to improve the welfare and living…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: We did better than first game – Kim Lars Bjorkegren",
+      "link": "https://www.myjoyonline.com/afcon-2027q-we-did-better-than-first-game-kim-lars-bjorkegren/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T06:39:42.000Z",
+      "summary": "The Black Stars recorded their first back-to-back wins in over a year following their victory over Somalia on Monday.",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Kim Lars Bjorkegren",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Farmer-herder conflict threatens Ghana’s security – Prof. Aning",
       "link": "https://ghanaiantimes.com.gh/farmer-herder-conflict-threatens-ghanas-security-prof-aning/",
@@ -176,32 +233,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Oti Regional Minister highlights government development projects",
-      "link": "https://www.myjoyonline.com/oti-regional-minister-highlights-government-development-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:13:00.000Z",
-      "summary": "The government has set a target to process 100 per cent of Ghana’s cocoa locally by 2030 as part of efforts to deepen value addition, expand agro-processing and retain more economic…",
-      "categories": [
-        "National",
-        "Government",
-        "Oti Regional Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana exports to China surge under zero-tariff policy",
-      "link": "https://www.myjoyonline.com/ghana-exports-to-china-surge-under-zero-tariff-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:10:00.000Z",
-      "summary": "Ghana’s exports to China rose sharply following the implementation of China’s zero-tariff policy, with imports from Ghana reaching US$290 million in June 2026.",
-      "categories": [
-        "National",
-        "China",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NACOC arrests India-bound passenger over 58 suspected cocaine pellets at airport",
       "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-india-bound-passenger-with-58-suspected-cocaine-pellets-at-accra-airport.html",
       "source": "Daily Graphic",
@@ -222,17 +253,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "TitBest platforms for online dating in Ukraine: top services rankedle",
-      "link": "https://ghanaiantimes.com.gh/titbest-platforms-for-online-dating-in-ukraine-top-services-rankedle/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T16:57:36.000Z",
-      "summary": "The cross-border matchmaking ecosystem catering to singles exploring online dating in Ukraine encompasses two distinctly different technological models: high-turnover casual swipe apps and…",
-      "categories": [
-        "Technology"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Royalhouse Spintex marks 15th anniversary with donation and health screening",
@@ -266,18 +286,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Crucial hurdle for Black Challenge as they face Iraq in final group game",
-      "link": "https://ghanaiantimes.com.gh/crucial-hurdle-for-black-challenge-as-they-face-iraq-in-final-group-game/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T14:53:24.000Z",
-      "summary": "The two-time African champions take on Iraq on Monday, November 16, in their final Group D game at the 2026 WAFF Amputee Football World Cup in Mexico — and only a win will keep their hopes…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Two dead from Monday morning crash at Buduburam",
