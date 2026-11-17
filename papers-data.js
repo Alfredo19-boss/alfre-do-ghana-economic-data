@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:26:27.371Z",
+  "updated": "2026-11-17T04:36:00.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s public debt has jumped from $49bn to $65bn, says Amin Adam",
+      "link": "https://www.myjoyonline.com/ghanas-public-debt-has-jumped-from-49bn-to-65bn-says-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T03:17:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana’s public debt has risen from $49 billion at the end of 2024 to $65 billion in October 2026.",
+      "categories": [
+        "Politics",
+        "Dr Mohammed Amin Adam",
+        "Public Debt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amin Adam accuses Finance Minister of heavy borrowing as debt rises GH¢118bn",
+      "link": "https://www.myjoyonline.com/amin-adam-accuses-finance-minister-of-heavy-borrowing-as-debt-rises-gh%c2%a2118bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T02:52:00.000Z",
+      "summary": "Former Finance Minister in the Akufo-Addo administration, Dr Mohammed Amin Adam, has accused Finance Minister Cassiel Ato Forson of heavy borrowing.",
+      "categories": [
+        "Politics",
+        "Dr Cassiel Ato Forson",
+        "Dr Mohammed Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cameroon, Senegal and Benin close in on AFCON 2027 qualification",
       "link": "https://www.myjoyonline.com/cameroon-senegal-and-benin-close-in-on-afcon-2027-qualification/",
@@ -102,35 +128,6 @@ window.GDC_PAPERS = {
         "court",
         "Exim Bank",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Customers report service outages at major US banks",
-      "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T00:22:49.000Z",
-      "summary": "Thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, have reported trouble accessing services.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "International",
-        "Bank of America",
-        "JP Morgan Chase"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "You cannot claim restructuring gains and fault repayments – Amin Adam challenges Forson",
-      "link": "https://www.myjoyonline.com/you-cannot-claim-restructuring-gains-and-fault-repayments-amin-adam-challenges-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T00:11:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has challenged Finance Minister Cassiel Ato Forson over his criticism of Ghana’s debt repayment schedule.",
-      "categories": [
-        "Politics",
-        "debt restructring",
-        "Dr Cassiel Ato Forson",
-        "Dr Mohammed Amin Adam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
