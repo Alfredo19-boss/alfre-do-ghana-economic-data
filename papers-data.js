@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T08:25:57.898Z",
+  "updated": "2026-11-17T11:29:16.278Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,34 +21,220 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NADKANSCO commissions 100-tonne-per-day cashew processing factory in Bono East, boosting Ghana’s value-addition drive",
-      "link": "https://www.myjoyonline.com/nadkansco-commissions-100-tonne-per-day-cashew-processing-factory-in-bono-east-boosting-ghanas-value-addition-drive/",
+      "title": "Ghanaian rice quality has improved significantly – CSIR-CRI Chief Director",
+      "link": "https://www.myjoyonline.com/ghanaian-rice-quality-has-improved-significantly-csir-cri-chief-director/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T08:16:59.000Z",
-      "summary": "NADKANSCO Processing Limited has officially commissioned its modern cashew processing factory at Tuobodom in the Techiman North District of the Bono East Region, marking a significant…",
+      "published": "2026-11-17T11:24:09.000Z",
+      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says the quality of…",
       "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 6",
         "National",
-        "Bono East",
-        "Cashew",
-        "NADKANSCO"
+        "cri",
+        "CSIR",
+        "Ghana Rice",
+        "Prof. Maxwell Darko Asante",
+        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Today’s Front pages: Tuesday, November 17, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-17-2026/",
+      "title": "Don Little accuses female police officer of verbal abuse during encounter in Kumasi",
+      "link": "https://www.myjoyonline.com/don-little-accuses-female-police-officer-of-verbal-abuse-during-encounter-in-kumasi/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T08:15:58.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "published": "2026-11-17T11:23:06.000Z",
+      "summary": "Ghanaian actor Don Little has expressed anger and disappointment towards the Ghana Police Service following an alleged unpleasant encounter with a female police officer at Kumasi Breman.",
       "categories": [
-        "In Focus",
         "National",
-        "Newspaper Front pages"
+        "Don Little",
+        "Kumasi",
+        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian farmers losing confidence in rice farming – CSIR-CRI Chief Scientist",
+      "link": "https://www.myjoyonline.com/ghanaian-farmers-losing-confidence-in-rice-farming-csir-cri-chief-scientist/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:09:46.000Z",
+      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says Ghanaian farmers…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 3",
+        "HP News 8",
+        "National",
+        "News",
+        "CSIR",
+        "Rice Production"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Otumfuo pushes for creative industry investment to boost Ghana’s economy",
+      "link": "https://www.myjoyonline.com/otumfuo-pushes-for-creative-industry-investment-to-boost-ghanas-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:06:59.000Z",
+      "summary": "The Asantehene, Otumfuo Osei Tutu II, has called for increased investment in Ghana’s creative industry, identifying its potential to generate employment, create wealth and drive economic…",
+      "categories": [
+        "Art & Design",
+        "Arts and Culture",
+        "HP Entertainment 2",
+        "National",
+        "Creative Industry",
+        "Economy",
+        "Ghana",
+        "Otumfuo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KGL Group’s Alex Apau Dadey wins top honour at Ghana CEO Vision and Awards",
+      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-wins-top-honour-at-ghana-ceo-vision-and-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:48:25.000Z",
+      "summary": "Alex Apau Dadey, Executive Chairman and Group Chief Executive Officer of KGL Group, has been named CEO of CEOs at the fifth Ghana CEO Vision and Awards, where 39 corporate leaders were…",
+      "categories": [
+        "Events",
+        "Alex Apau Dadey",
+        "ceo awards",
+        "ceo of ceos",
+        "KGL Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tourism Authority shuts down over 20 hotels, restaurants in Ashanti Region over licensing violations",
+      "link": "https://www.myjoyonline.com/tourism-authority-shuts-down-over-20-hotels-restaurants-in-ashanti-region-over-licensing-violations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:44:21.000Z",
+      "summary": "The Ghana Tourism Authority (GTA) has shut down more than 20 hotels and restaurants operating within the Kumasi and Konongo enclaves in the Ashanti Region for operating without valid…",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "HP News 5",
+        "National",
+        "News",
+        "Ashanti Region",
+        "Hotel",
+        "Restaurants",
+        "Tourism Authority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Family celebrates life of late Abusuapanin Simeon Clement Opong, popularly known as Yaw Manu",
+      "link": "https://www.myjoyonline.com/family-celebrates-life-of-late-abusuapanin-simeon-clement-opong-popularly-known-as-yaw-manu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:43:59.000Z",
+      "summary": "AGED 94 CHIEF MOURNERS: Abusuapanin Nana Yaw Amo, Dr K.K. Kankam, Mr Osei Kwabena, Mr Dick Opong WIDOW: Mrs Doreen Opong CHILDREN: Michael, Richard, Evelyn [Brandful], Andrew, Dorothy…",
+      "categories": [
+        "Obituary",
+        "Abusuapanin Simeon Clement Opong",
+        "Yaw Manu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "See the inside of Ghana’s new $60.68 million presidential aircraft, the Dassault Falcon 6X",
+      "link": "https://www.graphic.com.gh/news/general-news/see-the-inside-of-ghanas-new-60-68-million-presidential-aircraft-the-dassault-falcon-6x.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T10:35:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "PwC urges Fiscal and Monetary Policy balance to sustain Ghana’s economic stability",
+      "link": "https://www.myjoyonline.com/pwc-urges-fiscal-and-monetary-policy-balance-to-sustain-ghanas-economic-stability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:30:23.000Z",
+      "summary": "PwC Country Senior Partner, George Arhin, has urged government to maintain a careful balance between fiscal and monetary policies to sustain Ghana’s improving economic stability while…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "George Arhin",
+        "PwC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "8 Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "link": "https://www.graphic.com.gh/news/general-news/nigerians-among-12-suspects-arrested-in-4-5m-canada-luxury-car-theft-syndicate.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T10:15:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Eight Ghanaian seafarers freed from Iranian detention back home in Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/iran-releases-eight-ghanaian-seafarers-ablakwa-pledges-compensation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T10:03:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "BoG assesses 2027 budget implications for inflation, cedi stability",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bog-assesses-2027-budget-implications-for-inflation-cedi-stability.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T09:34:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Audit Service to launch e-tracker",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-audit-service-to-launch-e-tracker.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T09:31:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Invest in Ghana summit: President urges investors to tap nation’s New Economy",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-invest-in-ghana-summit-president-urges-investors-to-tap-nations-new-economy.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T09:27:42.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dangote eyes Ghana sugar, cocoa plants: Each project to create 50,000 jobs - Urges Africans to invest at home",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dangote-eyes-ghana-sugar-cocoa-plants-each-project-to-create-50-000-jobs-urges-africans-to-invest-at-home.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T09:11:05.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President inaugurates cashew processing factory at Tuobodom",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-inaugurates-cashew-processing-factory-at-tuobodom.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T08:56:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Relief and Aid International invests in 16 students",
@@ -107,31 +293,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "No open-chest surgery: How Korle Bu doctors saved a 14-year-old with a groundbreaking procedure",
-      "link": "https://www.graphic.com.gh/news/general-news/no-open-chest-surgery-how-korle-bu-doctors-saved-a-14-year-old-with-a-groundbreaking-procedure.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T08:03:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Customs Commissioner directs ports to detain right-hand-drive vehicles without import permits",
-      "link": "https://www.myjoyonline.com/customs-commissioner-directs-ports-to-detain-right-hand-drive-vehicles-without-import-permits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T08:00:14.000Z",
-      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has directed all ports and stations across the country not to process or release right-hand steering vehicles unless importers…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Customs Division of GRA",
-        "Right-hand drive vehicle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Govt cracks down on illegal billboards",
       "link": "https://ghanaiantimes.com.gh/govt-cracks-down-on-illegal-billboards/",
       "source": "Ghanaian Times",
@@ -164,167 +325,6 @@ window.GDC_PAPERS = {
         "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Amputee World Cup: Black Challenge thrash Iraq to secure Round of 16 spot at Amputee World Cup",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-thrash-iraq-to-secure-round-of-16-spot-at-amputee-world-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T07:31:33.000Z",
-      "summary": "Ghana headed into the encounter desperately needing a convincing victory to boost their chances of progressing to the knockout stage after suffering a 2-0 defeat to Angola and playing out a…",
-      "categories": [
-        "Football",
-        "HP News 9",
-        "HP Sports 2",
-        "National",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Ghana",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: Somalia wins enough ‘motivation’ for Black Stars ahead of final two games – Ati Zigi",
-      "link": "https://www.myjoyonline.com/afcon-2027q-somalia-wins-enough-motivation-for-black-stars-ahead-of-final-two-games-ati-zigi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T06:43:30.000Z",
-      "summary": "Ghana recorded their first back-to-back wins in over a year following their victory over Somalia on Monday with Jordan Ayew scoring from the penalty box.",
-      "categories": [
-        "Football",
-        "HP News 8",
-        "HP Sports 1",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Lawrence Ati-Zigi",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: We did better than first game – Kim Lars Bjorkegren",
-      "link": "https://www.myjoyonline.com/afcon-2027q-we-did-better-than-first-game-kim-lars-bjorkegren/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T06:39:42.000Z",
-      "summary": "The Black Stars recorded their first back-to-back wins in over a year following their victory over Somalia on Monday.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Kim Lars Bjorkegren",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana wins two ITU seats in Doha: what the victories mean for the country’s digital future",
-      "link": "https://www.myjoyonline.com/ghana-wins-two-itu-seats-in-doha-what-the-victories-mean-for-the-countrys-digital-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T06:25:58.000Z",
-      "summary": "Ghana left the ITU Plenipotentiary Conference in Doha, Qatar, with two elected seats. It was re-elected to the ITU Council for the 2027 to 2030 term, alongside 12 other African countries.",
-      "categories": [
-        "National",
-        "Technology",
-        "Doha",
-        "ITU Plenipotentiary Conference"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The beacon of hope: Coach Opeele touts Andre Ayew as the man to rescue Ghana football",
-      "link": "https://www.myjoyonline.com/the-beacon-of-hope-coach-opeele-touts-andre-ayew-as-the-man-to-rescue-ghana-football/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:45:18.000Z",
-      "summary": "A growing call for change at the top of Ghana football is gaining momentum, with former Black Stars captain Andre “Dede” Ayew emerging as the people’s favourite to lead the Ghana Football…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Andre Ayew",
-        "GFA elections",
-        "Ghana",
-        "Isaac Opeele Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC arrests India-bound passenger over 58 suspected cocaine pellets at airport",
-      "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-india-bound-passenger-with-58-suspected-cocaine-pellets-at-accra-airport.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T17:26:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES warns public against fake teacher recruitment links, says portal remains closed",
-      "link": "https://www.graphic.com.gh/news/general-news/ges-warns-public-against-fake-teacher-recruitment-links-says-portal-remains-closed.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T17:06:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Royalhouse Spintex marks 15th anniversary with donation and health screening",
-      "link": "https://www.graphic.com.gh/news/general-news/royalhouse-spintex-marks-15th-anniversary-with-donation-and-health-screening.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T16:17:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Afia Schwarzenegger handed 63-day sentence over Sammy Gyamfi defamation",
-      "link": "https://www.graphic.com.gh/news/general-news/afia-schwarzenegger-handed-63-day-sentence-over-sammy-gyamfi-defamation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T15:52:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana replaces ageing presidential jet with US$60.68m Falcon 6X",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-replaces-ageing-presidential-jet-with-us-60-68m-falcon-6x.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T15:18:30.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two dead from Monday morning crash at Buduburam",
-      "link": "https://www.graphic.com.gh/news/general-news/two-dead-from-monday-morning-crash-at-buduburam.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T13:42:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Your currency will never be stable if you are an importer': Dangote's bold message to Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/your-currency-will-never-be-stable-if-you-are-an-importer-dangotes-bold-message-to-ghana.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-16T13:03:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T08:25:55.744Z",
+  "updated": "2026-11-17T11:29:14.269Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,58 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghanaian farmers losing confidence in rice farming – CSIR-CRI Chief Scientist",
+      "link": "https://www.myjoyonline.com/ghanaian-farmers-losing-confidence-in-rice-farming-csir-cri-chief-scientist/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:09:46.000Z",
+      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says Ghanaian farmers…"
+    },
+    {
+      "title": "Gov’t Begins Performance Review of 261 MMDCEs, Sets December Deadline for Presidential Report",
+      "link": "https://thehighstreetjournal.com/govt-begins-performance-review-of-261-mmdces-sets-december-deadline-for-presidential-report/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T11:04:04.000Z",
+      "summary": "Government has begun evaluating all 261 MMDCEs, using a weighted framework covering development delivery (35%), revenue mobilisation (20%), accountability and citizen satisfaction, with…"
+    },
+    {
+      "title": "Tourism Authority shuts down over 20 hotels, restaurants in Ashanti Region over licensing violations",
+      "link": "https://www.myjoyonline.com/tourism-authority-shuts-down-over-20-hotels-restaurants-in-ashanti-region-over-licensing-violations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:44:21.000Z",
+      "summary": "The Ghana Tourism Authority (GTA) has shut down more than 20 hotels and restaurants operating within the Kumasi and Konongo enclaves in the Ashanti Region for operating without valid…"
+    },
+    {
+      "title": "PwC urges Fiscal and Monetary Policy balance to sustain Ghana’s economic stability",
+      "link": "https://www.myjoyonline.com/pwc-urges-fiscal-and-monetary-policy-balance-to-sustain-ghanas-economic-stability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T10:30:23.000Z",
+      "summary": "PwC Country Senior Partner, George Arhin, has urged government to maintain a careful balance between fiscal and monetary policies to sustain Ghana’s improving economic stability while…"
+    },
+    {
+      "title": "The $10Bn New Economy Paradox: Big on Paper and Speeches, But Small in Research & Dev’t Allocation",
+      "link": "https://thehighstreetjournal.com/the-10bn-new-economy-paradox-big-on-paper-and-speeches-but-small-in-research-devt-allocation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T10:00:00.000Z",
+      "summary": "IMANI's Sitsofe Mensah warns Ghana's $10 billion New Economy risks falling short as research funding remains below 0.1% of GDP, undermining the scientific, technological and innovation…"
+    },
+    {
+      "title": "Beyond the Celebration: Did Mfantsipim’s 150th Anniversary Pump Millions into Cape Coast?",
+      "link": "https://thehighstreetjournal.com/beyond-the-celebration-did-mfantsipims-150th-anniversary-pump-millions-into-cape-coast/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T09:40:00.000Z",
+      "summary": "What other Ghanaian towns can learn from a school anniversary that may have generated millions of cedis in local spending."
+    },
+    {
+      "title": "Wontumi Reportedly Offers GH¢25 Mn for a “No Conviction” in Exim Bank Case: But What Does the Law Say?",
+      "link": "https://thehighstreetjournal.com/wontumi-reportedly-offers-gh%c2%a225-mn-for-a-no-conviction-in-exim-bank-case-but-what-does-the-law-say/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T09:09:01.000Z",
+      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has reportedly made a fresh proposal to the Attorney-General to pay…"
+    },
     {
       "title": "NADKANSCO commissions 100-tonne-per-day cashew processing factory in Bono East, boosting Ghana’s value-addition drive",
       "link": "https://www.myjoyonline.com/nadkansco-commissions-100-tonne-per-day-cashew-processing-factory-in-bono-east-boosting-ghanas-value-addition-drive/",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-13T16:15:53.000Z",
       "summary": "Ghana risks importing potable water as rivers face increasing pollution from mercury used in artisanal and small-scale mining, with miners struggling to afford mercury-free gold processing…"
-    },
-    {
-      "title": "Customs intercepts concealed textiles and 10 motorbikes at Techiman checkpoint",
-      "link": "https://www.myjoyonline.com/customs-intercepts-concealed-textiles-and-10-motorbikes-at-techiman-checkpoint/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T16:05:23.000Z",
-      "summary": "Officers of the Customs Division at Techiman have intercepted 97 bales of imitation wax prints and 10 unpacked Yamaha Aerox motorbikes concealed in a Burkina Faso-registered cargo truck at…"
-    },
-    {
-      "title": "Ghana Energy Awards’ 2025 Energy Personalities take EPOP to three Western Region schools",
-      "link": "https://www.myjoyonline.com/ghana-energy-awards-2025-energy-personalities-take-epop-to-three-western-region-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T15:38:28.000Z",
-      "summary": "The Energy Personalities Outreach Programme (EPOP), a flagship educational and mentorship initiative of the prestigious Ghana Energy Awards, will, for the first time in its eight-year…"
-    },
-    {
-      "title": "IMF praises economy, says macroeconomic stability is now becoming entrenched",
-      "link": "https://www.myjoyonline.com/imf-praises-economy-says-macroeconomic-stability-is-now-becoming-entrenched/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T14:12:59.000Z",
-      "summary": "According to the Director of Communications, Julie Kozack, Ghana’s macroeconomic stability is now becoming entrenched, with the indicators pointing in the right direction."
-    },
-    {
-      "title": "Ghana-Canada strengthens economic partnership as bilateral trade rises 56% to $752m in 2025",
-      "link": "https://www.myjoyonline.com/ghana-canada-strengthens-economic-partnership-as-bilateral-trade-rises-56-to-752m-in-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-13T13:40:21.000Z",
-      "summary": "Ghana and Canada are seeking to deepen their economic partnership and expand investment opportunities following a 56 per cent increase in bilateral trade, which reached US$752 million in…"
-    },
-    {
-      "title": "Open Letter to The IGP Over Abandoned Transit Truck Parked Over 2 Months",
-      "link": "https://thehighstreetjournal.com/open-letter-to-the-igp-over-abandoned-transit-truck-parked-over-2-months/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T13:35:59.000Z",
-      "summary": "11 November 2026The Inspector-General of PoliceGhana Police ServicePolice HeadquartersAccra Dear Inspector-General,REQUEST FOR URGENT INSPECTION AND REMOVAL OF A LOADED TRUCK PARKED NEAR…"
-    },
-    {
-      "title": "Invest Ghana Summit Gives Regional Ministers Platform to Pitch Investment Opportunities",
-      "link": "https://thehighstreetjournal.com/invest-ghana-summit-regional-ministers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T13:25:00.000Z",
-      "summary": "The ministers will have the opportunity to use the two-day gathering to present investment opportunities in their respective regions"
-    },
-    {
-      "title": "Ghana’s BRICS Partnership Could Open New Export Markets, But Local Businesses Face Competitiveness Test",
-      "link": "https://thehighstreetjournal.com/ghanas-brics-partnership-could-open-new-export-markets-but-local-businesses-face-competitiveness-test/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T13:12:00.000Z",
-      "summary": "Ghana's proposed BRICS partnership could diversify export markets and attract investment, but local businesses need stronger production capacity, competitive pricing and international…"
     }
   ]
 };
