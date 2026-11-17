@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T13:29:17.774Z",
+  "updated": "2026-11-17T13:39:20.602Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,81 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Data intelligence empowers African climate negotiators via first-of-its-kind Situation Room",
+      "link": "https://www.myjoyonline.com/data-intelligence-empowers-african-climate-negotiators-via-first-of-its-kind-situation-room/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:35:00.000Z",
+      "summary": "The African Group of Negotiators (AGN) is leveraging data, technology and real-time intelligence to strengthen Africa’s participation and influence in international climate negotiations at…",
+      "categories": [
+        "Africa",
+        "National",
+        "African climate negotiators",
+        "COP31",
+        "data intelligence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority questions need for new presidential jet amid economic challenges",
+      "link": "https://www.myjoyonline.com/minority-questions-need-for-new-presidential-jet-amid-economic-challenges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:33:19.000Z",
+      "summary": "The Minority in Parliament has questioned the government's decision to acquire a new presidential jet at a reported cost of GH¢720 million, citing competing financial demands and what it…",
+      "categories": [
+        "National",
+        "News",
+        "Minority",
+        "Presidential jet"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "First National Bank’s unique approach to banking yielding good results – CEO",
+      "link": "https://www.myjoyonline.com/first-national-banks-unique-approach-to-banking-yielding-good-results-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:31:36.000Z",
+      "summary": "The CEO asserted that the results reflected progress in the bank’s growth strategy and the confidence customers continued to place in the business. “We have delivered steady profitability…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Customer Deposits",
+        "FNB",
+        "interest income",
+        "Net fees and commission",
+        "Profit",
+        "Sylvia Inkoom"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sunyani Technical University VC calls for tax incentives, policy reforms to promote recycled construction materials",
+      "link": "https://www.myjoyonline.com/sunyani-technical-university-vc-calls-for-tax-incentives-policy-reforms-to-promote-recycled-construction-materials/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:31:26.000Z",
+      "summary": "The Vice-Chancellor of Sunyani Technical University (STU), Ing. Prof. Kwadwo Adinkrah-Appiah, has called on the government to introduce tax incentives, regulatory reforms and targeted…",
+      "categories": [
+        "National",
+        "STU",
+        "tax incentives"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Who gets to tell Ghana’s story on the Cedi? An open letter to the Bank of Ghana on the Heritage Series",
+      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:29:36.000Z",
+      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…",
+      "categories": [
+        "Banking and Finance",
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Dr Ike Tandoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Why Ubuntu Needs Meritocracy",
       "link": "https://ghanaiantimes.com.gh/why-ubuntu-needs-meritocracy/",
@@ -71,74 +146,6 @@ window.GDC_PAPERS = {
         "Adaptation finance",
         "COP 31",
         "Mining scarred lands"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CIB Ghana, GhISP strengthen SME financing capacity among financial institutions in Kumasi and surrounding areas",
-      "link": "https://www.myjoyonline.com/cib-ghana-ghisp-strengthen-sme-financing-capacity-among-financial-institutions-in-kumasi-and-surrounding-areas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:05:45.000Z",
-      "summary": "Efforts to strengthen access to appropriate financing for businesses across Ghana received further support as the Ghana Investment Support Programme (GhISP) and Chartered Institute of…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "CIB Ghana",
-        "GhISP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana pushes Africa to demand tripled adaptation finance at COP31",
-      "link": "https://www.myjoyonline.com/ghana-pushes-africa-to-demand-tripled-adaptation-finance-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:05:37.000Z",
-      "summary": "Ghana has proposed six demands that African environment ministers should take into the high-level talks at the UN climate conference, COP31, in Antalya, Türkiye, and urged them to speak…",
-      "categories": [
-        "Africa",
-        "Adaptation finance",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Who gets to tell Ghana’s story on the cedi? An open letter to the Bank of Ghana on the Heritage series",
-      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:01:14.000Z",
-      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…",
-      "categories": [
-        "News",
-        "Bank of Ghana",
-        "Heritage Series",
-        "Mrketing",
-        "PR"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Education Minister pushes student innovation to power Ghana’s green economy",
-      "link": "https://www.myjoyonline.com/education-minister-pushes-student-innovation-to-power-ghanas-green-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:55:19.000Z",
-      "summary": "Education Minister Haruna Iddrisu has called on students, educational institutions, industry players and research organisations to translate innovative renewable energy ideas into practical…",
-      "categories": [
-        "Education",
-        "National",
-        "Education Minister",
-        "Green Economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: APL claims ‘contradictions’ over Western Corridor railway financing, other projects",
-      "link": "https://www.myjoyonline.com/2027-budget-apl-claims-contradictions-over-western-corridor-railway-financing-other-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T12:52:30.000Z",
-      "summary": "Policy think tank Africa Policy Lens (APL) says the 2027 Budget and the New Economy policy document give conflicting accounts of how the Western Corridor Railway from Takoradi to Nyinahin…",
-      "categories": [
-        "National",
-        "Politics"
       ],
       "site": "https://www.myjoyonline.com/"
     },

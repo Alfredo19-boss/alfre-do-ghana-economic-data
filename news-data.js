@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T13:29:15.101Z",
+  "updated": "2026-11-17T13:39:17.733Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,30 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "High Interest Rates Threaten Ghana’s Cashew Processing Ambitions",
+      "link": "https://thehighstreetjournal.com/high-interest-rates-threaten-ghanas-cashew-processing-ambitions/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T13:38:07.000Z",
+      "summary": "High borrowing costs and inadequate working capital are constraining Ghana's cashew processors, with industry executives calling for affordable financing, strategic warehousing and stronger…"
+    },
+    {
+      "title": "First National Bank’s unique approach to banking yielding good results – CEO",
+      "link": "https://www.myjoyonline.com/first-national-banks-unique-approach-to-banking-yielding-good-results-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:31:36.000Z",
+      "summary": "The CEO asserted that the results reflected progress in the bank’s growth strategy and the confidence customers continued to place in the business. “We have delivered steady profitability…"
+    },
+    {
+      "title": "Who gets to tell Ghana’s story on the Cedi? An open letter to the Bank of Ghana on the Heritage Series",
+      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T13:29:36.000Z",
+      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…"
+    },
     {
       "title": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
       "link": "https://www.ghanabusinessnews.com/2026/11/17/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T05:01:00.000Z",
       "summary": "Prof. Samuel Lartey says falling rates have not eased credit for Ghanaian businesses, citing high lending rates and distressed loans, and urges clearer bank disclosures."
-    },
-    {
-      "title": "GCB Bank Doubles Down on Lending as Profit Hits GH¢2.87bn",
-      "link": "https://thehighstreetjournal.com/gcb-bank-doubles-down-on-lending-as-profit-hits-gh%c2%a22-87bn/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:00:00.000Z",
-      "summary": "GCB Bank's nine-month profit rose 42.6% to GH¢2.87bn, driven by stronger lending, improved loan quality and increased fee income, as it targets GH¢3.7bn in 2026."
-    },
-    {
-      "title": "UKGCC Mobilises Corporate, Public support to strengthen neonatal care at PMLCH",
-      "link": "https://thehighstreetjournal.com/ukgcc-mobilises-corporate-public-support-to-strengthen-neonatal-care-at-pmlch/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:00:00.000Z",
-      "summary": "The UK-Ghana Chamber of Commerce has raised GH¢923,165 for neonatal incubators and installed GH¢67,917 CCTV systems at Princess Marie Louise Children's Hospital."
-    },
-    {
-      "title": "Ghana to invest $200m in nuclear power readiness programme",
-      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-to-invest-200m-in-nuclear-power-readiness-programme/",
-      "source": "Ghana Business News",
-      "published": "2026-11-13T16:54:08.000Z",
-      "summary": "Ghana will invest $200 million in a 24-month programme to prepare the country for the construction of its first nuclear power plant."
     }
   ]
 };
