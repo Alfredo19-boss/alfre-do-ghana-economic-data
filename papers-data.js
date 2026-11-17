@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T14:24:17.877Z",
+  "updated": "2026-11-17T14:34:16.963Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
+      "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:24:29.000Z",
+      "summary": "The Ghana Chamber of Clean Energy (GCCE) has commended the Bui Power Authority (BPA) and First Sky Limited following the completion of a 50-megawatt-peak (MWp) solar photovoltaic power…",
+      "categories": [
+        "Energy",
+        "BPA",
+        "first sky",
+        "Ghana chamber of clean energy",
+        "Yendi solar plant"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Asante Akim North MP Ohene Kwame Frimpong won’t contest US extradition – Lawyer",
       "link": "https://www.myjoyonline.com/asante-akim-north-mp-ohene-kwame-frimpong-wont-contest-us-extradition-lawyer/",
@@ -126,19 +141,6 @@ window.GDC_PAPERS = {
         "National",
         "Iraq",
         "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam Jonah: The human and political complexities behind Gen. Kutu Acheampong’s leadership",
-      "link": "https://www.myjoyonline.com/sam-jonah-the-human-and-political-complexities-behind-gen-kutu-acheampongs-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:47:27.000Z",
-      "summary": "Se wo were fi na wosankofa a yenkyi. – “It is not wrong to go back for what you have forgotten.” – AKAN PROVERB Delivered by Sam Jonah, KBE, OSG Chancellor, University of Cape Coast…",
-      "categories": [
-        "National",
-        "Kutu Acheampong",
-        "Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },

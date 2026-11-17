@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T14:24:13.416Z",
+  "updated": "2026-11-17T14:34:13.846Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
+      "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T14:24:29.000Z",
+      "summary": "The Ghana Chamber of Clean Energy (GCCE) has commended the Bui Power Authority (BPA) and First Sky Limited following the completion of a 50-megawatt-peak (MWp) solar photovoltaic power…"
+    },
     {
       "title": "World Bank Group Mobilises Record $112 Billion as It Courts Private Investors",
       "link": "https://thehighstreetjournal.com/world-bank-group-mobilises-record-112-bn/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T05:03:00.000Z",
       "summary": "The programme will support the development of new oil palm plantations across the Western, Central, Eastern, Volta and Ashanti regions"
-    },
-    {
-      "title": "Private Sector Financing Expected to Rise as Ghana Targets 5.2% Growth",
-      "link": "https://thehighstreetjournal.com/private-sector-financing-expected-to-rise-as-ghana-targets-5-2-growth/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T05:02:00.000Z",
-      "summary": "Government expects lower interest rates, stronger business confidence and improved access to credit to support private investment, economic expansion and job creation."
     }
   ]
 };
