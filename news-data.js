@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T20:57:58.531Z",
+  "updated": "2026-11-17T21:03:29.567Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Cedi to weaken by 7.4% in 2027, to end 2027 at GH¢12.8 per dollar – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/cedi-to-weaken-by-7-4-in-2027-to-end-2027-at-gh%c2%a212-8-per-dollar-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:57:08.000Z",
+      "summary": "According to Fitch Solutions, the shift of forex intermediation from the Bank of Ghana to the Ghana Gold Board (GoldBod), combined with lower gold prices, will limit dollar supply to the…"
+    },
     {
       "title": "All Eyes on Ghana’s Digital Progress at Cape Town Summit",
       "link": "https://thehighstreetjournal.com/ghanas-digital-progress-takes-spotlight/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T11:00:08.000Z",
       "summary": "Government plans to enforce staffing ceilings across public institutions in 2027, requiring quarterly recruitment reports to contain rising public sector wage costs."
-    },
-    {
-      "title": "Petrol tipped to fall 8.23%, but LPG faces 21% jump – COMAC",
-      "link": "https://www.myjoyonline.com/petrol-tipped-to-fall-8-23-but-lpg-faces-21-jump-comac/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T10:37:18.000Z",
-      "summary": "Petrol prices could fall by up to 8.23% from November 16, 2026, while diesel prices are also expected to decline, according to the Chamber of Oil Marketing Companies (COMAC)."
     }
   ]
 };

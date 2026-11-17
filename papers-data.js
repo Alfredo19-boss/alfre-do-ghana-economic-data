@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T20:58:00.573Z",
+  "updated": "2026-11-17T21:03:34.522Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cedi to weaken by 7.4% in 2027, to end 2027 at GH¢12.8 per dollar – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/cedi-to-weaken-by-7-4-in-2027-to-end-2027-at-gh%c2%a212-8-per-dollar-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:57:08.000Z",
+      "summary": "According to Fitch Solutions, the shift of forex intermediation from the Bank of Ghana to the Ghana Gold Board (GoldBod), combined with lower gold prices, will limit dollar supply to the…",
+      "categories": [
+        "Business",
+        "Economy",
+        "BoG",
+        "Cedi",
+        "Dollar",
+        "Fitch Solutions",
+        "GolBod",
+        "IMF",
+        "Monetary Policy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Abu Jinapor accuses Mahama gov’t of double standards over presidential jet purchase",
       "link": "https://www.myjoyonline.com/abu-jinapor-accuses-mahama-govt-of-double-standards-over-presidential-jet-purchase/",
@@ -123,20 +142,6 @@ window.GDC_PAPERS = {
         "Falcon 6X executive jet",
         "President John Mahama",
         "Samuel Abu Jinapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "U23 AFCON 2027Q: ‘I’m the best coach in the world’ – Desmond Ofei",
-      "link": "https://www.myjoyonline.com/u23-afcon-2027q-im-the-best-coach-in-the-world-desmond-ofei/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:08:02.000Z",
-      "summary": "Ghana advanced into the next stage of the competition following a 3-2 aggregate win over Libya to set up a clash with Niger.",
-      "categories": [
-        "Football",
-        "National",
-        "Black Meteors",
-        "Desmond Ofei"
       ],
       "site": "https://www.myjoyonline.com/"
     },
