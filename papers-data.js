@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T11:29:16.278Z",
+  "updated": "2026-11-17T11:38:45.695Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Timothy Bentum urges parents to be actively involved in children’s lives to prevent drug abuse",
+      "link": "https://www.myjoyonline.com/timothy-bentum-urges-parents-to-be-actively-involved-in-childrens-lives-to-prevent-drug-abuse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:30:15.000Z",
+      "summary": "Media personality and Lead Pastor of Grace Avenue Ministry, Timothy Bentum, has urged parents to become more actively involved in their children's lives beyond providing financial support…",
+      "categories": [
+        "National",
+        "Children",
+        "Drug Abuse",
+        "Timothy Bentum"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“Invest in Ghana, produce here and grow” – Ato Forson Urges Investors",
+      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-ato-forson-urges-investors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T11:29:45.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has called on local and international investors to commit resources to businesses in Ghana, stressing the need to translate investment opportunities…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Ghana",
+        "Investors"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian rice quality has improved significantly – CSIR-CRI Chief Director",
       "link": "https://www.myjoyonline.com/ghanaian-rice-quality-has-improved-significantly-csir-cri-chief-director/",
@@ -121,19 +149,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Family celebrates life of late Abusuapanin Simeon Clement Opong, popularly known as Yaw Manu",
-      "link": "https://www.myjoyonline.com/family-celebrates-life-of-late-abusuapanin-simeon-clement-opong-popularly-known-as-yaw-manu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:43:59.000Z",
-      "summary": "AGED 94 CHIEF MOURNERS: Abusuapanin Nana Yaw Amo, Dr K.K. Kankam, Mr Osei Kwabena, Mr Dick Opong WIDOW: Mrs Doreen Opong CHILDREN: Michael, Richard, Evelyn [Brandful], Andrew, Dorothy…",
-      "categories": [
-        "Obituary",
-        "Abusuapanin Simeon Clement Opong",
-        "Yaw Manu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "See the inside of Ghana’s new $60.68 million presidential aircraft, the Dassault Falcon 6X",
       "link": "https://www.graphic.com.gh/news/general-news/see-the-inside-of-ghanas-new-60-68-million-presidential-aircraft-the-dassault-falcon-6x.html",
       "source": "Daily Graphic",
@@ -143,21 +158,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PwC urges Fiscal and Monetary Policy balance to sustain Ghana’s economic stability",
-      "link": "https://www.myjoyonline.com/pwc-urges-fiscal-and-monetary-policy-balance-to-sustain-ghanas-economic-stability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:30:23.000Z",
-      "summary": "PwC Country Senior Partner, George Arhin, has urged government to maintain a careful balance between fiscal and monetary policies to sustain Ghana’s improving economic stability while…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "George Arhin",
-        "PwC"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "8 Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
