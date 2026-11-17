@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:15:59.194Z",
+  "updated": "2026-11-17T04:26:27.371Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cameroon, Senegal and Benin close in on AFCON 2027 qualification",
+      "link": "https://www.myjoyonline.com/cameroon-senegal-and-benin-close-in-on-afcon-2027-qualification/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T02:34:00.000Z",
+      "summary": "Nicolas Jackson was on target again as Senegal, Cameroon and Benin moved to the brink of qualification for the 2027 Africa Cup of Nations (Afcon) with away victories.",
+      "categories": [
+        "Football",
+        "AFCON",
+        "Benin",
+        "Cameroon",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vinicius says transfer interest affected Real form",
+      "link": "https://www.myjoyonline.com/vinicius-says-transfer-interest-affected-real-form/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T02:22:00.000Z",
+      "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer, which has contributed to his mixed form at the start of the season.",
+      "categories": [
+        "Football",
+        "Real Madrid",
+        "Vinicius jnr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Belgium’s Lukaku retires from internationals",
+      "link": "https://www.myjoyonline.com/belgiums-lukaku-retires-from-internationals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T02:13:00.000Z",
+      "summary": "Romelu Lukaku has retired from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
+      "categories": [
+        "Football",
+        "Belgium",
+        "Romelu Lukaku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Wirtz double helps Germany thrash Netherlands",
       "link": "https://www.myjoyonline.com/wirtz-double-helps-germany-thrash-netherlands/",
@@ -49,6 +90,22 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Wontumi offers GH¢25m in fresh bid to end EXIM Bank prosecution",
+      "link": "https://www.myjoyonline.com/wontumi-offers-gh%c2%a225m-in-fresh-bid-to-end-exim-bank-prosecution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T01:16:43.000Z",
+      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has made a fresh proposal to the Attorney-General to pay GH¢25…",
+      "categories": [
+        "National",
+        "News",
+        "Chairman Wontumi",
+        "court",
+        "Exim Bank",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Customers report service outages at major US banks",
       "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
       "source": "MyJoyOnline",
@@ -74,65 +131,6 @@ window.GDC_PAPERS = {
         "debt restructring",
         "Dr Cassiel Ato Forson",
         "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://www.myjoyonline.com/five-eu-countries-announce-migrant-deportation-centre-in-rwanda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T00:09:13.000Z",
-      "summary": "Five EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals.",
-      "categories": [
-        "Africa",
-        "International",
-        "EU",
-        "Rwanda"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We were determined to break the eight’ – Amin Adam defends debt repayment timetable",
-      "link": "https://www.myjoyonline.com/we-were-determined-to-break-the-eight-amin-adam-defends-debt-repayment-timetable/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:49:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has rejected claims that the previous government deliberately deferred debt repayments to 2027 and 2028 to force an NDC administration into…",
-      "categories": [
-        "Politics",
-        "debt restructuring",
-        "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Circle railway fire: One person burnt to death, several shops destroyed",
-      "link": "https://www.myjoyonline.com/circle-railway-fire-one-person-burnt-to-death-several-shops-destroyed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:36:00.000Z",
-      "summary": "A man has been burnt to death after a fire swept through the Railways Area behind the State Transport Corporation (STC) station at Kwame Nkrumah Circle in Accra.",
-      "categories": [
-        "News",
-        "Top Story",
-        "Circle",
-        "Fire",
-        "GNFS",
-        "Railways"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One dead as firefighters battle Railways Area blaze at Kwame Nkrumah Circle",
-      "link": "https://www.myjoyonline.com/one-dead-as-firefighters-battle-railways-area-blaze-at-kwame-nkrumah-circle/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:36:00.000Z",
-      "summary": "A man has been burnt to death after a fire swept through the Railways Area behind the State Transport Corporation (STC) station at Kwame Nkrumah Circle in Accra.",
-      "categories": [
-        "News",
-        "Top Story",
-        "Circle",
-        "Fire",
-        "GNFS",
-        "Railways"
       ],
       "site": "https://www.myjoyonline.com/"
     },
