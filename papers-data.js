@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T06:25:57.035Z",
+  "updated": "2026-11-17T06:35:59.044Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Farmer-herder conflict threatens Ghana’s security – Prof. Aning",
+      "link": "https://ghanaiantimes.com.gh/farmer-herder-conflict-threatens-ghanas-security-prof-aning/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T06:27:12.000Z",
+      "summary": "GHANA’S persistent farmer-herder conflicts are creating conditions that could be exploited by extremist groups operating across West Africa, security expert Professor Kwesi Aning has…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana wins two ITU seats in Doha: what the victories mean for the country’s digital future",
+      "link": "https://www.myjoyonline.com/ghana-wins-two-itu-seats-in-doha-what-the-victories-mean-for-the-countrys-digital-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T06:25:58.000Z",
+      "summary": "Ghana left the ITU Plenipotentiary Conference in Doha, Qatar, with two elected seats. It was re-elected to the ITU Council for the 2027 to 2030 term, alongside 12 other African countries.",
+      "categories": [
+        "National",
+        "Technology",
+        "Doha",
+        "ITU Plenipotentiary Conference"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police arrest 3 over GH¢20m suspected counterfeit GTP fabrics",
       "link": "https://ghanaiantimes.com.gh/police-arrest-3-over-gh%c2%a220m-suspected-counterfeit-gtp-fabrics/",
@@ -176,22 +202,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "BoG warns strong El Niño could affect food prices, cocoa and cedi",
-      "link": "https://www.myjoyonline.com/bog-warns-strong-el-nino-could-affect-food-prices-cocoa-and-cedi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T05:04:00.000Z",
-      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), Monday warned that an unusually strong El Niño episode could affect agricultural production across West Africa, including…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "News",
-        "BoG",
-        "Cedi",
-        "Cocoa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NACOC arrests India-bound passenger over 58 suspected cocaine pellets at airport",
       "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-india-bound-passenger-with-58-suspected-cocaine-pellets-at-accra-airport.html",
       "source": "Daily Graphic",
@@ -266,18 +276,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Meteors Assistant coach confident of Libya comeback ahead of decisive U-23 AFCON Qualifier",
-      "link": "https://ghanaiantimes.com.gh/black-meteors-assistant-coach-confident-of-libya-comeback-ahead-of-decisive-u-23-afcon-qualifier/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-16T14:49:43.000Z",
-      "summary": "Ghana’s Black Meteors will seek to overturn a 1-0 first-leg deficit when they host Libya’s Mediterranean Knights in the return leg of their 2027 CAF U-23 Africa Cup of Nations qualifier at…",
-      "categories": [
-        "Hot!",
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
