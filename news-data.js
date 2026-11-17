@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T12:28:44.072Z",
+  "updated": "2026-11-17T12:38:46.012Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Ireland Renews WTO Funding to Help Developing Countries Meet Trade Standards",
+      "link": "https://thehighstreetjournal.com/ireland-renews-wto-funding/",
+      "source": "The High Street Journal",
+      "published": "2026-11-17T12:35:00.000Z",
+      "summary": "The contribution will support the WTO's Standards and Trade Development Facility (STDF) Strategy for 2025-2030, which focuses on strengthening sanitary and phytosanitary systems"
+    },
     {
       "title": "Fixing the 2027 ‘Research-Deficient’ Budget Before Appropriation: Analyst Proposes 3 Quick Ways",
       "link": "https://thehighstreetjournal.com/fixing-the-2027-research-deficient-budget-before-appropriation-analyst-proposes-3-quick-ways/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T16:34:32.000Z",
       "summary": "Excitement is building at the Ecobank JoyBusiness SME Fair 2026 as businesses showcase an impressive range of products and services at Ghud Park, Accra Mall, with shoppers and prospective…"
-    },
-    {
-      "title": "Ghana government to invest $10b in economic transformation from 2027 to 2030",
-      "link": "https://www.ghanabusinessnews.com/2026/11/13/ghana-government-to-invest-10b-in-economic-transformation-from-2027-to-2030/",
-      "source": "Ghana Business News",
-      "published": "2026-11-13T16:26:29.000Z",
-      "summary": "The Ghana government says it will invest $10 billion in an economic transformation programme from 2027 to 2030, targeting agriculture, energy, critical minerals and other productive sectors."
     }
   ]
 };

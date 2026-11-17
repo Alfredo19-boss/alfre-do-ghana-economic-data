@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T12:28:45.980Z",
+  "updated": "2026-11-17T12:38:49.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget: Parliament asked to approve GH¢30bn “New Economy Fund” with no named spending institution – Africa Policy Lens",
+      "link": "https://www.myjoyonline.com/2027-budget-parliament-asked-to-approve-gh%c2%a230bn-new-economy-fund-with-no-named-spending-institution-africa-policy-lens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T12:29:12.000Z",
+      "summary": "Parliament is being asked to approve a whopping GH¢30 billion for the New Economy Programme in 2027 without being told which institution will spend the money or what it will be spent on…",
+      "categories": [
+        "National",
+        "Politics"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Unapproved rice imports threaten Ghana’s local rice industry, CSIR-CRI director warns",
       "link": "https://www.myjoyonline.com/unapproved-rice-imports-threaten-ghanas-local-rice-industry-csir-cri-director-warns/",
@@ -131,20 +143,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Konongo traffic gridlock: Motorists lose hours as authorities promise relief in 3 weeks",
-      "link": "https://www.myjoyonline.com/konongo-traffic-gridlock-motorists-lose-hours-as-authorities-promise-relief-in-3-weeks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:39:43.000Z",
-      "summary": "Motorists and commuters travelling along the Konongo-Kumasi-Accra highway are spending more than two hours navigating severe traffic congestion, with authorities promising relief within…",
-      "categories": [
-        "National",
-        "Regional",
-        "Konongo-Kumasi-Accra highway",
-        "Motorists"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Minority demands full disclosure as US$60.68m Falcon 6X presidential jet arrives",
