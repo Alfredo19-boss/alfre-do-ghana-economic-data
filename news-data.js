@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T21:58:00.081Z",
+  "updated": "2026-11-17T22:03:05.948Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
     {
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T21:34:05.000Z",
       "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase."
+    },
+    {
+      "title": "Petrol price battle: GOIL cuts to GH¢14.99 as Star Oil drops to GH¢13.95",
+      "link": "https://www.myjoyonline.com/petrol-price-battle-goil-cuts-to-gh%c2%a214-99-as-star-oil-drops-to-gh%c2%a213-95/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:34:00.000Z",
+      "summary": "GOIL has reduced its petrol price to GH¢14.99 per litre, while Star Oil has announced a lower price of GH¢13.95 per litre as competition among oil marketing companies intensifies."
     },
     {
       "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T13:00:00.000Z",
       "summary": "ACUC wants Ghana to strengthen domestic revenue mobilisation, improve public spending and expand local production to reduce external borrowing and create greater fiscal space for national…"
-    },
-    {
-      "title": "Here are some quality product displays at the Ecobank JoyBusiness SME Fair 2026 – Don’t miss out",
-      "link": "https://www.myjoyonline.com/here-are-some-quality-product-displays-at-the-ecobank-joybusiness-sme-fair-2026-dont-miss-out/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T12:12:54.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 opened at GHUD Park, Accra Mall, bringing together an impressive collection of Ghanaian businesses, established brands, entrepreneurs and service…"
     }
   ]
 };

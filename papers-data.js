@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T21:58:02.983Z",
+  "updated": "2026-11-17T22:03:09.106Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jensen Huang says he would be ‘honoured’ to return as Nvidia CEO if board asked him",
+      "link": "https://www.myjoyonline.com/jensen-huang-says-he-would-be-honoured-to-return-as-nvidia-ceo-if-board-asked-him/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:43:00.000Z",
+      "summary": "Jensen Huang said he would be \"honoured\" to return as tech giant Nvidia's boss if the board asked him to, in his first public comments since his shock resignation.",
+      "categories": [
+        "Technology",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
       "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
@@ -132,22 +145,6 @@ window.GDC_PAPERS = {
         "Benaiah Elorm Dafeamekpor",
         "Black Challenge",
         "Mexico"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale appeals to Shatta Michy to put differences aside for son Majesty",
-      "link": "https://www.myjoyonline.com/shatta-wale-appeals-to-shatta-michy-to-put-differences-aside-for-son-majesty/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:25:12.000Z",
-      "summary": "Ghanaian dancehall artiste Shatta Wale has appealed to his former partner, Shatta Michy, to put their past differences aside and work with him to secure a better future for their son…",
-      "categories": [
-        "HP Entertainment 1",
-        "HP News 9",
-        "Music",
-        "National",
-        "Shatta Michy",
-        "Shatta Wale"
       ],
       "site": "https://www.myjoyonline.com/"
     },
