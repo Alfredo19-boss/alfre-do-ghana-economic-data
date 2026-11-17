@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-16T23:56:26.351Z",
+  "updated": "2026-11-17T00:06:53.029Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One dead as firefighters battle Railways Area blaze at Kwame Nkrumah Circle",
+      "link": "https://www.myjoyonline.com/one-dead-as-firefighters-battle-railways-area-blaze-at-kwame-nkrumah-circle/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-16T23:36:00.000Z",
+      "summary": "A man has been burnt to death after a fire swept through the Railways Area behind the State Transport Corporation (STC) station at Kwame Nkrumah Circle in Accra.",
+      "categories": [
+        "News",
+        "Top Story",
+        "Circle",
+        "Fire",
+        "GNFS",
+        "Railways"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
       "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
@@ -126,24 +142,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "geopolitical power",
         "religion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana can grow the rice it eats",
-      "link": "https://www.myjoyonline.com/ghana-can-grow-the-rice-it-eats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:03:00.000Z",
-      "summary": "I have worked as a rice breeder in Ghana for the past two decades. During that time, people in Ghana and abroad have asked me a simple question.",
-      "categories": [
-        "Opinion",
-        "Agriculture",
-        "Farm",
-        "Farmer",
-        "FEED Ghana",
-        "Ghana",
-        "grow",
-        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
