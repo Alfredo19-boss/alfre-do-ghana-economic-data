@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T21:38:05.890Z",
+  "updated": "2026-11-17T21:58:02.983Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,21 @@ window.GDC_PAPERS = {
         "GDP",
         "primary surplus",
         "Public Debt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petrol price battle: GOIL cuts to GH¢14.99 as Star Oil drops to GH¢13.95",
+      "link": "https://www.myjoyonline.com/petrol-price-battle-goil-cuts-to-gh%c2%a214-99-as-star-oil-drops-to-gh%c2%a213-95/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T21:34:00.000Z",
+      "summary": "GOIL has reduced its petrol price to GH¢14.99 per litre, while Star Oil has announced a lower price of GH¢13.95 per litre as competition among oil marketing companies intensifies.",
+      "categories": [
+        "Energy",
+        "National",
+        "GOIL",
+        "Petrol price battle",
+        "Star Oil"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -133,21 +148,6 @@ window.GDC_PAPERS = {
         "National",
         "Shatta Michy",
         "Shatta Wale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
-      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:21:45.000Z",
-      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "President John Mahama",
-        "Sliding-scale mining royalties"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -281,6 +281,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Government Statistician on why chief directors of MDAs should be appraised on data their outfits produce",
+      "link": "https://www.graphic.com.gh/news/general-news/government-statistician-on-why-chief-directors-of-mdas-should-be-appraised-on-data-their-outfits-produce.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-17T14:21:33.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
       "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
@@ -318,17 +329,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/minority-demands-full-disclosure-as-us-60-68m-falcon-6x-presidential-jet-arrives.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T11:31:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "See the inside of Ghana’s new $60.68 million presidential aircraft, the Dassault Falcon 6X",
-      "link": "https://www.graphic.com.gh/news/general-news/see-the-inside-of-ghanas-new-60-68-million-presidential-aircraft-the-dassault-falcon-6x.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T10:35:06.000Z",
       "summary": "",
       "categories": [
         "General News"
