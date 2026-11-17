@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:46:02.055Z",
+  "updated": "2026-11-17T04:56:27.950Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
+      "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T04:12:00.000Z",
+      "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Dr Zakari Mumuni",
+        "First Deputy Governor of the Bank of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 interest bill exceeds allocations to four job-creating ministries, says Amin Adam",
       "link": "https://www.myjoyonline.com/2027-interest-bill-exceeds-allocations-to-four-job-creating-ministries-says-amin-adam/",
@@ -98,30 +112,16 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Cameroon, Senegal and Benin close in on AFCON 2027 qualification",
-      "link": "https://www.myjoyonline.com/cameroon-senegal-and-benin-close-in-on-afcon-2027-qualification/",
+      "title": "Declare emergency in galamsey-ravaged communities – Agyinasare",
+      "link": "https://www.myjoyonline.com/declare-emergency-in-galamsey-ravaged-communities-agyinasare/",
       "source": "MyJoyOnline",
-      "published": "2026-11-17T02:34:00.000Z",
-      "summary": "Nicolas Jackson was on target again as Senegal, Cameroon and Benin moved to the brink of qualification for the 2027 Africa Cup of Nations (Afcon) with away victories.",
+      "published": "2026-11-17T02:41:00.000Z",
+      "summary": "Archbishop Charles Agyinasare has urged the government to impose emergency measures in communities devastated by illegal mining (galamsey), warning that some forests and rivers have…",
       "categories": [
-        "Football",
-        "AFCON",
-        "Benin",
-        "Cameroon",
-        "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vinicius says transfer interest affected Real form",
-      "link": "https://www.myjoyonline.com/vinicius-says-transfer-interest-affected-real-form/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T02:22:00.000Z",
-      "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer, which has contributed to his mixed form at the start of the season.",
-      "categories": [
-        "Football",
-        "Real Madrid",
-        "Vinicius jnr"
+        "News",
+        "Galamsey",
+        "Gold",
+        "Mining"
       ],
       "site": "https://www.myjoyonline.com/"
     },

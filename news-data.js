@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T04:45:59.249Z",
+  "updated": "2026-11-17T04:56:25.929Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
+      "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T04:12:00.000Z",
+      "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…"
+    },
     {
       "title": "Intel sued by investors after PC sales slump hits share price",
       "link": "https://www.myjoyonline.com/intel-sued-by-investors-after-pc-sales-slump-hits-share-price/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-13T10:18:53.000Z",
       "summary": "Chief of Staff, Dr Julius Debrah is urging public sector leaders to adopt private-sector customer service practices to improve efficiency, reduce bureaucratic delays and strengthen Ghana’s…"
-    },
-    {
-      "title": "Ghana To Pool Mineral Royalties And Infrastructure Investments Under One Fund",
-      "link": "https://thehighstreetjournal.com/ghana-to-pool-mineral-royalties-and-infrastructure-investments-under-one-fund/",
-      "source": "The High Street Journal",
-      "published": "2026-11-13T10:15:00.000Z",
-      "summary": "Government plans to merge MIIF and GIIF into a Ghana Sovereign Wealth Fund to coordinate state investments, improve returns and provide equity financing for strategic infrastructure and…"
     }
   ]
 };
