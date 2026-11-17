@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T22:18:03.342Z",
+  "updated": "2026-11-17T22:28:06.187Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "New Nvidia boss says ‘ambition has never been greater’ after Jensen Huang’s exit",
+      "link": "https://www.myjoyonline.com/new-nvidia-boss-says-ambition-has-never-been-greater-after-jensen-huangs-exit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:20:00.000Z",
+      "summary": "Nvidia's interim chief executive, Collette Kress, said the company's rapid growth remains on track despite founder Jensen Huang's dramatic exit.",
+      "categories": [
+        "Technology",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.myjoyonline.com/how-new-us-chip-restrictions-on-south-east-asia-will-hit-china/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:14:00.000Z",
+      "summary": "The move not only restricts exports of advanced chips, but also access to the computing power Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
+      "categories": [
+        "International",
+        "South East Asia",
+        "US chip restrictions"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "link": "https://www.myjoyonline.com/uk-sanctions-firms-over-israeli-west-bank-settlements/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:05:00.000Z",
+      "summary": "The UK has sanctioned companies it said are involved in building settlements in the occupied West Bank, in the first package of measures since the government announced a tougher approach to…",
+      "categories": [
+        "International",
+        "Israeli",
+        "West Bank settlement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Six in court accused of high-value Pokemon card theft",
       "link": "https://www.myjoyonline.com/six-in-court-accused-of-high-value-pokemon-card-theft/",
@@ -87,56 +126,6 @@ window.GDC_PAPERS = {
         "GOIL",
         "Petrol price battle",
         "Star Oil"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
-      "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:14:00.000Z",
-      "summary": "According to the November 2026 Summary of Economic and Financial Data by the Bank of Ghana, the cedi traded at GH¢11.69 to one American greenback in November 2026.",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "Cedi",
-        "Dollar",
-        "Euro",
-        "Pound"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedi to weaken by 7.4% in 2027, to end 2027 at GH¢12.8 per dollar – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/cedi-to-weaken-by-7-4-in-2027-to-end-2027-at-gh%c2%a212-8-per-dollar-fitch-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:57:08.000Z",
-      "summary": "According to Fitch Solutions, the shift of forex intermediation from the Bank of Ghana to the Ghana Gold Board (GoldBod), combined with lower gold prices, will limit dollar supply to the…",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "Cedi",
-        "Dollar",
-        "Fitch Solutions",
-        "GolBod",
-        "IMF",
-        "Monetary Policy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abu Jinapor accuses Mahama gov’t of double standards over presidential jet purchase",
-      "link": "https://www.myjoyonline.com/abu-jinapor-accuses-mahama-govt-of-double-standards-over-presidential-jet-purchase/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:49:05.000Z",
-      "summary": "The Ranking Member of Parliament’s Foreign Affairs and Regional Integration Committee, Samuel Abu Jinapor, has accused the Mahama administration of double standards over its decision to…",
-      "categories": [
-        "National",
-        "Falcon 6X executive jet",
-        "President John Mahama",
-        "Samuel Abu Jinapor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
