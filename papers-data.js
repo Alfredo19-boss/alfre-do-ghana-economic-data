@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T04:05:59.639Z",
+  "updated": "2026-11-17T04:15:59.194Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Wirtz double helps Germany thrash Netherlands",
+      "link": "https://www.myjoyonline.com/wirtz-double-helps-germany-thrash-netherlands/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T02:02:00.000Z",
+      "summary": "Florian Wirtz scored twice as Germany thrashed the Netherlands in their final Nations League game - with both sides qualifying for the quarter-finals.",
+      "categories": [
+        "Football",
+        "Florian Wirtz",
+        "Germany",
+        "Netherlands"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Portugal boss responds to criticism from Ronaldo’s mum",
+      "link": "https://www.myjoyonline.com/portugal-boss-responds-to-criticism-from-ronaldos-mum/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T01:55:00.000Z",
+      "summary": "Jorge Jesus has responded to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+      "categories": [
+        "Football",
+        "Cristiano Ronaldo",
+        "Jorge Jesus",
+        "Portugal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Customers report service outages at major US banks",
       "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
@@ -105,33 +133,6 @@ window.GDC_PAPERS = {
         "Fire",
         "GNFS",
         "Railways"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Our debt restructuring secured $11bn in relief – Amin Adam",
-      "link": "https://www.myjoyonline.com/our-debt-restructuring-secured-11bn-in-relief-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:31:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam says Ghana secured $11 billion in relief through debt restructuring. He has rejected claims that the repayment schedule was designed to push…",
-      "categories": [
-        "Politics",
-        "debt restructring",
-        "Dr Mohammed Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We did not defer debt payments to make NDC default – Amin Adam",
-      "link": "https://www.myjoyonline.com/we-did-not-defer-debt-payments-to-make-ndc-default-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T23:12:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has rejected claims that the previous government deliberately deferred debt repayments to 2027 and 2028 to make the NDC government default.",
-      "categories": [
-        "HP News 4",
-        "Politics",
-        "debt restructring",
-        "Dr Mohammed Amin Adam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
