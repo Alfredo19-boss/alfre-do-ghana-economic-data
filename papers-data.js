@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T15:54:16.944Z",
+  "updated": "2026-11-17T15:58:46.847Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Newly elected Central Regional NDC Chairman, pledges unity and healing",
+      "link": "https://ghanaiantimes.com.gh/newly-elected-central-regional-ndc-chairman-pledges-unity-and-healing/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-17T15:56:41.000Z",
+      "summary": "Newly elected Central Regional Chairman of the National Democratic Congress (NDC) in the Central RegionLawyer Obeng-Inkoom has pledged unity and healing. In a statement after the Regional…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana must increase domestic investment in digital health transformation – Nahashon Aluoka urges",
       "link": "https://ghanaiantimes.com.gh/ghana-must-increase-domestic-investment-in-digital-health-transformation-nahashon-aluoka-urges/",
@@ -298,17 +310,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-17T08:06:42.000Z",
       "summary": "THE Member of Parliament (MP) for Dome-Kwabenya, Ms Elikplim Akurugu, has distributed fuel coupons worth GH¢100 and GH¢200 to commercial transport operators in 12 communities in her…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Best Assurance boosts GETFund’s education support drive",
-      "link": "https://ghanaiantimes.com.gh/best-assurance-boosts-getfunds-education-support-drive/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T08:04:13.000Z",
-      "summary": "THE Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited to support teaching and learning in educational…",
       "categories": [
         "News"
       ],
