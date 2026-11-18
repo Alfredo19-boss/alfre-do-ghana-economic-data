@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:29:06.385Z",
+  "updated": "2026-11-18T13:39:06.631Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Can Ghana reclaim its eco-friendly roots with the ‘takeaway’ ban?",
+      "link": "https://www.myjoyonline.com/can-ghana-reclaim-its-eco-friendly-roots-with-the-takeaway-ban/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:32:45.000Z",
+      "summary": "On May 25, 2026, Ghana’s Environmental Protection Authority (EPA) issued a definitive policy directive that promises to reshape the daily routines of millions: effective January 1, 2027…",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "‘takeaway’ ban"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vice President urges stronger cybersecurity to protect mobile money users",
+      "link": "https://www.myjoyonline.com/vice-president-urges-stronger-cybersecurity-to-protect-mobile-money-users/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:31:00.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has called for stronger data protection, cybersecurity and accountability in Ghana’s digital financial services sector to safeguard mobile…",
+      "categories": [
+        "National",
+        "Cybersecurity",
+        "Mobile Money",
+        "MTN",
+        "Vice President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government allocates GH¢45m to expand rural telephony in 2027",
+      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a245m-to-expand-rural-telephony-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:27:08.000Z",
+      "summary": "Government has allocated GH¢45 million in the 2027 Budget to expand rural telephony and improve access to reliable and affordable telecommunications services in underserved communities…",
+      "categories": [
+        "National",
+        "MTN",
+        "Rural telephony",
+        "Vice President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama targets 30% cross-border electricity trade in West Africa within five years",
       "link": "https://www.myjoyonline.com/mahama-targets-30-cross-border-electricity-trade-in-west-africa-within-five-years/",
@@ -89,49 +131,6 @@ window.GDC_PAPERS = {
         "Child Protection",
         "Dr Agnes Naa Momo Lartey",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oscar Provencal, others seek court injunction over Van Vicker’s Actors’ Guild IMC registration exercise",
-      "link": "https://www.myjoyonline.com/oscar-provencal-others-seek-court-injunction-over-van-vickers-actors-guild-imc-registration-exercise/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:04:47.000Z",
-      "summary": "Concerned registered members of the Ghana Actors’ Guild (GAG) have gone to the High Court in Tema seeking an injunction over the Guild’s governance and electoral processes.",
-      "categories": [
-        "HP Entertainment 1",
-        "Movies",
-        "Ghana Actors Guild",
-        "Interim Management Committee",
-        "Oscar Provencal",
-        "Van Vicker"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wontumi’s lawyer to appeal High Court’s refusal to release prosecution deal with key witness",
-      "link": "https://www.myjoyonline.com/wontumis-lawyer-to-appeal-high-courts-refusal-to-release-prosecution-deal-with-key-witness/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:04:27.000Z",
-      "summary": "Lawyer for former Ashanti Regional New Patriotic Party (NPP) Chairman Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, Samuel Atta Akyea, says he is considering an appeal…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Atta Akyea",
-        "High Court",
-        "key witness",
-        "Tano Nimiri"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ampem Darkoa Ladies sign one-year sponsorship deal with Permafix Ghana worth GHS 100,000",
-      "link": "https://www.myjoyonline.com/ampem-darkoa-ladies-sign-one-year-sponsorship-deal-with-permafix-ghana-worth-ghs-100000/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:04:17.000Z",
-      "summary": "The two parties made official the relationship on Wednesday, November 18, in a deal which is reportedly worth GH₵ 100,000.00.",
-      "categories": [
-        "Football"
       ],
       "site": "https://www.myjoyonline.com/"
     },

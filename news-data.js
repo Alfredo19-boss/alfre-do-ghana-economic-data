@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T13:29:03.515Z",
+  "updated": "2026-11-18T13:39:03.636Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Scania-Led Initiative Targets Women for Jobs in Ghana’s Mining Transport Sector",
+      "link": "https://thehighstreetjournal.com/scanialedinitiative-mining-jobs-for-women/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T13:36:00.000Z",
+      "summary": "The initiative is led by Scania West Africa on behalf of Germany's Federal Ministry for Economic Cooperation and Development (BMZ), with implementation support from the Deutsche…"
+    },
     {
       "title": "Local organic fertiliser offers farmers a pathway to climate-resilient agriculture",
       "link": "https://www.myjoyonline.com/local-organic-fertiliser-offers-farmers-a-pathway-to-climate-resilient-agriculture/",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
       "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:08:12.000Z",
-      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…"
-    },
-    {
-      "title": "AETC, Ministry of Youth Development sign MoU to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
-      "link": "https://www.myjoyonline.com/aetc-ministry-of-youth-development-sign-mou-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T23:08:12.000Z",
       "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…"
