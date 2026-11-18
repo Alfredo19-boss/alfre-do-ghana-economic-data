@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T08:09:02.307Z",
+  "updated": "2026-11-18T08:19:11.701Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana, US deepen cooperation to tackle mercury pollution",
+      "link": "https://ghanaiantimes.com.gh/ghana-us-deepen-cooperation-to-tackle-mercury-pollution/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:16:46.000Z",
+      "summary": "GHANA and the United States have reaffirmed their commitment to tackling mercury pollution caused by illegal mining through scientific collaboration, technology transfer and the promotion…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Church embarks on Accra float to promote religious unity",
+      "link": "https://ghanaiantimes.com.gh/church-embarks-on-accra-float-to-promote-religious-unity/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:13:22.000Z",
+      "summary": "THE Zetahir Mission Church on Saturday went on a float through parts of Accra to sensitise the public about its beliefs concerning the birth of Jesus Christ and promote awareness of its…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "BNI gets 111 vehicles, digital forensic laboratory",
       "link": "https://ghanaiantimes.com.gh/bni-gets-111-vehicles-digital-forensic-laboratory/",
@@ -111,29 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Björkegren: Stars mission completed, 6 points secured",
-      "link": "https://ghanaiantimes.com.gh/bjorkegren-stars-mission-completed-6-points-secured/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:41:05.000Z",
-      "summary": "KIM Lars Björkegren says Ghana achieved its mission in Sekondi-Takoradi after completing a double over Somalia to revive the team’s hopes of qualifying for the 2027 Africa Cup of Nations…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Amputee W/C: Black Challenge whip Iraq 6-0",
-      "link": "https://ghanaiantimes.com.gh/amputee-w-c-black-challenge-whip-iraq-6-0/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:38:46.000Z",
-      "summary": "THE Black Challenge delivered a stunning performance on Monday, thrashing Iraq 6-0 in their final Group D encounter to secure qualification for the round of 16 at the 2026 WAFF Amputee…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ghana news Zimbabwe understudies GIS to implement border authority",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zimbabwe-understudies-gis-to-implement-border-authority.html",
       "source": "Daily Graphic",
@@ -177,7 +177,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ghana news Survey Authority completes 48 district mineral occurrence maps",
+      "title": "Survey Authority completes 48 district mineral occurrence maps",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-survey-authority-completes-48-district-mineral-occurrence-maps.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T07:23:01.000Z",
@@ -203,6 +203,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Knights and Ladies of Marshall celebrate 100 years of Catholic service and charity",
+      "link": "https://www.myjoyonline.com/knights-and-ladies-of-marshall-celebrate-100-years-of-catholic-service-and-charity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T07:06:00.000Z",
+      "summary": "The Noble Order of the Knights and Ladies of Marshall is celebrating its 100th anniversary, with a series of activities highlighting its commitment to the Catholic Church, charity and…",
+      "categories": [
+        "National",
+        "Catholic",
+        "Charity",
+        "Knights and Ladies of Marshall"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Parliamentary committee engages Northern chiefs on proposed Anti-Witchcraft Accusations Bill",
       "link": "https://www.myjoyonline.com/parliamentary-committee-engages-northern-chiefs-on-proposed-anti-witchcraft-accusations-bill/",
       "source": "MyJoyOnline",
@@ -215,6 +229,17 @@ window.GDC_PAPERS = {
         "Northern"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rent Control seeks Attorney-General’s backing to deal with UG hostel fees",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rent-control-seeks-attorney-generals-backing-to-deal-with-ug-hostel-fees.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T06:43:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "He didn’t succeed by chance – Thomas-Asante opens up on Frank Lampard’s personality",
@@ -247,27 +272,6 @@ window.GDC_PAPERS = {
         "National",
         "Gold Fields",
         "Tarkwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thomas-Asante discloses ‘‘agent’’ role in Yirenkyi’s Coventry transfer",
-      "link": "https://www.myjoyonline.com/thomas-asante-discloses-agent-role-in-yirenkyis-coventry-transfer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:06:42.000Z",
-      "summary": "Ghana striker Brandon Thomas-Asante has opened up on his role in Caleb Yirenkyi’s transfer to Coventry City last summer. In August, Coventry paid a club record fee of €30 million to…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Black Stars",
-        "Brandon Thomas-Asante",
-        "Caleb Yirenkyi",
-        "Coventry City",
-        "Ghana",
-        "Premier League",
-        "Thomas-Asante"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -323,17 +327,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Prof Fred Newton Binka pioneering malaria researcher in Ghana and founding Vice-Chancellor of UHAS passes on",
-      "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T13:29:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
