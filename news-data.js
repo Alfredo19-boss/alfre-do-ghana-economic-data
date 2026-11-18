@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T03:33:35.822Z",
+  "updated": "2026-11-18T03:38:35.515Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Buy and store local rice before cutting imports – FABAG’s Ato Aggrey urges government",
+      "link": "https://www.myjoyonline.com/buy-and-store-local-rice-before-cutting-imports-fabags-ato-aggrey-urges-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T00:11:00.000Z",
+      "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports."
+    },
     {
       "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
       "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-14T15:00:08.000Z",
       "summary": "The Petroleum Commission has introduced digital permitting and launched a Local Content Fund to reduce regulatory delays, improve SME financing and strengthen Ghanaian participation in the…"
-    },
-    {
-      "title": "Can US$3bn Transform Agriculture and Close Ghana’s Growth Gap with Services?",
-      "link": "https://thehighstreetjournal.com/can-us3bn-transform-agriculture-and-close-ghanas-growth-gap-with-services/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T14:00:56.000Z",
-      "summary": "The government’s four-year commercial agriculture investment aims to raise domestic production and strengthen agro-processing, but reversing the sector’s slower growth will require more…"
     }
   ]
 };
