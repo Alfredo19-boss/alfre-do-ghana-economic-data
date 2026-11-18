@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:39:06.631Z",
+  "updated": "2026-11-18T13:49:06.782Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prosecution closes case against Wontumi; court sets December 17 deadline for defence",
+      "link": "https://www.myjoyonline.com/prosecution-closes-case-against-wontumi-court-sets-december-17-deadline-for-defence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:43:47.000Z",
+      "summary": "The Accra High Court has directed former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, to file a submission of no case to…",
+      "categories": [
+        "National",
+        "December 17",
+        "Wontumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vice President urges MTN to improve network quality and expand rural connectivity",
+      "link": "https://www.myjoyonline.com/vice-president-urges-mtn-to-improve-network-quality-and-expand-rural-connectivity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:35:29.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has urged MTN Ghana to increase investment in network quality, customer experience and connectivity in underserved communities as the…",
+      "categories": [
+        "National",
+        "MTN",
+        "Quality",
+        "rural connectivity"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Can Ghana reclaim its eco-friendly roots with the ‘takeaway’ ban?",
       "link": "https://www.myjoyonline.com/can-ghana-reclaim-its-eco-friendly-roots-with-the-takeaway-ban/",
@@ -102,35 +129,6 @@ window.GDC_PAPERS = {
         "Energy",
         "EPOP",
         "Ghana Energy Awards"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia meets film industry stakeholders; calls for tax incentives, streaming platform",
-      "link": "https://www.myjoyonline.com/bawumia-meets-film-industry-stakeholders-calls-for-tax-incentives-streaming-platform/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:12:15.000Z",
-      "summary": "Former Vice-President and New Patriotic Party (NPP) flag bearer Dr Mahamudu Bawumia has called for tax incentives for filmmakers, increased government investment and a dedicated streaming…",
-      "categories": [
-        "HP Entertainment 2",
-        "Movies",
-        "Dr Mahamadu Bawumia",
-        "Film industry",
-        "Stakeholder engagement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana pushes for increased investment in child protection at Manila conference",
-      "link": "https://www.myjoyonline.com/ghana-pushes-for-increased-investment-in-child-protection-at-manila-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:11:31.000Z",
-      "summary": "Ghana has called for increased investment in child protection systems and stronger institutions to help end violence against children, as the country joins global leaders at the Second…",
-      "categories": [
-        "National",
-        "Child Protection",
-        "Dr Agnes Naa Momo Lartey",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
