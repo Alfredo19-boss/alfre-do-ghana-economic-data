@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:38:54.618Z",
+  "updated": "2026-11-18T04:44:09.588Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,18 @@ window.GDC_PAPERS = {
         "Events",
         "The Creatives Summit",
         "Volta Creative Arts"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana launches IOM Migration Strategy to strengthen migration governance",
+      "link": "https://www.myjoyonline.com/ghana-launches-iom-migration-strategy-to-strengthen-migration-governance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:03:00.000Z",
+      "summary": "Ghana has launched the International Organisation for Migration (IOM) Strategy for 2026-2028 to advance well-managed migration governance by coordinating State agencies and strengthening…",
+      "categories": [
+        "National",
+        "IOM"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -113,19 +125,6 @@ window.GDC_PAPERS = {
         "Rent",
         "Student",
         "UG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Don’t turn rice import quota into corruption scheme – Hosi",
-      "link": "https://www.myjoyonline.com/dont-turn-rice-import-quota-into-corruption-scheme-hosi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:04:00.000Z",
-      "summary": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
-      "categories": [
-        "News",
-        "Agriculture",
-        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
