@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:49:04.942Z",
+  "updated": "2026-11-18T12:59:04.993Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The NDC doesn’t have a First Vice or a Second Vice",
+      "link": "https://www.myjoyonline.com/the-ndc-doesnt-have-a-first-vice-or-a-second-vice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:45:39.000Z",
+      "summary": "There is a need to set the records straight about the positions of Regional Vice-Chairmen in the National Democratic Congress (NDC). This is not about personalities, political interests or…",
+      "categories": [
+        "Opinion",
+        "Constitution",
+        "first vice",
+        "NDC",
+        "second vice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama proposes phased rollout of ECO currency",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
@@ -141,21 +156,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bills Microcredit launches Bills Direct, allowing consumers to shop without down payments or collateral",
-      "link": "https://www.myjoyonline.com/bills-microcredit-launches-bills-direct-allowing-consumers-to-shop-without-down-payments-or-collateral/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:01:32.000Z",
-      "summary": "Bills Microcredit has introduced no-down-payment, no-collateral and no-account-needed consumer loans dubbed Bills Direct. According to the firm, customers can pick items at partner stores…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Bills Microcredit",
-        "Consumer Loans",
-        "Romeo Richlove Kweku Seshie"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "University of Ghana Enterprises on why GH¢8,000 Legon hostel fees cannot be reduced citing GH¢70million debt",
