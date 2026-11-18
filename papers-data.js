@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:59:12.331Z",
+  "updated": "2026-11-18T08:09:02.307Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BNI gets 111 vehicles, digital forensic laboratory",
+      "link": "https://ghanaiantimes.com.gh/bni-gets-111-vehicles-digital-forensic-laboratory/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:07:40.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has presented 111 vehicles to the Bureau of National Intelligence (BNI) to strengthen its operational capacity and improve its ability to carry out its…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Close season boosts fish catches at Elmina’",
+      "link": "https://ghanaiantimes.com.gh/close-season-boosts-fish-catches-at-elmina/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:00:50.000Z",
+      "summary": "GOVERNMENT’S close season has begun yielding tangible dividends along the country’s coastline, with recent field observations at Elmina revealing that fishers returning from authorised…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "What men can do, women can do better: A juxtaposition of affirmative action in Ghana",
       "link": "https://ghanaiantimes.com.gh/what-men-can-do-women-can-do-better-a-juxtaposition-of-affirmative-action-in-ghana/",
@@ -110,17 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Black Wonders resume training, target DAFCON success",
-      "link": "https://ghanaiantimes.com.gh/black-wonders-resume-training-target-dafcon-success/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:36:42.000Z",
-      "summary": "TWENTY-four players of the national deaf football team, the Black Wonders, and the technical team have commenced the last leg of preparation for the 2026 Deaf Africa Cup of Nations (DAFCON)…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ghana news Zimbabwe understudies GIS to implement border authority",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zimbabwe-understudies-gis-to-implement-border-authority.html",
       "source": "Daily Graphic",
@@ -147,17 +160,6 @@ window.GDC_PAPERS = {
         "Republic of Uncommon Sense"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alcaraz beats Tiafoe to extend winning streak at ATP Finals",
-      "link": "https://ghanaiantimes.com.gh/alcaraz-beats-tiafoe-to-extend-winning-streak-at-atp-finals/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:34:22.000Z",
-      "summary": "SECOND seed, Carlos Alcaraz, powered past American Frances Tiafoe 6-2, 6-2 in just over an hour at the ATP Finals on Monday to stretch his winning run to 10 matches. Tiafoe’s baseline game…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Tourism Society, University of Ghana to host three-day youth festival",
