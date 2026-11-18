@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:08:39.363Z",
+  "updated": "2026-11-18T03:23:38.654Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama calls for ECOWAS to become a community of the people, not just Heads of State",
+      "link": "https://www.myjoyonline.com/mahama-calls-for-ecowas-to-become-a-community-of-the-people-not-just-heads-of-state/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:19:25.000Z",
+      "summary": "President John Mahama has called for a shift in focus within the Economic Community of West African States (ECOWAS), insisting the regional bloc must evolve from an organisation dominated…",
+      "categories": [
+        "Africa",
+        "National",
+        "ECOWAS",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama calls for gradual adoption of ECO, says willing countries should lead",
+      "link": "https://www.myjoyonline.com/mahama-calls-for-gradual-adoption-of-eco-says-willing-countries-should-lead/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:40:00.000Z",
+      "summary": "President John Mahama has called for a gradual introduction of the proposed ECOWAS single currency, the ECO, urging countries that meet the required convergence criteria to begin using it…",
+      "categories": [
+        "Africa",
+        "HP News 5",
+        "National",
+        "ECO",
+        "ECOWAS",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US judge extends deadline for Trump deposition in BBC defamation case",
       "link": "https://www.myjoyonline.com/us-judge-extends-deadline-for-trump-deposition-in-bbc-defamation-case/",
@@ -98,32 +128,6 @@ window.GDC_PAPERS = {
         "AU action",
         "Child Online Africa",
         "violence agaibst children"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FA wants to host Nations League finals in England",
-      "link": "https://www.myjoyonline.com/fa-wants-to-host-nations-league-finals-in-england/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:13:00.000Z",
-      "summary": "England could host the Nations League finals this season after Football Association officials registered their interest.",
-      "categories": [
-        "Football",
-        "England",
-        "Nations League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haaland’s last-second penalty sends Norway through",
-      "link": "https://www.myjoyonline.com/haalands-last-second-penalty-sends-norway-through/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:55:00.000Z",
-      "summary": "Erling Haaland scored a last-second penalty as Norway came back from two goals down to secure victory and a place in the Nations League quarter-finals at Denmark's expense.",
-      "categories": [
-        "Football",
-        "Erling Braut Haaland",
-        "Norway"
       ],
       "site": "https://www.myjoyonline.com/"
     },
