@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:39:07.959Z",
+  "updated": "2026-11-18T12:49:04.942Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama proposes phased rollout of ECO currency",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T12:43:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "From a house to an iPad, Ghanaians reveal who they want to surprise this Christmas",
+      "link": "https://www.myjoyonline.com/from-a-house-to-an-ipad-ghanaians-reveal-who-they-want-to-surprise-this-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:35:39.000Z",
+      "summary": "With Christmas approaching, some Ghanaians are already thinking about how to make the festive season special for the people who have supported and stood by them throughout the year. For…",
+      "categories": [
+        "Art & Design",
+        "Christmas",
+        "House",
+        "iPad"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vigilantism, brutalisation not the right way for South Africa to address migration crisis – Mahama",
       "link": "https://www.myjoyonline.com/vigilantism-brutalisation-not-the-right-way-for-south-africa-to-address-migration-crisis-mahama/",
@@ -133,20 +158,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Rising school enrolment does not guarantee quality education – Edem Agbana",
-      "link": "https://www.myjoyonline.com/rising-school-enrolment-does-not-guarantee-quality-education-edem-agbana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:57:33.000Z",
-      "summary": "Member of Parliament for Ketu North, Edem Agbana, has cautioned that increasing school enrolment figures do not necessarily reflect improved access to quality education, warning that many…",
-      "categories": [
-        "Education",
-        "HP News 3",
-        "National",
-        "Edem Agbana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "University of Ghana Enterprises on why GH¢8,000 Legon hostel fees cannot be reduced citing GH¢70million debt",
       "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-enterprises-limited-on-why-ghc8-000-legon-hostel-fees-cannot-be-reduced-citing-ghc70million-debt.html",
       "source": "Daily Graphic",
@@ -209,17 +220,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GNAT, NAGRAT, Eduwatch welcome additional teacher recruitment - But want focus on deprived areas with payment of 20% allowance",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-gnat-nagrat-eduwatch-welcome-additional-teacher-recruitment-but-want-focus-on-deprived-areas-with-payment-of-20-allowance.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:35:53.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
