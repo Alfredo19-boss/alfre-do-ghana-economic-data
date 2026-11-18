@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:08:39.655Z",
+  "updated": "2026-11-18T04:23:39.647Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -90,6 +90,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Students pay rent, so Rent Control has authority over UG hostels – Atta Akyea",
+      "link": "https://www.myjoyonline.com/students-pay-rent-so-rent-control-has-authority-over-ug-hostels-atta-akyea/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:19:15.000Z",
+      "summary": "Former Works and Housing Minister Samuel Atta Akyea has thrown his weight behind the Rent Control Department in its dispute with the University of Ghana Enterprises Limited (UGEL)…",
+      "categories": [
+        "National",
+        "News",
+        "Rent",
+        "Student",
+        "UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Don’t turn rice import quota into corruption scheme – Hosi",
       "link": "https://www.myjoyonline.com/dont-turn-rice-import-quota-into-corruption-scheme-hosi/",
       "source": "MyJoyOnline",
@@ -113,22 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "Food and Beverage Association of Ghana (FABAG)",
         "Rice Farmers In Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama calls for gradual adoption of ECO, says willing countries should lead",
-      "link": "https://www.myjoyonline.com/mahama-calls-for-gradual-adoption-of-eco-says-willing-countries-should-lead/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:40:00.000Z",
-      "summary": "President John Mahama has called for a gradual introduction of the proposed ECOWAS single currency, the ECO, urging countries that meet the required convergence criteria to begin using it…",
-      "categories": [
-        "Africa",
-        "HP News 5",
-        "National",
-        "ECO",
-        "ECOWAS",
-        "President John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
