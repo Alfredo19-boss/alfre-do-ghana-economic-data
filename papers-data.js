@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:29:09.851Z",
+  "updated": "2026-11-18T07:39:12.424Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,104 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amputee W/C: Black Challenge whip Iraq 6-0",
+      "link": "https://ghanaiantimes.com.gh/amputee-w-c-black-challenge-whip-iraq-6-0/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:38:46.000Z",
+      "summary": "THE Black Challenge delivered a stunning performance on Monday, thrashing Iraq 6-0 in their final Group D encounter to secure qualification for the round of 16 at the 2026 WAFF Amputee…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Wonders resume training, target DAFCON success",
+      "link": "https://ghanaiantimes.com.gh/black-wonders-resume-training-target-dafcon-success/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:36:42.000Z",
+      "summary": "TWENTY-four players of the national deaf football team, the Black Wonders, and the technical team have commenced the last leg of preparation for the 2026 Deaf Africa Cup of Nations (DAFCON)…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ghana news Zimbabwe understudies GIS to implement border authority",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zimbabwe-understudies-gis-to-implement-border-authority.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T07:35:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Great Osama, Davido and the gold rush that lasted 19 minutes! – Jimmy Aglah writes from the Republic of Uncommon Sense",
+      "link": "https://www.myjoyonline.com/great-osama-davido-and-the-gold-rush-that-lasted-19-minutes-jimmy-aglah-writes-from-the-republic-of-uncommon-sense/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T07:34:38.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, a man who had spent years searching for gold beneath the soil of Amansie reportedly discovered that the richest deposits were not…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Davido",
+        "Great Osama",
+        "Jimmy Aglah",
+        "Republic of Uncommon Sense"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alcaraz beats Tiafoe to extend winning streak at ATP Finals",
+      "link": "https://ghanaiantimes.com.gh/alcaraz-beats-tiafoe-to-extend-winning-streak-at-atp-finals/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:34:22.000Z",
+      "summary": "SECOND seed, Carlos Alcaraz, powered past American Frances Tiafoe 6-2, 6-2 in just over an hour at the ATP Finals on Monday to stretch his winning run to 10 matches. Tiafoe’s baseline game…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Germany run riot over Netherlands to top Nations League group",
+      "link": "https://ghanaiantimes.com.gh/germany-run-riot-over-netherlands-to-top-nations-league-group/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:32:59.000Z",
+      "summary": "FLORIAN Wirtz scored twice and Brajan Gruda contributed a goal and two assists as Germany cruised to a 5-0 win over the Netherlands in Berlin to reach the Nations League quarter-finals on…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UEFA backs Diallo for FIFA presidency",
+      "link": "https://ghanaiantimes.com.gh/uefa-backs-diallo-for-fifa-presidency/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:30:23.000Z",
+      "summary": "EUROPEAN football’s governing body, UEFA, has given its “unanimous” backing to French Football Federation chief, Philippe Diallo, to stand against incumbent, Gianni Infantino, in the FIFA…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tourism Society, University of Ghana to host three-day youth festival",
+      "link": "https://www.myjoyonline.com/tourism-society-university-of-ghana-to-host-three-day-youth-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T07:30:11.000Z",
+      "summary": "The Tourism Society of Ghana, in collaboration with the University of Ghana, Legon, is set to host a three-day festival to promote youth participation in domestic tourism and the…",
+      "categories": [
+        "Arts and Culture",
+        "Travel and Tourism",
+        "Tourism Society of Ghana",
+        "University of Ghana",
+        "Youth Festival"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Owono did not deserve 12-match ban – Pique",
       "link": "https://ghanaiantimes.com.gh/owono-did-not-deserve-12-match-ban-pique/",
@@ -63,61 +161,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Heath Goldfields targets underground mine reopening next year",
-      "link": "https://ghanaiantimes.com.gh/heath-goldfields-targets-underground-mine-reopening-next-year/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:19:18.000Z",
-      "summary": "HEATH Goldfields Limited has targeted next year to reopen the underground mine in Bogoso-Prestea, with a focus on long-term growth through technical initiatives aimed at unlocking the full…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Carefully assess domestic, global developments for appropriate monetary policy stance • Governor urges MPC",
-      "link": "https://ghanaiantimes.com.gh/carefully-assess-domestic-global-developments-for-appropriate-monetary-policy-stance-governor-urges-mpc/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:16:58.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has urged members of the Monetary Policy Committee (MPC) to carefully assess domestic and global economic developments to…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fishers demand greater role in fisheries policy formulation",
-      "link": "https://ghanaiantimes.com.gh/fishers-demand-greater-role-in-fisheries-policy-formulation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:13:17.000Z",
-      "summary": "FISHERS in the Greater Accra Region have called for greater involvement in the formulation and implementation of government policies and interventions aimed at developing the fisheries…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana secures 2 ITU seats in Doha",
-      "link": "https://ghanaiantimes.com.gh/ghana-secures-2-itu-seats-in-doha/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:10:49.000Z",
-      "summary": "GHANA has secured two important positions in the global telecommunications governing structure following its re-election to the Council of the International Telecommunication Union (ITU)…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNATH elects new executives for Ho Municipality",
-      "link": "https://ghanaiantimes.com.gh/gnath-elects-new-executives-for-ho-municipality/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:08:38.000Z",
-      "summary": "THE Ho Municipal branch of the Ghana National Association of Traditional Healers (GNATH) has elected new executives to strengthen the regulation of traditional medicine practice and ensure…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Parliament demands independent probe into Manso Keniago deaths",
@@ -217,34 +260,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘There are no winners or losers’ – Julius Fieve calls for unity after NDC youth election",
-      "link": "https://www.myjoyonline.com/there-are-no-winners-or-losers-julius-fieve-calls-for-unity-after-ndc-youth-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:57:00.000Z",
-      "summary": "Newly elected Deputy Volta Regional Youth Organiser of the National Democratic Congress (NDC), Julius Karl D. Fieve, has called on party members to unite after the elections and focus on…",
-      "categories": [
-        "Politics",
-        "Julius Fieve",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedi loses ground as depreciation slips further to 10.6% – BoG data",
-      "link": "https://www.myjoyonline.com/cedi-loses-ground-as-depreciation-slips-further-to-10-6-bog-data/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:48:49.000Z",
-      "summary": "The Ghana cedi is coming under renewed pressure, with its year-to-date depreciation against the US dollar reaching 10.6 per cent in November, up from 9.5 per cent in September.",
-      "categories": [
-        "Business",
-        "HP News 8",
-        "News",
-        "Cedi",
-        "Dollar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Veterinary Association calls for urgent recruitment to support poultry self-sufficiency drive",
       "link": "https://www.graphic.com.gh/news/general-news/veterinary-association-calls-for-urgent-recruitment-to-support-poultry-self-sufficiency-drive.html",
       "source": "Daily Graphic",
@@ -304,17 +319,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/prof-fred-newton-binka-passes-on.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T13:29:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Researcher on how to cook local Ghanaian rice for it to taste better than Vietnamese rice",
-      "link": "https://www.graphic.com.gh/news/general-news/researcher-on-how-to-cook-local-ghanaian-rice-for-it-to-taste-better-than-vietnamese-rice.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T13:07:15.000Z",
       "summary": "",
       "categories": [
         "General News"
