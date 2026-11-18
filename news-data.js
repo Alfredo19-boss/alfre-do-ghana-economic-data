@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T15:28:34.797Z",
+  "updated": "2026-11-18T15:38:34.652Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,13 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
+      "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:32:18.000Z",
+      "summary": "The 2026 Ghana Export and Made in Ghana Fair (GEXPO 2026) is set to run from November 18 to 22 at the Black Star Square in Accra, with a focus on promoting locally manufactured products and…"
+    },
+    {
       "title": "BoG reviews Women’s Development Bank application after receiving additional information",
       "link": "https://www.myjoyonline.com/bog-reviews-womens-development-bank-application-after-receiving-additional-information/",
       "source": "MyJoyOnline",
@@ -31,6 +38,13 @@ window.GDC_NEWS = {
     {
       "title": "MPC cuts policy rate to 11% from 14 percent",
       "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:46:19.000Z",
+      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
+    },
+    {
+      "title": "MPC reduces policy rate to 11% from 14 percent",
+      "link": "https://www.myjoyonline.com/mpc-reduces-policy-rate-to-11-from-14-percent/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T14:46:19.000Z",
       "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T05:01:00.000Z",
       "summary": "Dr. Kwabena Donkor urges Ghana to mobilise pension funds, private equity and domestic financial institutions to finance industrialisation, with government providing seed capital while…"
-    },
-    {
-      "title": "T-Bills Slip in Budget Week, Record 22% Undersubscription Despite Drop in Interest Rate",
-      "link": "https://thehighstreetjournal.com/t-bills-slip-in-budget-week-record-22-undersubscription-despite-drop-in-interest-rate/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:00:00.000Z",
-      "summary": "Ghana’s T-Bills auction recorded 22.23% undersubscription during the 2027 Budget week, with government raising GH¢3.452 billion against a GH¢5.572 billion target, despite declining yields…"
-    },
-    {
-      "title": "The Cedi Deserves Better: Why Ghana Must Get Its History Right",
-      "link": "https://thehighstreetjournal.com/the-cedi-deserves-better-why-ghana-must-get-its-history-right/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:00:00.000Z",
-      "summary": "The article urges the Bank of Ghana to verify and explain the GH¢50 portrait controversy, arguing accurate history and transparency underpin public trust in currency."
     }
   ]
 };

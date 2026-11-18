@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T15:29:05.082Z",
+  "updated": "2026-11-18T15:39:05.116Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,54 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
+      "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:32:18.000Z",
+      "summary": "The 2026 Ghana Export and Made in Ghana Fair (GEXPO 2026) is set to run from November 18 to 22 at the Black Star Square in Accra, with a focus on promoting locally manufactured products and…",
+      "categories": [
+        "Economy",
+        "National",
+        "Black Star Square",
+        "Ghana Export and Made in Ghana Fair (GEXPO 2026)",
+        "Made-in-Ghana products",
+        "Ministry of Trade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s unemployed youth seek jobs, but say their voices remain absent from decision-making",
+      "link": "https://www.myjoyonline.com/ghanas-unemployed-youth-seek-jobs-but-say-their-voices-remain-absent-from-decision-making/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:30:56.000Z",
+      "summary": "With unemployment remaining one of the biggest concerns confronting young people in Ghana, three youth leaders are calling for greater involvement of the younger generation in decisions on…",
+      "categories": [
+        "Features",
+        "Esther Abankwa",
+        "EU’s Women and Youth Democratic Engagement (WYDE)",
+        "Unemployment",
+        "Youth",
+        "youth leader"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UGEL CEO threatened me with trespassing warning ahead of inspection – Rent Commissioner alleges",
+      "link": "https://www.myjoyonline.com/ugel-ceo-threatened-me-with-trespassing-warning-ahead-of-inspection-rent-commissioner-alleges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:29:49.000Z",
+      "summary": "Acting Rent Commissioner, Frederick Opoku, has alleged that the Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Nutifafa Agbesi, warned him against…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Frederick Opoku",
+        "Rent Commissioner",
+        "UGEL CEO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Korea, UNESCO support Ghana to strengthen water security",
       "link": "https://www.graphic.com.gh/news/general-news/korea-unesco-support-ghana-to-strengthen-water-security.html",
@@ -119,24 +167,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MPC cuts policy rate to 11% from 14 percent",
-      "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "National",
-        "Bank of Ghana",
-        "BoG",
-        "Dr Johnson Asiama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Stop hiding behind containers: CID Director warns police officers",
       "link": "https://www.graphic.com.gh/news/general-news/stop-hiding-behind-containers-cid-director-warns-police-officers.html",
       "source": "Daily Graphic",
@@ -157,36 +187,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa Education Watch urges Education Ministry to intervene in Rent Control-UGEL dispute",
-      "link": "https://www.myjoyonline.com/africa-education-watch-urges-education-ministry-to-intervene-in-rent-control-ugel-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:05:26.000Z",
-      "summary": "Executive Director of Africa Education Watch, Kofi Asare, has called on the Ministry of Education to urgently intervene in the disagreement between the Rent Control Department and the…",
-      "categories": [
-        "National",
-        "News",
-        "Africa Education Watch",
-        "Education Ministry",
-        "Rent Control-UGEL dispute"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL hostel rent dispute requires dialogue, not confrontations – Africa Education Watch",
-      "link": "https://www.myjoyonline.com/ugel-hostel-rent-dispute-requires-dialogue-not-confrontations-africa-education-watch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:55:50.000Z",
-      "summary": "Africa Education Watch has criticised the Rent Control Department's approach to resolving the disagreement with the University of Ghana Enterprise Limited (UGEL) over hostel rental charges.",
-      "categories": [
-        "National",
-        "News",
-        "Africa Education Watch",
-        "Kofi Asare",
-        "UGEL hostel"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama proposes phased rollout of ECO currency",
