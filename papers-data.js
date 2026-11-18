@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T15:19:04.431Z",
+  "updated": "2026-11-18T15:29:05.082Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Korea, UNESCO support Ghana to strengthen water security",
+      "link": "https://www.graphic.com.gh/news/general-news/korea-unesco-support-ghana-to-strengthen-water-security.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T15:15:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "BoG reviews Women’s Development Bank application after receiving additional information",
+      "link": "https://www.myjoyonline.com/bog-reviews-womens-development-bank-application-after-receiving-additional-information/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:14:58.000Z",
+      "summary": "The Bank of Ghana (BoG) is reviewing an application for the establishment of the proposed Women’s Development Bank, following the submission of additional information requested from the…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 2",
+        "BoG",
+        "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: Building a culture of integrity and ethical leadership",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-integrity-and-ethical-leadership/",
@@ -75,6 +101,24 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "MPC reduces policy rate to 11% from 14 percent",
+      "link": "https://www.myjoyonline.com/mpc-reduces-policy-rate-to-11-from-14-percent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:46:19.000Z",
+      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "National",
+        "Bank of Ghana",
+        "BoG",
+        "Dr Johnson Asiama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "MPC cuts policy rate to 11% from 14 percent",
       "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
       "source": "MyJoyOnline",
@@ -91,6 +135,17 @@ window.GDC_PAPERS = {
         "Dr Johnson Asiama"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stop hiding behind containers: CID Director warns police officers",
+      "link": "https://www.graphic.com.gh/news/general-news/stop-hiding-behind-containers-cid-director-warns-police-officers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T14:38:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "President Mahama condemns attacks on foreigners in South Africa, calls for lawful migration",
@@ -134,33 +189,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prosecution closes case against Wontumi; court sets December 17 deadline for defence",
-      "link": "https://www.myjoyonline.com/prosecution-closes-case-against-wontumi-court-sets-december-17-deadline-for-defence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:43:47.000Z",
-      "summary": "The Accra High Court has directed former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, to file a submission of no case to…",
-      "categories": [
-        "National",
-        "December 17",
-        "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President urges MTN to improve network quality and expand rural connectivity",
-      "link": "https://www.myjoyonline.com/vice-president-urges-mtn-to-improve-network-quality-and-expand-rural-connectivity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:35:29.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has urged MTN Ghana to increase investment in network quality, customer experience and connectivity in underserved communities as the…",
-      "categories": [
-        "National",
-        "MTN",
-        "Quality",
-        "rural connectivity"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama proposes phased rollout of ECO currency",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
       "source": "Daily Graphic",
@@ -198,28 +226,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-targets-1trn-africa-food-market.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T09:05:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "We’re ready to support Ghana accelerate growth - Chinese Ambassador",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-were-ready-to-support-ghana-accelerate-growth-chinese-ambassador.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T09:02:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama visits Akufo-Addo at Nima residence",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-visits-akufo-addo-at-nima-residence.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:55:22.000Z",
       "summary": "",
       "categories": [
         "General News"
