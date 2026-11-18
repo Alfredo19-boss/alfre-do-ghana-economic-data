@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:04:07.147Z",
+  "updated": "2026-11-18T16:14:06.042Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
+      "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:02:51.000Z",
+      "summary": "Former Finance Minister and Ranking Member on Parliament's finance committee Dr Mohammed Amin Adam has put Ghana’s public debt burden at the equivalent of GH¢23,000 for every citizen…",
+      "categories": [
+        "Economy",
+        "National",
+        "Amin Adam",
+        "Budget 2027",
+        "nationa debt",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Firefighters save 10-room Bimbilla Chief’s Palace compound from fire",
       "link": "https://www.myjoyonline.com/firefighters-save-10-room-bimbilla-chiefs-palace-compound-from-fire/",
@@ -132,21 +148,6 @@ window.GDC_PAPERS = {
         "Unemployment",
         "Youth",
         "youth leader"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IET-GH donates medical equipment to Osu Maternity Clinic",
-      "link": "https://www.myjoyonline.com/iet-gh-donates-medical-equipment-to-osu-maternity-clinic/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:30:00.000Z",
-      "summary": "The Institution of Engineering and Technology Ghana (IET-GH) has donated medical equipment and cash to the Osu Maternity Clinic to support healthcare delivery at the facility.",
-      "categories": [
-        "Health",
-        "National",
-        "Institution of Engineering and Technology Ghana (IET-GH)",
-        "Medical equipment",
-        "Osu Maternity Clinic"
       ],
       "site": "https://www.myjoyonline.com/"
     },

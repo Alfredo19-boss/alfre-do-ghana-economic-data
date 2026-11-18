@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T16:03:36.377Z",
+  "updated": "2026-11-18T16:13:38.813Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
+      "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:02:51.000Z",
+      "summary": "Former Finance Minister and Ranking Member on Parliament's finance committee Dr Mohammed Amin Adam has put Ghana’s public debt burden at the equivalent of GH¢23,000 for every citizen…"
+    },
     {
       "title": "BoG delays non-interest banking framework rollout for further consultations",
       "link": "https://www.myjoyonline.com/bog-delays-non-interest-banking-framework-rollout-for-further-consultations/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T05:05:00.000Z",
       "summary": "President John Dramani Mahama and Nigerian industrialist Aliko Dangote are headlining the gathering at the Kempinski Hotel"
-    },
-    {
-      "title": "Mahama to Commission GH¢148.4m Cashew Processing Factory in Techiman",
-      "link": "https://thehighstreetjournal.com/mahama-to-commission-gh%c2%a2148-4m-cashew-processing-factory-in-techiman/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:03:00.000Z",
-      "summary": "Ghana EXIM Bank-backed facility will process 100 tonnes of raw cashew nuts daily as government pushes for greater local value addition."
     }
   ]
 };
