@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:39:12.424Z",
+  "updated": "2026-11-18T07:49:10.300Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minister woos investors to establish value-addition industries in Ghana",
+      "link": "https://ghanaiantimes.com.gh/minister-woos-investors-to-establish-value-addition-industries-in-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:48:46.000Z",
+      "summary": "THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has invited international investors to explore Ghana’s industrial opportunities, urging them to shift their…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Agric must drive industrial growth, job creation – Mr Opoku",
+      "link": "https://ghanaiantimes.com.gh/agric-must-drive-industrial-growth-job-creation-mr-opoku/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:45:58.000Z",
+      "summary": "THE government is stepping up efforts to move Ghana’s agriculture sector away from the export of raw agricultural commodities towards local processing and value addition, in a major push to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Don’t despair – Thomas-Asante stresses support for Black Stars",
+      "link": "https://www.myjoyonline.com/dont-despair-thomas-asante-stresses-support-for-black-stars/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T07:45:00.000Z",
+      "summary": "Ghana striker Brandon Thomas-Asante has stressed the need for continued support for the Black Stars, adding that the team strives to meet fan expectations. The Stars have endured a mixed…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Björkegren: Stars mission completed, 6 points secured",
+      "link": "https://ghanaiantimes.com.gh/bjorkegren-stars-mission-completed-6-points-secured/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:41:05.000Z",
+      "summary": "KIM Lars Björkegren says Ghana achieved its mission in Sekondi-Takoradi after completing a double over Somalia to revive the team’s hopes of qualifying for the 2027 Africa Cup of Nations…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Amputee W/C: Black Challenge whip Iraq 6-0",
       "link": "https://ghanaiantimes.com.gh/amputee-w-c-black-challenge-whip-iraq-6-0/",
@@ -119,39 +165,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Owono did not deserve 12-match ban – Pique",
-      "link": "https://ghanaiantimes.com.gh/owono-did-not-deserve-12-match-ban-pique/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:27:26.000Z",
-      "summary": "FC Andorra owner, Gerard Pique, says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Irish boxer dies after three months in coma",
-      "link": "https://ghanaiantimes.com.gh/irish-boxer-dies-after-three-months-in-coma/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:25:29.000Z",
-      "summary": "IRISH boxer Lee Reeves has died aged 31, three months after suffering critical injuries in a bout in Dublin which left him in a coma. Reeves was knocked out in the 10th round as he fought…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cameroon, Senegal, Benin close in on AFCON 2027 qualification",
-      "link": "https://ghanaiantimes.com.gh/cameroon-senegal-benin-close-in-on-afcon-2027-qualification/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:23:51.000Z",
-      "summary": "Nicolas Jackson was on target again as Senegal, Cameroon and Benin moved to the brink of qualification for the 2027 Africa Cup of Nations (AFCON) with away victories. After Aston Villa…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ghana news Survey Authority completes 48 district mineral occurrence maps",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-survey-authority-completes-48-district-mineral-occurrence-maps.html",
       "source": "Daily Graphic",
@@ -243,19 +256,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Premier League",
         "Thomas-Asante"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Make data funding compulsory in all ministries – Government Statistician",
-      "link": "https://www.myjoyonline.com/make-data-funding-compulsory-in-all-ministries-government-statistician/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:04:54.000Z",
-      "summary": "The Government Statistician, Dr Alhassan Iddrisu, wants every government ministry and agency to set aside money annually for collecting and managing data, warning that Ghana’s development…",
-      "categories": [
-        "News",
-        "Data",
-        "Statistician"
       ],
       "site": "https://www.myjoyonline.com/"
     },
