@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T14:29:04.443Z",
+  "updated": "2026-11-18T14:39:03.539Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -139,6 +139,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T09:30:42.000Z",
       "summary": "Ghana's proposed 2027 Income Tax Bill will bring cryptocurrency trading, virtual assets, digital services and foreign technology companies under formal taxation, closing existing loopholes…"
+    },
+    {
+      "title": "SG Ghana launches Professional Plus Offer to support professionals in building, growing their businesses",
+      "link": "https://www.myjoyonline.com/sg-ghana-launches-professional-plus-offer-to-support-professionals-in-building-growing-their-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T09:23:00.000Z",
+      "summary": "Societe Generale (SG) Ghana has launched a new offer called the Professional Plus Offer designed for Professionals looking to establish or expand their private practices and businesses. The…"
     },
     {
       "title": "Affordability, margin pressure, innovation to drive consumption in 2027, FMCGs urged to prepare",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:14:55.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount."
-    },
-    {
-      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rates",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rates/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T23:14:55.000Z",
       "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount."
