@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:09:11.213Z",
+  "updated": "2026-11-18T05:19:08.590Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -75,6 +75,22 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "How to cook local Ghanaian rice to taste better than imported foreign rice – CRI Director explains",
+      "link": "https://www.myjoyonline.com/how-to-cook-local-ghanaian-rice-to-taste-better-than-imported-foreign-rice-cri-director-explains/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:10:28.000Z",
+      "summary": "Ghanaians who complain that locally produced rice does not taste as good as imported varieties may be getting it wrong in the kitchen, according to a leading rice researcher.",
+      "categories": [
+        "Food",
+        "Lifestyle",
+        "National",
+        "News",
+        "Ghana",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "The Creatives Summit unveils speakers for 2026 edition",
       "link": "https://www.myjoyonline.com/the-creatives-summit-unveils-speakers-for-2026-edition/",
       "source": "MyJoyOnline",
@@ -108,19 +124,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Thomas Markle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia says it won’t reinstate Huang as firm reports bumper results",
-      "link": "https://www.myjoyonline.com/nvidia-says-it-wont-reinstate-huang-as-firm-reports-bumper-results/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:45:28.000Z",
-      "summary": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
-      "categories": [
-        "International",
-        "Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
