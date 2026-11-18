@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:53:38.576Z",
+  "updated": "2026-11-18T03:58:41.833Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,6 +49,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Rice farmers turn to Nigerian, Burkinabe buyers as local sales stall, says FABAG’s Ato Aggrey",
+      "link": "https://www.myjoyonline.com/rice-farmers-turn-to-nigerian-burkinabe-buyers-as-local-sales-stall-says-fabags-ato-aggrey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:59:00.000Z",
+      "summary": "Ghanaian rice farmers struggling to sell their produce locally are turning to buyers from Nigeria and Burkina Faso, according to the General Secretary of the Food and Beverage Association…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Food and Beverage Association of Ghana (FABAG)",
+        "Rice Farmers In Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mahama calls for gradual adoption of ECO, says willing countries should lead",
       "link": "https://www.myjoyonline.com/mahama-calls-for-gradual-adoption-of-eco-says-willing-countries-should-lead/",
       "source": "MyJoyOnline",
@@ -61,6 +75,19 @@ window.GDC_PAPERS = {
         "ECO",
         "ECOWAS",
         "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil prices fall as higher US crude stocks temper supply risks",
+      "link": "https://www.myjoyonline.com/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:25:00.000Z",
+      "summary": "Oil prices fell on Wednesday after data showed an increase in US crude and fuel inventories last week, though ongoing US-Iran attacks and disruptions to shipping through the Strait of…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -105,34 +132,6 @@ window.GDC_PAPERS = {
         "Food and Beverage Association of Ghana (FABAG)",
         "Rice Board",
         "Samuel Ato Aggrey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Buy and store local rice before cutting imports – FABAG’s Ato Aggrey urges government",
-      "link": "https://www.myjoyonline.com/buy-and-store-local-rice-before-cutting-imports-fabags-ato-aggrey-urges-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T00:11:00.000Z",
-      "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports.",
-      "categories": [
-        "Agribusiness",
-        "HP News 6",
-        "National",
-        "Food and Beverage Association of Ghana (FABAG)",
-        "Local rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US judge extends deadline for Trump deposition in BBC defamation case",
-      "link": "https://www.myjoyonline.com/us-judge-extends-deadline-for-trump-deposition-in-bbc-defamation-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:50:00.000Z",
-      "summary": "A Florida federal judge on Tuesday said President Donald Trump must appear for a deposition by January 22 in his $10 billion defamation lawsuit against the BBC, after both sides asked for…",
-      "categories": [
-        "International",
-        "BBC",
-        "Donald Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },
