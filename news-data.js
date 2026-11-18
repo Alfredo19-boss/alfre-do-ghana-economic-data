@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T16:13:38.813Z",
+  "updated": "2026-11-18T16:23:34.620Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "MTN Urged to Strengthen Network Quality and Expand Digital Inclusion",
+      "link": "https://thehighstreetjournal.com/mtn-urged-to-strengthen-network-quality-and-expand-digital-inclusion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T16:15:00.000Z",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has urged MTN Ghana to improve network quality, expand digital access and strengthen cybersecurity as the telecommunications company…"
+    },
     {
       "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
       "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-16T06:45:53.000Z",
       "summary": "Economists have urged the government to mobilise resources and ensure effective implementation of flagship programmes to achieve the targets of the 2027 Budget."
-    },
-    {
-      "title": "Invest in Ghana Summit Opens Today; Gov’t Pitches Investments in New Economy to Investors",
-      "link": "https://thehighstreetjournal.com/invest-in-ghana-summit-opens-today/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:05:00.000Z",
-      "summary": "President John Dramani Mahama and Nigerian industrialist Aliko Dangote are headlining the gathering at the Kempinski Hotel"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:14:06.042Z",
+  "updated": "2026-11-18T16:24:08.463Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "19 of 22 shops inspected at West Hills Mall fail tax compliance checks",
+      "link": "https://www.myjoyonline.com/19-of-22-shops-inspected-at-west-hills-mall-fail-tax-compliance-checks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:17:47.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has identified 19 non-compliant businesses out of 22 shops inspected during a tax enforcement exercise within the West Hills Mall enclave in Accra.",
+      "categories": [
+        "National",
+        "tax compliance",
+        "West Hills Mall"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
       "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
@@ -132,22 +145,6 @@ window.GDC_PAPERS = {
         "Ghana Export and Made in Ghana Fair (GEXPO 2026)",
         "Made-in-Ghana products",
         "Ministry of Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s unemployed youth seek jobs, but say their voices remain absent from decision-making",
-      "link": "https://www.myjoyonline.com/ghanas-unemployed-youth-seek-jobs-but-say-their-voices-remain-absent-from-decision-making/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:30:56.000Z",
-      "summary": "With unemployment remaining one of the biggest concerns confronting young people in Ghana, three youth leaders are calling for greater involvement of the younger generation in decisions on…",
-      "categories": [
-        "Features",
-        "Esther Abankwa",
-        "EU’s Women and Youth Democratic Engagement (WYDE)",
-        "Unemployment",
-        "Youth",
-        "youth leader"
       ],
       "site": "https://www.myjoyonline.com/"
     },
