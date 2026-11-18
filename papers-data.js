@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T02:58:38.399Z",
+  "updated": "2026-11-18T03:03:41.605Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ruthless Zverev through to ATP Finals knockout stage",
+      "link": "https://www.myjoyonline.com/ruthless-zverev-through-to-atp-finals-knockout-stage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:42:00.000Z",
+      "summary": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
+      "categories": [
+        "Tennis",
+        "Alexander Zverev",
+        "ATP Finals"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Superb Alcaraz makes statement start at ATP Finals",
       "link": "https://www.myjoyonline.com/superb-alcaraz-makes-statement-start-at-atp-finals/",
@@ -111,20 +124,6 @@ window.GDC_PAPERS = {
         "Football",
         "Manchester United",
         "Wayne Rooney"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
-      "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:36:36.000Z",
-      "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…",
-      "categories": [
-        "Africa",
-        "Mining",
-        "National",
-        "Anglogold Ashanti"
       ],
       "site": "https://www.myjoyonline.com/"
     },
