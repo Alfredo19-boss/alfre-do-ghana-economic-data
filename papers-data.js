@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T08:19:11.701Z",
+  "updated": "2026-11-18T08:29:12.261Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "24-Hour Economy Authority backs Nadkansco cashew factory",
+      "link": "https://ghanaiantimes.com.gh/24-hour-economy-authority-backs-nadkansco-cashew-factory/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:28:26.000Z",
+      "summary": "THE 24-Hour Economy Authority has thrown its support behind Nadkansco’s new cashew processing factory, inaugurated by President John Dramani Mahama in Techiman in the Bono East Region. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prof Fred Binka, pioneering malaria researcher and founding UHAS Vice-Chancellor, dies at 73",
+      "link": "https://www.myjoyonline.com/prof-fred-binka-pioneering-malaria-researcher-and-founding-uhas-vice-chancellor-dies-at-73/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T08:27:09.000Z",
+      "summary": "Ghana has lost one of its foremost public health experts, Professor Fred Newton Binka, a renowned malaria researcher and founding Vice-Chancellor of the University of Health and Allied…",
+      "categories": [
+        "Health",
+        "National",
+        "Prof Fred Binka",
+        "UHAS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "At COP31: Jospong, ISA partner to accelerate Africa’s solar energy drive",
+      "link": "https://ghanaiantimes.com.gh/at-cop31-jospong-isa-partner-to-accelerate-africas-solar-energy-drive/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:23:47.000Z",
+      "summary": "THE International Solar Alliance (ISA) has presented a comprehensive solarisation roadmap to the Jospong Group of Companies (JGC) at the ongoing 31st United Nations Climate Change…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GMA Chief Director appointed to Africa PR Week council",
+      "link": "https://ghanaiantimes.com.gh/gma-chief-director-appointed-to-africa-pr-week-council/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:20:48.000Z",
+      "summary": "EMMA Wenani, Chief Director of Global Media Alliance (GMA), has joined the Advisory Council of Africa PR Week, organisers of the annual Africa Global PR Week summit in Nairobi. Ms Wenani…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana, US deepen cooperation to tackle mercury pollution",
       "link": "https://ghanaiantimes.com.gh/ghana-us-deepen-cooperation-to-tackle-mercury-pollution/",
@@ -75,41 +122,6 @@ window.GDC_PAPERS = {
       "summary": "Introduction THE widely held belief that “what men can do, women can do better” has become a powerful expression of women’s confidence and capability. It challenges the traditional…",
       "categories": [
         "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "The future of banking in Ghana: Why execution matters in the digital age",
-      "link": "https://ghanaiantimes.com.gh/the-future-of-banking-in-ghana-why-execution-matters-in-the-digital-age/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:53:11.000Z",
-      "summary": "BANKING in Ghana is changing as more customers use digital channels to make payments, transfer funds, manage accounts and conduct business. Electronic payments, real-time services and…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minister woos investors to establish value-addition industries in Ghana",
-      "link": "https://ghanaiantimes.com.gh/minister-woos-investors-to-establish-value-addition-industries-in-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:48:46.000Z",
-      "summary": "THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has invited international investors to explore Ghana’s industrial opportunities, urging them to shift their…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Agric must drive industrial growth, job creation – Mr Opoku",
-      "link": "https://ghanaiantimes.com.gh/agric-must-drive-industrial-growth-job-creation-mr-opoku/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:45:58.000Z",
-      "summary": "THE government is stepping up efforts to move Ghana’s agriculture sector away from the export of raw agricultural commodities towards local processing and value addition, in a major push to…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -258,20 +270,6 @@ window.GDC_PAPERS = {
         "Frank Lampard",
         "Ghana",
         "Premier League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
-      "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:11:02.000Z",
-      "summary": "Gold Fields Ghana says it is ready to invest further to extend the life of the Tarkwa mine, pending the outcome of its mining lease renewal application.",
-      "categories": [
-        "Mining",
-        "National",
-        "Gold Fields",
-        "Tarkwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
