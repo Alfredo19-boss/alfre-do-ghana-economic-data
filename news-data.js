@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T05:39:06.675Z",
+  "updated": "2026-11-18T05:49:05.271Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Gold Fields Touts Enormous Technical & Financial Capacity to Extend Life of Tarkwa Mine Upon Lease Renewal",
+      "link": "https://thehighstreetjournal.com/gold-fields-touts-enormous-technical-financial-capacity-to-extend-life-of-tarkwa-mine-upon-lease-renewal/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:43:54.000Z",
+      "summary": "Gold Fields says its technical expertise, US$5 billion investment history and financial strength position it to extend Tarkwa mine's lifespan, pledging further capital investment to protect…"
+    },
+    {
+      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
+      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:09:00.000Z",
+      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…"
+    },
     {
       "title": "The No New Tax Paradox: Why Businesses May Still Face Higher Tax Bills Despite Assurance – Deloitte’s Insight",
       "link": "https://thehighstreetjournal.com/the-no-new-tax-paradox-why-businesses-may-still-face-higher-tax-bills-despite-assurance-deloittes-insight/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T05:18:46.000Z",
       "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
-    },
-    {
-      "title": "Women’s Development Bank Must Reach Rural Entrepreneurs to Deliver Economic Impact",
-      "link": "https://thehighstreetjournal.com/womens-development-bank-must-reach-rural-entrepreneurs-to-deliver-economic-impact/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T05:05:00.000Z",
-      "summary": "SWIDA-Ghana says the Women's Development Bank could accelerate women's business growth and reduce poverty, but insists inclusive financing must reach rural entrepreneurs and women in the…"
-    },
-    {
-      "title": "Poultry and Garments Become the 2027 Budget’s Test of Import Substitution",
-      "link": "https://thehighstreetjournal.com/poultry-and-garments-become-the-2027-budgets-test-of-import-substitution/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T05:03:00.000Z",
-      "summary": "The 2027 Budget is putting dedicated funding behind poultry and textiles, testing whether targeted investment can turn import dependence into local production, jobs and industrial growth."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:39:09.856Z",
+  "updated": "2026-11-18T05:49:07.551Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,7 +27,22 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T05:34:25.000Z",
       "summary": "A leading agricultural researcher has urged the government to make locally produced rice the exclusive choice for feeding students in public boarding schools and other state institutions…",
       "categories": [
+        "HP News 2",
         "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Javits Frimpong killing: Judge keeps 17-year-old’s case in adult court",
+      "link": "https://www.myjoyonline.com/javits-frimpong-killing-judge-keeps-17-year-olds-case-in-adult-court/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:20:00.000Z",
+      "summary": "A 17-year-old charged over the fatal shooting of Ghanaian student Javits Frimpong in the Bronx, New York, will face proceedings in the adult criminal court system after a judge declined to…",
+      "categories": [
+        "Diaspora",
+        "HP News 2",
+        "adult court",
+        "Javits Frimpong"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -38,6 +53,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T05:09:00.000Z",
       "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…",
       "categories": [
+        "HP News 4",
         "Mining",
         "National",
         "mining royalties",
@@ -109,22 +125,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Minurso",
         "Morocco"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "How to cook local Ghanaian rice to taste better than imported foreign rice – CRI Director explains",
-      "link": "https://www.myjoyonline.com/how-to-cook-local-ghanaian-rice-to-taste-better-than-imported-foreign-rice-cri-director-explains/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:10:28.000Z",
-      "summary": "Ghanaians who complain that locally produced rice does not taste as good as imported varieties may be getting it wrong in the kitchen, according to a leading rice researcher.",
-      "categories": [
-        "Food",
-        "Lifestyle",
-        "National",
-        "News",
-        "Ghana",
-        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
