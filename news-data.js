@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T11:29:03.659Z",
+  "updated": "2026-11-18T11:38:34.945Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Private Sector Credit Surges 37.2% as Ghanaian Businesses Gain Greater Access to Bank Financing",
+      "link": "https://thehighstreetjournal.com/private-sector-credit-surges-37-2-as-ghanaian-businesses-gain-greater-access-to-bank-financing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T11:30:00.000Z",
+      "summary": "Private sector credit grew 37.2% in October as lending rates declined and non-performing loans improved, creating opportunities for businesses while raising questions about financing costs…"
+    },
     {
       "title": "GRA Uncovers Widespread VAT Non-Compliance at West Hills Mall Enclave",
       "link": "https://thehighstreetjournal.com/gra-uncovers-widespread-vat-non-compliance-at-west-hills-mall-enclave/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-15T15:00:44.000Z",
       "summary": "The 2027 Budget reduces the primary surplus target from 1.5% of GDP in 2026, signalling a shift towards increased government spending"
-    },
-    {
-      "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T14:00:12.000Z",
-      "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank…"
     }
   ]
 };

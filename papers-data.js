@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:29:06.532Z",
+  "updated": "2026-11-18T11:39:04.658Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Former Spain midfielder Mata retires aged 38",
+      "link": "https://www.myjoyonline.com/former-spain-midfielder-mata-retires-aged-38/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:28:25.000Z",
+      "summary": "Mata, who made 41 international appearances, was part of the Spain squad that won the 2010 World Cup, and he helped his country win the European Championship two years later when he scored…",
+      "categories": [
+        "Football",
+        "Juan Mata"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man arrested for allegedly impersonating a prison officer in Tamale",
+      "link": "https://www.myjoyonline.com/man-arrested-for-allegedly-impersonating-a-prison-officer-in-tamale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:28:13.000Z",
+      "summary": "A 19-year-old man has been arrested at Gumbihini, a suburb of Tamale, for allegedly impersonating a Ghana Prisons Service officer.",
+      "categories": [
+        "HP News 6",
+        "National",
+        "Prisons Service",
+        "Tamale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "We do not fall under the Rent Act; hostel occupants are not tenants – UGEL Chief Officer",
       "link": "https://www.myjoyonline.com/we-do-not-fall-under-rent-act-hostel-occupants-are-not-tenants-ugel-chief-officer/",
@@ -111,33 +137,6 @@ window.GDC_PAPERS = {
         "Health",
         "Cardiac support",
         "Promasidor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN FA Cup 2026/27: Hearts, Kotoko draw lower tier side in Round of 64",
-      "link": "https://www.myjoyonline.com/mtn-fa-cup-2026-27-hearts-kotoko-draw-lower-tier-side-in-round-of-64/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:12:48.000Z",
-      "summary": "The 18 Ghana Premier League teams have joined the competition at this stage. Former champions, Asante Kotoko host Adom FC and record-holders, Accra Hearts of Oak take on Accra Elite Academy.",
-      "categories": [
-        "Football",
-        "MTN FA Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mobile money fraud risks eroding trust in digital finance – Academic City, MMFL, BoG tackle fintech threats",
-      "link": "https://www.myjoyonline.com/mobile-money-fraud-risks-eroding-trust-in-digital-finance-academic-city-mmfl-bog-tackle-fintech-threats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:11:36.000Z",
-      "summary": "A Bank of Ghana (BoG) official has warned that customers who lose their savings to fraud could turn away from digital financial services, undermining gains in financial inclusion.",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Academic City",
-        "Bank of Ghana (BoG)",
-        "MobileMoney Fintech Limited"
       ],
       "site": "https://www.myjoyonline.com/"
     },
