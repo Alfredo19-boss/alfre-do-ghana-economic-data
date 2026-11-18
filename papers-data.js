@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:03:41.605Z",
+  "updated": "2026-11-18T03:08:39.363Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US judge extends deadline for Trump deposition in BBC defamation case",
+      "link": "https://www.myjoyonline.com/us-judge-extends-deadline-for-trump-deposition-in-bbc-defamation-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:50:00.000Z",
+      "summary": "A Florida federal judge on Tuesday said President Donald Trump must appear for a deposition by January 22 in his $10 billion defamation lawsuit against the BBC, after both sides asked for…",
+      "categories": [
+        "International",
+        "BBC",
+        "Donald Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ruthless Zverev through to ATP Finals knockout stage",
       "link": "https://www.myjoyonline.com/ruthless-zverev-through-to-atp-finals-knockout-stage/",
@@ -111,19 +124,6 @@ window.GDC_PAPERS = {
         "Football",
         "Erling Braut Haaland",
         "Norway"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rooney says he considered taking his own life at Man Utd",
-      "link": "https://www.myjoyonline.com/rooney-says-he-considered-taking-his-own-life-at-man-utd/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:46:00.000Z",
-      "summary": "Wayne Rooney says he was \"contemplating suicide\" during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
-      "categories": [
-        "Football",
-        "Manchester United",
-        "Wayne Rooney"
       ],
       "site": "https://www.myjoyonline.com/"
     },
