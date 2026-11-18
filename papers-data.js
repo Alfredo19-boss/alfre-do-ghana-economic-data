@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T02:53:37.045Z",
+  "updated": "2026-11-18T02:58:38.399Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Superb Alcaraz makes statement start at ATP Finals",
+      "link": "https://www.myjoyonline.com/superb-alcaraz-makes-statement-start-at-atp-finals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:33:00.000Z",
+      "summary": "Carlos Alcaraz was at his scintillating best as his quest for a first ATP Finals triumph began with a statement victory over Frances Tiafoe.",
+      "categories": [
+        "Tennis",
+        "ATP Finals",
+        "Carlos Alcaraz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s nuclear journey: From Nkrumah’s vision to a new investment commitment",
       "link": "https://www.myjoyonline.com/ghanas-nuclear-journey-from-nkrumahs-vision-to-a-new-investment-commitment/",
@@ -112,19 +125,6 @@ window.GDC_PAPERS = {
         "Mining",
         "National",
         "Anglogold Ashanti"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Nvidia boss says ‘ambition has never been greater’ after Jensen Huang’s exit",
-      "link": "https://www.myjoyonline.com/new-nvidia-boss-says-ambition-has-never-been-greater-after-jensen-huangs-exit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:20:00.000Z",
-      "summary": "Nvidia's interim chief executive, Collette Kress, said the company's rapid growth remains on track despite founder Jensen Huang's dramatic exit.",
-      "categories": [
-        "Technology",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
