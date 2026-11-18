@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:23:38.654Z",
+  "updated": "2026-11-18T03:33:37.505Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -47,6 +47,20 @@ window.GDC_PAPERS = {
         "ECO",
         "ECOWAS",
         "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Buy and store local rice before cutting imports – FABAG’s Ato Aggrey urges government",
+      "link": "https://www.myjoyonline.com/buy-and-store-local-rice-before-cutting-imports-fabags-ato-aggrey-urges-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T00:11:00.000Z",
+      "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports.",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Food and Beverage Association of Ghana (FABAG)",
+        "Local rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "James Bond",
         "Jeff Bezos",
         "Robert Pattinson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Child Online Africa calls for AU action on online violence against children",
-      "link": "https://www.myjoyonline.com/child-online-africa-calls-for-au-action-on-online-violence-against-children/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:20:06.000Z",
-      "summary": "Child Online Africa has called on the African Union (AU) and its member states to take urgent and coordinated action to protect children from online violence, sexual exploitation and other…",
-      "categories": [
-        "News",
-        "AU action",
-        "Child Online Africa",
-        "violence agaibst children"
       ],
       "site": "https://www.myjoyonline.com/"
     },
