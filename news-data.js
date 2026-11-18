@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T14:39:03.539Z",
+  "updated": "2026-11-18T14:48:34.096Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "BoG cuts policy rate to 11% from 14 percent.",
+      "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:46:19.000Z",
+      "summary": "The Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market interest rates provide room for further…"
+    },
     {
       "title": "State Closes Case in Akonta Mining Forest Reserve Trial as Key Witness Defends Plea Agreement",
       "link": "https://thehighstreetjournal.com/state-closes-case-in-akonta-mining-forest-reserve-trial-as-key-witness-defends-plea-agreement/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T04:45:50.000Z",
       "summary": "The International Monetary Fund (IMF) says Ghana is reaping the benefits of difficult policy reforms, with stronger-than-expected growth, single-digit inflation and an improved fiscal…"
-    },
-    {
-      "title": "T-bills auction: Government records 22% undersubscription, but at lower interest rate",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-22-undersubscription-but-at-lower-interest-rate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:14:55.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount."
     }
   ]
 };
