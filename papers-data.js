@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:18:38.270Z",
+  "updated": "2026-11-18T06:28:39.113Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
+      "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:28:00.000Z",
+      "summary": "THE Ghana Geological Survey Authority (GGSA) has recorded a major milestone in efforts to strengthen the country’s geoscience sector, following the coming into force of seven Legislative…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "He didn’t succeed by chance – Thomas-Asante opens up on Frank Lampard’s personality",
+      "link": "https://www.myjoyonline.com/he-didnt-succeed-by-chance-thomas-asante-opens-up-on-frank-lampards-personality/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:26:26.000Z",
+      "summary": "Ghana forward Brandon Thomas-Asante has opened up on the experience of playing for Coventry City coach, Frank Lampard. In an interview with JoySports Atsu Tamakloe, the Black Stars striker…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Black Stars",
+        "Brandon Thomas-Asante",
+        "Coventry City",
+        "Frank Lampard",
+        "Ghana",
+        "Premier League"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigerians among 12 arrested in Canada car theft syndicate",
+      "link": "https://ghanaiantimes.com.gh/nigerians-among-12-arrested-in-canada-car-theft-syndicate/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:22:19.000Z",
+      "summary": "CANADIAN police have arrested 12 suspects, including eight Nigerians, in an investigation into an alleged car theft syndicate. They are accused of stealing luxury vehicles and shipping them…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "EU countries announce migrant deportation centre in Rwanda",
+      "link": "https://ghanaiantimes.com.gh/eu-countries-announce-migrant-deportation-centre-in-rwanda/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:20:52.000Z",
+      "summary": "FIVE EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals. Germany, Denmark, Austria, Greece and the Netherlands are expected…",
+      "categories": [
+        "Africa",
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Mozambique opposition leader faces trial over 2024 election violence",
       "link": "https://ghanaiantimes.com.gh/mozambique-opposition-leader-faces-trial-over-2024-election-violence/",
@@ -178,20 +233,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "China offers AI and green technology support for Ghana’s $10bn New Economy push",
-      "link": "https://www.myjoyonline.com/china-offers-ai-and-green-technology-support-for-ghanas-10bn-new-economy-push/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:32:00.000Z",
-      "summary": "China has said it is ready to support Ghana’s US$10 billion New Economy Programme through cooperation in artificial intelligence, green technology, agriculture, and industrial development.",
-      "categories": [
-        "Economy",
-        "National",
-        "China",
-        "new economy programme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Veterinary Association calls for urgent recruitment to support poultry self-sufficiency drive",
       "link": "https://www.graphic.com.gh/news/general-news/veterinary-association-calls-for-urgent-recruitment-to-support-poultry-self-sufficiency-drive.html",
       "source": "Daily Graphic",
@@ -201,42 +242,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama Pays courtesy visit to Akufo-Addo at Nima residence",
-      "link": "https://ghanaiantimes.com.gh/mahama-pays-courtesy-visit-to-akufo-addo-at-nima-residence/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T16:10:19.000Z",
-      "summary": "President John Dramani Mahama has today paid a visit to former President Nana Akufo-Addo at his Nima residence. During the visit, the two discussed matters of national and international…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "One dead, over 50 STC buses saved as fire guts Circle railway",
-      "link": "https://ghanaiantimes.com.gh/one-dead-over-50-stc-buses-saved-as-fire-guts-circle-railway/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T16:07:08.000Z",
-      "summary": "A devastating fire outbreak at Circle Railway last night destroyed multiple wooden structures, leaving one person dead. The fire, which completely engulfed the wooden structures, raged for…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "8 Ghanaian seafarers rescued from Iran after months in detention return home",
-      "link": "https://ghanaiantimes.com.gh/8-ghanaian-seafarers-rescued-from-iran-after-months-in-detention-return-home/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T16:04:32.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says it was heartwarming to receive a group of Ghanaians who were rescued in Iran after their fishing vessel was detained for several months…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "ADB Medicals, Philips partner to advance healthcare delivery",
