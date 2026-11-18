@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T15:38:34.652Z",
+  "updated": "2026-11-18T15:48:48.177Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "BoG says early bondholder repayments will not disrupt liquidity management",
+      "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:37:34.000Z",
+      "summary": "The Bank of Ghana (BoG) says it is prepared to manage the liquidity impact of early repayments to domestic bondholders, following concerns about the potential implications for the financial…"
+    },
     {
       "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
       "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T05:02:00.000Z",
       "summary": "SME Consultant Dickson Assan has criticised the $10 billion New Economy Programme for neglecting SMEs, arguing that without dedicated funding and technical support, Ghana risks undermining…"
-    },
-    {
-      "title": "Ghana’s Pension & Private Equity Funds: A Viable Way to Fund Nation’s Industrialization Agenda – Dr. Donkor",
-      "link": "https://thehighstreetjournal.com/ghanas-pension-private-equity-funds-a-viable-way-to-fund-nations-industrialization-agenda-dr-donkor/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:01:00.000Z",
-      "summary": "Dr. Kwabena Donkor urges Ghana to mobilise pension funds, private equity and domestic financial institutions to finance industrialisation, with government providing seed capital while…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T15:39:05.116Z",
+  "updated": "2026-11-18T15:49:04.546Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BoG says early bondholder repayments will not disrupt liquidity management",
+      "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:37:34.000Z",
+      "summary": "The Bank of Ghana (BoG) says it is prepared to manage the liquidity impact of early repayments to domestic bondholders, following concerns about the potential implications for the financial…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Economy",
+        "HP Business 6",
+        "Bank of Ghana",
+        "Dr Johnson Asiama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
       "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
@@ -95,6 +111,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Advans Ghana Savings and Loans and Trans-Sahara Industries partner to finance electric motorcycles for commercial riders in Ghana",
+      "link": "https://www.myjoyonline.com/advans-ghana-savings-and-loans-and-trans-sahara-industries-partner-to-finance-electric-motorcycles-for-commercial-riders-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:13:00.000Z",
+      "summary": "Advans Ghana Savings and Loans Ltd and Trans-Sahara Industries (TSI) have signed a partnership agreement to help commercial motorcycle riders in Ghana transition from petrol-powered…",
+      "categories": [
+        "News",
+        "Advans",
+        "Trans-Sahara"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Daily Insight for CEOs: Building a culture of integrity and ethical leadership",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-integrity-and-ethical-leadership/",
       "source": "MyJoyOnline",
@@ -131,40 +160,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA Customs intercepts suspected smuggled goods worth GH¢1.8m at Tatale",
-      "link": "https://www.myjoyonline.com/gra-customs-intercepts-suspected-smuggled-goods-worth-gh%c2%a21-8m-at-tatale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:47:34.000Z",
-      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has intercepted suspected smuggled goods worth more than GH¢1.8 million at Tatale in the Northern Region. The goods were stored in…",
-      "categories": [
-        "National",
-        "News",
-        "Regional",
-        "Customs",
-        "smuggled goods",
-        "Tatale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MPC reduces policy rate to 11% from 14 percent",
-      "link": "https://www.myjoyonline.com/mpc-reduces-policy-rate-to-11-from-14-percent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "National",
-        "Bank of Ghana",
-        "BoG",
-        "Dr Johnson Asiama"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Stop hiding behind containers: CID Director warns police officers",
