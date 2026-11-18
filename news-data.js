@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T06:38:37.285Z",
+  "updated": "2026-11-18T06:49:06.942Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,25 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 2/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Government urged to increase investment in TVET education",
+      "link": "https://www.ghanabusinessnews.com/2026/11/18/government-urged-to-increase-investment-in-tvet-education/",
+      "source": "Ghana Business News",
+      "published": "2026-11-18T06:47:04.000Z",
+      "summary": "The government has been urged to prioritize investment in Technical, Vocational Education and Training (TVET) just as it is being done in promoting Science Technology Engineering and…"
+    },
+    {
+      "title": "Ghana government to establish medical tourism hub, complete Kumasi Theatre – Minister",
+      "link": "https://www.ghanabusinessnews.com/2026/11/18/ghana-government-to-establish-medical-tourism-hub-complete-kumasi-theatre-minister/",
+      "source": "Ghana Business News",
+      "published": "2026-11-18T06:44:29.000Z",
+      "summary": "Dr Casiel Ato Forson, the Minister of Finance, said the Government will establish a Ghana Medical Tourism Hub and complete a new National Theatre in Kumasi as part of efforts to strengthen…"
+    },
     {
       "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
       "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-15T08:15:16.000Z",
       "summary": "International media outlet CNN Travel has named Ghana’s historic stilt village of Nzulezu among the 31 most amazing places to visit in Africa, spotlighting the Western Region community as a…"
-    },
-    {
-      "title": "Assembly Member calls on Minister to terminate contract on stalled Afadzato South road",
-      "link": "https://www.ghanabusinessnews.com/2026/11/15/assembly-member-calls-on-minister-to-terminate-contract-on-stalled-afadzato-south-road/",
-      "source": "Ghana Business News",
-      "published": "2026-11-15T08:11:12.000Z",
-      "summary": "The Assembly Member for Leklebi, Mr Joseph Kofi Gakpo, has called on the Minister for Roads and Highways to terminate the contract for the construction of the Logba Vuinta to Ve Koloenu…"
-    },
-    {
-      "title": "Why the $10Bn New Economy Programme of Government is Not Believable – Minority’s Analysis",
-      "link": "https://thehighstreetjournal.com/why-the-10bn-new-economy-programme-of-government-is-not-believable-minoritys-analysis/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T08:00:00.000Z",
-      "summary": "The Minority has questioned the credibility of government's $10 billion New Economy Programme, citing shifting financial targets, changing priorities and unfulfilled promises under previous…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:38:39.844Z",
+  "updated": "2026-11-18T06:49:09.923Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stop leaving research reports to gather dust – Head of Civil Service",
+      "link": "https://ghanaiantimes.com.gh/stop-leaving-research-reports-to-gather-dust-head-of-civil-service/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:45:47.000Z",
+      "summary": "THE Head of the Civil Service, Dr Evans Aggrey-Darkoh, has urged government institutions to translate research findings and statistical reports into policy decisions and measurable…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GH¢148m cashew processing plant inaugurated • To create 1,500 direct jobs",
       "link": "https://ghanaiantimes.com.gh/gh%c2%a2148m-cashew-processing-plant-inaugurated-to-create-1500-direct-jobs/",
@@ -133,17 +145,6 @@ window.GDC_PAPERS = {
         "Tarkwa"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Circle fire destroys over 100 wooden structures; 1 dead",
-      "link": "https://ghanaiantimes.com.gh/circle-fire-destroys-over-100-wooden-structures-1-dead/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:10:18.000Z",
-      "summary": "A middle-aged unidentified man has been burnt to death after fire ravaged more than 100 wooden structures occupied by squatters at the Kwame Nkrumah Interchange in Accra. The fire, which…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Thomas-Asante discloses ‘‘agent’’ role in Yirenkyi’s Coventry transfer",
