@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:29:08.251Z",
+  "updated": "2026-11-18T16:44:07.387Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UG Hostel Fees: UGEL CEO Ayo Agbisi says he cannot guarantee reduction",
+      "link": "https://ghanaiantimes.com.gh/ug-hostel-fees-ugel-ceo-ayo-agbisi-says-he-cannot-guarantee-reduction/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T16:42:47.000Z",
+      "summary": "The Chief Executive Officer of the University of Ghana Enterprises Limited (UGEL), Ayo Agbisi, says he cannot guarantee a reduction in hostel fees at the University of Ghana but has assured…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Davido makes special appearance as Sao App launches at Achimota Mall",
+      "link": "https://www.myjoyonline.com/davido-makes-special-appearance-as-sao-app-launches-at-achimota-mall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:31:37.000Z",
+      "summary": "As digital finance continues to reshape everyday payments across Ghana, competition among mobile payment platforms is intensifying. Providers are increasingly vying for users by offering…",
+      "categories": [
+        "National",
+        "Achimota Mall",
+        "Sao App"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "I went to UGEL to prove nothing could stop me – Rent Commissioner",
       "link": "https://www.myjoyonline.com/i-went-to-ugel-to-prove-nothing-could-stop-me-rent-commissioner/",
@@ -52,6 +77,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T16:17:47.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has identified 19 non-compliant businesses out of 22 shops inspected during a tax enforcement exercise within the West Hills Mall enclave in Accra.",
       "categories": [
+        "HP News 1",
         "National",
         "tax compliance",
         "West Hills Mall"
@@ -140,22 +166,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG says early bondholder repayments will not disrupt liquidity management",
-      "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:37:34.000Z",
-      "summary": "The Bank of Ghana (BoG) says it is prepared to manage the liquidity impact of early repayments to domestic bondholders, following concerns about the potential implications for the financial…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Economy",
-        "HP Business 6",
-        "Bank of Ghana",
-        "Dr Johnson Asiama"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Korea, UNESCO support Ghana to strengthen water security",
@@ -297,18 +307,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-18T08:07:40.000Z",
       "summary": "PRESIDENT John Dramani Mahama has presented 111 vehicles to the Bureau of National Intelligence (BNI) to strengthen its operational capacity and improve its ability to carry out its…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Close season boosts fish catches at Elmina’",
-      "link": "https://ghanaiantimes.com.gh/close-season-boosts-fish-catches-at-elmina/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:00:50.000Z",
-      "summary": "GOVERNMENT’S close season has begun yielding tangible dividends along the country’s coastline, with recent field observations at Elmina revealing that fishers returning from authorised…",
       "categories": [
         "Hot!",
         "News"
