@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:49:06.782Z",
+  "updated": "2026-11-18T13:59:06.390Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -119,16 +119,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Energy Awards’ EPOP extends reach close to 16,000 students nationwide",
-      "link": "https://www.myjoyonline.com/ghana-energy-awards-epop-extends-reach-close-to-16000-students-nationwide/",
+      "title": "Photos: MTN Ghana marks 30 years of service with stakeholder dinner",
+      "link": "https://www.myjoyonline.com/photos-mtn-ghana-marks-30-years-of-service-at-stakeholder-dinner/",
       "source": "MyJoyOnline",
-      "published": "2026-11-18T13:16:09.000Z",
-      "summary": "The Ghana Energy Awards (GEA), through its flagship Energy Personality Outreach Programme (EPOP), has extended its reach to close to 16,000 students nationwide, following its latest…",
+      "published": "2026-11-18T13:20:00.000Z",
+      "summary": "Telecommunications giant MTN Ghana has marked its 30th anniversary with a stakeholder dinner in Accra, celebrating three decades of connecting people, businesses and communities and…",
       "categories": [
-        "Education",
-        "Energy",
-        "EPOP",
-        "Ghana Energy Awards"
+        "National",
+        "Photo Story",
+        "Technology",
+        "30th anniversary",
+        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
