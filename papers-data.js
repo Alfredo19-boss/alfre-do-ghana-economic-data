@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:54:14.997Z",
+  "updated": "2026-11-18T07:59:12.331Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "What men can do, women can do better: A juxtaposition of affirmative action in Ghana",
+      "link": "https://ghanaiantimes.com.gh/what-men-can-do-women-can-do-better-a-juxtaposition-of-affirmative-action-in-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:55:08.000Z",
+      "summary": "Introduction THE widely held belief that “what men can do, women can do better” has become a powerful expression of women’s confidence and capability. It challenges the traditional…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "The future of banking in Ghana: Why execution matters in the digital age",
       "link": "https://ghanaiantimes.com.gh/the-future-of-banking-in-ghana-why-execution-matters-in-the-digital-age/",
@@ -143,17 +154,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-18T07:34:22.000Z",
       "summary": "SECOND seed, Carlos Alcaraz, powered past American Frances Tiafoe 6-2, 6-2 in just over an hour at the ATP Finals on Monday to stretch his winning run to 10 matches. Tiafoe’s baseline game…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Germany run riot over Netherlands to top Nations League group",
-      "link": "https://ghanaiantimes.com.gh/germany-run-riot-over-netherlands-to-top-nations-league-group/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:32:59.000Z",
-      "summary": "FLORIAN Wirtz scored twice and Brajan Gruda contributed a goal and two assists as Germany cruised to a 5-0 win over the Netherlands in Berlin to reach the Nations League quarter-finals on…",
       "categories": [
         "Foriegn"
       ],
