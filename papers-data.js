@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:23:39.647Z",
+  "updated": "2026-11-18T04:38:54.618Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,18 @@ window.GDC_PAPERS = {
         "Events",
         "The Creatives Summit",
         "Volta Creative Arts"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "link": "https://www.myjoyonline.com/thomas-markle-charged-over-child-sex-abuse-material-in-philippines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:53:00.000Z",
+      "summary": "Police in the Philippines have charged Thomas Markle Sr, the father of Meghan, Duchess of Sussex, with possession of and intent to distribute child sexual abuse material.",
+      "categories": [
+        "International",
+        "Thomas Markle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -114,20 +126,6 @@ window.GDC_PAPERS = {
         "News",
         "Agriculture",
         "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rice farmers turn to Nigerian, Burkinabe buyers as local sales stall, says FABAG’s Ato Aggrey",
-      "link": "https://www.myjoyonline.com/rice-farmers-turn-to-nigerian-burkinabe-buyers-as-local-sales-stall-says-fabags-ato-aggrey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:59:00.000Z",
-      "summary": "Ghanaian rice farmers struggling to sell their produce locally are turning to buyers from Nigeria and Burkina Faso, according to the General Secretary of the Food and Beverage Association…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Food and Beverage Association of Ghana (FABAG)",
-        "Rice Farmers In Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
