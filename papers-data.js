@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T21:33:29.261Z",
+  "updated": "2026-11-18T21:53:30.354Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,20 @@ window.GDC_PAPERS = {
         "Crime",
         "Dormabin",
         "Murder"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COPTI calls for stronger TVET-industry partnerships to drive Ghana’s industrial future",
+      "link": "https://www.myjoyonline.com/copti-calls-for-stronger-tvet-industry-partnerships-to-drive-ghanas-industrial-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:10:00.000Z",
+      "summary": "Ghana’s educational landscape is undergoing a fundamental shift, as leaders, traditional authorities and policymakers gather in Wa for the 2026 Annual Conference of the Conference of…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Conference of Principals of Technical Institutions",
+        "TVET-industry partnerships"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -117,20 +131,6 @@ window.GDC_PAPERS = {
         "GRIDCo CEO",
         "Ing. Frank Otchere",
         "K1K2 transmission project"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We’re negotiating livelihoods, not climate – Africa presses for climate finance at COP31",
-      "link": "https://www.myjoyonline.com/were-negotiating-livelihoods-not-climate-africa-presses-for-climate-finance-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T20:24:53.000Z",
-      "summary": "For millions of Africans facing increasingly unpredictable rainfall, prolonged droughts, devastating floods and other extreme weather events, the outcome of climate negotiations is more…",
-      "categories": [
-        "Africa",
-        "National",
-        "Climate Finance",
-        "COP31"
       ],
       "site": "https://www.myjoyonline.com/"
     },
