@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T03:58:37.779Z",
+  "updated": "2026-11-18T04:03:36.468Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Rice farmers turn to Nigerian, Burkinabe buyers as local sales stall, says FABAG’s Ato Aggrey",
+      "link": "https://www.myjoyonline.com/rice-farmers-turn-to-nigerian-burkinabe-buyers-as-local-sales-stall-says-fabags-ato-aggrey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:59:00.000Z",
+      "summary": "Ghanaian rice farmers struggling to sell their produce locally are turning to buyers from Nigeria and Burkina Faso, according to the General Secretary of the Food and Beverage Association…"
+    },
     {
       "title": "Rice target at risk without production boost, guaranteed buyers – FABAG",
       "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T21:26:58.000Z",
       "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing…"
-    },
-    {
-      "title": "Lali X Lola, King Jerry energise vendors at Ecobank JoyBusiness SME Fair as they turn to the dance floor",
-      "link": "https://www.myjoyonline.com/lali-x-lola-king-jerry-energise-vendors-at-ecobank-joybusiness-sme-fair-as-they-turn-to-the-dance-floor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:43:35.000Z",
-      "summary": "The second day of the Ecobank JoyBusiness SME Fair 2026 ended amid music, dancing and excitement as Ghanaian music acts Lali X Lola and King Jerry treated patrons to lively performances…"
     }
   ]
 };

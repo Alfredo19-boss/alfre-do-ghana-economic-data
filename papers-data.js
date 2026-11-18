@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:58:41.833Z",
+  "updated": "2026-11-18T04:03:39.258Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,6 +34,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Nigeria arrests eight in cocaine gang routing drugs to Europe via Sahara",
+      "link": "https://www.myjoyonline.com/nigeria-arrests-eight-in-cocaine-gang-routing-drugs-to-europe-via-sahara/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:30:00.000Z",
+      "summary": "Nigeria's drug agency said it had dismantled a transnational trafficking syndicate smuggling cocaine from the ​city of Lagos through Kano city and across ‌the Sahara Desert via Niger and…",
+      "categories": [
+        "Africa",
+        "Cocaine",
+        "Nigeria",
+        "Sahara"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mahama calls for ECOWAS to become a community of the people, not just Heads of State",
       "link": "https://www.myjoyonline.com/mahama-calls-for-ecowas-to-become-a-community-of-the-people-not-just-heads-of-state/",
       "source": "MyJoyOnline",
@@ -45,6 +59,19 @@ window.GDC_PAPERS = {
         "National",
         "ECOWAS",
         "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Don’t turn rice import quota into corruption scheme – Hosi",
+      "link": "https://www.myjoyonline.com/dont-turn-rice-import-quota-into-corruption-scheme-hosi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:04:00.000Z",
+      "summary": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+      "categories": [
+        "News",
+        "Agriculture",
+        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -103,34 +130,6 @@ window.GDC_PAPERS = {
         "News",
         "FABAG",
         "Local Rice Production",
-        "Samuel Ato Aggrey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rubio says US not ‘under systemic attack’ after series of tech outages",
-      "link": "https://www.myjoyonline.com/rubio-says-us-not-under-systemic-attack-after-series-of-tech-outages/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T01:54:00.000Z",
-      "summary": "US Secretary of State Marco Rubio has dismissed widespread online concerns that a series of tech outages over the past week are connected, telling reporters there was \"zero evidence\" of any…",
-      "categories": [
-        "International",
-        "Marco Rubio"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FABAG proposes ‘Rice Board’ to guarantee prices for farmers",
-      "link": "https://www.myjoyonline.com/fabag-proposes-rice-board-to-guarantee-prices-for-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T00:32:00.000Z",
-      "summary": "The Food and Beverage Association of Ghana (FABAG) has proposed a ‘Rice Board’ to guarantee prices and purchases for rice farmers.",
-      "categories": [
-        "Agribusiness",
-        "HP News 3",
-        "National",
-        "Food and Beverage Association of Ghana (FABAG)",
-        "Rice Board",
         "Samuel Ato Aggrey"
       ],
       "site": "https://www.myjoyonline.com/"
