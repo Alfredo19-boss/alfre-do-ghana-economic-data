@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:44:07.387Z",
+  "updated": "2026-11-18T16:54:04.572Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,57 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Bawumia pledges major boost for Ghana’s film industry",
+      "link": "https://ghanaiantimes.com.gh/bawumia-pledges-major-boost-for-ghanas-film-industry/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T16:50:03.000Z",
+      "summary": "Former Vice President, Dr. Mahamudu Bawumia, has met with representatives of Ghana’s film industry as part of his ongoing stakeholder engagements, where filmmakers spoke frankly about the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UGEL hostels not renovated to justify higher fees – GRASAG-UG president",
+      "link": "https://www.myjoyonline.com/ugel-hostels-not-renovated-to-justify-higher-fees-grasag-ug-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:49:37.000Z",
+      "summary": "The President of the Graduate Students' Association of Ghana (GRASAG) at the University of Ghana, Ferdinand Fosu-Blankson, says hostel facilities operated by the University of Ghana…",
+      "categories": [
+        "National",
+        "News",
+        "Ferdinand Fosu-Blankson",
+        "GRASAG-UG president",
+        "UGEL hostels"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIDA grants Gomoa Eco Park temporary permit to undertake preliminary works at Mprumem Dam",
+      "link": "https://ghanaiantimes.com.gh/gida-grants-gomoa-eco-park-temporary-permit-to-undertake-preliminary-works-at-mprumem-dam/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T16:47:22.000Z",
+      "summary": "The Ghana Irrigation Development Authority (GIDA) has granted Gomoa Eco Park Development Company a temporary entry permit to undertake preliminary works at the Mprumem Irrigation Dam. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "19 year-old arrested for impersonating prison officer in Tamale",
+      "link": "https://ghanaiantimes.com.gh/19-year-old-arrested-for-impersonating-prison-officer-in-tamale/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T16:45:33.000Z",
+      "summary": "A 19 year-old man, Mohammed Yussif Zanjina, has been arrested at Gumbihini, a suburb of Tamale, on Tuesday, November 17, 2026, for allegedly impersonating a Prison Officer by wearing the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "UG Hostel Fees: UGEL CEO Ayo Agbisi says he cannot guarantee reduction",
       "link": "https://ghanaiantimes.com.gh/ug-hostel-fees-ugel-ceo-ayo-agbisi-says-he-cannot-guarantee-reduction/",
       "source": "Ghanaian Times",
@@ -31,6 +82,20 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Amin Adam accuses government of spending more on itself than on productive sectors",
+      "link": "https://www.myjoyonline.com/amin-adam-accuses-government-of-spending-more-on-itself-than-on-productive-sectors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:41:45.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of prioritising administrative expenditure over investment in productive sectors of the economy.",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Comsumption",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Davido makes special appearance as Sao App launches at Achimota Mall",
@@ -123,36 +188,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Chaka Royal Hotel",
         "North Dayi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG delays non-interest banking framework rollout for further consultations",
-      "link": "https://www.myjoyonline.com/bog-delays-non-interest-banking-framework-rollout-for-further-consultations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:47:48.000Z",
-      "summary": "The Bank of Ghana (BoG) is delaying the introduction of its proposed non-interest banking framework as it undertakes further consultations and reviews experiences from Kenya and Malaysia…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Bank of Ghana",
-        "BoG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam accuses government of failing to account for jobs promised in previous budgets",
-      "link": "https://www.myjoyonline.com/amin-adam-accuses-government-of-failing-to-account-for-jobs-promised-in-previous-budgets/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:47:17.000Z",
-      "summary": "Ranking member on Parliament's Finance Committee, Dr Mohammed Amin Adam has accused the government of failing to account for jobs promised under previous budgets, arguing that the 2027…",
-      "categories": [
-        "National",
-        "News",
-        "Amin Adam",
-        "Budget 2027",
-        "Jobs",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -274,41 +309,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T08:20:48.000Z",
       "summary": "EMMA Wenani, Chief Director of Global Media Alliance (GMA), has joined the Advisory Council of Africa PR Week, organisers of the annual Africa Global PR Week summit in Nairobi. Ms Wenani…",
       "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, US deepen cooperation to tackle mercury pollution",
-      "link": "https://ghanaiantimes.com.gh/ghana-us-deepen-cooperation-to-tackle-mercury-pollution/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:16:46.000Z",
-      "summary": "GHANA and the United States have reaffirmed their commitment to tackling mercury pollution caused by illegal mining through scientific collaboration, technology transfer and the promotion…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Church embarks on Accra float to promote religious unity",
-      "link": "https://ghanaiantimes.com.gh/church-embarks-on-accra-float-to-promote-religious-unity/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:13:22.000Z",
-      "summary": "THE Zetahir Mission Church on Saturday went on a float through parts of Accra to sensitise the public about its beliefs concerning the birth of Jesus Christ and promote awareness of its…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "BNI gets 111 vehicles, digital forensic laboratory",
-      "link": "https://ghanaiantimes.com.gh/bni-gets-111-vehicles-digital-forensic-laboratory/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:07:40.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has presented 111 vehicles to the Bureau of National Intelligence (BNI) to strengthen its operational capacity and improve its ability to carry out its…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
