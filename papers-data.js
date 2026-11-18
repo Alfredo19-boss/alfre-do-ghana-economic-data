@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:03:39.258Z",
+  "updated": "2026-11-18T04:08:39.655Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "The Creatives Summit unveils speakers for 2026 edition",
+      "link": "https://www.myjoyonline.com/the-creatives-summit-unveils-speakers-for-2026-edition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:03:27.000Z",
+      "summary": "Volta Creative Arts, organisers of The Creatives Summit 2026, has unveiled a lineup of speakers for this year’s event in Ho",
+      "categories": [
+        "Events",
+        "The Creatives Summit",
+        "Volta Creative Arts"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nvidia says it won’t reinstate Huang as firm reports bumper results",
       "link": "https://www.myjoyonline.com/nvidia-says-it-wont-reinstate-huang-as-firm-reports-bumper-results/",
       "source": "MyJoyOnline",
@@ -30,6 +43,20 @@ window.GDC_PAPERS = {
         "International",
         "Huang",
         "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Barrick furloughing some Congo mine personnel over Ebola concerns",
+      "link": "https://www.myjoyonline.com/barrick-furloughing-some-congo-mine-personnel-over-ebola-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:39:00.000Z",
+      "summary": "Canadian miner Barrick said it was furloughing non-essential personnel and reinforcing health screenings after ​two Ebola cases were confirmed near its Kibali ‌gold mine in northeastern…",
+      "categories": [
+        "Africa",
+        "Barrick",
+        "DR Congo",
+        "Ebola"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -102,35 +129,6 @@ window.GDC_PAPERS = {
         "ECO",
         "ECOWAS",
         "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices fall as higher US crude stocks temper supply risks",
-      "link": "https://www.myjoyonline.com/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:25:00.000Z",
-      "summary": "Oil prices fell on Wednesday after data showed an increase in US crude and fuel inventories last week, though ongoing US-Iran attacks and disruptions to shipping through the Strait of…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rice target at risk without production boost, guaranteed buyers – FABAG",
-      "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:14:00.000Z",
-      "summary": "Ghana must increase rice production and guarantee farmers a market to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of Ghana…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "News",
-        "FABAG",
-        "Local Rice Production",
-        "Samuel Ato Aggrey"
       ],
       "site": "https://www.myjoyonline.com/"
     },
