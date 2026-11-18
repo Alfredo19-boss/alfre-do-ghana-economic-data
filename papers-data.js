@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:59:08.381Z",
+  "updated": "2026-11-18T06:08:39.099Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,70 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Chairman Wontumi’ offers GH¢25m in fresh plea bargain bid",
+      "link": "https://ghanaiantimes.com.gh/chairman-wontumi-offers-gh%c2%a225m-in-fresh-plea-bargain-bid/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:08:23.000Z",
+      "summary": "FORMER Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as ‘Chairman Wontumi’, has offered GH¢25 million in a fresh plea bargain proposal…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Thomas-Asante discloses ‘‘agent’’ role in Yirenkyi’s Coventry transfer",
+      "link": "https://www.myjoyonline.com/thomas-asante-discloses-agent-role-in-yirenkyis-coventry-transfer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:06:42.000Z",
+      "summary": "Ghana striker Brandon Thomas-Asante has opened up on his role in Caleb Yirenkyi’s transfer to Coventry City last summer. In August, Coventry paid a club record fee of €30 million to…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Make data funding compulsory in all ministries – Government Statistician",
+      "link": "https://www.myjoyonline.com/make-data-funding-compulsory-in-all-ministries-government-statistician/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:04:54.000Z",
+      "summary": "The Government Statistician, Dr Alhassan Iddrisu, wants every government ministry and agency to set aside money annually for collecting and managing data, warning that Ghana’s development…",
+      "categories": [
+        "News",
+        "Data",
+        "Statistician"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cedi loses ground as depreciation slips further to 10.6% – BoG data",
+      "link": "https://www.myjoyonline.com/cedi-loses-ground-as-depreciation-slips-further-to-10-6-bog-data/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:48:49.000Z",
+      "summary": "The Ghana cedi is coming under renewed pressure, with its year-to-date depreciation against the US dollar reaching 10.6 per cent in November, up from 9.5 per cent in September.",
+      "categories": [
+        "Business",
+        "HP News 8",
+        "News",
+        "Cedi",
+        "Dollar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We can do it here’: GMTF urges investors to bring specialist care closer to Ghanaians",
+      "link": "https://www.myjoyonline.com/we-can-do-it-here-gmtf-urges-investors-to-bring-specialist-care-closer-to-ghanaians/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:44:00.000Z",
+      "summary": "The Administrator of the Ghana Medical Trust Fund (GMTF), Adjoa Obuobia Darko-Opoku, has appealed to investors to help expand specialist healthcare in Ghana so families can access…",
+      "categories": [
+        "Health",
+        "Adjoa Obuobia Darko-Opoku",
+        "Ghana Medical Trust Fund (GMTF)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘It is criminal to buy imported rice with state funds’ – CRI director demands local boost",
       "link": "https://www.myjoyonline.com/it-is-criminal-to-buy-imported-rice-with-state-funds-cri-director-demands-local-boost/",
@@ -71,60 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "mining royalties",
         "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Rema calls me for one hour’ – Davido reveals close bond with singer",
-      "link": "https://www.myjoyonline.com/rema-calls-me-for-one-hour-davido-reveals-close-bond-with-singer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:55:00.000Z",
-      "summary": "Afrobeats star Davido revealed that fellow singer Rema regularly calls him for conversations lasting up to an hour, even though the pair have never recorded a song together.",
-      "categories": [
-        "Music",
-        "Davido",
-        "Rema"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "VIDEO: ‘I’ve won in life’ – Joeboy claims he no longer makes music for money, fame",
-      "link": "https://www.myjoyonline.com/video-ive-won-in-life-joeboy-claims-he-no-longer-makes-music-for-money-fame/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:44:00.000Z",
-      "summary": "Nigerian singer Joeboy has declared he has already achieved success in life, saying he now makes music purely out of passion and legacy rather than chasing more money or public attention.",
-      "categories": [
-        "Music",
-        "Joeboy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I’m scared of marriage, I’ve been single for so long’ – Mr Macaroni opens up",
-      "link": "https://www.myjoyonline.com/im-scared-of-marriage-ive-been-single-for-so-long-mr-macaroni-opens-up/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:35:00.000Z",
-      "summary": "Nigerian comedian and content creator Mr Macaroni has revealed he is scared of marriage because he's been single for so long, admitting he is no longer sure he can handle the commitment a…",
-      "categories": [
-        "Movies",
-        "Marriage",
-        "Mr Macaroni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gold powers Ghana’s export earnings to record US$30.4bn by October",
-      "link": "https://www.myjoyonline.com/gold-powers-ghanas-export-earnings-to-record-us30-4bn-by-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:26:00.000Z",
-      "summary": "Ghana’s export earnings reached a record US$30.4 billion in the first ten months of 2026, driven largely by gold, according to the Bank of Ghana’s latest Summary of Economic and Financial…",
-      "categories": [
-        "Economy",
-        "HP Business 1",
-        "National",
-        "Top Story",
-        "Export earnings",
-        "Gold"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -228,18 +238,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-17T15:53:53.000Z",
       "summary": "Ghana must increase domestic investment in digital healthcare and address fragmented systems, outdated policies and poor infrastructure to accelerate the country’s digital health…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Where is the principle? – Jinapor questions US$60.68 Million presidential jet",
-      "link": "https://ghanaiantimes.com.gh/where-is-the-principle-jinapor-questions-us60-68-million-presidential-jet/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T15:50:11.000Z",
-      "summary": "The Member of Parliament for Damongo and former Minister for Lands and Natural Resources, Samuel Abu Jinapor, has questioned government’s acquisition of a new Falcon 6X presidential jet…",
       "categories": [
         "Hot!",
         "News"

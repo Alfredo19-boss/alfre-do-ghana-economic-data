@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T05:59:05.325Z",
+  "updated": "2026-11-18T06:08:36.287Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "Cedi loses ground as depreciation slips further to 10.6% – BoG data",
+      "link": "https://www.myjoyonline.com/cedi-loses-ground-as-depreciation-slips-further-to-10-6-bog-data/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:48:49.000Z",
+      "summary": "The Ghana cedi is coming under renewed pressure, with its year-to-date depreciation against the US dollar reaching 10.6 per cent in November, up from 9.5 per cent in September."
+    },
     {
       "title": "Gold Fields Touts Enormous Technical & Financial Capacity to Extend Life of Tarkwa Mine Upon Lease Renewal",
       "link": "https://thehighstreetjournal.com/gold-fields-touts-enormous-technical-financial-capacity-to-extend-life-of-tarkwa-mine-upon-lease-renewal/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-15T07:41:05.000Z",
       "summary": "Solar energy in net electricity generation in Germany is fast approaching a record total of more than 100 terawatt-hours in a single calendar year."
-    },
-    {
-      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
-      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T05:18:46.000Z",
-      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
     }
   ]
 };
