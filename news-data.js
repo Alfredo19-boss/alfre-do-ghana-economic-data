@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T14:48:34.096Z",
+  "updated": "2026-11-18T14:59:03.839Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,15 +18,15 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
     {
-      "title": "BoG cuts policy rate to 11% from 14 percent.",
+      "title": "MPC cuts policy rate to 11% from 14 percent",
       "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market interest rates provide room for further…"
+      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
     },
     {
       "title": "State Closes Case in Akonta Mining Forest Reserve Trial as Key Witness Defends Plea Agreement",

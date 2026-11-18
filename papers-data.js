@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T14:49:04.897Z",
+  "updated": "2026-11-18T14:59:06.891Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fake Prison Officer nabbed: 19-year-old arrested in Tamale over unauthorised camouflage",
+      "link": "https://www.graphic.com.gh/news/general-news/fake-prison-officer-nabbed-19-year-old-arrested-in-tamale-over-unauthorised-camouflage.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T14:48:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GRA Customs intercepts suspected smuggled goods worth GH¢1.8m at Tatale",
+      "link": "https://www.myjoyonline.com/gra-customs-intercepts-suspected-smuggled-goods-worth-gh%c2%a21-8m-at-tatale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:47:34.000Z",
+      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has intercepted suspected smuggled goods worth more than GH¢1.8 million at Tatale in the Northern Region. The goods were stored in…",
+      "categories": [
+        "National",
+        "News",
+        "Regional",
+        "Customs",
+        "smuggled goods",
+        "Tatale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MPC cuts policy rate to 11% from 14 percent",
+      "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:46:19.000Z",
+      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "National",
+        "Bank of Ghana",
+        "BoG",
+        "Dr Johnson Asiama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama condemns attacks on foreigners in South Africa, calls for lawful migration",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-attacks-on-foreigners-in-south-africa-calls-for-lawful-migration.html",
@@ -117,34 +162,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government allocates GH¢45m to expand rural telephony in 2027",
-      "link": "https://www.myjoyonline.com/government-allocates-gh%c2%a245m-to-expand-rural-telephony-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:27:08.000Z",
-      "summary": "Government has allocated GH¢45 million in the 2027 Budget to expand rural telephony and improve access to reliable and affordable telecommunications services in underserved communities…",
-      "categories": [
-        "National",
-        "MTN",
-        "Rural telephony",
-        "Vice President"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama targets 30% cross-border electricity trade in West Africa within five years",
-      "link": "https://www.myjoyonline.com/mahama-targets-30-cross-border-electricity-trade-in-west-africa-within-five-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:22:05.000Z",
-      "summary": "President John Mahama has called for greater investment in connecting national electricity grids across West Africa, saying it could raise cross-border power trade from the current 7 per…",
-      "categories": [
-        "National",
-        "cross-border electricity trade",
-        "President John Mahama",
-        "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama proposes phased rollout of ECO currency",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
       "source": "Daily Graphic",
@@ -204,17 +221,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-visits-akufo-addo-at-nima-residence.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T08:55:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "15 NICU babies die monthly - Korle Bu records reveal",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-15-nicu-babies-die-monthly-korle-bu-records-reveal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:50:44.000Z",
       "summary": "",
       "categories": [
         "General News"
