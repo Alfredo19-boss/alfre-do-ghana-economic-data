@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T19:58:31.866Z",
+  "updated": "2026-11-18T20:03:59.385Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP 31: African youth urge world leaders to put water at centre of climate adaptation funding",
+      "link": "https://www.myjoyonline.com/cop-31-african-youth-urge-world-leaders-to-put-water-at-centre-of-climate-adaptation-funding/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:58:49.000Z",
+      "summary": "Young Africans have called on world leaders to prioritise water security in global climate adaptation plans and financing, warning that communities across the continent are already…",
+      "categories": [
+        "Africa",
+        "National",
+        "Climate adaptation",
+        "COP 31",
+        "water centre"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: Jeremy Doku names waakye as his favourite Ghanaian food",
+      "link": "https://www.myjoyonline.com/video-jeremy-doku-names-waakye-as-his-favourite-ghanaian-food/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:58:00.000Z",
+      "summary": "Manchester City winger Jeremy Doku has revealed that waakye is his favourite Ghanaian dish, while opening up about his family roots in Kumasi.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Jeremy Doku",
+        "Waakye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "HIDAH Foundation provides free healthcare to children and residents in Dodowa",
       "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-to-children-and-residents-in-dodowa/",
@@ -99,35 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "Government",
         "Julius Debrah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t considers PPP to build affordable hostels for tertiary students – Education Minister reveals",
-      "link": "https://www.myjoyonline.com/govt-considers-ppp-to-build-affordable-hostels-for-tertiary-students-education-minister-reveals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:21:18.000Z",
-      "summary": "The government is considering a Public-Private Partnership (PPP) arrangement to facilitate the construction of additional hostel facilities at affordable rates for tertiary students.",
-      "categories": [
-        "National",
-        "News",
-        "Education Minister",
-        "Public-Private Partnership (PPP)",
-        "Tertiary Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana secures 6.57 million forest carbon credits, becomes first African country to receive ART TREES credits",
-      "link": "https://www.myjoyonline.com/ghana-secures-6-57-million-forest-carbon-credits-becomes-first-african-country-to-receive-art-trees-credits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:20:53.000Z",
-      "summary": "Ghana has become the first African country to receive 6.57 million forest carbon credits under ART's TREES programme, with the government expecting about US$43 million from the sale of some…",
-      "categories": [
-        "Africa",
-        "News",
-        "Carbon credit",
-        "Deforestation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
