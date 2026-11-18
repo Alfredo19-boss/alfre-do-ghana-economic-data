@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:19:05.022Z",
+  "updated": "2026-11-18T13:29:06.385Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama targets 30% cross-border electricity trade in West Africa within five years",
+      "link": "https://www.myjoyonline.com/mahama-targets-30-cross-border-electricity-trade-in-west-africa-within-five-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:22:05.000Z",
+      "summary": "President John Mahama has called for greater investment in connecting national electricity grids across West Africa, saying it could raise cross-border power trade from the current 7 per…",
+      "categories": [
+        "National",
+        "cross-border electricity trade",
+        "President John Mahama",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Local organic fertiliser offers farmers a pathway to climate-resilient agriculture",
+      "link": "https://www.myjoyonline.com/local-organic-fertiliser-offers-farmers-a-pathway-to-climate-resilient-agriculture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:21:32.000Z",
+      "summary": "As changing weather patterns, declining soil fertility and rising input costs threaten agricultural livelihoods, farmers in Ashanti and the Northern Region are turning to Organic Farming…",
+      "categories": [
+        "Africa",
+        "Agribusiness",
+        "News",
+        "Climate change",
+        "Food security"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Energy Awards’ EPOP extends reach close to 16,000 students nationwide",
+      "link": "https://www.myjoyonline.com/ghana-energy-awards-epop-extends-reach-close-to-16000-students-nationwide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:16:09.000Z",
+      "summary": "The Ghana Energy Awards (GEA), through its flagship Energy Personality Outreach Programme (EPOP), has extended its reach to close to 16,000 students nationwide, following its latest…",
+      "categories": [
+        "Education",
+        "Energy",
+        "EPOP",
+        "Ghana Energy Awards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bawumia meets film industry stakeholders; calls for tax incentives, streaming platform",
       "link": "https://www.myjoyonline.com/bawumia-meets-film-industry-stakeholders-calls-for-tax-incentives-streaming-platform/",
@@ -93,35 +136,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Wontumi loses application seeking details of former manager’s deal with prosecution",
-      "link": "https://www.myjoyonline.com/wontumi-loses-application-seeking-details-of-former-managers-deal-with-prosecution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:02:46.000Z",
-      "summary": "The Accra High Court has dismissed an application by lawyers for former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi…",
-      "categories": [
-        "National",
-        "prosecution",
-        "Tano Nimiri",
-        "Wontumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The NDC doesn’t have a First Vice or a Second Vice",
-      "link": "https://www.myjoyonline.com/the-ndc-doesnt-have-a-first-vice-or-a-second-vice/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:45:39.000Z",
-      "summary": "There is a need to set the records straight about the positions of Regional Vice-Chairmen in the National Democratic Congress (NDC). This is not about personalities, political interests or…",
-      "categories": [
-        "Opinion",
-        "Constitution",
-        "first vice",
-        "NDC",
-        "second vice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama proposes phased rollout of ECO currency",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
       "source": "Daily Graphic",
@@ -131,20 +145,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "From a house to an iPad, Ghanaians reveal who they want to surprise this Christmas",
-      "link": "https://www.myjoyonline.com/from-a-house-to-an-ipad-ghanaians-reveal-who-they-want-to-surprise-this-christmas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:35:39.000Z",
-      "summary": "With Christmas approaching, some Ghanaians are already thinking about how to make the festive season special for the people who have supported and stood by them throughout the year. For…",
-      "categories": [
-        "Art & Design",
-        "Christmas",
-        "House",
-        "iPad"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NPA facilitates 24-hour vessel operations at Tema Oil Jetty",

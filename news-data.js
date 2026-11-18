@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T13:18:48.862Z",
+  "updated": "2026-11-18T13:29:03.515Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Local organic fertiliser offers farmers a pathway to climate-resilient agriculture",
+      "link": "https://www.myjoyonline.com/local-organic-fertiliser-offers-farmers-a-pathway-to-climate-resilient-agriculture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:21:32.000Z",
+      "summary": "As changing weather patterns, declining soil fertility and rising input costs threaten agricultural livelihoods, farmers in Ashanti and the Northern Region are turning to Organic Farming…"
+    },
+    {
+      "title": "Ghana Energy Awards’ EPOP extends reach close to 16,000 students nationwide",
+      "link": "https://www.myjoyonline.com/ghana-energy-awards-epop-extends-reach-close-to-16000-students-nationwide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:16:09.000Z",
+      "summary": "The Ghana Energy Awards (GEA), through its flagship Energy Personality Outreach Programme (EPOP), has extended its reach to close to 16,000 students nationwide, following its latest…"
+    },
     {
       "title": "Mahama Pushes Phased Adoption of ECO as West African Currency Delays Persist",
       "link": "https://thehighstreetjournal.com/mahama-pushes-phased-adoption-of-eco-as-west-african-currency-delays-persist/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T23:08:12.000Z",
       "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…"
-    },
-    {
-      "title": "IC Insights expects more market-determined forex market; predicts GH¢11.6 –11.8 to one dollar in interbank market by December 31",
-      "link": "https://www.myjoyonline.com/ic-insights-expects-more-market-determined-forex-market-predicts-gh%c2%a211-6-11-8-to-one-dollar-in-interbank-market-by-december-31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:05:12.000Z",
-      "summary": "IC Insights said, “We interpret raising gold sale requirements for large-scale miners as a reference to the newly established Ghana Accelerated National Reserves Accumulation Policy…"
-    },
-    {
-      "title": "Energy and Works Ministries to anchor building, power and energy expo on December 1",
-      "link": "https://www.myjoyonline.com/energy-and-works-ministries-to-anchor-building-power-and-energy-expo-on-december-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:55:57.000Z",
-      "summary": "The event is also being supported by key stakeholder associations in the country such as the Ghana Electrical Contractors Association, Association of Building & Civil Engineering…"
     }
   ]
 };
