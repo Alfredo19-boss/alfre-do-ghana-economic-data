@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T15:48:48.177Z",
+  "updated": "2026-11-18T15:59:03.836Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "BoG delays non-interest banking framework rollout for further consultations",
+      "link": "https://www.myjoyonline.com/bog-delays-non-interest-banking-framework-rollout-for-further-consultations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:47:48.000Z",
+      "summary": "The Bank of Ghana (BoG) is delaying the introduction of its proposed non-interest banking framework as it undertakes further consultations and reviews experiences from Kenya and Malaysia…"
+    },
     {
       "title": "BoG says early bondholder repayments will not disrupt liquidity management",
       "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T05:03:00.000Z",
       "summary": "Ghana EXIM Bank-backed facility will process 100 tonnes of raw cashew nuts daily as government pushes for greater local value addition."
-    },
-    {
-      "title": "The $10Bn New Economy: Where is the Place of SMEs in Programme Design? – SME Coach Questions",
-      "link": "https://thehighstreetjournal.com/the-10bn-new-economy-where-is-the-place-of-smes-in-programme-design-sme-coach-questions/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T05:02:00.000Z",
-      "summary": "SME Consultant Dickson Assan has criticised the $10 billion New Economy Programme for neglecting SMEs, arguing that without dedicated funding and technical support, Ghana risks undermining…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T15:49:04.546Z",
+  "updated": "2026-11-18T15:59:07.159Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,60 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fire breaks out in top-floor bedroom of Chaka Royal Hotel in North Dayi",
+      "link": "https://www.myjoyonline.com/fire-breaks-out-in-top-floor-bedroom-of-chaka-royal-hotel-in-north-dayi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:52:36.000Z",
+      "summary": "A fire has broken out in a bedroom on the top floor of the three-storey Chaka Royal Hotel at Aveme-Beme in the North Dayi District of the Volta Region, prompting a swift response from the…",
+      "categories": [
+        "Regional",
+        "Chaka Royal Hotel",
+        "North Dayi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG delays non-interest banking framework rollout for further consultations",
+      "link": "https://www.myjoyonline.com/bog-delays-non-interest-banking-framework-rollout-for-further-consultations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:47:48.000Z",
+      "summary": "The Bank of Ghana (BoG) is delaying the introduction of its proposed non-interest banking framework as it undertakes further consultations and reviews experiences from Kenya and Malaysia…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Bank of Ghana",
+        "BoG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amin Adam accuses government of failing to account for jobs promised in previous budgets",
+      "link": "https://www.myjoyonline.com/amin-adam-accuses-government-of-failing-to-account-for-jobs-promised-in-previous-budgets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:47:17.000Z",
+      "summary": "Ranking member on Parliament's Finance Committee, Dr Mohammed Amin Adam has accused the government of failing to account for jobs promised under previous budgets, arguing that the 2027…",
+      "categories": [
+        "National",
+        "News",
+        "Amin Adam",
+        "Budget 2027",
+        "Jobs",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GHS identifies six regions at risk of meningitis, warns of dehydration and heat exhaustion ahead of harmattan",
+      "link": "https://www.graphic.com.gh/news/general-news/ghs-identifies-six-regions-at-risk-of-meningitis-warns-of-dehydration-and-heat-exhaustion-ahead-of-harmattan.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T15:42:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "BoG says early bondholder repayments will not disrupt liquidity management",
       "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
@@ -69,6 +123,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "IET-GH donates medical equipment to Osu Maternity Clinic",
+      "link": "https://www.myjoyonline.com/iet-gh-donates-medical-equipment-to-osu-maternity-clinic/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:30:00.000Z",
+      "summary": "The Institution of Engineering and Technology Ghana (IET-GH) has donated medical equipment and cash to the Osu Maternity Clinic to support healthcare delivery at the facility.",
+      "categories": [
+        "Health",
+        "National",
+        "Institution of Engineering and Technology Ghana (IET-GH)",
+        "Medical equipment",
+        "Osu Maternity Clinic"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "UGEL CEO threatened me with trespassing warning ahead of inspection – Rent Commissioner alleges",
       "link": "https://www.myjoyonline.com/ugel-ceo-threatened-me-with-trespassing-warning-ahead-of-inspection-rent-commissioner-alleges/",
       "source": "MyJoyOnline",
@@ -94,61 +163,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG reviews Women’s Development Bank application after receiving additional information",
-      "link": "https://www.myjoyonline.com/bog-reviews-womens-development-bank-application-after-receiving-additional-information/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:14:58.000Z",
-      "summary": "The Bank of Ghana (BoG) is reviewing an application for the establishment of the proposed Women’s Development Bank, following the submission of additional information requested from the…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "BoG",
-        "women's development bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Advans Ghana Savings and Loans and Trans-Sahara Industries partner to finance electric motorcycles for commercial riders in Ghana",
-      "link": "https://www.myjoyonline.com/advans-ghana-savings-and-loans-and-trans-sahara-industries-partner-to-finance-electric-motorcycles-for-commercial-riders-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:13:00.000Z",
-      "summary": "Advans Ghana Savings and Loans Ltd and Trans-Sahara Industries (TSI) have signed a partnership agreement to help commercial motorcycle riders in Ghana transition from petrol-powered…",
-      "categories": [
-        "News",
-        "Advans",
-        "Trans-Sahara"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Building a culture of integrity and ethical leadership",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-integrity-and-ethical-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:55:32.000Z",
-      "summary": "An organization’s values are tested most clearly when leaders face difficult decisions. Integrity is not demonstrated by what an organization says in its mission statement. It is…",
-      "categories": [
-        "Opinion",
-        "CEOs",
-        "Ethical Leadership"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Generation Ghana targets 50,000 jobs for young people in five years",
-      "link": "https://www.myjoyonline.com/generation-ghana-targets-50000-jobs-for-young-people-in-five-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:55:23.000Z",
-      "summary": "Generation Ghana is targeting 50,000 jobs for young people over the next five years as it expands efforts to equip graduates with digital skills and connect them to employment…",
-      "categories": [
-        "News",
-        "Generation Ghana",
-        "graduates",
-        "Jobs"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Fake Prison Officer nabbed: 19-year-old arrested in Tamale over unauthorised camouflage",
@@ -210,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-enterprises-limited-on-why-ghc8-000-legon-hostel-fees-cannot-be-reduced-citing-ghc70million-debt.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T11:03:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nation targets $1trn Africa food market",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-targets-1trn-africa-food-market.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T09:05:20.000Z",
       "summary": "",
       "categories": [
         "General News"
