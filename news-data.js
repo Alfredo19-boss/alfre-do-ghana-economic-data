@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T08:29:09.487Z",
+  "updated": "2026-11-18T11:09:02.837Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,65 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "GRA Uncovers Widespread VAT Non-Compliance At West Hills Mall Enclave",
+      "link": "https://thehighstreetjournal.com/gra-uncovers-widespread-vat-non-compliance-at-west-hills-mall-enclave/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T11:03:30.000Z",
+      "summary": "GRA has uncovered VAT compliance breaches in 19 of 22 shops inspected around West Hills Mall, intensifying concerns about invoice practices, tax registration and domestic revenue…"
+    },
+    {
+      "title": "Beyond Fuel Prices: What investors and financiers should understand about Ghana’s downstream petroleum sector",
+      "link": "https://www.myjoyonline.com/beyond-fuel-prices-what-investors-and-financiers-should-understand-about-ghanas-downstream-petroleum-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:50:37.000Z",
+      "summary": "Ghana’s downstream petroleum sector continues to attract interest from operators, banks, investors, asset managers and entrepreneurs, but investment decisions in the sector require a much…"
+    },
+    {
+      "title": "Ghana Wins Re-Election to ITU Council With 121 Votes",
+      "link": "https://thehighstreetjournal.com/ghana-wins-re-election-to-itu-council/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T10:47:53.000Z",
+      "summary": "The country obtained 121 of 173 valid votes in Region D, renewing its representation on the governing body of the United Nations agency responsible for coordinating international…"
+    },
+    {
+      "title": "Deloitte Urges Energy-Intensive Businesses to Consider Solar After Gov’t’s Tax Exemptions on Solar Equipment",
+      "link": "https://thehighstreetjournal.com/deloitte-urges-energy-intensive-businesses-to-consider-solar-after-govts-tax-exemptions-on-solar-equipment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T10:25:00.000Z",
+      "summary": "Deloitte urges energy-intensive businesses to consider solar investments following proposed import duty and VAT exemptions on solar panels and batteries, saying the incentives could reduce…"
+    },
+    {
+      "title": "Mobile money fraud risks eroding trust in digital finance – Academic City, MMFL, BoG tackle fintech threats",
+      "link": "https://www.myjoyonline.com/mobile-money-fraud-risks-eroding-trust-in-digital-finance-academic-city-mmfl-bog-tackle-fintech-threats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:11:36.000Z",
+      "summary": "A Bank of Ghana (BoG) official has warned that customers who lose their savings to fraud could turn away from digital financial services, undermining gains in financial inclusion."
+    },
+    {
+      "title": "Earning from Crypto & Digital Assets? Brace Yourself for a Possible Income Tax in 2027",
+      "link": "https://thehighstreetjournal.com/earning-from-crypto-digital-assets-brace-yourself-for-a-possible-income-tax-in-2027/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T09:30:42.000Z",
+      "summary": "Ghana's proposed 2027 Income Tax Bill will bring cryptocurrency trading, virtual assets, digital services and foreign technology companies under formal taxation, closing existing loopholes…"
+    },
+    {
+      "title": "Affordability, margin pressure, innovation to drive consumption in 2027, FMCGs urged to prepare",
+      "link": "https://www.myjoyonline.com/affordability-margin-pressure-innovation-to-drive-consumption-in-2027-fmcgs-urged-to-prepare/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T09:19:47.000Z",
+      "summary": "Fast-moving consumer goods (FMCG) companies operating in Ghana have been urged to make affordability, preparation for margin pressure, and locally relevant innovation central to their…"
+    },
+    {
+      "title": "MTN CEO Stephen Blewett hails 30 years of operations in Ghana, announces US$1.1bn investment",
+      "link": "https://www.myjoyonline.com/mtn-ceo-stephen-blewett-hails-30-years-of-operations-in-ghana-announces-us1-1bn-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T08:29:53.000Z",
+      "summary": "The CEO of MTN Ghana, Stephen Blewett has said the company is excited to mark three decades in the country as it plans to invest US$1.1 billion over the next three years. He made the…"
+    },
     {
       "title": "Power in every form has an expiry date!",
       "link": "https://www.ghanabusinessnews.com/2026/11/18/power-in-every-form-has-an-expiry-date/",
@@ -188,6 +244,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T20:57:08.000Z",
       "summary": "According to Fitch Solutions, the shift of forex intermediation from the Bank of Ghana to the Ghana Gold Board (GoldBod), combined with lower gold prices, will limit dollar supply to the…"
+    },
+    {
+      "title": "Bills Micro Credit launches Bills Direct to help Ghanaians access goods on credit",
+      "link": "https://www.myjoyonline.com/bills-micro-credit-launches-bills-direct-to-help-ghanaians-access-goods-on-credit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T20:50:00.000Z",
+      "summary": "Bills Micro Credit Limited has launched a new consumer financing product, Bills Direct, to improve access to essential goods and services through flexible payment arrangements. The…"
     },
     {
       "title": "All Eyes on Ghana’s Digital Progress at Cape Town Summit",
@@ -1007,69 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T14:00:12.000Z",
       "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank…"
-    },
-    {
-      "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T13:54:09.000Z",
-      "summary": "From delicious Ghanaian delicacies and flavour-packed spices to refreshing coconut juice, natural cocoa beverages, grilled chicken and freshly baked treats, the Ecobank JoyBusiness SME Fair…"
-    },
-    {
-      "title": "Clear Communication Critical to Prevent Misconceptions Around Government’s New Economy Agenda",
-      "link": "https://thehighstreetjournal.com/clear-communication-critical-to-prevent-misconceptions-around-governments-new-economy-agenda/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T13:00:10.000Z",
-      "summary": "Government must clearly communicate that its New Economy Agenda is private sector-led to avoid public misconceptions that previously stalled 1D1F and 24-Hour Economy."
-    },
-    {
-      "title": "Tackling Inflation at Its Roots: How Budget Infrastructure and Farm Investments Could Sustain Low Prices",
-      "link": "https://thehighstreetjournal.com/tackling-inflation-at-its-roots-how-budget-infrastructure-and-farm-investments-could-sustain-low-prices/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T12:00:05.000Z",
-      "summary": "Prioritizing budget infrastructure for farms, roads, and factories alongside prudent spending can sustainably control Ghana's inflation from both supply and demand sides."
-    },
-    {
-      "title": "ICC/TikTok lunches digital commerce lab to boost SMEs",
-      "link": "https://gna.org.gh/2026/11/icc-tiktok-lunches-digital-commerce-lab-to-boost-smes-2/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-15T11:58:32.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Wayoe Engineering wins outstanding in-Country investment award",
-      "link": "https://gna.org.gh/2026/11/wayoe-engineering-wins-outstanding-in-country-investment-award/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-15T11:27:55.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Lower Fuel Prices Expected At Pumps From Monday",
-      "link": "https://thehighstreetjournal.com/lower-fuel-prices-expected-at-pumps/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T11:00:21.000Z",
-      "summary": "Ghanaian motorists face fuel relief from Monday as petrol and diesel prices drop, driven by a steady cedi and softer global oil prices."
-    },
-    {
-      "title": "DDEP Design Was Likely to End in Another Default, But Thanks to Govt’s Sinking Fund – Economist Says",
-      "link": "https://thehighstreetjournal.com/ddep-design-was-likely-to-end-in-another-default-but-thanks-to-govts-sinking-fund-economist-says/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T10:00:00.000Z",
-      "summary": "Dr Theo Acheampong says Ghana risked another debt default after the DDEP but strengthened Sinking Fund reserves and dedicated 7% of non-tax revenue towards debt repayment, enabling the…"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T09:39:35.000Z",
-      "summary": "The doors are open, the vendors are ready, the music is playing and the bargains are waiting, the Ecobank JoyBusiness SME Fair 2026 has entered its final day, with patrons being urged to…"
-    },
-    {
-      "title": "Oppong Nkrumah Charges Fiscal Council to Investigate Fiscal Inconsistencies in 2027 Budget",
-      "link": "https://thehighstreetjournal.com/oppong-nkrumah-charges-fiscal-council-to-investigate-fiscal-inconsistencies-in-2027-budget/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T09:00:00.000Z",
-      "summary": "Kojo Oppong Nkrumah has challenged Ghana's Fiscal Council to investigate inconsistencies in the 2027 Budget, scrutinise government spending commitments and verify whether announced…"
     }
   ]
 };

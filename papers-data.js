@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T08:29:12.261Z",
+  "updated": "2026-11-18T11:09:06.072Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,226 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "No one is stopping you from seeing your son; it’s a lie – Michy replies Shatta Wale",
+      "link": "https://www.myjoyonline.com/no-one-is-stopping-you-from-seeing-your-son-its-a-lie-michy-replies-shatta-wale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:00:04.000Z",
+      "summary": "Former partner of dancehall artiste Shatta Wale, Diamond Michelle, popularly known as Michy, has accused the musician of misrepresenting their co-parenting arrangements, insisting she has…",
+      "categories": [
+        "Music",
+        "National",
+        "News",
+        "Majesty",
+        "Shatta Michy",
+        "Shatta Wale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Beyond Fuel Prices: What investors and financiers should understand about Ghana’s downstream petroleum sector",
+      "link": "https://www.myjoyonline.com/beyond-fuel-prices-what-investors-and-financiers-should-understand-about-ghanas-downstream-petroleum-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:50:37.000Z",
+      "summary": "Ghana’s downstream petroleum sector continues to attract interest from operators, banks, investors, asset managers and entrepreneurs, but investment decisions in the sector require a much…",
+      "categories": [
+        "Business",
+        "HP Business 3",
+        "HP Opinion 2",
+        "National",
+        "Fuel",
+        "Ghana",
+        "petroleum downstream"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Promasidor’s GHS¢1.3m cardiac support delivers successful surgeries for 19 patients",
+      "link": "https://www.myjoyonline.com/promasidors-ghs%c2%a21-3m-cardiac-support-delivers-successful-surgeries-for-19-patients/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:20:24.000Z",
+      "summary": "Promasidor Ghana, producers of Cowbell, Onga, Yumvita, Miksi and Twisco, has renewed its 2026 support for the National Cardiothoracic Centre (NCTC) with a GH¢443,750 donation to cover…",
+      "categories": [
+        "Health",
+        "Cardiac support",
+        "Promasidor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN FA Cup 2026/27: Hearts, Kotoko draw lower tier side in Round of 64",
+      "link": "https://www.myjoyonline.com/mtn-fa-cup-2026-27-hearts-kotoko-draw-lower-tier-side-in-round-of-64/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:12:48.000Z",
+      "summary": "The 18 Ghana Premier League teams have joined the competition at this stage. Former champions, Asante Kotoko host Adom FC and record-holders, Accra Hearts of Oak take on Accra Elite Academy.",
+      "categories": [
+        "Football",
+        "MTN FA Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mobile money fraud risks eroding trust in digital finance – Academic City, MMFL, BoG tackle fintech threats",
+      "link": "https://www.myjoyonline.com/mobile-money-fraud-risks-eroding-trust-in-digital-finance-academic-city-mmfl-bog-tackle-fintech-threats/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T10:11:36.000Z",
+      "summary": "A Bank of Ghana (BoG) official has warned that customers who lose their savings to fraud could turn away from digital financial services, undermining gains in financial inclusion.",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Academic City",
+        "Bank of Ghana (BoG)",
+        "MobileMoney Fintech Limited"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Affordability, margin pressure, innovation to drive consumption in 2027, FMCGs urged to prepare",
+      "link": "https://www.myjoyonline.com/affordability-margin-pressure-innovation-to-drive-consumption-in-2027-fmcgs-urged-to-prepare/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T09:19:47.000Z",
+      "summary": "Fast-moving consumer goods (FMCG) companies operating in Ghana have been urged to make affordability, preparation for margin pressure, and locally relevant innovation central to their…",
+      "categories": [
+        "Business",
+        "FMCG",
+        "UKGCC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nation targets $1trn Africa food market",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-targets-1trn-africa-food-market.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T09:05:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UGEL needs GH¢20m to replace deteriorating roofs on four UGEL hostels; maintenance is costly – CEO",
+      "link": "https://www.myjoyonline.com/ugel-needs-gh%c2%a220m-to-replace-deteriorating-roofs-on-four-ugel-hostels-maintenance-is-costly-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T09:04:22.000Z",
+      "summary": "The University of Ghana Enterprise Limited (UGEL) says it needs about GH¢20 million to replace deteriorating roofs on some of its hostel facilities, many of which were constructed nearly…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Hostel",
+        "Legon",
+        "Rent Control",
+        "UGEL",
+        "Yawo Agbesi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We’re ready to support Ghana accelerate growth - Chinese Ambassador",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-were-ready-to-support-ghana-accelerate-growth-chinese-ambassador.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T09:02:00.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama visits Akufo-Addo at Nima residence",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-visits-akufo-addo-at-nima-residence.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:55:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Most expensive UGEL hostel costs GH¢8,000 per academic year – CEO",
+      "link": "https://www.myjoyonline.com/most-expensive-ugel-hostel-costs-gh%c2%a28000-per-academic-year-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T08:55:17.000Z",
+      "summary": "The Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Agbesi, has defended accommodation charges at the university's hostels, saying students pay as little…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "hostel facility",
+        "Rent Control",
+        "University of Ghana",
+        "Yawo Agbesi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Govt moves to revive 60 factories - Ofosu-Adjare",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-moves-to-revive-60-factories-ofosu-adjare.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:43:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Korean Embassy, companies donate items to Osu Children's Home",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-korean-embassy-companies-donate-items-to-osu-childrens-home.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:39:56.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GNAT, NAGRAT, Eduwatch welcome additional teacher recruitment - But want focus on deprived areas with payment of 20% allowance",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-gnat-nagrat-eduwatch-welcome-additional-teacher-recruitment-but-want-focus-on-deprived-areas-with-payment-of-20-allowance.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:35:53.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AUCB graduates 350 as university celebrates first chartered congregation",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-aucb-graduates-350-as-university-celebrates-first-chartered-congregation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:32:20.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
+      "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T08:30:00.000Z",
+      "summary": "THE Ghana Geological Survey Authority (GGSA) has recorded a major milestone in efforts to strengthen the country’s geoscience sector, following the coming into force of seven Legislative…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Unauthorised billboards go down in Accra",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unauthorised-billboards-go-down-in-accra.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T08:28:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "24-Hour Economy Authority backs Nadkansco cashew factory",
       "link": "https://ghanaiantimes.com.gh/24-hour-economy-authority-backs-nadkansco-cashew-factory/",
       "source": "Ghanaian Times",
@@ -30,20 +250,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof Fred Binka, pioneering malaria researcher and founding UHAS Vice-Chancellor, dies at 73",
-      "link": "https://www.myjoyonline.com/prof-fred-binka-pioneering-malaria-researcher-and-founding-uhas-vice-chancellor-dies-at-73/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T08:27:09.000Z",
-      "summary": "Ghana has lost one of its foremost public health experts, Professor Fred Newton Binka, a renowned malaria researcher and founding Vice-Chancellor of the University of Health and Allied…",
-      "categories": [
-        "Health",
-        "National",
-        "Prof Fred Binka",
-        "UHAS"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "At COP31: Jospong, ISA partner to accelerate Africa’s solar energy drive",
@@ -113,220 +319,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "What men can do, women can do better: A juxtaposition of affirmative action in Ghana",
-      "link": "https://ghanaiantimes.com.gh/what-men-can-do-women-can-do-better-a-juxtaposition-of-affirmative-action-in-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:55:08.000Z",
-      "summary": "Introduction THE widely held belief that “what men can do, women can do better” has become a powerful expression of women’s confidence and capability. It challenges the traditional…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Don’t despair – Thomas-Asante stresses support for Black Stars",
-      "link": "https://www.myjoyonline.com/dont-despair-thomas-asante-stresses-support-for-black-stars/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T07:45:00.000Z",
-      "summary": "Ghana striker Brandon Thomas-Asante has stressed the need for continued support for the Black Stars, adding that the team strives to meet fan expectations. The Stars have endured a mixed…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 3",
-        "News",
-        "Sports",
-        "AFCON",
-        "AFCON2027",
-        "Black Stars",
-        "Brandon Thomas-Asante",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ghana news Zimbabwe understudies GIS to implement border authority",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zimbabwe-understudies-gis-to-implement-border-authority.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T07:35:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Great Osama, Davido and the gold rush that lasted 19 minutes! – Jimmy Aglah writes from the Republic of Uncommon Sense",
-      "link": "https://www.myjoyonline.com/great-osama-davido-and-the-gold-rush-that-lasted-19-minutes-jimmy-aglah-writes-from-the-republic-of-uncommon-sense/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T07:34:38.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, a man who had spent years searching for gold beneath the soil of Amansie reportedly discovered that the richest deposits were not…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Davido",
-        "Great Osama",
-        "Jimmy Aglah",
-        "Republic of Uncommon Sense"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tourism Society, University of Ghana to host three-day youth festival",
-      "link": "https://www.myjoyonline.com/tourism-society-university-of-ghana-to-host-three-day-youth-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T07:30:11.000Z",
-      "summary": "The Tourism Society of Ghana, in collaboration with the University of Ghana, Legon, is set to host a three-day festival to promote youth participation in domestic tourism and the…",
-      "categories": [
-        "Arts and Culture",
-        "Travel and Tourism",
-        "Tourism Society of Ghana",
-        "University of Ghana",
-        "Youth Festival"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Survey Authority completes 48 district mineral occurrence maps",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-survey-authority-completes-48-district-mineral-occurrence-maps.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T07:23:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament demands independent probe into Manso Keniago deaths",
-      "link": "https://www.myjoyonline.com/parliament-demands-independent-probe-into-manso-keniago-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T07:07:01.000Z",
-      "summary": "Parliament’s Human Rights Committee has called for an independent, impartial and transparent investigation into the deadly confrontation between personnel of the National Anti-Illegal…",
-      "categories": [
-        "National",
-        "News",
-        "NAIMOS",
-        "Parliament",
-        "Probe"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Knights and Ladies of Marshall celebrate 100 years of Catholic service and charity",
-      "link": "https://www.myjoyonline.com/knights-and-ladies-of-marshall-celebrate-100-years-of-catholic-service-and-charity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T07:06:00.000Z",
-      "summary": "The Noble Order of the Knights and Ladies of Marshall is celebrating its 100th anniversary, with a series of activities highlighting its commitment to the Catholic Church, charity and…",
-      "categories": [
-        "National",
-        "Catholic",
-        "Charity",
-        "Knights and Ladies of Marshall"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliamentary committee engages Northern chiefs on proposed Anti-Witchcraft Accusations Bill",
-      "link": "https://www.myjoyonline.com/parliamentary-committee-engages-northern-chiefs-on-proposed-anti-witchcraft-accusations-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:49:59.000Z",
-      "summary": "Parliament’s Human Rights Committee has engaged the Northern Regional House of Chiefs to seek traditional authorities’ support for the proposed Anti-Witchcraft Accusations Bill currently…",
-      "categories": [
-        "News",
-        "Anti-Witchcraft Accusations Bill",
-        "Chiefs",
-        "Northern"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rent Control seeks Attorney-General’s backing to deal with UG hostel fees",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rent-control-seeks-attorney-generals-backing-to-deal-with-ug-hostel-fees.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T06:43:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "He didn’t succeed by chance – Thomas-Asante opens up on Frank Lampard’s personality",
-      "link": "https://www.myjoyonline.com/he-didnt-succeed-by-chance-thomas-asante-opens-up-on-frank-lampards-personality/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:26:26.000Z",
-      "summary": "Ghana forward Brandon Thomas-Asante has opened up on the experience of playing for Coventry City coach, Frank Lampard. In an interview with JoySports Atsu Tamakloe, the Black Stars striker…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Black Stars",
-        "Brandon Thomas-Asante",
-        "Coventry City",
-        "Frank Lampard",
-        "Ghana",
-        "Premier League"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Veterinary Association calls for urgent recruitment to support poultry self-sufficiency drive",
-      "link": "https://www.graphic.com.gh/news/general-news/veterinary-association-calls-for-urgent-recruitment-to-support-poultry-self-sufficiency-drive.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T16:47:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ADB Medicals, Philips partner to advance healthcare delivery",
-      "link": "https://www.graphic.com.gh/news/general-news/adb-medicals-philips-partner-to-advance-healthcare-delivery.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T16:04:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: Fuel tanker catches fire after crash on Mamfe-Koforidua section of N4 Highway",
-      "link": "https://www.graphic.com.gh/news/general-news/fuel-tanker-catches-fire-after-crash-on-mamfe-koforidua-section-of-n4-highway.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T15:19:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government Statistician on why chief directors of MDAs should be appraised on data their outfits produce",
-      "link": "https://www.graphic.com.gh/news/general-news/government-statistician-on-why-chief-directors-of-mdas-should-be-appraised-on-data-their-outfits-produce.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T14:21:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: President Mahama visits Akufo-Addo at Nima residence",
-      "link": "https://www.graphic.com.gh/news/politics/president-mahama-vists-akufo-addo-at-nima-residence.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T14:15:46.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
