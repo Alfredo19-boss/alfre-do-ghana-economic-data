@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:49:09.923Z",
+  "updated": "2026-11-18T06:58:43.995Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s $2bn food import bill betrays lost agricultural gains — Sir Jonah",
+      "link": "https://ghanaiantimes.com.gh/ghanas-2bn-food-import-bill-betrays-lost-agricultural-gains-sir-jonah/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:52:37.000Z",
+      "summary": "GHANA spends about $2 billion annually on food imports, despite having demonstrated in the 1970s that it had the capacity to produce enough food to feed itself, the Vice-Chancellor of the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Parliamentary committee engages Northern chiefs on proposed Anti-Witchcraft Accusations Bill",
+      "link": "https://www.myjoyonline.com/parliamentary-committee-engages-northern-chiefs-on-proposed-anti-witchcraft-accusations-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:49:59.000Z",
+      "summary": "Parliament’s Human Rights Committee has engaged the Northern Regional House of Chiefs to seek traditional authorities’ support for the proposed Anti-Witchcraft Accusations Bill currently…",
+      "categories": [
+        "News",
+        "Anti-Witchcraft Accusations Bill",
+        "Chiefs",
+        "Northern"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Stop leaving research reports to gather dust – Head of Civil Service",
       "link": "https://ghanaiantimes.com.gh/stop-leaving-research-reports-to-gather-dust-head-of-civil-service/",
@@ -122,17 +148,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Police Hospital to undertake mass burial … 350 unclaimed bodies involved",
-      "link": "https://ghanaiantimes.com.gh/police-hospital-to-undertake-mass-burial-350-unclaimed-bodies-involved/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:11:45.000Z",
-      "summary": "THE Police Hospital is to undertake a mass burial of about 350 unclaimed and unidentified bodies currently deposited at its mortuary in Accra. The burial, scheduled for the fourth quarter…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
       "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
       "source": "MyJoyOnline",
@@ -218,18 +233,6 @@ window.GDC_PAPERS = {
         "Health",
         "Adjoa Obuobia Darko-Opoku",
         "Ghana Medical Trust Fund (GMTF)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It is criminal to buy imported rice with state funds’ – CRI director demands local boost",
-      "link": "https://www.myjoyonline.com/it-is-criminal-to-buy-imported-rice-with-state-funds-cri-director-demands-local-boost/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:34:25.000Z",
-      "summary": "A leading agricultural researcher has urged the government to make locally produced rice the exclusive choice for feeding students in public boarding schools and other state institutions…",
-      "categories": [
-        "HP News 2",
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
