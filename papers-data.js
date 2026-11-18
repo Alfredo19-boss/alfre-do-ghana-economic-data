@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T20:29:00.961Z",
+  "updated": "2026-11-18T21:08:30.053Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,77 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "HIDAH Foundation provides free healthcare services at Dodowa Orphanage",
+      "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-services-at-dodowa-orphanage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:05:12.000Z",
+      "summary": "HIDAH Humanitarian Foundation held a Community Health Outreach at the Home of Taqwa Orphanage in Dodowa, providing essential healthcare services to children at the orphanage and members of…",
+      "categories": [
+        "Health",
+        "Regional",
+        "healthcare services",
+        "HIDAH Humanitarian Foundation",
+        "Home of Taqwa Orphanage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Poor water access, wooden squatter settlements undermine Ghana’s fire response – Fire Service",
+      "link": "https://www.myjoyonline.com/poor-water-access-wooden-squatter-settlements-undermine-ghanas-fire-response-fire-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:05:00.000Z",
+      "summary": "The Ghana National Fire Service has identified inadequate access to water and the growing number of informal settlements as major challenges undermining efforts to contain fire outbreaks…",
+      "categories": [
+        "National",
+        "Fire Outbreak",
+        "Ghana National Fire Service"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘The debate is settled’ – Haruna Iddrisu declares Ato Forson clear winner in economic management contest against Ofori-Atta",
+      "link": "https://www.myjoyonline.com/the-debate-is-settled-haruna-iddrisu-declares-ato-forson-clear-winner-in-economic-management-contest-against-ofori-atta/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:04:27.000Z",
+      "summary": "The Minister for Education and Member of Parliament for Tamale South, Haruna Iddrisu, has declared that the debate over who has performed better in managing Ghana’s economy between former…",
+      "categories": [
+        "National",
+        "Dr Cassiel Ato Forson",
+        "Haruna Iddrisu",
+        "Ken Ofori-Atta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama commissions DNA testing and vaccine development laboratories at Noguchi Institute",
+      "link": "https://www.myjoyonline.com/mahama-commissions-dna-testing-and-vaccine-development-laboratories-at-noguchi-institute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:04:06.000Z",
+      "summary": "President John Dramani Mahama has commissioned new human DNA testing facilities and a vaccine development laboratory at the Noguchi Memorial Institute for Medical Research in Accra, as part…",
+      "categories": [
+        "Health",
+        "National",
+        "News",
+        "DNA testing and vaccine development laboratories",
+        "Noguchi Institute"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRIDCo CEO inspects K1K2 transmission project, pushes for timely completion to boost Ashanti Region power supply",
+      "link": "https://www.myjoyonline.com/gridco-ceo-inspects-k1k2-transmission-project-pushes-for-timely-completion-to-boost-ashanti-region-power-supply/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:03:16.000Z",
+      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has conducted a routine inspection of ongoing stringing works on the 161kV Kumasi–Anwomaso (K1K2) transmission…",
+      "categories": [
+        "Regional",
+        "GRIDCo CEO",
+        "Ing. Frank Otchere",
+        "K1K2 transmission project"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "We’re negotiating livelihoods, not climate – Africa presses for climate finance at COP31",
       "link": "https://www.myjoyonline.com/were-negotiating-livelihoods-not-climate-africa-presses-for-climate-finance-at-cop31/",
@@ -59,79 +130,6 @@ window.GDC_PAPERS = {
         "National",
         "Fight",
         "Galamsey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Relief for ASWAJ Islamic SHS as Techiman South MP donates 200 desks",
-      "link": "https://www.myjoyonline.com/relief-for-aswaj-islamic-shs-as-techiman-south-mp-donates-200-desks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T20:15:01.000Z",
-      "summary": "The ASWAJ Islamic Senior High School in Techiman South has received a major boost to its infrastructure, with the delivery of 200 mono desks promised by the Member of Parliament, Martin…",
-      "categories": [
-        "Education",
-        "Regional",
-        "200 mono desks",
-        "ASWAJ Islamic Senior High School",
-        "Techiman South MP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana develops science-based methodology to assess national water stress",
-      "link": "https://www.myjoyonline.com/ghana-develops-science-based-methodology-to-assess-national-water-stress/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T20:12:44.000Z",
-      "summary": "Ghana is taking steps to strengthen its water resource management through a science-based national water stress assessment methodology being developed and piloted with support from the…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "Korea",
-        "UNESCO project"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP 31: African youth urge world leaders to put water at centre of climate adaptation funding",
-      "link": "https://www.myjoyonline.com/cop-31-african-youth-urge-world-leaders-to-put-water-at-centre-of-climate-adaptation-funding/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:58:49.000Z",
-      "summary": "Young Africans have called on world leaders to prioritise water security in global climate adaptation plans and financing, warning that communities across the continent are already…",
-      "categories": [
-        "Africa",
-        "National",
-        "Climate adaptation",
-        "COP 31",
-        "water centre"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "VIDEO: Jeremy Doku names waakye as his favourite Ghanaian food",
-      "link": "https://www.myjoyonline.com/video-jeremy-doku-names-waakye-as-his-favourite-ghanaian-food/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:58:00.000Z",
-      "summary": "Manchester City winger Jeremy Doku has revealed that waakye is his favourite Ghanaian dish, while opening up about his family roots in Kumasi.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Jeremy Doku",
-        "Waakye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "HIDAH Foundation provides free healthcare to children and residents in Dodowa",
-      "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-to-children-and-residents-in-dodowa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:51:50.000Z",
-      "summary": "The HIDAH Humanitarian Foundation has organised a free healthcare outreach at the Home of Taqwa Orphanage in Dodowa, providing medical services to children at the facility and residents of…",
-      "categories": [
-        "Regional",
-        "Dodowa",
-        "Healthcare",
-        "HIDAH Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
