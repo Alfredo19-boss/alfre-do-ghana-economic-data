@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T14:59:06.891Z",
+  "updated": "2026-11-18T15:09:04.760Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: Building a culture of integrity and ethical leadership",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-integrity-and-ethical-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:55:32.000Z",
+      "summary": "An organization’s values are tested most clearly when leaders face difficult decisions. Integrity is not demonstrated by what an organization says in its mission statement. It is…",
+      "categories": [
+        "Opinion",
+        "CEOs",
+        "Ethical Leadership"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Generation Ghana targets 50,000 jobs for young people in five years",
+      "link": "https://www.myjoyonline.com/generation-ghana-targets-50000-jobs-for-young-people-in-five-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:55:23.000Z",
+      "summary": "Generation Ghana is targeting 50,000 jobs for young people over the next five years as it expands efforts to equip graduates with digital skills and connect them to employment…",
+      "categories": [
+        "News",
+        "Generation Ghana",
+        "graduates",
+        "Jobs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fake Prison Officer nabbed: 19-year-old arrested in Tamale over unauthorised camouflage",
       "link": "https://www.graphic.com.gh/news/general-news/fake-prison-officer-nabbed-19-year-old-arrested-in-tamale-over-unauthorised-camouflage.html",
@@ -130,34 +157,6 @@ window.GDC_PAPERS = {
         "MTN",
         "Quality",
         "rural connectivity"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Can Ghana reclaim its eco-friendly roots with the ‘takeaway’ ban?",
-      "link": "https://www.myjoyonline.com/can-ghana-reclaim-its-eco-friendly-roots-with-the-takeaway-ban/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:32:45.000Z",
-      "summary": "On May 25, 2026, Ghana’s Environmental Protection Authority (EPA) issued a definitive policy directive that promises to reshape the daily routines of millions: effective January 1, 2027…",
-      "categories": [
-        "Opinion",
-        "Ghana",
-        "‘takeaway’ ban"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President urges stronger cybersecurity to protect mobile money users",
-      "link": "https://www.myjoyonline.com/vice-president-urges-stronger-cybersecurity-to-protect-mobile-money-users/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:31:00.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has called for stronger data protection, cybersecurity and accountability in Ghana’s digital financial services sector to safeguard mobile…",
-      "categories": [
-        "National",
-        "Cybersecurity",
-        "Mobile Money",
-        "MTN",
-        "Vice President"
       ],
       "site": "https://www.myjoyonline.com/"
     },
