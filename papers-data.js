@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:09:05.521Z",
+  "updated": "2026-11-18T12:19:04.910Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "TTAG urges gov’t to prioritise 2023 teacher trainees in recruitment exercise",
+      "link": "https://www.myjoyonline.com/ttag-urges-govt-to-prioritise-2023-teacher-trainees-in-recruitment-exercise/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:13:31.000Z",
+      "summary": "The Teacher Trainees' Association of Ghana (TTAG) has called on the government, the Ministry of Education and the Ghana Education Service (GES) to ensure that the upcoming teacher…",
+      "categories": [
+        "National",
+        "Teacher trainees",
+        "TTAG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPA facilitates 24-hour vessel operations at Tema Oil Jetty",
+      "link": "https://www.graphic.com.gh/news/general-news/npa-facilitates-24-hour-vessel-operations-at-tema-oil-jetty.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T12:10:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Bills Microcredit launches Bills Direct, allowing consumers to shop without down payments or collateral",
       "link": "https://www.myjoyonline.com/bills-microcredit-launches-bills-direct-allowing-consumers-to-shop-without-down-payments-or-collateral/",
@@ -43,13 +67,14 @@ window.GDC_PAPERS = {
       "summary": "Member of Parliament for Ketu North, Edem Agbana, has cautioned that increasing school enrolment figures do not necessarily reflect improved access to quality education, warning that many…",
       "categories": [
         "Education",
+        "HP News 3",
         "National",
         "Edem Agbana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Binka, pioneering malaria researcher",
+      "title": "Sierra Leonean mourns Ghana’s late Prof. Fred Binka, pioneering malaria researcher",
       "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-binka-pioneering-malaria-researcher/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T11:41:30.000Z",
@@ -117,18 +142,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Man arrested for allegedly impersonating a prison officer in Tamale",
-      "link": "https://www.myjoyonline.com/man-arrested-for-allegedly-impersonating-a-prison-officer-in-tamale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:28:13.000Z",
-      "summary": "A 19-year-old man has been arrested at Gumbihini, a suburb of Tamale, for allegedly impersonating a Ghana Prisons Service officer.",
+      "title": "University of Ghana Enterprises on why GH¢8,000 Legon hostel fees cannot be reduced citing GH¢70million debt",
+      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-enterprises-limited-on-why-ghc8-000-legon-hostel-fees-cannot-be-reduced-citing-ghc70million-debt.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T11:03:56.000Z",
+      "summary": "",
       "categories": [
-        "HP News 6",
-        "National",
-        "Prisons Service",
-        "Tamale"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Nation targets $1trn Africa food market",
@@ -197,17 +219,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "AUCB graduates 350 as university celebrates first chartered congregation",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-aucb-graduates-350-as-university-celebrates-first-chartered-congregation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:32:20.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
       "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
       "source": "Ghanaian Times",
@@ -218,17 +229,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Unauthorised billboards go down in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unauthorised-billboards-go-down-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:28:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "24-Hour Economy Authority backs Nadkansco cashew factory",

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T12:08:35.318Z",
+  "updated": "2026-11-18T12:18:34.278Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana Seeks EU Investment to Boost Timber Industry After FLEGT Milestone",
+      "link": "https://thehighstreetjournal.com/ghana-seekseuinvestmentin-timber-industry/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T12:09:00.000Z",
+      "summary": "A high-level Ghanaian delegation led by Forestry Commission Chief Executive Dr. Hugh C. A. Brown held discussions with the European Commission's Directorates-General for International…"
+    },
     {
       "title": "Inside Deutsche Bank: What the leak means for the poor in Africa",
       "link": "https://www.ghanabusinessnews.com/2026/11/18/inside-deutsche-bank-what-the-leak-means-for-the-poor-in-africa/",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
       "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:50:19.000Z",
-      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures."
-    },
-    {
-      "title": "Emerging markets face more challenging external environment heading into 2027 – Moody’s",
-      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-into-2027-moodys/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T22:50:19.000Z",
       "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures."
