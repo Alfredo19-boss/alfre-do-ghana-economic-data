@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T21:13:48.674Z",
+  "updated": "2026-11-18T21:33:29.261Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two remanded over murder of woman at Dormabin",
+      "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-at-dormabin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:22:00.000Z",
+      "summary": "The Dambai Magistrate Court has remanded two persons for their alleged involvement in the murder of Rejoice Sena Akpaku.",
+      "categories": [
+        "Crime",
+        "Dormabin",
+        "Murder"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Brifoh SHS gets new dining hall, headmaster’s bungalow after MP’s intervention",
       "link": "https://www.myjoyonline.com/brifoh-shs-gets-new-dining-hall-headmasters-bungalow-after-mps-intervention/",
@@ -118,21 +131,6 @@ window.GDC_PAPERS = {
         "National",
         "Climate Finance",
         "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL CEO defends hostel rent increase, cites rising utility costs, inflation and exchange rates",
-      "link": "https://www.myjoyonline.com/ugel-ceo-defends-hostel-rent-increase-cites-rising-utility-costs-inflation-and-exchange-rates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T20:23:46.000Z",
-      "summary": "The Chief Executive Officer of the University of Ghana Enterprises Limited (UGEL), Yawo Nutifafa Agbesi, has defended the increase in hostel fees, citing rising utility costs, exchange rate…",
-      "categories": [
-        "National",
-        "News",
-        "hostel rent increase",
-        "UGEL",
-        "utility costs"
       ],
       "site": "https://www.myjoyonline.com/"
     },
