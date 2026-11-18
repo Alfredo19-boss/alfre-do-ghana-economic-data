@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:49:05.503Z",
+  "updated": "2026-11-18T11:59:04.206Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Binka, pioneering malaria researcher",
+      "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-binka-pioneering-malaria-researcher/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:41:30.000Z",
+      "summary": "The passing of Prof. Fred N. Binka in Ghana on 15 November 2026, at the age of 73, was a great loss to African science and to all of us who had the privilege of knowing and working with…",
+      "categories": [
+        "News",
+        "malaria researcher",
+        "Prof Fred Binka",
+        "Prof. Osman A. Sankoh",
+        "Sierra Leone"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Newton Binka, pioneering malaria researcher",
       "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-newton-binka-pioneering-malaria-researcher/",
@@ -115,22 +130,6 @@ window.GDC_PAPERS = {
         "Rent Act",
         "UG",
         "UGEL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale says he feels bad seeing Majesty sell juice in the sun, tells Michy to prioritise his son’s welfare",
-      "link": "https://www.myjoyonline.com/shatta-wale-says-he-feels-bad-seeing-majesty-sell-juice-in-the-sun-tells-michy-to-prioritise-his-sons-welfare/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:07:06.000Z",
-      "summary": "Ghanaian dancehall artiste Shatta Wale has expressed concern about his son Majesty's involvement in selling orange juice under the sun, questioning why his former partner, Michy, would…",
-      "categories": [
-        "In Focus",
-        "Music",
-        "National",
-        "fruit juice",
-        "Majesty",
-        "Shatta Wale"
       ],
       "site": "https://www.myjoyonline.com/"
     },
