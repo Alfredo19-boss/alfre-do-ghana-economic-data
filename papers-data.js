@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:29:04.867Z",
+  "updated": "2026-11-18T12:39:07.959Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vigilantism, brutalisation not the right way for South Africa to address migration crisis – Mahama",
+      "link": "https://www.myjoyonline.com/vigilantism-brutalisation-not-the-right-way-for-south-africa-to-address-migration-crisis-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:31:10.000Z",
+      "summary": "President John Mahama says migration challenges cannot be resolved through vigilantism, condemning attacks on foreign nationals in South Africa.",
+      "categories": [
+        "National",
+        "Mahama",
+        "South Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Detained Asante Akim North MP should not lose seat over absence beyond his control – Lawyer",
+      "link": "https://www.myjoyonline.com/detained-asante-akim-north-mp-should-not-lose-seat-over-absence-beyond-his-control-lawyer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:26:20.000Z",
+      "summary": "Lawyer for detained Asante Akim North MP Ohene Kwame Frimpong, Elvis Adu-Ameyaw, says his client should not risk losing his parliamentary seat over his absence from sittings because his…",
+      "categories": [
+        "National",
+        "Asante Akim North",
+        "Netherlands",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Amin Adam challenges government’s no-borrowing claim as public debt rises by GH¢118bn",
       "link": "https://www.myjoyonline.com/amin-adam-challenges-governments-no-borrowing-claim-as-public-debt-rises-by-gh%c2%a2118bn/",
@@ -116,32 +143,6 @@ window.GDC_PAPERS = {
         "HP News 3",
         "National",
         "Edem Agbana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sierra Leonean mourns Ghana’s late Prof. Fred Binka, pioneering malaria researcher",
-      "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-binka-pioneering-malaria-researcher/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:41:30.000Z",
-      "summary": "The passing of Prof. Fred N. Binka in Ghana on 15 November 2026, at the age of 73, was a great loss to African science and to all of us who had the privilege of knowing and working with…",
-      "categories": [
-        "News",
-        "malaria researcher",
-        "Prof Fred Binka",
-        "Prof. Osman A. Sankoh",
-        "Sierra Leone"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Newton Binka, pioneering malaria researcher",
-      "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-newton-binka-pioneering-malaria-researcher/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:41:30.000Z",
-      "summary": "The passing of Prof. Fred N. Binka in Ghana on 15 November 2026, at the age of 73, was a great loss to African science and to all of us who had the privilege of knowing and working with…",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
