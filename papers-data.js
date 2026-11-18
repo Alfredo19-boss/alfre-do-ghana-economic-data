@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T02:43:38.582Z",
+  "updated": "2026-11-18T02:48:38.087Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -45,6 +45,19 @@ window.GDC_PAPERS = {
         "AU action",
         "Child Online Africa",
         "violence agaibst children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Haaland’s last-second penalty sends Norway through",
+      "link": "https://www.myjoyonline.com/haalands-last-second-penalty-sends-norway-through/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:55:00.000Z",
+      "summary": "Erling Haaland scored a last-second penalty as Norway came back from two goals down to secure victory and a place in the Nations League quarter-finals at Denmark's expense.",
+      "categories": [
+        "Football",
+        "Erling Braut Haaland",
+        "Norway"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,18 +124,6 @@ window.GDC_PAPERS = {
         "International",
         "Israeli",
         "West Bank settlement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Six in court accused of high-value Pokemon card theft",
-      "link": "https://www.myjoyonline.com/six-in-court-accused-of-high-value-pokemon-card-theft/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:58:00.000Z",
-      "summary": "Six men charged with stealing high-value Pokemon cards from a warehouse in Nottinghamshire have appeared in court.",
-      "categories": [
-        "International",
-        "Pokemon"
       ],
       "site": "https://www.myjoyonline.com/"
     },
