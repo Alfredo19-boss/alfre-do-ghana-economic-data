@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T07:18:38.347Z",
+  "updated": "2026-11-18T07:29:07.254Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Power in every form has an expiry date!",
+      "link": "https://www.ghanabusinessnews.com/2026/11/18/power-in-every-form-has-an-expiry-date/",
+      "source": "Ghana Business News",
+      "published": "2026-11-18T07:20:31.000Z",
+      "summary": "Whatever power you wield, either administrative or pollical, there is always an expiry date. For those who are in control of corporate organisations, there is always the day to step down…"
+    },
     {
       "title": "Government urged to increase investment in TVET education",
       "link": "https://www.ghanabusinessnews.com/2026/11/18/government-urged-to-increase-investment-in-tvet-education/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-15T09:00:00.000Z",
       "summary": "Kojo Oppong Nkrumah has challenged Ghana's Fiscal Council to investigate inconsistencies in the 2027 Budget, scrutinise government spending commitments and verify whether announced…"
-    },
-    {
-      "title": "CNN Travel names Nzulezu among Africa’s most amazing places to visit in Ghana",
-      "link": "https://www.ghanabusinessnews.com/2026/11/15/cnn-travel-names-nzulezu-among-africas-most-amazing-places-to-visit-in-ghana/",
-      "source": "Ghana Business News",
-      "published": "2026-11-15T08:15:16.000Z",
-      "summary": "International media outlet CNN Travel has named Ghana’s historic stilt village of Nzulezu among the 31 most amazing places to visit in Africa, spotlighting the Western Region community as a…"
     }
   ]
 };

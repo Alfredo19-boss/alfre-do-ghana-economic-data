@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:18:41.254Z",
+  "updated": "2026-11-18T07:29:09.851Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Owono did not deserve 12-match ban – Pique",
+      "link": "https://ghanaiantimes.com.gh/owono-did-not-deserve-12-match-ban-pique/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:27:26.000Z",
+      "summary": "FC Andorra owner, Gerard Pique, says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Irish boxer dies after three months in coma",
+      "link": "https://ghanaiantimes.com.gh/irish-boxer-dies-after-three-months-in-coma/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:25:29.000Z",
+      "summary": "IRISH boxer Lee Reeves has died aged 31, three months after suffering critical injuries in a bout in Dublin which left him in a coma. Reeves was knocked out in the 10th round as he fought…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cameroon, Senegal, Benin close in on AFCON 2027 qualification",
+      "link": "https://ghanaiantimes.com.gh/cameroon-senegal-benin-close-in-on-afcon-2027-qualification/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:23:51.000Z",
+      "summary": "Nicolas Jackson was on target again as Senegal, Cameroon and Benin moved to the brink of qualification for the 2027 Africa Cup of Nations (AFCON) with away victories. After Aston Villa…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ghana news Survey Authority completes 48 district mineral occurrence maps",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-survey-authority-completes-48-district-mineral-occurrence-maps.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T07:23:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Heath Goldfields targets underground mine reopening next year",
+      "link": "https://ghanaiantimes.com.gh/heath-goldfields-targets-underground-mine-reopening-next-year/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:19:18.000Z",
+      "summary": "HEATH Goldfields Limited has targeted next year to reopen the underground mine in Bogoso-Prestea, with a focus on long-term growth through technical initiatives aimed at unlocking the full…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Carefully assess domestic, global developments for appropriate monetary policy stance • Governor urges MPC",
       "link": "https://ghanaiantimes.com.gh/carefully-assess-domestic-global-developments-for-appropriate-monetary-policy-stance-governor-urges-mpc/",
@@ -80,41 +135,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "BonAgro donates GH¢1m combine harvester, agro-inputs to support farmers",
-      "link": "https://ghanaiantimes.com.gh/bonagro-donates-gh%c2%a21m-combine-harvester-agro-inputs-to-support-farmers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:06:24.000Z",
-      "summary": "BONAGRO LTD., an agricultural machinery and agrochemical supplier, has donated a combine harvester and assorted agro-inputs valued at GH¢1 million to the Ministry of Food and Agriculture to…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Remove barriers to accelerate Africa’s economic integration – Mauritius Minister",
-      "link": "https://ghanaiantimes.com.gh/remove-barriers-to-accelerate-africas-economic-integration-mauritius-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:01:46.000Z",
-      "summary": "THE Junior Minister of Foreign Affairs, Regional Integration and International Trade of Mauritius, Mr Hambyr ajan Narsinghen, has urged African governments to remove barriers to trade…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s $2bn food import bill betrays lost agricultural gains — Sir Jonah",
-      "link": "https://ghanaiantimes.com.gh/ghanas-2bn-food-import-bill-betrays-lost-agricultural-gains-sir-jonah/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:52:37.000Z",
-      "summary": "GHANA spends about $2 billion annually on food imports, despite having demonstrated in the 1970s that it had the capacity to produce enough food to feed itself, the Vice-Chancellor of the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Parliamentary committee engages Northern chiefs on proposed Anti-Witchcraft Accusations Bill",
       "link": "https://www.myjoyonline.com/parliamentary-committee-engages-northern-chiefs-on-proposed-anti-witchcraft-accusations-bill/",
       "source": "MyJoyOnline",
@@ -127,18 +147,6 @@ window.GDC_PAPERS = {
         "Northern"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stop leaving research reports to gather dust – Head of Civil Service",
-      "link": "https://ghanaiantimes.com.gh/stop-leaving-research-reports-to-gather-dust-head-of-civil-service/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:45:47.000Z",
-      "summary": "THE Head of the Civil Service, Dr Evans Aggrey-Darkoh, has urged government institutions to translate research findings and statistical reports into policy decisions and measurable…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "He didn’t succeed by chance – Thomas-Asante opens up on Frank Lampard’s personality",
@@ -307,17 +315,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/researcher-on-how-to-cook-local-ghanaian-rice-for-it-to-taste-better-than-vietnamese-rice.html",
       "source": "Daily Graphic",
       "published": "2026-11-17T13:07:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Asante gold regalia to remain in Kumasi as UK museums extend loan agreements",
-      "link": "https://www.graphic.com.gh/news/general-news/asante-gold-regalia-to-remain-in-kumasi-as-uk-museums-extend-loan-agreements.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-17T11:42:58.000Z",
       "summary": "",
       "categories": [
         "General News"
