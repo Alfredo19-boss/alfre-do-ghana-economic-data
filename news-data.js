@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T11:38:34.945Z",
+  "updated": "2026-11-18T11:48:33.752Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Minerals Commission, CalBank Commit GH¢1bn to Mining Businesses",
+      "link": "https://thehighstreetjournal.com/minerals-commission-calbank-commit-gh%c2%a21bn-to-mining-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T11:45:00.000Z",
+      "summary": "Financing partnership targets local contractors, suppliers and service providers struggling to secure capital for mining-sector contracts"
+    },
+    {
+      "title": "Average lending rate fell marginally to 15.75% in October 2026",
+      "link": "https://www.myjoyonline.com/average-lending-rate-fell-marginally-to-15-75-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:39:39.000Z",
+      "summary": "This means one would pay about 1.31% per month on every loan, excluding other fees."
+    },
     {
       "title": "Private Sector Credit Surges 37.2% as Ghanaian Businesses Gain Greater Access to Bank Financing",
       "link": "https://thehighstreetjournal.com/private-sector-credit-surges-37-2-as-ghanaian-businesses-gain-greater-access-to-bank-financing/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T18:42:37.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 has received an exciting blend of traditional Ghanaian music and live-band entertainment, with the Kekeli Borborbor Group and Shakers Band adding to…"
-    },
-    {
-      "title": "African oil producers urged to balance local content with investment",
-      "link": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T15:51:38.000Z",
-      "summary": "African oil-producing countries have been urged to strengthen local content development by creating a sustainable pipeline of upstream investments and projects, while maintaining an…"
-    },
-    {
-      "title": "2027 Budget Signals Higher Spending As Government Targets 8% Inflation",
-      "link": "https://thehighstreetjournal.com/2027-budget-signals-higher-spending/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T15:00:44.000Z",
-      "summary": "The 2027 Budget reduces the primary surplus target from 1.5% of GDP in 2026, signalling a shift towards increased government spending"
     }
   ]
 };

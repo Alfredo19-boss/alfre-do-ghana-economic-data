@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:39:04.658Z",
+  "updated": "2026-11-18T11:49:05.503Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Newton Binka, pioneering malaria researcher",
+      "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-newton-binka-pioneering-malaria-researcher/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:41:30.000Z",
+      "summary": "The passing of Prof. Fred N. Binka in Ghana on 15 November 2026, at the age of 73, was a great loss to African science and to all of us who had the privilege of knowing and working with…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Average lending rate fell marginally to 15.75% in October 2026",
+      "link": "https://www.myjoyonline.com/average-lending-rate-fell-marginally-to-15-75-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:39:39.000Z",
+      "summary": "This means one would pay about 1.31% per month on every loan, excluding other fees.",
+      "categories": [
+        "Business",
+        "Economy",
+        "Average lending rate",
+        "BoG",
+        "Ghana Reference Rate",
+        "MPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UGEL tried to stop me from inspecting UG hostels – Rent Commissioner",
+      "link": "https://www.myjoyonline.com/ugel-tried-to-stop-me-from-inspecting-ug-hostels-rent-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:34:31.000Z",
+      "summary": "Acting Rent Commissioner Frederick Opoku says the University of Ghana Enterprise Limited (UGEL) formally asked him not to inspect its hostel facilities through a letter written by the…",
+      "categories": [
+        "National",
+        "Fedrick Opoku",
+        "Rent Control Commission",
+        "UGEL hostel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Former Spain midfielder Mata retires aged 38",
       "link": "https://www.myjoyonline.com/former-spain-midfielder-mata-retires-aged-38/",
@@ -90,53 +131,6 @@ window.GDC_PAPERS = {
         "fruit juice",
         "Majesty",
         "Shatta Wale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No one is stopping you from seeing your son; it’s a lie – Michy replies Shatta Wale",
-      "link": "https://www.myjoyonline.com/no-one-is-stopping-you-from-seeing-your-son-its-a-lie-michy-replies-shatta-wale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:00:04.000Z",
-      "summary": "Former partner of dancehall artiste Shatta Wale, Diamond Michelle, popularly known as Michy, has accused the musician of misrepresenting their co-parenting arrangements, insisting she has…",
-      "categories": [
-        "HP News 2",
-        "Music",
-        "National",
-        "News",
-        "Majesty",
-        "Shatta Michy",
-        "Shatta Wale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Beyond Fuel Prices: What investors and financiers should understand about Ghana’s downstream petroleum sector",
-      "link": "https://www.myjoyonline.com/beyond-fuel-prices-what-investors-and-financiers-should-understand-about-ghanas-downstream-petroleum-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:50:37.000Z",
-      "summary": "Ghana’s downstream petroleum sector continues to attract interest from operators, banks, investors, asset managers and entrepreneurs, but investment decisions in the sector require a much…",
-      "categories": [
-        "Business",
-        "HP Business 3",
-        "HP Opinion 2",
-        "National",
-        "Fuel",
-        "Ghana",
-        "petroleum downstream"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Promasidor’s GHS¢1.3m cardiac support delivers successful surgeries for 19 patients",
-      "link": "https://www.myjoyonline.com/promasidors-ghs%c2%a21-3m-cardiac-support-delivers-successful-surgeries-for-19-patients/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:20:24.000Z",
-      "summary": "Promasidor Ghana, producers of Cowbell, Onga, Yumvita, Miksi and Twisco, has renewed its 2026 support for the National Cardiothoracic Centre (NCTC) with a GH¢443,750 donation to cover…",
-      "categories": [
-        "Health",
-        "Cardiac support",
-        "Promasidor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
