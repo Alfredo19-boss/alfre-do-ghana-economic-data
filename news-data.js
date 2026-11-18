@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-17T23:33:27.354Z",
+  "updated": "2026-11-18T02:43:36.669Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
     {
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T22:36:36.000Z",
-      "summary": "South African miner AngloGold Ashanti (AU.N) plans to invest about $2.5 billion ‌in a copper mine in Colombia, conditional on environmental permits, its ​corporate affairs manager Stewart…"
+      "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…"
     },
     {
       "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-17T23:33:29.601Z",
+  "updated": "2026-11-18T02:43:38.582Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,11 +49,24 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "link": "https://www.myjoyonline.com/rooney-says-he-considered-taking-his-own-life-at-man-utd/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:46:00.000Z",
+      "summary": "Wayne Rooney says he was \"contemplating suicide\" during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "categories": [
+        "Football",
+        "Manchester United",
+        "Wayne Rooney"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
       "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T22:36:36.000Z",
-      "summary": "South African miner AngloGold Ashanti (AU.N) plans to invest about $2.5 billion ‌in a copper mine in Colombia, conditional on environmental permits, its ​corporate affairs manager Stewart…",
+      "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…",
       "categories": [
         "Africa",
         "Mining",
@@ -110,18 +123,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Pokemon"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We’re a capitalist society’: Grindr defends $120 a month premium tier",
-      "link": "https://www.myjoyonline.com/were-a-capitalist-society-grindr-defends-120-a-month-premium-tier/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:50:00.000Z",
-      "summary": "The world's largest LGBTQ+ dating app, Grindr, has defended its $120 (£91) per month premium subscription service, which launches globally today.",
-      "categories": [
-        "International",
-        "Grindr"
       ],
       "site": "https://www.myjoyonline.com/"
     },
