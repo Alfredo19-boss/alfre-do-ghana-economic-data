@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:28:39.113Z",
+  "updated": "2026-11-18T06:38:39.844Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GH¢148m cashew processing plant inaugurated • To create 1,500 direct jobs",
+      "link": "https://ghanaiantimes.com.gh/gh%c2%a2148m-cashew-processing-plant-inaugurated-to-create-1500-direct-jobs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:38:20.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has inaugurated a GH¢148.4 million cashew processing factory at Tuobodom in the Techiman North Municipality of the Bono East Region as part of efforts to end…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
       "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
@@ -130,18 +142,6 @@ window.GDC_PAPERS = {
       "summary": "A middle-aged unidentified man has been burnt to death after fire ravaged more than 100 wooden structures occupied by squatters at the Kwame Nkrumah Interchange in Accra. The fire, which…",
       "categories": [
         "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Chairman Wontumi’ offers GH¢25m in fresh plea bargain bid",
-      "link": "https://ghanaiantimes.com.gh/chairman-wontumi-offers-gh%c2%a225m-in-fresh-plea-bargain-bid/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:08:23.000Z",
-      "summary": "FORMER Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as ‘Chairman Wontumi’, has offered GH¢25 million in a fresh plea bargain proposal…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
