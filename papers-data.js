@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T21:53:30.354Z",
+  "updated": "2026-11-18T23:48:27.056Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana @ 70: InLaME CEO questions gains in leadership and institutional development",
+      "link": "https://www.myjoyonline.com/ghana-70-inlame-ceo-questions-gains-in-leadership-and-institutional-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:39:23.000Z",
+      "summary": "As Ghana prepares to mark 70 years of independence, concerns are mounting over whether the country has built the strong institutions and effective leadership needed to deliver sustainable…",
+      "categories": [
+        "Opinion",
+        "Ghana at 70",
+        "Inlame CEO",
+        "Leadership"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Two remanded over murder of woman at Dormabin",
       "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-at-dormabin/",
@@ -117,20 +131,6 @@ window.GDC_PAPERS = {
         "News",
         "DNA testing and vaccine development laboratories",
         "Noguchi Institute"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRIDCo CEO inspects K1K2 transmission project, pushes for timely completion to boost Ashanti Region power supply",
-      "link": "https://www.myjoyonline.com/gridco-ceo-inspects-k1k2-transmission-project-pushes-for-timely-completion-to-boost-ashanti-region-power-supply/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:03:16.000Z",
-      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has conducted a routine inspection of ongoing stringing works on the 161kV Kumasi–Anwomaso (K1K2) transmission…",
-      "categories": [
-        "Regional",
-        "GRIDCo CEO",
-        "Ing. Frank Otchere",
-        "K1K2 transmission project"
       ],
       "site": "https://www.myjoyonline.com/"
     },
