@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:58:43.995Z",
+  "updated": "2026-11-18T07:08:41.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,55 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GNATH elects new executives for Ho Municipality",
+      "link": "https://ghanaiantimes.com.gh/gnath-elects-new-executives-for-ho-municipality/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:08:38.000Z",
+      "summary": "THE Ho Municipal branch of the Ghana National Association of Traditional Healers (GNATH) has elected new executives to strengthen the regulation of traditional medicine practice and ensure…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Parliament demands independent probe into Manso Keniago deaths",
+      "link": "https://www.myjoyonline.com/parliament-demands-independent-probe-into-manso-keniago-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T07:07:01.000Z",
+      "summary": "Parliament’s Human Rights Committee has called for an independent, impartial and transparent investigation into the deadly confrontation between personnel of the National Anti-Illegal…",
+      "categories": [
+        "National",
+        "News",
+        "NAIMOS",
+        "Parliament",
+        "Probe"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BonAgro donates GH¢1m combine harvester, agro-inputs to support farmers",
+      "link": "https://ghanaiantimes.com.gh/bonagro-donates-gh%c2%a21m-combine-harvester-agro-inputs-to-support-farmers/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:06:24.000Z",
+      "summary": "BONAGRO LTD., an agricultural machinery and agrochemical supplier, has donated a combine harvester and assorted agro-inputs valued at GH¢1 million to the Ministry of Food and Agriculture to…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Remove barriers to accelerate Africa’s economic integration – Mauritius Minister",
+      "link": "https://ghanaiantimes.com.gh/remove-barriers-to-accelerate-africas-economic-integration-mauritius-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:01:46.000Z",
+      "summary": "THE Junior Minister of Foreign Affairs, Regional Integration and International Trade of Mauritius, Mr Hambyr ajan Narsinghen, has urged African governments to remove barriers to trade…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana’s $2bn food import bill betrays lost agricultural gains — Sir Jonah",
       "link": "https://ghanaiantimes.com.gh/ghanas-2bn-food-import-bill-betrays-lost-agricultural-gains-sir-jonah/",
@@ -114,40 +163,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://ghanaiantimes.com.gh/eu-countries-announce-migrant-deportation-centre-in-rwanda/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:20:52.000Z",
-      "summary": "FIVE EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals. Germany, Denmark, Austria, Greece and the Netherlands are expected…",
-      "categories": [
-        "Africa",
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mozambique opposition leader faces trial over 2024 election violence",
-      "link": "https://ghanaiantimes.com.gh/mozambique-opposition-leader-faces-trial-over-2024-election-violence/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:17:56.000Z",
-      "summary": "TENSIONS are running high in Mozambique’s capital, Maputo, with a heavy police deployment as a prominent opposition leader goes on trial over deadly protests that followed the country’s…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Data must drive national development",
-      "link": "https://ghanaiantimes.com.gh/data-must-drive-national-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:14:07.000Z",
-      "summary": "THE warning by the Head of the Civil Service, Dr Evans Aggrey-Darkoh, that valuable research findings and statistical reports are being left unused should concern every public institution…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
       "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
       "source": "MyJoyOnline",
@@ -220,19 +235,6 @@ window.GDC_PAPERS = {
         "News",
         "Cedi",
         "Dollar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We can do it here’: GMTF urges investors to bring specialist care closer to Ghanaians",
-      "link": "https://www.myjoyonline.com/we-can-do-it-here-gmtf-urges-investors-to-bring-specialist-care-closer-to-ghanaians/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:44:00.000Z",
-      "summary": "The Administrator of the Ghana Medical Trust Fund (GMTF), Adjoa Obuobia Darko-Opoku, has appealed to investors to help expand specialist healthcare in Ghana so families can access…",
-      "categories": [
-        "Health",
-        "Adjoa Obuobia Darko-Opoku",
-        "Ghana Medical Trust Fund (GMTF)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
