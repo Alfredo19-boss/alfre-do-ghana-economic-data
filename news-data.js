@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T05:49:05.271Z",
+  "updated": "2026-11-18T05:59:05.325Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T05:43:54.000Z",
       "summary": "Gold Fields says its technical expertise, US$5 billion investment history and financial strength position it to extend Tarkwa mine's lifespan, pledging further capital investment to protect…"
+    },
+    {
+      "title": "China offers AI and green technology support for Ghana’s $10bn New Economy push",
+      "link": "https://www.myjoyonline.com/china-offers-ai-and-green-technology-support-for-ghanas-10bn-new-economy-push/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:32:00.000Z",
+      "summary": "China has said it is ready to support Ghana’s US$10 billion New Economy Programme through cooperation in artificial intelligence, green technology, agriculture, and industrial development."
     },
     {
       "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair",
       "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T05:18:46.000Z",
-      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"
-    },
-    {
-      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
-      "link": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
       "source": "MyJoyOnline",
       "published": "2026-11-15T05:18:46.000Z",
       "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November…"

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:49:07.551Z",
+  "updated": "2026-11-18T05:59:08.381Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "China offers AI and green technology support for Ghana’s $10bn New Economy push",
+      "link": "https://www.myjoyonline.com/china-offers-ai-and-green-technology-support-for-ghanas-10bn-new-economy-push/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:32:00.000Z",
+      "summary": "China has said it is ready to support Ghana’s US$10 billion New Economy Programme through cooperation in artificial intelligence, green technology, agriculture, and industrial development.",
+      "categories": [
+        "Economy",
+        "National",
+        "China",
+        "new economy programme"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Javits Frimpong killing: Judge keeps 17-year-old’s case in adult court",
       "link": "https://www.myjoyonline.com/javits-frimpong-killing-judge-keeps-17-year-olds-case-in-adult-court/",
       "source": "MyJoyOnline",
@@ -40,7 +54,6 @@ window.GDC_PAPERS = {
       "summary": "A 17-year-old charged over the fatal shooting of Ghanaian student Javits Frimpong in the Bronx, New York, will face proceedings in the adult criminal court system after a judge declined to…",
       "categories": [
         "Diaspora",
-        "HP News 2",
         "adult court",
         "Javits Frimpong"
       ],
@@ -112,19 +125,6 @@ window.GDC_PAPERS = {
         "Top Story",
         "Export earnings",
         "Gold"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MINURSO begins withdrawal from Laayoune after UN mandate ends",
-      "link": "https://www.myjoyonline.com/minurso-begins-withdrawal-from-laayoune-after-un-mandate-ends/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:14:00.000Z",
-      "summary": "The first contingent of the United Nations Mission for the Referendum in Western Sahara (MINURSO) began leaving Laayoune on Monday, marking the start of a phased withdrawal.",
-      "categories": [
-        "Africa",
-        "Minurso",
-        "Morocco"
       ],
       "site": "https://www.myjoyonline.com/"
     },
