@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T20:03:59.385Z",
+  "updated": "2026-11-18T20:18:58.388Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Galamsey fight: NAIMOS won’t sacrifice its mandate on the altar of political convenience – Spokesperson",
+      "link": "https://www.myjoyonline.com/galamsey-fight-naimos-wont-sacrifice-its-mandate-on-the-altar-of-political-convenience-spokesperson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T20:15:35.000Z",
+      "summary": "The Spokesperson for the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Paa Kwesi Schandorf, has responded to comments by Ashanti Regional Minister Dr Frank Amoakohene…",
+      "categories": [
+        "National",
+        "Fight",
+        "Galamsey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Relief for ASWAJ Islamic SHS as Techiman South MP donates 200 desks",
+      "link": "https://www.myjoyonline.com/relief-for-aswaj-islamic-shs-as-techiman-south-mp-donates-200-desks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T20:15:01.000Z",
+      "summary": "The ASWAJ Islamic Senior High School in Techiman South has received a major boost to its infrastructure, with the delivery of 200 mono desks promised by the Member of Parliament, Martin…",
+      "categories": [
+        "Education",
+        "Regional",
+        "200 mono desks",
+        "ASWAJ Islamic Senior High School",
+        "Techiman South MP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana develops science-based methodology to assess national water stress",
+      "link": "https://www.myjoyonline.com/ghana-develops-science-based-methodology-to-assess-national-water-stress/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T20:12:44.000Z",
+      "summary": "Ghana is taking steps to strengthen its water resource management through a science-based national water stress assessment methodology being developed and piloted with support from the…",
+      "categories": [
+        "National",
+        "News",
+        "Ghana",
+        "Korea",
+        "UNESCO project"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP 31: African youth urge world leaders to put water at centre of climate adaptation funding",
       "link": "https://www.myjoyonline.com/cop-31-african-youth-urge-world-leaders-to-put-water-at-centre-of-climate-adaptation-funding/",
@@ -89,45 +132,6 @@ window.GDC_PAPERS = {
         "Black Friday",
         "discounts",
         "Electroland Ghana Limited"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG announces power outage in parts of Accra East due to technical challenge",
-      "link": "https://www.myjoyonline.com/ecg-announces-power-outage-in-parts-of-accra-east-due-to-technical-challenge/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:31:11.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has announced a power outage affecting parts of the Accra East Region following a technical challenge.",
-      "categories": [
-        "National",
-        "ECG",
-        "Power Outage"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oforikrom assembly empowers 43 PWDs with start-up kits, settles hospital bills to curb street begging",
-      "link": "https://www.myjoyonline.com/oforikrom-assembly-empowers-43-pwds-with-start-up-kits-settles-hospital-bills-to-curb-street-begging/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:29:26.000Z",
-      "summary": "The Oforikrom Municipal Assembly in the Ashanti Region has provided start-up kits and financial support to settle the medical bills of forty-three (43) Persons with Disabilities (PWDs) in…",
-      "categories": [
-        "Regional",
-        "Oforikrom Municipal Assembly",
-        "Persons With Disabilities (PWDs)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government committed to building a competitive economy, supporting local businesses – Julius Debrah",
-      "link": "https://www.myjoyonline.com/government-committed-to-building-a-competitive-economy-supporting-local-businesses-julius-debrah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:26:58.000Z",
-      "summary": "Chief of Staff Julius Debrah has reaffirmed the government’s commitment to building a productive, competitive and resilient economy that creates jobs, supports local businesses and improves…",
-      "categories": [
-        "National",
-        "Government",
-        "Julius Debrah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
