@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:24:08.463Z",
+  "updated": "2026-11-18T16:29:08.251Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "I went to UGEL to prove nothing could stop me – Rent Commissioner",
+      "link": "https://www.myjoyonline.com/i-went-to-ugel-to-prove-nothing-could-stop-me-rent-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T16:23:43.000Z",
+      "summary": "Acting Rent Commissioner Frederick Opoku has explained why he proceeded with an inspection of University of Ghana Enterprise Limited (UGEL) hostels after its Chief Executive Officer warned…",
+      "categories": [
+        "National",
+        "News",
+        "Acting Rent Commissioner Frederick Opoku",
+        "UGEL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama condemns vigilantism against migrants",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-vigilantism-against-migrants.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T16:21:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "19 of 22 shops inspected at West Hills Mall fail tax compliance checks",
       "link": "https://www.myjoyonline.com/19-of-22-shops-inspected-at-west-hills-mall-fail-tax-compliance-checks/",
@@ -133,22 +158,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
-      "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:32:18.000Z",
-      "summary": "The 2026 Ghana Export and Made in Ghana Fair (GEXPO 2026) is set to run from November 18 to 22 at the Black Star Square in Accra, with a focus on promoting locally manufactured products and…",
-      "categories": [
-        "Economy",
-        "National",
-        "Black Star Square",
-        "Ghana Export and Made in Ghana Fair (GEXPO 2026)",
-        "Made-in-Ghana products",
-        "Ministry of Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Korea, UNESCO support Ghana to strengthen water security",
       "link": "https://www.graphic.com.gh/news/general-news/korea-unesco-support-ghana-to-strengthen-water-security.html",
       "source": "Daily Graphic",
@@ -208,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/npa-facilitates-24-hour-vessel-operations-at-tema-oil-jetty.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T12:10:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Ghana Enterprises on why GH¢8,000 Legon hostel fees cannot be reduced citing GH¢70million debt",
-      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-enterprises-limited-on-why-ghc8-000-legon-hostel-fees-cannot-be-reduced-citing-ghc70million-debt.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T11:03:56.000Z",
       "summary": "",
       "categories": [
         "General News"
