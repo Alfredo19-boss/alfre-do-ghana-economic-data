@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T16:53:59.827Z",
+  "updated": "2026-11-18T19:58:29.367Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,53 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
+      "link": "https://www.myjoyonline.com/gridco-pushes-to-complete-161kv-kumasi-anwomaso-project-to-improve-power-reliability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:46:57.000Z",
+      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has inspected ongoing works on the 161kV Kumasi–Anwomaso (K1K2) transmission line, urging the technical team to…"
+    },
+    {
+      "title": "BoG to assess rural banks’ conversion progress before considering extensions",
+      "link": "https://www.myjoyonline.com/bog-to-assess-rural-banks-conversion-progress-before-considering-extensions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T18:39:58.000Z",
+      "summary": "The Bank of Ghana says it is open to considering extensions for rural banks that are unable to meet the December 2026 deadline for transitioning into community banks, as it continues to…"
+    },
+    {
+      "title": "Secondary market turnover surges by 152% to GH¢6.86bn",
+      "link": "https://www.myjoyonline.com/secondary-market-turnover-surges-by-152-to-gh%c2%a26-86bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T17:20:27.000Z",
+      "summary": "Trading activity shifted towards the 2031-2034 maturity segment, which dominated turnover with a 49.70% share at a weighted-average yield of 14.97%."
+    },
+    {
+      "title": "BoG confidence surveys showed mixed sentiments",
+      "link": "https://www.myjoyonline.com/bog-confidence-surveys-showed-mixed-sentiments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T17:07:41.000Z",
+      "summary": "According to the Monetary Policy Committee (MPC) press release, consumer confidence weakened, reflecting higher ex-pump petroleum prices and transport fares, while business confidence…"
+    },
+    {
+      "title": "CIB Ghana Pushes Banks To Rethink SME Lending as Financing Gaps Persist",
+      "link": "https://thehighstreetjournal.com/cib-ghana-pushes-banks-to-rethink-sme-lending-as-financing-gaps-persist/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T17:07:00.000Z",
+      "summary": "CIB Ghana and GhISP are training bank officials to adopt cash-flow-based and inclusive lending approaches, addressing traditional credit assessment barriers that prevent viable Ghanaian…"
+    },
+    {
+      "title": "Deutsche Bank faces fresh scrutiny after leak reveals alleged failures",
+      "link": "https://www.ghanabusinessnews.com/2026/11/18/deutsche-bank-faces-fresh-scrutiny-after-leak-reveals-alleged-failures/",
+      "source": "Ghana Business News",
+      "published": "2026-11-18T16:53:38.000Z",
+      "summary": "More than 15 million internal documents reportedly offer insights into how Deutsche Bank handled warnings and problematic clients. Here is what international media outlets discovered while…"
+    },
     {
       "title": "MTN Urged to Strengthen Network Quality and Expand Digital Inclusion",
       "link": "https://thehighstreetjournal.com/mtn-urged-to-strengthen-network-quality-and-expand-digital-inclusion/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T11:08:15.000Z",
       "summary": "The Ghana High Commission in London and the Okyeman Amanonehene, Otuapem Oduduobiribi Benkyi, have agreed to strengthen collaboration to channel diaspora skills, expertise and capital into…"
-    },
-    {
-      "title": "High Court Refuses Chairman Wontumi Bail Pending Appeal; to Remain in Prison",
-      "link": "https://thehighstreetjournal.com/high-court-refuses-chairman-wontumi-bail-pending-appeal-to-remain-in-prison/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T10:35:33.000Z",
-      "summary": "In refusing the application, the Court held that Wontumi had not demonstrated exceptional circumstances warranting his release on bail pending appeal."
-    },
-    {
-      "title": "‘No Verification, No Pay’: All Public Sector Workers to Go Through Self-Verification Before Salaries in 2027",
-      "link": "https://thehighstreetjournal.com/no-verification-no-pay-all-public-sector-workers-to-go-through-self-verification-before-salaries-in-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T10:00:00.000Z",
-      "summary": "Government will require all public sector workers and pensioners to undergo biometric self-verification before receiving salaries in 2027, linking payroll to Ghana Card data to eliminate…"
-    },
-    {
-      "title": "Rethinking the Ghanaian compound house: Co-living as part of the housing solution",
-      "link": "https://www.myjoyonline.com/rethinking-the-ghanaian-compound-house-co-living-as-part-of-the-housing-solution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:39:26.000Z",
-      "summary": "When we discuss Ghana’s housing challenges, the conversation often turns to acquiring more land, building new estates, and finding the money to finance construction. These are important…"
-    },
-    {
-      "title": "PNP criticises Ghana’s 2027 Budget over unfulfilled promises on women’s bank, poultry and jobs",
-      "link": "https://www.myjoyonline.com/pnp-criticises-ghanas-2027-budget-over-unfulfilled-promises-on-womens-bank-poultry-and-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:35:00.000Z",
-      "summary": "The People’s National Party (PNP) has criticised the 2027 Budget, describing it as a collection of recycled promises and accusing the government of failing to demonstrate tangible results…"
-    },
-    {
-      "title": "Obuasi Trade Show 2026 to bring businesses together for four-day exhibition in December",
-      "link": "https://www.myjoyonline.com/obuasi-trade-show-2026-to-bring-businesses-together-for-four-day-exhibition-in-december/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T08:24:22.000Z",
-      "summary": "The 2026 Obuasi Trade Show is scheduled to take place from December 21 to 24 at the Obuasi Black Park, bringing together businesses, entrepreneurs, manufacturers and traders from across the…"
-    },
-    {
-      "title": "Economists urge disciplined implementation of 2027 Budget",
-      "link": "https://www.ghanabusinessnews.com/2026/11/16/economists-urge-disciplined-implementation-of-2027-budget/",
-      "source": "Ghana Business News",
-      "published": "2026-11-16T06:45:53.000Z",
-      "summary": "Economists have urged the government to mobilise resources and ensure effective implementation of flagship programmes to achieve the targets of the 2027 Budget."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T16:54:04.572Z",
+  "updated": "2026-11-18T19:58:31.866Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,201 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "HIDAH Foundation provides free healthcare to children and residents in Dodowa",
+      "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-to-children-and-residents-in-dodowa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:51:50.000Z",
+      "summary": "The HIDAH Humanitarian Foundation has organised a free healthcare outreach at the Home of Taqwa Orphanage in Dodowa, providing medical services to children at the facility and residents of…",
+      "categories": [
+        "Regional",
+        "Dodowa",
+        "Healthcare",
+        "HIDAH Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
+      "link": "https://www.myjoyonline.com/gridco-pushes-to-complete-161kv-kumasi-anwomaso-project-to-improve-power-reliability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:46:57.000Z",
+      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has inspected ongoing works on the 161kV Kumasi–Anwomaso (K1K2) transmission line, urging the technical team to…",
+      "categories": [
+        "Energy",
+        "Regional",
+        "GRIDCo",
+        "Kumasi",
+        "Power reliability"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Electroland announces Black Friday deals with up to 70% discounts, free appliances and GH¢1m in prizes",
+      "link": "https://www.myjoyonline.com/electroland-announces-black-friday-deals-with-up-to-70-discounts-free-appliances-and-gh%c2%a21m-in-prizes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:37:34.000Z",
+      "summary": "Electroland Ghana Limited has announced its ‘No Challenger’ Black Friday promotion, offering customers discounts of between 30 and 70 per cent, free appliances on selected purchases and the…",
+      "categories": [
+        "National",
+        "Black Friday",
+        "discounts",
+        "Electroland Ghana Limited"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECG announces power outage in parts of Accra East due to technical challenge",
+      "link": "https://www.myjoyonline.com/ecg-announces-power-outage-in-parts-of-accra-east-due-to-technical-challenge/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:31:11.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has announced a power outage affecting parts of the Accra East Region following a technical challenge.",
+      "categories": [
+        "National",
+        "ECG",
+        "Power Outage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oforikrom assembly empowers 43 PWDs with start-up kits, settles hospital bills to curb street begging",
+      "link": "https://www.myjoyonline.com/oforikrom-assembly-empowers-43-pwds-with-start-up-kits-settles-hospital-bills-to-curb-street-begging/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:29:26.000Z",
+      "summary": "The Oforikrom Municipal Assembly in the Ashanti Region has provided start-up kits and financial support to settle the medical bills of forty-three (43) Persons with Disabilities (PWDs) in…",
+      "categories": [
+        "Regional",
+        "Oforikrom Municipal Assembly",
+        "Persons With Disabilities (PWDs)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government committed to building a competitive economy, supporting local businesses – Julius Debrah",
+      "link": "https://www.myjoyonline.com/government-committed-to-building-a-competitive-economy-supporting-local-businesses-julius-debrah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:26:58.000Z",
+      "summary": "Chief of Staff Julius Debrah has reaffirmed the government’s commitment to building a productive, competitive and resilient economy that creates jobs, supports local businesses and improves…",
+      "categories": [
+        "National",
+        "Government",
+        "Julius Debrah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t considers PPP to build affordable hostels for tertiary students – Education Minister reveals",
+      "link": "https://www.myjoyonline.com/govt-considers-ppp-to-build-affordable-hostels-for-tertiary-students-education-minister-reveals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:21:18.000Z",
+      "summary": "The government is considering a Public-Private Partnership (PPP) arrangement to facilitate the construction of additional hostel facilities at affordable rates for tertiary students.",
+      "categories": [
+        "National",
+        "News",
+        "Education Minister",
+        "Public-Private Partnership (PPP)",
+        "Tertiary Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana secures 6.57 million forest carbon credits, becomes first African country to receive ART TREES credits",
+      "link": "https://www.myjoyonline.com/ghana-secures-6-57-million-forest-carbon-credits-becomes-first-african-country-to-receive-art-trees-credits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T19:20:53.000Z",
+      "summary": "Ghana has become the first African country to receive 6.57 million forest carbon credits under ART's TREES programme, with the government expecting about US$43 million from the sale of some…",
+      "categories": [
+        "Africa",
+        "News",
+        "Carbon credit",
+        "Deforestation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Actors’ Guild leadership dispute heads to High Court in Tema",
+      "link": "https://ghanaiantimes.com.gh/ghana-actors-guild-leadership-dispute-heads-to-high-court-in-tema/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:15:04.000Z",
+      "summary": "Concerned registered members of the Ghana Actors’ Guild (GAG) have filed legal proceedings at the High Court in Tema over matters affecting the governance and electoral processes of the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Firefighters save 10 rooms from fire at Bimbilla Chief’s Palace",
+      "link": "https://ghanaiantimes.com.gh/firefighters-save-10-rooms-from-fire-at-bimbilla-chiefs-palace/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:10:43.000Z",
+      "summary": "Firefighters from the Bimbilla Municipal Fire Station have successfully contained a fire outbreak at the Bimbilla Chief Palace (Kpihibara Naa) at Shirkpamo Fong. The fire affected a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Why can’t Ghana buy a $60m presidential jet after spending $97m on national cathedral? – Richard Sumah",
+      "link": "https://ghanaiantimes.com.gh/why-cant-ghana-buy-a-60m-presidential-jet-after-spending-97m-on-national-cathedral-richard-sumah/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:08:36.000Z",
+      "summary": "Deputy General Secretary of the United Party, Richard Sumah, has questioned Ghana’s inability to purchase a presidential jet costing about US$60 million, despite the country’s decision to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "$60m presidential jet: “President must stay in Ghana and work for us” – Enoch Afoakwa",
+      "link": "https://ghanaiantimes.com.gh/60m-presidential-jet-president-must-stay-in-ghana-and-work-for-us-enoch-afoakwa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:06:55.000Z",
+      "summary": "Deputy Director of Legal Affairs of the New Patriotic Party (NPP), Enoch Afoakwa, has criticised the proposed acquisition of a presidential jet costing more than US$60 million, questioning…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Forestry Commission grants Gomoa Eco Park permit to begin preliminary works at Yenku Forest reserve",
+      "link": "https://ghanaiantimes.com.gh/forestry-commission-grants-gomoa-eco-park-permit-to-begin-preliminary-works-at-yenku-forest-reserve/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:04:56.000Z",
+      "summary": "The Forestry Commission has granted Gomoa Eco Park Development Company Limited a temporary entry permit to undertake preliminary works within designated areas of Blocks A and B of the Yenku…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GFA must be held accountable for the Black Stars’ poor performance over the years – Shatta Wale",
+      "link": "https://ghanaiantimes.com.gh/gfa-must-be-held-accountable-for-the-black-stars-poor-performance-over-the-years-shatta-wale/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T17:00:01.000Z",
+      "summary": "Controversial Ghanaian musician Shatta Wale has called on the Ghana Football Association (GFA) to take responsibility for the Black Stars’ poor performance over the years, describing…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Patrick Boamah visits Lapaz Papaye after fire outbreak",
+      "link": "https://ghanaiantimes.com.gh/patrick-boamah-visits-lapaz-papaye-after-fire-outbreak/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T16:54:10.000Z",
+      "summary": "The Member of Parliament for Okaikwei Central, Patrick Yaw Boamah, has visited the premises of Papaye at Lapaz following a fire outbreak to assess the extent of damage. The MP visited the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Bawumia pledges major boost for Ghana’s film industry",
       "link": "https://ghanaiantimes.com.gh/bawumia-pledges-major-boost-for-ghanas-film-industry/",
       "source": "Ghanaian Times",
@@ -33,98 +228,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "UGEL hostels not renovated to justify higher fees – GRASAG-UG president",
-      "link": "https://www.myjoyonline.com/ugel-hostels-not-renovated-to-justify-higher-fees-grasag-ug-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:49:37.000Z",
-      "summary": "The President of the Graduate Students' Association of Ghana (GRASAG) at the University of Ghana, Ferdinand Fosu-Blankson, says hostel facilities operated by the University of Ghana…",
-      "categories": [
-        "National",
-        "News",
-        "Ferdinand Fosu-Blankson",
-        "GRASAG-UG president",
-        "UGEL hostels"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIDA grants Gomoa Eco Park temporary permit to undertake preliminary works at Mprumem Dam",
-      "link": "https://ghanaiantimes.com.gh/gida-grants-gomoa-eco-park-temporary-permit-to-undertake-preliminary-works-at-mprumem-dam/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T16:47:22.000Z",
-      "summary": "The Ghana Irrigation Development Authority (GIDA) has granted Gomoa Eco Park Development Company a temporary entry permit to undertake preliminary works at the Mprumem Irrigation Dam. The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "19 year-old arrested for impersonating prison officer in Tamale",
-      "link": "https://ghanaiantimes.com.gh/19-year-old-arrested-for-impersonating-prison-officer-in-tamale/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T16:45:33.000Z",
-      "summary": "A 19 year-old man, Mohammed Yussif Zanjina, has been arrested at Gumbihini, a suburb of Tamale, on Tuesday, November 17, 2026, for allegedly impersonating a Prison Officer by wearing the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UG Hostel Fees: UGEL CEO Ayo Agbisi says he cannot guarantee reduction",
-      "link": "https://ghanaiantimes.com.gh/ug-hostel-fees-ugel-ceo-ayo-agbisi-says-he-cannot-guarantee-reduction/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T16:42:47.000Z",
-      "summary": "The Chief Executive Officer of the University of Ghana Enterprises Limited (UGEL), Ayo Agbisi, says he cannot guarantee a reduction in hostel fees at the University of Ghana but has assured…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Amin Adam accuses government of spending more on itself than on productive sectors",
-      "link": "https://www.myjoyonline.com/amin-adam-accuses-government-of-spending-more-on-itself-than-on-productive-sectors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:41:45.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of prioritising administrative expenditure over investment in productive sectors of the economy.",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Comsumption",
-        "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Davido makes special appearance as Sao App launches at Achimota Mall",
-      "link": "https://www.myjoyonline.com/davido-makes-special-appearance-as-sao-app-launches-at-achimota-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:31:37.000Z",
-      "summary": "As digital finance continues to reshape everyday payments across Ghana, competition among mobile payment platforms is intensifying. Providers are increasingly vying for users by offering…",
-      "categories": [
-        "National",
-        "Achimota Mall",
-        "Sao App"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I went to UGEL to prove nothing could stop me – Rent Commissioner",
-      "link": "https://www.myjoyonline.com/i-went-to-ugel-to-prove-nothing-could-stop-me-rent-commissioner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:23:43.000Z",
-      "summary": "Acting Rent Commissioner Frederick Opoku has explained why he proceeded with an inspection of University of Ghana Enterprise Limited (UGEL) hostels after its Chief Executive Officer warned…",
-      "categories": [
-        "National",
-        "News",
-        "Acting Rent Commissioner Frederick Opoku",
-        "UGEL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama condemns vigilantism against migrants",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-vigilantism-against-migrants.html",
       "source": "Daily Graphic",
@@ -134,62 +237,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "19 of 22 shops inspected at West Hills Mall fail tax compliance checks",
-      "link": "https://www.myjoyonline.com/19-of-22-shops-inspected-at-west-hills-mall-fail-tax-compliance-checks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:17:47.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has identified 19 non-compliant businesses out of 22 shops inspected during a tax enforcement exercise within the West Hills Mall enclave in Accra.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "tax compliance",
-        "West Hills Mall"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
-      "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:02:51.000Z",
-      "summary": "Former Finance Minister and Ranking Member on Parliament's finance committee Dr Mohammed Amin Adam has put Ghana’s public debt burden at the equivalent of GH¢23,000 for every citizen…",
-      "categories": [
-        "Economy",
-        "National",
-        "Amin Adam",
-        "Budget 2027",
-        "nationa debt",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Firefighters save 10-room Bimbilla Chief’s Palace compound from fire",
-      "link": "https://www.myjoyonline.com/firefighters-save-10-room-bimbilla-chiefs-palace-compound-from-fire/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:55:23.000Z",
-      "summary": "Firefighters from the Bimbilla Municipal Fire Station have contained a fire outbreak at the Bimbilla Chief's Palace, known as Kpihibara Naa, at Shirkpamo Fong in the Northern Region.",
-      "categories": [
-        "Regional",
-        "Bimbilla",
-        "Fire"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire breaks out in top-floor bedroom of Chaka Royal Hotel in North Dayi",
-      "link": "https://www.myjoyonline.com/fire-breaks-out-in-top-floor-bedroom-of-chaka-royal-hotel-in-north-dayi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:52:36.000Z",
-      "summary": "A fire has broken out in a bedroom on the top floor of the three-storey Chaka Royal Hotel at Aveme-Beme in the North Dayi District of the Volta Region, prompting a swift response from the…",
-      "categories": [
-        "Regional",
-        "Chaka Royal Hotel",
-        "North Dayi"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GHS identifies six regions at risk of meningitis, warns of dehydration and heat exhaustion ahead of harmattan",
@@ -267,51 +314,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
-      "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:30:00.000Z",
-      "summary": "THE Ghana Geological Survey Authority (GGSA) has recorded a major milestone in efforts to strengthen the country’s geoscience sector, following the coming into force of seven Legislative…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "24-Hour Economy Authority backs Nadkansco cashew factory",
-      "link": "https://ghanaiantimes.com.gh/24-hour-economy-authority-backs-nadkansco-cashew-factory/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:28:26.000Z",
-      "summary": "THE 24-Hour Economy Authority has thrown its support behind Nadkansco’s new cashew processing factory, inaugurated by President John Dramani Mahama in Techiman in the Bono East Region. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "At COP31: Jospong, ISA partner to accelerate Africa’s solar energy drive",
-      "link": "https://ghanaiantimes.com.gh/at-cop31-jospong-isa-partner-to-accelerate-africas-solar-energy-drive/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:23:47.000Z",
-      "summary": "THE International Solar Alliance (ISA) has presented a comprehensive solarisation roadmap to the Jospong Group of Companies (JGC) at the ongoing 31st United Nations Climate Change…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GMA Chief Director appointed to Africa PR Week council",
-      "link": "https://ghanaiantimes.com.gh/gma-chief-director-appointed-to-africa-pr-week-council/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T08:20:48.000Z",
-      "summary": "EMMA Wenani, Chief Director of Global Media Alliance (GMA), has joined the Advisory Council of Africa PR Week, organisers of the annual Africa Global PR Week summit in Nairobi. Ms Wenani…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
