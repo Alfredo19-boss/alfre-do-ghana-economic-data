@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:59:04.206Z",
+  "updated": "2026-11-18T12:09:05.521Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bills Microcredit launches Bills Direct, allowing consumers to shop without down payments or collateral",
+      "link": "https://www.myjoyonline.com/bills-microcredit-launches-bills-direct-allowing-consumers-to-shop-without-down-payments-or-collateral/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:01:32.000Z",
+      "summary": "Bills Microcredit has introduced no-down-payment, no-collateral and no-account-needed consumer loans dubbed Bills Direct. According to the firm, customers can pick items at partner stores…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Bills Microcredit",
+        "Consumer Loans",
+        "Romeo Richlove Kweku Seshie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rising school enrolment does not guarantee quality education – Edem Agbana",
+      "link": "https://www.myjoyonline.com/rising-school-enrolment-does-not-guarantee-quality-education-edem-agbana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:57:33.000Z",
+      "summary": "Member of Parliament for Ketu North, Edem Agbana, has cautioned that increasing school enrolment figures do not necessarily reflect improved access to quality education, warning that many…",
+      "categories": [
+        "Education",
+        "National",
+        "Edem Agbana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sierra Leonean Mourns Ghana’s late Prof. Fred Binka, pioneering malaria researcher",
       "link": "https://www.myjoyonline.com/sierra-leonean-mourns-ghanas-late-prof-fred-binka-pioneering-malaria-researcher/",
@@ -99,37 +127,6 @@ window.GDC_PAPERS = {
         "National",
         "Prisons Service",
         "Tamale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We do not fall under the Rent Act; hostel occupants are not tenants – UGEL Chief Officer",
-      "link": "https://www.myjoyonline.com/we-do-not-fall-under-rent-act-hostel-occupants-are-not-tenants-ugel-chief-officer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:19:26.000Z",
-      "summary": "The Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Agbesi, has argued that the university's hostel facilities do not fall under the Rent Act of the Rent…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Hostel",
-        "Rent Control",
-        "UG",
-        "UGEL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL to seek court interpretation of Rent Act’s applicability to university hostels",
-      "link": "https://www.myjoyonline.com/ugel-to-seek-court-interpretation-of-rent-acts-applicability-to-university-hostels/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:13:25.000Z",
-      "summary": "The University of Ghana Enterprise Limited (UGEL) is preparing to take the Rent Control Commission to court to seek an interpretation of the Rent Act and establish whether university…",
-      "categories": [
-        "National",
-        "News",
-        "Rent Act",
-        "UG",
-        "UGEL"
       ],
       "site": "https://www.myjoyonline.com/"
     },

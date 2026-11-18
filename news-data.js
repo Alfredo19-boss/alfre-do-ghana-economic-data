@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T11:58:33.450Z",
+  "updated": "2026-11-18T12:08:35.318Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Inside Deutsche Bank: What the leak means for the poor in Africa",
+      "link": "https://www.ghanabusinessnews.com/2026/11/18/inside-deutsche-bank-what-the-leak-means-for-the-poor-in-africa/",
+      "source": "Ghana Business News",
+      "published": "2026-11-18T12:05:55.000Z",
+      "summary": "The Deutsche Bank leak is not only about Donald Trump’s loans or Jeffrey Epstein’s yacht."
+    },
+    {
+      "title": "Bills Microcredit launches Bills Direct, allowing consumers to shop without down payments or collateral",
+      "link": "https://www.myjoyonline.com/bills-microcredit-launches-bills-direct-allowing-consumers-to-shop-without-down-payments-or-collateral/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:01:32.000Z",
+      "summary": "Bills Microcredit has introduced no-down-payment, no-collateral and no-account-needed consumer loans dubbed Bills Direct. According to the firm, customers can pick items at partner stores…"
+    },
     {
       "title": "Minerals Commission, CalBank Commit GH¢1bn to Mining Businesses",
       "link": "https://thehighstreetjournal.com/minerals-commission-calbank-commit-gh%c2%a21bn-to-mining-businesses/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T22:50:19.000Z",
       "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures."
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026 ends in vibrant celebration of Ghanaian enterprise after three days of business, shopping and entertainment",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-ends-in-vibrant-celebration-of-ghanaian-enterprise-after-three-days-of-business-shopping-and-entertainment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T20:33:04.000Z",
-      "summary": "The 2026 Ecobank JoyBusiness SME Fair has successfully concluded after three exciting days of business exhibitions, product displays, shopping bargains, networking, cultural performances…"
-    },
-    {
-      "title": "Kekeli Borborbor Group, Shakers Band bring cultural flair and live music to Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/kekeli-borborbor-group-shakers-band-bring-cultural-flair-and-live-music-to-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T18:42:37.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 has received an exciting blend of traditional Ghanaian music and live-band entertainment, with the Kekeli Borborbor Group and Shakers Band adding to…"
     }
   ]
 };
