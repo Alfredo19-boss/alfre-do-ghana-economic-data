@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:38:37.415Z",
+  "updated": "2026-11-18T03:43:40.082Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "President John Mahama has called for a shift in focus within the Economic Community of West African States (ECOWAS), insisting the regional bloc must evolve from an organisation dominated…",
       "categories": [
         "Africa",
+        "HP News 7",
         "National",
         "ECOWAS",
         "President John Mahama"
@@ -58,6 +59,7 @@ window.GDC_PAPERS = {
       "summary": "The Food and Beverage Association of Ghana (FABAG) has proposed a ‘Rice Board’ to guarantee prices and purchases for rice farmers.",
       "categories": [
         "Agribusiness",
+        "HP News 3",
         "National",
         "Food and Beverage Association of Ghana (FABAG)",
         "Rice Board",
@@ -73,6 +75,7 @@ window.GDC_PAPERS = {
       "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports.",
       "categories": [
         "Agribusiness",
+        "HP News 6",
         "National",
         "Food and Beverage Association of Ghana (FABAG)",
         "Local rice"
@@ -89,6 +92,19 @@ window.GDC_PAPERS = {
         "International",
         "BBC",
         "Donald Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rejoinder to the Acheampong Memorial Lectures: No whitewash can undo a coup",
+      "link": "https://www.myjoyonline.com/rejoinder-to-the-acheampong-memorial-lectures-no-whitewash-can-undo-a-coup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:49:00.000Z",
+      "summary": "Before we argue history, let us count. There have been two General I.K. Acheampong Memorial Lectures so far. Not twenty. Not a tradition. Two, in twelve months, organised by the same hand.",
+      "categories": [
+        "Opinion",
+        "General I.K. Acheampong",
+        "Memorial Lectures"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -115,20 +131,6 @@ window.GDC_PAPERS = {
         "Tennis",
         "ATP Finals",
         "Carlos Alcaraz"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s nuclear journey: From Nkrumah’s vision to a new investment commitment",
-      "link": "https://www.myjoyonline.com/ghanas-nuclear-journey-from-nkrumahs-vision-to-a-new-investment-commitment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:24:16.000Z",
-      "summary": "Ghana’s proposed US$200 million investment in nuclear power readiness marks a significant step in a journey that began more than six decades ago. It renews an ambition rooted in the…",
-      "categories": [
-        "Opinion",
-        "Investment",
-        "Nkrumah",
-        "nuclear journey"
       ],
       "site": "https://www.myjoyonline.com/"
     },

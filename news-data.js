@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T03:38:35.515Z",
+  "updated": "2026-11-18T03:43:37.643Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,15 +18,29 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "FABAG proposes ‘Rice Board’ to guarantee prices for farmers",
+      "link": "https://www.myjoyonline.com/fabag-proposes-rice-board-to-guarantee-prices-for-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T00:32:00.000Z",
+      "summary": "The Food and Beverage Association of Ghana (FABAG) has proposed a ‘Rice Board’ to guarantee prices and purchases for rice farmers."
+    },
     {
       "title": "Buy and store local rice before cutting imports – FABAG’s Ato Aggrey urges government",
       "link": "https://www.myjoyonline.com/buy-and-store-local-rice-before-cutting-imports-fabags-ato-aggrey-urges-government/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T00:11:00.000Z",
       "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports."
+    },
+    {
+      "title": "No court order bars dealings with Nguvu Mining – Lawyers",
+      "link": "https://www.myjoyonline.com/no-court-order-bars-dealings-with-nguvu-mining-lawyers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:11:00.000Z",
+      "summary": "Nguvu Mining Limited has rejected claims that an Australian-based company, Adamus Resources Pty Ltd, owns shares in Adamus Resources Limited in Ghana, insisting that it holds the…"
     },
     {
       "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T20:00:06.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 is getting even more exciting, with Ghanaian music duo Lali X Lola adding a musical dimension to the three-day exhibition at Ghud Park, Accra Mall."
-    },
-    {
-      "title": "Ghana adopts first national standards for business development services",
-      "link": "https://gna.org.gh/2026/11/ghana-adopts-first-national-standards-for-business-development-services/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-14T18:08:56.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Petroleum Commission Digitises Permit Applications to Cut Delays and Attract Upstream Investment",
-      "link": "https://thehighstreetjournal.com/petroleum-commission-digitises-permit-applications-to-cut-delays-and-attract-upstream-investment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-14T15:00:08.000Z",
-      "summary": "The Petroleum Commission has introduced digital permitting and launched a Local Content Fund to reduce regulatory delays, improve SME financing and strengthen Ghanaian participation in the…"
     }
   ]
 };
