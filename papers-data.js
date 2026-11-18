@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:08:41.339Z",
+  "updated": "2026-11-18T07:18:41.254Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Carefully assess domestic, global developments for appropriate monetary policy stance • Governor urges MPC",
+      "link": "https://ghanaiantimes.com.gh/carefully-assess-domestic-global-developments-for-appropriate-monetary-policy-stance-governor-urges-mpc/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:16:58.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has urged members of the Monetary Policy Committee (MPC) to carefully assess domestic and global economic developments to…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Fishers demand greater role in fisheries policy formulation",
+      "link": "https://ghanaiantimes.com.gh/fishers-demand-greater-role-in-fisheries-policy-formulation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:13:17.000Z",
+      "summary": "FISHERS in the Greater Accra Region have called for greater involvement in the formulation and implementation of government policies and interventions aimed at developing the fisheries…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana secures 2 ITU seats in Doha",
+      "link": "https://ghanaiantimes.com.gh/ghana-secures-2-itu-seats-in-doha/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:10:49.000Z",
+      "summary": "GHANA has secured two important positions in the global telecommunications governing structure following its re-election to the Council of the International Telecommunication Union (ITU)…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GNATH elects new executives for Ho Municipality",
       "link": "https://ghanaiantimes.com.gh/gnath-elects-new-executives-for-ho-municipality/",
@@ -108,30 +141,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GH¢148m cashew processing plant inaugurated • To create 1,500 direct jobs",
-      "link": "https://ghanaiantimes.com.gh/gh%c2%a2148m-cashew-processing-plant-inaugurated-to-create-1500-direct-jobs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:38:20.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has inaugurated a GH¢148.4 million cashew processing factory at Tuobodom in the Techiman North Municipality of the Bono East Region as part of efforts to end…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Geological activities come under stricter regulation • 7 new instruments give effect to GGSA Act",
-      "link": "https://ghanaiantimes.com.gh/geological-activities-come-under-stricter-regulation-7-new-instruments-give-effect-to-ggsa-act/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:28:00.000Z",
-      "summary": "THE Ghana Geological Survey Authority (GGSA) has recorded a major milestone in efforts to strengthen the country’s geoscience sector, following the coming into force of seven Legislative…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "He didn’t succeed by chance – Thomas-Asante opens up on Frank Lampard’s personality",
       "link": "https://www.myjoyonline.com/he-didnt-succeed-by-chance-thomas-asante-opens-up-on-frank-lampards-personality/",
       "source": "MyJoyOnline",
@@ -150,17 +159,6 @@ window.GDC_PAPERS = {
         "Premier League"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigerians among 12 arrested in Canada car theft syndicate",
-      "link": "https://ghanaiantimes.com.gh/nigerians-among-12-arrested-in-canada-car-theft-syndicate/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T06:22:19.000Z",
-      "summary": "CANADIAN police have arrested 12 suspects, including eight Nigerians, in an investigation into an alleged car theft syndicate. They are accused of stealing luxury vehicles and shipping them…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
