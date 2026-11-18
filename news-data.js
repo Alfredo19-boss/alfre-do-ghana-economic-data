@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T06:08:36.287Z",
+  "updated": "2026-11-18T06:18:36.241Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 500)"
   ],
   "items": [
+    {
+      "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
+      "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:11:02.000Z",
+      "summary": "Gold Fields Ghana says it is ready to invest further to extend the life of the Tarkwa mine, pending the outcome of its mining lease renewal application."
+    },
     {
       "title": "Cedi loses ground as depreciation slips further to 10.6% – BoG data",
       "link": "https://www.myjoyonline.com/cedi-loses-ground-as-depreciation-slips-further-to-10-6-bog-data/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-15T08:00:00.000Z",
       "summary": "The Minority has questioned the credibility of government's $10 billion New Economy Programme, citing shifting financial targets, changing priorities and unfulfilled promises under previous…"
-    },
-    {
-      "title": "Germany’s solar power production nears record level",
-      "link": "https://www.ghanabusinessnews.com/2026/11/15/germanys-solar-power-production-nears-record-level/",
-      "source": "Ghana Business News",
-      "published": "2026-11-15T07:41:05.000Z",
-      "summary": "Solar energy in net electricity generation in Germany is fast approaching a record total of more than 100 terawatt-hours in a single calendar year."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T06:08:39.099Z",
+  "updated": "2026-11-18T06:18:38.270Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,64 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mozambique opposition leader faces trial over 2024 election violence",
+      "link": "https://ghanaiantimes.com.gh/mozambique-opposition-leader-faces-trial-over-2024-election-violence/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:17:56.000Z",
+      "summary": "TENSIONS are running high in Mozambique’s capital, Maputo, with a heavy police deployment as a prominent opposition leader goes on trial over deadly protests that followed the country’s…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Data must drive national development",
+      "link": "https://ghanaiantimes.com.gh/data-must-drive-national-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:14:07.000Z",
+      "summary": "THE warning by the Head of the Civil Service, Dr Evans Aggrey-Darkoh, that valuable research findings and statistical reports are being left unused should concern every public institution…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police Hospital to undertake mass burial … 350 unclaimed bodies involved",
+      "link": "https://ghanaiantimes.com.gh/police-hospital-to-undertake-mass-burial-350-unclaimed-bodies-involved/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:11:45.000Z",
+      "summary": "THE Police Hospital is to undertake a mass burial of about 350 unclaimed and unidentified bodies currently deposited at its mortuary in Accra. The burial, scheduled for the fourth quarter…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
+      "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T06:11:02.000Z",
+      "summary": "Gold Fields Ghana says it is ready to invest further to extend the life of the Tarkwa mine, pending the outcome of its mining lease renewal application.",
+      "categories": [
+        "Mining",
+        "National",
+        "Gold Fields",
+        "Tarkwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Circle fire destroys over 100 wooden structures; 1 dead",
+      "link": "https://ghanaiantimes.com.gh/circle-fire-destroys-over-100-wooden-structures-1-dead/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T06:10:18.000Z",
+      "summary": "A middle-aged unidentified man has been burnt to death after fire ravaged more than 100 wooden structures occupied by squatters at the Kwame Nkrumah Interchange in Accra. The fire, which…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "‘Chairman Wontumi’ offers GH¢25m in fresh plea bargain bid",
       "link": "https://ghanaiantimes.com.gh/chairman-wontumi-offers-gh%c2%a225m-in-fresh-plea-bargain-bid/",
@@ -39,7 +97,17 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T06:06:42.000Z",
       "summary": "Ghana striker Brandon Thomas-Asante has opened up on his role in Caleb Yirenkyi’s transfer to Coventry City last summer. In August, Coventry paid a club record fee of €30 million to…",
       "categories": [
-        "News"
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Black Stars",
+        "Brandon Thomas-Asante",
+        "Caleb Yirenkyi",
+        "Coventry City",
+        "Ghana",
+        "Premier League",
+        "Thomas-Asante"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -53,6 +121,19 @@ window.GDC_PAPERS = {
         "News",
         "Data",
         "Statistician"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘There are no winners or losers’ – Julius Fieve calls for unity after NDC youth election",
+      "link": "https://www.myjoyonline.com/there-are-no-winners-or-losers-julius-fieve-calls-for-unity-after-ndc-youth-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:57:00.000Z",
+      "summary": "Newly elected Deputy Volta Regional Youth Organiser of the National Democratic Congress (NDC), Julius Karl D. Fieve, has called on party members to unite after the elections and focus on…",
+      "categories": [
+        "Politics",
+        "Julius Fieve",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -107,34 +188,6 @@ window.GDC_PAPERS = {
         "National",
         "China",
         "new economy programme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Javits Frimpong killing: Judge keeps 17-year-old’s case in adult court",
-      "link": "https://www.myjoyonline.com/javits-frimpong-killing-judge-keeps-17-year-olds-case-in-adult-court/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:20:00.000Z",
-      "summary": "A 17-year-old charged over the fatal shooting of Ghanaian student Javits Frimpong in the Bronx, New York, will face proceedings in the adult criminal court system after a judge declined to…",
-      "categories": [
-        "Diaspora",
-        "adult court",
-        "Javits Frimpong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
-      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:09:00.000Z",
-      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…",
-      "categories": [
-        "HP News 4",
-        "Mining",
-        "National",
-        "mining royalties",
-        "President John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -195,54 +248,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Our rice farmers cannot sell their rice – Dr.Bawumia",
-      "link": "https://ghanaiantimes.com.gh/our-rice-farmers-cannot-sell-their-rice-dr-bawumia/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T16:01:35.000Z",
-      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr. Mahamudu Bawumia, has warned that Ghana’s agriculture sector is under serious threat, describing it as a national security issue. Dr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Chairman Wontumi’s bail dismissal :I’m disappointed but not discouraged -Samuel Atta Akyea",
-      "link": "https://ghanaiantimes.com.gh/chairman-wontumis-bail-dismissal-im-disappointed-but-not-discouraged-samuel-atta-akyea/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T15:59:25.000Z",
-      "summary": "Lawyer Atta Kyea, lead member of the legal team for former Ashanti Regional NPP Chairman Bernard Antwi Boasiako, popularly known as Chairman Wontumi, has expressed disappointment following…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Newly elected Central Regional NDC Chairman, pledges unity and healing",
-      "link": "https://ghanaiantimes.com.gh/newly-elected-central-regional-ndc-chairman-pledges-unity-and-healing/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T15:56:41.000Z",
-      "summary": "Newly elected Central Regional Chairman of the National Democratic Congress (NDC) in the Central RegionLawyer Obeng-Inkoom has pledged unity and healing. In a statement after the Regional…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana must increase domestic investment in digital health transformation – Nahashon Aluoka urges",
-      "link": "https://ghanaiantimes.com.gh/ghana-must-increase-domestic-investment-in-digital-health-transformation-nahashon-aluoka-urges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-17T15:53:53.000Z",
-      "summary": "Ghana must increase domestic investment in digital healthcare and address fragmented systems, outdated policies and poor infrastructure to accelerate the country’s digital health…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "VIDEO: Fuel tanker catches fire after crash on Mamfe-Koforidua section of N4 Highway",
