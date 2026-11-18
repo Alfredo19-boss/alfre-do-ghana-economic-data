@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T07:49:10.300Z",
+  "updated": "2026-11-18T07:54:14.997Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,25 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "The future of banking in Ghana: Why execution matters in the digital age",
+      "link": "https://ghanaiantimes.com.gh/the-future-of-banking-in-ghana-why-execution-matters-in-the-digital-age/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-18T07:53:11.000Z",
+      "summary": "BANKING in Ghana is changing as more customers use digital channels to make payments, transfer funds, manage accounts and conduct business. Electronic payments, real-time services and…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Minister woos investors to establish value-addition industries in Ghana",
       "link": "https://ghanaiantimes.com.gh/minister-woos-investors-to-establish-value-addition-industries-in-ghana/",
       "source": "Ghanaian Times",
       "published": "2026-11-18T07:48:46.000Z",
       "summary": "THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has invited international investors to explore Ghana’s industrial opportunities, urging them to shift their…",
       "categories": [
-        "Uncategorized"
+        "Hot!",
+        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -50,7 +62,16 @@ window.GDC_PAPERS = {
       "published": "2026-11-18T07:45:00.000Z",
       "summary": "Ghana striker Brandon Thomas-Asante has stressed the need for continued support for the Black Stars, adding that the team strives to meet fan expectations. The Stars have endured a mixed…",
       "categories": [
-        "News"
+        "Comp. Sports",
+        "Football",
+        "HP Sports 3",
+        "News",
+        "Sports",
+        "AFCON",
+        "AFCON2027",
+        "Black Stars",
+        "Brandon Thomas-Asante",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -133,17 +154,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-18T07:32:59.000Z",
       "summary": "FLORIAN Wirtz scored twice and Brajan Gruda contributed a goal and two assists as Germany cruised to a 5-0 win over the Netherlands in Berlin to reach the Nations League quarter-finals on…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UEFA backs Diallo for FIFA presidency",
-      "link": "https://ghanaiantimes.com.gh/uefa-backs-diallo-for-fifa-presidency/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T07:30:23.000Z",
-      "summary": "EUROPEAN football’s governing body, UEFA, has given its “unanimous” backing to French Football Federation chief, Philippe Diallo, to stand against incumbent, Gianni Infantino, in the FIFA…",
       "categories": [
         "Foriegn"
       ],
