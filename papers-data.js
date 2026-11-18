@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:09:04.899Z",
+  "updated": "2026-11-18T13:19:05.022Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,58 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Bawumia meets film industry stakeholders; calls for tax incentives, streaming platform",
+      "link": "https://www.myjoyonline.com/bawumia-meets-film-industry-stakeholders-calls-for-tax-incentives-streaming-platform/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:12:15.000Z",
+      "summary": "Former Vice-President and New Patriotic Party (NPP) flag bearer Dr Mahamudu Bawumia has called for tax incentives for filmmakers, increased government investment and a dedicated streaming…",
+      "categories": [
+        "HP Entertainment 2",
+        "Movies",
+        "Dr Mahamadu Bawumia",
+        "Film industry",
+        "Stakeholder engagement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana pushes for increased investment in child protection at Manila conference",
+      "link": "https://www.myjoyonline.com/ghana-pushes-for-increased-investment-in-child-protection-at-manila-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:11:31.000Z",
+      "summary": "Ghana has called for increased investment in child protection systems and stronger institutions to help end violence against children, as the country joins global leaders at the Second…",
+      "categories": [
+        "National",
+        "Child Protection",
+        "Dr Agnes Naa Momo Lartey",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oscar Provencal, others seek court injunction over Van Vicker’s Actors’ Guild IMC registration exercise",
+      "link": "https://www.myjoyonline.com/oscar-provencal-others-seek-court-injunction-over-van-vickers-actors-guild-imc-registration-exercise/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:04:47.000Z",
+      "summary": "Concerned registered members of the Ghana Actors’ Guild (GAG) have gone to the High Court in Tema seeking an injunction over the Guild’s governance and electoral processes.",
+      "categories": [
+        "HP Entertainment 1",
+        "Movies",
+        "Ghana Actors Guild",
+        "Interim Management Committee",
+        "Oscar Provencal",
+        "Van Vicker"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Wontumi’s lawyer to appeal High Court’s refusal to release prosecution deal with key witness",
       "link": "https://www.myjoyonline.com/wontumis-lawyer-to-appeal-high-courts-refusal-to-release-prosecution-deal-with-key-witness/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T13:04:27.000Z",
       "summary": "Lawyer for former Ashanti Regional New Patriotic Party (NPP) Chairman Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, Samuel Atta Akyea, says he is considering an appeal…",
       "categories": [
+        "HP News 3",
         "National",
         "Atta Akyea",
         "High Court",
@@ -97,49 +143,6 @@ window.GDC_PAPERS = {
         "Christmas",
         "House",
         "iPad"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vigilantism, brutalisation not the right way for South Africa to address migration crisis – Mahama",
-      "link": "https://www.myjoyonline.com/vigilantism-brutalisation-not-the-right-way-for-south-africa-to-address-migration-crisis-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:31:10.000Z",
-      "summary": "President John Mahama says migration challenges cannot be resolved through vigilantism, condemning attacks on foreign nationals in South Africa.",
-      "categories": [
-        "National",
-        "Top Story",
-        "Mahama",
-        "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Detained Asante Akim North MP should not lose seat over absence beyond his control – Lawyer",
-      "link": "https://www.myjoyonline.com/detained-asante-akim-north-mp-should-not-lose-seat-over-absence-beyond-his-control-lawyer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:26:20.000Z",
-      "summary": "Lawyer for detained Asante Akim North MP Ohene Kwame Frimpong, Elvis Adu-Ameyaw, says his client should not risk losing his parliamentary seat over his absence from sittings because his…",
-      "categories": [
-        "National",
-        "Asante Akim North",
-        "Netherlands",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam challenges government’s no-borrowing claim as public debt rises by GH¢118bn",
-      "link": "https://www.myjoyonline.com/amin-adam-challenges-governments-no-borrowing-claim-as-public-debt-rises-by-gh%c2%a2118bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:16:59.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of presenting a misleading picture of its borrowing position, citing an GH¢118 billion increase in Ghana’s public…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Debt",
-        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
