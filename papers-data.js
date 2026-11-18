@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T14:19:05.533Z",
+  "updated": "2026-11-18T14:29:07.505Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama condemns attacks on foreigners in South Africa, calls for lawful migration",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-attacks-on-foreigners-in-south-africa-calls-for-lawful-migration.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-18T14:21:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Africa Education Watch urges Education Ministry to intervene in Rent Control-UGEL dispute",
       "link": "https://www.myjoyonline.com/africa-education-watch-urges-education-ministry-to-intervene-in-rent-control-ugel-dispute/",
@@ -204,17 +215,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-15-nicu-babies-die-monthly-korle-bu-records-reveal.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T08:50:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt moves to revive 60 factories - Ofosu-Adjare",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-moves-to-revive-60-factories-ofosu-adjare.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T08:43:45.000Z",
       "summary": "",
       "categories": [
         "General News"

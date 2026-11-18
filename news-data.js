@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T14:19:03.186Z",
+  "updated": "2026-11-18T14:29:04.443Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "State Closes Case in Akonta Mining Forest Reserve Trial as Key Witness Defends Plea Agreement",
+      "link": "https://thehighstreetjournal.com/state-closes-case-in-akonta-mining-forest-reserve-trial-as-key-witness-defends-plea-agreement/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T14:27:44.000Z",
+      "summary": "With the prosecution having closed its case, the trial now moves to a determination of whether the evidence presented by the State is sufficient to require the accused persons to enter a…"
+    },
     {
       "title": "Scania-Led Initiative Targets Women for Jobs in Ghana’s Mining Transport Sector",
       "link": "https://thehighstreetjournal.com/scanialedinitiative-mining-jobs-for-women/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T23:14:55.000Z",
       "summary": "According to the Bank of Ghana auction results, the auction target was GH¢5.57 billion, but the bids accepted by the government were GH¢3.4 billion, lower than the targeted amount."
-    },
-    {
-      "title": "AETC signs MoU with Ministry of Youth Development and Empowerment to strengthen strategic collaboration, advance youth innovation and entrepreneurship",
-      "link": "https://www.myjoyonline.com/aetc-signs-mou-with-ministry-of-youth-development-and-empowerment-to-strengthen-strategic-collaboration-advance-youth-innovation-and-entrepreneurship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T23:08:12.000Z",
-      "summary": "As part of its commitment to advancing youth empowerment, entrepreneurship and sustainable development across Africa, the leadership of the Africa Energy Technology Centre (AETC) has paid a…"
     }
   ]
 };
