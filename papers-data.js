@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:43:40.082Z",
+  "updated": "2026-11-18T03:48:37.936Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nvidia says it won’t reinstate Huang as firm reports bumper results",
+      "link": "https://www.myjoyonline.com/nvidia-says-it-wont-reinstate-huang-as-firm-reports-bumper-results/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T03:45:28.000Z",
+      "summary": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+      "categories": [
+        "International",
+        "Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama calls for ECOWAS to become a community of the people, not just Heads of State",
       "link": "https://www.myjoyonline.com/mahama-calls-for-ecowas-to-become-a-community-of-the-people-not-just-heads-of-state/",
@@ -48,6 +61,29 @@ window.GDC_PAPERS = {
         "ECO",
         "ECOWAS",
         "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rice target at risk without production boost, guaranteed buyers – FABAG",
+      "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:14:00.000Z",
+      "summary": "Ghana must increase rice production and guarantee farmers a market if it is to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rubio says US not ‘under systemic attack’ after series of tech outages",
+      "link": "https://www.myjoyonline.com/rubio-says-us-not-under-systemic-attack-after-series-of-tech-outages/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T01:54:00.000Z",
+      "summary": "US Secretary of State Marco Rubio has dismissed widespread online concerns that a series of tech outages over the past week are connected, telling reporters there was \"zero evidence\" of any…",
+      "categories": [
+        "International",
+        "Marco Rubio"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -92,45 +128,6 @@ window.GDC_PAPERS = {
         "International",
         "BBC",
         "Donald Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rejoinder to the Acheampong Memorial Lectures: No whitewash can undo a coup",
-      "link": "https://www.myjoyonline.com/rejoinder-to-the-acheampong-memorial-lectures-no-whitewash-can-undo-a-coup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:49:00.000Z",
-      "summary": "Before we argue history, let us count. There have been two General I.K. Acheampong Memorial Lectures so far. Not twenty. Not a tradition. Two, in twelve months, organised by the same hand.",
-      "categories": [
-        "Opinion",
-        "General I.K. Acheampong",
-        "Memorial Lectures"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ruthless Zverev through to ATP Finals knockout stage",
-      "link": "https://www.myjoyonline.com/ruthless-zverev-through-to-atp-finals-knockout-stage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:42:00.000Z",
-      "summary": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
-      "categories": [
-        "Tennis",
-        "Alexander Zverev",
-        "ATP Finals"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Superb Alcaraz makes statement start at ATP Finals",
-      "link": "https://www.myjoyonline.com/superb-alcaraz-makes-statement-start-at-atp-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:33:00.000Z",
-      "summary": "Carlos Alcaraz was at his scintillating best as his quest for a first ATP Finals triumph began with a statement victory over Frances Tiafoe.",
-      "categories": [
-        "Tennis",
-        "ATP Finals",
-        "Carlos Alcaraz"
       ],
       "site": "https://www.myjoyonline.com/"
     },

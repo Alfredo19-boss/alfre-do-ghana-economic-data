@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T03:43:37.643Z",
+  "updated": "2026-11-18T03:48:35.669Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
     {
@@ -36,18 +36,18 @@ window.GDC_NEWS = {
       "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports."
     },
     {
-      "title": "No court order bars dealings with Nguvu Mining – Lawyers",
-      "link": "https://www.myjoyonline.com/no-court-order-bars-dealings-with-nguvu-mining-lawyers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T23:11:00.000Z",
-      "summary": "Nguvu Mining Limited has rejected claims that an Australian-based company, Adamus Resources Pty Ltd, owns shares in Adamus Resources Limited in Ghana, insisting that it holds the…"
-    },
-    {
       "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
       "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
       "source": "MyJoyOnline",
       "published": "2026-11-17T22:36:36.000Z",
       "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…"
+    },
+    {
+      "title": "No court order bars dealings with Nguvu Mining – Lawyers",
+      "link": "https://www.myjoyonline.com/no-court-order-bars-dealings-with-nguvu-mining-lawyers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T22:11:00.000Z",
+      "summary": "Nguvu Mining Limited has rejected claims that an Australian-based company, Adamus Resources Pty Ltd, owns shares in Adamus Resources Limited in Ghana, insisting that it holds the…"
     },
     {
       "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
