@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T14:09:05.213Z",
+  "updated": "2026-11-18T14:19:05.533Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Africa Education Watch urges Education Ministry to intervene in Rent Control-UGEL dispute",
+      "link": "https://www.myjoyonline.com/africa-education-watch-urges-education-ministry-to-intervene-in-rent-control-ugel-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T14:05:26.000Z",
+      "summary": "Executive Director of Africa Education Watch, Kofi Asare, has called on the Ministry of Education to urgently intervene in the disagreement between the Rent Control Department and the…",
+      "categories": [
+        "National",
+        "News",
+        "Africa Education Watch",
+        "Education Ministry",
+        "Rent Control-UGEL dispute"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UGEL hostel rent dispute requires dialogue, not confrontations – Africa Education Watch",
       "link": "https://www.myjoyonline.com/ugel-hostel-rent-dispute-requires-dialogue-not-confrontations-africa-education-watch/",
@@ -115,21 +130,6 @@ window.GDC_PAPERS = {
         "cross-border electricity trade",
         "President John Mahama",
         "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Local organic fertiliser offers farmers a pathway to climate-resilient agriculture",
-      "link": "https://www.myjoyonline.com/local-organic-fertiliser-offers-farmers-a-pathway-to-climate-resilient-agriculture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:21:32.000Z",
-      "summary": "As changing weather patterns, declining soil fertility and rising input costs threaten agricultural livelihoods, farmers in Ashanti and the Northern Region are turning to Organic Farming…",
-      "categories": [
-        "Africa",
-        "Agribusiness",
-        "News",
-        "Climate change",
-        "Food security"
       ],
       "site": "https://www.myjoyonline.com/"
     },
