@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T20:18:58.388Z",
+  "updated": "2026-11-18T20:29:00.961Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We’re negotiating livelihoods, not climate – Africa presses for climate finance at COP31",
+      "link": "https://www.myjoyonline.com/were-negotiating-livelihoods-not-climate-africa-presses-for-climate-finance-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T20:24:53.000Z",
+      "summary": "For millions of Africans facing increasingly unpredictable rainfall, prolonged droughts, devastating floods and other extreme weather events, the outcome of climate negotiations is more…",
+      "categories": [
+        "Africa",
+        "National",
+        "Climate Finance",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UGEL CEO defends hostel rent increase, cites rising utility costs, inflation and exchange rates",
+      "link": "https://www.myjoyonline.com/ugel-ceo-defends-hostel-rent-increase-cites-rising-utility-costs-inflation-and-exchange-rates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T20:23:46.000Z",
+      "summary": "The Chief Executive Officer of the University of Ghana Enterprises Limited (UGEL), Yawo Nutifafa Agbesi, has defended the increase in hostel fees, citing rising utility costs, exchange rate…",
+      "categories": [
+        "National",
+        "News",
+        "hostel rent increase",
+        "UGEL",
+        "utility costs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Galamsey fight: NAIMOS won’t sacrifice its mandate on the altar of political convenience – Spokesperson",
       "link": "https://www.myjoyonline.com/galamsey-fight-naimos-wont-sacrifice-its-mandate-on-the-altar-of-political-convenience-spokesperson/",
@@ -103,35 +132,6 @@ window.GDC_PAPERS = {
         "Dodowa",
         "Healthcare",
         "HIDAH Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
-      "link": "https://www.myjoyonline.com/gridco-pushes-to-complete-161kv-kumasi-anwomaso-project-to-improve-power-reliability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:46:57.000Z",
-      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has inspected ongoing works on the 161kV Kumasi–Anwomaso (K1K2) transmission line, urging the technical team to…",
-      "categories": [
-        "Energy",
-        "Regional",
-        "GRIDCo",
-        "Kumasi",
-        "Power reliability"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Electroland announces Black Friday deals with up to 70% discounts, free appliances and GH¢1m in prizes",
-      "link": "https://www.myjoyonline.com/electroland-announces-black-friday-deals-with-up-to-70-discounts-free-appliances-and-gh%c2%a21m-in-prizes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:37:34.000Z",
-      "summary": "Electroland Ghana Limited has announced its ‘No Challenger’ Black Friday promotion, offering customers discounts of between 30 and 70 per cent, free appliances on selected purchases and the…",
-      "categories": [
-        "National",
-        "Black Friday",
-        "discounts",
-        "Electroland Ghana Limited"
       ],
       "site": "https://www.myjoyonline.com/"
     },
