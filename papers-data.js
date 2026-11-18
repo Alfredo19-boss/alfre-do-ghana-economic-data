@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T03:48:37.936Z",
+  "updated": "2026-11-18T03:53:38.576Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -69,9 +69,14 @@ window.GDC_PAPERS = {
       "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T02:14:00.000Z",
-      "summary": "Ghana must increase rice production and guarantee farmers a market if it is to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of…",
+      "summary": "Ghana must increase rice production and guarantee farmers a market to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of Ghana…",
       "categories": [
-        "News"
+        "Agribusiness",
+        "National",
+        "News",
+        "FABAG",
+        "Local Rice Production",
+        "Samuel Ato Aggrey"
       ],
       "site": "https://www.myjoyonline.com/"
     },

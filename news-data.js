@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T03:48:35.669Z",
+  "updated": "2026-11-18T03:53:36.353Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Rice target at risk without production boost, guaranteed buyers – FABAG",
+      "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T02:14:00.000Z",
+      "summary": "Ghana must increase rice production and guarantee farmers a market to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of Ghana…"
+    },
     {
       "title": "FABAG proposes ‘Rice Board’ to guarantee prices for farmers",
       "link": "https://www.myjoyonline.com/fabag-proposes-rice-board-to-guarantee-prices-for-farmers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-14T20:43:35.000Z",
       "summary": "The second day of the Ecobank JoyBusiness SME Fair 2026 ended amid music, dancing and excitement as Ghanaian music acts Lali X Lola and King Jerry treated patrons to lively performances…"
-    },
-    {
-      "title": "Lali X Lola brings musical excitement to Ecobank JoyBusiness SME Fair 2026 at Ghud Park",
-      "link": "https://www.myjoyonline.com/lali-x-lola-brings-musical-excitement-to-ecobank-joybusiness-sme-fair-2026-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T20:00:06.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 is getting even more exciting, with Ghanaian music duo Lali X Lola adding a musical dimension to the three-day exhibition at Ghud Park, Accra Mall."
     }
   ]
 };
