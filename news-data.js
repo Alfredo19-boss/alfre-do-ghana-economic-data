@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T11:19:03.752Z",
+  "updated": "2026-11-18T11:29:03.659Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,7 +22,7 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
-      "title": "GRA Uncovers Widespread VAT Non-Compliance At West Hills Mall Enclave",
+      "title": "GRA Uncovers Widespread VAT Non-Compliance at West Hills Mall Enclave",
       "link": "https://thehighstreetjournal.com/gra-uncovers-widespread-vat-non-compliance-at-west-hills-mall-enclave/",
       "source": "The High Street Journal",
       "published": "2026-11-18T11:03:30.000Z",

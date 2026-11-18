@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:19:07.009Z",
+  "updated": "2026-11-18T11:29:06.532Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We do not fall under the Rent Act; hostel occupants are not tenants – UGEL Chief Officer",
+      "link": "https://www.myjoyonline.com/we-do-not-fall-under-rent-act-hostel-occupants-are-not-tenants-ugel-chief-officer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:19:26.000Z",
+      "summary": "The Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Agbesi, has argued that the university's hostel facilities do not fall under the Rent Act of the Rent…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Hostel",
+        "Rent Control",
+        "UG",
+        "UGEL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UGEL to seek court interpretation of Rent Act’s applicability to university hostels",
       "link": "https://www.myjoyonline.com/ugel-to-seek-court-interpretation-of-rent-acts-applicability-to-university-hostels/",
@@ -122,19 +138,6 @@ window.GDC_PAPERS = {
         "Academic City",
         "Bank of Ghana (BoG)",
         "MobileMoney Fintech Limited"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Affordability, margin pressure, innovation to drive consumption in 2027, FMCGs urged to prepare",
-      "link": "https://www.myjoyonline.com/affordability-margin-pressure-innovation-to-drive-consumption-in-2027-fmcgs-urged-to-prepare/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T09:19:47.000Z",
-      "summary": "Fast-moving consumer goods (FMCG) companies operating in Ghana have been urged to make affordability, preparation for margin pressure, and locally relevant innovation central to their…",
-      "categories": [
-        "Business",
-        "FMCG",
-        "UKGCC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
