@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T15:08:33.588Z",
+  "updated": "2026-11-18T15:18:47.842Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "BoG reviews Women’s Development Bank application after receiving additional information",
+      "link": "https://www.myjoyonline.com/bog-reviews-womens-development-bank-application-after-receiving-additional-information/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:14:58.000Z",
+      "summary": "The Bank of Ghana (BoG) is reviewing an application for the establishment of the proposed Women’s Development Bank, following the submission of additional information requested from the…"
+    },
     {
       "title": "MPC cuts policy rate to 11% from 14 percent",
       "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T05:00:00.000Z",
       "summary": "The article urges the Bank of Ghana to verify and explain the GH¢50 portrait controversy, arguing accurate history and transparency underpin public trust in currency."
-    },
-    {
-      "title": "Ghana’s difficult reforms are bearing fruit – IMF",
-      "link": "https://www.myjoyonline.com/ghanas-difficult-reforms-are-bearing-fruit-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T04:45:50.000Z",
-      "summary": "The International Monetary Fund (IMF) says Ghana is reaping the benefits of difficult policy reforms, with stronger-than-expected growth, single-digit inflation and an improved fiscal…"
     }
   ]
 };
