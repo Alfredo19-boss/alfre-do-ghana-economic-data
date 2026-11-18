@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T02:48:38.087Z",
+  "updated": "2026-11-18T02:53:37.045Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Amazon’s Bezos says he helped pick Pattinson as Bond",
+      "link": "https://www.myjoyonline.com/amazons-bezos-says-he-helped-pick-pattinson-as-bond/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:24:00.000Z",
+      "summary": "Amazon founder and chairman Jeff Bezos said he was heavily involved in selecting \"Batman\" actor Robert Pattinson to take ​on the iconic film role of James Bond.",
+      "categories": [
+        "Movies",
+        "James Bond",
+        "Jeff Bezos",
+        "Robert Pattinson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Child Online Africa calls for AU action on online violence against children",
       "link": "https://www.myjoyonline.com/child-online-africa-calls-for-au-action-on-online-violence-against-children/",
       "source": "MyJoyOnline",
@@ -45,6 +59,19 @@ window.GDC_PAPERS = {
         "AU action",
         "Child Online Africa",
         "violence agaibst children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FA wants to host Nations League finals in England",
+      "link": "https://www.myjoyonline.com/fa-wants-to-host-nations-league-finals-in-england/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-17T23:13:00.000Z",
+      "summary": "England could host the Nations League finals this season after Football Association officials registered their interest.",
+      "categories": [
+        "Football",
+        "England",
+        "Nations League"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -98,32 +125,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "https://www.myjoyonline.com/how-new-us-chip-restrictions-on-south-east-asia-will-hit-china/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:14:00.000Z",
-      "summary": "The move not only restricts exports of advanced chips, but also access to the computing power Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
-      "categories": [
-        "International",
-        "South East Asia",
-        "US chip restrictions"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "link": "https://www.myjoyonline.com/uk-sanctions-firms-over-israeli-west-bank-settlements/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:05:00.000Z",
-      "summary": "The UK has sanctioned companies it said are involved in building settlements in the occupied West Bank, in the first package of measures since the government announced a tougher approach to…",
-      "categories": [
-        "International",
-        "Israeli",
-        "West Bank settlement"
       ],
       "site": "https://www.myjoyonline.com/"
     },
