@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:19:08.590Z",
+  "updated": "2026-11-18T05:29:09.871Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Rema calls me for one hour’ – Davido reveals close bond with singer",
+      "link": "https://www.myjoyonline.com/rema-calls-me-for-one-hour-davido-reveals-close-bond-with-singer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:55:00.000Z",
+      "summary": "Afrobeats star Davido revealed that fellow singer Rema regularly calls him for conversations lasting up to an hour, even though the pair have never recorded a song together.",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "VIDEO: ‘I’ve won in life’ – Joeboy claims he no longer makes music for money, fame",
       "link": "https://www.myjoyonline.com/video-ive-won-in-life-joeboy-claims-he-no-longer-makes-music-for-money-fame/",
@@ -112,18 +123,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "IOM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "link": "https://www.myjoyonline.com/thomas-markle-charged-over-child-sex-abuse-material-in-philippines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:53:00.000Z",
-      "summary": "Police in the Philippines have charged Thomas Markle Sr, the father of Meghan, Duchess of Sussex, with possession of and intent to distribute child sexual abuse material.",
-      "categories": [
-        "International",
-        "Thomas Markle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
