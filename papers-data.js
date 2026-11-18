@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:44:09.588Z",
+  "updated": "2026-11-18T04:59:09.018Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gold powers Ghana’s export earnings to record US$30.4bn by October",
+      "link": "https://www.myjoyonline.com/gold-powers-ghanas-export-earnings-to-record-us30-4bn-by-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:26:00.000Z",
+      "summary": "Ghana’s export earnings reached a record US$30.4 billion in the first ten months of 2026, driven largely by gold, according to the Bank of Ghana’s latest Summary of Economic and Financial…",
+      "categories": [
+        "Economy",
+        "HP Business 1",
+        "National",
+        "Top Story",
+        "Export earnings",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MINURSO begins withdrawal from Laayoune after UN mandate ends",
+      "link": "https://www.myjoyonline.com/minurso-begins-withdrawal-from-laayoune-after-un-mandate-ends/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:14:00.000Z",
+      "summary": "The first contingent of the United Nations Mission for the Referendum in Western Sahara (MINURSO) began leaving Laayoune on Monday, marking the start of a phased withdrawal.",
+      "categories": [
+        "Africa",
+        "Minurso",
+        "Morocco"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Creatives Summit unveils speakers for 2026 edition",
       "link": "https://www.myjoyonline.com/the-creatives-summit-unveils-speakers-for-2026-edition/",
@@ -95,36 +124,6 @@ window.GDC_PAPERS = {
         "Cocaine",
         "Nigeria",
         "Sahara"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama calls for ECOWAS to become a community of the people, not just Heads of State",
-      "link": "https://www.myjoyonline.com/mahama-calls-for-ecowas-to-become-a-community-of-the-people-not-just-heads-of-state/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:19:25.000Z",
-      "summary": "President John Mahama has called for a shift in focus within the Economic Community of West African States (ECOWAS), insisting the regional bloc must evolve from an organisation dominated…",
-      "categories": [
-        "Africa",
-        "HP News 7",
-        "National",
-        "ECOWAS",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Students pay rent, so Rent Control has authority over UG hostels – Atta Akyea",
-      "link": "https://www.myjoyonline.com/students-pay-rent-so-rent-control-has-authority-over-ug-hostels-atta-akyea/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:19:15.000Z",
-      "summary": "Former Works and Housing Minister Samuel Atta Akyea has thrown his weight behind the Rent Control Department in its dispute with the University of Ghana Enterprises Limited (UGEL)…",
-      "categories": [
-        "National",
-        "News",
-        "Rent",
-        "Student",
-        "UG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
