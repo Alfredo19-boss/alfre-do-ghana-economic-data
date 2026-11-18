@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T13:59:06.390Z",
+  "updated": "2026-11-18T14:09:05.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UGEL hostel rent dispute requires dialogue, not confrontations – Africa Education Watch",
+      "link": "https://www.myjoyonline.com/ugel-hostel-rent-dispute-requires-dialogue-not-confrontations-africa-education-watch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:55:50.000Z",
+      "summary": "Africa Education Watch has criticised the Rent Control Department's approach to resolving the disagreement with the University of Ghana Enterprise Limited (UGEL) over hostel rental charges.",
+      "categories": [
+        "National",
+        "News",
+        "Africa Education Watch",
+        "Kofi Asare",
+        "UGEL hostel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prosecution closes case against Wontumi; court sets December 17 deadline for defence",
       "link": "https://www.myjoyonline.com/prosecution-closes-case-against-wontumi-court-sets-december-17-deadline-for-defence/",
@@ -115,21 +130,6 @@ window.GDC_PAPERS = {
         "News",
         "Climate change",
         "Food security"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: MTN Ghana marks 30 years of service with stakeholder dinner",
-      "link": "https://www.myjoyonline.com/photos-mtn-ghana-marks-30-years-of-service-at-stakeholder-dinner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:20:00.000Z",
-      "summary": "Telecommunications giant MTN Ghana has marked its 30th anniversary with a stakeholder dinner in Accra, celebrating three decades of connecting people, businesses and communities and…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "Technology",
-        "30th anniversary",
-        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
