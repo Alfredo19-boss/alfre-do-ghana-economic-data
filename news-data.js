@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T04:59:06.368Z",
+  "updated": "2026-11-18T05:09:07.821Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "The No New Tax Paradox: Why Businesses May Still Face Higher Tax Bills Despite Assurance – Deloitte’s Insight",
+      "link": "https://thehighstreetjournal.com/the-no-new-tax-paradox-why-businesses-may-still-face-higher-tax-bills-despite-assurance-deloittes-insight/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:05:00.000Z",
+      "summary": "Deloitte warns Ghanaian businesses may face higher effective tax burdens despite unchanged rates, as government targets increased revenue through stricter enforcement, digital audits…"
+    },
+    {
+      "title": "Gold Fields Cites US$3.3bn in Gov’t Payments, Jobs and Local Spending in Bid to Retain Tarkwa Mine",
+      "link": "https://thehighstreetjournal.com/gold-fields-cites-us3-3bn-in-govt-payments-jobs-and-local-spending-in-bid-to-retain-tarkwa-mine/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:03:00.000Z",
+      "summary": "Gold Fields reports US$3.3 billion in government payments, US$4.6 billion in local procurement and over 5,000 jobs supported as it seeks to retain Tarkwa."
+    },
+    {
+      "title": "Wassa Professionals Network Demands 10% Community Equity in Tarkwa Mine Renewal",
+      "link": "https://thehighstreetjournal.com/wassa-professionals-network-demands-10-community-equity-in-tarkwa-mine-renewal/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:02:00.000Z",
+      "summary": "WPN says the April 2027 lease expiry offers an opportunity to secure direct community ownership, revenue sharing and representation in future mining operations."
+    },
+    {
+      "title": "Plastic Waste Now Fuels Industries Abroad as Ghana’s Stays in the Drains",
+      "link": "https://thehighstreetjournal.com/plastic-waste-now-fuels-industries-abroad-as-ghanas-stays-in-the-drains/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:01:00.000Z",
+      "summary": "Ghana generates about one million tonnes of plastic waste annually, but weak recycling systems and delayed producer-responsibility legislation are leaving a potentially lucrative industrial…"
+    },
+    {
+      "title": "Banks Urged to Move Beyond Collateral-Based Lending to Unlock SME Financing",
+      "link": "https://thehighstreetjournal.com/banks-urged-to-move-beyond-collateral-based-lending-to-unlock-sme-financing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T05:00:00.000Z",
+      "summary": "GhISP and CIB Ghana are equipping financial institutions with practical lending skills to improve SME credit assessment and expand access to inclusive, sustainable business financing."
+    },
+    {
+      "title": "Gold powers Ghana’s export earnings to record US$30.4bn by October",
+      "link": "https://www.myjoyonline.com/gold-powers-ghanas-export-earnings-to-record-us30-4bn-by-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:26:00.000Z",
+      "summary": "Ghana’s export earnings reached a record US$30.4 billion in the first ten months of 2026, driven largely by gold, according to the Bank of Ghana’s latest Summary of Economic and Financial…"
+    },
     {
       "title": "Rice farmers turn to Nigerian, Burkinabe buyers as local sales stall, says FABAG’s Ato Aggrey",
       "link": "https://www.myjoyonline.com/rice-farmers-turn-to-nigerian-burkinabe-buyers-as-local-sales-stall-says-fabags-ato-aggrey/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-15T05:03:00.000Z",
       "summary": "The 2027 Budget is putting dedicated funding behind poultry and textiles, testing whether targeted investment can turn import dependence into local production, jobs and industrial growth."
-    },
-    {
-      "title": "Ghana Warns of Phishing Attacks After Microsoft Outage",
-      "link": "https://thehighstreetjournal.com/ghana-warns-of-phishing-attacks-after-microsoft-outage/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T05:02:00.000Z",
-      "summary": "The Cyber Security Authority and NITA have cautioned businesses and the public against fraudulent account recovery messages targeting users following the disruption."
-    },
-    {
-      "title": "Africa’s $5.2 Billion Streaming Market Faces Financing, Distribution Gaps, Study Finds",
-      "link": "https://thehighstreetjournal.com/africas-5-2b-streaming-market-faces-gap/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T05:01:00.000Z",
-      "summary": "The report, titled Made in Africa, Watched Globally?, finds that growing film production across the continent has not been matched by investment in distribution and monetisation"
-    },
-    {
-      "title": "From Street Crime to State Sabotage: Europe’s Emerging Security Threat",
-      "link": "https://thehighstreetjournal.com/from-street-crime-to-state-sabotage-europes-emerging-security-threat/",
-      "source": "The High Street Journal",
-      "published": "2026-11-15T05:00:00.000Z",
-      "summary": "A suspected attack on Starlink infrastructure in Poland raises concerns that Europe's increasingly violent criminal networks could be recruited for geopolitical sabotage and hybrid…"
-    },
-    {
-      "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
-      "link": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T22:40:49.000Z",
-      "summary": "Two years after leaders pledged US$2.2 billion to expand clean cooking in Africa, only about US$740 million has been paid out, leaving roughly two-thirds of the money, about US$1.46…"
-    },
-    {
-      "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
-      "link": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T22:35:32.000Z",
-      "summary": "Tanzania, Lesotho and Uganda have shared how they are expanding clean cooking at home, as leaders at COP31 warned that most of the money promised to help Africa make the switch is yet to…"
-    },
-    {
-      "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
-      "link": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-14T21:26:58.000Z",
-      "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing…"
     }
   ]
 };

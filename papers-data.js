@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T04:59:09.018Z",
+  "updated": "2026-11-18T05:09:11.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "VIDEO: ‘I’ve won in life’ – Joeboy claims he no longer makes music for money, fame",
+      "link": "https://www.myjoyonline.com/video-ive-won-in-life-joeboy-claims-he-no-longer-makes-music-for-money-fame/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:44:00.000Z",
+      "summary": "Nigerian singer Joeboy has declared he has already achieved success in life, saying he now makes music purely out of passion and legacy rather than chasing more money or public attention.",
+      "categories": [
+        "Music",
+        "Joeboy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘I’m scared of marriage, I’ve been single for so long’ – Mr Macaroni opens up",
+      "link": "https://www.myjoyonline.com/im-scared-of-marriage-ive-been-single-for-so-long-mr-macaroni-opens-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T04:35:00.000Z",
+      "summary": "Nigerian comedian and content creator Mr Macaroni has revealed he is scared of marriage because he's been single for so long, admitting he is no longer sure he can handle the commitment a…",
+      "categories": [
+        "Movies",
+        "Marriage",
+        "Mr Macaroni"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gold powers Ghana’s export earnings to record US$30.4bn by October",
       "link": "https://www.myjoyonline.com/gold-powers-ghanas-export-earnings-to-record-us30-4bn-by-october/",
@@ -96,34 +121,6 @@ window.GDC_PAPERS = {
         "International",
         "Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Barrick furloughing some Congo mine personnel over Ebola concerns",
-      "link": "https://www.myjoyonline.com/barrick-furloughing-some-congo-mine-personnel-over-ebola-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:39:00.000Z",
-      "summary": "Canadian miner Barrick said it was furloughing non-essential personnel and reinforcing health screenings after ​two Ebola cases were confirmed near its Kibali ‌gold mine in northeastern…",
-      "categories": [
-        "Africa",
-        "Barrick",
-        "DR Congo",
-        "Ebola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria arrests eight in cocaine gang routing drugs to Europe via Sahara",
-      "link": "https://www.myjoyonline.com/nigeria-arrests-eight-in-cocaine-gang-routing-drugs-to-europe-via-sahara/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T03:30:00.000Z",
-      "summary": "Nigeria's drug agency said it had dismantled a transnational trafficking syndicate smuggling cocaine from the ​city of Lagos through Kano city and across ‌the Sahara Desert via Niger and…",
-      "categories": [
-        "Africa",
-        "Cocaine",
-        "Nigeria",
-        "Sahara"
       ],
       "site": "https://www.myjoyonline.com/"
     },
