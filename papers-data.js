@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:19:04.910Z",
+  "updated": "2026-11-18T12:29:04.867Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amin Adam challenges government’s no-borrowing claim as public debt rises by GH¢118bn",
+      "link": "https://www.myjoyonline.com/amin-adam-challenges-governments-no-borrowing-claim-as-public-debt-rises-by-gh%c2%a2118bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:16:59.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of presenting a misleading picture of its borrowing position, citing an GH¢118 billion increase in Ghana’s public…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Debt",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arise Ghana calls for independent inquiry into cocaine seizures linked to Ghana",
+      "link": "https://www.myjoyonline.com/arise-ghana-calls-for-independent-inquiry-into-cocaine-seizures-linked-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:14:55.000Z",
+      "summary": "Pressure group Arise Ghana has called for an independent public inquiry into a series of major cocaine seizures linked to Ghana, warning that the cases raise concerns about national…",
+      "categories": [
+        "National",
+        "Arise Ghana",
+        "cocaine seizures",
+        "independent inquiry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Schools across Ghana lack safe, private changing rooms – School for Life",
+      "link": "https://www.myjoyonline.com/schools-across-ghana-lack-safe-private-changing-rooms-school-for-life/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T12:14:46.000Z",
+      "summary": "School for Life Ghana says schools across the country, specifically basic and secondary institutions, lack safe and private changing rooms, raising concerns about the provision of inclusive…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "hygine",
+        "Sanitation",
+        "sanitory facilities",
+        "school for life ghana",
+        "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "TTAG urges gov’t to prioritise 2023 teacher trainees in recruitment exercise",
       "link": "https://www.myjoyonline.com/ttag-urges-govt-to-prioritise-2023-teacher-trainees-in-recruitment-exercise/",
@@ -96,48 +142,6 @@ window.GDC_PAPERS = {
       "summary": "The passing of Prof. Fred N. Binka in Ghana on 15 November 2026, at the age of 73, was a great loss to African science and to all of us who had the privilege of knowing and working with…",
       "categories": [
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Average lending rate fell marginally to 15.75% in October 2026",
-      "link": "https://www.myjoyonline.com/average-lending-rate-fell-marginally-to-15-75-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:39:39.000Z",
-      "summary": "This means one would pay about 1.31% per month on every loan, excluding other fees.",
-      "categories": [
-        "Business",
-        "Economy",
-        "Average lending rate",
-        "BoG",
-        "Ghana Reference Rate",
-        "MPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL tried to stop me from inspecting UG hostels – Rent Commissioner",
-      "link": "https://www.myjoyonline.com/ugel-tried-to-stop-me-from-inspecting-ug-hostels-rent-commissioner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:34:31.000Z",
-      "summary": "Acting Rent Commissioner Frederick Opoku says the University of Ghana Enterprise Limited (UGEL) formally asked him not to inspect its hostel facilities through a letter written by the…",
-      "categories": [
-        "National",
-        "Fedrick Opoku",
-        "Rent Control Commission",
-        "UGEL hostel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Spain midfielder Mata retires aged 38",
-      "link": "https://www.myjoyonline.com/former-spain-midfielder-mata-retires-aged-38/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:28:25.000Z",
-      "summary": "Mata, who made 41 international appearances, was part of the Spain squad that won the 2010 World Cup, and he helped his country win the European Championship two years later when he scored…",
-      "categories": [
-        "Football",
-        "Juan Mata"
       ],
       "site": "https://www.myjoyonline.com/"
     },
