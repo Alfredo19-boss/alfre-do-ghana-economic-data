@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T12:59:04.993Z",
+  "updated": "2026-11-18T13:09:04.899Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Wontumi’s lawyer to appeal High Court’s refusal to release prosecution deal with key witness",
+      "link": "https://www.myjoyonline.com/wontumis-lawyer-to-appeal-high-courts-refusal-to-release-prosecution-deal-with-key-witness/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:04:27.000Z",
+      "summary": "Lawyer for former Ashanti Regional New Patriotic Party (NPP) Chairman Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, Samuel Atta Akyea, says he is considering an appeal…",
+      "categories": [
+        "National",
+        "Atta Akyea",
+        "High Court",
+        "key witness",
+        "Tano Nimiri"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ampem Darkoa Ladies sign one-year sponsorship deal with Permafix Ghana worth GHS 100,000",
+      "link": "https://www.myjoyonline.com/ampem-darkoa-ladies-sign-one-year-sponsorship-deal-with-permafix-ghana-worth-ghs-100000/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:04:17.000Z",
+      "summary": "The two parties made official the relationship on Wednesday, November 18, in a deal which is reportedly worth GH₵ 100,000.00.",
+      "categories": [
+        "Football"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wontumi loses application seeking details of former manager’s deal with prosecution",
+      "link": "https://www.myjoyonline.com/wontumi-loses-application-seeking-details-of-former-managers-deal-with-prosecution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T13:02:46.000Z",
+      "summary": "The Accra High Court has dismissed an application by lawyers for former Ashanti Regional New Patriotic Party (NPP) Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi…",
+      "categories": [
+        "National",
+        "prosecution",
+        "Tano Nimiri",
+        "Wontumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The NDC doesn’t have a First Vice or a Second Vice",
       "link": "https://www.myjoyonline.com/the-ndc-doesnt-have-a-first-vice-or-a-second-vice/",
@@ -68,6 +108,7 @@ window.GDC_PAPERS = {
       "summary": "President John Mahama says migration challenges cannot be resolved through vigilantism, condemning attacks on foreign nationals in South Africa.",
       "categories": [
         "National",
+        "Top Story",
         "Mahama",
         "South Africa"
       ],
@@ -99,50 +140,6 @@ window.GDC_PAPERS = {
         "Ato Forson",
         "Debt",
         "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Arise Ghana calls for independent inquiry into cocaine seizures linked to Ghana",
-      "link": "https://www.myjoyonline.com/arise-ghana-calls-for-independent-inquiry-into-cocaine-seizures-linked-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:14:55.000Z",
-      "summary": "Pressure group Arise Ghana has called for an independent public inquiry into a series of major cocaine seizures linked to Ghana, warning that the cases raise concerns about national…",
-      "categories": [
-        "National",
-        "Arise Ghana",
-        "cocaine seizures",
-        "independent inquiry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Schools across Ghana lack safe, private changing rooms – School for Life",
-      "link": "https://www.myjoyonline.com/schools-across-ghana-lack-safe-private-changing-rooms-school-for-life/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:14:46.000Z",
-      "summary": "School for Life Ghana says schools across the country, specifically basic and secondary institutions, lack safe and private changing rooms, raising concerns about the provision of inclusive…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "hygine",
-        "Sanitation",
-        "sanitory facilities",
-        "school for life ghana",
-        "schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TTAG urges gov’t to prioritise 2023 teacher trainees in recruitment exercise",
-      "link": "https://www.myjoyonline.com/ttag-urges-govt-to-prioritise-2023-teacher-trainees-in-recruitment-exercise/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:13:31.000Z",
-      "summary": "The Teacher Trainees' Association of Ghana (TTAG) has called on the government, the Ministry of Education and the Ghana Education Service (GES) to ensure that the upcoming teacher…",
-      "categories": [
-        "National",
-        "Teacher trainees",
-        "TTAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -202,10 +199,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Govt moves to revive 60 factories - Ofosu-Adjare",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-moves-to-revive-60-factories-ofosu-adjare.html",
+      "title": "15 NICU babies die monthly - Korle Bu records reveal",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-15-nicu-babies-die-monthly-korle-bu-records-reveal.html",
       "source": "Daily Graphic",
-      "published": "2026-11-18T08:43:45.000Z",
+      "published": "2026-11-18T08:50:44.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -213,10 +210,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Korean Embassy, companies donate items to Osu Children's Home",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-korean-embassy-companies-donate-items-to-osu-childrens-home.html",
+      "title": "Govt moves to revive 60 factories - Ofosu-Adjare",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-moves-to-revive-60-factories-ofosu-adjare.html",
       "source": "Daily Graphic",
-      "published": "2026-11-18T08:39:56.000Z",
+      "published": "2026-11-18T08:43:45.000Z",
       "summary": "",
       "categories": [
         "General News"

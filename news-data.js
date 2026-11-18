@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T12:58:34.391Z",
+  "updated": "2026-11-18T13:08:34.575Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Mahama Pushes Phased Adoption of ECO as West African Currency Delays Persist",
+      "link": "https://thehighstreetjournal.com/mahama-pushes-phased-adoption-of-eco-as-west-african-currency-delays-persist/",
+      "source": "The High Street Journal",
+      "published": "2026-11-18T12:59:19.000Z",
+      "summary": "Mahama proposes gradual ECO rollout to bypass ECOWAS currency delays"
+    },
     {
       "title": "Ghana Seeks EU Investment to Boost Timber Industry After FLEGT Milestone",
       "link": "https://thehighstreetjournal.com/ghana-seekseuinvestmentin-timber-industry/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-15T22:55:57.000Z",
       "summary": "The event is also being supported by key stakeholder associations in the country such as the Ghana Electrical Contractors Association, Association of Building & Civil Engineering…"
-    },
-    {
-      "title": "Emerging markets face more challenging external environment heading in 2027 – Moody’s",
-      "link": "https://www.myjoyonline.com/emerging-markets-face-more-challenging-external-environment-heading-in-2027-moodys/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-15T22:50:19.000Z",
-      "summary": "According to the US-based firm, higher energy prices, elevated global interest rates and persistent trade and geopolitical uncertainty are adding to inflation and financing pressures."
     }
   ]
 };
