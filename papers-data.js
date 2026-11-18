@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T05:29:09.871Z",
+  "updated": "2026-11-18T05:39:09.856Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,40 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘It is criminal to buy imported rice with state funds’ – CRI director demands local boost",
+      "link": "https://www.myjoyonline.com/it-is-criminal-to-buy-imported-rice-with-state-funds-cri-director-demands-local-boost/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:34:25.000Z",
+      "summary": "A leading agricultural researcher has urged the government to make locally produced rice the exclusive choice for feeding students in public boarding schools and other state institutions…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
+      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T05:09:00.000Z",
+      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…",
+      "categories": [
+        "Mining",
+        "National",
+        "mining royalties",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Rema calls me for one hour’ – Davido reveals close bond with singer",
       "link": "https://www.myjoyonline.com/rema-calls-me-for-one-hour-davido-reveals-close-bond-with-singer/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T04:55:00.000Z",
       "summary": "Afrobeats star Davido revealed that fellow singer Rema regularly calls him for conversations lasting up to an hour, even though the pair have never recorded a song together.",
       "categories": [
-        "News"
+        "Music",
+        "Davido",
+        "Rema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -98,31 +125,6 @@ window.GDC_PAPERS = {
         "News",
         "Ghana",
         "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Creatives Summit unveils speakers for 2026 edition",
-      "link": "https://www.myjoyonline.com/the-creatives-summit-unveils-speakers-for-2026-edition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:03:27.000Z",
-      "summary": "Volta Creative Arts, organisers of The Creatives Summit 2026, has unveiled a lineup of speakers for this year’s event in Ho",
-      "categories": [
-        "Events",
-        "The Creatives Summit",
-        "Volta Creative Arts"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana launches IOM Migration Strategy to strengthen migration governance",
-      "link": "https://www.myjoyonline.com/ghana-launches-iom-migration-strategy-to-strengthen-migration-governance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:03:00.000Z",
-      "summary": "Ghana has launched the International Organisation for Migration (IOM) Strategy for 2026-2028 to advance well-managed migration governance by coordinating State agencies and strengthening…",
-      "categories": [
-        "National",
-        "IOM"
       ],
       "site": "https://www.myjoyonline.com/"
     },
