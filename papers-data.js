@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T21:08:30.053Z",
+  "updated": "2026-11-18T21:13:48.674Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Brifoh SHS gets new dining hall, headmaster’s bungalow after MP’s intervention",
+      "link": "https://www.myjoyonline.com/brifoh-shs-gets-new-dining-hall-headmasters-bungalow-after-mps-intervention/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:09:34.000Z",
+      "summary": "Work is progressing steadily on two major projects at Brifoh Senior High School in the Lawra Municipality, following lobbying by the Member of Parliament for the area, Bede Anwotaazuma…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Bede Anwotaazuma Ziedeng",
+        "Brifoh SHS",
+        "Dining Hall",
+        "Lawra Municipality"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "HIDAH Foundation provides free healthcare services at Dodowa Orphanage",
       "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-services-at-dodowa-orphanage/",
@@ -117,19 +133,6 @@ window.GDC_PAPERS = {
         "hostel rent increase",
         "UGEL",
         "utility costs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey fight: NAIMOS won’t sacrifice its mandate on the altar of political convenience – Spokesperson",
-      "link": "https://www.myjoyonline.com/galamsey-fight-naimos-wont-sacrifice-its-mandate-on-the-altar-of-political-convenience-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T20:15:35.000Z",
-      "summary": "The Spokesperson for the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Paa Kwesi Schandorf, has responded to comments by Ashanti Regional Minister Dr Frank Amoakohene…",
-      "categories": [
-        "National",
-        "Fight",
-        "Galamsey"
       ],
       "site": "https://www.myjoyonline.com/"
     },
