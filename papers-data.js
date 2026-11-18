@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T11:09:06.072Z",
+  "updated": "2026-11-18T11:19:07.009Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,44 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "UGEL to seek court interpretation of Rent Act’s applicability to university hostels",
+      "link": "https://www.myjoyonline.com/ugel-to-seek-court-interpretation-of-rent-acts-applicability-to-university-hostels/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:13:25.000Z",
+      "summary": "The University of Ghana Enterprise Limited (UGEL) is preparing to take the Rent Control Commission to court to seek an interpretation of the Rent Act and establish whether university…",
+      "categories": [
+        "National",
+        "News",
+        "Rent Act",
+        "UG",
+        "UGEL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shatta Wale says he feels bad seeing Majesty sell juice in the sun, tells Michy to prioritise his son’s welfare",
+      "link": "https://www.myjoyonline.com/shatta-wale-says-he-feels-bad-seeing-majesty-sell-juice-in-the-sun-tells-michy-to-prioritise-his-sons-welfare/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T11:07:06.000Z",
+      "summary": "Ghanaian dancehall artiste Shatta Wale has expressed concern about his son Majesty's involvement in selling orange juice under the sun, questioning why his former partner, Michy, would…",
+      "categories": [
+        "In Focus",
+        "Music",
+        "National",
+        "fruit juice",
+        "Majesty",
+        "Shatta Wale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "No one is stopping you from seeing your son; it’s a lie – Michy replies Shatta Wale",
       "link": "https://www.myjoyonline.com/no-one-is-stopping-you-from-seeing-your-son-its-a-lie-michy-replies-shatta-wale/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T11:00:04.000Z",
       "summary": "Former partner of dancehall artiste Shatta Wale, Diamond Michelle, popularly known as Michy, has accused the musician of misrepresenting their co-parenting arrangements, insisting she has…",
       "categories": [
+        "HP News 2",
         "Music",
         "National",
         "News",
@@ -118,23 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "UGEL needs GH¢20m to replace deteriorating roofs on four UGEL hostels; maintenance is costly – CEO",
-      "link": "https://www.myjoyonline.com/ugel-needs-gh%c2%a220m-to-replace-deteriorating-roofs-on-four-ugel-hostels-maintenance-is-costly-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T09:04:22.000Z",
-      "summary": "The University of Ghana Enterprise Limited (UGEL) says it needs about GH¢20 million to replace deteriorating roofs on some of its hostel facilities, many of which were constructed nearly…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Hostel",
-        "Legon",
-        "Rent Control",
-        "UGEL",
-        "Yawo Agbesi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "We’re ready to support Ghana accelerate growth - Chinese Ambassador",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-were-ready-to-support-ghana-accelerate-growth-chinese-ambassador.html",
       "source": "Daily Graphic",
@@ -155,23 +170,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Most expensive UGEL hostel costs GH¢8,000 per academic year – CEO",
-      "link": "https://www.myjoyonline.com/most-expensive-ugel-hostel-costs-gh%c2%a28000-per-academic-year-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T08:55:17.000Z",
-      "summary": "The Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Agbesi, has defended accommodation charges at the university's hostels, saying students pay as little…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "hostel facility",
-        "Rent Control",
-        "University of Ghana",
-        "Yawo Agbesi"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Govt moves to revive 60 factories - Ofosu-Adjare",
