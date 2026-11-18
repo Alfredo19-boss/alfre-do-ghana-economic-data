@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T15:59:07.159Z",
+  "updated": "2026-11-18T16:04:07.147Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Firefighters save 10-room Bimbilla Chief’s Palace compound from fire",
+      "link": "https://www.myjoyonline.com/firefighters-save-10-room-bimbilla-chiefs-palace-compound-from-fire/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T15:55:23.000Z",
+      "summary": "Firefighters from the Bimbilla Municipal Fire Station have contained a fire outbreak at the Bimbilla Chief's Palace, known as Kpihibara Naa, at Shirkpamo Fong in the Northern Region.",
+      "categories": [
+        "Regional",
+        "Bimbilla",
+        "Fire"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fire breaks out in top-floor bedroom of Chaka Royal Hotel in North Dayi",
       "link": "https://www.myjoyonline.com/fire-breaks-out-in-top-floor-bedroom-of-chaka-royal-hotel-in-north-dayi/",
@@ -134,22 +147,6 @@ window.GDC_PAPERS = {
         "Institution of Engineering and Technology Ghana (IET-GH)",
         "Medical equipment",
         "Osu Maternity Clinic"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL CEO threatened me with trespassing warning ahead of inspection – Rent Commissioner alleges",
-      "link": "https://www.myjoyonline.com/ugel-ceo-threatened-me-with-trespassing-warning-ahead-of-inspection-rent-commissioner-alleges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:29:49.000Z",
-      "summary": "Acting Rent Commissioner, Frederick Opoku, has alleged that the Chief Executive Officer of the University of Ghana Enterprise Limited (UGEL), Yawo Nutifafa Agbesi, warned him against…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Frederick Opoku",
-        "Rent Commissioner",
-        "UGEL CEO"
       ],
       "site": "https://www.myjoyonline.com/"
     },

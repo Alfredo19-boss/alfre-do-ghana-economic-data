@@ -1,10 +1,10 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-18T15:58:31.123Z",
+  "updated": "2026-11-18T16:03:31.166Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
     "cedi mid-rates: 6 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
-    "exchange table: 49 currencies, 2026-11-17",
+    "exchange table: 49 currencies, 2026-11-18",
     "indices: 9/9 fresh, 9 held",
     "commodities: 10/10 fresh, 10 held",
     "crypto: 2/2 fresh, 2 held",
@@ -17,11 +17,11 @@ window.GDC_MARKETS = {
         "name": "S&P 500",
         "unit": "",
         "dec": 0,
-        "value": 7323.78,
+        "value": 7314.34,
         "prev": 7619.38,
-        "change": -295.6,
-        "pct": -3.88,
-        "at": "2026-11-18T15:58:21.000Z",
+        "change": -305.04,
+        "pct": -4,
+        "at": "2026-11-18T16:03:20.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -209,7 +209,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 7323.78
+            "value": 7314.34
           }
         ]
       },
@@ -218,11 +218,11 @@ window.GDC_MARKETS = {
         "name": "Dow Jones",
         "unit": "",
         "dec": 0,
-        "value": 50213.61,
+        "value": 50174.05,
         "prev": 52486.49,
-        "change": -2272.88,
-        "pct": -4.33,
-        "at": "2026-11-18T15:58:21.000Z",
+        "change": -2312.44,
+        "pct": -4.41,
+        "at": "2026-11-18T16:03:21.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -410,7 +410,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 50213.61
+            "value": 50174.05
           }
         ]
       },
@@ -419,11 +419,11 @@ window.GDC_MARKETS = {
         "name": "Nasdaq",
         "unit": "",
         "dec": 0,
-        "value": 24400.88,
+        "value": 24365.451,
         "prev": 25466.19,
-        "change": -1065.31,
-        "pct": -4.18,
-        "at": "2026-11-18T15:58:20.000Z",
+        "change": -1100.74,
+        "pct": -4.32,
+        "at": "2026-11-18T16:03:21.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -611,7 +611,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 24400.88
+            "value": 24365.451
           }
         ]
       },
@@ -620,11 +620,11 @@ window.GDC_MARKETS = {
         "name": "FTSE 100 · London",
         "unit": "",
         "dec": 0,
-        "value": 10564.2,
+        "value": 10560.44,
         "prev": 10835.5,
-        "change": -271.3,
-        "pct": -2.5,
-        "at": "2026-11-18T15:43:22.000Z",
+        "change": -275.06,
+        "pct": -2.54,
+        "at": "2026-11-18T15:48:22.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -812,7 +812,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 10564.2
+            "value": 10560.44
           }
         ]
       },
@@ -821,11 +821,11 @@ window.GDC_MARKETS = {
         "name": "DAX · Frankfurt",
         "unit": "",
         "dec": 0,
-        "value": 25823.64,
+        "value": 25805.01,
         "prev": 26662.77,
-        "change": -839.13,
-        "pct": -3.15,
-        "at": "2026-11-18T15:43:22.000Z",
+        "change": -857.76,
+        "pct": -3.22,
+        "at": "2026-11-18T15:48:22.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -1013,7 +1013,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 25823.64
+            "value": 25805.01
           }
         ]
       },
@@ -1788,11 +1788,11 @@ window.GDC_MARKETS = {
         "name": "Gold",
         "unit": "US$/oz",
         "dec": 0,
-        "value": 3753.8,
+        "value": 3754.8,
         "prev": 3886.3,
-        "change": -132.5,
-        "pct": -3.41,
-        "at": "2026-11-18T15:48:23.000Z",
+        "change": -131.5,
+        "pct": -3.38,
+        "at": "2026-11-18T15:53:21.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2004,7 +2004,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 3753.8
+            "value": 3754.8
           }
         ]
       },
@@ -2013,11 +2013,11 @@ window.GDC_MARKETS = {
         "name": "Silver",
         "unit": "US$/oz",
         "dec": 2,
-        "value": 44.92,
+        "value": 44.935,
         "prev": 49.031,
-        "change": -4.111,
-        "pct": -8.38,
-        "at": "2026-11-18T15:48:23.000Z",
+        "change": -4.096,
+        "pct": -8.35,
+        "at": "2026-11-18T15:53:23.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2229,7 +2229,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 44.92
+            "value": 44.935
           }
         ]
       },
@@ -2238,11 +2238,11 @@ window.GDC_MARKETS = {
         "name": "Copper",
         "unit": "US$/lb",
         "dec": 2,
-        "value": 5.647,
+        "value": 5.639,
         "prev": 6.08,
-        "change": -0.433,
-        "pct": -7.12,
-        "at": "2026-11-18T15:48:23.000Z",
+        "change": -0.441,
+        "pct": -7.25,
+        "at": "2026-11-18T15:53:16.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2454,7 +2454,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 5.647
+            "value": 5.639
           }
         ]
       },
@@ -2463,11 +2463,11 @@ window.GDC_MARKETS = {
         "name": "Crude oil · WTI",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 83.11,
+        "value": 83.18,
         "prev": 88.56,
-        "change": -5.45,
-        "pct": -6.15,
-        "at": "2026-11-18T15:48:23.000Z",
+        "change": -5.38,
+        "pct": -6.07,
+        "at": "2026-11-18T15:53:22.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2679,7 +2679,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 83.11
+            "value": 83.18
           }
         ]
       },
@@ -2688,11 +2688,11 @@ window.GDC_MARKETS = {
         "name": "Crude oil · Brent",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 89.14,
+        "value": 89.3,
         "prev": 95.84,
-        "change": -6.7,
-        "pct": -6.99,
-        "at": "2026-11-18T15:48:09.000Z",
+        "change": -6.54,
+        "pct": -6.82,
+        "at": "2026-11-18T15:53:18.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2904,7 +2904,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 89.14
+            "value": 89.3
           }
         ]
       },
@@ -2917,7 +2917,7 @@ window.GDC_MARKETS = {
         "prev": 3.23,
         "change": 0.03,
         "pct": 0.93,
-        "at": "2026-11-18T15:48:26.000Z",
+        "at": "2026-11-18T15:53:22.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3154,11 +3154,11 @@ window.GDC_MARKETS = {
         "name": "Cocoa",
         "unit": "US$/t",
         "dec": 0,
-        "value": 5015,
+        "value": 5024,
         "prev": 5119,
-        "change": -104,
-        "pct": -2.03,
-        "at": "2026-11-18T15:38:06.000Z",
+        "change": -95,
+        "pct": -1.86,
+        "at": "2026-11-18T15:43:26.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -3346,7 +3346,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 5015
+            "value": 5024
           }
         ]
       },
@@ -3355,11 +3355,11 @@ window.GDC_MARKETS = {
         "name": "Coffee",
         "unit": "US¢/lb",
         "dec": 1,
-        "value": 273.05,
+        "value": 273.3,
         "prev": 278.65,
-        "change": -5.6,
-        "pct": -2.01,
-        "at": "2026-11-18T15:38:19.000Z",
+        "change": -5.35,
+        "pct": -1.92,
+        "at": "2026-11-18T15:42:55.000Z",
         "history": [
           {
             "date": "2026-09-15",
@@ -3547,7 +3547,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 273.05
+            "value": 273.3
           }
         ]
       },
@@ -3556,11 +3556,11 @@ window.GDC_MARKETS = {
         "name": "Maize",
         "unit": "US¢/bu",
         "dec": 1,
-        "value": 440.25,
+        "value": 440.75,
         "prev": 445.5,
-        "change": -5.25,
-        "pct": -1.18,
-        "at": "2026-11-18T15:48:23.000Z",
+        "change": -4.75,
+        "pct": -1.07,
+        "at": "2026-11-18T15:53:23.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3744,7 +3744,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 440.25
+            "value": 440.75
           }
         ]
       },
@@ -3956,11 +3956,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 63170.68,
+        "value": 62953.63,
         "prev": 64128.05,
-        "change": -957.37,
-        "pct": -1.49,
-        "at": "2026-11-18T15:58:26.000Z",
+        "change": -1174.42,
+        "pct": -1.83,
+        "at": "2026-11-18T16:03:27.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4216,7 +4216,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 63170.68
+            "value": 62953.63
           }
         ]
       },
@@ -4225,11 +4225,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1768.99,
+        "value": 1763.8,
         "prev": 1769.1205,
-        "change": -0.1305,
-        "pct": -0.01,
-        "at": "2026-11-18T15:58:26.000Z",
+        "change": -5.3205,
+        "pct": -0.3,
+        "at": "2026-11-18T16:03:26.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4485,7 +4485,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 1768.99
+            "value": 1763.8
           }
         ]
       }
@@ -6566,11 +6566,11 @@ window.GDC_MARKETS = {
         "name": "Euro in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.0971,
+        "value": 1.0969,
         "prev": 1.1095,
-        "change": -0.0124,
-        "pct": -1.12,
-        "at": "2026-11-18T15:57:46.000Z",
+        "change": -0.0126,
+        "pct": -1.14,
+        "at": "2026-11-18T16:02:46.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -6798,7 +6798,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 1.0971
+            "value": 1.0969
           }
         ]
       },
@@ -6807,11 +6807,11 @@ window.GDC_MARKETS = {
         "name": "Pound in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.3152,
+        "value": 1.3147,
         "prev": 1.3277,
-        "change": -0.0125,
-        "pct": -0.94,
-        "at": "2026-11-18T15:57:46.000Z",
+        "change": -0.013,
+        "pct": -0.98,
+        "at": "2026-11-18T16:02:46.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -7051,7 +7051,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-18",
-            "value": 1.3152
+            "value": 1.3147
           }
         ]
       },
@@ -9120,301 +9120,301 @@ window.GDC_MARKETS = {
     ]
   },
   "exchange": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "rates": {
       "USD": {
         "name": "US dollar",
         "place": "United States",
-        "ghs": 11.704735,
-        "per": 0.085435512
+        "ghs": 11.733417,
+        "per": 0.085226663
       },
       "EUR": {
         "name": "Euro",
         "place": "Euro area",
-        "ghs": 12.884493,
-        "per": 0.07761268
+        "ghs": 12.882459,
+        "per": 0.07762493
       },
       "GBP": {
         "name": "British pound",
         "place": "United Kingdom",
-        "ghs": 15.447408,
-        "per": 0.064735778
+        "ghs": 15.477589,
+        "per": 0.064609545
       },
       "CNY": {
         "name": "Chinese yuan",
         "place": "China",
-        "ghs": 1.7559179,
-        "per": 0.56950271
+        "ghs": 1.7601354,
+        "per": 0.56813812
       },
       "JPY": {
         "name": "Japanese yen",
         "place": "Japan",
-        "ghs": 0.073524267,
-        "per": 13.600952
+        "ghs": 0.07366071,
+        "per": 13.575758
       },
       "CHF": {
         "name": "Swiss franc",
         "place": "Switzerland",
-        "ghs": 13.944991,
-        "per": 0.071710336
+        "ghs": 13.9458,
+        "per": 0.071706175
       },
       "CAD": {
         "name": "Canadian dollar",
         "place": "Canada",
-        "ghs": 8.1842772,
-        "per": 0.1221855
+        "ghs": 8.1940408,
+        "per": 0.12203991
       },
       "AUD": {
         "name": "Australian dollar",
         "place": "Australia",
-        "ghs": 7.8845345,
-        "per": 0.12683057
+        "ghs": 7.8866879,
+        "per": 0.12679594
       },
       "INR": {
         "name": "Indian rupee",
         "place": "India",
-        "ghs": 0.12510847,
-        "per": 7.9930639
+        "ghs": 0.12572486,
+        "per": 7.9538761
       },
       "AED": {
         "name": "UAE dirham",
         "place": "United Arab Emirates",
-        "ghs": 3.1871299,
-        "per": 0.31376192
+        "ghs": 3.19494,
+        "per": 0.31299492
       },
       "SAR": {
         "name": "Saudi riyal",
         "place": "Saudi Arabia",
-        "ghs": 3.1212626,
-        "per": 0.32038317
+        "ghs": 3.1289112,
+        "per": 0.31959999
       },
       "QAR": {
         "name": "Qatari riyal",
         "place": "Qatar",
-        "ghs": 3.2155865,
-        "per": 0.31098526
+        "ghs": 3.2234663,
+        "per": 0.31022505
       },
       "TRY": {
         "name": "Turkish lira",
         "place": "Türkiye",
-        "ghs": 0.23215051,
-        "per": 4.3075504
+        "ghs": 0.23265455,
+        "per": 4.2982181
       },
       "BRL": {
         "name": "Brazilian real",
         "place": "Brazil",
-        "ghs": 2.0233827,
-        "per": 0.49422189
+        "ghs": 2.0306064,
+        "per": 0.49246373
       },
       "RUB": {
         "name": "Russian rouble",
         "place": "Russia",
-        "ghs": 0.14170748,
-        "per": 7.0567903
+        "ghs": 0.14271239,
+        "per": 7.0071003
       },
       "SEK": {
         "name": "Swedish krona",
         "place": "Sweden",
-        "ghs": 1.1605721,
-        "per": 0.86164401
+        "ghs": 1.15636,
+        "per": 0.86478258
       },
       "NOK": {
         "name": "Norwegian krone",
         "place": "Norway",
-        "ghs": 1.2127157,
-        "per": 0.82459556
+        "ghs": 1.2164821,
+        "per": 0.82204249
       },
       "DKK": {
         "name": "Danish krone",
         "place": "Denmark",
-        "ghs": 1.7235914,
-        "per": 0.5801839
+        "ghs": 1.7234731,
+        "per": 0.58022375
       },
       "SGD": {
         "name": "Singapore dollar",
         "place": "Singapore",
-        "ghs": 9.0846712,
-        "per": 0.11007553
+        "ghs": 9.0971208,
+        "per": 0.10992489
       },
       "HKD": {
         "name": "Hong Kong dollar",
         "place": "Hong Kong",
-        "ghs": 1.4917835,
-        "per": 0.67033855
+        "ghs": 1.4955349,
+        "per": 0.66865708
       },
       "KRW": {
         "name": "South Korean won",
         "place": "South Korea",
-        "ghs": 0.0087544938,
-        "per": 114.22705
+        "ghs": 0.0088025185,
+        "per": 113.60385
       },
       "NGN": {
         "name": "Nigerian naira",
         "place": "Nigeria",
-        "ghs": 0.0086964139,
-        "per": 114.98993
+        "ghs": 0.0086878754,
+        "per": 115.10294
       },
       "XOF": {
         "name": "CFA franc BCEAO",
         "place": "West Africa",
-        "ghs": 0.019642282,
-        "per": 50.910581
+        "ghs": 0.019639183,
+        "per": 50.918616
       },
       "XAF": {
         "name": "CFA franc BEAC",
         "place": "Central Africa",
-        "ghs": 0.019642282,
-        "per": 50.910581
+        "ghs": 0.019639183,
+        "per": 50.918616
       },
       "ZAR": {
         "name": "South African rand",
         "place": "South Africa",
-        "ghs": 0.68991984,
-        "per": 1.4494437
+        "ghs": 0.69146104,
+        "per": 1.4462131
       },
       "KES": {
         "name": "Kenyan shilling",
         "place": "Kenya",
-        "ghs": 0.0900208,
-        "per": 11.108544
+        "ghs": 0.090253464,
+        "per": 11.079907
       },
       "UGX": {
         "name": "Ugandan shilling",
         "place": "Uganda",
-        "ghs": 0.0028149725,
-        "per": 355.24326
+        "ghs": 0.0028228881,
+        "per": 354.24713
       },
       "TZS": {
         "name": "Tanzanian shilling",
         "place": "Tanzania",
-        "ghs": 0.0044203561,
-        "per": 226.22612
+        "ghs": 0.0044276499,
+        "per": 225.85345
       },
       "RWF": {
         "name": "Rwandan franc",
         "place": "Rwanda",
-        "ghs": 0.0079391526,
-        "per": 125.95803
+        "ghs": 0.0079327358,
+        "per": 126.05992
       },
       "ETB": {
         "name": "Ethiopian birr",
         "place": "Ethiopia",
-        "ghs": 0.071461623,
-        "per": 13.993525
+        "ghs": 0.07163864,
+        "per": 13.958947
       },
       "EGP": {
         "name": "Egyptian pound",
         "place": "Egypt",
-        "ghs": 0.21803884,
-        "per": 4.5863388
+        "ghs": 0.21833941,
+        "per": 4.5800253
       },
       "MAD": {
         "name": "Moroccan dirham",
         "place": "Morocco",
-        "ghs": 1.1715972,
-        "per": 0.8535357
+        "ghs": 1.1785335,
+        "per": 0.84851217
       },
       "TND": {
         "name": "Tunisian dinar",
         "place": "Tunisia",
-        "ghs": 3.8808622,
-        "per": 0.2576747
+        "ghs": 3.8728654,
+        "per": 0.25820675
       },
       "DZD": {
         "name": "Algerian dinar",
         "place": "Algeria",
-        "ghs": 0.085428799,
-        "per": 11.705654
+        "ghs": 0.085537999,
+        "per": 11.690711
       },
       "LRD": {
         "name": "Liberian dollar",
         "place": "Liberia",
-        "ghs": 0.068760531,
-        "per": 14.543227
+        "ghs": 0.069864743,
+        "per": 14.313371
       },
       "SLE": {
         "name": "Sierra Leonean leone",
         "place": "Sierra Leone",
-        "ghs": 0.50978806,
-        "per": 1.9615995
+        "ghs": 0.51070601,
+        "per": 1.9580737
       },
       "GMD": {
         "name": "Gambian dalasi",
         "place": "The Gambia",
-        "ghs": 0.15783722,
-        "per": 6.3356413
+        "ghs": 0.1576977,
+        "per": 6.3412464
       },
       "GNF": {
         "name": "Guinean franc",
         "place": "Guinea",
-        "ghs": 0.0013193155,
-        "per": 757.96881
+        "ghs": 0.0013240166,
+        "per": 755.27755
       },
       "CVE": {
         "name": "Cape Verdean escudo",
         "place": "Cape Verde",
-        "ghs": 0.11684495,
-        "per": 8.5583503
+        "ghs": 0.11682651,
+        "per": 8.559701
       },
       "ZMW": {
         "name": "Zambian kwacha",
         "place": "Zambia",
-        "ghs": 0.56992757,
-        "per": 1.7546089
+        "ghs": 0.57065913,
+        "per": 1.7523596
       },
       "BWP": {
         "name": "Botswana pula",
         "place": "Botswana",
-        "ghs": 0.83745388,
-        "per": 1.1940956
+        "ghs": 0.83867275,
+        "per": 1.1923602
       },
       "MUR": {
         "name": "Mauritian rupee",
         "place": "Mauritius",
-        "ghs": 0.24458102,
-        "per": 4.0886247
+        "ghs": 0.24901643,
+        "per": 4.0157993
       },
       "NAD": {
         "name": "Namibian dollar",
         "place": "Namibia",
-        "ghs": 0.68991984,
-        "per": 1.4494437
+        "ghs": 0.69146104,
+        "per": 1.4462131
       },
       "MWK": {
         "name": "Malawian kwacha",
         "place": "Malawi",
-        "ghs": 0.006742188,
-        "per": 148.3198
+        "ghs": 0.0067688878,
+        "per": 147.73476
       },
       "MZN": {
         "name": "Mozambican metical",
         "place": "Mozambique",
-        "ghs": 0.18323271,
-        "per": 5.457541
+        "ghs": 0.18368449,
+        "per": 5.4441179
       },
       "AOA": {
         "name": "Angolan kwanza",
         "place": "Angola",
-        "ghs": 0.012759424,
-        "per": 78.373442
+        "ghs": 0.012805698,
+        "per": 78.090237
       },
       "CDF": {
         "name": "Congolese franc",
         "place": "DR Congo",
-        "ghs": 0.0050496574,
-        "per": 198.03324
+        "ghs": 0.0050618713,
+        "per": 197.5554
       },
       "ZWL": {
         "name": "Zimbabwean dollar",
         "place": "Zimbabwe",
-        "ghs": 0.0001753984,
-        "per": 5701.3063
+        "ghs": 0.00017616117,
+        "per": 5676.62
       },
       "XDR": {
         "name": "IMF special drawing right",
         "place": "International Monetary Fund",
-        "ghs": 15.748552,
-        "per": 0.0634979
+        "ghs": 15.781097,
+        "per": 0.06336695
       }
     }
   }
