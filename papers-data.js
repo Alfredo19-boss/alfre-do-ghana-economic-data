@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:24:14.608Z",
+  "updated": "2026-11-19T14:33:43.654Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,55 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Fiifi Boafo questions Health Minister over Korle-Bu patient who paid GH¢77,561 but had no bed",
+      "link": "https://ghanaiantimes.com.gh/fiifi-boafo-questions-health-minister-over-korle-bu-patient-who-paid-gh%c2%a277561-but-had-no-bed/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:33:15.000Z",
+      "summary": "A member of the New Patriotic Party (NPP) Communications Team and former Public Affairs Director of COCOBOD, Fiifi Boafo, has questioned whether Health Minister Kwabena Mintah Akandoh has…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Asante Kotoko appoints Stanley Menzo as head coach",
+      "link": "https://ghanaiantimes.com.gh/asante-kotoko-appoints-stanley-menzo-as-head-coach/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:31:01.000Z",
+      "summary": "Asante Kotoko has appointed its Director of Football, Stanley Menzo Purl, as the new head coach of the senior team as part of measures to improve the club’s performance in the ongoing Ghana…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘There’s no money in my pocket’ despite improving economic indicators – Stephen Amoah",
+      "link": "https://ghanaiantimes.com.gh/theres-no-money-in-my-pocket-despite-improving-economic-indicators-stephen-amoah/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:28:22.000Z",
+      "summary": "The Member of Parliament for Nhyiaeso, Dr Stephen Amoah, has questioned why improvements in Ghana’s key economic indicators are not translating into financial relief for ordinary Ghanaians…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nana Ato Arthur questions whether soon to be assessed MMDCEs were told their targets at the start of the year",
+      "link": "https://www.myjoyonline.com/nana-ato-arthur-questions-whether-soon-to-be-assessed-mmdces-were-told-their-targets-at-the-start-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:24:30.000Z",
+      "summary": "A former Head of the Local Government Service, Dr Nana Ato Arthur, has asked whether Metropolitan, Municipal and District Chief Executives (MMDCEs) were told at the beginning of the year…",
+      "categories": [
+        "National",
+        "MMDCE",
+        "Nana Ato Arthur"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Hearts of Oak denies giving Mohammed Polo GH¢100 as 70th birthday gift",
       "link": "https://ghanaiantimes.com.gh/hearts-of-oak-denies-giving-mohammed-polo-gh%c2%a2100-as-70th-birthday-gift/",
       "source": "Ghanaian Times",
@@ -31,6 +80,20 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Declare state of emergency in galamsey hotspots – Catholic Bishops to Mahama",
+      "link": "https://www.myjoyonline.com/declare-state-of-emergency-in-galamsey-hotspots-catholic-bishops-to-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:22:32.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference (GCBC) has called on President John Dramani Mahama to declare a targeted state of emergency in areas severely affected by illegal mining, popularly…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Mahama",
+        "State of Emergency"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NDC confirms death of Greater Accra Deputy Youth Organiser Eric Afeme",
@@ -136,33 +199,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Korle Bu defends delay in 5-year-old boy’s surgery, cites emergency cases after JoyNews report",
-      "link": "https://www.myjoyonline.com/korle-bu-defends-delay-in-5-year-old-boys-surgery-cites-emergency-cases-after-joynews-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:53:50.000Z",
-      "summary": "The Board Chairman of the Korle Bu Teaching Hospital, Professor Titus Beyuo, has defended the delay in surgery for five-year-old boy, explaining that emergency cases and limited intensive…",
-      "categories": [
-        "Health",
-        "National",
-        "News",
-        "Korle Bu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GMet forecasts sunny weather with isolated thunderstorms across parts of Ghana",
-      "link": "https://www.myjoyonline.com/gmet-forecasts-sunny-weather-with-isolated-thunderstorms-across-parts-of-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:51:17.000Z",
-      "summary": "Ghana is set for a largely sunny day on Thursday, November 19, though residents in the coastal and middle sectors should keep umbrellas handy as isolated thunderstorms are expected later in…",
-      "categories": [
-        "National",
-        "Ghana Meteo",
-        "Thunderstorms"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Is a Trading Affiliate Program Worth It for Publishers in Ghana?",
       "link": "https://ghanaiantimes.com.gh/is-a-trading-affiliate-program-worth-it-for-publishers-in-ghana/",
       "source": "Ghanaian Times",
@@ -223,39 +259,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T08:01:56.000Z",
       "summary": "The Institute of Statistical, Social and Economic Research (ISSER) has urged the government to prioritise public expenditure and strengthen monitoring to ensure value for money and create…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nursing, Midwifery Council inducts over 33,000 nurses, midwives",
-      "link": "https://ghanaiantimes.com.gh/nursing-midwifery-council-inducts-over-33000-nurses-midwives/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:59:55.000Z",
-      "summary": "The Nursing and Midwifery Council (N&MC) of Ghana has inducted the first batch of 33,698 newly qualified nurse assistants, nurses, midwives and post-basic specialist nurses in Accra. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Absa employees promote financial inclusion through Makola Market outreach",
-      "link": "https://ghanaiantimes.com.gh/absa-employees-promote-financial-inclusion-through-makola-market-outreach/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:58:26.000Z",
-      "summary": "More than 100 women traders at Makola Market have benefited from a financial literacy outreach led by employees of Absa Bank Ghana as part of the bank’s Colleague Volunteerism programme, a…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GCB Bank trains staff in Mandarin to boost Ghana-China business",
-      "link": "https://ghanaiantimes.com.gh/gcb-bank-trains-staff-in-mandarin-to-boost-ghana-china-business/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:56:52.000Z",
-      "summary": "GCB Bank PLC is investing in Mandarin language training for selected employees to strengthen support for Chinese-speaking customers and position itself to tap into growing business…",
       "categories": [
         "News"
       ],
