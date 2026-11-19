@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T22:32:15.284Z",
+  "updated": "2026-11-19T23:02:15.680Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Old Tafo distributes over 2,000 pieces of furniture to schools",
+      "link": "https://www.myjoyonline.com/old-tafo-distributes-over-2000-pieces-of-furniture-to-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:53:24.000Z",
+      "summary": "More than 2,000 pieces of school furniture are being distributed to about 42 schools in Old Tafo Municipality to address classroom shortages that have forced some pupils to share desks.",
+      "categories": [
+        "Education",
+        "News",
+        "Furniture",
+        "Old Tafo",
+        "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA vows accountability for officers who fail at ports",
+      "link": "https://www.myjoyonline.com/gra-vows-accountability-for-officers-who-fail-at-ports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:45:00.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says officers responsible for failures at the country’s ports will be held accountable if investigations show they…",
+      "categories": [
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner-General"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "From Toronto Driveways to African Ports: Inside a $4.5 million stolen-car network",
       "link": "https://www.myjoyonline.com/from-toronto-driveways-to-african-ports-inside-a-4-5-million-stolen-car-network/",
@@ -106,36 +134,6 @@ window.GDC_PAPERS = {
         "Regional",
         "NDC",
         "Savannah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "24-hour economy gradually creating jobs, but more work needed – Austin Gamey",
-      "link": "https://www.myjoyonline.com/24-hour-economy-gradually-creating-jobs-but-more-work-needed-austin-gamey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T21:01:59.000Z",
-      "summary": "Labour expert Austin Gamey says Ghana's 24-hour economy initiative is gradually creating employment opportunities, although its impact may not yet be as significant as many Ghanaians expect.",
-      "categories": [
-        "National",
-        "News",
-        "24-hour economy",
-        "Austin Gamey",
-        "Jobs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale denies neglecting son, says court ruling allowed him access in 2025",
-      "link": "https://www.myjoyonline.com/shatta-wale-denies-neglecting-son-says-court-ruling-allowed-him-access-in-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:57:56.000Z",
-      "summary": "Dancehall artiste Shatta Wale has responded to allegations that he neglected his son, Majesty, insisting that a court ruling in 2025 granted him access to the child whenever he wanted.",
-      "categories": [
-        "HP News 9",
-        "Music",
-        "National",
-        "Majesty",
-        "Shatta Wale"
       ],
       "site": "https://www.myjoyonline.com/"
     },
