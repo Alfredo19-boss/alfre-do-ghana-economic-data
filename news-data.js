@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T12:24:12.940Z",
+  "updated": "2026-11-19T12:33:41.438Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "BoG deepens students’ understanding of central banking through MPC observership",
+      "link": "https://www.myjoyonline.com/bog-deepens-students-understanding-of-central-banking-through-mpc-observership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:20:54.000Z",
+      "summary": "The exercise formed part of the third edition of the Monetary Policy Committee (MPC) Educational Observership Programme."
+    },
     {
       "title": "Accra Flood Control Projects Stall as Government Awaits Financial Clearance",
       "link": "https://thehighstreetjournal.com/accra-flood-control-projects-stall-as-government-awaits-financial-clearance/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T18:21:37.000Z",
       "summary": "The Deputy Minister for Communication, Digital Technology and Innovations, Mohammed Adam Sukparu, has called for stronger partnerships among government, industry players and international…"
-    },
-    {
-      "title": "Mahama calls on local and foreign investors to tap into US$10bn New Economy Programme",
-      "link": "https://www.myjoyonline.com/mahama-calls-on-local-and-foreign-investors-to-tap-into-us10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:10:02.000Z",
-      "summary": "President John Mahama has urged local and international investors to take advantage of Ghana's US$10 billion New Economy Programme, which is expected to mobilise investments across eight…"
     }
   ]
 };

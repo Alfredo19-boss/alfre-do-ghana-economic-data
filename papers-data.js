@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:24:15.441Z",
+  "updated": "2026-11-19T12:33:43.841Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+      "link": "https://www.myjoyonline.com/google-rejects-uk-request-for-russell-brand-youtube-video-to-be-removed-sources-say-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:27:09.000Z",
+      "summary": "Google has refused a government request to remove a YouTube video posted by jailed rapist Russell Brand's wife in which he claims his innocence, Whitehall sources have told the BBC.",
+      "categories": [
+        "International",
+        "Google",
+        "Russell Brand YouTube",
+        "UK"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Toyota Voxy: GRA says Customs refers restricted imports to specialist agencies",
       "link": "https://www.myjoyonline.com/toyota-voxy-gra-says-customs-refers-restricted-imports-to-specialist-agencies/",
@@ -122,22 +136,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Dolphin",
         "Kedzikope beach"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haruna Iddrisu defends 2027 Budget, says government is laying foundation for new economy",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-defends-2027-budget-says-government-is-laying-foundation-for-new-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:00:09.000Z",
-      "summary": "Education Minister and Member of Parliament for Tamale South, Haruna Iddrisu, has defended the 2027 Budget, describing it as the foundation for a new economic model focused on adding value…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "National",
-        "2027 Budget",
-        "Haruna Iddrisu",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
