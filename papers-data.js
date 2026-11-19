@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T06:58:52.590Z",
+  "updated": "2026-11-19T07:08:52.989Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,59 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
+      "link": "https://www.myjoyonline.com/govt-must-improve-spending-efficiency-prioritise-jobs-in-2027-budget-isser/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:05:47.000Z",
+      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to strengthen oversight of public expenditure and prioritise investments in sectors capable of…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 3",
+        "Economics Division",
+        "ISSER",
+        "Professor Fred Dzanku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nsumia Church of Christ marks Children’s Day • Urges children to make wise choices",
+      "link": "https://ghanaiantimes.com.gh/nsumia-church-of-christ-marks-childrens-day-urges-children-to-make-wise-choices/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:05:46.000Z",
+      "summary": "The Nsumia Church of Christ in the Nsawam-Adoagyiri Municipality has celebrated its annual Children’s Day with a call on children to make wise choices, uphold Christian values and remain…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana steps up efforts to combat antimicrobial resistance",
+      "link": "https://ghanaiantimes.com.gh/ghana-steps-up-efforts-to-combat-antimicrobial-resistance/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:03:15.000Z",
+      "summary": "The Ministries of Health, Food and Agriculture, and Environment, Science and Technology have called for stronger, coordinated action to tackle antimicrobial resistance (AMR). The call was…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minerals Commission, CalBank sign GH¢1bn financing partnership to empower indigenous businesses in mining sector",
+      "link": "https://www.myjoyonline.com/minerals-commission-calbank-sign-gh%c2%a21bn-financing-partnership-to-empower-indigenous-businesses-in-mining-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:58:19.000Z",
+      "summary": "The Minerals Commission and CalBank have signed a Memorandum of Understanding (MoU) aimed at strengthening indigenous participation and expanding access to financing opportunities across…",
+      "categories": [
+        "Business",
+        "HP Business 6",
+        "Mining",
+        "CalBank",
+        "Minerals Commission"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GRA uncovers VAT breaches at West Hills Mall",
       "link": "https://ghanaiantimes.com.gh/gra-uncovers-vat-breaches-at-west-hills-mall/",
@@ -123,28 +176,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Russian military plane crashes in Siberia, kills 19",
-      "link": "https://ghanaiantimes.com.gh/russian-military-plane-crashes-in-siberia-kills-19/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:32:45.000Z",
-      "summary": "A military plane has crashed in western Siberia, killing all 19 people on board, according to a statement from the Russian Defence Ministry, cited by local media. The Antonov An-12…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Over 100,000 protest in France over pay",
-      "link": "https://ghanaiantimes.com.gh/over-100000-protest-in-france-over-pay/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:28:38.000Z",
-      "summary": "More than 100,000 people have taken to the streets in France to protest against the high cost of living, with public sector workers demanding pay increases. The Interior Ministry said on…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Newmont, MTN, Gold Fields lead 2026 Ghana Club 100 rankings",
       "link": "https://www.myjoyonline.com/newmont-mtn-gold-fields-lead-2026-ghana-club-100-rankings/",
       "source": "MyJoyOnline",
@@ -203,33 +234,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "New DNA laboratory to help settle paternity, inheritance disputes – Mahama",
-      "link": "https://www.myjoyonline.com/new-dna-laboratory-to-help-settle-paternity-inheritance-disputes-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:21:00.000Z",
-      "summary": "President John Dramani Mahama says the newly commissioned National Human Identification Laboratory will provide scientific answers to family disputes involving paternity, inheritance and…",
+      "title": "Dolphin washed ashore on Kedzikope beach",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dolphin-washed-ashore-on-kedzikope-beach.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T01:28:00.000Z",
+      "summary": "",
       "categories": [
-        "HP News 1",
-        "National",
-        "DNA",
-        "inheritance",
-        "Mahama"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Buem Concerned PWDs Association demands answers over Jasikan MCE’s disability donations",
-      "link": "https://www.myjoyonline.com/buem-concerned-pwds-association-demands-answers-over-jasikan-mces-disability-donations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:14:00.000Z",
-      "summary": "The Concerned PWDs Association in Buem has demanded transparency from the Jasikan Municipal Chief Executive (MCE) over donations made to selected Persons with Disabilities (PWDs) in the…",
-      "categories": [
-        "National",
-        "Buem",
-        "Donations",
-        "PWDs"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "President Mahama condemns vigilantism against migrants",
@@ -302,17 +315,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T12:43:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPA facilitates 24-hour vessel operations at Tema Oil Jetty",
-      "link": "https://www.graphic.com.gh/news/general-news/npa-facilitates-24-hour-vessel-operations-at-tema-oil-jetty.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T12:10:10.000Z",
       "summary": "",
       "categories": [
         "General News"

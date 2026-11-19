@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T06:58:22.446Z",
+  "updated": "2026-11-19T07:08:21.998Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
+      "link": "https://www.myjoyonline.com/govt-must-improve-spending-efficiency-prioritise-jobs-in-2027-budget-isser/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:05:47.000Z",
+      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to strengthen oversight of public expenditure and prioritise investments in sectors capable of…"
+    },
+    {
+      "title": "Minerals Commission, CalBank sign GH¢1bn financing partnership to empower indigenous businesses in mining sector",
+      "link": "https://www.myjoyonline.com/minerals-commission-calbank-sign-gh%c2%a21bn-financing-partnership-to-empower-indigenous-businesses-in-mining-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:58:19.000Z",
+      "summary": "The Minerals Commission and CalBank have signed a Memorandum of Understanding (MoU) aimed at strengthening indigenous participation and expanding access to financing opportunities across…"
+    },
     {
       "title": "Trade Minister urges industries to add one more shift to operations to advance 24-hour economy",
       "link": "https://www.myjoyonline.com/trade-minister-urges-industries-to-add-one-more-shift-to-operations-to-advance-24-hour-economy/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T16:02:00.000Z",
       "summary": "Bullion falls to a 13-month low as expectations of higher US interest rates strengthen the dollar, exposing Ghana’s growing dependence on gold for foreign exchange."
-    },
-    {
-      "title": "Government Targets 5.2% Growth As $10bn New Economy Programme Takes Centre Stage in 2027 Budget",
-      "link": "https://thehighstreetjournal.com/government-targets-5-2-growth-as-10bn-new-economy-programme-takes-centre-stage-in-2027-budget/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T15:37:00.000Z",
-      "summary": "Government targets 5.2% growth in 2027, backed by GH¢30 billion for productive investment and a $10 billion New Economy Programme aimed at expanding industries, production and employment."
-    },
-    {
-      "title": "JENSEN HUANG’S INFIDELITY EXPLAINED: Why It Could Be You Next!",
-      "link": "https://thehighstreetjournal.com/jensen-huangs-infidelity-explained-why-it-could-be-you-next/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T15:16:06.000Z",
-      "summary": "When Mother Nature gives successful men a sexual buffet, but society expects them to have the appetite of a Pope on hunger strike"
     }
   ]
 };
