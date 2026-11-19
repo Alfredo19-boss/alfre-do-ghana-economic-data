@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T06:48:51.220Z",
+  "updated": "2026-11-19T06:58:22.446Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 6/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Trade Minister urges industries to add one more shift to operations to advance 24-hour economy",
+      "link": "https://www.myjoyonline.com/trade-minister-urges-industries-to-add-one-more-shift-to-operations-to-advance-24-hour-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:49:51.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has challenged Ghanaian businesses to expand their operations by introducing additional shifts to make the…"
+    },
     {
       "title": "Ghana’s cannabis industry featured at international hemp expo in Japan",
       "link": "https://www.ghanabusinessnews.com/2026/11/19/ghanas-cannabis-industry-featured-at-international-hemp-expo-in-japan/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T15:16:06.000Z",
       "summary": "When Mother Nature gives successful men a sexual buffet, but society expects them to have the appetite of a Pope on hunger strike"
-    },
-    {
-      "title": "BoG flags renewed inflationary pressures as rate rises to 5.5% in October",
-      "link": "https://www.myjoyonline.com/bog-flags-renewed-inflationary-pressures-as-rate-rises-to-5-5-in-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T15:14:45.000Z",
-      "summary": "The Bank of Ghana (BoG) is closely monitoring emerging inflationary pressures following an increase in headline inflation to 5.5% in October 2026, from 5.2% in September. Governor of the…"
     }
   ]
 };

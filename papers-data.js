@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T06:48:53.974Z",
+  "updated": "2026-11-19T06:58:52.590Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,58 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GRA uncovers VAT breaches at West Hills Mall",
+      "link": "https://ghanaiantimes.com.gh/gra-uncovers-vat-breaches-at-west-hills-mall/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:57:36.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread breaches of Value Added Tax (VAT) regulations at the West Hills Mall, with only five of the 22 shops inspected found to be…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘China ready to align 5-year devt plan with Ghana’s economic agenda’",
+      "link": "https://ghanaiantimes.com.gh/china-ready-to-align-5-year-devt-plan-with-ghanas-economic-agenda/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:53:32.000Z",
+      "summary": "China has expressed its readiness to align its 2026–2030 development plan with Ghana’s 24-Hour+ Economy and Reset Ghana agenda to deepen cooperation and support the country’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Trade Minister urges industries to add one more shift to operations to advance 24-hour economy",
+      "link": "https://www.myjoyonline.com/trade-minister-urges-industries-to-add-one-more-shift-to-operations-to-advance-24-hour-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:49:51.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has challenged Ghanaian businesses to expand their operations by introducing additional shifts to make the…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Agribusiness and Industry",
+        "Elizabeth Ofosu-Adjare",
+        "Minister for Trade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "At Metropolis International Migration Conference: Stop treating migration as a threat – Pres Mahama",
+      "link": "https://ghanaiantimes.com.gh/at-metropolis-international-migration-conference-stop-treating-migration-as-a-threat-pres-mahama/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:49:00.000Z",
+      "summary": "President John Dramani Mahama has called for a new approach to migration governance in Africa that reflects the realities of how Africans move, with dignity, opportunity and shared…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "First National Bank’s unique approach to banking yielding results — CEO",
       "link": "https://ghanaiantimes.com.gh/first-national-banks-unique-approach-to-banking-yielding-results-ceo/",
@@ -89,40 +141,6 @@ window.GDC_PAPERS = {
       "summary": "More than 100,000 people have taken to the streets in France to protest against the high cost of living, with public sector workers demanding pay increases. The Interior Ministry said on…",
       "categories": [
         "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "6 drainage improvement works await financial clearance – Ahmed Ibrahim",
-      "link": "https://ghanaiantimes.com.gh/6-drainage-improvement-works-await-financial-clearance-ahmed-ibrahim/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:24:04.000Z",
-      "summary": "Six major drainage improvement works under the Greater Accra Resilient and Integrated Development (GARID) project are awaiting financial authorisation from the Ministry of Finance before…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "VAT compliance must not be optional",
-      "link": "https://ghanaiantimes.com.gh/vat-compliance-must-not-be-optional/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:21:32.000Z",
-      "summary": "The discovery by the Ghana Revenue Authority (GRA) that only five out of 22 shops inspected at the West Hills Mall were complying with Value Added Tax (VAT) regulations is worrying and…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Customs intercepts 97 balesof imitation wax prints, 10motorbikes at Techiman",
-      "link": "https://ghanaiantimes.com.gh/customs-intercepts-97-balesof-imitation-wax-prints-10motorbikes-at-techiman/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:18:59.000Z",
-      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has intercepted 97 bales of imitation wax prints and 10 new Yamaha Aerox motorbikes concealed in a Burkina Faso-registered cargo…",
-      "categories": [
-        "Crime"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -210,20 +228,6 @@ window.GDC_PAPERS = {
         "Buem",
         "Donations",
         "PWDs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
-      "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:08:00.000Z",
-      "summary": "Chief of Staff Julius Debrah has urged Chinese businesses and institutions to manufacture in Ghana, work with local suppliers and share technology and skills to support the country’s…",
-      "categories": [
-        "Economy",
-        "National",
-        "Chinese firms",
-        "Julius Debrah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
