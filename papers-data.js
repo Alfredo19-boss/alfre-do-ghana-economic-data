@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T21:42:13.934Z",
+  "updated": "2026-11-19T21:52:15.127Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Canada Police extend authority to publish image of 17-year-old suspect in murder of Ghanaian teen",
+      "link": "https://www.myjoyonline.com/canada-police-extend-authority-to-publish-image-of-17-year-old-suspect-in-murder-of-ghanaian-teen/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T21:47:43.000Z",
+      "summary": "Toronto Police have secured an extension of judicial authorisation to publicly identify a 17-year-old suspect wanted in connection with the murder of 18-year-old Ghanaian, Malik Abass, as a…",
+      "categories": [
+        "National",
+        "Cameron Marlor.",
+        "Canada",
+        "Malik Abass",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Savannah NDC Secretary calls for unity after Regional executive election",
       "link": "https://www.myjoyonline.com/savannah-ndc-secretary-calls-for-unity-after-regional-executive-election/",
@@ -122,20 +137,6 @@ window.GDC_PAPERS = {
         "DCEs",
         "mayors",
         "NALAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IET-Ghana urges government to involve engineers in major national projects",
-      "link": "https://www.myjoyonline.com/iet-gh-urges-government-to-involve-engineers-in-major-national-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:55:00.000Z",
-      "summary": "The President of the Institution of Engineering and Technology Ghana (IET-GH), Engr. Wonder Davor, has urged the government to actively involve local engineers in major infrastructure and…",
-      "categories": [
-        "National",
-        "Engineers",
-        "IET-Ghana",
-        "National projects"
       ],
       "site": "https://www.myjoyonline.com/"
     },
