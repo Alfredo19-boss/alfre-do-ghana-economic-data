@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T20:02:16.320Z",
+  "updated": "2026-11-19T20:12:31.923Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,74 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Samson’s Take: AG Ayine’s Directive: May this signal the end of the familiar abuses!",
+      "link": "https://www.myjoyonline.com/samsons-take-ag-ayines-directive-may-this-signal-the-end-of-the-familiar-abuses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:09:05.000Z",
+      "summary": "Today, Thursday, 19th November, 2026, is one of those days when I write and publish Samson’s Take ahead of Saturday. For years, we have complained about arbitrary arrests, unlawful…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "arbitrary arrests",
+        "Attorney-General",
+        "Bail",
+        "Detention",
+        "Samson Lardy Anyenini",
+        "Samson's Take"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG blacklists Cedi Trust, SikaPadi, 17 other loan apps over privacy violations",
+      "link": "https://www.myjoyonline.com/bog-blacklists-cedi-trust-sikapadi-17-other-loan-apps-over-privacy-violations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:06:12.000Z",
+      "summary": "The Bank of Ghana (BoG) has issued a public alert warning citizens against engaging with 19 digital credit applications operating in the country without the requisite licence or…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "News",
+        "BoG",
+        "Cedi Trust",
+        "Loan apps",
+        "privacy violations",
+        "SikaPadi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Driving Change: German Development Cooperation and partners launch partnership to increase employment opportunities for women in Ghana’s heavy transport and mining sectors",
+      "link": "https://www.myjoyonline.com/driving-change-german-development-cooperation-and-partners-launch-partnership-to-increase-employment-opportunities-for-women-in-ghanas-heavy-transport-and-mining-sectors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:00:37.000Z",
+      "summary": "The German Development Cooperation and Scania West Africa have joined hands to improve professional opportunities and employability of women in Ghana’s heavy transport sector with a…",
+      "categories": [
+        "International",
+        "National",
+        "News",
+        "Transport",
+        "German Development Cooperation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Apam, Aggrey Memorial SHS students among passengers injured in Kasoa-Winneba Highway crash",
+      "link": "https://www.myjoyonline.com/apam-aggrey-memorial-shs-students-among-passengers-injured-in-kasoa-winneba-highway-crash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:58:27.000Z",
+      "summary": "Students from Apam Senior High School and Aggrey Memorial Senior High School are among several passengers injured in a road crash at Gomoa Dominase Junction on the Kasoa-Winneba Highway…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "bus scrash",
+        "Gomoa Dominase",
+        "injured",
+        "Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Students among passengers injured in Sprinter bus crash at Gomoa Dominase",
       "link": "https://www.myjoyonline.com/students-among-passengers-injured-in-sprinter-bus-crash-at-gomoa-dominase/",
@@ -79,66 +147,6 @@ window.GDC_PAPERS = {
         "Finance Minister",
         "Patrick Boamah",
         "SOE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "West Africa leans towards three-country plan for regional payment system, Liberia central bank chief says",
-      "link": "https://www.myjoyonline.com/west-africa-leans-towards-three-country-plan-for-regional-payment-system-liberia-central-bank-chief-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:30:39.000Z",
-      "summary": "West African central banks are leaning towards splitting the hosting of the region's planned payment and settlement system among three institutions so that no single economy dominates it…",
-      "categories": [
-        "Analysis",
-        "Banking and Finance",
-        "International",
-        "National",
-        "Liberia",
-        "regional payment system",
-        "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "International Men’s Day: Seven in 10 Ghanaian men have experienced violence in their lifetime – Gender Ministry",
-      "link": "https://www.myjoyonline.com/international-mens-day-seven-in-10-ghanaian-men-have-experienced-violence-in-their-lifetime-gender-ministry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:23:24.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has raised concerns about the health, mental well-being and exposure to violence among men and boys in Ghana, citing findings that…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Gender Ministry",
-        "International Men’s Day",
-        "Men"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.myjoyonline.com/myanmar-committed-genocide-against-rohingya-minority-top-un-court-rules/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:14:31.000Z",
-      "summary": "A three-year-old girl who was reported missing in the Ejura Zongo community in the Ashanti Region has been found dead inside a parked vehicle.",
-      "categories": [
-        "HP News 10",
-        "International",
-        "Myanmar",
-        "Rohingya",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pru-East MP links recurring typhoid cases to broken water system, calls for urgent rehabilitation",
-      "link": "https://www.myjoyonline.com/pru-east-mp-links-recurring-typhoid-cases-to-broken-water-system-calls-for-urgent-rehabilitation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:13:38.000Z",
-      "summary": "The Member of Parliament for Pru-East, Emmanuel Kwaku Boam, has told Parliament that typhoid is ravaging communities in his constituency due to lack of access to potable water.",
-      "categories": [
-        "Health",
-        "HP News 8",
-        "National"
       ],
       "site": "https://www.myjoyonline.com/"
     },

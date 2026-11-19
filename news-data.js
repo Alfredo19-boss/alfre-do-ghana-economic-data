@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T20:02:02.997Z",
+  "updated": "2026-11-19T20:12:24.116Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,34 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 520)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "BoG blacklists Cedi Trust, SikaPadi, 17 other loan apps over privacy violations",
+      "link": "https://www.myjoyonline.com/bog-blacklists-cedi-trust-sikapadi-17-other-loan-apps-over-privacy-violations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:06:12.000Z",
+      "summary": "The Bank of Ghana (BoG) has issued a public alert warning citizens against engaging with 19 digital credit applications operating in the country without the requisite licence or…"
+    },
+    {
+      "title": "Driving Change: German Development Cooperation and partners launch partnership to increase employment opportunities for women in Ghana’s heavy transport and mining sectors",
+      "link": "https://www.myjoyonline.com/driving-change-german-development-cooperation-and-partners-launch-partnership-to-increase-employment-opportunities-for-women-in-ghanas-heavy-transport-and-mining-sectors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:00:37.000Z",
+      "summary": "The German Development Cooperation and Scania West Africa have joined hands to improve professional opportunities and employability of women in Ghana’s heavy transport sector with a…"
+    },
+    {
+      "title": "We will be heavy on compliance to achieve 2027 tax target – GRA Boss",
+      "link": "https://www.myjoyonline.com/we-will-be-heavy-on-compliance-to-achieve-2027-tax-target-gra-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:57:31.000Z",
+      "summary": "Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has revealed that the Authority plans to place greater emphasis on compliance to help achieve its tax…"
+    },
     {
       "title": "West Africa leans towards three-country plan for regional payment system, Liberia central bank chief says",
       "link": "https://www.myjoyonline.com/west-africa-leans-towards-three-country-plan-for-regional-payment-system-liberia-central-bank-chief-says/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:05:45.000Z",
       "summary": "Efforts to strengthen access to appropriate financing for businesses across Ghana received further support as the Ghana Investment Support Programme (GhISP) and Chartered Institute of…"
-    },
-    {
-      "title": "Ireland Renews WTO Funding to Help Developing Countries Meet Trade Standards",
-      "link": "https://thehighstreetjournal.com/ireland-renews-wto-funding/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T12:35:00.000Z",
-      "summary": "The contribution will support the WTO's Standards and Trade Development Facility (STDF) Strategy for 2025-2030, which focuses on strengthening sanitary and phytosanitary systems"
-    },
-    {
-      "title": "Fixing the 2027 ‘Research-Deficient’ Budget Before Appropriation: Analyst Proposes 3 Quick Ways",
-      "link": "https://thehighstreetjournal.com/fixing-the-2027-research-deficient-budget-before-appropriation-analyst-proposes-3-quick-ways/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T12:00:00.000Z",
-      "summary": "IMANI's Sitsofe Mensah proposes three parliamentary interventions: capitalising the National Research Fund with GH¢1.5 billion, allocating GH¢250 million to CSIR and GAEC, and directing 15%…"
-    },
-    {
-      "title": "Ghanaian farmers losing confidence in rice farming – CSIR-CRI Chief Scientist",
-      "link": "https://www.myjoyonline.com/ghanaian-farmers-losing-confidence-in-rice-farming-csir-cri-chief-scientist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T11:09:46.000Z",
-      "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says Ghanaian farmers…"
     }
   ]
 };
