@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T05:08:55.050Z",
+  "updated": "2026-11-19T05:18:53.612Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
+      "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:08:00.000Z",
+      "summary": "Chief of Staff Julius Debrah has urged Chinese businesses and institutions to manufacture in Ghana, work with local suppliers and share technology and skills to support the country’s…",
+      "categories": [
+        "Economy",
+        "National",
+        "Chinese firms",
+        "Julius Debrah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GH¢165m allocated to 24-hour Economy Secretariat despite shift to New Economy – Amin Adam",
       "link": "https://www.myjoyonline.com/gh%c2%a2165m-allocated-to-24-hour-economy-secretariat-despite-shift-to-new-economy-amin-adam/",
@@ -114,19 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "ASM Gold refining",
         "Dr Steve Manteaw"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices settle lower as traders weigh surplus supply outlook",
-      "link": "https://www.myjoyonline.com/oil-prices-settle-lower-as-traders-weigh-surplus-supply-outlook/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:11:00.000Z",
-      "summary": "Oil prices fell more than 1% on Wednesday after US crude and fuel inventories rose more than expected, according to the Energy Information Administration, adding to expectations of a supply…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T05:08:52.231Z",
+  "updated": "2026-11-19T05:18:49.849Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,13 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
+      "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:08:00.000Z",
+      "summary": "Chief of Staff Julius Debrah has urged Chinese businesses and institutions to manufacture in Ghana, work with local suppliers and share technology and skills to support the country’s…"
+    },
+    {
       "title": "GEXPO 2026 ENTERS DAY TWO WITH OVER 400 EXHIBITORS SHOWCASING MADE-IN-GHANA PRODUCTS",
       "link": "https://thehighstreetjournal.com/gexpo-2026-enters-day-two-with-over-400-exhibitors-showcasing-made-in-ghana-products/",
       "source": "The High Street Journal",
@@ -36,14 +43,14 @@ window.GDC_NEWS = {
       "summary": "The five-day GEXPO 2026, organised by Accra Market and Expo Limited under the auspices of the Ministry of Trade, Agribusiness and Industry and the Ghana Export Promotion Authority (GEPA)…"
     },
     {
-      "title": "Ghana Woos U.S. Virgin Islands Investors, Pitches as West Africa’s manufacturing Hub and Gateway to Africa",
+      "title": "Ghana Woos U.S. Virgin Islands Investors, Pitches as West Africa’s Manufacturing Hub and Gateway to Africa",
       "link": "https://thehighstreetjournal.com/ghana-woos-u-s-virgin-islands-investors-pitches-as-west-africas-manufacturing-hub-and-gateway-to-africa/",
       "source": "The High Street Journal",
       "published": "2026-11-19T05:03:00.000Z",
       "summary": "Ghana is courting Virgin Islands investors to establish businesses and access Africa's 1.4 billion-person market, while exploring US market access and maritime partnerships for local…"
     },
     {
-      "title": "Ghana Can Turn Its High-Quality Silica Into Solar Gold? Dr. Donkor Pushes for Local Panel Manufacturing",
+      "title": "Ghana Can Turn Its High-Quality Silica Into Solar Gold—Dr. Donkor Pushes for Local Panel Manufacturing",
       "link": "https://thehighstreetjournal.com/ghana-can-turn-its-high-quality-silica-into-solar-gold-dr-donkor-pushes-for-local-panel-manufacturing/",
       "source": "The High Street Journal",
       "published": "2026-11-19T05:02:00.000Z",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T14:48:41.000Z",
       "summary": "The Bank of Ghana (BoG) is reviewing the effectiveness of its monetary policy framework, with particular attention to how policy rate decisions translate into bank lending rates and credit…"
-    },
-    {
-      "title": "BoG warns El Niño could trigger food inflation, threaten cocoa export earnings",
-      "link": "https://www.myjoyonline.com/bog-warns-el-nino-could-trigger-food-inflation-threaten-cocoa-export-earnings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T14:41:25.000Z",
-      "summary": "The Bank of Ghana (BoG) has identified the potential impact of an unusually strong El Niño weather phenomenon as a major risk to Ghana’s inflation outlook, agricultural production and…"
     }
   ]
 };
