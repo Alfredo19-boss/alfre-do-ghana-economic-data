@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:32:15.100Z",
+  "updated": "2026-11-19T23:42:14.034Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -31,6 +31,19 @@ window.GDC_PAPERS = {
         "Sports",
         "2026 Amputee Football World Cup",
         "Black Challenge"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
+      "link": "https://www.myjoyonline.com/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:21:00.000Z",
+      "summary": "Alibaba was sued on Thursday in New York by shareholders who accused the Chinese e-commerce giant of defrauding them by concealing its ties to the suspected Chinese spy whose relationship…",
+      "categories": [
+        "International",
+        "Alibaba",
+        "Nvidia scandal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,19 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Anthony Kwasi Sarpong",
         "GRA Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kumasi High, T.I. Amass and Sakafia Islamic battle for Ashanti GMSA Quiz title",
-      "link": "https://www.myjoyonline.com/kumasi-high-t-i-amass-and-sakafia-islamic-battle-for-ashanti-gmsa-quiz-title/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:39:00.000Z",
-      "summary": "Three schools have secured places in the Ashanti Regional GMSA Quiz final after emerging winners of their semi-final contests. Kumasi High School, T.I. Amass and Sakafia Islamic SHS will…",
-      "categories": [
-        "Education",
-        "News",
-        "GMSA QUIZ"
       ],
       "site": "https://www.myjoyonline.com/"
     },
