@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T15:03:51.049Z",
+  "updated": "2026-11-19T15:14:16.499Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,80 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Court of Appeal upholds life sentence for Jirapa Dubai CEO’s killer",
+      "link": "https://www.myjoyonline.com/court-of-appeal-upholds-life-sentence-for-jirapa-dubai-ceos-killer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:07:07.000Z",
+      "summary": "The Court of Appeal has dismissed an appeal by Elisha Mahama Akpanichie against his conviction for the murder of Eric Johnson, founder and Chief Executive Officer of Royal Cosy Hills Hotel…",
+      "categories": [
+        "Crime",
+        "National",
+        "Court of Appeal",
+        "Jirapa Dubai"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "What is wrong with us: We have filled our houses of worship, so why are we emptying our conscience?",
+      "link": "https://www.myjoyonline.com/what-is-wrong-with-us-we-have-filled-our-houses-of-worship-so-why-are-we-emptying-our-conscience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:02:20.000Z",
+      "summary": "Picture a man who never misses a service, occupies a front-row seat, gives generously when the cameras are rolling, and lectures others eloquently about righteousness. On Monday he quietly…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Conscience",
+        "Prof Douglas Boateng",
+        "What is wrong with us"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s mineral wealth: From extraction to local refining. The 2030 ambition",
+      "link": "https://www.myjoyonline.com/ghanas-mineral-wealth-from-extraction-to-local-refining-the-2030-ambition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:01:51.000Z",
+      "summary": "The manganese mine at Nsuta, in Ghana's Western Region, has been shipping ore since 1916. More than a century later, the rock still leaves the country the way it comes out of the ground…",
+      "categories": [
+        "Analysis",
+        "Data",
+        "HP Research 3",
+        "Investments",
+        "Mining",
+        "2030",
+        "local refining",
+        "Mineral wealth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ga Mantse urges newly called Ga-Dangme lawyers to defend Ga-Dangme heritage and reshape its narrative",
+      "link": "https://www.myjoyonline.com/ga-mantse-urges-newly-called-ga-dangme-lawyers-to-defend-ga-dangme-heritage-and-reshape-its-narrative/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:00:36.000Z",
+      "summary": "The Ga Mantse, King Tackie Teiko Tsuru II, has urged newly called lawyers of Ga-Dangme descent to use their professional expertise to protect the interests, heritage and dignity of the Ga…",
+      "categories": [
+        "National",
+        "Ga Mantse",
+        "Ga-Dangme lawyers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Tourism Authority gears up for National Tourism Awards, 2026",
+      "link": "https://www.myjoyonline.com/ghana-tourism-authority-gears-up-for-national-tourism-awards-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:00:26.000Z",
+      "summary": "The Ghana Tourism Authority, under the auspices of the Ministry of Tourism, Culture and Creative Arts, is set to organise the 2026 National Tourism Awards to reward excellence in the…",
+      "categories": [
+        "National",
+        "Ghana Tourism Authority",
+        "National Tourism Awards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "KGL Group boss calls for more African businesses to scale into global corporations",
       "link": "https://www.myjoyonline.com/kgl-group-boss-calls-for-more-african-businesses-to-scale-into-global-corporations/",
@@ -114,20 +188,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gender Minister calls for stronger coordination to end violence against children",
-      "link": "https://www.myjoyonline.com/gender-minister-calls-for-stronger-coordination-to-end-violence-against-children/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:44:07.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger coordination among government institutions, families, schools and communities to…",
-      "categories": [
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Minister",
-        "violence against children"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Côte d’Ivoire introduces mandatory online registration for travellers from African countries",
       "link": "https://ghanaiantimes.com.gh/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-african-countries/",
       "source": "Ghanaian Times",
@@ -152,23 +212,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "British Entrepreneur Rio Kavanagh targets financing and quality gaps in Ghana’s agricultural exports",
-      "link": "https://www.myjoyonline.com/british-entrepreneur-rio-kavanagh-targets-financing-and-quality-gaps-in-ghanas-agricultural-exports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:37:37.000Z",
-      "summary": "Finding an overseas buyer does not always settle the hardest part of an agricultural export deal. A supplier still has to assemble the goods, preserve their quality and cover the interval…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Economy",
-        "National",
-        "agricultural",
-        "British entrepreneur",
-        "Exports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Youth Minister George Opare Addo mourns NDC Deputy Youth Organiser Eric Afeme",
       "link": "https://ghanaiantimes.com.gh/youth-minister-george-opare-addo-mourns-ndc-deputy-youth-organiser-eric-afeme/",
       "source": "Ghanaian Times",
@@ -181,21 +224,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Newmont tops Ghana Club 100 as President Mahama urges businesses to tap into $10bn New Economy programme",
-      "link": "https://www.myjoyonline.com/newmont-tops-ghana-club-100-as-president-mahama-urges-businesses-to-tap-into-10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:33:28.000Z",
-      "summary": "President John Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s US$10 billion New Economy Programme, which seeks to transform the economy through…",
-      "categories": [
-        "Economy",
-        "National",
-        "Ghana Club 100",
-        "new economy programme",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Fiifi Boafo questions Health Minister over Korle-Bu patient who paid GH¢77,561 but had no bed",
       "link": "https://ghanaiantimes.com.gh/fiifi-boafo-questions-health-minister-over-korle-bu-patient-who-paid-gh%c2%a277561-but-had-no-bed/",
       "source": "Ghanaian Times",
@@ -206,34 +234,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Rice quality must match production levels in Ghana’s self-sufficiency drive – Trade Minister",
-      "link": "https://www.myjoyonline.com/rice-quality-must-match-production-levels-in-ghanas-self-sufficiency-drive-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:32:53.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called on players in Ghana’s rice value chain to prioritise quality alongside increased production as the…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Elizabeth Ofosu-Adjare",
-        "Rice",
-        "Trade Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Ato Arthur questions whether soon to be assessed MMDCEs were told their targets at the start of the year",
-      "link": "https://www.myjoyonline.com/nana-ato-arthur-questions-whether-soon-to-be-assessed-mmdces-were-told-their-targets-at-the-start-of-the-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:24:30.000Z",
-      "summary": "A former Head of the Local Government Service, Dr Nana Ato Arthur, has asked whether Metropolitan, Municipal and District Chief Executives (MMDCEs) were told at the beginning of the year…",
-      "categories": [
-        "National",
-        "MMDCE",
-        "Nana Ato Arthur"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
