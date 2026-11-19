@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:54:13.807Z",
+  "updated": "2026-11-19T14:04:16.491Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,65 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Korle Bu defends delay in 5-year-old boy’s surgery, cites emergency cases after JoyNews report",
+      "link": "https://www.myjoyonline.com/korle-bu-defends-delay-in-5-year-old-boys-surgery-cites-emergency-cases-after-joynews-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:53:50.000Z",
+      "summary": "The Board Chairman of the Korle Bu Teaching Hospital, Professor Titus Beyuo, has defended the delay in surgery for five-year-old boy, explaining that emergency cases and limited intensive…",
+      "categories": [
+        "Health",
+        "National",
+        "News",
+        "Korle Bu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMet forecasts sunny weather with isolated thunderstorms across parts of Ghana",
+      "link": "https://www.myjoyonline.com/gmet-forecasts-sunny-weather-with-isolated-thunderstorms-across-parts-of-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:51:17.000Z",
+      "summary": "Ghana is set for a largely sunny day on Thursday, November 19, though residents in the coastal and middle sectors should keep umbrellas handy as isolated thunderstorms are expected later in…",
+      "categories": [
+        "National",
+        "Ghana Meteo",
+        "Thunderstorms"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government’s revenue target is ambitious; current primary surplus can lead to cash problem – PwC",
+      "link": "https://www.myjoyonline.com/governments-revenue-target-is-ambitious-current-primary-surplus-can-lead-to-cash-problem-pwc/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:51:01.000Z",
+      "summary": "Professional services firm PwC has described the government’s 2027 revenue target as rather ambitious. According to the firm, since revenue is planned to rise about 18%, collection must…",
+      "categories": [
+        "HP News 5",
+        "News",
+        "Debt-to-GDP",
+        "Ministry of Finance",
+        "primary surplus",
+        "PwC",
+        "Tax Revenue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Guinness Ghana DJ Awards 2026: Full list of nominees unveiled",
+      "link": "https://www.myjoyonline.com/guinness-ghana-dj-awards-2026-full-list-of-nominees-unveiled/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:50:49.000Z",
+      "summary": "The nominees for the 2026 Guinness Ghana DJ Awards have been announced, with some of the country's leading disc jockeys competing for honours across several categories.",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "National",
+        "Guinness Ghana DJ Awards",
+        "Nominees"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AG’s directive on suspects’ rights part of broader criminal justice reforms – Press Secretary",
       "link": "https://www.myjoyonline.com/ags-directive-on-suspects-rights-part-of-broader-criminal-justice-reforms-press-secretary/",
@@ -42,6 +101,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T13:39:07.000Z",
       "summary": "Attorney-General and Minister for Justice, Dr Dominic Ayine, has directed investigative agencies to strictly comply with constitutional and legal requirements governing arrests, detention…",
       "categories": [
+        "HP News 4",
         "National",
         "News",
         "AG",
@@ -82,33 +142,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC vows action against vote-buying",
-      "link": "https://www.myjoyonline.com/ndc-vows-action-against-vote-buying/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:24:07.000Z",
-      "summary": "The National Democratic Congress (NDC) has pledged to take action against any member found to have engaged in vote-buying during its recent regional executive elections.",
-      "categories": [
-        "National",
-        "NDC",
-        "Vote-buying"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "30-year-old man arrested in Dublin over murder of Thomas Oduro in North London",
-      "link": "https://www.myjoyonline.com/30-year-old-man-arrested-in-dublin-over-murder-of-thomas-oduro-in-north-london/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:16:50.000Z",
-      "summary": "A 30-year-old man from Tottenham has been arrested in Dublin, Ireland, on suspicion of murdering 21-year-old Thomas Oduro, who was stabbed to death in north London on Friday, 13 November.",
-      "categories": [
-        "National",
-        "Dublin",
-        "North London",
-        "Thomas Oduro"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Is a Trading Affiliate Program Worth It for Publishers in Ghana?",
       "link": "https://ghanaiantimes.com.gh/is-a-trading-affiliate-program-worth-it-for-publishers-in-ghana/",
       "source": "Ghanaian Times",
@@ -118,33 +151,6 @@ window.GDC_PAPERS = {
         "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MMDCEs have no excuse for poor service delivery after vehicle distribution – Deputy Minister",
-      "link": "https://www.myjoyonline.com/mmdces-have-no-excuse-for-poor-service-delivery-after-vehicle-distribution-deputy-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:13:45.000Z",
-      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs has issued a stern warning to Metropolitan, Municipal and District Chief Executives (MMDCEs), insisting that the…",
-      "categories": [
-        "National",
-        "Assemblies",
-        "MMDCE",
-        "Vehicle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "link": "https://www.myjoyonline.com/florida-pastor-found-guilty-over-role-in-assassination-of-haitian-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:12:40.000Z",
-      "summary": "A Florida pastor has been found guilty of a number of charges relating to the assassination of the Haitian President Jovenel Moïse.",
-      "categories": [
-        "International",
-        "Florida",
-        "Haitian"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
