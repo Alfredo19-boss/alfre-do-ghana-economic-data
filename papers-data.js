@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T01:03:31.535Z",
+  "updated": "2026-11-19T01:14:02.463Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -38,6 +38,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "link": "https://www.myjoyonline.com/claude-maker-anthropic-poised-for-more-than-1-4tn-stock-market-debut/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:58:00.000Z",
+      "summary": "Anthropic is poised to hit a value of more than $1.4 trillion (£1.1 trillion) when it debuts on the public stock market.",
+      "categories": [
+        "International",
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana @ 70: InLaME CEO questions gains in leadership and institutional development",
       "link": "https://www.myjoyonline.com/ghana-70-inlame-ceo-questions-gains-in-leadership-and-institutional-development/",
       "source": "MyJoyOnline",
@@ -48,6 +62,19 @@ window.GDC_PAPERS = {
         "Ghana at 70",
         "Inlame CEO",
         "Leadership"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "https://www.myjoyonline.com/myanmar-faces-historic-genocide-verdict-at-un-court-over-rohingya-massacres/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:11:00.000Z",
+      "summary": "When the judges of the International Court of Justice read out their verdict in the seven-year-old genocide case filed by The Gambia against Myanmar on Thursday, they could make history.",
+      "categories": [
+        "International",
+        "Rohingya",
+        "UN"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -100,36 +127,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Dormabin",
         "Murder"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COPTI calls for stronger TVET-industry partnerships to drive Ghana’s industrial future",
-      "link": "https://www.myjoyonline.com/copti-calls-for-stronger-tvet-industry-partnerships-to-drive-ghanas-industrial-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:10:00.000Z",
-      "summary": "Ghana’s educational landscape is undergoing a fundamental shift, as leaders, traditional authorities and policymakers gather in Wa for the 2026 Annual Conference of the Conference of…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Conference of Principals of Technical Institutions",
-        "TVET-industry partnerships"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Brifoh SHS gets new dining hall, headmaster’s bungalow after MP’s intervention",
-      "link": "https://www.myjoyonline.com/brifoh-shs-gets-new-dining-hall-headmasters-bungalow-after-mps-intervention/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:09:34.000Z",
-      "summary": "Work is progressing steadily on two major projects at Brifoh Senior High School in the Lawra Municipality, following lobbying by the Member of Parliament for the area, Bede Anwotaazuma…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Bede Anwotaazuma Ziedeng",
-        "Brifoh SHS",
-        "Dining Hall",
-        "Lawra Municipality"
       ],
       "site": "https://www.myjoyonline.com/"
     },
