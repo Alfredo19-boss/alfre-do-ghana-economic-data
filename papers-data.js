@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:43:44.680Z",
+  "updated": "2026-11-19T11:53:44.039Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.myjoyonline.com/anthropic-raises-81bn-in-record-breaking-stock-market-debut/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:46:45.000Z",
+      "summary": "Anthropic, the company behind AI chatbot Claude, has raised a record $81bn (£62.bn) in a stock market debut that will make it one of the most valuable companies in the world.",
+      "categories": [
+        "International",
+        "News",
+        "Technology",
+        "Anthropic",
+        "Stock Market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Paris Meets Accra: The partners behind the year’s most elegant night",
+      "link": "https://www.myjoyonline.com/paris-meets-accra-the-partners-behind-the-years-most-elegant-night/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:46:31.000Z",
+      "summary": "This year's theme celebrates Paris at its most refined, honouring an era defined by elegance, artistry, and culture.",
+      "categories": [
+        "Events",
+        "Accra",
+        "Diner En Blanc",
+        "Paris"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sarkodie urges government to invest in Ghana’s film industry",
       "link": "https://www.myjoyonline.com/sarkodie-urges-government-to-invest-in-ghanas-film-industry/",
@@ -97,42 +126,14 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "FIFA receives three candidatures for next year’s presidential election",
-      "link": "https://www.myjoyonline.com/fifa-receives-three-candidatures-for-next-years-presidential-election/",
+      "title": "France’s Philippe Diallo and Japan’s Kohzo Tashima to contest Gianni Infantino for FIFA President",
+      "link": "https://www.myjoyonline.com/frances-philippe-diallo-and-japans-kohzo-tashima-to-contest-gianni-infantino-for-fifa-president/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T11:16:10.000Z",
       "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
       "categories": [
         "Football",
         "FIFA elections"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Six Accra flood-control projects await Finance Ministry approval – Works Minister",
-      "link": "https://www.myjoyonline.com/six-accra-flood-control-projects-await-finance-ministry-approval-works-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:10:01.000Z",
-      "summary": "Six planned interventions to tackle flooding in parts of Accra are yet to move into the construction phase as the Ministry of Works, Housing and Water Resources awaits financial…",
-      "categories": [
-        "In Focus",
-        "National",
-        "News",
-        "Finance Ministry",
-        "Greater Accra Resilient and Integrated Development"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russell Kofi Eni elected new President of AAG",
-      "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:55:28.000Z",
-      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG). He took over from outgoing president Mr. Andrew Ackah at the association’s 35th Annual…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 7"
       ],
       "site": "https://www.myjoyonline.com/"
     },
