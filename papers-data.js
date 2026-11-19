@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T20:12:31.923Z",
+  "updated": "2026-11-19T20:22:26.071Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "24-hour economy job claims need evidence for independent verification – Bokpin",
+      "link": "https://www.myjoyonline.com/24-hour-economy-job-claims-need-evidence-for-independent-verification-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:20:11.000Z",
+      "summary": "Economist and Professor at the University of Ghana Business School, Professor Godfred Bokpin, has urged the government to provide verifiable data to support its claims of jobs created under…",
+      "categories": [
+        "National",
+        "News",
+        "24-hour economy",
+        "Godfred Bokpin",
+        "Jobs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Samson’s Take: AG Ayine’s Directive: May this signal the end of the familiar abuses!",
       "link": "https://www.myjoyonline.com/samsons-take-ag-ayines-directive-may-this-signal-the-end-of-the-familiar-abuses/",
@@ -131,22 +146,6 @@ window.GDC_PAPERS = {
         "National",
         "Big Push projects",
         "IET-Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Patrick Boamah challenges Finance Minister’s directive stopping monthly allowances for SOE board members",
-      "link": "https://www.myjoyonline.com/patrick-boamah-challenges-finance-ministers-directive-stopping-monthly-allowances-for-soe-board-members/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:38:55.000Z",
-      "summary": "Okaikwei Central Member of Parliament Patrick Boamah has questioned the Finance Minister's directive halting monthly sitting allowances for board members of state-owned enterprises (SOEs)…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Board members",
-        "Finance Minister",
-        "Patrick Boamah",
-        "SOE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
