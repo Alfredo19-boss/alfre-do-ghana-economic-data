@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T03:48:22.208Z",
+  "updated": "2026-11-19T03:58:22.907Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,22 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
+      "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:50:26.000Z",
+      "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…",
+      "categories": [
+        "Business",
+        "Mining",
+        "National",
+        "News",
+        "Godbod",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Prof Agyeman-Duah backs Sam Jonah’s call to restore Acheampong’s rank",
       "link": "https://www.myjoyonline.com/prof-agyeman-duah-backs-sam-jonahs-call-to-restore-acheampongs-rank/",
       "source": "MyJoyOnline",
@@ -31,6 +47,33 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "link": "https://www.myjoyonline.com/julio-iglesias-facing-court-investigation-over-alleged-sexual-offences/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:59:00.000Z",
+      "summary": "Singer Julio Iglesias is facing an investigation by Spain's national court over allegations that he sexually abused and assaulted two female former staff members",
+      "categories": [
+        "International",
+        "Music",
+        "Julio Iglesias",
+        "Sexual offences"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "link": "https://www.myjoyonline.com/parents-jailed-for-torture-and-death-of-four-year-old-girl-in-france-in-1987/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:50:00.000Z",
+      "summary": "The mother of a four-year-old girl killed in central France and found along a motorway almost 40 years ago has been sentenced to 20 years in prison.",
+      "categories": [
+        "International",
+        "France",
+        "Torture"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -86,45 +129,6 @@ window.GDC_PAPERS = {
         "International",
         "Gold",
         "UAE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US judge says ICE ‘made a mockery of court orders’ in Colorado",
-      "link": "https://www.myjoyonline.com/us-judge-says-ice-made-a-mockery-of-court-orders-in-colorado/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:12:00.000Z",
-      "summary": "A federal judge said on Wednesday the US Immigration and Customs Enforcement agency \"made a mockery of court orders\" in ​Colorado and that the court found, government officials in contempt…",
-      "categories": [
-        "International",
-        "Colorado",
-        "ICE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump says he referred to ex-Nvidia boss Huang’s situation ‘briefly’ in talk with Xi",
-      "link": "https://www.myjoyonline.com/trump-says-he-referred-to-ex-nvidia-boss-huangs-situation-briefly-in-talk-with-xi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T01:55:00.000Z",
-      "summary": "US President Donald Trump said he spoke to Chinese President Xi Jinping about artificial intelligence and that his reference to former Nvidia CEO Jensen Huang came up only \"briefly.\"",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "Jensen Huang",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Acheampong became General after coup, not before – Bomfeh",
-      "link": "https://www.myjoyonline.com/acheampong-became-general-after-coup-not-before-bomfeh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T01:47:55.000Z",
-      "summary": "A senior lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh, has challenged calls for the restoration of the military rank of former Head of State…",
-      "categories": [
-        "News",
-        "Acheampong"
       ],
       "site": "https://www.myjoyonline.com/"
     },

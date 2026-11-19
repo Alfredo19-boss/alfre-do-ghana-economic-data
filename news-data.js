@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T03:48:20.262Z",
+  "updated": "2026-11-19T03:58:20.762Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
+      "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:50:26.000Z",
+      "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…"
+    },
     {
       "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
       "link": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T12:20:36.000Z",
       "summary": "Large corporations provide the demand, contracts and commercial opportunities that allow small and medium-sized enterprises to expand"
-    },
-    {
-      "title": "New Cedi notes: What does Ghana stand to gain?",
-      "link": "https://www.myjoyonline.com/new-cedi-notes-what-does-ghana-stand-to-gain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:08:39.000Z",
-      "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?"
     }
   ]
 };
