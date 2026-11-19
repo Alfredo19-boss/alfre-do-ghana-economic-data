@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:13:43.723Z",
+  "updated": "2026-11-19T13:23:45.926Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,74 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "30-year-old man arrested in Dublin over murder of Thomas Oduro in North London",
+      "link": "https://www.myjoyonline.com/30-year-old-man-arrested-in-dublin-over-murder-of-thomas-oduro-in-north-london/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:16:50.000Z",
+      "summary": "A 30-year-old man from Tottenham has been arrested in Dublin, Ireland, on suspicion of murdering 21-year-old Thomas Oduro, who was stabbed to death in north London on Friday, 13 November.",
+      "categories": [
+        "National",
+        "Dublin",
+        "North London",
+        "Thomas Oduro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Is a Trading Affiliate Program Worth It for Publishers in Ghana?",
+      "link": "https://ghanaiantimes.com.gh/is-a-trading-affiliate-program-worth-it-for-publishers-in-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T13:16:04.000Z",
+      "summary": "Ghana’s digital publishing space has grown fast over the past few years, and so has the hunt for monetization that actually pays. Display ads barely cover hosting costs for most local…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MMDCEs have no excuse for poor service delivery after vehicle distribution – Deputy Minister",
+      "link": "https://www.myjoyonline.com/mmdces-have-no-excuse-for-poor-service-delivery-after-vehicle-distribution-deputy-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:13:45.000Z",
+      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs has issued a stern warning to Metropolitan, Municipal and District Chief Executives (MMDCEs), insisting that the…",
+      "categories": [
+        "National",
+        "Assemblies",
+        "MMDCE",
+        "Vehicle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "link": "https://www.myjoyonline.com/florida-pastor-found-guilty-over-role-in-assassination-of-haitian-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:12:40.000Z",
+      "summary": "A Florida pastor has been found guilty of a number of charges relating to the assassination of the Haitian President Jovenel Moïse.",
+      "categories": [
+        "International",
+        "Florida",
+        "Haitian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Finance Ministry defends 2025 spending cuts as necessary to restore fiscal discipline",
+      "link": "https://www.myjoyonline.com/finance-ministry-defends-2025-spending-cuts-as-necessary-to-restore-fiscal-discipline/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:10:37.000Z",
+      "summary": "The Ministry of Finance has defended the government’s sharp expenditure cuts in 2025, describing them as necessary to restore fiscal discipline after what it says was an overheated economy…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "Finance Ministry",
+        "Fiscal discipline",
+        "Spending cuts"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "PwC expresses cautious optimism about New Economy programme; fiscal credibility depends on how government finances itself",
       "link": "https://www.myjoyonline.com/pwc-expresses-cautious-optimism-about-new-economy-programme-fiscal-credibility-depends-on-how-government-finances-itself/",
       "source": "MyJoyOnline",
@@ -29,6 +97,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Economy",
+        "HP Business 5",
         "Capital spending",
         "IMF",
         "Ministry of Finance",
@@ -85,69 +154,11 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Economy",
+        "HP Business 2",
         "GSS",
         "Manufacturing",
         "Mining",
         "PPI"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KGL Chair Alex Dadey urges Africa to build globally competitive, trans-generational businesses",
-      "link": "https://www.myjoyonline.com/kgl-chair-alex-dadey-urges-africa-to-build-globally-competitive-trans-generational-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:41:27.000Z",
-      "summary": "Executive Chairman of KGL Group, Alex Apau Dadey, has called for a stronger focus on building large, globally competitive and trans-generational African businesses, arguing that their…",
-      "categories": [
-        "National",
-        "Alex Dadey",
-        "KGL Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Investing in Ghana under the Ghana investment promotion authority act, 2026: What investors need to know",
-      "link": "https://www.myjoyonline.com/investing-in-ghana-under-the-ghana-investment-promotion-authority-act-2026-what-investors-need-to-know/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:36:26.000Z",
-      "summary": "Ghana has a new law governing investment. The Ghana Investment Promotion Authority Act, 2026 (Act 1173) received presidential assent on 15th July, 2026 and replaces the Ghana Investment…",
-      "categories": [
-        "Analysis",
-        "Features",
-        "In Focus",
-        "National",
-        "Ghana",
-        "Ghana Investment Promotion Authority (GIPA)",
-        "GIPA",
-        "Investment",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Crimean Bridge attacked again, Russia says",
-      "link": "https://www.myjoyonline.com/crimean-bridge-attacked-again-russia-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:33:54.000Z",
-      "summary": "The Crimean Bridge has been attacked by Ukraine for the third time this week, Russia has said.",
-      "categories": [
-        "International",
-        "Crimean bridge",
-        "Russia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Disqualified NDC youth organiser challenges NDC Appeals Committee over disqualification from youth organiser race",
-      "link": "https://www.myjoyonline.com/disqualified-ndc-youth-organiser-challenges-ndc-appeals-committee-over-disqualification-from-youth-organiser-race/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:30:22.000Z",
-      "summary": "Disqualified National Democratic Congress (NDC) National Youth Organiser aspirant, Najeeb Yahaya, has expressed disappointment over the party's Appeals Committee decision to prevent him…",
-      "categories": [
-        "National",
-        "Politics",
-        "Appeals Committee",
-        "NDC Youth Organiser"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -236,17 +247,6 @@ window.GDC_PAPERS = {
       "summary": "A 14-year-old girl with a severely leaking heart valve has become the first patient in Ghana to undergo a minimally invasive pulmonary valve replacement, signalling a major breakthrough in…",
       "categories": [
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Early antenatal care key to reducing risk of preterm births",
-      "link": "https://ghanaiantimes.com.gh/early-antenatal-care-key-to-reducing-risk-of-preterm-births/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:51:13.000Z",
-      "summary": "A pregnancy may appear to be progressing normally, but certain health conditions and other risk factors may be putting the mother and baby at risk of preterm birth, with possible…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
