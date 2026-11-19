@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T14:04:14.084Z",
+  "updated": "2026-11-19T14:14:11.033Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Minority MPs question government’s economic claims after Techiman market tour",
+      "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:08:30.000Z",
+      "summary": "Minority MPs have taken their assessment of Ghana’s economy to the Techiman Central Market and lorry terminals, saying early interactions with traders and transport operators raise…"
+    },
     {
       "title": "EV Adoption Could Threaten Ghana’s Petroleum Revenue As NPA Commissions Study",
       "link": "https://thehighstreetjournal.com/ev-adoption-could-threaten-ghanas-petroleum-revenue-as-npa-commissions-study/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T22:47:00.000Z",
       "summary": "The Ecobank JoyBusiness SME Fair 2026 brought together three days of business exhibitions, product displays, shopping bargains, networking and live entertainment at Ghud Park, Accra Mall…"
-    },
-    {
-      "title": "Ghana Space Conference 2026 brings policymakers, experts together to advance space technology",
-      "link": "https://www.myjoyonline.com/ghana-space-conference-2026-brings-policymakers-experts-together-to-advance-space-technology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T21:28:00.000Z",
-      "summary": "More than 300 policymakers, scientists, technology experts, industry leaders and international partners have gathered in Accra for the 2026 Ghana Space Conference to explore ways of…"
     }
   ]
 };

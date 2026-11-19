@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:04:16.491Z",
+  "updated": "2026-11-19T14:14:13.599Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority MPs question government’s economic claims after Techiman market tour",
+      "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:08:30.000Z",
+      "summary": "Minority MPs have taken their assessment of Ghana’s economy to the Techiman Central Market and lorry terminals, saying early interactions with traders and transport operators raise…",
+      "categories": [
+        "Economy",
+        "National",
+        "lorry terminals",
+        "Minority MPs",
+        "techiman market tour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“Stop abusing students” – GES PRO on UGEL’s GH¢8,000 Hostel fee",
+      "link": "https://www.myjoyonline.com/stop-abusing-students-ges-pro-on-ugels-gh%c2%a28000-hostel-fee/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:08:11.000Z",
+      "summary": "The Public Relations Officer of the Ghana Education Service (GES), Daniel Fenyi, has taken issue with the University of Ghana Enterprise Limited (UGEL) over its reported GH¢8,000 annual…",
+      "categories": [
+        "Education",
+        "National",
+        "GES PRO",
+        "UGEL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Korle Bu defends delay in 5-year-old boy’s surgery, cites emergency cases after JoyNews report",
       "link": "https://www.myjoyonline.com/korle-bu-defends-delay-in-5-year-old-boys-surgery-cites-emergency-cases-after-joynews-report/",
@@ -108,36 +137,6 @@ window.GDC_PAPERS = {
         "Arrest",
         "detention and bail rules",
         "investigative agencies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fiifi Boafo questions Health Minister’s absence as ‘No Bed’ crisis persists",
-      "link": "https://www.myjoyonline.com/fiifi-boafo-questions-health-ministers-absence-as-no-bed-crisis-persists/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:36:25.000Z",
-      "summary": "Former COCOBOD Director of Public Affairs, Fiifi Boafo, has questioned Health Minister Kwabena Mintah Akandoh's apparent absence from hospital visits, following renewed concerns over the…",
-      "categories": [
-        "Health",
-        "National",
-        "Fiifi Boafo",
-        "Health Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Investigative agencies to face quarterly scrutiny over treatment of suspects – AG’s Office",
-      "link": "https://www.myjoyonline.com/investigative-agencies-to-face-quarterly-scrutiny-over-treatment-of-suspects-ags-office/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:30:14.000Z",
-      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says a new directive requiring investigative agencies to respect the rights of suspects is…",
-      "categories": [
-        "National",
-        "News",
-        "AG",
-        "Benjamin Alpha Aidoo",
-        "Investigators",
-        "rights violations"
       ],
       "site": "https://www.myjoyonline.com/"
     },
