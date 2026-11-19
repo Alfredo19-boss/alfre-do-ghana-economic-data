@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:54:13.421Z",
+  "updated": "2026-11-19T13:03:44.619Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP-USA members seek Boadu, Bawumia intervention over election credibility concerns",
+      "link": "https://www.myjoyonline.com/npp-usa-members-seek-boadu-bawumia-intervention-over-election-credibility-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:54:12.000Z",
+      "summary": "Some members of the New Patriotic Party’s United States branch are calling on John Boadu and Dr Mahamudu Bawumia to intervene over concerns about the credibility of the upcoming NPP-USA…",
+      "categories": [
+        "Politics",
+        "Dr Mahamudu Bawumia",
+        "John Boadu",
+        "NPP-USA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
+      "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T12:51:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "GRA working towards joint checks at ports and border entry points, says Commissioner-General",
       "link": "https://www.myjoyonline.com/gra-working-towards-joint-checks-at-ports-and-border-entry-points-says-commissioner-general/",
@@ -119,20 +144,6 @@ window.GDC_PAPERS = {
         "Google",
         "Russell Brand YouTube",
         "UK"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Toyota Voxy: GRA says Customs refers restricted imports to specialist agencies",
-      "link": "https://www.myjoyonline.com/toyota-voxy-gra-says-customs-refers-restricted-imports-to-specialist-agencies/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:23:13.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says Customs refers restricted or banned imports to specialist agencies if they lack the required approvals.",
-      "categories": [
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner General",
-        "Toyota Voxy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -295,17 +306,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-backs-police-human-rights-training-manual.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T02:51:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Perez Chapel donates to Tamale AME Zion Primary School",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-perez-chapel-donates-to-tamale-ame-zion-primary-school.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T02:47:42.000Z",
       "summary": "",
       "categories": [
         "General News"
