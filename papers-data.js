@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:58:53.047Z",
+  "updated": "2026-11-19T05:08:55.050Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GH¢165m allocated to 24-hour Economy Secretariat despite shift to New Economy – Amin Adam",
+      "link": "https://www.myjoyonline.com/gh%c2%a2165m-allocated-to-24-hour-economy-secretariat-despite-shift-to-new-economy-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:07:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has questioned the allocation of GH¢165 million to the 24-hour Economy Secretariat in the 2027 Budget, arguing that the initiative has been…",
+      "categories": [
+        "National",
+        "News",
+        "24-hour economy",
+        "Amin Adam",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Banking trailblazer Bishop Patricia Sappor named Chair of CXP Ghana Council",
+      "link": "https://www.myjoyonline.com/banking-trailblazer-bishop-patricia-sappor-named-chair-of-cxp-ghana-council/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:59:00.000Z",
+      "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council.",
+      "categories": [
+        "Banking and Finance",
+        "Bishop Patricia Sappor",
+        "Customer Experience Professionals Ghana (CXP Ghana)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government is spending more on itself than productive sectors – Amin Adam",
+      "link": "https://www.myjoyonline.com/government-is-spending-more-on-itself-than-productive-sectors-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:51:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of directing more public funds towards its own administrative operations at the expense of investment in productive…",
+      "categories": [
+        "National",
+        "Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GoldBod looks beyond 2 refineries to expand local gold processing – Dr Manteaw",
       "link": "https://www.myjoyonline.com/goldbod-looks-beyond-2-refineries-to-expand-local-gold-processing-dr-manteaw/",
@@ -87,48 +127,6 @@ window.GDC_PAPERS = {
         "International",
         "Oil prices",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cocaine and millions of pills seized in eastern Libya, officials say",
-      "link": "https://www.myjoyonline.com/cocaine-and-millions-of-pills-seized-in-eastern-libya-officials-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:00:00.000Z",
-      "summary": "Eastern Libyan authorities said they seized more than 4 million narcotic pills and 29 kilograms ​of cocaine and hashish in the coastal city ‌of Derna on Tuesday.",
-      "categories": [
-        "Africa",
-        "Cocaine",
-        "Libya"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russia’s A7 payment network plans further expansion in Africa, executive says",
-      "link": "https://www.myjoyonline.com/russias-a7-payment-network-plans-further-expansion-in-africa-executive-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:51:00.000Z",
-      "summary": "Russia's A7 international payment system plans to expand further in Africa, after opening in Nigeria and Zimbabwe, to build banking infrastructure around growing Russian investment, company…",
-      "categories": [
-        "Africa",
-        "A7",
-        "Russia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
-      "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:50:26.000Z",
-      "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…",
-      "categories": [
-        "Business",
-        "Mining",
-        "National",
-        "News",
-        "Godbod",
-        "Gold"
       ],
       "site": "https://www.myjoyonline.com/"
     },

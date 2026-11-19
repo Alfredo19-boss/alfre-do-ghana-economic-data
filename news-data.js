@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T04:58:50.484Z",
+  "updated": "2026-11-19T05:08:52.231Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,10 +22,59 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "GEXPO 2026 ENTERS DAY TWO WITH OVER 400 EXHIBITORS SHOWCASING MADE-IN-GHANA PRODUCTS",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-enters-day-two-with-over-400-exhibitors-showcasing-made-in-ghana-products/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:05:00.000Z",
+      "summary": "From indigenous jewellery, garments and shea products to pharmaceuticals, food and arts, the fair is showcasing Ghanaian enterprise and opening doors to wider market opportunities."
+    },
+    {
+      "title": "GEXPO 2026 Opens With 500 Businesses Targeting New Markets",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-opens-with-500-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:05:00.000Z",
+      "summary": "The five-day GEXPO 2026, organised by Accra Market and Expo Limited under the auspices of the Ministry of Trade, Agribusiness and Industry and the Ghana Export Promotion Authority (GEPA)…"
+    },
+    {
+      "title": "Ghana Woos U.S. Virgin Islands Investors, Pitches as West Africa’s manufacturing Hub and Gateway to Africa",
+      "link": "https://thehighstreetjournal.com/ghana-woos-u-s-virgin-islands-investors-pitches-as-west-africas-manufacturing-hub-and-gateway-to-africa/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:03:00.000Z",
+      "summary": "Ghana is courting Virgin Islands investors to establish businesses and access Africa's 1.4 billion-person market, while exploring US market access and maritime partnerships for local…"
+    },
+    {
+      "title": "Ghana Can Turn Its High-Quality Silica Into Solar Gold? Dr. Donkor Pushes for Local Panel Manufacturing",
+      "link": "https://thehighstreetjournal.com/ghana-can-turn-its-high-quality-silica-into-solar-gold-dr-donkor-pushes-for-local-panel-manufacturing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:02:00.000Z",
+      "summary": "Dr. Kwabena Donkor urges Ghana to leverage its high-quality silica deposits to manufacture solar panels locally, supported by technology transfer, private investment, tax incentives…"
+    },
+    {
+      "title": "Ghana’s US$30.4bn Export Earnings Raise Questions Over Gold Dependence as Trade Surplus Hits US$13bn",
+      "link": "https://thehighstreetjournal.com/ghanas-us30-4bn-export-earnings-raise-questions-over-gold-dependence-as-trade-surplus-hits-us13bn/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:01:00.000Z",
+      "summary": "Ghana recorded US$30.42 billion in exports by October 2026, with gold contributing nearly 69%, raising questions about export diversification despite a US$13 billion trade surplus."
+    },
+    {
+      "title": "Patricia Sappor Takes Charge of CXP Ghana as Customer Experience Gains Business Importance",
+      "link": "https://thehighstreetjournal.com/patricia-sappor-takes-charge-of-cxp-ghana-as-customer-experience-gains-business-importance/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:00:00.000Z",
+      "summary": "Veteran banker Patricia Sappor has been appointed CXP Ghana Council Chair, bringing 33 years of experience to efforts to strengthen customer-centred business practices."
+    },
+    {
+      "title": "10% Community Equity Demand Could Reshape Ghana’s Mining Investment Landscape",
+      "link": "https://thehighstreetjournal.com/10-community-equity-demand-could-reshape-ghanas-mining-investment-landscape/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T05:00:00.000Z",
+      "summary": "WPN's proposed 10% community equity stake and 2% revenue share could introduce new regulatory obligations and raise concerns over mining investment returns and Ghana's competitiveness."
+    },
+    {
       "title": "Banking trailblazer Bishop Patricia Sappor named Chair of CXP Ghana Council",
       "link": "https://www.myjoyonline.com/banking-trailblazer-bishop-patricia-sappor-named-chair-of-cxp-ghana-council/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T04:54:40.000Z",
+      "published": "2026-11-19T04:59:00.000Z",
       "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council."
     },
     {
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T14:41:25.000Z",
       "summary": "The Bank of Ghana (BoG) has identified the potential impact of an unusually strong El Niño weather phenomenon as a major risk to Ghana’s inflation outlook, agricultural production and…"
-    },
-    {
-      "title": "Solomon Asamoah’s Lawyer Withdraws Representation in Skytrain Trial After Court Refuses Adjournment",
-      "link": "https://thehighstreetjournal.com/solomon-asamoahs-lawyer-withdraws-representation-in-skytrain-trial-after-court-refuses-adjournment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T14:10:55.000Z",
-      "summary": "Proceedings in the ongoing Skytrain trial took an unexpected turn on Monday, November 16, 2026, after counsel for the first accused person (A1), Solomon Asamoah, the former Chief Executive…"
-    },
-    {
-      "title": "Ghana offers carbon market roadmap to African countries",
-      "link": "https://www.ghanabusinessnews.com/2026/11/16/ghana-offers-carbon-market-roadmap-to-african-countries/",
-      "source": "Ghana Business News",
-      "published": "2026-11-16T14:05:14.000Z",
-      "summary": "Ghana has offered to share its experience in carbon credit generation and transfer with other African countries to support their participation in international carbon markets."
-    },
-    {
-      "title": "Ghana Opens Garment, Pharmaceutical and Agribusiness Projects to Private Investors",
-      "link": "https://thehighstreetjournal.com/ghana-opens-garment-pharmaceutical-and-agribusiness-projects-to-private-investors/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T14:00:00.000Z",
-      "summary": "The government is seeking private sector participation in new factories, agricultural processing estates and industrial hubs as it looks to expand domestic production, create jobs and…"
-    },
-    {
-      "title": "GRA Arrests China Mall Operators Over Alleged E-VAT Tax Evasion",
-      "link": "https://thehighstreetjournal.com/gra-arrests-china-mall-operators-over-alleged-e-vat-tax-evasion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T13:45:42.000Z",
-      "summary": "GRA has arrested operators of three China Mall branches over suspected E-VAT evasion, following investigations into alleged parallel invoicing systems used to divert sales and under-declare…"
-    },
-    {
-      "title": "Mahama Says Ghana Must Guarantee Buyers for Farmers to Spur Industrial Growth",
-      "link": "https://thehighstreetjournal.com/ghana-must-guarantee-buyers-for-farmers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T13:35:00.000Z",
-      "summary": "The government is also promoting investment opportunities across all 16 regions, including commercial farming, agro-processing, mineral processing, energy, tourism, pharmaceuticals…"
-    },
-    {
-      "title": "Dangote Pledges $50 Billion to Drive African Industrial Investment",
-      "link": "https://thehighstreetjournal.com/dangote-pledges-50bn-to-drive-investment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T13:15:00.000Z",
-      "summary": "African economies would struggle to attract sustained foreign investment unless domestic entrepreneurs demonstrated confidence in their markets through local investment and industrial…"
-    },
-    {
-      "title": "GIPA Banks on Reforms and Resilience to Attract Global Investors",
-      "link": "https://thehighstreetjournal.com/gipa-banks-on-reforms-and-resilience/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T13:08:00.000Z",
-      "summary": "The summit is designed to present Ghana's investment potential to the global business community and strengthen the country's appeal as a destination for capital"
     }
   ]
 };
