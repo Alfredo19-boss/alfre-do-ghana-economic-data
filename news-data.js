@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T15:14:12.612Z",
+  "updated": "2026-11-19T15:24:13.762Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "ISSER Questions Public Spending Efficiency, Urges 2027 Budget to Prioritise Job Creation",
+      "link": "https://thehighstreetjournal.com/isser-questions-public-spending-efficiency-urges-2027-budget-to-prioritise-job-creation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T15:12:00.000Z",
+      "summary": "ISSER has urged government to improve public spending efficiency, strengthen procurement accountability and prioritise manufacturing, agriculture and agribusiness to deliver sustainable…"
+    },
     {
       "title": "Ghana’s mineral wealth: From extraction to local refining. The 2030 ambition",
       "link": "https://www.myjoyonline.com/ghanas-mineral-wealth-from-extraction-to-local-refining-the-2030-ambition/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T05:03:00.000Z",
       "summary": "President Mahama has challenged Ghanaian entrepreneurs to move beyond sachet water production and pursue bigger industrial ventures, manufacturing, agriculture and exports, positioning…"
-    },
-    {
-      "title": "Burkina Faso Cattle Export Ban Threatens Ghana’s Meat Supply and Christmas Prices",
-      "link": "https://thehighstreetjournal.com/burkina-faso-cattle-export-ban-threatens-ghanas-meat-supply-and-christmas-prices/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:02:00.000Z",
-      "summary": "Burkina Faso’s cattle export ban has disrupted supplies to Kumasi Abattoir, threatening butchers’ livelihoods, abattoir revenue and affordable meat availability as traders warn of higher…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T15:14:16.499Z",
+  "updated": "2026-11-19T15:24:18.851Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Prosecutor confident Jirapa Dubai murder conviction will survive Supreme Court challenge",
+      "link": "https://www.myjoyonline.com/prosecutor-confident-jirapa-dubai-murder-conviction-will-survive-supreme-court-challenge/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:11:28.000Z",
+      "summary": "Principal State Attorney Saeed Abdul Shakur says the prosecution is confident that Elisha Mahama Akpanichie’s conviction for the murder of businessman Eric Johnson will stand if he…",
+      "categories": [
+        "Crime",
+        "National",
+        "Jirapa Dubai",
+        "murder conviction",
+        "Prosecutor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Court of Appeal upholds life sentence for Jirapa Dubai CEO’s killer",
       "link": "https://www.myjoyonline.com/court-of-appeal-upholds-life-sentence-for-jirapa-dubai-ceos-killer/",
       "source": "MyJoyOnline",
@@ -29,6 +44,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Crime",
         "National",
+        "Top Story",
         "Court of Appeal",
         "Jirapa Dubai"
       ],
@@ -160,20 +176,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bolt steps up ride-hailing safety education in Ghana ahead of festive season",
-      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-ahead-of-festive-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:48:54.000Z",
-      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…",
-      "categories": [
-        "Technology",
-        "Bolt",
-        "Festive Season",
-        "safety education"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Electroland Ghana launches ‘No Challenger Black Friday’",
