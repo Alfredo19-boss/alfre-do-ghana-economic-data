@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:14:13.599Z",
+  "updated": "2026-11-19T14:24:14.608Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,92 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hearts of Oak denies giving Mohammed Polo GH¢100 as 70th birthday gift",
+      "link": "https://ghanaiantimes.com.gh/hearts-of-oak-denies-giving-mohammed-polo-gh%c2%a2100-as-70th-birthday-gift/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:23:50.000Z",
+      "summary": "Accra Hearts of Oak has denied claims by former player and club legend Mohammed Ahmed Polo that it gave him GH¢100 as a gift for his 70th birthday. In a press statement dated November 19…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NDC confirms death of Greater Accra Deputy Youth Organiser Eric Afeme",
+      "link": "https://ghanaiantimes.com.gh/ndc-confirms-death-of-greater-accra-deputy-youth-organiser-eric-afeme/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:21:26.000Z",
+      "summary": "The National Democratic Congress (NDC) Greater Accra Regional Secretariat has officially confirmed the death of its Deputy Regional Youth Organiser, Eric Atsu Afeme, popularly known as…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Twifo Hemang residents demand ECG action over high electricity bills",
+      "link": "https://www.myjoyonline.com/twifo-hemang-residents-demand-ecg-action-over-high-electricity-bills/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:16:54.000Z",
+      "summary": "Residents of Twifo Hemang in the Central Region have called on the Electricity Company of Ghana (ECG) to address concerns over high electricity bills, discrepancies in meter details and…",
+      "categories": [
+        "National",
+        "Regional",
+        "ECG",
+        "Twifo Hemang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Erastus Asare Donkor laments as court acquits four suspects who attacked him during galamsey exposé",
+      "link": "https://www.myjoyonline.com/erastus-asare-donkor-laments-as-court-acquits-four-suspects-who-attacked-him-during-galamsey-expose/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:14:45.000Z",
+      "summary": "Investigative journalist Erastus Asare Donkor has expressed disappointment following the acquittal and discharge of four people accused in connection with an alleged attack on him and his…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Erastus Asare Donkor",
+        "Expose",
+        "Galamsey",
+        "Suspects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "link": "https://www.myjoyonline.com/british-hacker-who-stole-11m-through-text-message-scheme-jailed-for-six-years-in-us/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:10:40.000Z",
+      "summary": "A British hacker has been sentenced to six years in a federal prison in the US for conspiring to hack into at least a dozen companies via text message phishing, and stealing more than…",
+      "categories": [
+        "International",
+        "British",
+        "text message",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP31 draft proposes at least $120 billion annually for climate adaptation by 2035",
+      "link": "https://www.myjoyonline.com/cop31-draft-proposes-at-least-120-billion-annually-for-climate-adaptation-by-2035/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:09:37.000Z",
+      "summary": "The COP31 draft proposes raising annual climate adaptation finance for developing countries to at least US$120 billion by 2035, giving a specific financial target to an earlier commitment…",
+      "categories": [
+        "Africa",
+        "Health",
+        "International",
+        "News",
+        "Politics",
+        "Biodiveristy",
+        "Climate change",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority MPs question government’s economic claims after Techiman market tour",
       "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
@@ -73,70 +159,6 @@ window.GDC_PAPERS = {
         "National",
         "Ghana Meteo",
         "Thunderstorms"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government’s revenue target is ambitious; current primary surplus can lead to cash problem – PwC",
-      "link": "https://www.myjoyonline.com/governments-revenue-target-is-ambitious-current-primary-surplus-can-lead-to-cash-problem-pwc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:51:01.000Z",
-      "summary": "Professional services firm PwC has described the government’s 2027 revenue target as rather ambitious. According to the firm, since revenue is planned to rise about 18%, collection must…",
-      "categories": [
-        "HP News 5",
-        "News",
-        "Debt-to-GDP",
-        "Ministry of Finance",
-        "primary surplus",
-        "PwC",
-        "Tax Revenue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Guinness Ghana DJ Awards 2026: Full list of nominees unveiled",
-      "link": "https://www.myjoyonline.com/guinness-ghana-dj-awards-2026-full-list-of-nominees-unveiled/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:50:49.000Z",
-      "summary": "The nominees for the 2026 Guinness Ghana DJ Awards have been announced, with some of the country's leading disc jockeys competing for honours across several categories.",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "National",
-        "Guinness Ghana DJ Awards",
-        "Nominees"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AG’s directive on suspects’ rights part of broader criminal justice reforms – Press Secretary",
-      "link": "https://www.myjoyonline.com/ags-directive-on-suspects-rights-part-of-broader-criminal-justice-reforms-press-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:45:48.000Z",
-      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says a new directive requiring investigative agencies to respect the rights of suspects forms…",
-      "categories": [
-        "National",
-        "News",
-        "AG",
-        "Benjamin Alpha Aidoo",
-        "criminal justice reforms"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AG directs investigative agencies to respect suspects’ rights or face sanctions",
-      "link": "https://www.myjoyonline.com/ag-directs-investigative-agencies-to-respect-suspects-rights-or-face-sanctions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:39:07.000Z",
-      "summary": "Attorney-General and Minister for Justice, Dr Dominic Ayine, has directed investigative agencies to strictly comply with constitutional and legal requirements governing arrests, detention…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "AG",
-        "Arrest",
-        "detention and bail rules",
-        "investigative agencies"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -234,28 +256,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T07:56:52.000Z",
       "summary": "GCB Bank PLC is investing in Mandarin language training for selected employees to strengthen support for Chinese-speaking customers and position itself to tap into growing business…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Boardroom Governance Summit calls for stronger committees to drive institutional impact",
-      "link": "https://ghanaiantimes.com.gh/boardroom-governance-summit-calls-for-stronger-committees-to-drive-institutional-impact/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:55:40.000Z",
-      "summary": "Corporate governance leaders have called for stronger and more effective board committees to improve institutional accountability, strengthen decision-making and drive organisational…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana performs first minimally invasive pulmonary valve replacement",
-      "link": "https://ghanaiantimes.com.gh/ghana-performs-first-minimally-invasive-pulmonary-valve-replacement/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T07:53:40.000Z",
-      "summary": "A 14-year-old girl with a severely leaking heart valve has become the first patient in Ghana to undergo a minimally invasive pulmonary valve replacement, signalling a major breakthrough in…",
       "categories": [
         "News"
       ],
