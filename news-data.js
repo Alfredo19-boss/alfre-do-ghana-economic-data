@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T03:58:20.762Z",
+  "updated": "2026-11-19T04:08:20.223Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,7 +15,7 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 502)"
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T03:50:26.000Z",
       "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…"
+    },
+    {
+      "title": "Large-Scale mines to supply gold for Ghana refinery’s certification drive – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/large-scale-mines-to-supply-gold-for-ghana-refinerys-certification-drive-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:19:00.000Z",
+      "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said."
     },
     {
       "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:31:28.000Z",
       "summary": "African business magnate Aliko Dangote has announced plans to partner with the Ghanaian government to invest in sugar production, a project he says could create nearly 50,000 jobs."
-    },
-    {
-      "title": "Dangote Says Africa Needs More Mega Corporations to Sustain SMEs",
-      "link": "https://thehighstreetjournal.com/dangote-saysafricaneeds-mega-corporations/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T12:20:36.000Z",
-      "summary": "Large corporations provide the demand, contracts and commercial opportunities that allow small and medium-sized enterprises to expand"
     }
   ]
 };

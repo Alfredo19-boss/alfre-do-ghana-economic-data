@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T03:58:22.907Z",
+  "updated": "2026-11-19T04:08:23.042Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,35 @@ window.GDC_PAPERS = {
         "News",
         "Godbod",
         "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+      "link": "https://www.myjoyonline.com/hunger-games-fan-13-to-get-artwork-shown-on-cinema-screens-before-film/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:28:00.000Z",
+      "summary": "A teenage Hunger Games fan has met the cast of the new film after her artwork won a competition, meaning it will be displayed at every cinema screening across the UK.",
+      "categories": [
+        "International",
+        "Movies",
+        "Hunger Games"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Large-Scale mines to supply gold for Ghana refinery’s certification drive – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/large-scale-mines-to-supply-gold-for-ghana-refinerys-certification-drive-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:19:00.000Z",
+      "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said.",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr Ken Ashigbey",
+        "Gold",
+        "LBMA certification"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -101,34 +130,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Acheampong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "link": "https://www.myjoyonline.com/van-gogh-painting-sells-for-record-190-4m-after-row-over-its-nazi-history/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:30:00.000Z",
-      "summary": "Auction house Sotheby's has sold a painting by Vincent van Gogh for a record $190.4m (£144.8m).",
-      "categories": [
-        "Art & Design",
-        "International",
-        "Nazi history",
-        "Van Gogh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UAE top destination for smuggled African gold despite tighter measures, NGO says",
-      "link": "https://www.myjoyonline.com/uae-top-destination-for-smuggled-african-gold-despite-tighter-measures-ngo-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:22:00.000Z",
-      "summary": "The United Arab Emirates remained the top destination for smuggled African gold in 2024 despite tightening its rules a year earlier, a ​report by non-governmental organisation Swissaid said.",
-      "categories": [
-        "Africa",
-        "International",
-        "Gold",
-        "UAE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
