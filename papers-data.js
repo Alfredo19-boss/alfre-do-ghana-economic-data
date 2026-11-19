@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T03:08:23.786Z",
+  "updated": "2026-11-19T03:28:23.111Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,10 +21,22 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "My Acheampong book seeks to correct forgotten history, not glorify coups – Agyeman-Duah",
+      "link": "https://www.myjoyonline.com/my-acheampong-book-seeks-to-correct-forgotten-history-not-glorify-coups-agyeman-duah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:38:24.000Z",
+      "summary": "A political historian, Prof. Baffour Agyeman-Duah, says his work on the life and times of former Head of State General Ignatius Kutu Acheampong is intended to bring neglected aspects of…",
+      "categories": [
+        "News",
+        "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Acheampong became General after coup, not before – Bomfeh",
       "link": "https://www.myjoyonline.com/acheampong-became-general-after-coup-not-before-bomfeh/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T03:04:55.000Z",
+      "published": "2026-11-19T01:47:55.000Z",
       "summary": "A senior lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh, has challenged calls for the restoration of the military rank of former Head of State…",
       "categories": [
         "News",
@@ -116,20 +128,6 @@ window.GDC_PAPERS = {
         "ASM Gold refining",
         "Dr Ken Ashigbey",
         "LBMA certification"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana @ 70: InLaME CEO questions gains in leadership and institutional development",
-      "link": "https://www.myjoyonline.com/ghana-70-inlame-ceo-questions-gains-in-leadership-and-institutional-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:39:23.000Z",
-      "summary": "As Ghana prepares to mark 70 years of independence, concerns are mounting over whether the country has built the strong institutions and effective leadership needed to deliver sustainable…",
-      "categories": [
-        "Opinion",
-        "Ghana at 70",
-        "Inlame CEO",
-        "Leadership"
       ],
       "site": "https://www.myjoyonline.com/"
     },
