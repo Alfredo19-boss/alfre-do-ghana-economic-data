@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T22:02:13.707Z",
+  "updated": "2026-11-19T22:12:14.220Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Goldfields wins overall CSR company at Ghana Club 100",
+      "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:03:34.000Z",
+      "summary": "The company was also ranked in the top three on the Club 100 rankings, following MTN Ghana and Newmont, respectively.",
+      "categories": [
+        "Business",
+        "Mining",
+        "Corporate Social Responsibility",
+        "Ghana Club 100",
+        "Goldfields Ghana Limited"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghanaian among 21 arrested in Canada over alleged towing industry crime network",
       "link": "https://www.myjoyonline.com/ghanaian-among-21-arrested-in-canada-over-alleged-towing-industry-crime-network/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T21:59:14.000Z",
       "summary": "A Ghanaian is among 21 people arrested and charged in Canada following a major police investigation into alleged organised crime, violence and criminal activities within the Greater Toronto…",
       "categories": [
+        "HP News 7",
         "National",
         "News",
         "Canada",
@@ -116,25 +132,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:56:22.000Z",
       "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says longstanding concerns over how criminal investigations are conducted and suspects are…",
       "categories": [
-        "HP News 7",
         "National",
         "News",
         "abuses in criminal investigations",
         "AG's directive"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wode Maya mourns mother a month after her death, announces January 28 burial",
-      "link": "https://www.myjoyonline.com/wode-maya-mourns-mother-a-month-after-her-death-announces-january-28-burial/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:55:37.000Z",
-      "summary": "Ghanaian YouTuber and content creator Wode Maya has paid an emotional tribute to his late mother, marking one month since her death and what would have been her birthday.",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Mother",
-        "Wode Maya"
       ],
       "site": "https://www.myjoyonline.com/"
     },

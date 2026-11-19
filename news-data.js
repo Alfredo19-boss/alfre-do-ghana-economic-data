@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T22:01:43.422Z",
+  "updated": "2026-11-19T22:11:43.842Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Goldfields wins overall CSR company at Ghana Club 100",
+      "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:03:34.000Z",
+      "summary": "The company was also ranked in the top three on the Club 100 rankings, following MTN Ghana and Newmont, respectively."
+    },
     {
       "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
       "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:31:36.000Z",
       "summary": "The CEO asserted that the results reflected progress in the bank’s growth strategy and the confidence customers continued to place in the business. “We have delivered steady profitability…"
-    },
-    {
-      "title": "Who gets to tell Ghana’s story on the Cedi? An open letter to the Bank of Ghana on the Heritage Series",
-      "link": "https://www.myjoyonline.com/who-gets-to-tell-ghanas-story-on-the-cedi-an-open-letter-to-the-bank-of-ghana-on-the-heritage-series-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:29:36.000Z",
-      "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…"
     }
   ]
 };
