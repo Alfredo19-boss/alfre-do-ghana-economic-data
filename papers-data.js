@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:23:45.926Z",
+  "updated": "2026-11-19T13:34:10.349Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC vows action against vote-buying",
+      "link": "https://www.myjoyonline.com/ndc-vows-action-against-vote-buying/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:24:07.000Z",
+      "summary": "The National Democratic Congress (NDC) has pledged to take action against any member found to have engaged in vote-buying during its recent regional executive elections.",
+      "categories": [
+        "National",
+        "NDC",
+        "Vote-buying"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "30-year-old man arrested in Dublin over murder of Thomas Oduro in North London",
       "link": "https://www.myjoyonline.com/30-year-old-man-arrested-in-dublin-over-murder-of-thomas-oduro-in-north-london/",
@@ -142,23 +155,6 @@ window.GDC_PAPERS = {
         "National",
         "Anthony Kwasi Sarpong",
         "GRA Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Producer inflation rises to 5.2% in October 2026",
-      "link": "https://www.myjoyonline.com/producer-inflation-rises-to-5-2-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:47:16.000Z",
-      "summary": "According to the Ghana Statistical Service, the increase was led by the Mining and Quarrying sub-sector.",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "GSS",
-        "Manufacturing",
-        "Mining",
-        "PPI"
       ],
       "site": "https://www.myjoyonline.com/"
     },
