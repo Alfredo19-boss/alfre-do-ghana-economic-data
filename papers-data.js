@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T06:28:51.835Z",
+  "updated": "2026-11-19T06:38:51.895Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GhIS demands reforms in land compensation",
+      "link": "https://ghanaiantimes.com.gh/ghis-demands-reforms-in-land-compensation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:38:43.000Z",
+      "summary": "The Ghana Institution of Surveyors (GhIS) has called for the establishment of a Land Bill Council to regulate the assessment and valuation of compensation for lands compulsorily acquired by…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dutch Minister presses Sierra Leone to extradite wanted drug lord",
+      "link": "https://ghanaiantimes.com.gh/dutch-minister-presses-sierra-leone-to-extradite-wanted-drug-lord/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:34:48.000Z",
+      "summary": "Dutch Justice Minister David van Weel has criticised Sierra Leone over its handling of the case of Jos Leijdekkers, one of Europe’s most-wanted drug traffickers, urging the country to take…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Russian military plane crashes in Siberia, kills 19",
+      "link": "https://ghanaiantimes.com.gh/russian-military-plane-crashes-in-siberia-kills-19/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:32:45.000Z",
+      "summary": "A military plane has crashed in western Siberia, killing all 19 people on board, according to a statement from the Russian Defence Ministry, cited by local media. The Antonov An-12…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Over 100,000 protest in France over pay",
       "link": "https://ghanaiantimes.com.gh/over-100000-protest-in-france-over-pay/",
@@ -71,18 +105,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T06:15:15.000Z",
       "summary": "Mr Edward Akuoko, a former General Manager of Akonta Mining Company, has told the High Court in Accra that he agreed to testify for the prosecution to tell the truth about matters within…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NACOC arrests passenger with 58 cocaine pellets swallowed before flight",
-      "link": "https://ghanaiantimes.com.gh/nacoc-arrests-passenger-with-58-cocaine-pellets-swallowed-before-flight/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:10:25.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has arrested a 58-year-old passenger bound for India at the Accra International Airport after he was found to have swallowed 58 pellets suspected to…",
       "categories": [
         "Crime",
         "Hot!"
@@ -205,30 +227,6 @@ window.GDC_PAPERS = {
         "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Actors’ Guild leadership dispute heads to High Court in Tema",
-      "link": "https://ghanaiantimes.com.gh/ghana-actors-guild-leadership-dispute-heads-to-high-court-in-tema/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:15:04.000Z",
-      "summary": "Concerned registered members of the Ghana Actors’ Guild (GAG) have filed legal proceedings at the High Court in Tema over matters affecting the governance and electoral processes of the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Firefighters save 10 rooms from fire at Bimbilla Chief’s Palace",
-      "link": "https://ghanaiantimes.com.gh/firefighters-save-10-rooms-from-fire-at-bimbilla-chiefs-palace/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:10:43.000Z",
-      "summary": "Firefighters from the Bimbilla Municipal Fire Station have successfully contained a fire outbreak at the Bimbilla Chief Palace (Kpihibara Naa) at Shirkpamo Fong. The fire affected a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "President Mahama condemns vigilantism against migrants",

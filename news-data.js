@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T06:28:21.278Z",
+  "updated": "2026-11-19T06:38:21.378Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana government urged to leverage UNESCO kente honour for tourism",
+      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-government-urged-to-leverage-unesco-kente-honour-for-tourism/",
+      "source": "Ghana Business News",
+      "published": "2026-11-19T06:36:16.000Z",
+      "summary": "Mr Joel Degue, Tourism Developer, Promoter and Consultant has urged the government to leverage Kente’s (Kete in Ewe) UNESCO recognition to drive tourism and economic gains, saying Ghana is…"
+    },
     {
       "title": "Mahama demands faster port clearance to cut business costs",
       "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T15:09:00.000Z",
       "summary": "The Constitution, by its article 144, places the appointment of the Chief Justice in the hands of the President, acting in consultation with the Council of State and subject to the approval…"
-    },
-    {
-      "title": "BoG to scrutinise 2027 budget financing, spending for inflation and exchange rate risks",
-      "link": "https://www.myjoyonline.com/bog-to-scrutinise-2027-budget-financing-spending-for-inflation-and-exchange-rate-risks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T15:05:08.000Z",
-      "summary": "The Bank of Ghana (BoG) says it will closely examine the financing arrangements and expenditure plans under the government’s 2027 Budget to assess their potential implications for…"
     }
   ]
 };
