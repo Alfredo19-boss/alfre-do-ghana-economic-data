@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T05:18:53.612Z",
+  "updated": "2026-11-19T05:28:53.356Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama demands faster port clearance to cut business costs",
+      "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:23:05.000Z",
+      "summary": "President John Dramani Mahama has tasked the Ministers of Trade and Industry and Transport to tackle delays at the country’s ports, saying inefficiencies in the movement of goods are…",
+      "categories": [
+        "Business",
+        "Top Story",
+        "port"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New DNA laboratory to help settle paternity, inheritance disputes – Mahama",
+      "link": "https://www.myjoyonline.com/new-dna-laboratory-to-help-settle-paternity-inheritance-disputes-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:21:00.000Z",
+      "summary": "President John Dramani Mahama says the newly commissioned National Human Identification Laboratory will provide scientific answers to family disputes involving paternity, inheritance and…",
+      "categories": [
+        "National",
+        "DNA",
+        "inheritance",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Buem Concerned PWDs Association demands answers over Jasikan MCE’s disability donations",
+      "link": "https://www.myjoyonline.com/buem-concerned-pwds-association-demands-answers-over-jasikan-mces-disability-donations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:14:00.000Z",
+      "summary": "The Concerned PWDs Association in Buem has demanded transparency from the Jasikan Municipal Chief Executive (MCE) over donations made to selected Persons with Disabilities (PWDs) in the…",
+      "categories": [
+        "National",
+        "Buem",
+        "Donations",
+        "PWDs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
       "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
@@ -57,6 +98,7 @@ window.GDC_PAPERS = {
       "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council.",
       "categories": [
         "Banking and Finance",
+        "In Focus",
         "Bishop Patricia Sappor",
         "Customer Experience Professionals Ghana (CXP Ghana)"
       ],
@@ -86,48 +128,6 @@ window.GDC_PAPERS = {
         "ASM Gold refining",
         "Dr Steve Manteaw",
         "Goldbod"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Only 13 Big Push projects reach 50% completion in two years – Amin Adam",
-      "link": "https://www.myjoyonline.com/only-13-big-push-projects-reach-50-completion-in-two-years-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:43:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has raised concerns about the slow progress of the government's Big Push infrastructure programme, saying only 13 projects had reached at least…",
-      "categories": [
-        "National",
-        "News",
-        "Amin Adam",
-        "Big Push"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NYA to hold maiden graduation ceremony for National Apprenticeship Programme tomorrow",
-      "link": "https://www.myjoyonline.com/nya-to-hold-maiden-graduation-ceremony-for-national-apprenticeship-programme-tomorrow/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:35:00.000Z",
-      "summary": "The National Youth Authority (NYA) is set to hold the maiden graduation ceremony for beneficiaries of the National Apprenticeship Programme (NAP) on Friday, November 20, 2026.",
-      "categories": [
-        "National",
-        "Mahama",
-        "NYA",
-        "Osman Ayariga"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government must show how it will deliver gold refining target – Manteaw",
-      "link": "https://www.myjoyonline.com/government-must-show-how-it-will-deliver-gold-refining-target-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:30:00.000Z",
-      "summary": "Dr Steven Manteaw has urged the government to explain how it will deliver its gold refining targets, saying the ambition is achievable but the implementation roadmap remains unclear.",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr Steve Manteaw"
       ],
       "site": "https://www.myjoyonline.com/"
     },

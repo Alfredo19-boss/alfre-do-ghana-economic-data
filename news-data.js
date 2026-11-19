@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T05:18:49.849Z",
+  "updated": "2026-11-19T05:28:50.683Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Mahama demands faster port clearance to cut business costs",
+      "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:23:05.000Z",
+      "summary": "President John Dramani Mahama has tasked the Ministers of Trade and Industry and Transport to tackle delays at the country’s ports, saying inefficiencies in the movement of goods are…"
+    },
     {
       "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
       "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T15:05:08.000Z",
       "summary": "The Bank of Ghana (BoG) says it will closely examine the financing arrangements and expenditure plans under the government’s 2027 Budget to assess their potential implications for…"
-    },
-    {
-      "title": "BoG considers changes to monetary policy framework to improve credit transmission",
-      "link": "https://www.myjoyonline.com/bog-considers-changes-to-monetary-policy-framework-to-improve-credit-transmission/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T14:48:41.000Z",
-      "summary": "The Bank of Ghana (BoG) is reviewing the effectiveness of its monetary policy framework, with particular attention to how policy rate decisions translate into bank lending rates and credit…"
     }
   ]
 };
