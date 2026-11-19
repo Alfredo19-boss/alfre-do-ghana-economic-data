@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T12:44:11.352Z",
+  "updated": "2026-11-19T12:54:10.874Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Producer inflation rises to 5.2% in October 2026",
+      "link": "https://www.myjoyonline.com/producer-inflation-rises-to-5-2-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:47:16.000Z",
+      "summary": "According to the Ghana Statistical Service, the increase was led by the Mining and Quarrying sub-sector."
+    },
     {
       "title": "BoG deepens students’ understanding of central banking through MPC observership",
       "link": "https://www.myjoyonline.com/bog-deepens-students-understanding-of-central-banking-through-mpc-observership/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T18:45:35.000Z",
       "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands…"
-    },
-    {
-      "title": "Deputy Communications Minister urges action-oriented partnerships to expand satellite connectivity",
-      "link": "https://www.myjoyonline.com/deputy-communications-minister-urges-action-oriented-partnerships-to-expand-satellite-connectivity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:21:37.000Z",
-      "summary": "The Deputy Minister for Communication, Digital Technology and Innovations, Mohammed Adam Sukparu, has called for stronger partnerships among government, industry players and international…"
     }
   ]
 };

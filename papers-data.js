@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:44:13.890Z",
+  "updated": "2026-11-19T12:54:13.421Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GRA working towards joint checks at ports and border entry points, says Commissioner-General",
+      "link": "https://www.myjoyonline.com/gra-working-towards-joint-checks-at-ports-and-border-entry-points-says-commissioner-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:48:18.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says the authority is working with other agencies on a one-window system to strengthen inspections at the country’s…",
+      "categories": [
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner-General"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Producer inflation rises to 5.2% in October 2026",
+      "link": "https://www.myjoyonline.com/producer-inflation-rises-to-5-2-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:47:16.000Z",
+      "summary": "According to the Ghana Statistical Service, the increase was led by the Mining and Quarrying sub-sector.",
+      "categories": [
+        "Business",
+        "Economy",
+        "GSS",
+        "Manufacturing",
+        "Mining",
+        "PPI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "KGL Chair Alex Dadey urges Africa to build globally competitive, trans-generational businesses",
       "link": "https://www.myjoyonline.com/kgl-chair-alex-dadey-urges-africa-to-build-globally-competitive-trans-generational-businesses/",
@@ -41,9 +70,9 @@ window.GDC_PAPERS = {
       "summary": "Ghana has a new law governing investment. The Ghana Investment Promotion Authority Act, 2026 (Act 1173) received presidential assent on 15th July, 2026 and replaces the Ghana Investment…",
       "categories": [
         "Analysis",
+        "Features",
+        "In Focus",
         "National",
-        "News",
-        "Opinion",
         "Ghana",
         "Ghana Investment Promotion Authority (GIPA)",
         "GIPA",
@@ -104,37 +133,6 @@ window.GDC_PAPERS = {
         "Anthony Kwasi Sarpong",
         "GRA Commissioner General",
         "Toyota Voxy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG deepens students’ understanding of central banking through MPC observership",
-      "link": "https://www.myjoyonline.com/bog-deepens-students-understanding-of-central-banking-through-mpc-observership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:20:54.000Z",
-      "summary": "The exercise formed part of the third edition of the Monetary Policy Committee (MPC) Educational Observership Programme.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "BoG",
-        "GCTU",
-        "Methodist University",
-        "MPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GETFund to invest GH¢1.1bn in local furniture production for technical schools – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/getfund-to-invest-gh%c2%a21-1bn-in-local-furniture-production-for-technical-schools-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:14:36.000Z",
-      "summary": "Education Minister Haruna Iddrisu says the government intends to channel about GH¢1.1 billion from the Ghana Education Trust Fund (GETFund) allocation to support selected technical…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "GETFund",
-        "Haruna Iddrisu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
