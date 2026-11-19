@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T13:44:11.378Z",
+  "updated": "2026-11-19T13:54:11.288Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -83,6 +83,13 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-19T11:07:10.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has intensified its Value Added Tax (VAT) compliance checks on businesses and urged consumers to demand invoices for purchases to improve revenue…"
+    },
+    {
+      "title": "New AAG President, Russel Eni, pledges to tackle illegal billboards and raise professional standards",
+      "link": "https://www.myjoyonline.com/new-aag-president-russel-eni-pledges-to-tackle-illegal-billboards-and-raise-professional-standards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:00:00.000Z",
+      "summary": "The newly elected President of the Advertising Association of Ghana (AAG), Russel Eni, has vowed to intensify the fight against indiscriminate billboard mounting across the country. Under…"
     },
     {
       "title": "Russell Kofi Eni elected President of AAG, takes over from Andrew Ackah",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T21:28:00.000Z",
       "summary": "More than 300 policymakers, scientists, technology experts, industry leaders and international partners have gathered in Accra for the 2026 Ghana Space Conference to explore ways of…"
-    },
-    {
-      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
-      "link": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:13:32.000Z",
-      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national…"
     }
   ]
 };

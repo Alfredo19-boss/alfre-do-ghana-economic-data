@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:44:13.724Z",
+  "updated": "2026-11-19T13:54:13.807Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AG’s directive on suspects’ rights part of broader criminal justice reforms – Press Secretary",
+      "link": "https://www.myjoyonline.com/ags-directive-on-suspects-rights-part-of-broader-criminal-justice-reforms-press-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:45:48.000Z",
+      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says a new directive requiring investigative agencies to respect the rights of suspects forms…",
+      "categories": [
+        "National",
+        "News",
+        "AG",
+        "Benjamin Alpha Aidoo",
+        "criminal justice reforms"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AG directs investigative agencies to respect suspects’ rights or face sanctions",
       "link": "https://www.myjoyonline.com/ag-directs-investigative-agencies-to-respect-suspects-rights-or-face-sanctions/",
@@ -132,26 +147,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Finance Ministry defends 2025 spending cuts as necessary to restore fiscal discipline",
-      "link": "https://www.myjoyonline.com/finance-ministry-defends-2025-spending-cuts-as-necessary-to-restore-fiscal-discipline/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:10:37.000Z",
-      "summary": "The Ministry of Finance has defended the government’s sharp expenditure cuts in 2025, describing them as necessary to restore fiscal discipline after what it says was an overheated economy…",
-      "categories": [
-        "Business",
-        "Economy",
-        "National",
-        "Finance Ministry",
-        "Fiscal discipline",
-        "Spending cuts"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
       "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T12:51:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Why Ghana was able to budget, procure and receive new $60.68 million presidential jet in less than one year - Kwakye Ofosu explains",
+      "link": "https://www.graphic.com.gh/news/general-news/why-ghana-was-able-to-budget-and-procure-new-presidential-jet-in-less-than-one-year-kwakye-ofosu-explains.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T12:16:37.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -295,17 +305,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nhia-introduces-new-sanctions-regime-to-tackle-illegal-charges.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T03:00:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt backs Police human rights training manual",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-backs-police-human-rights-training-manual.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T02:51:16.000Z",
       "summary": "",
       "categories": [
         "General News"
