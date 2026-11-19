@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T05:48:51.843Z",
+  "updated": "2026-11-19T06:18:51.383Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "ONGOING ‘WONTUMI’ TRIAL: I TESTIFIED TO CLEAR MY CONSCIENCE – EX-GENERAL MANAGER OF AKONTA MINES",
+      "link": "https://ghanaiantimes.com.gh/ongoing-wontumi-trial-i-testified-to-clear-my-conscience-ex-general-manager-of-akonta-mines/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:15:15.000Z",
+      "summary": "Mr Edward Akuoko, a former General Manager of Akonta Mining Company, has told the High Court in Accra that he agreed to testify for the prosecution to tell the truth about matters within…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NACOC arrests passenger with 58 cocaine pellets swallowed before flight",
+      "link": "https://ghanaiantimes.com.gh/nacoc-arrests-passenger-with-58-cocaine-pellets-swallowed-before-flight/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:10:25.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) has arrested a 58-year-old passenger bound for India at the Accra International Airport after he was found to have swallowed 58 pellets suspected to…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Newmont, MTN, Gold Fields lead 2026 Ghana Club 100 rankings",
       "link": "https://www.myjoyonline.com/newmont-mtn-gold-fields-lead-2026-ghana-club-100-rankings/",
@@ -206,30 +230,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Patrick Boamah visits Lapaz Papaye after fire outbreak",
-      "link": "https://ghanaiantimes.com.gh/patrick-boamah-visits-lapaz-papaye-after-fire-outbreak/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T16:54:10.000Z",
-      "summary": "The Member of Parliament for Okaikwei Central, Patrick Yaw Boamah, has visited the premises of Papaye at Lapaz following a fire outbreak to assess the extent of damage. The MP visited the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bawumia pledges major boost for Ghana’s film industry",
-      "link": "https://ghanaiantimes.com.gh/bawumia-pledges-major-boost-for-ghanas-film-industry/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T16:50:03.000Z",
-      "summary": "Former Vice President, Dr. Mahamudu Bawumia, has met with representatives of Ghana’s film industry as part of his ongoing stakeholder engagements, where filmmakers spoke frankly about the…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
