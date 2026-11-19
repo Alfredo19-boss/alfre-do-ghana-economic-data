@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:33:43.841Z",
+  "updated": "2026-11-19T12:44:13.890Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,65 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "KGL Chair Alex Dadey urges Africa to build globally competitive, trans-generational businesses",
+      "link": "https://www.myjoyonline.com/kgl-chair-alex-dadey-urges-africa-to-build-globally-competitive-trans-generational-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:41:27.000Z",
+      "summary": "Executive Chairman of KGL Group, Alex Apau Dadey, has called for a stronger focus on building large, globally competitive and trans-generational African businesses, arguing that their…",
+      "categories": [
+        "National",
+        "Alex Dadey",
+        "KGL Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Investing in Ghana under the Ghana investment promotion authority act, 2026: What investors need to know",
+      "link": "https://www.myjoyonline.com/investing-in-ghana-under-the-ghana-investment-promotion-authority-act-2026-what-investors-need-to-know/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:36:26.000Z",
+      "summary": "Ghana has a new law governing investment. The Ghana Investment Promotion Authority Act, 2026 (Act 1173) received presidential assent on 15th July, 2026 and replaces the Ghana Investment…",
+      "categories": [
+        "Analysis",
+        "National",
+        "News",
+        "Opinion",
+        "Ghana",
+        "Ghana Investment Promotion Authority (GIPA)",
+        "GIPA",
+        "Investment",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Crimean Bridge attacked again, Russia says",
+      "link": "https://www.myjoyonline.com/crimean-bridge-attacked-again-russia-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:33:54.000Z",
+      "summary": "The Crimean Bridge has been attacked by Ukraine for the third time this week, Russia has said.",
+      "categories": [
+        "International",
+        "Crimean bridge",
+        "Russia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Disqualified NDC youth organiser challenges NDC Appeals Committee over disqualification from youth organiser race",
+      "link": "https://www.myjoyonline.com/disqualified-ndc-youth-organiser-challenges-ndc-appeals-committee-over-disqualification-from-youth-organiser-race/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:30:22.000Z",
+      "summary": "Disqualified National Democratic Congress (NDC) National Youth Organiser aspirant, Najeeb Yahaya, has expressed disappointment over the party's Appeals Committee decision to prevent him…",
+      "categories": [
+        "National",
+        "Politics",
+        "Appeals Committee",
+        "NDC Youth Organiser"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
       "link": "https://www.myjoyonline.com/google-rejects-uk-request-for-russell-brand-youtube-video-to-be-removed-sources-say-2/",
@@ -76,66 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "GETFund",
         "Haruna Iddrisu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daniel Amokachi: FIFA nominates former Super Eagles star to Nigeria Football Federation Normalisation Committee",
-      "link": "https://www.myjoyonline.com/daniel-amokachi-fifa-nominates-former-super-eagles-star-to-nigeria-football-federation-normalisation-committee/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:08:40.000Z",
-      "summary": "FIFA has nominated former Nigeria international, Daniel Amokachi, to a five-member Normalisation Committee to oversee the reform of the Nigerian Football Federation (NFF). Amokachi’s…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "CAF",
-        "Daniel Amokachi",
-        "FIFA",
-        "Nigeria Football Federation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Survivors of Uganda’s deadly landslide seek justice at the UN",
-      "link": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:04:36.000Z",
-      "summary": "Survivors of a 2019 landslide in eastern Uganda that killed more than 50 people have taken their fight for relocation and compensation to the United Nations.",
-      "categories": [
-        "Africa",
-        "Uganda",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EY commends 2027 Budget but says its value depends on disciplined execution, measurable outcomes",
-      "link": "https://www.myjoyonline.com/ey-commends-2027-budget-but-says-its-value-depends-on-disciplined-execution-measurable-outcomes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:02:11.000Z",
-      "summary": "Commenting on the 2027 Budget, the Country Managing Partner, Emmanuel Adekhalor, said the ambition is clear, but delivery will be the ultimate test.",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "Emmanuel Adekhalor",
-        "EY",
-        "macro-economic stability",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dead dolphin washed ashore at Kedzikope in Keta",
-      "link": "https://www.myjoyonline.com/dead-dolphin-washed-ashore-at-kedzikope-in-keta/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:01:46.000Z",
-      "summary": "A dolphin has been washed ashore at Kedzikope, a coastal community in the Keta Municipality of the Volta Region.",
-      "categories": [
-        "Regional",
-        "Dolphin",
-        "Kedzikope beach"
       ],
       "site": "https://www.myjoyonline.com/"
     },
