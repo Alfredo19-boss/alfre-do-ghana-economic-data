@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T10:34:14.261Z",
+  "updated": "2026-11-19T10:44:14.392Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "No evidence 5-year-old boy’s brain tumour is cancerous – Korle bu Board Chair says after a JoyNews report",
+      "link": "https://www.myjoyonline.com/no-evidence-5-year-old-boys-brain-tumour-is-cancerous-korle-bu-board-chair-says-after-a-joynews-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:34:33.000Z",
+      "summary": "The Board Chairman of the Korle Bu Teaching Hospital, Professor Titus Beyuo, says medical assessments have found no evidence that the brain tumour affecting a five-year-old boy is cancerous.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Korle Bu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Meteo forecasts sunny skies and isolated thunderstorms for today",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-meteo-forecasts-sunny-skies-and-isolated-thunderstorms-for-today.html",
@@ -137,19 +150,6 @@ window.GDC_PAPERS = {
         "Technology",
         "30th anniversary",
         "MTN Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Today’s front pages: Thursday, November 19, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-19-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:16:58.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
     },
