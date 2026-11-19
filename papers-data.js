@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T10:14:13.899Z",
+  "updated": "2026-11-19T10:34:14.261Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Meteo forecasts sunny skies and isolated thunderstorms for today",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-meteo-forecasts-sunny-skies-and-isolated-thunderstorms-for-today.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T10:25:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Stanley Menzo appointed Kotoko head coach",
       "link": "https://www.myjoyonline.com/stanley-menzo-appointed-kotoko-head-coach/",
@@ -301,17 +312,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-perez-chapel-donates-to-tamale-ame-zion-primary-school.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T02:47:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parents urged to supervise children’s internet use",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parents-urged-to-supervise-childrens-internet-use.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T02:43:59.000Z",
       "summary": "",
       "categories": [
         "General News"
