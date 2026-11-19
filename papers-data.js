@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T01:33:30.541Z",
+  "updated": "2026-11-19T01:43:54.731Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -80,6 +80,31 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Former Spain midfielder Juan Mata retires aged 38",
+      "link": "https://www.myjoyonline.com/former-spain-midfielder-juan-mata-retires-aged-38/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:24:00.000Z",
+      "summary": "Former Spain midfielder Juan Mata has announced his retirement at 38.",
+      "categories": [
+        "Football",
+        "Juan Mata",
+        "Spain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ukrainian FA to blame for failed drugs test – Mudryk",
+      "link": "https://www.myjoyonline.com/ukrainian-fa-to-blame-for-failed-drugs-test-mudryk/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:15:00.000Z",
+      "summary": "On-loan Tottenham winger Mykhailo Mudryk blames the Ukrainian national team's administration for his failed drugs test and subsequent ban from football.",
+      "categories": [
+        "Football",
+        "Mykhailo Mudryk"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
       "link": "https://www.myjoyonline.com/myanmar-faces-historic-genocide-verdict-at-un-court-over-rohingya-massacres/",
       "source": "MyJoyOnline",
@@ -93,43 +118,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Restoring Acheampong’s General rank would legitimise coup – Bomfeh",
-      "link": "https://www.myjoyonline.com/restoring-acheampongs-general-rank-would-legitimise-coup-bomfeh/",
+      "title": "Manchester won’t always be blue – Pochettino",
+      "link": "https://www.myjoyonline.com/manchester-wont-always-be-blue-pochettino/",
       "source": "MyJoyOnline",
-      "published": "2026-11-18T23:04:00.000Z",
-      "summary": "A senior lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh, has cautioned against efforts to reinstate the military rank of former Head of State…",
+      "published": "2026-11-18T23:05:00.000Z",
+      "summary": "Mauricio Pochettino says there is no time to waste as he sets out to restore Manchester United to being the city's most successful club.",
       "categories": [
-        "National",
-        "News",
-        "Acheampong",
-        "Coup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Acheampong inherited housing, agriculture plans – Bomfeh",
-      "link": "https://www.myjoyonline.com/acheampong-inherited-housing-agriculture-plans-bomfeh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T22:44:00.000Z",
-      "summary": "A Senior Lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh has challenged the attribution of some major development projects to the regime of former…",
-      "categories": [
-        "News",
-        "Acheampong",
-        "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It is doable’ – Steven Manteaw backs 100% local gold refining target",
-      "link": "https://www.myjoyonline.com/it-is-doable-steven-manteaw-backs-100-local-gold-refining-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T22:35:00.000Z",
-      "summary": "The co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, says Ghana can achieve its target of refining all artisanal and small-scale mining (ASM)…",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr steven Manteaw"
+        "Football",
+        "Man United",
+        "Mauricio Pochettino"
       ],
       "site": "https://www.myjoyonline.com/"
     },

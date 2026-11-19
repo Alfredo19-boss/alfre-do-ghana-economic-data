@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T01:33:27.035Z",
+  "updated": "2026-11-19T01:43:51.238Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
     {
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T00:05:30.000Z",
       "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
+    },
+    {
+      "title": "LBMA certification could unlock higher gold export values for Ghana – Manteaw",
+      "link": "https://www.myjoyonline.com/lbma-certification-could-unlock-higher-gold-export-values-for-ghana-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T22:53:00.000Z",
+      "summary": "Ghana could earn more from gold exports and access mainstream markets if it backs its local refining drive with LBMA certification, Dr Steven Manteaw said."
     },
     {
       "title": "‘It is doable’ – Steven Manteaw backs 100% local gold refining target",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T12:01:00.000Z",
       "summary": "Ghana plans to legally ring-fence all natural resource revenues for legacy infrastructure projects, replacing the petroleum-only framework with a unified law and consolidating MIIF and GIIF…"
-    },
-    {
-      "title": "Ghana Targets More Exporters as Trade Ministry Promises Support for Manufacturers",
-      "link": "https://thehighstreetjournal.com/ghana-targets-more-exporters-as-trade-ministry-promises-support-for-manufacturers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T11:37:38.000Z",
-      "summary": "Government plans to improve export access, strengthen industrial standards and tackle trade barriers as it positions Ghanaian businesses to compete in African markets."
     }
   ]
 };
