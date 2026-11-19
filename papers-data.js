@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T21:52:15.127Z",
+  "updated": "2026-11-19T22:02:13.707Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian among 21 arrested in Canada over alleged towing industry crime network",
+      "link": "https://www.myjoyonline.com/ghanaian-among-21-arrested-in-canada-over-alleged-towing-industry-crime-network/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T21:59:14.000Z",
+      "summary": "A Ghanaian is among 21 people arrested and charged in Canada following a major police investigation into alleged organised crime, violence and criminal activities within the Greater Toronto…",
+      "categories": [
+        "National",
+        "News",
+        "Canada",
+        "Ghanaian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Canada Police extend authority to publish image of 17-year-old suspect in murder of Ghanaian teen",
       "link": "https://www.myjoyonline.com/canada-police-extend-authority-to-publish-image-of-17-year-old-suspect-in-murder-of-ghanaian-teen/",
@@ -121,22 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "Mother",
         "Wode Maya"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Elect DCEs as mayors, charge assembly allowances to consolidated fund – NALAG proposes",
-      "link": "https://www.myjoyonline.com/elect-dces-as-mayors-charge-assembly-allowances-to-consolidated-fund-nalag-proposes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:55:14.000Z",
-      "summary": "The National Association of Local Authorities of Ghana (NALAG) has formally proposed the direct election of District Chief Executives (DCEs) and their redesignation as Mayors, alongside…",
-      "categories": [
-        "National",
-        "News",
-        "Consolidated Fund",
-        "DCEs",
-        "mayors",
-        "NALAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
