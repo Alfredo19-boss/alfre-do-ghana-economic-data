@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:02:15.680Z",
+  "updated": "2026-11-19T23:12:15.905Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Dram Oil’s multimillion-dollar negligence suit against Deloitte resumes in December",
+      "link": "https://www.myjoyonline.com/dram-oils-multimillion-dollar-negligence-suit-against-deloitte-resumes-in-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:03:00.000Z",
+      "summary": "The multimillion-dollar negligence suit filed by Dram Oil and Trading Limited against auditing firm Deloitte and Touche is expected to resume in December at the Commercial Division of the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Old Tafo distributes over 2,000 pieces of furniture to schools",
       "link": "https://www.myjoyonline.com/old-tafo-distributes-over-2000-pieces-of-furniture-to-schools/",
       "source": "MyJoyOnline",
@@ -32,6 +43,18 @@ window.GDC_PAPERS = {
         "Furniture",
         "Old Tafo",
         "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Judicial Service trains judges, court officials in ADR",
+      "link": "https://www.myjoyonline.com/judicial-service-trains-judges-court-officials-in-adr/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:53:00.000Z",
+      "summary": "The Judicial Service has trained selected judges, magistrates, court registrars and clerks in Court-Connected Alternative Dispute Resolution (CCADR) to strengthen the use of alternative…",
+      "categories": [
+        "National",
+        "Judicial Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -105,35 +128,6 @@ window.GDC_PAPERS = {
         "News",
         "Canada",
         "Ghanaian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Canada Police extend authority to publish image of 17-year-old suspect in murder of Ghanaian teen",
-      "link": "https://www.myjoyonline.com/canada-police-extend-authority-to-publish-image-of-17-year-old-suspect-in-murder-of-ghanaian-teen/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T21:47:43.000Z",
-      "summary": "Toronto Police have secured an extension of judicial authorisation to publicly identify a 17-year-old suspect wanted in connection with the murder of 18-year-old Ghanaian, Malik Abass, as a…",
-      "categories": [
-        "National",
-        "Cameron Marlor.",
-        "Canada",
-        "Malik Abass",
-        "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Savannah NDC Secretary calls for unity after Regional executive election",
-      "link": "https://www.myjoyonline.com/savannah-ndc-secretary-calls-for-unity-after-regional-executive-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T21:39:13.000Z",
-      "summary": "Lawyer Kudus Gbeadese, Savannah Regional Secretary of the National Democratic Congress (NDC), has urged party members in the region to put the outcome of the recent regional executive…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "NDC",
-        "Savannah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
