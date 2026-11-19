@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T02:08:53.534Z",
+  "updated": "2026-11-19T02:48:27.733Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Teenager arrested in Tamale for posing as prison officer",
+      "link": "https://www.myjoyonline.com/teenager-arrested-in-tamale-for-posing-as-prison-officer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T01:18:00.000Z",
+      "summary": "A 19-year-old man is in police custody after he was allegedly found wearing a Ghana Prisons Service uniform without authorisation at Gumbihini, a suburb of Tamale.",
+      "categories": [
+        "Crime",
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
       "link": "https://www.myjoyonline.com/russian-man-accused-of-spying-on-us-tech-defence-company-that-assists-ukraine/",
@@ -119,18 +131,6 @@ window.GDC_PAPERS = {
         "Football",
         "Juan Mata",
         "Spain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ukrainian FA to blame for failed drugs test – Mudryk",
-      "link": "https://www.myjoyonline.com/ukrainian-fa-to-blame-for-failed-drugs-test-mudryk/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:15:00.000Z",
-      "summary": "On-loan Tottenham winger Mykhailo Mudryk blames the Ukrainian national team's administration for his failed drugs test and subsequent ban from football.",
-      "categories": [
-        "Football",
-        "Mykhailo Mudryk"
       ],
       "site": "https://www.myjoyonline.com/"
     },
