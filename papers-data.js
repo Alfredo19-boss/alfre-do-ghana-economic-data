@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T02:48:27.733Z",
+  "updated": "2026-11-19T03:08:23.786Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Acheampong became General after coup, not before – Bomfeh",
+      "link": "https://www.myjoyonline.com/acheampong-became-general-after-coup-not-before-bomfeh/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:04:55.000Z",
+      "summary": "A senior lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh, has challenged calls for the restoration of the military rank of former Head of State…",
+      "categories": [
+        "News",
+        "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Teenager arrested in Tamale for posing as prison officer",
       "link": "https://www.myjoyonline.com/teenager-arrested-in-tamale-for-posing-as-prison-officer/",
@@ -118,19 +130,6 @@ window.GDC_PAPERS = {
         "Ghana at 70",
         "Inlame CEO",
         "Leadership"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Spain midfielder Juan Mata retires aged 38",
-      "link": "https://www.myjoyonline.com/former-spain-midfielder-juan-mata-retires-aged-38/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:24:00.000Z",
-      "summary": "Former Spain midfielder Juan Mata has announced his retirement at 38.",
-      "categories": [
-        "Football",
-        "Juan Mata",
-        "Spain"
       ],
       "site": "https://www.myjoyonline.com/"
     },
