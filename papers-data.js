@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T07:08:52.989Z",
+  "updated": "2026-11-19T07:18:54.558Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Charles Osei Asibey in Cairo to defend armwrestling’s retention in Africa Games",
+      "link": "https://ghanaiantimes.com.gh/charles-osei-asibey-in-cairo-to-defend-armwrestlings-retention-in-africa-games/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:17:13.000Z",
+      "summary": "Mr Charles Osei Asibey, President of Ghana Armwrestling and Africa Armwrestling, over the weekend joined major stakeholder groups in Cairo, Egypt, to participate in discussions on the…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Choose Ghana for your next investment — Chief of Staff urges investors",
+      "link": "https://ghanaiantimes.com.gh/choose-ghana-for-your-next-investment-chief-of-staff-urges-investors/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:14:22.000Z",
+      "summary": "The Chief of Staff, Dr Julius Debrah, has called on local and international investors to choose Ghana as their preferred investment destination, citing the country’s vast economic…",
+      "categories": [
+        "Business",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "BoG realigns Monetary Policy Rate to 11% amid improving economic conditions",
+      "link": "https://ghanaiantimes.com.gh/bog-realigns-monetary-policy-rate-to-11-amid-improving-economic-conditions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:10:13.000Z",
+      "summary": "The Bank of Ghana (BoG) has realigned the Monetary Policy Rate (MPR) from 14 per cent to 11 per cent amid improvements in the country’s key economic indicators, particularly inflation…",
+      "categories": [
+        "Business",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
       "link": "https://www.myjoyonline.com/govt-must-improve-spending-efficiency-prioritise-jobs-in-2027-budget-isser/",
@@ -126,18 +161,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "First National Bank’s unique approach to banking yielding results — CEO",
-      "link": "https://ghanaiantimes.com.gh/first-national-banks-unique-approach-to-banking-yielding-results-ceo/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:43:43.000Z",
-      "summary": "The Chief Executive of First National Bank, Sylvia Inkoom, says the bank’s financial performance for the nine months to September 2026 reflects the success of its business strategy and its…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Mahama urges Ghanaian businesses to take advantage of $10bn New Economy Programme",
       "link": "https://www.myjoyonline.com/mahama-urges-ghanaian-businesses-to-take-advantage-of-10bn-new-economy-programme/",
       "source": "MyJoyOnline",
@@ -151,29 +174,6 @@ window.GDC_PAPERS = {
         "President John Dramani Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GhIS demands reforms in land compensation",
-      "link": "https://ghanaiantimes.com.gh/ghis-demands-reforms-in-land-compensation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:38:43.000Z",
-      "summary": "The Ghana Institution of Surveyors (GhIS) has called for the establishment of a Land Bill Council to regulate the assessment and valuation of compensation for lands compulsorily acquired by…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dutch Minister presses Sierra Leone to extradite wanted drug lord",
-      "link": "https://ghanaiantimes.com.gh/dutch-minister-presses-sierra-leone-to-extradite-wanted-drug-lord/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:34:48.000Z",
-      "summary": "Dutch Justice Minister David van Weel has criticised Sierra Leone over its handling of the case of Jos Leijdekkers, one of Europe’s most-wanted drug traffickers, urging the country to take…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Newmont, MTN, Gold Fields lead 2026 Ghana Club 100 rankings",
