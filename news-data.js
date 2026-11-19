@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T04:48:51.030Z",
+  "updated": "2026-11-19T04:58:50.484Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Banking trailblazer Bishop Patricia Sappor named Chair of CXP Ghana Council",
+      "link": "https://www.myjoyonline.com/banking-trailblazer-bishop-patricia-sappor-named-chair-of-cxp-ghana-council/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:54:40.000Z",
+      "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council."
+    },
+    {
+      "title": "GoldBod looks beyond 2 refineries to expand local gold processing – Dr Manteaw",
+      "link": "https://www.myjoyonline.com/goldbod-looks-beyond-2-refineries-to-expand-local-gold-processing-dr-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:50:18.000Z",
+      "summary": "The Ghana Gold Board intends to work with more refineries and is considering building its own facility to expand local gold processing, Dr Steven Manteaw has said."
+    },
     {
       "title": "Government must show how it will deliver gold refining target – Manteaw",
       "link": "https://www.myjoyonline.com/government-must-show-how-it-will-deliver-gold-refining-target-manteaw/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T13:08:00.000Z",
       "summary": "The summit is designed to present Ghana's investment potential to the global business community and strengthen the country's appeal as a destination for capital"
-    },
-    {
-      "title": "There is decent work in the market for every graduate – GAMA President",
-      "link": "https://www.myjoyonline.com/there-is-decent-work-in-the-market-for-every-graduate-gama-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T13:00:00.000Z",
-      "summary": "President for Greater Accra Markets Association (GAMA), Madam Mercy Afrowa Needjan has called on young graduates to desist from chasing non-existing jobs and see the market as a place they…"
-    },
-    {
-      "title": "Ecobank Joy Business SME Fair offers businesses platform to expand market reach",
-      "link": "https://www.myjoyonline.com/ecobank-joy-business-sme-fair-offers-businesses-platform-to-expand-market-reach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:50:03.000Z",
-      "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…"
     }
   ]
 };

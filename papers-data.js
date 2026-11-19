@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:48:54.338Z",
+  "updated": "2026-11-19T04:58:53.047Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GoldBod looks beyond 2 refineries to expand local gold processing – Dr Manteaw",
+      "link": "https://www.myjoyonline.com/goldbod-looks-beyond-2-refineries-to-expand-local-gold-processing-dr-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:50:18.000Z",
+      "summary": "The Ghana Gold Board intends to work with more refineries and is considering building its own facility to expand local gold processing, Dr Steven Manteaw has said.",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr Steve Manteaw",
+        "Goldbod"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Only 13 Big Push projects reach 50% completion in two years – Amin Adam",
+      "link": "https://www.myjoyonline.com/only-13-big-push-projects-reach-50-completion-in-two-years-amin-adam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:43:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam has raised concerns about the slow progress of the government's Big Push infrastructure programme, saying only 13 projects had reached at least…",
+      "categories": [
+        "National",
+        "News",
+        "Amin Adam",
+        "Big Push"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NYA to hold maiden graduation ceremony for National Apprenticeship Programme tomorrow",
       "link": "https://www.myjoyonline.com/nya-to-hold-maiden-graduation-ceremony-for-national-apprenticeship-programme-tomorrow/",
@@ -100,32 +129,6 @@ window.GDC_PAPERS = {
         "News",
         "Godbod",
         "Gold"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Emirates boss says fuel, not demand, squeezing airline profits",
-      "link": "https://www.myjoyonline.com/emirates-boss-says-fuel-not-demand-squeezing-airline-profits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:44:00.000Z",
-      "summary": "Emirates, the Middle East's largest airline, is seeing strong demand on routes to China, Russia, and Africa, but is feeling the squeeze from high fuel prices linked to the Iran war, its…",
-      "categories": [
-        "International",
-        "Transport",
-        "Emirates"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "link": "https://www.myjoyonline.com/democrats-nominate-hakeem-jeffries-to-be-us-speaker-of-the-house/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:36:00.000Z",
-      "summary": "Democrats in the US House of Representatives officially nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first black lawmaker to lead the chamber.",
-      "categories": [
-        "International",
-        "Democrats",
-        "Hakeem Jeffries"
       ],
       "site": "https://www.myjoyonline.com/"
     },
