@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T20:22:26.071Z",
+  "updated": "2026-11-19T20:32:14.846Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,112 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
+      "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:26:51.000Z",
+      "summary": "The number of African instant payment systems rated at the entry level of a continental inclusion ranking rose to 19 this year from 15, as new systems in Liberia, Burundi and Guinea went…",
+      "categories": [
+        "Analysis",
+        "Banking and Finance",
+        "Business",
+        "HP Research 3",
+        "International",
+        "National",
+        "News",
+        "AfricaNenda",
+        "IPS",
+        "SIIPS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Interior Minister urges REGSECs to adopt proactive security management",
+      "link": "https://www.myjoyonline.com/deputy-interior-minister-urges-regsecs-to-adopt-proactive-security-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:26:07.000Z",
+      "summary": "Deputy Interior Minister Ebenezer Okletey Terlabi has urged Regional Security Councils (REGSECs) and local government authorities in the Bono, Bono East and Ahafo Regions to adopt proactive…",
+      "categories": [
+        "National",
+        "News",
+        "Deputy Interior Minister",
+        "REGSEC",
+        "security management"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "My Day, My Rights, My Future",
+      "link": "https://www.myjoyonline.com/my-day-my-rights-my-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:25:06.000Z",
+      "summary": "Have you ever woken up and wondered what a child’s day looks like? Have you paused to imagine what goes through their minds, the dreams they have, and the challenges they face? Perhaps we…",
+      "categories": [
+        "Opinion",
+        "My Future"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Engineers must stop ‘pocket building’ to prevent building collapses – Ahmed Ibrahim",
+      "link": "https://www.myjoyonline.com/engineers-must-stop-pocket-building-to-prevent-building-collapses-ahmed-ibrahim/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:25:03.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has urged engineers to uphold professional standards and resist practices that compromise the quality and safety of…",
+      "categories": [
+        "National",
+        "Ahmed Ibrahim",
+        "Engineers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Road construction diversion linked to fresh crash at Kasoa- Winneba Highway",
+      "link": "https://www.myjoyonline.com/road-construction-diversion-linked-to-fresh-crash-at-kasoa-winneba-highway/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:24:35.000Z",
+      "summary": "Several people, including students travelling to school, have sustained injuries following an accident involving a Benz Sprinter at Gomoa Potsin Junction on the Kasoa–Winneba Highway in the…",
+      "categories": [
+        "National",
+        "News",
+        "Accident",
+        "Kasoa–Winneba highway",
+        "School children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Law 101: Arrested? Detained? Denied Bail? Know Your Rights! (AG Ayine’s new directive and what it means for you)",
+      "link": "https://www.myjoyonline.com/the-law-101-arrested-detained-denied-bail-know-your-rights-ag-ayines-new-directive-and-what-it-means-for-you/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:22:57.000Z",
+      "summary": "Today, Thursday, 19th November 2026, I bring you another edition of THE LAW 101, my public legal education series. For years, we have complained about arbitrary arrests, unlawful detention…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Bail",
+        "Detention",
+        "Samson Lardy Anyenini"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cross-border real-time VAT to generate at least GH¢2.5bn in first year, GRA projects",
+      "link": "https://www.myjoyonline.com/cross-border-real-time-vat-to-generate-at-least-gh%c2%a22-5bn-in-first-year-gra-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:22:02.000Z",
+      "summary": "The full implementation of the real-time Value Added Tax (VAT) system will begin in January next year, with the Ghana Revenue Authority (GRA) expecting to generate more than GH¢2.5 billion…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Ghana Revenue Authority",
+        "KPMG Post-Budget Forum",
+        "Value Added Tax (VAT)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "24-hour economy job claims need evidence for independent verification – Bokpin",
       "link": "https://www.myjoyonline.com/24-hour-economy-job-claims-need-evidence-for-independent-verification-bokpin/",
       "source": "MyJoyOnline",
@@ -32,120 +138,6 @@ window.GDC_PAPERS = {
         "24-hour economy",
         "Godfred Bokpin",
         "Jobs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samson’s Take: AG Ayine’s Directive: May this signal the end of the familiar abuses!",
-      "link": "https://www.myjoyonline.com/samsons-take-ag-ayines-directive-may-this-signal-the-end-of-the-familiar-abuses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:09:05.000Z",
-      "summary": "Today, Thursday, 19th November, 2026, is one of those days when I write and publish Samson’s Take ahead of Saturday. For years, we have complained about arbitrary arrests, unlawful…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "arbitrary arrests",
-        "Attorney-General",
-        "Bail",
-        "Detention",
-        "Samson Lardy Anyenini",
-        "Samson's Take"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG blacklists Cedi Trust, SikaPadi, 17 other loan apps over privacy violations",
-      "link": "https://www.myjoyonline.com/bog-blacklists-cedi-trust-sikapadi-17-other-loan-apps-over-privacy-violations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:06:12.000Z",
-      "summary": "The Bank of Ghana (BoG) has issued a public alert warning citizens against engaging with 19 digital credit applications operating in the country without the requisite licence or…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "News",
-        "BoG",
-        "Cedi Trust",
-        "Loan apps",
-        "privacy violations",
-        "SikaPadi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Driving Change: German Development Cooperation and partners launch partnership to increase employment opportunities for women in Ghana’s heavy transport and mining sectors",
-      "link": "https://www.myjoyonline.com/driving-change-german-development-cooperation-and-partners-launch-partnership-to-increase-employment-opportunities-for-women-in-ghanas-heavy-transport-and-mining-sectors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:00:37.000Z",
-      "summary": "The German Development Cooperation and Scania West Africa have joined hands to improve professional opportunities and employability of women in Ghana’s heavy transport sector with a…",
-      "categories": [
-        "International",
-        "National",
-        "News",
-        "Transport",
-        "German Development Cooperation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Apam, Aggrey Memorial SHS students among passengers injured in Kasoa-Winneba Highway crash",
-      "link": "https://www.myjoyonline.com/apam-aggrey-memorial-shs-students-among-passengers-injured-in-kasoa-winneba-highway-crash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:58:27.000Z",
-      "summary": "Students from Apam Senior High School and Aggrey Memorial Senior High School are among several passengers injured in a road crash at Gomoa Dominase Junction on the Kasoa-Winneba Highway…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "bus scrash",
-        "Gomoa Dominase",
-        "injured",
-        "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Students among passengers injured in Sprinter bus crash at Gomoa Dominase",
-      "link": "https://www.myjoyonline.com/students-among-passengers-injured-in-sprinter-bus-crash-at-gomoa-dominase/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:58:27.000Z",
-      "summary": "Students from Apam Senior High School and Aggrey Memorial Senior High School are among several passengers injured in a road crash at Gomoa Dominase Junction on the Kasoa-Winneba Highway…",
-      "categories": [
-        "National",
-        "bus scrash",
-        "Gomoa Dominase",
-        "injured",
-        "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We will be heavy on compliance to achieve 2027 tax target – GRA Boss",
-      "link": "https://www.myjoyonline.com/we-will-be-heavy-on-compliance-to-achieve-2027-tax-target-gra-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:57:31.000Z",
-      "summary": "Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has revealed that the Authority plans to place greater emphasis on compliance to help achieve its tax…",
-      "categories": [
-        "Business",
-        "Comp. Business",
-        "Economy",
-        "HP Business 1",
-        "Anthony Kwasi Sarpong",
-        "Ghana Revenue Authority (GRA)",
-        "PM Express Business Edition",
-        "tax compliance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Engage us in affordable housing projects – IET-Ghana tells government",
-      "link": "https://www.myjoyonline.com/engage-us-in-big-push-projects-iet-ghana-tells-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:45:45.000Z",
-      "summary": "The Institution of Engineering and Technology, Ghana (IET-Ghana), has called on the government to actively engage local engineering professionals in the implementation of major national…",
-      "categories": [
-        "National",
-        "Big Push projects",
-        "IET-Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T20:22:19.382Z",
+  "updated": "2026-11-19T20:32:12.892Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Cross-border real-time VAT to generate at least GH¢2.5bn in first year, GRA projects",
+      "link": "https://www.myjoyonline.com/cross-border-real-time-vat-to-generate-at-least-gh%c2%a22-5bn-in-first-year-gra-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:22:02.000Z",
+      "summary": "The full implementation of the real-time Value Added Tax (VAT) system will begin in January next year, with the Ghana Revenue Authority (GRA) expecting to generate more than GH¢2.5 billion…"
+    },
     {
       "title": "BoG blacklists Cedi Trust, SikaPadi, 17 other loan apps over privacy violations",
       "link": "https://www.myjoyonline.com/bog-blacklists-cedi-trust-sikapadi-17-other-loan-apps-over-privacy-violations/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-17T13:12:17.000Z",
       "summary": "More than 15 million internal files. Emails from senior executives. Secret risk assessments. Suspicious transaction reports. Private information about billionaires, oligarchs, politicians…"
-    },
-    {
-      "title": "CIB Ghana, GhISP strengthen SME financing capacity among financial institutions in Kumasi and surrounding areas",
-      "link": "https://www.myjoyonline.com/cib-ghana-ghisp-strengthen-sme-financing-capacity-among-financial-institutions-in-kumasi-and-surrounding-areas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:05:45.000Z",
-      "summary": "Efforts to strengthen access to appropriate financing for businesses across Ghana received further support as the Ghana Investment Support Programme (GhISP) and Chartered Institute of…"
     }
   ]
 };
