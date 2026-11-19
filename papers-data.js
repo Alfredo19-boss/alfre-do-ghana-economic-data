@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:12:19.139Z",
+  "updated": "2026-11-19T19:22:14.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "link": "https://www.myjoyonline.com/myanmar-committed-genocide-against-rohingya-minority-top-un-court-rules/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:14:31.000Z",
+      "summary": "A three-year-old girl who was reported missing in the Ejura Zongo community in the Ashanti Region has been found dead inside a parked vehicle.",
+      "categories": [
+        "International",
+        "Myanmar",
+        "Rohingya",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pru-East MP links recurring typhoid cases to broken water system, calls for urgent rehabilitation",
+      "link": "https://www.myjoyonline.com/pru-east-mp-links-recurring-typhoid-cases-to-broken-water-system-calls-for-urgent-rehabilitation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:13:38.000Z",
+      "summary": "The Member of Parliament for Pru-East, Emmanuel Kwaku Boam, has told Parliament that typhoid is ravaging communities in his constituency due to lack of access to potable water.",
+      "categories": [
+        "Health",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "IET-Ghana honours Adom News journalist Kodwo Mensah Aboroampa at 40th anniversary",
       "link": "https://www.myjoyonline.com/iet-ghana-honours-adom-news-journalist-kodwo-mensah-aboroampa-at-40th-anniversary/",
@@ -106,21 +132,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The 24-hour economy the NDC promised has not started – Stephen Amoah",
-      "link": "https://www.myjoyonline.com/the-24-hour-economy-the-ndc-promised-has-not-started-stephen-amoah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:27:25.000Z",
-      "summary": "Former Deputy Finance Minister and Member of Parliament for Nhyaieso, Dr Stephen Amoah, says the National Democratic Congress (NDC) has yet to implement the 24-hour economy it promised…",
-      "categories": [
-        "National",
-        "News",
-        "24-hour economy",
-        "NDC",
-        "Stephen Amoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "AG issues directive to police, law enforcement agencies on due process in criminal investigations",
       "link": "https://ghanaiantimes.com.gh/ag-issues-directive-to-police-law-enforcement-agencies-on-due-process-in-criminal-investigations/",
       "source": "Ghanaian Times",
@@ -131,23 +142,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Korle Bu sends five-year-old Miguel home for further tests, schedules review for November 24",
-      "link": "https://www.myjoyonline.com/korle-bu-sends-five-year-old-miguel-home-for-further-tests-schedules-review-for-november-24/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:11:01.000Z",
-      "summary": "Five-year-old Miguel Ntsiful, whose family has paid GH¢77,561 towards his brain tumour surgery at Korle Bu Teaching Hospital, is still awaiting the procedure after doctors requested further…",
-      "categories": [
-        "Health",
-        "National",
-        "Top Story",
-        "Brain Surgery",
-        "Korle Bu",
-        "Miguel Ntsiful",
-        "Scans"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Speaker Bagbin urges African parliaments to listen to citizens",
