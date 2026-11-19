@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:42:14.034Z",
+  "updated": "2026-11-19T23:52:13.986Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GRA rejects claims lifestyle audits are overreach to meet tax targets",
+      "link": "https://www.myjoyonline.com/gra-rejects-claims-lifestyle-audits-are-overreach-to-meet-tax-targets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:49:00.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong has rejected the suggestion that the authority is resorting to lifestyle audits and other compliance measures…",
+      "categories": [
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner-General",
+        "Lifestyle audits"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Black Challenge make history with Egypt win to reach Amputee World Cup semi-finals",
       "link": "https://www.myjoyonline.com/black-challenge-make-history-with-egypt-win-to-reach-amputee-world-cup-semi-finals/",
@@ -111,19 +125,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Judicial Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA vows accountability for officers who fail at ports",
-      "link": "https://www.myjoyonline.com/gra-vows-accountability-for-officers-who-fail-at-ports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:45:00.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says officers responsible for failures at the country’s ports will be held accountable if investigations show they…",
-      "categories": [
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner-General"
       ],
       "site": "https://www.myjoyonline.com/"
     },
