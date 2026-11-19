@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:52:16.316Z",
+  "updated": "2026-11-19T20:02:16.320Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Students among passengers injured in Sprinter bus crash at Gomoa Dominase",
+      "link": "https://www.myjoyonline.com/students-among-passengers-injured-in-sprinter-bus-crash-at-gomoa-dominase/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:58:27.000Z",
+      "summary": "Students from Apam Senior High School and Aggrey Memorial Senior High School are among several passengers injured in a road crash at Gomoa Dominase Junction on the Kasoa-Winneba Highway…",
+      "categories": [
+        "National",
+        "bus scrash",
+        "Gomoa Dominase",
+        "injured",
+        "Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We will be heavy on compliance to achieve 2027 tax target – GRA Boss",
+      "link": "https://www.myjoyonline.com/we-will-be-heavy-on-compliance-to-achieve-2027-tax-target-gra-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:57:31.000Z",
+      "summary": "Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has revealed that the Authority plans to place greater emphasis on compliance to help achieve its tax…",
+      "categories": [
+        "Business",
+        "Comp. Business",
+        "Economy",
+        "HP Business 1",
+        "Anthony Kwasi Sarpong",
+        "Ghana Revenue Authority (GRA)",
+        "PM Express Business Edition",
+        "tax compliance"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Engage us in affordable housing projects – IET-Ghana tells government",
       "link": "https://www.myjoyonline.com/engage-us-in-big-push-projects-iet-ghana-tells-government/",
@@ -106,34 +139,6 @@ window.GDC_PAPERS = {
         "Health",
         "HP News 8",
         "National"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IET-Ghana honours Adom News journalist Kodwo Mensah Aboroampa at 40th anniversary",
-      "link": "https://www.myjoyonline.com/iet-ghana-honours-adom-news-journalist-kodwo-mensah-aboroampa-at-40th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:08:59.000Z",
-      "summary": "Adom News journalist Kodwo Mensah Aboroampa (Amos Kwofie) of the Multimedia Group has been honoured by the Institution of Engineering and Technology, Ghana (IET-GH), in recognition of his…",
-      "categories": [
-        "National",
-        "40th anniversary",
-        "IET-Ghana",
-        "Kodwo Mensah Aboroampa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "120,000 jobs from palm oil project within 2 years sounds unrealistic – Stephen Amoah",
-      "link": "https://www.myjoyonline.com/120000-jobs-from-palm-oil-project-within-2-years-sounds-unrealistic-stephen-amoah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:06:42.000Z",
-      "summary": "Member of Parliament for Nhyaieso and former Deputy Finance Minister, Dr Stephen Amoah, has questioned the government's claim that its palm oil project has created 120,000 jobs within two…",
-      "categories": [
-        "Agribusiness",
-        "Jobs",
-        "palm oil project",
-        "Stephen Amoah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
