@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:54:15.021Z",
+  "updated": "2026-11-19T15:03:51.049Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "KGL Group boss calls for more African businesses to scale into global corporations",
+      "link": "https://www.myjoyonline.com/kgl-group-boss-calls-for-more-african-businesses-to-scale-into-global-corporations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:54:37.000Z",
+      "summary": "KGL Group Executive Chairman Alex Apau Dadey has called for deliberate efforts to build large, globally competitive and trans-generational African businesses, arguing that their growth is…",
+      "categories": [
+        "Africa",
+        "Business",
+        "National",
+        "African Businesses",
+        "Alex Apau Dadey",
+        "KGL Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPP should remain in opposition to learn how to manage economy- Ricketts-Hagan",
       "link": "https://ghanaiantimes.com.gh/npp-should-remain-in-opposition-to-learn-how-to-manage-economy-ricketts-hagan/",
@@ -43,6 +59,21 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Housing Minister calls for dedicated housing bank to tackle Ghana’s widening housing deficit",
+      "link": "https://www.myjoyonline.com/housing-minister-calls-for-dedicated-housing-bank-to-tackle-ghanas-widening-housing-deficit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:50:13.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for the establishment of a dedicated housing development bank to improve access to long-term financing for…",
+      "categories": [
+        "HP Business 6",
+        "Real Estate",
+        "Housing and Water Resources",
+        "Housing Minister",
+        "Minister for Works"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Bawumia hosted in Berlin by CDU, Konrad Adenauer Stiftung for talks on jobs, governance",
@@ -201,34 +232,6 @@ window.GDC_PAPERS = {
         "National",
         "MMDCE",
         "Nana Ato Arthur"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Declare state of emergency in galamsey hotspots – Catholic Bishops to Mahama",
-      "link": "https://www.myjoyonline.com/declare-state-of-emergency-in-galamsey-hotspots-catholic-bishops-to-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:22:32.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference (GCBC) has called on President John Dramani Mahama to declare a targeted state of emergency in areas severely affected by illegal mining, popularly…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "Mahama",
-        "State of Emergency"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Twifo Hemang residents demand ECG action over high electricity bills",
-      "link": "https://www.myjoyonline.com/twifo-hemang-residents-demand-ecg-action-over-high-electricity-bills/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:16:54.000Z",
-      "summary": "Residents of Twifo Hemang in the Central Region have called on the Electricity Company of Ghana (ECG) to address concerns over high electricity bills, discrepancies in meter details and…",
-      "categories": [
-        "National",
-        "Regional",
-        "ECG",
-        "Twifo Hemang"
       ],
       "site": "https://www.myjoyonline.com/"
     },

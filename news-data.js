@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T14:54:11.889Z",
+  "updated": "2026-11-19T15:03:45.615Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Ghana’s mineral wealth: From extraction to local refining. The 2030 ambition",
+      "link": "https://www.myjoyonline.com/ghanas-mineral-wealth-from-extraction-to-local-refining-the-2030-ambition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:01:51.000Z",
+      "summary": "The manganese mine at Nsuta, in Ghana's Western Region, has been shipping ore since 1916. More than a century later, the rock still leaves the country the way it comes out of the ground…"
+    },
+    {
+      "title": "KGL Group boss calls for more African businesses to scale into global corporations",
+      "link": "https://www.myjoyonline.com/kgl-group-boss-calls-for-more-african-businesses-to-scale-into-global-corporations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:54:37.000Z",
+      "summary": "KGL Group Executive Chairman Alex Apau Dadey has called for deliberate efforts to build large, globally competitive and trans-generational African businesses, arguing that their growth is…"
+    },
     {
       "title": "Housing Minister calls for dedicated housing bank to tackle Ghana’s widening housing deficit",
       "link": "https://www.myjoyonline.com/housing-minister-calls-for-dedicated-housing-bank-to-tackle-ghanas-widening-housing-deficit/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T05:02:00.000Z",
       "summary": "Burkina Faso’s cattle export ban has disrupted supplies to Kumasi Abattoir, threatening butchers’ livelihoods, abattoir revenue and affordable meat availability as traders warn of higher…"
-    },
-    {
-      "title": "Ghana Urged to Revive GSTS Education Model as Graduate Job Concerns Grow",
-      "link": "https://thehighstreetjournal.com/ghana-urged-to-revive-gsts-education-model-as-graduate-job-concerns-grow/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:01:00.000Z",
-      "summary": "GSTS alumni want government to revive and modernise the school's blend of academic and technical education, citing graduate employment concerns and Ghana's industrial ambitions."
-    },
-    {
-      "title": "Ghana Scouts Align National, Regional Leadership Structures to Drive Strategic Plan",
-      "link": "https://thehighstreetjournal.com/ghana-scouts-align-national-regional-leadership-structures-to-drive-strategic-plan/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:00:00.000Z",
-      "summary": "Ghana Scout Association brings national executives and regional leaders together to improve coordination and drive implementation of its strategic plan nationwide."
     }
   ]
 };
