@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T19:02:16.922Z",
+  "updated": "2026-11-19T19:12:13.237Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "120,000 jobs from palm oil project within 2 years sounds unrealistic – Stephen Amoah",
+      "link": "https://www.myjoyonline.com/120000-jobs-from-palm-oil-project-within-2-years-sounds-unrealistic-stephen-amoah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:06:42.000Z",
+      "summary": "Member of Parliament for Nhyaieso and former Deputy Finance Minister, Dr Stephen Amoah, has questioned the government's claim that its palm oil project has created 120,000 jobs within two…"
+    },
     {
       "title": "Ghana Club 100 Expands Recognition as GIPA Introduces New Investment Awards",
       "link": "https://thehighstreetjournal.com/ghana-club-100-expands-recognition-as-gipa-introduces-new-investment-awards/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T10:44:21.000Z",
       "summary": "The Ghana Tourism Authority (GTA) has shut down more than 20 hotels and restaurants operating within the Kumasi and Konongo enclaves in the Ashanti Region for operating without valid…"
-    },
-    {
-      "title": "PwC urges Fiscal and Monetary Policy balance to sustain Ghana’s economic stability",
-      "link": "https://www.myjoyonline.com/pwc-urges-fiscal-and-monetary-policy-balance-to-sustain-ghanas-economic-stability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:30:23.000Z",
-      "summary": "PwC Country Senior Partner, George Arhin, has urged government to maintain a careful balance between fiscal and monetary policies to sustain Ghana’s improving economic stability while…"
     }
   ]
 };

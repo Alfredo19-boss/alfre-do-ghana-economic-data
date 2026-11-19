@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:02:23.982Z",
+  "updated": "2026-11-19T19:12:19.139Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "IET-Ghana honours Adom News journalist Kodwo Mensah Aboroampa at 40th anniversary",
+      "link": "https://www.myjoyonline.com/iet-ghana-honours-adom-news-journalist-kodwo-mensah-aboroampa-at-40th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:08:59.000Z",
+      "summary": "Adom News journalist Kodwo Mensah Aboroampa (Amos Kwofie) of the Multimedia Group has been honoured by the Institution of Engineering and Technology, Ghana (IET-GH), in recognition of his…",
+      "categories": [
+        "National",
+        "40th anniversary",
+        "IET-Ghana",
+        "Kodwo Mensah Aboroampa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "120,000 jobs from palm oil project within 2 years sounds unrealistic – Stephen Amoah",
+      "link": "https://www.myjoyonline.com/120000-jobs-from-palm-oil-project-within-2-years-sounds-unrealistic-stephen-amoah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:06:42.000Z",
+      "summary": "Member of Parliament for Nhyaieso and former Deputy Finance Minister, Dr Stephen Amoah, has questioned the government's claim that its palm oil project has created 120,000 jobs within two…",
+      "categories": [
+        "Agribusiness",
+        "Jobs",
+        "palm oil project",
+        "Stephen Amoah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Affairs Ministry urges Ghanaian travellers to Côte d’Ivoire to register online 24 hours before arrival",
+      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-urges-ghanaian-travellers-to-cote-divoire-to-register-online-24-hours-before-arrival/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:02:53.000Z",
+      "summary": "The Ministry of Foreign Affairs has urged Ghanaian travellers heading to Côte d’Ivoire, including those transiting through the country, to complete a mandatory online registration at least…",
+      "categories": [
+        "National",
+        "Côte d’Ivoire",
+        "Ebola Virus Disease",
+        "Ghanaian travellers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
       "link": "https://www.myjoyonline.com/men-guilty-of-abusing-woman-drugged-and-advertised-for-sex-by-husband/",
@@ -108,21 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "8 best sites to sell Sephora, Foot Locker and other gift cards for cash in Ghana (2027)",
-      "link": "https://www.myjoyonline.com/8-best-sites-to-sell-sephora-foot-locker-and-other-gift-cards-for-cash-in-ghana-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:10:59.000Z",
-      "summary": "Gift cards are fast becoming the most convenient way to send money, reward friends, or shop internationally. Retail gift cards like Sephora, Foot Locker, among others, are especially…",
-      "categories": [
-        "News",
-        "Foot Locker",
-        "Ghana",
-        "Gift cards",
-        "Sephora"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Speaker Bagbin urges African parliaments to listen to citizens",
       "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-urges-african-parliaments-to-listen-to-citizens.html",
       "source": "Daily Graphic",
@@ -132,45 +159,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "‘Attempting to bribe me is an insult to my intelligence’ – Manasseh Azure",
-      "link": "https://www.myjoyonline.com/attempting-to-bribe-me-is-an-insult-to-my-intelligence-manasseh-azure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T17:52:35.000Z",
-      "summary": "Investigative journalist Manasseh Azure has opened up about attempts by individuals to bribe him in the course of his work, insisting that he has never accepted money to suppress a story.",
-      "categories": [
-        "In Focus",
-        "National",
-        "News",
-        "bribe",
-        "Manasseh Azure"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amelley Djosu: Ghana’s creative industry needs more than creative leaders",
-      "link": "https://www.myjoyonline.com/amelley-djosu-ghanas-creative-industry-needs-more-than-creative-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T17:46:54.000Z",
-      "summary": "We must stop treating creative credibility and executive competence as though they are interchangeable. They are complementary, but they are not the same thing.",
-      "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Events",
-        "HP Entertainment 3",
-        "HP Opinion 1",
-        "Movies",
-        "Music",
-        "National",
-        "Opinion",
-        "Theatre",
-        "Travel and Tourism",
-        "Amelley Djosu",
-        "Creative Industry",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Attorney-General to law enforcement: Comply strictly with suspects' constitutional rights",
