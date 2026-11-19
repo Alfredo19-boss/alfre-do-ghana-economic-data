@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T01:14:02.463Z",
+  "updated": "2026-11-19T01:24:00.860Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -79,6 +79,34 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Restoring Acheampong’s General rank would legitimise coup – Bomfeh",
+      "link": "https://www.myjoyonline.com/restoring-acheampongs-general-rank-would-legitimise-coup-bomfeh/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:04:00.000Z",
+      "summary": "A senior lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh, has cautioned against efforts to reinstate the military rank of former Head of State…",
+      "categories": [
+        "National",
+        "News",
+        "Acheampong",
+        "Coup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana must curb gold smuggling to achieve 2028 refining target – Manteaw",
+      "link": "https://www.myjoyonline.com/ghana-must-curb-gold-smuggling-to-achieve-2028-refining-target-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T22:13:00.000Z",
+      "summary": "Ghana must curb gold smuggling and expand its refinery infrastructure to meet the government’s 2028 target of refining all artisanal and small-scale mining (ASM) gold locally, GHEITI…",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr. Steven Manteaw"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Zverev to defend himself against fresh lawsuit",
       "link": "https://www.myjoyonline.com/zverev-to-defend-himself-against-fresh-lawsuit/",
       "source": "MyJoyOnline",
@@ -101,32 +129,6 @@ window.GDC_PAPERS = {
         "ATP Finals",
         "Carlos Alcaraz",
         "Frances Tiafoe"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "English FA explored legal challenge to Infantino staying on",
-      "link": "https://www.myjoyonline.com/english-fa-explored-legal-challenge-to-infantino-staying-on/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:33:00.000Z",
-      "summary": "The English Football Association has considered challenging Gianni Infantino's eligibility to run for a fourth term as FIFA president, BBC Sport can reveal.",
-      "categories": [
-        "Football",
-        "English FA",
-        "Gianni Infantino"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two remanded over murder of woman at Dormabin",
-      "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-at-dormabin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:22:00.000Z",
-      "summary": "The Dambai Magistrate Court has remanded two persons for their alleged involvement in the murder of Rejoice Sena Akpaku.",
-      "categories": [
-        "Crime",
-        "Dormabin",
-        "Murder"
       ],
       "site": "https://www.myjoyonline.com/"
     },
