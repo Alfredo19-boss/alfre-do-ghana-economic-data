@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T20:32:12.892Z",
+  "updated": "2026-11-19T20:42:16.494Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
+      "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:26:51.000Z",
+      "summary": "The number of African instant payment systems rated at the entry level of a continental inclusion ranking rose to 19 this year from 15, as new systems in Liberia, Burundi and Guinea went…"
+    },
     {
       "title": "Cross-border real-time VAT to generate at least GH¢2.5bn in first year, GRA projects",
       "link": "https://www.myjoyonline.com/cross-border-real-time-vat-to-generate-at-least-gh%c2%a22-5bn-in-first-year-gra-projects/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T13:29:36.000Z",
       "summary": "Dear colleagues at the Bank of Ghana, I write to you as a fellow practitioner. In more than 20 years in PR, including my time in banking as Head of Corporate Communications, I have learnt…"
-    },
-    {
-      "title": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
-      "link": "https://www.ghanabusinessnews.com/2026/11/17/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
-      "source": "Ghana Business News",
-      "published": "2026-11-17T13:12:17.000Z",
-      "summary": "More than 15 million internal files. Emails from senior executives. Secret risk assessments. Suspicious transaction reports. Private information about billionaires, oligarchs, politicians…"
     }
   ]
 };
