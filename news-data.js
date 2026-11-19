@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T13:03:42.110Z",
+  "updated": "2026-11-19T13:13:41.381Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "EV Adoption Could Threaten Ghana’s Petroleum Revenue As NPA Commissions Study",
+      "link": "https://thehighstreetjournal.com/ev-adoption-could-threaten-ghanas-petroleum-revenue-as-npa-commissions-study/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T13:10:39.000Z",
+      "summary": "Experiences from China and Norway highlight the potential fiscal implications of the transition as Ghana assesses the future of its downstream petroleum industry."
+    },
+    {
+      "title": "Finance Ministry defends 2025 spending cuts as necessary to restore fiscal discipline",
+      "link": "https://www.myjoyonline.com/finance-ministry-defends-2025-spending-cuts-as-necessary-to-restore-fiscal-discipline/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:10:37.000Z",
+      "summary": "The Ministry of Finance has defended the government’s sharp expenditure cuts in 2025, describing them as necessary to restore fiscal discipline after what it says was an overheated economy…"
+    },
+    {
+      "title": "PwC expresses cautious optimism about New Economy programme; fiscal credibility depends on how government finances itself",
+      "link": "https://www.myjoyonline.com/pwc-expresses-cautious-optimism-about-new-economy-programme-fiscal-credibility-depends-on-how-government-finances-itself/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:07:44.000Z",
+      "summary": "In its commentary on the 2027 Budget, the accounting, auditing and consulting firm said a smaller surplus gives the government room to spend more, but it will not necessarily raise…"
+    },
     {
       "title": "Producer inflation rises to 5.2% in October 2026",
       "link": "https://www.myjoyonline.com/producer-inflation-rises-to-5-2-in-october-2026/",
@@ -64,11 +85,11 @@ window.GDC_NEWS = {
       "summary": "The Ghana Revenue Authority (GRA) has intensified its Value Added Tax (VAT) compliance checks on businesses and urged consumers to demand invoices for purchases to improve revenue…"
     },
     {
-      "title": "Russell Kofi Eni elected new President of AAG",
+      "title": "Russell Kofi Eni elected President of AAG, takes over from Andrew Ackah",
       "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T10:55:28.000Z",
-      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG). He took over from outgoing president Mr. Andrew Ackah at the association’s 35th Annual…"
+      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG), replacing Andrew Ackah who has been president since 2022. He was elected at the…"
     },
     {
       "title": "Ghana’s Public Debt Surges by GHC 128Bn in 1 Yr to Hit GHC 759Bn as Domestic Borrowing Soars",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T20:13:32.000Z",
       "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national…"
-    },
-    {
-      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
-      "link": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T20:13:25.000Z",
-      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its…"
-    },
-    {
-      "title": "GACL exposes 1,000 schoolchildren to aviation careers",
-      "link": "https://gna.org.gh/2026/11/gacl-exposes-1000-schoolchildren-to-aviation-careers/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-16T19:33:42.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
-      "link": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T18:45:35.000Z",
-      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands…"
     }
   ]
 };

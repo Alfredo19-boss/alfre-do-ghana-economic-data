@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:03:44.619Z",
+  "updated": "2026-11-19T13:13:43.723Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PwC expresses cautious optimism about New Economy programme; fiscal credibility depends on how government finances itself",
+      "link": "https://www.myjoyonline.com/pwc-expresses-cautious-optimism-about-new-economy-programme-fiscal-credibility-depends-on-how-government-finances-itself/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:07:44.000Z",
+      "summary": "In its commentary on the 2027 Budget, the accounting, auditing and consulting firm said a smaller surplus gives the government room to spend more, but it will not necessarily raise…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Capital spending",
+        "IMF",
+        "Ministry of Finance",
+        "new economy",
+        "PwC",
+        "Tax Revenue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPP-USA members seek Boadu, Bawumia intervention over election credibility concerns",
       "link": "https://www.myjoyonline.com/npp-usa-members-seek-boadu-bawumia-intervention-over-election-credibility-concerns/",
@@ -130,20 +148,6 @@ window.GDC_PAPERS = {
         "Politics",
         "Appeals Committee",
         "NDC Youth Organiser"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-      "link": "https://www.myjoyonline.com/google-rejects-uk-request-for-russell-brand-youtube-video-to-be-removed-sources-say-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:27:09.000Z",
-      "summary": "Google has refused a government request to remove a YouTube video posted by jailed rapist Russell Brand's wife in which he claims his innocence, Whitehall sources have told the BBC.",
-      "categories": [
-        "International",
-        "Google",
-        "Russell Brand YouTube",
-        "UK"
       ],
       "site": "https://www.myjoyonline.com/"
     },
