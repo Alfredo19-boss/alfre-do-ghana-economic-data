@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T01:24:00.860Z",
+  "updated": "2026-11-19T01:33:30.541Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "link": "https://www.myjoyonline.com/russian-man-accused-of-spying-on-us-tech-defence-company-that-assists-ukraine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:22:00.000Z",
+      "summary": "US investigators have arrested a Russian man who they say was recruited by Moscow to spy on employees of a technology and defence firm in California's Silicon Valley that has links to…",
+      "categories": [
+        "International",
+        "Russia",
+        "Ukraine",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Banks NPL declined to 13.1% in October 2026",
       "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
@@ -93,42 +107,29 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana must curb gold smuggling to achieve 2028 refining target – Manteaw",
-      "link": "https://www.myjoyonline.com/ghana-must-curb-gold-smuggling-to-achieve-2028-refining-target-manteaw/",
+      "title": "Acheampong inherited housing, agriculture plans – Bomfeh",
+      "link": "https://www.myjoyonline.com/acheampong-inherited-housing-agriculture-plans-bomfeh/",
       "source": "MyJoyOnline",
-      "published": "2026-11-18T22:13:00.000Z",
-      "summary": "Ghana must curb gold smuggling and expand its refinery infrastructure to meet the government’s 2028 target of refining all artisanal and small-scale mining (ASM) gold locally, GHEITI…",
+      "published": "2026-11-18T22:44:00.000Z",
+      "summary": "A Senior Lecturer at the University of Professional Studies, Accra (UPSA), Dr James Kwabena Bomfeh has challenged the attribution of some major development projects to the regime of former…",
+      "categories": [
+        "News",
+        "Acheampong",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It is doable’ – Steven Manteaw backs 100% local gold refining target",
+      "link": "https://www.myjoyonline.com/it-is-doable-steven-manteaw-backs-100-local-gold-refining-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T22:35:00.000Z",
+      "summary": "The co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, says Ghana can achieve its target of refining all artisanal and small-scale mining (ASM)…",
       "categories": [
         "Mining",
         "National",
         "ASM Gold refining",
-        "Dr. Steven Manteaw"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Zverev to defend himself against fresh lawsuit",
-      "link": "https://www.myjoyonline.com/zverev-to-defend-himself-against-fresh-lawsuit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:53:00.000Z",
-      "summary": "Lawyers for world number one Alexander Zverev say he will defend himself against a lawsuit which alleges he misrepresented the outcome of his domestic abuse trial.",
-      "categories": [
-        "Tennis",
-        "Alexander Zverev"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alcaraz continues winning run despite injury concern",
-      "link": "https://www.myjoyonline.com/alcaraz-continues-winning-run-despite-injury-concern/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:42:00.000Z",
-      "summary": "Carlos Alcaraz continued his sensational late-season form as he outclassed world number five Daniil Medvedev to reach the knockout stage at the ATP Finals.",
-      "categories": [
-        "Tennis",
-        "ATP Finals",
-        "Carlos Alcaraz",
-        "Frances Tiafoe"
+        "Dr steven Manteaw"
       ],
       "site": "https://www.myjoyonline.com/"
     },

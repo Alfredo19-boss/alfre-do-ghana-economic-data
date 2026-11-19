@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T01:23:57.422Z",
+  "updated": "2026-11-19T01:33:27.035Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
     {
@@ -27,6 +27,20 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T00:05:30.000Z",
       "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
+    },
+    {
+      "title": "‘It is doable’ – Steven Manteaw backs 100% local gold refining target",
+      "link": "https://www.myjoyonline.com/it-is-doable-steven-manteaw-backs-100-local-gold-refining-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T22:35:00.000Z",
+      "summary": "The co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, says Ghana can achieve its target of refining all artisanal and small-scale mining (ASM)…"
+    },
+    {
+      "title": "Ghana must curb gold smuggling to achieve 2028 refining target – Manteaw",
+      "link": "https://www.myjoyonline.com/ghana-must-curb-gold-smuggling-to-achieve-2028-refining-target-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T22:13:00.000Z",
+      "summary": "Ghana must curb gold smuggling and expand its refinery infrastructure to meet the government’s 2028 target of refining all artisanal and small-scale mining (ASM) gold locally, GHEITI…"
     },
     {
       "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T11:37:38.000Z",
       "summary": "Government plans to improve export access, strengthen industrial standards and tackle trade barriers as it positions Ghanaian businesses to compete in African markets."
-    },
-    {
-      "title": "PwC Post-Budget Forum: Fitch forecasts cedi averaging GH¢12.40 in 2027",
-      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-forecasts-cedi-averaging-gh%c2%a212-40-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:20:17.000Z",
-      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
-    },
-    {
-      "title": "PwC Post-Budget Forum: Fitch Solutions forecasts cedi averaging GH¢12.40 in 2027",
-      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-fitch-solutions-forecasts-cedi-averaging-gh12-40-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:20:17.000Z",
-      "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
     }
   ]
 };
