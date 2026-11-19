@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:14:13.690Z",
+  "updated": "2026-11-19T12:24:15.441Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Toyota Voxy: GRA says Customs refers restricted imports to specialist agencies",
+      "link": "https://www.myjoyonline.com/toyota-voxy-gra-says-customs-refers-restricted-imports-to-specialist-agencies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:23:13.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says Customs refers restricted or banned imports to specialist agencies if they lack the required approvals.",
+      "categories": [
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner General",
+        "Toyota Voxy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG deepens students’ understanding of central banking through MPC observership",
+      "link": "https://www.myjoyonline.com/bog-deepens-students-understanding-of-central-banking-through-mpc-observership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:20:54.000Z",
+      "summary": "The exercise formed part of the third edition of the Monetary Policy Committee (MPC) Educational Observership Programme.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "GCTU",
+        "Methodist University",
+        "MPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GETFund to invest GH¢1.1bn in local furniture production for technical schools – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/getfund-to-invest-gh%c2%a21-1bn-in-local-furniture-production-for-technical-schools-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:14:36.000Z",
+      "summary": "Education Minister Haruna Iddrisu says the government intends to channel about GH¢1.1 billion from the Ghana Education Trust Fund (GETFund) allocation to support selected technical…",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "National",
+        "GETFund",
+        "Haruna Iddrisu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daniel Amokachi: FIFA nominates former Super Eagles star to Nigeria Football Federation Normalisation Committee",
       "link": "https://www.myjoyonline.com/daniel-amokachi-fifa-nominates-former-super-eagles-star-to-nigeria-football-federation-normalisation-committee/",
@@ -93,48 +138,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "Haruna Iddrisu",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Elon Musk says record $446m spending on US midterms was ‘pretty foolish’",
-      "link": "https://www.myjoyonline.com/elon-musk-says-record-446m-spending-on-us-midterms-was-pretty-foolish/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:58:25.000Z",
-      "summary": "Elon Musk said on Wednesday that he felt \"pretty foolish\" about the record sum he spent on the US midterm elections, following sweeping Republican defeats.",
-      "categories": [
-        "International",
-        "elon mask",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana targets first locally manufactured vaccine by 2027-NVI",
-      "link": "https://www.myjoyonline.com/ghana-targets-first-locally-manufactured-vaccine-by-2027-nvi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:56:45.000Z",
-      "summary": "Ghana is making progress towards manufacturing its first vaccine locally by 2027, with the first of three essential bulk substances required for production already in the country.",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana",
-        "NVI",
-        "Vaccine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.myjoyonline.com/israeli-military-completes-ground-operation-in-gaza-beyond-yellow-line/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:53:12.000Z",
-      "summary": "Israeli forces have completed a rare ground operation in part of central Gaza outside their control, the military says, a day after residents were ordered to evacuate.",
-      "categories": [
-        "International",
-        "Gaza",
-        "Isreal",
-        "Yellow Line"
       ],
       "site": "https://www.myjoyonline.com/"
     },
