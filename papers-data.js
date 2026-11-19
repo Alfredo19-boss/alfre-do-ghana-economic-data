@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T21:12:16.383Z",
+  "updated": "2026-11-19T21:22:15.718Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -110,7 +110,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IET-GH urges government to involve engineers in major national projects",
+      "title": "IET-Ghana urges government to involve engineers in major national projects",
       "link": "https://www.myjoyonline.com/iet-gh-urges-government-to-involve-engineers-in-major-national-projects/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T20:55:00.000Z",
