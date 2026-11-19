@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:53:44.039Z",
+  "updated": "2026-11-19T12:03:44.749Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,62 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Elon Musk says record $446m spending on US midterms was ‘pretty foolish’",
+      "link": "https://www.myjoyonline.com/elon-musk-says-record-446m-spending-on-us-midterms-was-pretty-foolish/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:58:25.000Z",
+      "summary": "Elon Musk said on Wednesday that he felt \"pretty foolish\" about the record sum he spent on the US midterm elections, following sweeping Republican defeats.",
+      "categories": [
+        "International",
+        "elon mask",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana targets first locally manufactured vaccine by 2027-NVI",
+      "link": "https://www.myjoyonline.com/ghana-targets-first-locally-manufactured-vaccine-by-2027-nvi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:56:45.000Z",
+      "summary": "Ghana is making progress towards manufacturing its first vaccine locally by 2027, with the first of three essential bulk substances required for production already in the country.",
+      "categories": [
+        "Health",
+        "National",
+        "Ghana",
+        "NVI",
+        "Vaccine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.myjoyonline.com/israeli-military-completes-ground-operation-in-gaza-beyond-yellow-line/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:53:12.000Z",
+      "summary": "Israeli forces have completed a rare ground operation in part of central Gaza outside their control, the military says, a day after residents were ordered to evacuate.",
+      "categories": [
+        "International",
+        "Gaza",
+        "Isreal",
+        "Yellow Line"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal’s coast",
+      "link": "https://www.myjoyonline.com/dozens-missing-after-boat-carrying-100-migrants-sinks-off-senegals-coast/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:52:01.000Z",
+      "summary": "Senegalese authorities are continuing search operations after a boat reportedly carrying about 100 migrants capsized off the coast.",
+      "categories": [
+        "Africa",
+        "International",
+        "Migrants",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "link": "https://www.myjoyonline.com/anthropic-raises-81bn-in-record-breaking-stock-market-debut/",
@@ -76,64 +132,6 @@ window.GDC_PAPERS = {
         "Election",
         "Eric Afeme",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deputy NDC Youth Organiser for Greater Accra dies days after election victory",
-      "link": "https://www.myjoyonline.com/deputy-ndc-youth-organiser-for-greater-accra-dies-days-after-election-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:28:45.000Z",
-      "summary": "The National Democratic Congress (NDC) has been hit by the death of its newly elected Greater Accra Deputy Regional Youth Organiser, Eric Afeme, popularly known as Agabus.",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Politics",
-        "Election",
-        "Eric Afeme",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ntim Fordjour: Instead of raiding drug cartels, security agencies stormed my home",
-      "link": "https://www.myjoyonline.com/ntim-fordjour-instead-of-raiding-drug-cartels-security-agencies-stormed-my-home/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:20:41.000Z",
-      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev. John Ntim Fordjour, has questioned the government’s commitment to fighting drug trafficking, recalling how security…",
-      "categories": [
-        "National",
-        "cartels",
-        "Ntim Fordjour",
-        "Security agencies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Korle Bu has only 8 paediatric ICU ventilators, all currently in use – Board Chair",
-      "link": "https://www.myjoyonline.com/korle-bu-has-only-8-paediatric-icu-ventilators-all-currently-in-use-board-chair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:17:22.000Z",
-      "summary": "The Korle Bu Teaching Hospital has eight paediatric intensive care unit (ICU) ventilators, all of which are currently in use, the hospital's Board Chairman, Professor Titus Beyuo, has…",
-      "categories": [
-        "Health",
-        "HP News 9",
-        "National",
-        "Korle Bu",
-        "paediatric ICU",
-        "Prof. Titus Beyuo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "France’s Philippe Diallo and Japan’s Kohzo Tashima to contest Gianni Infantino for FIFA President",
-      "link": "https://www.myjoyonline.com/frances-philippe-diallo-and-japans-kohzo-tashima-to-contest-gianni-infantino-for-fifa-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:16:10.000Z",
-      "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
-      "categories": [
-        "Football",
-        "FIFA elections"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -237,7 +235,7 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Court of Appeal adjourns trial former Buffer Stock CEO Hanan and his wife's trial indefinitely",
+      "title": "Court of Appeal adjourns former Buffer Stock CEO Hanan and his wife's trial indefinitely",
       "link": "https://www.graphic.com.gh/news/general-news/court-of-appeal-adjourns-trial-former-buffer-stock-ceo-hanan-and-his-wifes-trial-indefinitely.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T06:09:12.000Z",
