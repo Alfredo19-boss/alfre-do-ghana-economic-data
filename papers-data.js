@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T02:03:52.298Z",
+  "updated": "2026-11-19T02:08:53.534Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -31,6 +31,21 @@ window.GDC_PAPERS = {
         "Russia",
         "Ukraine",
         "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:06:00.000Z",
+      "summary": "The government’s 2027 Budget targets 100% local refining of artisanal and small-scale mining (ASM) gold by 2028. But Dr Ken Ashigbey says local refining alone will not secure premium prices…",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr Ken Ashigbey",
+        "LBMA certification"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -116,19 +131,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "Mykhailo Mudryk"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "link": "https://www.myjoyonline.com/myanmar-faces-historic-genocide-verdict-at-un-court-over-rohingya-massacres/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:11:00.000Z",
-      "summary": "When the judges of the International Court of Justice read out their verdict in the seven-year-old genocide case filed by The Gambia against Myanmar on Thursday, they could make history.",
-      "categories": [
-        "International",
-        "Rohingya",
-        "UN"
       ],
       "site": "https://www.myjoyonline.com/"
     },

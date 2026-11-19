@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T02:03:49.651Z",
+  "updated": "2026-11-19T02:08:50.180Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:06:00.000Z",
+      "summary": "The government’s 2027 Budget targets 100% local refining of artisanal and small-scale mining (ASM) gold by 2028. But Dr Ken Ashigbey says local refining alone will not secure premium prices…"
+    },
     {
       "title": "Banks NPL declined to 13.1% in October 2026",
       "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:08:39.000Z",
       "summary": "Beyond a new appearance, will Ghana’s redesigned currency deliver meaningful value to the economy and the people who use it?"
-    },
-    {
-      "title": "President of GAMA, Mercy Naa Afrowa Needjan honored as Legendary Woman at GWA ’26",
-      "link": "https://www.myjoyonline.com/president-of-gama-mercy-naa-afrowa-needjan-honored-as-legendary-woman-at-gwa-26/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:03:00.000Z",
-      "summary": "President of the Greater Accra Markets Association (GAMA), Mercy Naa Afrowa Needjan has been conferred with the highest honor of the Ghana Women Awards (GWA) as a ‘Legendary Woman’. The…"
     }
   ]
 };
