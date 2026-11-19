@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T18:52:13.715Z",
+  "updated": "2026-11-19T19:02:23.982Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+      "link": "https://www.myjoyonline.com/men-guilty-of-abusing-woman-drugged-and-advertised-for-sex-by-husband/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T18:59:01.000Z",
+      "summary": "Four men have been found guilty of sexually abusing a woman whose husband drugged and secretly advertised her for sex on the internet, in the first trial of its kind in the UK.",
+      "categories": [
+        "International",
+        "Men",
+        "Sex",
+        "Woman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trilateral summit high on spectacle, short on substance",
+      "link": "https://www.myjoyonline.com/trilateral-summit-high-on-spectacle-short-on-substance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T18:58:23.000Z",
+      "summary": "Donald Trump went into his trilateral meeting with Vladimir Putin and Xi Jinping with little on the agenda and no clear asks – and it appears that he left with little in return.",
+      "categories": [
+        "International",
+        "spectacle",
+        "trileteral"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "13 arrested over alleged impersonation, extortion at mining sites in Eastern and Western Regions",
       "link": "https://www.myjoyonline.com/13-arrested-over-alleged-impersonation-extortion-at-mining-sites-in-eastern-and-western-regions/",
@@ -146,21 +173,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Three-year-old girl found dead in parked vehicle after going missing in Ejura",
-      "link": "https://www.myjoyonline.com/three-year-old-girl-found-dead-in-parked-vehicle-after-going-missing-in-ejura/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T17:30:11.000Z",
-      "summary": "A three-year-old girl who was reported missing in the Ejura Zongo community in the Ashanti Region has been found dead inside a parked vehicle.",
-      "categories": [
-        "Crime",
-        "News",
-        "Regional",
-        "Ejura",
-        "Missing 3-year-old"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Attorney-General to law enforcement: Comply strictly with suspects' constitutional rights",
       "link": "https://www.graphic.com.gh/news/general-news/attorney-general-to-law-enforcement-comply-strictly-with-suspects-constitutional-rights.html",
       "source": "Daily Graphic",
@@ -170,21 +182,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Video: Zanetor Rawlings administers CPR to woman who collapsed at COP31",
-      "link": "https://www.myjoyonline.com/video-zanetor-rawlings-administers-cpr-to-woman-who-collapsed-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T17:28:34.000Z",
-      "summary": "Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, administered cardiopulmonary resuscitation (CPR) and basic first aid to a woman who collapsed during a meeting…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "COP31 climate conference",
-        "CPR",
-        "Dr Zanetor Agyeman-Rawlings"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "West African journalists, educators urged to prioritise fact-checking, verification",

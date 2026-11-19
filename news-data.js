@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T18:51:45.451Z",
+  "updated": "2026-11-19T19:02:16.922Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana Club 100 Expands Recognition as GIPA Introduces New Investment Awards",
+      "link": "https://thehighstreetjournal.com/ghana-club-100-expands-recognition-as-gipa-introduces-new-investment-awards/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T18:54:36.000Z",
+      "summary": "The Ghana Investment Promotion Authority (GIPA) is expanding the scope of its Ghana Club 100 programme with five new award categories aimed at recognising institutions and individuals…"
+    },
     {
       "title": "GSE Borehole Project to Improve Water Access for 1,350 pupils at Agbogba Schools",
       "link": "https://thehighstreetjournal.com/gse-borehole-project-to-improve-water-access-for-1350-pupils-at-agbogba-schools/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T10:30:23.000Z",
       "summary": "PwC Country Senior Partner, George Arhin, has urged government to maintain a careful balance between fiscal and monetary policies to sustain Ghana’s improving economic stability while…"
-    },
-    {
-      "title": "The $10Bn New Economy Paradox: Big on Paper and Speeches, But Small in Research & Dev’t Allocation",
-      "link": "https://thehighstreetjournal.com/the-10bn-new-economy-paradox-big-on-paper-and-speeches-but-small-in-research-devt-allocation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T10:00:00.000Z",
-      "summary": "IMANI's Sitsofe Mensah warns Ghana's $10 billion New Economy risks falling short as research funding remains below 0.1% of GDP, undermining the scientific, technological and innovation…"
     }
   ]
 };
