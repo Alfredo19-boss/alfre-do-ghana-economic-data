@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T09:54:12.188Z",
+  "updated": "2026-11-19T10:04:11.671Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stanley Menzo appointed Kotoko head coach",
+      "link": "https://www.myjoyonline.com/stanley-menzo-appointed-kotoko-head-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:01:19.000Z",
+      "summary": "The decision comes after Kotoko went four consecutive league matches without a win. The Porcupine Warriors currently sit 11th in the league table, with 14 points from 11 matches.",
+      "categories": [
+        "Football",
+        "National",
+        "Asante Kotoko",
+        "GPL",
+        "Stanley Menzo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Wassa group demands 10% mining equity, 2% mineral sales revenue in Takwa mines",
       "link": "https://www.myjoyonline.com/wassa-group-demands-10-mining-equity-2-mineral-sales-revenue-in-takwa-mines/",
@@ -139,21 +154,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Togo introduces 20% depreciation on customs value of used vehicles",
-      "link": "https://www.myjoyonline.com/togo-introduces-20-depreciation-on-customs-value-of-used-vehicles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:03:27.000Z",
-      "summary": "Togolese authorities have introduced a temporary 20% depreciation on the customs value of used vehicles aged over five years that are currently held under customs control, in a move to…",
-      "categories": [
-        "Africa",
-        "News",
-        "Togo",
-        "Togolease Revenue Authority (OTR)",
-        "used vehicles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Prioritise projects to maximise value for money — ISSER urges govt",
       "link": "https://ghanaiantimes.com.gh/prioritise-projects-to-maximise-value-for-money-isser-urges-govt/",
       "source": "Ghanaian Times",
@@ -242,6 +242,39 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "NDPC Chairman calls for flexible working arrangements",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ndpc-chairman-calls-for-flexible-working-arrangements.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T03:15:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Scientific research, regulation must guide traditional medicine practice - Dr Ayensu-Danquah",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-scientific-research-regulation-must-guide-traditional-medicine-practice-dr-ayensu-danquah.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T03:12:09.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Metropolis International Conference: Partnerships must be grounded in dignity, reciprocity - President",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-metropolis-international-conference-partnerships-must-be-grounded-in-dignity-reciprocity-president.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T03:05:46.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "NHIA introduces new sanctions regime - To tackle illegal charges",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nhia-introduces-new-sanctions-regime-to-tackle-illegal-charges.html",
       "source": "Daily Graphic",
@@ -253,21 +286,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Asante Akyem North MP Ohene Kwame Frimpong on why he is not contesting the US extradition decision",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-frimpong-puts-constituents-first-in-extradition-decision-lawyer.html",
+      "title": "Govt backs Police human rights training manual",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-backs-police-human-rights-training-manual.html",
       "source": "Daily Graphic",
-      "published": "2026-11-19T02:08:53.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dolphin washed ashore on Kedzikope beach",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dolphin-washed-ashore-on-kedzikope-beach.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T01:28:00.000Z",
+      "published": "2026-11-19T02:51:16.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -275,10 +297,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President Mahama condemns vigilantism against migrants",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-vigilantism-against-migrants.html",
+      "title": "Perez Chapel donates to Tamale AME Zion Primary School",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-perez-chapel-donates-to-tamale-ame-zion-primary-school.html",
       "source": "Daily Graphic",
-      "published": "2026-11-18T16:21:35.000Z",
+      "published": "2026-11-19T02:47:42.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -286,32 +308,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GHS names six regions at risk of meningitis, dehydration and heat exhaustion ahead of harmattan",
-      "link": "https://www.graphic.com.gh/news/general-news/ghs-identifies-six-regions-at-risk-of-meningitis-warns-of-dehydration-and-heat-exhaustion-ahead-of-harmattan.html",
+      "title": "Parents urged to supervise children’s internet use",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parents-urged-to-supervise-childrens-internet-use.html",
       "source": "Daily Graphic",
-      "published": "2026-11-18T15:42:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Korea, UNESCO support Ghana to strengthen water security",
-      "link": "https://www.graphic.com.gh/news/general-news/korea-unesco-support-ghana-to-strengthen-water-security.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T15:15:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fake Prison Officer nabbed: 19-year-old arrested in Tamale over unauthorised camouflage",
-      "link": "https://www.graphic.com.gh/news/general-news/fake-prison-officer-nabbed-19-year-old-arrested-in-tamale-over-unauthorised-camouflage.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T14:48:22.000Z",
+      "published": "2026-11-19T02:43:59.000Z",
       "summary": "",
       "categories": [
         "General News"

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T09:53:40.958Z",
+  "updated": "2026-11-19T10:03:41.145Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,26 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "GRA Flags VAT Infractions At Almost All 14 Shops Inspected At Achimota Retail Centre",
+      "link": "https://thehighstreetjournal.com/gra-flags-vat-infractions-at-almost-all-14-shops-inspected-at-achimota-retail-centre/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T09:45:49.000Z",
+      "summary": "The GRA has uncovered VAT infractions at almost all 14 shops inspected at Achimota Retail Centre, warning businesses to comply with invoicing, declaration and payment requirements."
+    },
+    {
+      "title": "BoG Triggers a Cost of Credit Ease with a 3 Percentage Points Cut in Policy Rate; MPR Now at 11%",
+      "link": "https://thehighstreetjournal.com/bog-triggers-a-cost-of-credit-ease-with-a-3-percentage-points-cut-in-policy-rate-mpr-now-at-11/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T08:25:37.000Z",
+      "summary": "The Bank of Ghana cut its policy rate by 300 basis points to 11%, supported by declining inflation, stronger economic activity and improved reserves, while introducing monetary reforms to…"
+    },
     {
       "title": "Absa employees promote financial inclusion through Makola Market outreach",
       "link": "https://www.myjoyonline.com/absa-employees-promote-financial-inclusion-through-makola-market-outreach/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T16:52:40.000Z",
       "summary": "Fuel prices have begun to fall at the pumps, with Star Oil reducing petrol to GH¢14.97 per litre and diesel to GH¢17.95 per litre from Monday, November 16, 2026."
-    },
-    {
-      "title": "Ghana EXIM Bank commits $12m to NADKANSCO cashew processing factory – Sylvester Mensah",
-      "link": "https://www.myjoyonline.com/ghana-exim-bank-commits-12m-to-nadkansco-cashew-processing-factory-sylvester-mensah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:51:12.000Z",
-      "summary": "The Ghana Export-Import Bank (Ghana EXIM Bank) has committed approximately $12 million to support the establishment and operations of NADCANSCO Cashew Processing Limited in Techiman."
-    },
-    {
-      "title": "Ghana produced 262,000 tonnes of cashew in 2025 but processed only 17,000 tonnes locally – EXIM Bank CEO",
-      "link": "https://www.myjoyonline.com/ghana-produced-262000-tonnes-of-cashew-in-2025-but-processed-only-17000-tonnes-locally-exim-bank-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:46:46.000Z",
-      "summary": "Ghana produced more than 262,000 metric tonnes of raw cashew nuts in 2025, but only 17,000 metric tonnes were processed locally, highlighting the country's limited capacity to add value to…"
     }
   ]
 };
