@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T04:38:51.796Z",
+  "updated": "2026-11-19T04:48:51.030Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Government must show how it will deliver gold refining target – Manteaw",
+      "link": "https://www.myjoyonline.com/government-must-show-how-it-will-deliver-gold-refining-target-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:30:00.000Z",
+      "summary": "Dr Steven Manteaw has urged the government to explain how it will deliver its gold refining targets, saying the ambition is achievable but the implementation roadmap remains unclear."
+    },
     {
       "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
       "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
@@ -41,6 +48,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T03:19:00.000Z",
       "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said."
+    },
+    {
+      "title": "‘You don’t just make promises’ – Steve Manteaw demands gold refining roadmap",
+      "link": "https://www.myjoyonline.com/you-dont-just-make-promises-steve-manteaw-demands-gold-refining-roadmap/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:33:00.000Z",
+      "summary": "The Co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, has called for a clear roadmap to deliver Ghana’s gold refining targets, saying promises…"
     },
     {
       "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:50:03.000Z",
       "summary": "Small and medium-sized enterprises (SMEs) are using the Ecobank Joy Business SME Fair to showcase their products, attract new customers and explore opportunities to expand their market…"
-    },
-    {
-      "title": "Dangote challenges Ghana to tap into West African market of 450 million people, boost local production",
-      "link": "https://www.myjoyonline.com/dangote-challenges-ghana-to-tap-into-west-african-market-of-450-million-people-boost-local-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:48:01.000Z",
-      "summary": "Nigerian business magnate Aliko Dangote has urged Ghana to look beyond its domestic market and position itself to exploit the vast commercial opportunities across West Africa, saying the…"
-    },
-    {
-      "title": "PwC Post Budget Forum: Government spending to hit 16-year high in 2027 – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/pwc-post-budget-forum-government-spending-to-hit-16-year-high-in-2027-fitch-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:37:04.000Z",
-      "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:38:54.511Z",
+  "updated": "2026-11-19T04:48:54.338Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NYA to hold maiden graduation ceremony for National Apprenticeship Programme tomorrow",
+      "link": "https://www.myjoyonline.com/nya-to-hold-maiden-graduation-ceremony-for-national-apprenticeship-programme-tomorrow/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:35:00.000Z",
+      "summary": "The National Youth Authority (NYA) is set to hold the maiden graduation ceremony for beneficiaries of the National Apprenticeship Programme (NAP) on Friday, November 20, 2026.",
+      "categories": [
+        "National",
+        "Mahama",
+        "NYA",
+        "Osman Ayariga"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government must show how it will deliver gold refining target – Manteaw",
+      "link": "https://www.myjoyonline.com/government-must-show-how-it-will-deliver-gold-refining-target-manteaw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:30:00.000Z",
+      "summary": "Dr Steven Manteaw has urged the government to explain how it will deliver its gold refining targets, saying the ambition is achievable but the implementation roadmap remains unclear.",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr Steve Manteaw"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Oil prices settle lower as traders weigh surplus supply outlook",
       "link": "https://www.myjoyonline.com/oil-prices-settle-lower-as-traders-weigh-surplus-supply-outlook/",
@@ -98,35 +126,6 @@ window.GDC_PAPERS = {
         "International",
         "Democrats",
         "Hakeem Jeffries"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
-      "link": "https://www.myjoyonline.com/hunger-games-fan-13-to-get-artwork-shown-on-cinema-screens-before-film/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:28:00.000Z",
-      "summary": "A teenage Hunger Games fan has met the cast of the new film after her artwork won a competition, meaning it will be displayed at every cinema screening across the UK.",
-      "categories": [
-        "International",
-        "Movies",
-        "Hunger Games"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Large-Scale mines to supply gold for Ghana refinery’s certification drive – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/large-scale-mines-to-supply-gold-for-ghana-refinerys-certification-drive-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:19:00.000Z",
-      "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said.",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr Ken Ashigbey",
-        "Gold",
-        "LBMA certification"
       ],
       "site": "https://www.myjoyonline.com/"
     },
