@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T03:28:23.111Z",
+  "updated": "2026-11-19T03:38:21.657Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Prof Agyeman-Duah backs Sam Jonah’s call to restore Acheampong’s rank",
+      "link": "https://www.myjoyonline.com/prof-agyeman-duah-backs-sam-jonahs-call-to-restore-acheampongs-rank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:01:16.000Z",
+      "summary": "Political historian Prof. Baffour Agyeman-Duah has thrown his support behind Sir Sam Jonah’s call for the restoration of the military rank of former Head of State General Ignatius Kutu…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "News",
+        "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "My Acheampong book seeks to correct forgotten history, not glorify coups – Agyeman-Duah",
       "link": "https://www.myjoyonline.com/my-acheampong-book-seeks-to-correct-forgotten-history-not-glorify-coups-agyeman-duah/",
       "source": "MyJoyOnline",
@@ -29,6 +43,20 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump says he referred to ex-Nvidia boss Huang’s situation ‘briefly’ in talk with Xi",
+      "link": "https://www.myjoyonline.com/trump-says-he-referred-to-ex-nvidia-boss-huangs-situation-briefly-in-talk-with-xi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T01:55:00.000Z",
+      "summary": "US President Donald Trump said he spoke to Chinese President Xi Jinping about artificial intelligence and that his reference to former Nvidia CEO Jensen Huang came up only \"briefly.\"",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "Jensen Huang",
+        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -99,35 +127,6 @@ window.GDC_PAPERS = {
         "Car",
         "MPC",
         "NPL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "link": "https://www.myjoyonline.com/claude-maker-anthropic-poised-for-more-than-1-4tn-stock-market-debut/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:58:00.000Z",
-      "summary": "Anthropic is poised to hit a value of more than $1.4 trillion (£1.1 trillion) when it debuts on the public stock market.",
-      "categories": [
-        "International",
-        "AI",
-        "Anthropic",
-        "Claude"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "LBMA certification key to adding Ghanaian gold to bank reserves – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:43:00.000Z",
-      "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken…",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr Ken Ashigbey",
-        "LBMA certification"
       ],
       "site": "https://www.myjoyonline.com/"
     },
