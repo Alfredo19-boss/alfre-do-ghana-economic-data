@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T12:03:44.749Z",
+  "updated": "2026-11-19T12:14:13.690Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,82 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daniel Amokachi: FIFA nominates former Super Eagles star to Nigeria Football Federation Normalisation Committee",
+      "link": "https://www.myjoyonline.com/daniel-amokachi-fifa-nominates-former-super-eagles-star-to-nigeria-football-federation-normalisation-committee/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:08:40.000Z",
+      "summary": "FIFA has nominated former Nigeria international, Daniel Amokachi, to a five-member Normalisation Committee to oversee the reform of the Nigerian Football Federation (NFF). Amokachi’s…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "CAF",
+        "Daniel Amokachi",
+        "FIFA",
+        "Nigeria Football Federation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Survivors of Uganda’s deadly landslide seek justice at the UN",
+      "link": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:04:36.000Z",
+      "summary": "Survivors of a 2019 landslide in eastern Uganda that killed more than 50 people have taken their fight for relocation and compensation to the United Nations.",
+      "categories": [
+        "Africa",
+        "Uganda",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EY commends 2027 Budget but says its value depends on disciplined execution, measurable outcomes",
+      "link": "https://www.myjoyonline.com/ey-commends-2027-budget-but-says-its-value-depends-on-disciplined-execution-measurable-outcomes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:02:11.000Z",
+      "summary": "Commenting on the 2027 Budget, the Country Managing Partner, Emmanuel Adekhalor, said the ambition is clear, but delivery will be the ultimate test.",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "Emmanuel Adekhalor",
+        "EY",
+        "macro-economic stability",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dead dolphin washed ashore at Kedzikope in Keta",
+      "link": "https://www.myjoyonline.com/dead-dolphin-washed-ashore-at-kedzikope-in-keta/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:01:46.000Z",
+      "summary": "A dolphin has been washed ashore at Kedzikope, a coastal community in the Keta Municipality of the Volta Region.",
+      "categories": [
+        "Regional",
+        "Dolphin",
+        "Kedzikope beach"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Haruna Iddrisu defends 2027 Budget, says government is laying foundation for new economy",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-defends-2027-budget-says-government-is-laying-foundation-for-new-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:00:09.000Z",
+      "summary": "Education Minister and Member of Parliament for Tamale South, Haruna Iddrisu, has defended the 2027 Budget, describing it as the foundation for a new economic model focused on adding value…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "National",
+        "2027 Budget",
+        "Haruna Iddrisu",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Elon Musk says record $446m spending on US midterms was ‘pretty foolish’",
       "link": "https://www.myjoyonline.com/elon-musk-says-record-446m-spending-on-us-midterms-was-pretty-foolish/",
@@ -59,79 +135,6 @@ window.GDC_PAPERS = {
         "Gaza",
         "Isreal",
         "Yellow Line"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal’s coast",
-      "link": "https://www.myjoyonline.com/dozens-missing-after-boat-carrying-100-migrants-sinks-off-senegals-coast/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:52:01.000Z",
-      "summary": "Senegalese authorities are continuing search operations after a boat reportedly carrying about 100 migrants capsized off the coast.",
-      "categories": [
-        "Africa",
-        "International",
-        "Migrants",
-        "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "link": "https://www.myjoyonline.com/anthropic-raises-81bn-in-record-breaking-stock-market-debut/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:46:45.000Z",
-      "summary": "Anthropic, the company behind AI chatbot Claude, has raised a record $81bn (£62.bn) in a stock market debut that will make it one of the most valuable companies in the world.",
-      "categories": [
-        "International",
-        "News",
-        "Technology",
-        "Anthropic",
-        "Stock Market"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Paris Meets Accra: The partners behind the year’s most elegant night",
-      "link": "https://www.myjoyonline.com/paris-meets-accra-the-partners-behind-the-years-most-elegant-night/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:46:31.000Z",
-      "summary": "This year's theme celebrates Paris at its most refined, honouring an era defined by elegance, artistry, and culture.",
-      "categories": [
-        "Events",
-        "Accra",
-        "Diner En Blanc",
-        "Paris"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sarkodie urges government to invest in Ghana’s film industry",
-      "link": "https://www.myjoyonline.com/sarkodie-urges-government-to-invest-in-ghanas-film-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:32:14.000Z",
-      "summary": "Ghanaian rapper Sarkodie has called on the government to increase investment in the film industry.",
-      "categories": [
-        "HP Entertainment 2",
-        "HP News 10",
-        "Movies",
-        "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deputy Greater Accra NDC Youth Organiser, Eric Afeme, dies days after election victory",
-      "link": "https://www.myjoyonline.com/deputy-greater-accra-ndc-youth-organiser-eric-afeme-dies-days-after-election-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:28:45.000Z",
-      "summary": "The National Democratic Congress (NDC) has been hit by the death of its newly elected Greater Accra Deputy Regional Youth Organiser, Eric Afeme, popularly known as Agabus.",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Politics",
-        "Election",
-        "Eric Afeme",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },

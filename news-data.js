@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T12:03:42.276Z",
+  "updated": "2026-11-19T12:14:11.320Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Accra Flood Control Projects Stall as Government Awaits Financial Clearance",
+      "link": "https://thehighstreetjournal.com/accra-flood-control-projects-stall-as-government-awaits-financial-clearance/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T12:04:00.000Z",
+      "summary": "Six major Accra flood-control interventions under the GARID Project are awaiting financial authorisation from the Ministry of Finance before contracts can be awarded and construction works…"
+    },
+    {
+      "title": "EY commends 2027 Budget but says its value depends on disciplined execution, measurable outcomes",
+      "link": "https://www.myjoyonline.com/ey-commends-2027-budget-but-says-its-value-depends-on-disciplined-execution-measurable-outcomes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T12:02:11.000Z",
+      "summary": "Commenting on the 2027 Budget, the Country Managing Partner, Emmanuel Adekhalor, said the ambition is clear, but delivery will be the ultimate test."
+    },
     {
       "title": "GES PRO Questions GH¢8,000 UGEL Hostel Fee, Calls for Shift to Flexible University Education",
       "link": "https://thehighstreetjournal.com/ges-pro-questions-gh%c2%a28000-ugel-hostel-fee-calls-for-shift-to-flexible-university-education/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T18:10:02.000Z",
       "summary": "President John Mahama has urged local and international investors to take advantage of Ghana's US$10 billion New Economy Programme, which is expected to mobilise investments across eight…"
-    },
-    {
-      "title": "NADKANSCO targets export market with cashew kernels, shell liquid and briquettes",
-      "link": "https://www.myjoyonline.com/nadkansco-targets-export-market-with-cashew-kernels-shell-liquid-and-briquettes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T17:06:12.000Z",
-      "summary": "NADKANSCO Cashew Processing Limited in Techiman is preparing to supply international markets with processed cashew products, including cashew kernels, cashew nut shell liquid and…"
-    },
-    {
-      "title": "Fidelity Bank Atta Gyan calls for greater investment in Ghana’s productive sectors to drive industrial growth",
-      "link": "https://www.myjoyonline.com/fidelity-bank-atta-gyan-calls-for-greater-investment-in-ghanas-productive-sectors-to-drive-industrial-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T17:03:16.000Z",
-      "summary": "Fidelity Bank Ghana has called for greater mobilisation of domestic capital, investment in technology, and targeted policy interventions to accelerate industrialisation and turn Ghana’s…"
     }
   ]
 };
