@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T20:42:19.793Z",
+  "updated": "2026-11-19T20:52:13.780Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ahmed Ibrahim warns against political interference in government projects",
+      "link": "https://www.myjoyonline.com/ahmed-ibrahim-warns-against-political-interference-in-government-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:44:24.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has warned against political interference in the award and execution of government projects, urging authorities to…",
+      "categories": [
+        "National",
+        "Ahmed Ibrahim",
+        "government projects",
+        "Political interference"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
       "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
@@ -127,19 +141,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "24-hour economy job claims need evidence for independent verification – Bokpin",
-      "link": "https://www.myjoyonline.com/24-hour-economy-job-claims-need-evidence-for-independent-verification-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:20:11.000Z",
-      "summary": "Economist and Professor at the University of Ghana Business School, Professor Godfred Bokpin, has urged the government to provide verifiable data to support its claims of jobs created under…",
+      "title": "University of Ghana reduces proposed hostel fee from GH¢8,820 to GH¢8,050",
+      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-cuts-proposed-hostel-fee-by-ghc770-after-student-consultations.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T18:28:18.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "News",
-        "24-hour economy",
-        "Godfred Bokpin",
-        "Jobs"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "AG issues directive to police, law enforcement agencies on due process in criminal investigations",
@@ -308,17 +318,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T12:51:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ebola control: Côte d'Ivoire introduces mandatory online registration for all travellers from African countries",
-      "link": "https://www.graphic.com.gh/news/general-news/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-africa.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T12:26:49.000Z",
       "summary": "",
       "categories": [
         "General News"
