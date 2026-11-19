@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T10:04:11.671Z",
+  "updated": "2026-11-19T10:14:13.899Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "The decision comes after Kotoko went four consecutive league matches without a win. The Porcupine Warriors currently sit 11th in the league table, with 14 points from 11 matches.",
       "categories": [
         "Football",
+        "HP News 5",
         "National",
         "Asante Kotoko",
         "GPL",
@@ -114,6 +115,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Photos: MTN Ghana marks 30 years of service with stakeholder dinner",
+      "link": "https://www.myjoyonline.com/photos-mtn-ghana-marks-30-years-of-service-at-stakeholder-dinner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T08:20:00.000Z",
+      "summary": "Telecommunications giant MTN Ghana has marked its 30th anniversary with a stakeholder dinner in Accra, celebrating three decades of connecting people, businesses and communities and…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Technology",
+        "30th anniversary",
+        "MTN Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Today’s front pages: Thursday, November 19, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-19-2026/",
       "source": "MyJoyOnline",
@@ -123,22 +139,6 @@ window.GDC_PAPERS = {
         "In Focus",
         "National",
         "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee World Cup: Black Challenge cruise past USA to reach quarter-finals",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-cruise-past-usa-to-reach-quarter-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:16:18.000Z",
-      "summary": "After a slow start to the tournament, the Black Challenge headed into the encounter with renewed confidence following their emphatic 6-0 victory over Iraq in their final Group D fixture.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Amputee Football World Cup",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge"
       ],
       "site": "https://www.myjoyonline.com/"
     },
