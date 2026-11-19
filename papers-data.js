@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T22:22:14.290Z",
+  "updated": "2026-11-19T22:32:15.284Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,6 +34,19 @@ window.GDC_PAPERS = {
         "Canada",
         "stolen cars network",
         "Toronto"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We must never forget this man",
+      "link": "https://www.myjoyonline.com/we-must-never-forget-this-man/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:12:00.000Z",
+      "summary": "Inspector Issa Kanjarga: The Ghanaian Police Officer Who Defied A Colonial Order And Helped Prevent A Massacre On 28 February 1948.",
+      "categories": [
+        "Opinion",
+        "Kamjarga",
+        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -123,22 +136,6 @@ window.GDC_PAPERS = {
         "National",
         "Majesty",
         "Shatta Wale"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kpebu welcomes AG’s 48-hour detention directive, cites recurring police violations",
-      "link": "https://www.myjoyonline.com/kpebu-welcomes-ags-48-hour-detention-directive-cites-recurring-police-violations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:57:35.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has welcomed the Attorney-General’s directive requiring investigative agencies to comply with the constitutional 48-hour detention limit, describing…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "48-hour detention rule",
-        "Martin Kpebu",
-        "police violations"
       ],
       "site": "https://www.myjoyonline.com/"
     },
