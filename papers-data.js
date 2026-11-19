@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T03:38:21.657Z",
+  "updated": "2026-11-19T03:48:22.208Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+      "link": "https://www.myjoyonline.com/google-rejects-uk-request-for-russell-brand-youtube-video-to-be-removed-sources-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:39:00.000Z",
+      "summary": "Google has refused a government request to remove a YouTube video posted by jailed rapist Russell Brand's wife in which he claims his innocence, Whitehall sources have told the BBC.",
+      "categories": [
+        "International",
+        "Music",
+        "Google",
+        "Russell Brand",
+        "YouTube"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "My Acheampong book seeks to correct forgotten history, not glorify coups – Agyeman-Duah",
       "link": "https://www.myjoyonline.com/my-acheampong-book-seeks-to-correct-forgotten-history-not-glorify-coups-agyeman-duah/",
       "source": "MyJoyOnline",
@@ -43,6 +58,47 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Acheampong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.myjoyonline.com/van-gogh-painting-sells-for-record-190-4m-after-row-over-its-nazi-history/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:30:00.000Z",
+      "summary": "Auction house Sotheby's has sold a painting by Vincent van Gogh for a record $190.4m (£144.8m).",
+      "categories": [
+        "Art & Design",
+        "International",
+        "Nazi history",
+        "Van Gogh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UAE top destination for smuggled African gold despite tighter measures, NGO says",
+      "link": "https://www.myjoyonline.com/uae-top-destination-for-smuggled-african-gold-despite-tighter-measures-ngo-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:22:00.000Z",
+      "summary": "The United Arab Emirates remained the top destination for smuggled African gold in 2024 despite tightening its rules a year earlier, a ​report by non-governmental organisation Swissaid said.",
+      "categories": [
+        "Africa",
+        "International",
+        "Gold",
+        "UAE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US judge says ICE ‘made a mockery of court orders’ in Colorado",
+      "link": "https://www.myjoyonline.com/us-judge-says-ice-made-a-mockery-of-court-orders-in-colorado/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T02:12:00.000Z",
+      "summary": "A federal judge said on Wednesday the US Immigration and Customs Enforcement agency \"made a mockery of court orders\" in ​Colorado and that the court found, government officials in contempt…",
+      "categories": [
+        "International",
+        "Colorado",
+        "ICE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -69,64 +125,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Acheampong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teenager arrested in Tamale for posing as prison officer",
-      "link": "https://www.myjoyonline.com/teenager-arrested-in-tamale-for-posing-as-prison-officer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T01:18:00.000Z",
-      "summary": "A 19-year-old man is in police custody after he was allegedly found wearing a Ghana Prisons Service uniform without authorisation at Gumbihini, a suburb of Tamale.",
-      "categories": [
-        "Crime",
-        "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "link": "https://www.myjoyonline.com/russian-man-accused-of-spying-on-us-tech-defence-company-that-assists-ukraine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:22:00.000Z",
-      "summary": "US investigators have arrested a Russian man who they say was recruited by Moscow to spy on employees of a technology and defence firm in California's Silicon Valley that has links to…",
-      "categories": [
-        "International",
-        "Russia",
-        "Ukraine",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:06:00.000Z",
-      "summary": "The government’s 2027 Budget targets 100% local refining of artisanal and small-scale mining (ASM) gold by 2028. But Dr Ken Ashigbey says local refining alone will not secure premium prices…",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr Ken Ashigbey",
-        "LBMA certification"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Banks NPL declined to 13.1% in October 2026",
-      "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:05:30.000Z",
-      "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Assets quality",
-        "BoG",
-        "Car",
-        "MPC",
-        "NPL"
       ],
       "site": "https://www.myjoyonline.com/"
     },
