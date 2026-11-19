@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:08:23.042Z",
+  "updated": "2026-11-19T04:18:53.052Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,19 @@ window.GDC_PAPERS = {
         "News",
         "Godbod",
         "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "link": "https://www.myjoyonline.com/democrats-nominate-hakeem-jeffries-to-be-us-speaker-of-the-house/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:36:00.000Z",
+      "summary": "Democrats in the US House of Representatives officially nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first black lawmaker to lead the chamber.",
+      "categories": [
+        "International",
+        "Democrats",
+        "Hakeem Jeffries"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -118,18 +131,6 @@ window.GDC_PAPERS = {
         "Google",
         "Russell Brand",
         "YouTube"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "My Acheampong book seeks to correct forgotten history, not glorify coups – Agyeman-Duah",
-      "link": "https://www.myjoyonline.com/my-acheampong-book-seeks-to-correct-forgotten-history-not-glorify-coups-agyeman-duah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:38:24.000Z",
-      "summary": "A political historian, Prof. Baffour Agyeman-Duah, says his work on the life and times of former Head of State General Ignatius Kutu Acheampong is intended to bring neglected aspects of…",
-      "categories": [
-        "News",
-        "Acheampong"
       ],
       "site": "https://www.myjoyonline.com/"
     },
