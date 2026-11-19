@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T20:52:13.780Z",
+  "updated": "2026-11-19T21:02:23.029Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,100 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Shatta Wale denies neglecting son, says court ruling allowed him access in 2025",
+      "link": "https://www.myjoyonline.com/shatta-wale-denies-neglecting-son-says-court-ruling-allowed-him-access-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:57:56.000Z",
+      "summary": "Dancehall artiste Shatta Wale has responded to allegations that he neglected his son, Majesty, insisting that a court ruling in 2025 granted him access to the child whenever he wanted.",
+      "categories": [
+        "Music",
+        "National",
+        "Majesty",
+        "Shatta Wale"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kpebu welcomes AG’s 48-hour detention directive, cites recurring police violations",
+      "link": "https://www.myjoyonline.com/kpebu-welcomes-ags-48-hour-detention-directive-cites-recurring-police-violations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:57:35.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has welcomed the Attorney-General’s directive requiring investigative agencies to comply with the constitutional 48-hour detention limit, describing…",
+      "categories": [
+        "National",
+        "News",
+        "48-hour detention rule",
+        "Martin Kpebu",
+        "police violations"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Recurring abuses in criminal investigations prompted AG’s directive – Press Secretary",
+      "link": "https://www.myjoyonline.com/recurring-abuses-in-criminal-investigations-prompted-ags-directive-press-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:56:22.000Z",
+      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says longstanding concerns over how criminal investigations are conducted and suspects are…",
+      "categories": [
+        "National",
+        "News",
+        "abuses in criminal investigations",
+        "AG's directive"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wode Maya mourns mother a month after her death, announces January 28 burial",
+      "link": "https://www.myjoyonline.com/wode-maya-mourns-mother-a-month-after-her-death-announces-january-28-burial/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:55:37.000Z",
+      "summary": "Ghanaian YouTuber and content creator Wode Maya has paid an emotional tribute to his late mother, marking one month since her death and what would have been her birthday.",
+      "categories": [
+        "National",
+        "Mother",
+        "Wode Maya"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Elect DCEs as mayors, charge assembly allowances to consolidated fund – NALAG proposes",
+      "link": "https://www.myjoyonline.com/elect-dces-as-mayors-charge-assembly-allowances-to-consolidated-fund-nalag-proposes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:55:14.000Z",
+      "summary": "The National Association of Local Authorities of Ghana (NALAG) has formally proposed the direct election of District Chief Executives (DCEs) and their redesignation as Mayors, alongside…",
+      "categories": [
+        "National",
+        "News",
+        "Consolidated Fund",
+        "DCEs",
+        "mayors",
+        "NALAG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IET-GH urges government to involve engineers in major national projects",
+      "link": "https://www.myjoyonline.com/iet-gh-urges-government-to-involve-engineers-in-major-national-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T20:55:00.000Z",
+      "summary": "The President of the Institution of Engineering and Technology Ghana (IET-GH), Engr. Wonder Davor, has urged the government to actively involve local engineers in major infrastructure and…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
+      "link": "https://www.graphic.com.gh/news/general-news/uk-ghana-chamber-raises-funds-princess-marie-louise-hospital-neonatal-care.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T20:49:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ahmed Ibrahim warns against political interference in government projects",
       "link": "https://www.myjoyonline.com/ahmed-ibrahim-warns-against-political-interference-in-government-projects/",
@@ -51,92 +145,6 @@ window.GDC_PAPERS = {
         "AfricaNenda",
         "IPS",
         "SIIPS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deputy Interior Minister urges REGSECs to adopt proactive security management",
-      "link": "https://www.myjoyonline.com/deputy-interior-minister-urges-regsecs-to-adopt-proactive-security-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:26:07.000Z",
-      "summary": "Deputy Interior Minister Ebenezer Okletey Terlabi has urged Regional Security Councils (REGSECs) and local government authorities in the Bono, Bono East and Ahafo Regions to adopt proactive…",
-      "categories": [
-        "National",
-        "News",
-        "Deputy Interior Minister",
-        "REGSEC",
-        "security management"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "My Day, My Rights, My Future",
-      "link": "https://www.myjoyonline.com/my-day-my-rights-my-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:25:06.000Z",
-      "summary": "Have you ever woken up and wondered what a child’s day looks like? Have you paused to imagine what goes through their minds, the dreams they have, and the challenges they face? Perhaps we…",
-      "categories": [
-        "Opinion",
-        "My Future"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Engineers must stop ‘pocket building’ to prevent building collapses – Ahmed Ibrahim",
-      "link": "https://www.myjoyonline.com/engineers-must-stop-pocket-building-to-prevent-building-collapses-ahmed-ibrahim/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:25:03.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has urged engineers to uphold professional standards and resist practices that compromise the quality and safety of…",
-      "categories": [
-        "National",
-        "Ahmed Ibrahim",
-        "Engineers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Road construction diversion linked to fresh crash at Kasoa- Winneba Highway",
-      "link": "https://www.myjoyonline.com/road-construction-diversion-linked-to-fresh-crash-at-kasoa-winneba-highway/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:24:35.000Z",
-      "summary": "Several people, including students travelling to school, have sustained injuries following an accident involving a Benz Sprinter at Gomoa Potsin Junction on the Kasoa–Winneba Highway in the…",
-      "categories": [
-        "National",
-        "News",
-        "Accident",
-        "Kasoa–Winneba highway",
-        "School children"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Law 101: Arrested? Detained? Denied Bail? Know Your Rights! (AG Ayine’s new directive and what it means for you)",
-      "link": "https://www.myjoyonline.com/the-law-101-arrested-detained-denied-bail-know-your-rights-ag-ayines-new-directive-and-what-it-means-for-you/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:22:57.000Z",
-      "summary": "Today, Thursday, 19th November 2026, I bring you another edition of THE LAW 101, my public legal education series. For years, we have complained about arbitrary arrests, unlawful detention…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Bail",
-        "Detention",
-        "Samson Lardy Anyenini"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cross-border real-time VAT to generate at least GH¢2.5bn in first year, GRA projects",
-      "link": "https://www.myjoyonline.com/cross-border-real-time-vat-to-generate-at-least-gh%c2%a22-5bn-in-first-year-gra-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:22:02.000Z",
-      "summary": "The full implementation of the real-time Value Added Tax (VAT) system will begin in January next year, with the Ghana Revenue Authority (GRA) expecting to generate more than GH¢2.5 billion…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Ghana Revenue Authority",
-        "KPMG Post-Budget Forum",
-        "Value Added Tax (VAT)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -312,17 +320,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
-      "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T12:51:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
