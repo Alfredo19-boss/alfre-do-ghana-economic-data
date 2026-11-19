@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:04:13.711Z",
+  "updated": "2026-11-19T11:14:13.457Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Six Accra flood-control projects await Finance Ministry approval – Works Minister",
+      "link": "https://www.myjoyonline.com/six-accra-flood-control-projects-await-finance-ministry-approval-works-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:10:01.000Z",
+      "summary": "Six planned interventions to tackle flooding in parts of Accra are yet to move into the construction phase as the Ministry of Works, Housing and Water Resources awaits financial…",
+      "categories": [
+        "National",
+        "News",
+        "Finance Ministry",
+        "Greater Accra Resilient and Integrated Development"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Russell Kofi Eni elected new President of AAG",
       "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
@@ -129,20 +143,6 @@ window.GDC_PAPERS = {
         "Regional",
         "takwa",
         "wassa group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL: Hearts of Oak’s Kelvin Osei Asibey crowned Player of the Month for October",
-      "link": "https://www.myjoyonline.com/gpl-hearts-of-oaks-kelvin-osei-asibey-crowned-player-of-the-month-for-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T09:07:35.000Z",
-      "summary": "The defender played a pivotal role in Hearts of Oak's unbeaten run during the month, helping the Phobians secure four consecutive clean sheets in their four matches.",
-      "categories": [
-        "Football",
-        "Hearts of Oak",
-        "Kelvin Osei Asibey",
-        "Player of the Month"
       ],
       "site": "https://www.myjoyonline.com/"
     },

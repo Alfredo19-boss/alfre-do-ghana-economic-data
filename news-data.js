@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T11:04:11.182Z",
+  "updated": "2026-11-19T11:14:10.827Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana Revenue Authority intensifies VAT compliance checks",
+      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-revenue-authority-intensifies-vat-compliance-checks/",
+      "source": "Ghana Business News",
+      "published": "2026-11-19T11:07:10.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has intensified its Value Added Tax (VAT) compliance checks on businesses and urged consumers to demand invoices for purchases to improve revenue…"
+    },
     {
       "title": "Russell Kofi Eni elected new President of AAG",
       "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T17:02:35.000Z",
       "summary": "The newly commissioned NADKANSCO Cashew Processing Limited in Techiman has the capacity to process up to 33,000 metric tonnes of raw cashew nuts annually, in a major boost to Ghana's…"
-    },
-    {
-      "title": "Wholesalers, distributors and retailers excited about 2027 budget as Ekumfi Juice shortages could become a thing of the past",
-      "link": "https://www.myjoyonline.com/wholesalers-distributors-and-street-retailers-excited-about-2027-budget-as-ekumfi-juice-shortages-could-become-a-thing-of-the-past/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:55:28.000Z",
-      "summary": "Ghana’s 2027 Budget, presented by the Minister of Finance, Dr Cassiel Ato Forson, named Ekumfi Fruits & Juices Limited for commercial contract farming and pineapple outgrower development, a…"
     }
   ]
 };
