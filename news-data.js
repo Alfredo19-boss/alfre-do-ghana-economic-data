@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T07:18:51.563Z",
+  "updated": "2026-11-19T07:28:51.613Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,33 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Absa employees promote financial inclusion through Makola Market outreach",
+      "link": "https://www.myjoyonline.com/absa-employees-promote-financial-inclusion-through-makola-market-outreach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:24:38.000Z",
+      "summary": "Over 100 women traders at Makola Market have benefited from a financial literacy outreach led by Absa Bank Ghana employees as part of the bank's Colleague Volunteerism programme, a key…"
+    },
+    {
+      "title": "Ghana urges developed nations to honour climate finance commitments",
+      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-urges-developed-nations-to-honour-climate-finance-commitments/",
+      "source": "Ghana Business News",
+      "published": "2026-11-19T07:18:49.000Z",
+      "summary": "Ghana has urged developed countries to honour their climate finance commitments, warning that continued delays could undermine Africa’s confidence in international climate negotiations."
+    },
+    {
+      "title": "ADB announces GH¢1.4m ultimate prizes for 2026 National Best Farmer and Fisher",
+      "link": "https://www.myjoyonline.com/adb-announces-gh%c2%a21-4m-ultimate-prizes-for-2026-national-best-farmer-and-fisher/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:18:31.000Z",
+      "summary": "Agricultural Development Bank PLC (ADB) has reaffirmed its longstanding commitment to Ghana’s agricultural transformation with the announcement of its headline sponsorship package for the…"
+    },
     {
       "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
       "link": "https://www.myjoyonline.com/govt-must-improve-spending-efficiency-prioritise-jobs-in-2027-budget-isser/",
@@ -313,7 +334,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/mpc-reduces-policy-rate-to-11-from-14-percent/",
       "source": "MyJoyOnline",
       "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
+      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has reduced its policy rate from 14 per cent to 11 per cent, citing the need to realign the benchmark with prevailing market…"
     },
     {
       "title": "State Closes Case in Akonta Mining Forest Reserve Trial as Key Witness Defends Plea Agreement",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-16T16:30:00.000Z",
       "summary": "AfDB has secured a $583.4 million concessional Japanese loan for ADF-17, expanding affordable development financing for Africa's poorest countries and supporting infrastructure, energy…"
-    },
-    {
-      "title": "Ghana’s 2027 Budget: From macroeconomic stability to prioritising public investment",
-      "link": "https://www.myjoyonline.com/ghanas-2027-budget-from-macroeconomic-stability-to-prioritising-public-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:14:49.000Z",
-      "summary": "The 2026 economic outturn supports the government’s claim that stabilisation has advanced. Real GDP grew 6.2% in the first half of 2026; headline inflation was 5.5% in October. During…"
-    },
-    {
-      "title": "Achievements of ‘New Economy’ must be measured by sustained improvements in economic growth, employment and productivity – Dr. Nsafoah",
-      "link": "https://www.myjoyonline.com/achievements-of-new-economy-must-be-measured-by-sustained-improvements-in-economic-growth-employment-and-productivity-dr-nsafoah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:05:22.000Z",
-      "summary": "In his commentary on the budget titled “Ghana's 2027 Budget: From Macroeconomic Stability to Prioritising Public Investment”, Dr. Nsafoah said the 2027 Budget identifies a markedly larger…"
-    },
-    {
-      "title": "Gold Price Decline Raises Concerns for Ghana’s Export Earnings",
-      "link": "https://thehighstreetjournal.com/gold-price-decline-raises-concerns-for-ghanas-export-earnings/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T16:02:00.000Z",
-      "summary": "Bullion falls to a 13-month low as expectations of higher US interest rates strengthen the dollar, exposing Ghana’s growing dependence on gold for foreign exchange."
     }
   ]
 };

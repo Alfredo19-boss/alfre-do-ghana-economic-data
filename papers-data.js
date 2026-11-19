@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T07:18:54.558Z",
+  "updated": "2026-11-19T07:28:54.384Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,66 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Absa employees promote financial inclusion through Makola Market outreach",
+      "link": "https://www.myjoyonline.com/absa-employees-promote-financial-inclusion-through-makola-market-outreach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:24:38.000Z",
+      "summary": "Over 100 women traders at Makola Market have benefited from a financial literacy outreach led by Absa Bank Ghana employees as part of the bank's Colleague Volunteerism programme, a key…",
+      "categories": [
+        "Banking and Finance",
+        "Absa Bank Ghana",
+        "Makola Market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rooney reveals suicidal thoughts during Man Utd career",
+      "link": "https://ghanaiantimes.com.gh/rooney-reveals-suicidal-thoughts-during-man-utd-career/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:23:13.000Z",
+      "summary": "Wayne Rooney says he was “contemplating suicide” during his playing days at Manchester United and was “speaking to a therapist to try and figure out what was up”. The former England captain…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GFA President calls for stronger Hearts-Kotoko collaboration ahead of Matchday 13 Super Clash",
+      "link": "https://ghanaiantimes.com.gh/gfa-president-calls-for-stronger-hearts-kotoko-collaboration-ahead-of-matchday-13-super-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:21:02.000Z",
+      "summary": "The Ghana Football Association (GFA) President, Mr Kurt Edwin Simeon-Okraku, has met with the National Chapters Committee (NCC) Chairman of Accra Hearts of Oak, Alhaji Yussif Abdulai, and…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2026/27 MTN FA Cup: 1/64 fixtures released • Hearts face Accra Elite Academy, Kotoko host Adom FC",
+      "link": "https://ghanaiantimes.com.gh/2026-27-mtn-fa-cup-1-64-fixtures-released-hearts-face-accra-elite-academy-kotoko-host-adom-fc/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T07:19:55.000Z",
+      "summary": "Fixtures for the Round of 64 of the 2026/27 MTN FA Cup have been announced after the draw was held at the GFA headquarters on Tuesday. The 18 Ghana Premier League teams have joined the…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ADB announces GH¢1.4m ultimate prizes for 2026 National Best Farmer and Fisher",
+      "link": "https://www.myjoyonline.com/adb-announces-gh%c2%a21-4m-ultimate-prizes-for-2026-national-best-farmer-and-fisher/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:18:31.000Z",
+      "summary": "Agricultural Development Bank PLC (ADB) has reaffirmed its longstanding commitment to Ghana’s agricultural transformation with the announcement of its headline sponsorship package for the…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "ADB",
+        "National Farmers’ Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Charles Osei Asibey in Cairo to defend armwrestling’s retention in Africa Games",
       "link": "https://ghanaiantimes.com.gh/charles-osei-asibey-in-cairo-to-defend-armwrestlings-retention-in-africa-games/",
@@ -54,6 +114,17 @@ window.GDC_PAPERS = {
         "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Court of Appeal adjourns trial former Buffer Stock CEO Hanan and his wife's trial indefinitely",
+      "link": "https://www.graphic.com.gh/news/general-news/court-of-appeal-adjourns-trial-former-buffer-stock-ceo-hanan-and-his-wifes-trial-indefinitely.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T07:09:12.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
@@ -109,30 +180,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GRA uncovers VAT breaches at West Hills Mall",
-      "link": "https://ghanaiantimes.com.gh/gra-uncovers-vat-breaches-at-west-hills-mall/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:57:36.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread breaches of Value Added Tax (VAT) regulations at the West Hills Mall, with only five of the 22 shops inspected found to be…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘China ready to align 5-year devt plan with Ghana’s economic agenda’",
-      "link": "https://ghanaiantimes.com.gh/china-ready-to-align-5-year-devt-plan-with-ghanas-economic-agenda/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:53:32.000Z",
-      "summary": "China has expressed its readiness to align its 2026–2030 development plan with Ghana’s 24-Hour+ Economy and Reset Ghana agenda to deepen cooperation and support the country’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Trade Minister urges industries to add one more shift to operations to advance 24-hour economy",
       "link": "https://www.myjoyonline.com/trade-minister-urges-industries-to-add-one-more-shift-to-operations-to-advance-24-hour-economy/",
       "source": "MyJoyOnline",
@@ -147,18 +194,6 @@ window.GDC_PAPERS = {
         "Minister for Trade"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "At Metropolis International Migration Conference: Stop treating migration as a threat – Pres Mahama",
-      "link": "https://ghanaiantimes.com.gh/at-metropolis-international-migration-conference-stop-treating-migration-as-a-threat-pres-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:49:00.000Z",
-      "summary": "President John Dramani Mahama has called for a new approach to migration governance in Africa that reflects the realities of how Africans move, with dignity, opportunity and shared…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Mahama urges Ghanaian businesses to take advantage of $10bn New Economy Programme",
@@ -207,31 +242,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police hunt fraudsters sending fake TraffiTech-GH violation messages",
-      "link": "https://www.myjoyonline.com/police-hunt-fraudsters-sending-fake-traffitech-gh-violation-messages/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:30:00.000Z",
-      "summary": "The Ghana Police Service has launched investigations into individuals allegedly impersonating the Service and sending fraudulent TraffiTech-GH traffic violation messages to motorists to…",
+      "title": "NHIA introduces new sanctions regime - To tackle illegal charges",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nhia-introduces-new-sanctions-regime-to-tackle-illegal-charges.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T03:00:42.000Z",
+      "summary": "",
       "categories": [
-        "HP News 7",
-        "National",
-        "Police",
-        "Traffitech-GH"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama demands faster port clearance to cut business costs",
-      "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:23:05.000Z",
-      "summary": "President John Dramani Mahama has tasked the Ministers of Trade and Industry and Transport to tackle delays at the country’s ports, saying inefficiencies in the movement of goods are…",
-      "categories": [
-        "Business",
-        "Top Story",
-        "port"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Dolphin washed ashore on Kedzikope beach",
@@ -293,28 +312,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/stop-hiding-behind-containers-cid-director-warns-police-officers.html",
       "source": "Daily Graphic",
       "published": "2026-11-18T14:38:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama condemns attacks on foreigners in South Africa, calls for lawful migration",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-condemns-attacks-on-foreigners-in-south-africa-calls-for-lawful-migration.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T14:21:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama proposes phased rollout of ECO currency",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-phased-rollout-of-eco-currency.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-18T12:43:26.000Z",
       "summary": "",
       "categories": [
         "General News"
