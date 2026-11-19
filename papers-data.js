@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T15:24:18.851Z",
+  "updated": "2026-11-19T15:34:29.909Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GCB Bank backs 11th EMY Africa Awards, participates in pre-event gathering",
+      "link": "https://www.myjoyonline.com/gcb-bank-backs-11th-emy-africa-awards-participates-in-pre-event-gathering/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:23:44.000Z",
+      "summary": "GCB Bank has partnered the 11th edition of the EMY Africa Awards as part of efforts to recognise individuals whose contributions have influenced business, governance, entertainment and…",
+      "categories": [
+        "Banking and Finance",
+        "Events",
+        "Movies",
+        "Music",
+        "EMY Africa awards",
+        "GCB Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From Arrival to Departure: Improving Ghana’s visitor experience during December in GH 2026",
+      "link": "https://www.myjoyonline.com/from-arrival-to-departure-improving-ghanas-visitor-experience-during-december-in-gh-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:21:21.000Z",
+      "summary": "December in Ghana is more than a season of concerts, parties and celebrations. It is a time when people from different parts of the world come to experience Ghana’s culture, food, music…",
+      "categories": [
+        "Opinion",
+        "December in GH 2026",
+        "Tourism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘No foreigner will develop Ghana for us’ – Patrick Yaw Boamah demands stronger local business support",
+      "link": "https://www.myjoyonline.com/no-foreigner-will-develop-ghana-for-us-patrick-yaw-boamah-demands-stronger-local-business-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:19:28.000Z",
+      "summary": "Member of Parliament for Okaikwei Central, Patrick Yaw Boamah, has questioned the government’s commitment to supporting Ghanaian businesses, arguing that the 2027 Budget’s emphasis on…",
+      "categories": [
+        "National",
+        "Budget 2027",
+        "local business",
+        "Patrick Yaw Boamah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prosecutor confident Jirapa Dubai murder conviction will survive Supreme Court challenge",
       "link": "https://www.myjoyonline.com/prosecutor-confident-jirapa-dubai-murder-conviction-will-survive-supreme-court-challenge/",
@@ -98,35 +141,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Tourism Authority gears up for National Tourism Awards, 2026",
-      "link": "https://www.myjoyonline.com/ghana-tourism-authority-gears-up-for-national-tourism-awards-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:00:26.000Z",
-      "summary": "The Ghana Tourism Authority, under the auspices of the Ministry of Tourism, Culture and Creative Arts, is set to organise the 2026 National Tourism Awards to reward excellence in the…",
-      "categories": [
-        "National",
-        "Ghana Tourism Authority",
-        "National Tourism Awards"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KGL Group boss calls for more African businesses to scale into global corporations",
-      "link": "https://www.myjoyonline.com/kgl-group-boss-calls-for-more-african-businesses-to-scale-into-global-corporations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:54:37.000Z",
-      "summary": "KGL Group Executive Chairman Alex Apau Dadey has called for deliberate efforts to build large, globally competitive and trans-generational African businesses, arguing that their growth is…",
-      "categories": [
-        "Africa",
-        "Business",
-        "National",
-        "African Businesses",
-        "Alex Apau Dadey",
-        "KGL Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NPP should remain in opposition to learn how to manage economy- Ricketts-Hagan",
       "link": "https://ghanaiantimes.com.gh/npp-should-remain-in-opposition-to-learn-how-to-manage-economy-ricketts-hagan/",
       "source": "Ghanaian Times",
@@ -149,21 +163,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Housing Minister calls for dedicated housing bank to tackle Ghana’s widening housing deficit",
-      "link": "https://www.myjoyonline.com/housing-minister-calls-for-dedicated-housing-bank-to-tackle-ghanas-widening-housing-deficit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:50:13.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for the establishment of a dedicated housing development bank to improve access to long-term financing for…",
-      "categories": [
-        "HP Business 6",
-        "Real Estate",
-        "Housing and Water Resources",
-        "Housing Minister",
-        "Minister for Works"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Bawumia hosted in Berlin by CDU, Konrad Adenauer Stiftung for talks on jobs, governance",

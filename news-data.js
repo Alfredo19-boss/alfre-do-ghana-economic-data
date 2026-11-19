@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T15:24:13.762Z",
+  "updated": "2026-11-19T15:34:22.176Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,27 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 520)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Pure Lube wins 2026 GreenTech Innovation Challenge",
+      "link": "https://gna.org.gh/2026/11/pure-lube-wins-2026-greentech-innovation-challenge/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-19T15:26:00.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "GCB Bank backs 11th EMY Africa Awards, participates in pre-event gathering",
+      "link": "https://www.myjoyonline.com/gcb-bank-backs-11th-emy-africa-awards-participates-in-pre-event-gathering/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:23:44.000Z",
+      "summary": "GCB Bank has partnered the 11th edition of the EMY Africa Awards as part of efforts to recognise individuals whose contributions have influenced business, governance, entertainment and…"
+    },
     {
       "title": "ISSER Questions Public Spending Efficiency, Urges 2027 Budget to Prioritise Job Creation",
       "link": "https://thehighstreetjournal.com/isser-questions-public-spending-efficiency-urges-2027-budget-to-prioritise-job-creation/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-17T06:57:01.000Z",
       "summary": "Ghana's exports to China rose sharply following the implementation of China's zero-tariff policy, with imports from Ghana reaching $290 million in June 2026."
-    },
-    {
-      "title": "YOUR X’MAS SHOPPING STARTS THIS NOVEMBER WITH AGRIFAIR AND GEXPO",
-      "link": "https://thehighstreetjournal.com/your-xmas-shopping-starts-this-november-with-agrifair-and-gexpo/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:05:00.000Z",
-      "summary": "Two major exhibitions are bringing Ghanaian-made products closer to consumers this November, offering festive bargains while creating new opportunities for local businesses, farmers and…"
-    },
-    {
-      "title": "Enough Pure Water! Pres. Mahama Challenges Ghanaians to Think Beyond Sachets & Build Bigger Businesses",
-      "link": "https://thehighstreetjournal.com/enough-pure-water-pres-mahama-challenges-ghanaians-to-think-beyond-sachets-build-bigger-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:03:00.000Z",
-      "summary": "President Mahama has challenged Ghanaian entrepreneurs to move beyond sachet water production and pursue bigger industrial ventures, manufacturing, agriculture and exports, positioning…"
     }
   ]
 };
