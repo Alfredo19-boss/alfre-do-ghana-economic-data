@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:22:14.339Z",
+  "updated": "2026-11-19T19:32:17.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "International Men’s Day: Seven in 10 Ghanaian men have experienced violence in their lifetime – Gender Ministry",
+      "link": "https://www.myjoyonline.com/international-mens-day-seven-in-10-ghanaian-men-have-experienced-violence-in-their-lifetime-gender-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:23:24.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has raised concerns about the health, mental well-being and exposure to violence among men and boys in Ghana, citing findings that…",
+      "categories": [
+        "National",
+        "Gender Ministry",
+        "International Men’s Day",
+        "Men"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "link": "https://www.myjoyonline.com/myanmar-committed-genocide-against-rohingya-minority-top-un-court-rules/",
@@ -112,22 +126,6 @@ window.GDC_PAPERS = {
         "International",
         "spectacle",
         "trileteral"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "13 arrested over alleged impersonation, extortion at mining sites in Eastern and Western Regions",
-      "link": "https://www.myjoyonline.com/13-arrested-over-alleged-impersonation-extortion-at-mining-sites-in-eastern-and-western-regions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:38:19.000Z",
-      "summary": "Thirteen people have been arrested in two separate operations in the Eastern and Western Regions for allegedly posing as state security operatives and demanding money from miners. The…",
-      "categories": [
-        "National",
-        "Regional",
-        "13 arrested",
-        "Extortion",
-        "Impersonation",
-        "Mining sites"
       ],
       "site": "https://www.myjoyonline.com/"
     },

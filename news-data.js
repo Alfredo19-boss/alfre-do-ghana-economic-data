@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T19:21:54.217Z",
+  "updated": "2026-11-19T19:32:13.590Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "West Africa leans towards three-country plan for regional payment system, Liberia central bank chief says",
+      "link": "https://www.myjoyonline.com/west-africa-leans-towards-three-country-plan-for-regional-payment-system-liberia-central-bank-chief-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:30:39.000Z",
+      "summary": "West African central banks are leaning towards splitting the hosting of the region's planned payment and settlement system among three institutions so that no single economy dominates it…"
+    },
     {
       "title": "120,000 jobs from palm oil project within 2 years sounds unrealistic – Stephen Amoah",
       "link": "https://www.myjoyonline.com/120000-jobs-from-palm-oil-project-within-2-years-sounds-unrealistic-stephen-amoah/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T11:04:04.000Z",
       "summary": "Government has begun evaluating all 261 MMDCEs, using a weighted framework covering development delivery (35%), revenue mobilisation (20%), accountability and citizen satisfaction, with…"
-    },
-    {
-      "title": "Tourism Authority shuts down over 20 hotels, restaurants in Ashanti Region over licensing violations",
-      "link": "https://www.myjoyonline.com/tourism-authority-shuts-down-over-20-hotels-restaurants-in-ashanti-region-over-licensing-violations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T10:44:21.000Z",
-      "summary": "The Ghana Tourism Authority (GTA) has shut down more than 20 hotels and restaurants operating within the Kumasi and Konongo enclaves in the Ashanti Region for operating without valid…"
     }
   ]
 };
