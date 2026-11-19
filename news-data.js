@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T06:38:21.378Z",
+  "updated": "2026-11-19T06:48:51.220Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,23 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Ghana’s cannabis industry featured at international hemp expo in Japan",
+      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghanas-cannabis-industry-featured-at-international-hemp-expo-in-japan/",
+      "source": "Ghana Business News",
+      "published": "2026-11-19T06:46:03.000Z",
+      "summary": "Ghana’s emerging industrial hemp and regulated medical cannabis sectors featured in international discussions at the Japan International Hemp Expo (JIHE) 2026 in Tokyo."
+    },
+    {
+      "title": "Mahama urges Ghanaian businesses to take advantage of $10bn New Economy Programme",
+      "link": "https://www.myjoyonline.com/mahama-urges-ghanaian-businesses-to-take-advantage-of-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:39:37.000Z",
+      "summary": "President John Dramani Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s $10 billion New Economy Programme, warning against allowing foreign…"
+    },
     {
       "title": "Ghana government urged to leverage UNESCO kente honour for tourism",
       "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-government-urged-to-leverage-unesco-kente-honour-for-tourism/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T15:14:45.000Z",
       "summary": "The Bank of Ghana (BoG) is closely monitoring emerging inflationary pressures following an increase in headline inflation to 5.5% in October 2026, from 5.2% in September. Governor of the…"
-    },
-    {
-      "title": "GEXIM-backed cashew factory to create 1,500 jobs, boost Ghana’s value-added exports",
-      "link": "https://www.myjoyonline.com/gexim-backed-cashew-factory-to-create-1500-jobs-boost-ghanas-value-added-exports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T15:13:05.000Z",
-      "summary": "Support from the Ghana Export-Import Bank (GEXIM) for the Nadkansco Cashew Processing Factory in Techiman is expected to strengthen Ghana’s agro-processing capacity, expand exports of…"
-    },
-    {
-      "title": "The Race for the Gavel: Who Succeeds Baffoe-Bonnie as Chief Justice?",
-      "link": "https://thehighstreetjournal.com/the-race-for-the-gavel-who-succeeds-baffoe-bonnie-as-chief-justice/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T15:09:00.000Z",
-      "summary": "The Constitution, by its article 144, places the appointment of the Chief Justice in the hands of the President, acting in consultation with the Council of State and subject to the approval…"
     }
   ]
 };

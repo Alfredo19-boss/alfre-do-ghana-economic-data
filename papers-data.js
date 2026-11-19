@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T06:38:51.895Z",
+  "updated": "2026-11-19T06:48:53.974Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "First National Bank’s unique approach to banking yielding results — CEO",
+      "link": "https://ghanaiantimes.com.gh/first-national-banks-unique-approach-to-banking-yielding-results-ceo/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:43:43.000Z",
+      "summary": "The Chief Executive of First National Bank, Sylvia Inkoom, says the bank’s financial performance for the nine months to September 2026 reflects the success of its business strategy and its…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama urges Ghanaian businesses to take advantage of $10bn New Economy Programme",
+      "link": "https://www.myjoyonline.com/mahama-urges-ghanaian-businesses-to-take-advantage-of-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T06:39:37.000Z",
+      "summary": "President John Dramani Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s $10 billion New Economy Programme, warning against allowing foreign…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "22nd Ghana Club 100 Awards",
+        "President John Dramani Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GhIS demands reforms in land compensation",
       "link": "https://ghanaiantimes.com.gh/ghis-demands-reforms-in-land-compensation/",
@@ -96,18 +123,6 @@ window.GDC_PAPERS = {
       "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has intercepted 97 bales of imitation wax prints and 10 new Yamaha Aerox motorbikes concealed in a Burkina Faso-registered cargo…",
       "categories": [
         "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "ONGOING ‘WONTUMI’ TRIAL: I TESTIFIED TO CLEAR MY CONSCIENCE – EX-GENERAL MANAGER OF AKONTA MINES",
-      "link": "https://ghanaiantimes.com.gh/ongoing-wontumi-trial-i-testified-to-clear-my-conscience-ex-general-manager-of-akonta-mines/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T06:15:15.000Z",
-      "summary": "Mr Edward Akuoko, a former General Manager of Akonta Mining Company, has told the High Court in Accra that he agreed to testify for the prosecution to tell the truth about matters within…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -209,22 +224,6 @@ window.GDC_PAPERS = {
         "National",
         "Chinese firms",
         "Julius Debrah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢165m allocated to 24-hour Economy Secretariat despite shift to New Economy – Amin Adam",
-      "link": "https://www.myjoyonline.com/gh%c2%a2165m-allocated-to-24-hour-economy-secretariat-despite-shift-to-new-economy-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:07:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has questioned the allocation of GH¢165 million to the 24-hour Economy Secretariat in the 2027 Budget, arguing that the initiative has been…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "24-hour economy",
-        "Amin Adam",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
