@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T05:28:53.356Z",
+  "updated": "2026-11-19T05:38:51.947Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Global Fund for Coral Reefs announces over $30m to protect reefs in 22 developing countries",
+      "link": "https://www.myjoyonline.com/global-fund-for-coral-reefs-announces-over-30m-to-protect-reefs-in-22-developing-countries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:35:09.000Z",
+      "summary": "The Global Fund for Coral Reefs (GFCR) has announced over US$30 million in new investments and donor contributions to expand coral reef protection across 22 developing countries, as growing…",
+      "categories": [
+        "International",
+        "News",
+        "COP31",
+        "coral reef",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police hunt fraudsters sending fake TraffiTech-GH violation messages",
+      "link": "https://www.myjoyonline.com/police-hunt-fraudsters-sending-fake-traffitech-gh-violation-messages/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:30:00.000Z",
+      "summary": "The Ghana Police Service has launched investigations into individuals allegedly impersonating the Service and sending fraudulent TraffiTech-GH traffic violation messages to motorists to…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Police",
+        "Traffitech-GH"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama demands faster port clearance to cut business costs",
       "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
@@ -40,6 +69,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T05:21:00.000Z",
       "summary": "President John Dramani Mahama says the newly commissioned National Human Identification Laboratory will provide scientific answers to family disputes involving paternity, inheritance and…",
       "categories": [
+        "HP News 1",
         "National",
         "DNA",
         "inheritance",
@@ -82,6 +112,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T05:07:00.000Z",
       "summary": "Former Finance Minister Dr Mohammed Amin Adam has questioned the allocation of GH¢165 million to the 24-hour Economy Secretariat in the 2027 Budget, arguing that the initiative has been…",
       "categories": [
+        "HP News 2",
         "National",
         "News",
         "24-hour economy",
@@ -101,33 +132,6 @@ window.GDC_PAPERS = {
         "In Focus",
         "Bishop Patricia Sappor",
         "Customer Experience Professionals Ghana (CXP Ghana)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government is spending more on itself than productive sectors – Amin Adam",
-      "link": "https://www.myjoyonline.com/government-is-spending-more-on-itself-than-productive-sectors-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:51:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has accused the government of directing more public funds towards its own administrative operations at the expense of investment in productive…",
-      "categories": [
-        "National",
-        "Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GoldBod looks beyond 2 refineries to expand local gold processing – Dr Manteaw",
-      "link": "https://www.myjoyonline.com/goldbod-looks-beyond-2-refineries-to-expand-local-gold-processing-dr-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:50:18.000Z",
-      "summary": "The Ghana Gold Board intends to work with more refineries and is considering building its own facility to expand local gold processing, Dr Steven Manteaw has said.",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM Gold refining",
-        "Dr Steve Manteaw",
-        "Goldbod"
       ],
       "site": "https://www.myjoyonline.com/"
     },
