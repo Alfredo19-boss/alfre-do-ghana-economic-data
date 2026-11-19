@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:28:51.950Z",
+  "updated": "2026-11-19T04:38:54.511Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Oil prices settle lower as traders weigh surplus supply outlook",
+      "link": "https://www.myjoyonline.com/oil-prices-settle-lower-as-traders-weigh-surplus-supply-outlook/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:11:00.000Z",
+      "summary": "Oil prices fell more than 1% on Wednesday after US crude and fuel inventories rose more than expected, according to the Energy Information Administration, adding to expectations of a supply…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cocaine and millions of pills seized in eastern Libya, officials say",
       "link": "https://www.myjoyonline.com/cocaine-and-millions-of-pills-seized-in-eastern-libya-officials-say/",
@@ -114,20 +127,6 @@ window.GDC_PAPERS = {
         "Dr Ken Ashigbey",
         "Gold",
         "LBMA certification"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof Agyeman-Duah backs Sam Jonah’s call to restore Acheampong’s rank",
-      "link": "https://www.myjoyonline.com/prof-agyeman-duah-backs-sam-jonahs-call-to-restore-acheampongs-rank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:01:16.000Z",
-      "summary": "Political historian Prof. Baffour Agyeman-Duah has thrown his support behind Sir Sam Jonah’s call for the restoration of the military rank of former Head of State General Ignatius Kutu…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Acheampong"
       ],
       "site": "https://www.myjoyonline.com/"
     },
