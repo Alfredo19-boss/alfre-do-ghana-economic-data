@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:42:22.890Z",
+  "updated": "2026-11-19T19:52:16.316Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Engage us in affordable housing projects – IET-Ghana tells government",
+      "link": "https://www.myjoyonline.com/engage-us-in-big-push-projects-iet-ghana-tells-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:45:45.000Z",
+      "summary": "The Institution of Engineering and Technology, Ghana (IET-Ghana), has called on the government to actively engage local engineering professionals in the implementation of major national…",
+      "categories": [
+        "National",
+        "Big Push projects",
+        "IET-Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Patrick Boamah challenges Finance Minister’s directive stopping monthly allowances for SOE board members",
       "link": "https://www.myjoyonline.com/patrick-boamah-challenges-finance-ministers-directive-stopping-monthly-allowances-for-soe-board-members/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T19:38:55.000Z",
       "summary": "Okaikwei Central Member of Parliament Patrick Boamah has questioned the Finance Minister's directive halting monthly sitting allowances for board members of state-owned enterprises (SOEs)…",
       "categories": [
+        "HP News 2",
         "National",
         "Board members",
         "Finance Minister",
@@ -59,6 +73,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T19:23:24.000Z",
       "summary": "The Ministry of Gender, Children and Social Protection has raised concerns about the health, mental well-being and exposure to violence among men and boys in Ghana, citing findings that…",
       "categories": [
+        "HP News 3",
         "National",
         "Gender Ministry",
         "International Men’s Day",
@@ -73,6 +88,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T19:14:31.000Z",
       "summary": "A three-year-old girl who was reported missing in the Ejura Zongo community in the Ashanti Region has been found dead inside a parked vehicle.",
       "categories": [
+        "HP News 10",
         "International",
         "Myanmar",
         "Rohingya",
@@ -88,6 +104,7 @@ window.GDC_PAPERS = {
       "summary": "The Member of Parliament for Pru-East, Emmanuel Kwaku Boam, has told Parliament that typhoid is ravaging communities in his constituency due to lack of access to potable water.",
       "categories": [
         "Health",
+        "HP News 8",
         "National"
       ],
       "site": "https://www.myjoyonline.com/"
@@ -117,20 +134,6 @@ window.GDC_PAPERS = {
         "Jobs",
         "palm oil project",
         "Stephen Amoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Foreign Affairs Ministry urges Ghanaian travellers to Côte d’Ivoire to register online 24 hours before arrival",
-      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-urges-ghanaian-travellers-to-cote-divoire-to-register-online-24-hours-before-arrival/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:02:53.000Z",
-      "summary": "The Ministry of Foreign Affairs has urged Ghanaian travellers heading to Côte d’Ivoire, including those transiting through the country, to complete a mandatory online registration at least…",
-      "categories": [
-        "National",
-        "Côte d’Ivoire",
-        "Ebola Virus Disease",
-        "Ghanaian travellers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
