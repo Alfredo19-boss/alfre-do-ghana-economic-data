@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T10:44:14.392Z",
+  "updated": "2026-11-19T10:54:13.005Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ntim Fordjour accuses Mahama government of prioritising luxury jets over security needs",
+      "link": "https://www.myjoyonline.com/ntim-fordjour-accuses-mahama-government-of-prioritising-luxury-jets-over-security-needs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:51:21.000Z",
+      "summary": "Ranking Member of Parliament for the Defence and Interior Committee, Rev John Ntim Fordjour, has accused the Mahama-led government of placing greater emphasis on luxury presidential…",
+      "categories": [
+        "National",
+        "Mahama",
+        "Ntim Fordjour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Infantino to face France’s Diallo and Japan’s Tashima in FIFA presidential election",
+      "link": "https://www.myjoyonline.com/infantino-to-face-frances-diallo-and-japans-tashima-in-fifa-presidential-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:49:17.000Z",
+      "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
+      "categories": [
+        "Football",
+        "FIFA elections",
+        "FIFA President",
+        "French FA president"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana calls for coordinated action to strengthen child protection systems",
+      "link": "https://www.myjoyonline.com/ghana-calls-for-coordinated-action-to-strengthen-child-protection-systems/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:46:35.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger collaboration among government agencies, families, schools and communities to…",
+      "categories": [
+        "National",
+        "Child",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "No evidence 5-year-old boy’s brain tumour is cancerous – Korle bu Board Chair says after a JoyNews report",
       "link": "https://www.myjoyonline.com/no-evidence-5-year-old-boys-brain-tumour-is-cancerous-korle-bu-board-chair-says-after-a-joynews-report/",
@@ -103,53 +143,6 @@ window.GDC_PAPERS = {
         "News",
         "JoyNews",
         "Korle Bu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL: Hearts of Oak’s Nebojsa Kapor wins Coach of the Month for October",
-      "link": "https://www.myjoyonline.com/gpl-hearts-of-oaks-nebojsa-kapor-wins-coach-of-the-month-for-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:53:28.000Z",
-      "summary": "The Phobians played four matches in October, recording three wins and one draw without suffering a defeat. They scored three goals and kept four clean sheets, conceding no goals throughout…",
-      "categories": [
-        "Football",
-        "GPL",
-        "Hearts of Oak",
-        "NASCO Coach of the Month",
-        "Nebojsa Kapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Floyd Mayweather Jr arrives in Ghana, looks forward to working with Sharaf Mahama",
-      "link": "https://www.myjoyonline.com/floyd-mayweather-jr-arrives-in-ghana-looks-forward-to-working-with-sharaf-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:30:58.000Z",
-      "summary": "The American arrived at the Accra International Airport on Wednesday afternoon on the invitation of businessman Nana Kwame Bediako.",
-      "categories": [
-        "Boxing",
-        "HP News 2",
-        "HP Sports 2",
-        "National",
-        "Floyd Mayweather Jr",
-        "Legacy Rise Sports",
-        "Sharaf Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: MTN Ghana marks 30 years of service with stakeholder dinner",
-      "link": "https://www.myjoyonline.com/photos-mtn-ghana-marks-30-years-of-service-at-stakeholder-dinner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:20:00.000Z",
-      "summary": "Telecommunications giant MTN Ghana has marked its 30th anniversary with a stakeholder dinner in Accra, celebrating three decades of connecting people, businesses and communities and…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "Technology",
-        "30th anniversary",
-        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
