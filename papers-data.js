@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T05:38:51.947Z",
+  "updated": "2026-11-19T05:48:51.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Newmont, MTN, Gold Fields lead 2026 Ghana Club 100 rankings",
+      "link": "https://www.myjoyonline.com/newmont-mtn-gold-fields-lead-2026-ghana-club-100-rankings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T05:37:56.000Z",
+      "summary": "Newmont Ghana Gold Limited has claimed the top spot in this year’s Ghana Club 100 ranking, beating a field of leading businesses from the banking, telecommunications, mining, manufacturing…",
+      "categories": [
+        "News",
+        "busines",
+        "Club 100",
+        "GCB",
+        "MTN",
+        "Newmont"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Global Fund for Coral Reefs announces over $30m to protect reefs in 22 developing countries",
       "link": "https://www.myjoyonline.com/global-fund-for-coral-reefs-announces-over-30m-to-protect-reefs-in-22-developing-countries/",
@@ -118,20 +134,6 @@ window.GDC_PAPERS = {
         "24-hour economy",
         "Amin Adam",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Banking trailblazer Bishop Patricia Sappor named Chair of CXP Ghana Council",
-      "link": "https://www.myjoyonline.com/banking-trailblazer-bishop-patricia-sappor-named-chair-of-cxp-ghana-council/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:59:00.000Z",
-      "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council.",
-      "categories": [
-        "Banking and Finance",
-        "In Focus",
-        "Bishop Patricia Sappor",
-        "Customer Experience Professionals Ghana (CXP Ghana)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
