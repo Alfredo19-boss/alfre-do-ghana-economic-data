@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T10:54:10.764Z",
+  "updated": "2026-11-19T11:04:11.182Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Russell Kofi Eni elected new President of AAG",
+      "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:55:28.000Z",
+      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG). He took over from outgoing president Mr. Andrew Ackah at the association’s 35th Annual…"
+    },
     {
       "title": "Ghana’s Public Debt Surges by GHC 128Bn in 1 Yr to Hit GHC 759Bn as Domestic Borrowing Soars",
       "link": "https://thehighstreetjournal.com/ghanas-public-debt-surges-by-ghc-128bn-in-1-yr-to-hit-ghc-759bn-as-domestic-borrowing-soars/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T16:55:28.000Z",
       "summary": "Ghana’s 2027 Budget, presented by the Minister of Finance, Dr Cassiel Ato Forson, named Ekumfi Fruits & Juices Limited for commercial contract farming and pineapple outgrower development, a…"
-    },
-    {
-      "title": "BoG appoints Peter Quartey to MPC as Joshua Abor bows out",
-      "link": "https://www.myjoyonline.com/bog-appoints-peter-quartey-to-mpc-as-joshua-abor-bows-out/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T16:54:13.000Z",
-      "summary": "Professor of Economics, Peter Quartey, has joined the Bank of Ghana’s (BoG) Monetary Policy Committee (MPC) as an external member, replacing Professor Joshua Abor, who is stepping down…"
     }
   ]
 };

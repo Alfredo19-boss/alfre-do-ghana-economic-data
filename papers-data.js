@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T10:54:13.005Z",
+  "updated": "2026-11-19T11:04:13.711Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Russell Kofi Eni elected new President of AAG",
+      "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T10:55:28.000Z",
+      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG). He took over from outgoing president Mr. Andrew Ackah at the association’s 35th Annual…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 7"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ntim Fordjour accuses Mahama government of prioritising luxury jets over security needs",
       "link": "https://www.myjoyonline.com/ntim-fordjour-accuses-mahama-government-of-prioritising-luxury-jets-over-security-needs/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T10:51:21.000Z",
       "summary": "Ranking Member of Parliament for the Defence and Interior Committee, Rev John Ntim Fordjour, has accused the Mahama-led government of placing greater emphasis on luxury presidential…",
       "categories": [
+        "HP News 2",
         "National",
         "Mahama",
         "Ntim Fordjour"
@@ -41,6 +55,8 @@ window.GDC_PAPERS = {
       "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
       "categories": [
         "Football",
+        "HP News 8",
+        "News",
         "FIFA elections",
         "FIFA President",
         "French FA president"
@@ -127,22 +143,6 @@ window.GDC_PAPERS = {
         "Hearts of Oak",
         "Kelvin Osei Asibey",
         "Player of the Month"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Korle Bu schedules admission for 5-year-old boy with brain tumour after JoyNews report on surgery delay",
-      "link": "https://www.myjoyonline.com/korle-bu-schedules-admission-for-5-year-old-boy-with-brain-tumour-after-joynews-report-on-surgery-delay/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T08:53:35.000Z",
-      "summary": "The Korle Bu Teaching Hospital has scheduled the admission of a five-year-old boy awaiting surgery for a brain tumour after JoyNews highlighted delays in his treatment despite the payment…",
-      "categories": [
-        "Health",
-        "HP News 1",
-        "National",
-        "News",
-        "JoyNews",
-        "Korle Bu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
