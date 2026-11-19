@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T01:43:54.731Z",
+  "updated": "2026-11-19T02:03:52.298Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -66,6 +66,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "LBMA certification key to adding Ghanaian gold to bank reserves – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:43:00.000Z",
+      "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken…",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM Gold refining",
+        "Dr Ken Ashigbey",
+        "LBMA certification"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana @ 70: InLaME CEO questions gains in leadership and institutional development",
       "link": "https://www.myjoyonline.com/ghana-70-inlame-ceo-questions-gains-in-leadership-and-institutional-development/",
       "source": "MyJoyOnline",
@@ -114,19 +129,6 @@ window.GDC_PAPERS = {
         "International",
         "Rohingya",
         "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manchester won’t always be blue – Pochettino",
-      "link": "https://www.myjoyonline.com/manchester-wont-always-be-blue-pochettino/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:05:00.000Z",
-      "summary": "Mauricio Pochettino says there is no time to waste as he sets out to restore Manchester United to being the city's most successful club.",
-      "categories": [
-        "Football",
-        "Man United",
-        "Mauricio Pochettino"
       ],
       "site": "https://www.myjoyonline.com/"
     },

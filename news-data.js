@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T01:43:51.238Z",
+  "updated": "2026-11-19T02:03:49.651Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T00:05:30.000Z",
       "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
+    },
+    {
+      "title": "LBMA certification key to adding Ghanaian gold to bank reserves – Ken Ashigbey",
+      "link": "https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T23:43:00.000Z",
+      "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken…"
     },
     {
       "title": "LBMA certification could unlock higher gold export values for Ghana – Manteaw",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:03:00.000Z",
       "summary": "President of the Greater Accra Markets Association (GAMA), Mercy Naa Afrowa Needjan has been conferred with the highest honor of the Ghana Women Awards (GWA) as a ‘Legendary Woman’. The…"
-    },
-    {
-      "title": "From Consumption to Lasting Legacies: Ghana’s Resource Money to Fund Only Critical Infrastructure Projects",
-      "link": "https://thehighstreetjournal.com/from-consumption-to-lasting-legacies-ghanas-resource-money-to-fund-only-critical-infrastructure-projects/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T12:01:00.000Z",
-      "summary": "Ghana plans to legally ring-fence all natural resource revenues for legacy infrastructure projects, replacing the petroleum-only framework with a unified law and consolidating MIIF and GIIF…"
     }
   ]
 };
