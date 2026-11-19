@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T19:32:13.590Z",
+  "updated": "2026-11-19T19:42:19.962Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,7 +14,7 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 525)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
@@ -115,6 +115,13 @@ window.GDC_NEWS = {
     {
       "title": "Bolt steps up ride-hailing safety education in Ghana ahead of festive season",
       "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-ahead-of-festive-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:48:54.000Z",
+      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…"
+    },
+    {
+      "title": "Bolt steps up ride-hailing safety education in Ghana, highlights Audio Recording feature ahead of festive season",
+      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-highlights-audio-recording-feature-ahead-of-festive-season/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T14:48:54.000Z",
       "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…"
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T11:09:46.000Z",
       "summary": "The Chief Research Scientist and Director at the Council for Scientific and Industrial Research–Crops Research Institute (CSIR-CRI), Professor Maxwell Darko Asante, says Ghanaian farmers…"
-    },
-    {
-      "title": "Gov’t Begins Performance Review of 261 MMDCEs, Sets December Deadline for Presidential Report",
-      "link": "https://thehighstreetjournal.com/govt-begins-performance-review-of-261-mmdces-sets-december-deadline-for-presidential-report/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T11:04:04.000Z",
-      "summary": "Government has begun evaluating all 261 MMDCEs, using a weighted framework covering development delivery (35%), revenue mobilisation (20%), accountability and citizen satisfaction, with…"
     }
   ]
 };

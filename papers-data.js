@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T19:32:17.213Z",
+  "updated": "2026-11-19T19:42:22.890Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Patrick Boamah challenges Finance Minister’s directive stopping monthly allowances for SOE board members",
+      "link": "https://www.myjoyonline.com/patrick-boamah-challenges-finance-ministers-directive-stopping-monthly-allowances-for-soe-board-members/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:38:55.000Z",
+      "summary": "Okaikwei Central Member of Parliament Patrick Boamah has questioned the Finance Minister's directive halting monthly sitting allowances for board members of state-owned enterprises (SOEs)…",
+      "categories": [
+        "National",
+        "Board members",
+        "Finance Minister",
+        "Patrick Boamah",
+        "SOE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "West Africa leans towards three-country plan for regional payment system, Liberia central bank chief says",
+      "link": "https://www.myjoyonline.com/west-africa-leans-towards-three-country-plan-for-regional-payment-system-liberia-central-bank-chief-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T19:30:39.000Z",
+      "summary": "West African central banks are leaning towards splitting the hosting of the region's planned payment and settlement system among three institutions so that no single economy dominates it…",
+      "categories": [
+        "Analysis",
+        "Banking and Finance",
+        "International",
+        "National",
+        "Liberia",
+        "regional payment system",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "International Men’s Day: Seven in 10 Ghanaian men have experienced violence in their lifetime – Gender Ministry",
       "link": "https://www.myjoyonline.com/international-mens-day-seven-in-10-ghanaian-men-have-experienced-violence-in-their-lifetime-gender-ministry/",
@@ -99,33 +131,6 @@ window.GDC_PAPERS = {
         "Côte d’Ivoire",
         "Ebola Virus Disease",
         "Ghanaian travellers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
-      "link": "https://www.myjoyonline.com/men-guilty-of-abusing-woman-drugged-and-advertised-for-sex-by-husband/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:59:01.000Z",
-      "summary": "Four men have been found guilty of sexually abusing a woman whose husband drugged and secretly advertised her for sex on the internet, in the first trial of its kind in the UK.",
-      "categories": [
-        "International",
-        "Men",
-        "Sex",
-        "Woman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trilateral summit high on spectacle, short on substance",
-      "link": "https://www.myjoyonline.com/trilateral-summit-high-on-spectacle-short-on-substance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T18:58:23.000Z",
-      "summary": "Donald Trump went into his trilateral meeting with Vladimir Putin and Xi Jinping with little on the agenda and no clear asks – and it appears that he left with little in return.",
-      "categories": [
-        "International",
-        "spectacle",
-        "trileteral"
       ],
       "site": "https://www.myjoyonline.com/"
     },
