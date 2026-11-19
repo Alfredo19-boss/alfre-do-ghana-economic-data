@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T06:18:51.383Z",
+  "updated": "2026-11-19T06:28:51.835Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Over 100,000 protest in France over pay",
+      "link": "https://ghanaiantimes.com.gh/over-100000-protest-in-france-over-pay/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:28:38.000Z",
+      "summary": "More than 100,000 people have taken to the streets in France to protest against the high cost of living, with public sector workers demanding pay increases. The Interior Ministry said on…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "6 drainage improvement works await financial clearance – Ahmed Ibrahim",
+      "link": "https://ghanaiantimes.com.gh/6-drainage-improvement-works-await-financial-clearance-ahmed-ibrahim/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:24:04.000Z",
+      "summary": "Six major drainage improvement works under the Greater Accra Resilient and Integrated Development (GARID) project are awaiting financial authorisation from the Ministry of Finance before…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "VAT compliance must not be optional",
+      "link": "https://ghanaiantimes.com.gh/vat-compliance-must-not-be-optional/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:21:32.000Z",
+      "summary": "The discovery by the Ghana Revenue Authority (GRA) that only five out of 22 shops inspected at the West Hills Mall were complying with Value Added Tax (VAT) regulations is worrying and…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Customs intercepts 97 balesof imitation wax prints, 10motorbikes at Techiman",
+      "link": "https://ghanaiantimes.com.gh/customs-intercepts-97-balesof-imitation-wax-prints-10motorbikes-at-techiman/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T06:18:59.000Z",
+      "summary": "The Customs Division of the Ghana Revenue Authority (GRA) has intercepted 97 bales of imitation wax prints and 10 new Yamaha Aerox motorbikes concealed in a Burkina Faso-registered cargo…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "ONGOING ‘WONTUMI’ TRIAL: I TESTIFIED TO CLEAR MY CONSCIENCE – EX-GENERAL MANAGER OF AKONTA MINES",
       "link": "https://ghanaiantimes.com.gh/ongoing-wontumi-trial-i-testified-to-clear-my-conscience-ex-general-manager-of-akonta-mines/",
@@ -182,54 +227,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Why can’t Ghana buy a $60m presidential jet after spending $97m on national cathedral? – Richard Sumah",
-      "link": "https://ghanaiantimes.com.gh/why-cant-ghana-buy-a-60m-presidential-jet-after-spending-97m-on-national-cathedral-richard-sumah/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:08:36.000Z",
-      "summary": "Deputy General Secretary of the United Party, Richard Sumah, has questioned Ghana’s inability to purchase a presidential jet costing about US$60 million, despite the country’s decision to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "$60m presidential jet: “President must stay in Ghana and work for us” – Enoch Afoakwa",
-      "link": "https://ghanaiantimes.com.gh/60m-presidential-jet-president-must-stay-in-ghana-and-work-for-us-enoch-afoakwa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:06:55.000Z",
-      "summary": "Deputy Director of Legal Affairs of the New Patriotic Party (NPP), Enoch Afoakwa, has criticised the proposed acquisition of a presidential jet costing more than US$60 million, questioning…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Forestry Commission grants Gomoa Eco Park permit to begin preliminary works at Yenku Forest reserve",
-      "link": "https://ghanaiantimes.com.gh/forestry-commission-grants-gomoa-eco-park-permit-to-begin-preliminary-works-at-yenku-forest-reserve/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:04:56.000Z",
-      "summary": "The Forestry Commission has granted Gomoa Eco Park Development Company Limited a temporary entry permit to undertake preliminary works within designated areas of Blocks A and B of the Yenku…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GFA must be held accountable for the Black Stars’ poor performance over the years – Shatta Wale",
-      "link": "https://ghanaiantimes.com.gh/gfa-must-be-held-accountable-for-the-black-stars-poor-performance-over-the-years-shatta-wale/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-18T17:00:01.000Z",
-      "summary": "Controversial Ghanaian musician Shatta Wale has called on the Ghana Football Association (GFA) to take responsibility for the Black Stars’ poor performance over the years, describing…",
-      "categories": [
-        "Hot!",
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
