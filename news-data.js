@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T07:28:51.613Z",
+  "updated": "2026-11-19T09:53:40.958Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,10 +15,10 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
     {
@@ -48,6 +48,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T07:05:47.000Z",
       "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to strengthen oversight of public expenditure and prioritise investments in sectors capable of…"
+    },
+    {
+      "title": "Mobile money transactions hit GH¢4.9tn in first 10 months – BoG",
+      "link": "https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a24-9tn-in-first-10-months-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T07:02:00.000Z",
+      "summary": "Mobile money transactions totalled GH¢4.9 trillion between January and October 2026, according to the Bank of Ghana (BoG)’s latest Economic and Financial Data."
     },
     {
       "title": "Minerals Commission, CalBank sign GH¢1bn financing partnership to empower indigenous businesses in mining sector",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T16:46:46.000Z",
       "summary": "Ghana produced more than 262,000 metric tonnes of raw cashew nuts in 2025, but only 17,000 metric tonnes were processed locally, highlighting the country's limited capacity to add value to…"
-    },
-    {
-      "title": "AfDB Secures $583m Japanese Loan To Expand Concessional Financing For Africa",
-      "link": "https://thehighstreetjournal.com/afdb-secures-583m-japanese-loan-to-expand-concessional-financing-for-africa/",
-      "source": "The High Street Journal",
-      "published": "2026-11-16T16:30:00.000Z",
-      "summary": "AfDB has secured a $583.4 million concessional Japanese loan for ADF-17, expanding affordable development financing for Africa's poorest countries and supporting infrastructure, energy…"
     }
   ]
 };
