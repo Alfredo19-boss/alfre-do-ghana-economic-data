@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:22:14.785Z",
+  "updated": "2026-11-19T23:32:15.100Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Black Challenge make history with Egypt win to reach Amputee World Cup semi-finals",
+      "link": "https://www.myjoyonline.com/black-challenge-make-history-with-egypt-win-to-reach-amputee-world-cup-semi-finals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:27:06.000Z",
+      "summary": "Ghana’s Black Challenge have made history by beating Egypt 2-0 to reach the semi-finals of the 2026 Amputee Football World Cup in Mexico. The victory secures Ghana’s first-ever appearance…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026 Amputee Football World Cup",
+        "Black Challenge"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Ghana’s democracy is for sale’ – Bedzrah warns over money in party elections",
       "link": "https://www.myjoyonline.com/ghanas-democracy-is-for-sale-bedzrah-warns-over-money-in-party-elections/",
       "source": "MyJoyOnline",
@@ -31,6 +45,19 @@ window.GDC_PAPERS = {
         "News",
         "Ghana",
         "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Businessman remanded over alleged vehicle theft",
+      "link": "https://www.myjoyonline.com/businessman-remanded-over-alleged-vehicle-theft/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:12:00.000Z",
+      "summary": "An Accra Circuit Court has remanded a 39-year-old businessman into police custody for allegedly selling two vehicles worth GH¢380,000 and failing to account for the proceeds.",
+      "categories": [
+        "Crime",
+        "Accra Circuit Court",
+        "Remand"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -88,45 +115,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GRA keeps some port interceptions quiet to protect detection methods",
-      "link": "https://www.myjoyonline.com/gra-keeps-some-port-interceptions-quiet-to-protect-detection-methods/",
+      "title": "Kumasi High, T.I. Amass and Sakafia Islamic battle for Ashanti GMSA Quiz title",
+      "link": "https://www.myjoyonline.com/kumasi-high-t-i-amass-and-sakafia-islamic-battle-for-ashanti-gmsa-quiz-title/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T22:21:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) keeps some port discoveries out of the public domain because disclosing them could help perpetrators learn how officers detect prohibited goods…",
+      "published": "2026-11-19T22:39:00.000Z",
+      "summary": "Three schools have secured places in the Ashanti Regional GMSA Quiz final after emerging winners of their semi-final contests. Kumasi High School, T.I. Amass and Sakafia Islamic SHS will…",
       "categories": [
-        "National",
-        "Anthony Kwasi Sarpong",
-        "Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From Toronto Driveways to African Ports: Inside a $4.5 million stolen-car network",
-      "link": "https://www.myjoyonline.com/from-toronto-driveways-to-african-ports-inside-a-4-5-million-stolen-car-network/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:13:12.000Z",
-      "summary": "The international trade in stolen luxury vehicles has suffered a major setback after Peel Regional Police in Canada arrested 12 people and recovered 96 stolen vehicles valued at…",
-      "categories": [
-        "Features",
-        "National",
+        "Education",
         "News",
-        "African ports",
-        "Canada",
-        "stolen cars network",
-        "Toronto"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We must never forget this man",
-      "link": "https://www.myjoyonline.com/we-must-never-forget-this-man/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:12:00.000Z",
-      "summary": "Inspector Issa Kanjarga: The Ghanaian Police Officer Who Defied A Colonial Order And Helped Prevent A Massacre On 28 February 1948.",
-      "categories": [
-        "Opinion",
-        "Kamjarga",
-        "Police"
+        "GMSA QUIZ"
       ],
       "site": "https://www.myjoyonline.com/"
     },
