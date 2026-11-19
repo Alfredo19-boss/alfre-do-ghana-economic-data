@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:12:15.905Z",
+  "updated": "2026-11-19T23:22:14.785Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘Ghana’s democracy is for sale’ – Bedzrah warns over money in party elections",
+      "link": "https://www.myjoyonline.com/ghanas-democracy-is-for-sale-bedzrah-warns-over-money-in-party-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:12:50.000Z",
+      "summary": "Ho West MP Emmanuel Bedzrah has warned that the growing influence of money in political party elections threatens the credibility of Ghana’s democracy, following what he described as…",
+      "categories": [
+        "National",
+        "News",
+        "Ghana",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Dram Oil’s multimillion-dollar negligence suit against Deloitte resumes in December",
       "link": "https://www.myjoyonline.com/dram-oils-multimillion-dollar-negligence-suit-against-deloitte-resumes-in-december/",
       "source": "MyJoyOnline",
       "published": "2026-11-19T23:03:00.000Z",
       "summary": "The multimillion-dollar negligence suit filed by Dram Oil and Trading Limited against auditing firm Deloitte and Touche is expected to resume in December at the Commercial Division of the…",
       "categories": [
-        "News"
+        "National",
+        "Deloitte",
+        "Dram oil"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -72,6 +88,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "GRA keeps some port interceptions quiet to protect detection methods",
+      "link": "https://www.myjoyonline.com/gra-keeps-some-port-interceptions-quiet-to-protect-detection-methods/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:21:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) keeps some port discoveries out of the public domain because disclosing them could help perpetrators learn how officers detect prohibited goods…",
+      "categories": [
+        "National",
+        "Anthony Kwasi Sarpong",
+        "Commissioner-General"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "From Toronto Driveways to African Ports: Inside a $4.5 million stolen-car network",
       "link": "https://www.myjoyonline.com/from-toronto-driveways-to-african-ports-inside-a-4-5-million-stolen-car-network/",
       "source": "MyJoyOnline",
@@ -98,36 +127,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Kamjarga",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Goldfields wins overall CSR company at Ghana Club 100",
-      "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:03:34.000Z",
-      "summary": "The company was also ranked in the top three on the Club 100 rankings, following MTN Ghana and Newmont, respectively.",
-      "categories": [
-        "Business",
-        "Mining",
-        "Corporate Social Responsibility",
-        "Ghana Club 100",
-        "Goldfields Ghana Limited"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian among 21 arrested in Canada over alleged towing industry crime network",
-      "link": "https://www.myjoyonline.com/ghanaian-among-21-arrested-in-canada-over-alleged-towing-industry-crime-network/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T21:59:14.000Z",
-      "summary": "A Ghanaian is among 21 people arrested and charged in Canada following a major police investigation into alleged organised crime, violence and criminal activities within the Greater Toronto…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "Canada",
-        "Ghanaian"
       ],
       "site": "https://www.myjoyonline.com/"
     },
