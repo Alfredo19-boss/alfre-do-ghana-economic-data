@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-18T23:48:27.056Z",
+  "updated": "2026-11-19T00:14:00.979Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Banks NPL declined to 13.1% in October 2026",
+      "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:05:30.000Z",
+      "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Assets quality",
+        "BoG",
+        "Car",
+        "MPC",
+        "NPL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana @ 70: InLaME CEO questions gains in leadership and institutional development",
       "link": "https://www.myjoyonline.com/ghana-70-inlame-ceo-questions-gains-in-leadership-and-institutional-development/",
@@ -116,21 +133,6 @@ window.GDC_PAPERS = {
         "Dr Cassiel Ato Forson",
         "Haruna Iddrisu",
         "Ken Ofori-Atta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama commissions DNA testing and vaccine development laboratories at Noguchi Institute",
-      "link": "https://www.myjoyonline.com/mahama-commissions-dna-testing-and-vaccine-development-laboratories-at-noguchi-institute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:04:06.000Z",
-      "summary": "President John Dramani Mahama has commissioned new human DNA testing facilities and a vaccine development laboratory at the Noguchi Memorial Institute for Medical Research in Accra, as part…",
-      "categories": [
-        "Health",
-        "National",
-        "News",
-        "DNA testing and vaccine development laboratories",
-        "Noguchi Institute"
       ],
       "site": "https://www.myjoyonline.com/"
     },

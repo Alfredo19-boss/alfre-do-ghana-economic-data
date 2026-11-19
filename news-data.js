@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-18T23:48:25.009Z",
+  "updated": "2026-11-19T00:13:57.606Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Banks NPL declined to 13.1% in October 2026",
+      "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T00:05:30.000Z",
+      "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
+    },
     {
       "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
       "link": "https://www.myjoyonline.com/gridco-pushes-to-complete-161kv-kumasi-anwomaso-project-to-improve-power-reliability/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T11:20:17.000Z",
       "summary": "Fitch Solutions is projecting the Ghana cedi to average GH¢12.40 to the US dollar in 2027, warning that rising food import costs, strong domestic liquidity and reduced foreign currency…"
-    },
-    {
-      "title": "Ghana High Commission UK, Okyeman Amanonehene deepen diaspora development partnership",
-      "link": "https://www.myjoyonline.com/ghana-high-commission-uk-okyeman-amanonehene-deepen-diaspora-development-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T11:08:15.000Z",
-      "summary": "The Ghana High Commission in London and the Okyeman Amanonehene, Otuapem Oduduobiribi Benkyi, have agreed to strengthen collaboration to channel diaspora skills, expertise and capital into…"
     }
   ]
 };
