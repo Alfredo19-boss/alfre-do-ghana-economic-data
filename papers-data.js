@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T00:14:00.979Z",
+  "updated": "2026-11-19T01:03:31.535Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -52,6 +52,45 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Zverev to defend himself against fresh lawsuit",
+      "link": "https://www.myjoyonline.com/zverev-to-defend-himself-against-fresh-lawsuit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:53:00.000Z",
+      "summary": "Lawyers for world number one Alexander Zverev say he will defend himself against a lawsuit which alleges he misrepresented the outcome of his domestic abuse trial.",
+      "categories": [
+        "Tennis",
+        "Alexander Zverev"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alcaraz continues winning run despite injury concern",
+      "link": "https://www.myjoyonline.com/alcaraz-continues-winning-run-despite-injury-concern/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:42:00.000Z",
+      "summary": "Carlos Alcaraz continued his sensational late-season form as he outclassed world number five Daniil Medvedev to reach the knockout stage at the ATP Finals.",
+      "categories": [
+        "Tennis",
+        "ATP Finals",
+        "Carlos Alcaraz",
+        "Frances Tiafoe"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "English FA explored legal challenge to Infantino staying on",
+      "link": "https://www.myjoyonline.com/english-fa-explored-legal-challenge-to-infantino-staying-on/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-18T21:33:00.000Z",
+      "summary": "The English Football Association has considered challenging Gianni Infantino's eligibility to run for a fourth term as FIFA president, BBC Sport can reveal.",
+      "categories": [
+        "Football",
+        "English FA",
+        "Gianni Infantino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Two remanded over murder of woman at Dormabin",
       "link": "https://www.myjoyonline.com/two-remanded-over-murder-of-woman-at-dormabin/",
       "source": "MyJoyOnline",
@@ -91,48 +130,6 @@ window.GDC_PAPERS = {
         "Brifoh SHS",
         "Dining Hall",
         "Lawra Municipality"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "HIDAH Foundation provides free healthcare services at Dodowa Orphanage",
-      "link": "https://www.myjoyonline.com/hidah-foundation-provides-free-healthcare-services-at-dodowa-orphanage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:05:12.000Z",
-      "summary": "HIDAH Humanitarian Foundation held a Community Health Outreach at the Home of Taqwa Orphanage in Dodowa, providing essential healthcare services to children at the orphanage and members of…",
-      "categories": [
-        "Health",
-        "Regional",
-        "healthcare services",
-        "HIDAH Humanitarian Foundation",
-        "Home of Taqwa Orphanage"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Poor water access, wooden squatter settlements undermine Ghana’s fire response – Fire Service",
-      "link": "https://www.myjoyonline.com/poor-water-access-wooden-squatter-settlements-undermine-ghanas-fire-response-fire-service/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:05:00.000Z",
-      "summary": "The Ghana National Fire Service has identified inadequate access to water and the growing number of informal settlements as major challenges undermining efforts to contain fire outbreaks…",
-      "categories": [
-        "National",
-        "Fire Outbreak",
-        "Ghana National Fire Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘The debate is settled’ – Haruna Iddrisu declares Ato Forson clear winner in economic management contest against Ofori-Atta",
-      "link": "https://www.myjoyonline.com/the-debate-is-settled-haruna-iddrisu-declares-ato-forson-clear-winner-in-economic-management-contest-against-ofori-atta/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T21:04:27.000Z",
-      "summary": "The Minister for Education and Member of Parliament for Tamale South, Haruna Iddrisu, has declared that the debate over who has performed better in managing Ghana’s economy between former…",
-      "categories": [
-        "National",
-        "Dr Cassiel Ato Forson",
-        "Haruna Iddrisu",
-        "Ken Ofori-Atta"
       ],
       "site": "https://www.myjoyonline.com/"
     },
