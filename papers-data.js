@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T13:34:10.349Z",
+  "updated": "2026-11-19T13:44:13.724Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AG directs investigative agencies to respect suspects’ rights or face sanctions",
+      "link": "https://www.myjoyonline.com/ag-directs-investigative-agencies-to-respect-suspects-rights-or-face-sanctions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:39:07.000Z",
+      "summary": "Attorney-General and Minister for Justice, Dr Dominic Ayine, has directed investigative agencies to strictly comply with constitutional and legal requirements governing arrests, detention…",
+      "categories": [
+        "National",
+        "News",
+        "AG",
+        "Arrest",
+        "detention and bail rules",
+        "investigative agencies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fiifi Boafo questions Health Minister’s absence as ‘No Bed’ crisis persists",
+      "link": "https://www.myjoyonline.com/fiifi-boafo-questions-health-ministers-absence-as-no-bed-crisis-persists/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:36:25.000Z",
+      "summary": "Former COCOBOD Director of Public Affairs, Fiifi Boafo, has questioned Health Minister Kwabena Mintah Akandoh's apparent absence from hospital visits, following renewed concerns over the…",
+      "categories": [
+        "Health",
+        "National",
+        "Fiifi Boafo",
+        "Health Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Investigative agencies to face quarterly scrutiny over treatment of suspects – AG’s Office",
+      "link": "https://www.myjoyonline.com/investigative-agencies-to-face-quarterly-scrutiny-over-treatment-of-suspects-ags-office/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T13:30:14.000Z",
+      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says a new directive requiring investigative agencies to respect the rights of suspects is…",
+      "categories": [
+        "National",
+        "News",
+        "AG",
+        "Benjamin Alpha Aidoo",
+        "Investigators",
+        "rights violations"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC vows action against vote-buying",
       "link": "https://www.myjoyonline.com/ndc-vows-action-against-vote-buying/",
@@ -102,39 +148,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PwC expresses cautious optimism about New Economy programme; fiscal credibility depends on how government finances itself",
-      "link": "https://www.myjoyonline.com/pwc-expresses-cautious-optimism-about-new-economy-programme-fiscal-credibility-depends-on-how-government-finances-itself/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:07:44.000Z",
-      "summary": "In its commentary on the 2027 Budget, the accounting, auditing and consulting firm said a smaller surplus gives the government room to spend more, but it will not necessarily raise…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 5",
-        "Capital spending",
-        "IMF",
-        "Ministry of Finance",
-        "new economy",
-        "PwC",
-        "Tax Revenue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP-USA members seek Boadu, Bawumia intervention over election credibility concerns",
-      "link": "https://www.myjoyonline.com/npp-usa-members-seek-boadu-bawumia-intervention-over-election-credibility-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:54:12.000Z",
-      "summary": "Some members of the New Patriotic Party’s United States branch are calling on John Boadu and Dr Mahamudu Bawumia to intervene over concerns about the credibility of the upcoming NPP-USA…",
-      "categories": [
-        "Politics",
-        "Dr Mahamudu Bawumia",
-        "John Boadu",
-        "NPP-USA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
       "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
       "source": "Daily Graphic",
@@ -144,19 +157,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA working towards joint checks at ports and border entry points, says Commissioner-General",
-      "link": "https://www.myjoyonline.com/gra-working-towards-joint-checks-at-ports-and-border-entry-points-says-commissioner-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:48:18.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong says the authority is working with other agencies on a one-window system to strengthen inspections at the country’s…",
-      "categories": [
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Meteo forecasts sunny skies and isolated thunderstorms for today",
