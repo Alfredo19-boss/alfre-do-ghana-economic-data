@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:33:43.654Z",
+  "updated": "2026-11-19T14:44:13.898Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,74 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Côte d’Ivoire introduces mandatory online registration for travellers from African countries",
+      "link": "https://ghanaiantimes.com.gh/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-african-countries/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:43:31.000Z",
+      "summary": "The Ministry of Foreign Affairs has announced that the Republic of Côte d’Ivoire has introduced a mandatory online registration requirement for travellers arriving from African countries…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Calling for Asante-Akyem North representation after leaving SALL without a voice for four years, a glaring inconsistency’ – Julius Neequaye Kotey",
+      "link": "https://ghanaiantimes.com.gh/calling-for-asante-akyem-north-representation-after-leaving-sall-without-a-voice-for-four-years-a-glaring-inconsistency-julius-neequaye-kotey/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:41:21.000Z",
+      "summary": "The Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), Julius Neequaye Kotey, has criticised the New Patriotic Party (NPP) over its call for parliamentary…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "British Entrepreneur Rio Kavanagh targets financing and quality gaps in Ghana’s agricultural exports",
+      "link": "https://www.myjoyonline.com/british-entrepreneur-rio-kavanagh-targets-financing-and-quality-gaps-in-ghanas-agricultural-exports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:37:37.000Z",
+      "summary": "Finding an overseas buyer does not always settle the hardest part of an agricultural export deal. A supplier still has to assemble the goods, preserve their quality and cover the interval…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Economy",
+        "National",
+        "agricultural",
+        "British entrepreneur",
+        "Exports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Youth Minister George Opare Addo mourns NDC Deputy Youth Organiser Eric Afeme",
+      "link": "https://ghanaiantimes.com.gh/youth-minister-george-opare-addo-mourns-ndc-deputy-youth-organiser-eric-afeme/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:36:05.000Z",
+      "summary": "Minister for Youth Development and Empowerment, George Opare Addo, has expressed grief over the death of National Democratic Congress (NDC) Greater Accra Second Deputy Regional Youth…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Newmont tops Ghana Club 100 as President Mahama urges businesses to tap into $10bn New Economy programme",
+      "link": "https://www.myjoyonline.com/newmont-tops-ghana-club-100-as-president-mahama-urges-businesses-to-tap-into-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:33:28.000Z",
+      "summary": "President John Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s US$10 billion New Economy Programme, which seeks to transform the economy through…",
+      "categories": [
+        "Economy",
+        "National",
+        "Ghana Club 100",
+        "new economy programme",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Fiifi Boafo questions Health Minister over Korle-Bu patient who paid GH¢77,561 but had no bed",
       "link": "https://ghanaiantimes.com.gh/fiifi-boafo-questions-health-minister-over-korle-bu-patient-who-paid-gh%c2%a277561-but-had-no-bed/",
       "source": "Ghanaian Times",
@@ -31,6 +99,21 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Rice quality must match production levels in Ghana’s self-sufficiency drive – Trade Minister",
+      "link": "https://www.myjoyonline.com/rice-quality-must-match-production-levels-in-ghanas-self-sufficiency-drive-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:32:53.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called on players in Ghana’s rice value chain to prioritise quality alongside increased production as the…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Elizabeth Ofosu-Adjare",
+        "Rice",
+        "Trade Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Asante Kotoko appoints Stanley Menzo as head coach",
@@ -152,64 +235,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "COP31 draft proposes at least $120 billion annually for climate adaptation by 2035",
-      "link": "https://www.myjoyonline.com/cop31-draft-proposes-at-least-120-billion-annually-for-climate-adaptation-by-2035/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:09:37.000Z",
-      "summary": "The COP31 draft proposes raising annual climate adaptation finance for developing countries to at least US$120 billion by 2035, giving a specific financial target to an earlier commitment…",
-      "categories": [
-        "Africa",
-        "Health",
-        "International",
-        "News",
-        "Politics",
-        "Biodiveristy",
-        "Climate change",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority MPs question government’s economic claims after Techiman market tour",
-      "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:08:30.000Z",
-      "summary": "Minority MPs have taken their assessment of Ghana’s economy to the Techiman Central Market and lorry terminals, saying early interactions with traders and transport operators raise…",
-      "categories": [
-        "Economy",
-        "National",
-        "lorry terminals",
-        "Minority MPs",
-        "techiman market tour"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Stop abusing students” – GES PRO on UGEL’s GH¢8,000 Hostel fee",
-      "link": "https://www.myjoyonline.com/stop-abusing-students-ges-pro-on-ugels-gh%c2%a28000-hostel-fee/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:08:11.000Z",
-      "summary": "The Public Relations Officer of the Ghana Education Service (GES), Daniel Fenyi, has taken issue with the University of Ghana Enterprise Limited (UGEL) over its reported GH¢8,000 annual…",
-      "categories": [
-        "Education",
-        "National",
-        "GES PRO",
-        "UGEL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Is a Trading Affiliate Program Worth It for Publishers in Ghana?",
-      "link": "https://ghanaiantimes.com.gh/is-a-trading-affiliate-program-worth-it-for-publishers-in-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T13:16:04.000Z",
-      "summary": "Ghana’s digital publishing space has grown fast over the past few years, and so has the hunt for monetization that actually pays. Display ads barely cover hosting costs for most local…",
-      "categories": [
-        "Technology"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
       "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
       "source": "Daily Graphic",
@@ -241,28 +266,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "SWAS calls for technology-driven governance in West Africa",
-      "link": "https://ghanaiantimes.com.gh/swas-calls-for-technology-driven-governance-in-west-africa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T08:03:58.000Z",
-      "summary": "The 8th International Symposium on West African Studies (ISWAS) has ended in Accra, with government, diplomatic and academic leaders calling for greater use of technology to improve…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prioritise projects to maximise value for money — ISSER urges govt",
-      "link": "https://ghanaiantimes.com.gh/prioritise-projects-to-maximise-value-for-money-isser-urges-govt/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T08:01:56.000Z",
-      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) has urged the government to prioritise public expenditure and strengthen monitoring to ensure value for money and create…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Court of Appeal adjourns former Buffer Stock CEO Hanan and his wife's trial indefinitely",

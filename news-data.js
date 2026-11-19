@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T14:33:40.598Z",
+  "updated": "2026-11-19T14:44:11.391Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,37 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "British Entrepreneur Rio Kavanagh targets financing and quality gaps in Ghana’s agricultural exports",
+      "link": "https://www.myjoyonline.com/british-entrepreneur-rio-kavanagh-targets-financing-and-quality-gaps-in-ghanas-agricultural-exports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:37:37.000Z",
+      "summary": "Finding an overseas buyer does not always settle the hardest part of an agricultural export deal. A supplier still has to assemble the goods, preserve their quality and cover the interval…"
+    },
+    {
+      "title": "Ghana Heading Towards a Historic Single-Digit Policy Rate Subject to Global Conditions – Economist Projects",
+      "link": "https://thehighstreetjournal.com/ghana-heading-towards-a-historic-single-digit-policy-rate-subject-to-global-conditions-economist-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T14:35:00.000Z",
+      "summary": "Dr. Theo Acheampong projects Ghana could achieve historic single-digit borrowing rates if global conditions improve, following the Bank of Ghana's 300-basis-point policy rate cut to 11%…"
+    },
+    {
+      "title": "Newmont tops Ghana Club 100 as President Mahama urges businesses to tap into $10bn New Economy programme",
+      "link": "https://www.myjoyonline.com/newmont-tops-ghana-club-100-as-president-mahama-urges-businesses-to-tap-into-10bn-new-economy-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:33:28.000Z",
+      "summary": "President John Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s US$10 billion New Economy Programme, which seeks to transform the economy through…"
+    },
+    {
+      "title": "Rice quality must match production levels in Ghana’s self-sufficiency drive – Trade Minister",
+      "link": "https://www.myjoyonline.com/rice-quality-must-match-production-levels-in-ghanas-self-sufficiency-drive-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:32:53.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called on players in Ghana’s rice value chain to prioritise quality alongside increased production as the…"
+    },
     {
       "title": "Minority MPs question government’s economic claims after Techiman market tour",
       "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T04:12:00.000Z",
       "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…"
-    },
-    {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.myjoyonline.com/intel-sued-by-investors-after-pc-sales-slump-hits-share-price/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T03:42:00.000Z",
-      "summary": "Intel, the US chip giant, faces a shareholder lawsuit accusing it of hiding the severity of a slump in personal computer (PC) sales that caused its share price to plunge almost 29% in one…"
-    },
-    {
-      "title": "California sues OpenAI over Hugging Face attack",
-      "link": "https://www.myjoyonline.com/california-sues-openai-over-hugging-face-attack/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T03:34:00.000Z",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper…"
-    },
-    {
-      "title": "Customers report service outages at major US banks",
-      "link": "https://www.myjoyonline.com/customers-report-service-outages-at-major-us-banks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T00:22:49.000Z",
-      "summary": "Thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, have reported trouble accessing services."
-    },
-    {
-      "title": "Photos from Day 1-3: Ecobank JoyBusiness SME Fair 2026",
-      "link": "https://www.myjoyonline.com/photos-from-day-1-3-ecobank-joybusiness-sme-fair-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T22:47:00.000Z",
-      "summary": "The Ecobank JoyBusiness SME Fair 2026 brought together three days of business exhibitions, product displays, shopping bargains, networking and live entertainment at Ghud Park, Accra Mall…"
     }
   ]
 };
