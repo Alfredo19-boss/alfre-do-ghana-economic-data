@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T14:44:11.391Z",
+  "updated": "2026-11-19T14:54:11.889Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Housing Minister calls for dedicated housing bank to tackle Ghana’s widening housing deficit",
+      "link": "https://www.myjoyonline.com/housing-minister-calls-for-dedicated-housing-bank-to-tackle-ghanas-widening-housing-deficit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:50:13.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for the establishment of a dedicated housing development bank to improve access to long-term financing for…"
+    },
+    {
+      "title": "Bolt steps up ride-hailing safety education in Ghana ahead of festive season",
+      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-ahead-of-festive-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:48:54.000Z",
+      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…"
+    },
     {
       "title": "British Entrepreneur Rio Kavanagh targets financing and quality gaps in Ghana’s agricultural exports",
       "link": "https://www.myjoyonline.com/british-entrepreneur-rio-kavanagh-targets-financing-and-quality-gaps-in-ghanas-agricultural-exports/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T05:00:00.000Z",
       "summary": "Ghana Scout Association brings national executives and regional leaders together to improve coordination and drive implementation of its strategic plan nationwide."
-    },
-    {
-      "title": "Govt to Halt Cashew Exports to Boost Local Processing",
-      "link": "https://thehighstreetjournal.com/cashew-export-halttoboostlocal-processing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T05:00:00.000Z",
-      "summary": "The proposed measures are aimed at ensuring local factories have enough raw materials to operate throughout the year"
-    },
-    {
-      "title": "Experience alone is no longer enough to run banks; use data and research – First Deputy Governor",
-      "link": "https://www.myjoyonline.com/experience-alone-is-no-longer-enough-to-run-banks-use-data-and-research-first-deputy-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T04:12:00.000Z",
-      "summary": "The First Deputy Governor of the Bank of Ghana, Dr Zakari Mumuni, urged banking sector managers to base decisions on data and research, warning that experience alone is no longer enough to…"
     }
   ]
 };

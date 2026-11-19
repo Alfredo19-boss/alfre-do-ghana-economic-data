@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T14:44:13.898Z",
+  "updated": "2026-11-19T14:54:15.021Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,82 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP should remain in opposition to learn how to manage economy- Ricketts-Hagan",
+      "link": "https://ghanaiantimes.com.gh/npp-should-remain-in-opposition-to-learn-how-to-manage-economy-ricketts-hagan/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:53:24.000Z",
+      "summary": "The Member of Parliament for Cape Coast South and Deputy Majority Leader, George Kweku Ricketts-Hagan, has criticised the New Patriotic Party (NPP), questioning its ability to manage…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Cocaine business is the only one booming under Mahama’ – Ntim Fordjour",
+      "link": "https://ghanaiantimes.com.gh/cocaine-business-is-the-only-one-booming-under-mahama-ntim-fordjour/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:51:35.000Z",
+      "summary": "The Member of Parliament for Assin South, Rev. John Ntim Fordjour, has accused the government of failing to improve economic conditions for businesses and farmers, claiming that the cocaine…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bawumia hosted in Berlin by CDU, Konrad Adenauer Stiftung for talks on jobs, governance",
+      "link": "https://ghanaiantimes.com.gh/bawumia-hosted-in-berlin-by-cdu-konrad-adenauer-stiftung-for-talks-on-jobs-governance/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:49:12.000Z",
+      "summary": "Flagbearer of the New Patriotic Party (NPP) and former Vice President, Dr. Mahamudu Bawumia, has been hosted in Berlin by the Christian Democratic Union, (CDU), the party of the German…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bolt steps up ride-hailing safety education in Ghana ahead of festive season",
+      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-ahead-of-festive-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:48:54.000Z",
+      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…",
+      "categories": [
+        "Technology",
+        "Bolt",
+        "Festive Season",
+        "safety education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Electroland Ghana launches ‘No Challenger Black Friday’",
+      "link": "https://ghanaiantimes.com.gh/electroland-ghana-launches-no-challenger-black-friday/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T14:45:42.000Z",
+      "summary": "Electroland Ghana Limited (EGL), has launched its biggest promotion ever, dubbed ‘No Challenger Black Friday’, to reward customers ahead of Christmas. The promotion will run for four days…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gender Minister calls for stronger coordination to end violence against children",
+      "link": "https://www.myjoyonline.com/gender-minister-calls-for-stronger-coordination-to-end-violence-against-children/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T14:44:07.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger coordination among government institutions, families, schools and communities to…",
+      "categories": [
+        "National",
+        "Dr Agnes Naa Momo Lartey",
+        "Gender Minister",
+        "violence against children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Côte d’Ivoire introduces mandatory online registration for travellers from African countries",
       "link": "https://ghanaiantimes.com.gh/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-african-countries/",
@@ -116,30 +192,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asante Kotoko appoints Stanley Menzo as head coach",
-      "link": "https://ghanaiantimes.com.gh/asante-kotoko-appoints-stanley-menzo-as-head-coach/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:31:01.000Z",
-      "summary": "Asante Kotoko has appointed its Director of Football, Stanley Menzo Purl, as the new head coach of the senior team as part of measures to improve the club’s performance in the ongoing Ghana…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘There’s no money in my pocket’ despite improving economic indicators – Stephen Amoah",
-      "link": "https://ghanaiantimes.com.gh/theres-no-money-in-my-pocket-despite-improving-economic-indicators-stephen-amoah/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:28:22.000Z",
-      "summary": "The Member of Parliament for Nhyiaeso, Dr Stephen Amoah, has questioned why improvements in Ghana’s key economic indicators are not translating into financial relief for ordinary Ghanaians…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Nana Ato Arthur questions whether soon to be assessed MMDCEs were told their targets at the start of the year",
       "link": "https://www.myjoyonline.com/nana-ato-arthur-questions-whether-soon-to-be-assessed-mmdces-were-told-their-targets-at-the-start-of-the-year/",
       "source": "MyJoyOnline",
@@ -151,18 +203,6 @@ window.GDC_PAPERS = {
         "Nana Ato Arthur"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hearts of Oak denies giving Mohammed Polo GH¢100 as 70th birthday gift",
-      "link": "https://ghanaiantimes.com.gh/hearts-of-oak-denies-giving-mohammed-polo-gh%c2%a2100-as-70th-birthday-gift/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:23:50.000Z",
-      "summary": "Accra Hearts of Oak has denied claims by former player and club legend Mohammed Ahmed Polo that it gave him GH¢100 as a gift for his 70th birthday. In a press statement dated November 19…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Declare state of emergency in galamsey hotspots – Catholic Bishops to Mahama",
@@ -179,18 +219,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC confirms death of Greater Accra Deputy Youth Organiser Eric Afeme",
-      "link": "https://ghanaiantimes.com.gh/ndc-confirms-death-of-greater-accra-deputy-youth-organiser-eric-afeme/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:21:26.000Z",
-      "summary": "The National Democratic Congress (NDC) Greater Accra Regional Secretariat has officially confirmed the death of its Deputy Regional Youth Organiser, Eric Atsu Afeme, popularly known as…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Twifo Hemang residents demand ECG action over high electricity bills",
       "link": "https://www.myjoyonline.com/twifo-hemang-residents-demand-ecg-action-over-high-electricity-bills/",
       "source": "MyJoyOnline",
@@ -201,36 +229,6 @@ window.GDC_PAPERS = {
         "Regional",
         "ECG",
         "Twifo Hemang"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Erastus Asare Donkor laments as court acquits four suspects who attacked him during galamsey exposé",
-      "link": "https://www.myjoyonline.com/erastus-asare-donkor-laments-as-court-acquits-four-suspects-who-attacked-him-during-galamsey-expose/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:14:45.000Z",
-      "summary": "Investigative journalist Erastus Asare Donkor has expressed disappointment following the acquittal and discharge of four people accused in connection with an alleged attack on him and his…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Erastus Asare Donkor",
-        "Expose",
-        "Galamsey",
-        "Suspects"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "link": "https://www.myjoyonline.com/british-hacker-who-stole-11m-through-text-message-scheme-jailed-for-six-years-in-us/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:10:40.000Z",
-      "summary": "A British hacker has been sentenced to six years in a federal prison in the US for conspiring to hack into at least a dozen companies via text message phishing, and stealing more than…",
-      "categories": [
-        "International",
-        "British",
-        "text message",
-        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -246,6 +244,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Ebola control: Côte d'Ivoire introduces mandatory online registration for all travellers from African countries",
+      "link": "https://www.graphic.com.gh/news/general-news/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T12:26:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Why Ghana was able to budget, procure and receive new $60.68 million presidential jet in less than one year - Kwakye Ofosu explains",
       "link": "https://www.graphic.com.gh/news/general-news/why-ghana-was-able-to-budget-and-procure-new-presidential-jet-in-less-than-one-year-kwakye-ofosu-explains.html",
       "source": "Daily Graphic",
@@ -253,6 +262,28 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Afenyo-Markin criticises removal of Big Six from new Ghana cedi banknotes",
+      "link": "https://www.graphic.com.gh/news/politics/afenyo-markin-criticises-removal-of-big-six-from-new-banknotes.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T11:12:17.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana commissions new national DNA laboratory at Noguchi; Samples will no longer go to South Africa",
+      "link": "https://www.graphic.com.gh/news/health/ghana-commissions-new-national-dna-laboratory-at-noguchi-samples-will-no-longer-go-to-south-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T11:05:52.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -283,39 +314,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ndpc-chairman-calls-for-flexible-working-arrangements.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T03:15:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Scientific research, regulation must guide traditional medicine practice - Dr Ayensu-Danquah",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-scientific-research-regulation-must-guide-traditional-medicine-practice-dr-ayensu-danquah.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T03:12:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Metropolis International Conference: Partnerships must be grounded in dignity, reciprocity - President",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-metropolis-international-conference-partnerships-must-be-grounded-in-dignity-reciprocity-president.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T03:05:46.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NHIA introduces new sanctions regime - To tackle illegal charges",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nhia-introduces-new-sanctions-regime-to-tackle-illegal-charges.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T03:00:42.000Z",
       "summary": "",
       "categories": [
         "General News"
