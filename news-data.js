@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T15:34:22.176Z",
+  "updated": "2026-11-19T18:51:45.451Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,41 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (HTTP 520)",
+    "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "GSE Borehole Project to Improve Water Access for 1,350 pupils at Agbogba Schools",
+      "link": "https://thehighstreetjournal.com/gse-borehole-project-to-improve-water-access-for-1350-pupils-at-agbogba-schools/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T17:23:58.000Z",
+      "summary": "The Ghana Stock Exchange has provided a borehole for 1,350 pupils at Agbogba schools to improve water access, hygiene and sanitation."
+    },
+    {
+      "title": "“We can’t even make light soup” – Bryan Acheampong says Nkoko Nkitinkiti has failed",
+      "link": "https://www.myjoyonline.com/we-cant-even-make-light-soup-bryan-acheampong-says-nkoko-nkitinkiti-has-failed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T17:00:45.000Z",
+      "summary": "Former Agriculture Minister Bryan Acheampong has criticised the government’s flagship Nkoko Nkitinkiti poultry programme, saying its output after two years is too small to make a meaningful…"
+    },
+    {
+      "title": "Stakeholders Call for Stronger Cybersecurity Measures to Protect Ghana’s Digital Finance Ecosystem",
+      "link": "https://thehighstreetjournal.com/stakeholders-call-for-stronger-cybersecurity-measures-to-protect-ghanas-digital-finance-ecosystem/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T16:00:00.000Z",
+      "summary": "Stakeholders have called for stronger cybersecurity, regulatory oversight and consumer education to combat digital financial fraud, protect customer confidence and safeguard Ghana’s…"
+    },
+    {
+      "title": "CEMSE questions continued funding of fuel marking programme amid new quality assurance technologies",
+      "link": "https://www.myjoyonline.com/cemse-questions-continued-funding-of-fuel-marking-programme-amid-new-quality-assurance-technologies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T15:51:30.000Z",
+      "summary": "The Center for Environmental Management and Sustainable Energy (CEMSE) has called on the National Petroleum Authority (NPA) to review the continued funding of Ghana’s fuel marking…"
+    },
     {
       "title": "Pure Lube wins 2026 GreenTech Innovation Challenge",
       "link": "https://gna.org.gh/2026/11/pure-lube-wins-2026-greentech-innovation-challenge/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T10:00:00.000Z",
       "summary": "IMANI's Sitsofe Mensah warns Ghana's $10 billion New Economy risks falling short as research funding remains below 0.1% of GDP, undermining the scientific, technological and innovation…"
-    },
-    {
-      "title": "Beyond the Celebration: Did Mfantsipim’s 150th Anniversary Pump Millions into Cape Coast?",
-      "link": "https://thehighstreetjournal.com/beyond-the-celebration-did-mfantsipims-150th-anniversary-pump-millions-into-cape-coast/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T09:40:00.000Z",
-      "summary": "What other Ghanaian towns can learn from a school anniversary that may have generated millions of cedis in local spending."
-    },
-    {
-      "title": "Wontumi Reportedly Offers GH¢25 Mn for a “No Conviction” in Exim Bank Case: But What Does the Law Say?",
-      "link": "https://thehighstreetjournal.com/wontumi-reportedly-offers-gh%c2%a225-mn-for-a-no-conviction-in-exim-bank-case-but-what-does-the-law-say/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T09:09:01.000Z",
-      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, has reportedly made a fresh proposal to the Attorney-General to pay…"
-    },
-    {
-      "title": "NADKANSCO commissions 100-tonne-per-day cashew processing factory in Bono East, boosting Ghana’s value-addition drive",
-      "link": "https://www.myjoyonline.com/nadkansco-commissions-100-tonne-per-day-cashew-processing-factory-in-bono-east-boosting-ghanas-value-addition-drive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T08:16:59.000Z",
-      "summary": "NADKANSCO Processing Limited has officially commissioned its modern cashew processing factory at Tuobodom in the Techiman North District of the Bono East Region, marking a significant…"
-    },
-    {
-      "title": "Ghana exports to China under zero-tariff policy reach $290m",
-      "link": "https://www.ghanabusinessnews.com/2026/11/17/ghana-exports-to-china-under-zero-tariff-policy-reach-290m/",
-      "source": "Ghana Business News",
-      "published": "2026-11-17T06:57:01.000Z",
-      "summary": "Ghana's exports to China rose sharply following the implementation of China's zero-tariff policy, with imports from Ghana reaching $290 million in June 2026."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T15:34:29.909Z",
+  "updated": "2026-11-19T18:52:13.715Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,124 +21,214 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GCB Bank backs 11th EMY Africa Awards, participates in pre-event gathering",
-      "link": "https://www.myjoyonline.com/gcb-bank-backs-11th-emy-africa-awards-participates-in-pre-event-gathering/",
+      "title": "13 arrested over alleged impersonation, extortion at mining sites in Eastern and Western Regions",
+      "link": "https://www.myjoyonline.com/13-arrested-over-alleged-impersonation-extortion-at-mining-sites-in-eastern-and-western-regions/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T15:23:44.000Z",
-      "summary": "GCB Bank has partnered the 11th edition of the EMY Africa Awards as part of efforts to recognise individuals whose contributions have influenced business, governance, entertainment and…",
-      "categories": [
-        "Banking and Finance",
-        "Events",
-        "Movies",
-        "Music",
-        "EMY Africa awards",
-        "GCB Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From Arrival to Departure: Improving Ghana’s visitor experience during December in GH 2026",
-      "link": "https://www.myjoyonline.com/from-arrival-to-departure-improving-ghanas-visitor-experience-during-december-in-gh-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:21:21.000Z",
-      "summary": "December in Ghana is more than a season of concerts, parties and celebrations. It is a time when people from different parts of the world come to experience Ghana’s culture, food, music…",
-      "categories": [
-        "Opinion",
-        "December in GH 2026",
-        "Tourism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘No foreigner will develop Ghana for us’ – Patrick Yaw Boamah demands stronger local business support",
-      "link": "https://www.myjoyonline.com/no-foreigner-will-develop-ghana-for-us-patrick-yaw-boamah-demands-stronger-local-business-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:19:28.000Z",
-      "summary": "Member of Parliament for Okaikwei Central, Patrick Yaw Boamah, has questioned the government’s commitment to supporting Ghanaian businesses, arguing that the 2027 Budget’s emphasis on…",
+      "published": "2026-11-19T18:38:19.000Z",
+      "summary": "Thirteen people have been arrested in two separate operations in the Eastern and Western Regions for allegedly posing as state security operatives and demanding money from miners. The…",
       "categories": [
         "National",
-        "Budget 2027",
-        "local business",
-        "Patrick Yaw Boamah"
+        "Regional",
+        "13 arrested",
+        "Extortion",
+        "Impersonation",
+        "Mining sites"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prosecutor confident Jirapa Dubai murder conviction will survive Supreme Court challenge",
-      "link": "https://www.myjoyonline.com/prosecutor-confident-jirapa-dubai-murder-conviction-will-survive-supreme-court-challenge/",
+      "title": "The 24-hour economy the NDC promised has not started – Stephen Amoah",
+      "link": "https://www.myjoyonline.com/the-24-hour-economy-the-ndc-promised-has-not-started-stephen-amoah/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T15:11:28.000Z",
-      "summary": "Principal State Attorney Saeed Abdul Shakur says the prosecution is confident that Elisha Mahama Akpanichie’s conviction for the murder of businessman Eric Johnson will stand if he…",
+      "published": "2026-11-19T18:27:25.000Z",
+      "summary": "Former Deputy Finance Minister and Member of Parliament for Nhyaieso, Dr Stephen Amoah, says the National Democratic Congress (NDC) has yet to implement the 24-hour economy it promised…",
       "categories": [
-        "Crime",
         "National",
-        "Jirapa Dubai",
-        "murder conviction",
-        "Prosecutor"
+        "News",
+        "24-hour economy",
+        "NDC",
+        "Stephen Amoah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Court of Appeal upholds life sentence for Jirapa Dubai CEO’s killer",
-      "link": "https://www.myjoyonline.com/court-of-appeal-upholds-life-sentence-for-jirapa-dubai-ceos-killer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:07:07.000Z",
-      "summary": "The Court of Appeal has dismissed an appeal by Elisha Mahama Akpanichie against his conviction for the murder of Eric Johnson, founder and Chief Executive Officer of Royal Cosy Hills Hotel…",
+      "title": "AG issues directive to police, law enforcement agencies on due process in criminal investigations",
+      "link": "https://ghanaiantimes.com.gh/ag-issues-directive-to-police-law-enforcement-agencies-on-due-process-in-criminal-investigations/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-19T18:14:35.000Z",
+      "summary": "The Attorney General and Minister of Justice, has issued a Directive to the Police CID and other law enforcement agencies to regulate the conduct of criminal investigations and the handling…",
       "categories": [
-        "Crime",
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Korle Bu sends five-year-old Miguel home for further tests, schedules review for November 24",
+      "link": "https://www.myjoyonline.com/korle-bu-sends-five-year-old-miguel-home-for-further-tests-schedules-review-for-november-24/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T18:11:01.000Z",
+      "summary": "Five-year-old Miguel Ntsiful, whose family has paid GH¢77,561 towards his brain tumour surgery at Korle Bu Teaching Hospital, is still awaiting the procedure after doctors requested further…",
+      "categories": [
+        "Health",
         "National",
         "Top Story",
-        "Court of Appeal",
-        "Jirapa Dubai"
+        "Brain Surgery",
+        "Korle Bu",
+        "Miguel Ntsiful",
+        "Scans"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "What is wrong with us: We have filled our houses of worship, so why are we emptying our conscience?",
-      "link": "https://www.myjoyonline.com/what-is-wrong-with-us-we-have-filled-our-houses-of-worship-so-why-are-we-emptying-our-conscience/",
+      "title": "8 best sites to sell Sephora, Foot Locker and other gift cards for cash in Ghana (2027)",
+      "link": "https://www.myjoyonline.com/8-best-sites-to-sell-sephora-foot-locker-and-other-gift-cards-for-cash-in-ghana-2027/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T15:02:20.000Z",
-      "summary": "Picture a man who never misses a service, occupies a front-row seat, gives generously when the cameras are rolling, and lectures others eloquently about righteousness. On Monday he quietly…",
+      "published": "2026-11-19T18:10:59.000Z",
+      "summary": "Gift cards are fast becoming the most convenient way to send money, reward friends, or shop internationally. Retail gift cards like Sephora, Foot Locker, among others, are especially…",
       "categories": [
-        "Features",
+        "News",
+        "Foot Locker",
+        "Ghana",
+        "Gift cards",
+        "Sephora"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Speaker Bagbin urges African parliaments to listen to citizens",
+      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-urges-african-parliaments-to-listen-to-citizens.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T17:54:57.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "‘Attempting to bribe me is an insult to my intelligence’ – Manasseh Azure",
+      "link": "https://www.myjoyonline.com/attempting-to-bribe-me-is-an-insult-to-my-intelligence-manasseh-azure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T17:52:35.000Z",
+      "summary": "Investigative journalist Manasseh Azure has opened up about attempts by individuals to bribe him in the course of his work, insisting that he has never accepted money to suppress a story.",
+      "categories": [
+        "In Focus",
+        "National",
+        "News",
+        "bribe",
+        "Manasseh Azure"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amelley Djosu: Ghana’s creative industry needs more than creative leaders",
+      "link": "https://www.myjoyonline.com/amelley-djosu-ghanas-creative-industry-needs-more-than-creative-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T17:46:54.000Z",
+      "summary": "We must stop treating creative credibility and executive competence as though they are interchangeable. They are complementary, but they are not the same thing.",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Events",
+        "HP Entertainment 3",
+        "HP Opinion 1",
+        "Movies",
+        "Music",
         "National",
         "Opinion",
-        "Conscience",
-        "Prof Douglas Boateng",
-        "What is wrong with us"
+        "Theatre",
+        "Travel and Tourism",
+        "Amelley Djosu",
+        "Creative Industry",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana’s mineral wealth: From extraction to local refining. The 2030 ambition",
-      "link": "https://www.myjoyonline.com/ghanas-mineral-wealth-from-extraction-to-local-refining-the-2030-ambition/",
+      "title": "Three-year-old girl found dead in parked vehicle after going missing in Ejura",
+      "link": "https://www.myjoyonline.com/three-year-old-girl-found-dead-in-parked-vehicle-after-going-missing-in-ejura/",
       "source": "MyJoyOnline",
-      "published": "2026-11-19T15:01:51.000Z",
-      "summary": "The manganese mine at Nsuta, in Ghana's Western Region, has been shipping ore since 1916. More than a century later, the rock still leaves the country the way it comes out of the ground…",
+      "published": "2026-11-19T17:30:11.000Z",
+      "summary": "A three-year-old girl who was reported missing in the Ejura Zongo community in the Ashanti Region has been found dead inside a parked vehicle.",
       "categories": [
-        "Analysis",
-        "Data",
-        "HP Research 3",
-        "Investments",
-        "Mining",
-        "2030",
-        "local refining",
-        "Mineral wealth"
+        "Crime",
+        "News",
+        "Regional",
+        "Ejura",
+        "Missing 3-year-old"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ga Mantse urges newly called Ga-Dangme lawyers to defend Ga-Dangme heritage and reshape its narrative",
-      "link": "https://www.myjoyonline.com/ga-mantse-urges-newly-called-ga-dangme-lawyers-to-defend-ga-dangme-heritage-and-reshape-its-narrative/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:00:36.000Z",
-      "summary": "The Ga Mantse, King Tackie Teiko Tsuru II, has urged newly called lawyers of Ga-Dangme descent to use their professional expertise to protect the interests, heritage and dignity of the Ga…",
+      "title": "Attorney-General to law enforcement: Comply strictly with suspects' constitutional rights",
+      "link": "https://www.graphic.com.gh/news/general-news/attorney-general-to-law-enforcement-comply-strictly-with-suspects-constitutional-rights.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T17:28:49.000Z",
+      "summary": "",
       "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Video: Zanetor Rawlings administers CPR to woman who collapsed at COP31",
+      "link": "https://www.myjoyonline.com/video-zanetor-rawlings-administers-cpr-to-woman-who-collapsed-at-cop31/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T17:28:34.000Z",
+      "summary": "Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, administered cardiopulmonary resuscitation (CPR) and basic first aid to a woman who collapsed during a meeting…",
+      "categories": [
+        "HP News 5",
         "National",
-        "Ga Mantse",
-        "Ga-Dangme lawyers"
+        "COP31 climate conference",
+        "CPR",
+        "Dr Zanetor Agyeman-Rawlings"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "West African journalists, educators urged to prioritise fact-checking, verification",
+      "link": "https://www.graphic.com.gh/news/general-news/west-african-journalists-educators-urged-to-prioritise-fact-checking-verification-2.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T16:38:40.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghanaian youth leaders call for a seat at the decision-making table",
+      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-youth-leaders-call-for-a-seat-at-the-decision-making-table.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T16:21:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "IPR Ghana re-elects Esther Cobbah and executives unopposed at 32nd AGM",
+      "link": "https://www.graphic.com.gh/news/general-news/ipr-ghana-re-elects-esther-cobbah-and-executives-unopposed-at-32nd-agm.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T15:49:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Put knowledge into practice, Austrian Ambassador urges HAWA graduates",
+      "link": "https://www.graphic.com.gh/news/general-news/put-knowledge-into-practice-austrian-ambassador-urges-hawa-graduates.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T15:41:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "NPP should remain in opposition to learn how to manage economy- Ricketts-Hagan",
@@ -225,18 +315,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Fiifi Boafo questions Health Minister over Korle-Bu patient who paid GH¢77,561 but had no bed",
-      "link": "https://ghanaiantimes.com.gh/fiifi-boafo-questions-health-minister-over-korle-bu-patient-who-paid-gh%c2%a277561-but-had-no-bed/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:33:15.000Z",
-      "summary": "A member of the New Patriotic Party (NPP) Communications Team and former Public Affairs Director of COCOBOD, Fiifi Boafo, has questioned whether Health Minister Kwabena Mintah Akandoh has…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "The Cambridge Dictionary Word of the Year 2026: Why human?",
       "link": "https://www.graphic.com.gh/news/general-news/the-cambridge-dictionary-word-of-the-year-2026-why-human.html",
       "source": "Daily Graphic",
@@ -252,72 +330,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-africa.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T12:26:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Why Ghana was able to budget, procure and receive new $60.68 million presidential jet in less than one year - Kwakye Ofosu explains",
-      "link": "https://www.graphic.com.gh/news/general-news/why-ghana-was-able-to-budget-and-procure-new-presidential-jet-in-less-than-one-year-kwakye-ofosu-explains.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T12:16:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Afenyo-Markin criticises removal of Big Six from new Ghana cedi banknotes",
-      "link": "https://www.graphic.com.gh/news/politics/afenyo-markin-criticises-removal-of-big-six-from-new-banknotes.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T11:12:17.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana commissions new national DNA laboratory at Noguchi; Samples will no longer go to South Africa",
-      "link": "https://www.graphic.com.gh/news/health/ghana-commissions-new-national-dna-laboratory-at-noguchi-samples-will-no-longer-go-to-south-africa.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T11:05:52.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Meteo forecasts sunny skies and isolated thunderstorms for today",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-meteo-forecasts-sunny-skies-and-isolated-thunderstorms-for-today.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T10:25:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court of Appeal adjourns former Buffer Stock CEO Hanan and his wife's trial indefinitely",
-      "link": "https://www.graphic.com.gh/news/general-news/court-of-appeal-adjourns-trial-former-buffer-stock-ceo-hanan-and-his-wifes-trial-indefinitely.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T06:09:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDPC Chairman calls for flexible working arrangements",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ndpc-chairman-calls-for-flexible-working-arrangements.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T03:15:31.000Z",
       "summary": "",
       "categories": [
         "General News"
