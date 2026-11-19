@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T22:12:14.220Z",
+  "updated": "2026-11-19T22:22:14.290Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "From Toronto Driveways to African Ports: Inside a $4.5 million stolen-car network",
+      "link": "https://www.myjoyonline.com/from-toronto-driveways-to-african-ports-inside-a-4-5-million-stolen-car-network/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T22:13:12.000Z",
+      "summary": "The international trade in stolen luxury vehicles has suffered a major setback after Peel Regional Police in Canada arrested 12 people and recovered 96 stolen vehicles valued at…",
+      "categories": [
+        "Features",
+        "National",
+        "News",
+        "African ports",
+        "Canada",
+        "stolen cars network",
+        "Toronto"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Goldfields wins overall CSR company at Ghana Club 100",
       "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
@@ -122,20 +139,6 @@ window.GDC_PAPERS = {
         "48-hour detention rule",
         "Martin Kpebu",
         "police violations"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Recurring abuses in criminal investigations prompted AG’s directive – Press Secretary",
-      "link": "https://www.myjoyonline.com/recurring-abuses-in-criminal-investigations-prompted-ags-directive-press-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:56:22.000Z",
-      "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says longstanding concerns over how criminal investigations are conducted and suspects are…",
-      "categories": [
-        "National",
-        "News",
-        "abuses in criminal investigations",
-        "AG's directive"
       ],
       "site": "https://www.myjoyonline.com/"
     },
