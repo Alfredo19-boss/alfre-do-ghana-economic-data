@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T11:34:11.318Z",
+  "updated": "2026-11-19T11:43:42.357Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "GES PRO Questions GH¢8,000 UGEL Hostel Fee, Calls for Shift to Flexible University Education",
+      "link": "https://thehighstreetjournal.com/ges-pro-questions-gh%c2%a28000-ugel-hostel-fee-calls-for-shift-to-flexible-university-education/",
+      "source": "The High Street Journal",
+      "published": "2026-11-19T11:42:35.000Z",
+      "summary": "GES PRO Daniel Fenyi has criticised UGEL's GH¢8,000 annual hostel fee, urging universities to expand virtual and flexible learning to reduce accommodation costs and improve access to…"
+    },
     {
       "title": "Ghana Revenue Authority intensifies VAT compliance checks",
       "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-revenue-authority-intensifies-vat-compliance-checks/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T17:03:16.000Z",
       "summary": "Fidelity Bank Ghana has called for greater mobilisation of domestic capital, investment in technology, and targeted policy interventions to accelerate industrialisation and turn Ghana’s…"
-    },
-    {
-      "title": "EXIM Bank-funded cashew factory targets 33,000-tonne annual processing capacity",
-      "link": "https://www.myjoyonline.com/exim-bank-funded-cashew-factory-targets-33000-tonne-annual-processing-capacity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T17:02:35.000Z",
-      "summary": "The newly commissioned NADKANSCO Cashew Processing Limited in Techiman has the capacity to process up to 33,000 metric tonnes of raw cashew nuts annually, in a major boost to Ghana's…"
     }
   ]
 };

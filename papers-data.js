@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:34:14.190Z",
+  "updated": "2026-11-19T11:43:44.680Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,7 +27,26 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T11:32:14.000Z",
       "summary": "Ghanaian rapper Sarkodie has called on the government to increase investment in the film industry.",
       "categories": [
+        "HP Entertainment 2",
+        "HP News 10",
+        "Movies",
         "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Greater Accra NDC Youth Organiser, Eric Afeme, dies days after election victory",
+      "link": "https://www.myjoyonline.com/deputy-greater-accra-ndc-youth-organiser-eric-afeme-dies-days-after-election-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:28:45.000Z",
+      "summary": "The National Democratic Congress (NDC) has been hit by the death of its newly elected Greater Accra Deputy Regional Youth Organiser, Eric Afeme, popularly known as Agabus.",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Politics",
+        "Election",
+        "Eric Afeme",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -96,6 +115,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T11:10:01.000Z",
       "summary": "Six planned interventions to tackle flooding in parts of Accra are yet to move into the construction phase as the Ministry of Works, Housing and Water Resources awaits financial…",
       "categories": [
+        "In Focus",
         "National",
         "News",
         "Finance Ministry",
@@ -113,20 +133,6 @@ window.GDC_PAPERS = {
         "Business",
         "Economy",
         "HP Business 7"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ntim Fordjour accuses Mahama government of prioritising luxury jets over security needs",
-      "link": "https://www.myjoyonline.com/ntim-fordjour-accuses-mahama-government-of-prioritising-luxury-jets-over-security-needs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:51:21.000Z",
-      "summary": "Ranking Member of Parliament for the Defence and Interior Committee, Rev John Ntim Fordjour, has accused the Mahama-led government of placing greater emphasis on luxury presidential…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Mahama",
-        "Ntim Fordjour"
       ],
       "site": "https://www.myjoyonline.com/"
     },
