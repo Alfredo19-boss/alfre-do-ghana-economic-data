@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T21:22:15.718Z",
+  "updated": "2026-11-19T21:42:13.934Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Savannah NDC Secretary calls for unity after Regional executive election",
+      "link": "https://www.myjoyonline.com/savannah-ndc-secretary-calls-for-unity-after-regional-executive-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T21:39:13.000Z",
+      "summary": "Lawyer Kudus Gbeadese, Savannah Regional Secretary of the National Democratic Congress (NDC), has urged party members in the region to put the outcome of the recent regional executive…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "NDC",
+        "Savannah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "24-hour economy gradually creating jobs, but more work needed – Austin Gamey",
       "link": "https://www.myjoyonline.com/24-hour-economy-gradually-creating-jobs-but-more-work-needed-austin-gamey/",
@@ -42,6 +56,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:57:56.000Z",
       "summary": "Dancehall artiste Shatta Wale has responded to allegations that he neglected his son, Majesty, insisting that a court ruling in 2025 granted him access to the child whenever he wanted.",
       "categories": [
+        "HP News 9",
         "Music",
         "National",
         "Majesty",
@@ -87,6 +102,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:55:37.000Z",
       "summary": "Ghanaian YouTuber and content creator Wode Maya has paid an emotional tribute to his late mother, marking one month since her death and what would have been her birthday.",
       "categories": [
+        "HP News 10",
         "National",
         "Mother",
         "Wode Maya"
@@ -133,20 +149,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ahmed Ibrahim warns against political interference in government projects",
-      "link": "https://www.myjoyonline.com/ahmed-ibrahim-warns-against-political-interference-in-government-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:44:24.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has warned against political interference in the award and execution of government projects, urging authorities to…",
-      "categories": [
-        "National",
-        "Ahmed Ibrahim",
-        "government projects",
-        "Political interference"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "University of Ghana reduces proposed hostel fee from GH¢8,820 to GH¢8,050",
