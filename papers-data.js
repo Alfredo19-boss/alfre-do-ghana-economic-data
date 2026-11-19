@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T04:18:53.052Z",
+  "updated": "2026-11-19T04:28:51.950Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,32 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Cocaine and millions of pills seized in eastern Libya, officials say",
+      "link": "https://www.myjoyonline.com/cocaine-and-millions-of-pills-seized-in-eastern-libya-officials-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T04:00:00.000Z",
+      "summary": "Eastern Libyan authorities said they seized more than 4 million narcotic pills and 29 kilograms ​of cocaine and hashish in the coastal city ‌of Derna on Tuesday.",
+      "categories": [
+        "Africa",
+        "Cocaine",
+        "Libya"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Russia’s A7 payment network plans further expansion in Africa, executive says",
+      "link": "https://www.myjoyonline.com/russias-a7-payment-network-plans-further-expansion-in-africa-executive-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:51:00.000Z",
+      "summary": "Russia's A7 international payment system plans to expand further in Africa, after opening in Nigeria and Zimbabwe, to build banking infrastructure around growing Russian investment, company…",
+      "categories": [
+        "Africa",
+        "A7",
+        "Russia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
       "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
       "source": "MyJoyOnline",
@@ -33,6 +59,19 @@ window.GDC_PAPERS = {
         "News",
         "Godbod",
         "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Emirates boss says fuel, not demand, squeezing airline profits",
+      "link": "https://www.myjoyonline.com/emirates-boss-says-fuel-not-demand-squeezing-airline-profits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:44:00.000Z",
+      "summary": "Emirates, the Middle East's largest airline, is seeing strong demand on routes to China, Russia, and Africa, but is feeling the squeeze from high fuel prices linked to the Iran war, its…",
+      "categories": [
+        "International",
+        "Transport",
+        "Emirates"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -89,48 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Acheampong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "link": "https://www.myjoyonline.com/julio-iglesias-facing-court-investigation-over-alleged-sexual-offences/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:59:00.000Z",
-      "summary": "Singer Julio Iglesias is facing an investigation by Spain's national court over allegations that he sexually abused and assaulted two female former staff members",
-      "categories": [
-        "International",
-        "Music",
-        "Julio Iglesias",
-        "Sexual offences"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-      "link": "https://www.myjoyonline.com/parents-jailed-for-torture-and-death-of-four-year-old-girl-in-france-in-1987/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:50:00.000Z",
-      "summary": "The mother of a four-year-old girl killed in central France and found along a motorway almost 40 years ago has been sentenced to 20 years in prison.",
-      "categories": [
-        "International",
-        "France",
-        "Torture"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-      "link": "https://www.myjoyonline.com/google-rejects-uk-request-for-russell-brand-youtube-video-to-be-removed-sources-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T02:39:00.000Z",
-      "summary": "Google has refused a government request to remove a YouTube video posted by jailed rapist Russell Brand's wife in which he claims his innocence, Whitehall sources have told the BBC.",
-      "categories": [
-        "International",
-        "Music",
-        "Google",
-        "Russell Brand",
-        "YouTube"
       ],
       "site": "https://www.myjoyonline.com/"
     },

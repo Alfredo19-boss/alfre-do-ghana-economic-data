@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-19T04:18:50.249Z",
+  "updated": "2026-11-19T04:28:49.006Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T03:50:26.000Z",
       "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…"
+    },
+    {
+      "title": "Emirates boss says fuel, not demand, squeezing airline profits",
+      "link": "https://www.myjoyonline.com/emirates-boss-says-fuel-not-demand-squeezing-airline-profits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T03:44:00.000Z",
+      "summary": "Emirates, the Middle East's largest airline, is seeing strong demand on routes to China, Russia, and Africa, but is feeling the squeeze from high fuel prices linked to the Iran war, its…"
     },
     {
       "title": "Large-Scale mines to supply gold for Ghana refinery’s certification drive – Ken Ashigbey",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-16T12:37:04.000Z",
       "summary": "Fitch Solutions says Ghana faces limited fiscal risks in 2027 despite an anticipated increase in government expenditure under the administration’s New Economy Agenda. The research firm…"
-    },
-    {
-      "title": "Dangote plans sugar investment in Ghana, targets nearly 50,000 jobs",
-      "link": "https://www.myjoyonline.com/dangote-plans-sugar-investment-in-ghana-targets-nearly-50000-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-16T12:31:28.000Z",
-      "summary": "African business magnate Aliko Dangote has announced plans to partner with the Ghanaian government to invest in sugar production, a project he says could create nearly 50,000 jobs."
     }
   ]
 };
