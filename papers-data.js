@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:24:14.352Z",
+  "updated": "2026-11-19T11:34:14.190Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sarkodie urges government to invest in Ghana’s film industry",
+      "link": "https://www.myjoyonline.com/sarkodie-urges-government-to-invest-in-ghanas-film-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:32:14.000Z",
+      "summary": "Ghanaian rapper Sarkodie has called on the government to increase investment in the film industry.",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy NDC Youth Organiser for Greater Accra dies days after election victory",
+      "link": "https://www.myjoyonline.com/deputy-ndc-youth-organiser-for-greater-accra-dies-days-after-election-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:28:45.000Z",
+      "summary": "The National Democratic Congress (NDC) has been hit by the death of its newly elected Greater Accra Deputy Regional Youth Organiser, Eric Afeme, popularly known as Agabus.",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Politics",
+        "Election",
+        "Eric Afeme",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ntim Fordjour: Instead of raiding drug cartels, security agencies stormed my home",
       "link": "https://www.myjoyonline.com/ntim-fordjour-instead-of-raiding-drug-cartels-security-agencies-stormed-my-home/",
@@ -100,35 +127,6 @@ window.GDC_PAPERS = {
         "National",
         "Mahama",
         "Ntim Fordjour"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Infantino to face France’s Diallo and Japan’s Tashima in FIFA presidential election",
-      "link": "https://www.myjoyonline.com/infantino-to-face-frances-diallo-and-japans-tashima-in-fifa-presidential-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:49:17.000Z",
-      "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
-      "categories": [
-        "Football",
-        "HP News 8",
-        "News",
-        "FIFA elections",
-        "FIFA President",
-        "French FA president"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana calls for coordinated action to strengthen child protection systems",
-      "link": "https://www.myjoyonline.com/ghana-calls-for-coordinated-action-to-strengthen-child-protection-systems/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:46:35.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger collaboration among government agencies, families, schools and communities to…",
-      "categories": [
-        "National",
-        "Child",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
