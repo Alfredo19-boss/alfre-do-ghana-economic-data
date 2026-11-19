@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T21:02:23.029Z",
+  "updated": "2026-11-19T21:12:16.383Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "24-hour economy gradually creating jobs, but more work needed – Austin Gamey",
+      "link": "https://www.myjoyonline.com/24-hour-economy-gradually-creating-jobs-but-more-work-needed-austin-gamey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T21:01:59.000Z",
+      "summary": "Labour expert Austin Gamey says Ghana's 24-hour economy initiative is gradually creating employment opportunities, although its impact may not yet be as significant as many Ghanaians expect.",
+      "categories": [
+        "National",
+        "News",
+        "24-hour economy",
+        "Austin Gamey",
+        "Jobs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Shatta Wale denies neglecting son, says court ruling allowed him access in 2025",
       "link": "https://www.myjoyonline.com/shatta-wale-denies-neglecting-son-says-court-ruling-allowed-him-access-in-2025/",
@@ -41,6 +56,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:57:35.000Z",
       "summary": "Private legal practitioner Martin Kpebu has welcomed the Attorney-General’s directive requiring investigative agencies to comply with the constitutional 48-hour detention limit, describing…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "48-hour detention rule",
@@ -56,6 +72,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:56:22.000Z",
       "summary": "The Press Secretary to the Attorney-General and Minister for Justice, Benjamin Alpha Aidoo, says longstanding concerns over how criminal investigations are conducted and suspects are…",
       "categories": [
+        "HP News 7",
         "National",
         "News",
         "abuses in criminal investigations",
@@ -99,7 +116,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-19T20:55:00.000Z",
       "summary": "The President of the Institution of Engineering and Technology Ghana (IET-GH), Engr. Wonder Davor, has urged the government to actively involve local engineers in major infrastructure and…",
       "categories": [
-        "News"
+        "National",
+        "Engineers",
+        "IET-Ghana",
+        "National projects"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -125,26 +145,6 @@ window.GDC_PAPERS = {
         "Ahmed Ibrahim",
         "government projects",
         "Political interference"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
-      "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:26:51.000Z",
-      "summary": "The number of African instant payment systems rated at the entry level of a continental inclusion ranking rose to 19 this year from 15, as new systems in Liberia, Burundi and Guinea went…",
-      "categories": [
-        "Analysis",
-        "Banking and Finance",
-        "Business",
-        "HP Research 3",
-        "International",
-        "National",
-        "News",
-        "AfricaNenda",
-        "IPS",
-        "SIIPS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
