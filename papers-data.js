@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T11:14:13.457Z",
+  "updated": "2026-11-19T11:24:14.352Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ntim Fordjour: Instead of raiding drug cartels, security agencies stormed my home",
+      "link": "https://www.myjoyonline.com/ntim-fordjour-instead-of-raiding-drug-cartels-security-agencies-stormed-my-home/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:20:41.000Z",
+      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev. John Ntim Fordjour, has questioned the government’s commitment to fighting drug trafficking, recalling how security…",
+      "categories": [
+        "National",
+        "cartels",
+        "Ntim Fordjour",
+        "Security agencies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Korle Bu has only 8 paediatric ICU ventilators, all currently in use – Board Chair",
+      "link": "https://www.myjoyonline.com/korle-bu-has-only-8-paediatric-icu-ventilators-all-currently-in-use-board-chair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:17:22.000Z",
+      "summary": "The Korle Bu Teaching Hospital has eight paediatric intensive care unit (ICU) ventilators, all of which are currently in use, the hospital's Board Chairman, Professor Titus Beyuo, has…",
+      "categories": [
+        "Health",
+        "HP News 9",
+        "National",
+        "Korle Bu",
+        "paediatric ICU",
+        "Prof. Titus Beyuo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FIFA receives three candidatures for next year’s presidential election",
+      "link": "https://www.myjoyonline.com/fifa-receives-three-candidatures-for-next-years-presidential-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T11:16:10.000Z",
+      "summary": "Following the call for election issued by the FIFA Council on 29 April 2026, the FIFA general secretariat has received the following candidatures proposed by FIFA Member Associations for…",
+      "categories": [
+        "Football",
+        "FIFA elections"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Six Accra flood-control projects await Finance Ministry approval – Works Minister",
       "link": "https://www.myjoyonline.com/six-accra-flood-control-projects-await-finance-ministry-approval-works-minister/",
@@ -91,19 +133,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "No evidence 5-year-old boy’s brain tumour is cancerous – Korle bu Board Chair says after a JoyNews report",
-      "link": "https://www.myjoyonline.com/no-evidence-5-year-old-boys-brain-tumour-is-cancerous-korle-bu-board-chair-says-after-a-joynews-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:34:33.000Z",
-      "summary": "The Board Chairman of the Korle Bu Teaching Hospital, Professor Titus Beyuo, says medical assessments have found no evidence that the brain tumour affecting a five-year-old boy is cancerous.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Korle Bu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana Meteo forecasts sunny skies and isolated thunderstorms for today",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-meteo-forecasts-sunny-skies-and-isolated-thunderstorms-for-today.html",
       "source": "Daily Graphic",
@@ -113,38 +142,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Stanley Menzo appointed Kotoko head coach",
-      "link": "https://www.myjoyonline.com/stanley-menzo-appointed-kotoko-head-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:01:19.000Z",
-      "summary": "The decision comes after Kotoko went four consecutive league matches without a win. The Porcupine Warriors currently sit 11th in the league table, with 14 points from 11 matches.",
-      "categories": [
-        "Football",
-        "HP News 5",
-        "National",
-        "Asante Kotoko",
-        "GPL",
-        "Stanley Menzo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wassa group demands 10% mining equity, 2% mineral sales revenue in Takwa mines",
-      "link": "https://www.myjoyonline.com/wassa-group-demands-10-mining-equity-2-mineral-sales-revenue-in-takwa-mines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T09:27:22.000Z",
-      "summary": "The Wassa Professionals Network (WPN) is urging the government to reserve a 10% equity stake and 2% of gross mineral sales revenue for host communities in future mining lease agreements…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Regional",
-        "takwa",
-        "wassa group"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "SWAS calls for technology-driven governance in West Africa",
