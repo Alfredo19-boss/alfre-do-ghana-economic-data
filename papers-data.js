@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T09:42:35.365Z",
+  "updated": "2026-11-20T09:52:37.836Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
+      "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:39:46.000Z",
+      "summary": "Having played a key role in Ghana's win over Panama, Thomas-Asante was hoping to star for the Black Stars against the Three Lions.",
+      "categories": [
+        "Football",
+        "2026 World Cup",
+        "Black Stars",
+        "Brandon Thomas-Asante",
+        "Carlos Queiroz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GPNet celebrates member, Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
       "link": "https://www.myjoyonline.com/gpnet-celebrates-member-nii-adjei-mensahfio-on-winning-the-gja-best-online-documentary-award/",
@@ -157,21 +172,6 @@ window.GDC_PAPERS = {
         "Kenya",
         "Mali",
         "Zanzibar"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
-      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T07:47:00.000Z",
-      "summary": "Ghanaian business executive Alex Apau Dadey has been named Entrepreneur of the Year at the 14th edition of the All Africa Business Leaders Awards (AABLA), held at the Sandton Convention…",
-      "categories": [
-        "Africa",
-        "Business",
-        "Events",
-        "Alex Apau Dadey.All Africa Business Leaders Awards",
-        "KGL Group"
       ],
       "site": "https://www.myjoyonline.com/"
     },
