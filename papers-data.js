@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:03:04.355Z",
+  "updated": "2026-11-20T19:08:06.060Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -39,8 +39,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-20T18:52:16.000Z",
       "summary": "The mother of 15-year-old Badu Nkansah Frimpong, popularly known as Javits, broke down in tears during the reading of her tribute at his funeral in the Bronx, New York, as she struggled to…",
       "categories": [
-        "International",
+        "HP News 1",
         "National",
+        "News",
         "Javits",
         "Mother",
         "Tribute"
@@ -68,7 +69,7 @@ window.GDC_PAPERS = {
       "summary": "Nearly 600 women were killed in South Africa between July and September this year, according to the country's latest crime statistics.",
       "categories": [
         "Africa",
-        "HP News 1",
+        "HP News 4",
         "International",
         "News",
         "South Africa",
