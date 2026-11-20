@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:23:13.515Z",
+  "updated": "2026-11-20T04:28:13.750Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Court of Appeal halts Hanan trial indefinitely over defective charges",
+      "link": "https://ghanaiantimes.com.gh/court-of-appeal-halts-hanan-trial-indefinitely-over-defective-charges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:27:35.000Z",
+      "summary": "The Court of Appeal has indefinitely stalled the trial of Alhaji Hanan Abdul-Wahab Aludiba, a former Chief Executive Officer of the National Food and Buffer Stock Company, to allow his…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Government preparing to hire 8,000 more health workers – Prof Beyuo",
       "link": "https://www.myjoyonline.com/government-preparing-to-hire-8000-more-health-workers-prof-beyuo/",
       "source": "MyJoyOnline",
@@ -31,6 +43,18 @@ window.GDC_PAPERS = {
         "News",
         "Beyou",
         "nurses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Newly launched ‘Morocco Offer’ targets 50,000 jobs with defence industry push",
+      "link": "https://www.myjoyonline.com/newly-launched-morocco-offer-targets-50000-jobs-with-defence-industry-push/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:02:00.000Z",
+      "summary": "Morocco has unveiled a defence industry roadmap targeting approximately 50,000 direct and indirect jobs by 2035, as it seeks to expand local manufacturing and build an export-driven sector.",
+      "categories": [
+        "Africa",
+        "Morocco Offer"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,19 +135,6 @@ window.GDC_PAPERS = {
         "Oil prices",
         "Saudi Arabia",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria’s Tinubu asks parliament to decriminalise attempted suicide",
-      "link": "https://www.myjoyonline.com/nigerias-tinubu-asks-parliament-to-decriminalise-attempted-suicide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:10:00.000Z",
-      "summary": "Nigerian President Bola Tinubu has asked parliament to decriminalise attempted suicide ​and provide support for people who have ‌tried to take their own lives, a move aimed at treating…",
-      "categories": [
-        "Africa",
-        "Attempted suicide",
-        "Bola Tinubu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -293,18 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T14:41:21.000Z",
       "summary": "The Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), Julius Neequaye Kotey, has criticised the New Patriotic Party (NPP) over its call for parliamentary…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Youth Minister George Opare Addo mourns NDC Deputy Youth Organiser Eric Afeme",
-      "link": "https://ghanaiantimes.com.gh/youth-minister-george-opare-addo-mourns-ndc-deputy-youth-organiser-eric-afeme/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:36:05.000Z",
-      "summary": "Minister for Youth Development and Empowerment, George Opare Addo, has expressed grief over the death of National Democratic Congress (NDC) Greater Accra Second Deputy Regional Youth…",
       "categories": [
         "Hot!",
         "News"
