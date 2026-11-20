@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T09:52:33.881Z",
+  "updated": "2026-11-20T09:57:32.138Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T09:27:58.000Z",
-      "summary": "The Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant’s commitment to continued investment in Ghana, describing the country as a key market…"
+      "summary": "The Board Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant's commitment to continued investment in Ghana, describing the country as a key market…"
     },
     {
       "title": "Gold Crashes Below US$3,550 As Strong Dollar And Fed Rate Hike Expectations Weigh",
