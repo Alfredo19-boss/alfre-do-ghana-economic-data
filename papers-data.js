@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:38:04.931Z",
+  "updated": "2026-11-20T19:48:02.690Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Opanyin Daniel Kwame Takyi",
+      "link": "https://www.myjoyonline.com/opanyin-daniel-kwame-takyi-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:35:01.000Z",
+      "summary": "With heavy hearts, we invite family, friends, loved ones, and well-wishers to join us as we observe the one-week remembrance of our beloved father, Opanyin Daniel Kwame Takyi As we remember…",
+      "categories": [
+        "Obituary",
+        "Opanyin Daniel Kwame Takyi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "French Ambassador to Ghana warns of AI threats, urges Africa not to ‘wait for the West’",
       "link": "https://www.myjoyonline.com/french-ambassador-to-ghana-warns-of-ai-threats-urges-africa-not-to-wait-for-the-west/",
@@ -125,22 +137,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "St John’s Hospital"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘If a mother’s tears could bring back a child’ – Javits’ mother breaks down during tribute",
-      "link": "https://www.myjoyonline.com/if-a-mothers-tears-could-bring-back-a-child-javits-mother-breaks-down-during-tribute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:52:16.000Z",
-      "summary": "The mother of 15-year-old Badu Nkansah Frimpong, popularly known as Javits, broke down in tears during the reading of her tribute at his funeral in the Bronx, New York, as she struggled to…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Javits",
-        "Mother",
-        "Tribute"
       ],
       "site": "https://www.myjoyonline.com/"
     },
