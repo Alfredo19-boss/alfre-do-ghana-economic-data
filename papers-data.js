@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T03:43:14.162Z",
+  "updated": "2026-11-20T03:48:13.796Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UG regrets clash with Rent Control officials, defends hostel fees",
+      "link": "https://www.myjoyonline.com/ug-regrets-clash-with-rent-control-officials-defends-hostel-fees/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:46:06.000Z",
+      "summary": "The University of Ghana has apologised for a confrontation involving persons acting on its behalf and officials of the Rent Control Department during an inspection of some…",
+      "categories": [
+        "News",
+        "UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "University of Ghana seeks legal clarity over rent control of student hostels",
       "link": "https://www.myjoyonline.com/university-of-ghana-seeks-legal-clarity-over-rent-control-of-student-hostels/",
@@ -115,20 +127,6 @@ window.GDC_PAPERS = {
         "Cocaine",
         "Dogs",
         "NACOC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MPs clash over claims of unemployed doctors in Ghana",
-      "link": "https://www.myjoyonline.com/mps-clash-over-claims-of-unemployed-doctors-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T01:09:00.000Z",
-      "summary": "A disagreement has emerged in Parliament over the employment prospects of newly qualified doctors, with the Majority insisting that all eligible medical practitioners have been offered…",
-      "categories": [
-        "Health",
-        "News",
-        "Doctor",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },

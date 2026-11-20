@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-20T03:42:42.514Z",
+  "updated": "2026-11-20T03:47:42.434Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -1042,11 +1042,11 @@ window.GDC_MARKETS = {
         "name": "Nikkei 225 · Tokyo",
         "unit": "",
         "dec": 0,
-        "value": 56775.04,
+        "value": 56851.66,
         "prev": 59662.02,
-        "change": -2886.98,
-        "pct": -4.84,
-        "at": "2026-11-20T02:35:03.000Z",
+        "change": -2810.36,
+        "pct": -4.71,
+        "at": "2026-11-20T03:32:30.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -1218,7 +1218,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 56775.04
+            "value": 56851.66
           }
         ]
       },
@@ -1227,11 +1227,11 @@ window.GDC_MARKETS = {
         "name": "Hang Seng · Hong Kong",
         "unit": "",
         "dec": 0,
-        "value": 22452.39,
+        "value": 22434.53,
         "prev": 23637.6,
-        "change": -1185.21,
-        "pct": -5.01,
-        "at": "2026-11-20T03:27:32.000Z",
+        "change": -1203.07,
+        "pct": -5.09,
+        "at": "2026-11-20T03:32:32.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -1423,7 +1423,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 22452.39
+            "value": 22434.53
           }
         ]
       },
@@ -1629,11 +1629,11 @@ window.GDC_MARKETS = {
         "name": "Nifty 50 · India",
         "unit": "",
         "dec": 0,
-        "value": 25368,
-        "prev": 25144.3,
-        "change": 223.7,
-        "pct": 0.89,
-        "at": "2026-11-20T03:42:35.000Z",
+        "value": 25432.55,
+        "prev": 25291.1,
+        "change": 141.45,
+        "pct": 0.56,
+        "at": "2026-11-20T03:47:35.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -1825,7 +1825,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 25368
+            "value": 25432.55
           }
         ]
       }
@@ -1836,11 +1836,11 @@ window.GDC_MARKETS = {
         "name": "Gold",
         "unit": "US$/oz",
         "dec": 0,
-        "value": 3535.8,
+        "value": 3536,
         "prev": 3853,
-        "change": -317.2,
+        "change": -317,
         "pct": -8.23,
-        "at": "2026-11-20T03:32:34.000Z",
+        "at": "2026-11-20T03:37:34.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2060,7 +2060,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 3535.8
+            "value": 3536
           }
         ]
       },
@@ -2069,11 +2069,11 @@ window.GDC_MARKETS = {
         "name": "Silver",
         "unit": "US$/oz",
         "dec": 2,
-        "value": 41.5,
+        "value": 41.485,
         "prev": 46.785,
-        "change": -5.285,
-        "pct": -11.3,
-        "at": "2026-11-20T03:32:25.000Z",
+        "change": -5.3,
+        "pct": -11.33,
+        "at": "2026-11-20T03:37:29.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2293,7 +2293,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 41.5
+            "value": 41.485
           }
         ]
       },
@@ -2302,11 +2302,11 @@ window.GDC_MARKETS = {
         "name": "Copper",
         "unit": "US$/lb",
         "dec": 2,
-        "value": 5.513,
+        "value": 5.502,
         "prev": 5.9975,
-        "change": -0.4845,
-        "pct": -8.08,
-        "at": "2026-11-20T03:32:31.000Z",
+        "change": -0.4955,
+        "pct": -8.26,
+        "at": "2026-11-20T03:37:34.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2526,7 +2526,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 5.513
+            "value": 5.502
           }
         ]
       },
@@ -2535,11 +2535,11 @@ window.GDC_MARKETS = {
         "name": "Crude oil · WTI",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 82.73,
+        "value": 82.66,
         "prev": 85.72,
-        "change": -2.99,
-        "pct": -3.49,
-        "at": "2026-11-20T03:32:26.000Z",
+        "change": -3.06,
+        "pct": -3.57,
+        "at": "2026-11-20T03:37:30.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2759,7 +2759,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 82.73
+            "value": 82.66
           }
         ]
       },
@@ -2768,11 +2768,11 @@ window.GDC_MARKETS = {
         "name": "Crude oil · Brent",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 89.77,
+        "value": 89.71,
         "prev": 92.44,
-        "change": -2.67,
-        "pct": -2.89,
-        "at": "2026-11-20T03:32:05.000Z",
+        "change": -2.73,
+        "pct": -2.95,
+        "at": "2026-11-20T03:37:29.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2992,7 +2992,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 89.77
+            "value": 89.71
           }
         ]
       },
@@ -3001,11 +3001,11 @@ window.GDC_MARKETS = {
         "name": "Natural gas",
         "unit": "US$/MMBtu",
         "dec": 2,
-        "value": 3.256,
+        "value": 3.249,
         "prev": 3.122,
-        "change": 0.134,
-        "pct": 4.29,
-        "at": "2026-11-20T03:32:37.000Z",
+        "change": 0.127,
+        "pct": 4.07,
+        "at": "2026-11-20T03:37:16.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3241,7 +3241,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 3.256
+            "value": 3.249
           }
         ]
       },
@@ -3660,11 +3660,11 @@ window.GDC_MARKETS = {
         "name": "Maize",
         "unit": "US¢/bu",
         "dec": 1,
-        "value": 451.25,
+        "value": 451,
         "prev": 448.75,
-        "change": 2.5,
-        "pct": 0.56,
-        "at": "2026-11-20T03:31:58.000Z",
+        "change": 2.25,
+        "pct": 0.5,
+        "at": "2026-11-20T03:36:08.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3856,7 +3856,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 451.25
+            "value": 451
           }
         ]
       },
@@ -4072,11 +4072,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 61978.92,
+        "value": 62116.3,
         "prev": 64855.844,
-        "change": -2876.92,
-        "pct": -4.44,
-        "at": "2026-11-20T03:42:32.000Z",
+        "change": -2739.54,
+        "pct": -4.22,
+        "at": "2026-11-20T03:47:38.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4340,7 +4340,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 61978.92
+            "value": 62116.3
           }
         ]
       },
@@ -4349,11 +4349,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1743.33,
+        "value": 1747.02,
         "prev": 1819.276,
-        "change": -75.946,
-        "pct": -4.17,
-        "at": "2026-11-20T03:42:39.000Z",
+        "change": -72.256,
+        "pct": -3.97,
+        "at": "2026-11-20T03:47:38.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4617,7 +4617,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 1743.33
+            "value": 1747.02
           }
         ]
       }
@@ -6782,11 +6782,11 @@ window.GDC_MARKETS = {
         "name": "Euro in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.0977,
+        "value": 1.0978,
         "prev": 1.1025,
-        "change": -0.0048,
-        "pct": -0.44,
-        "at": "2026-11-20T03:41:46.000Z",
+        "change": -0.0047,
+        "pct": -0.43,
+        "at": "2026-11-20T03:46:46.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -7022,7 +7022,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 1.0977
+            "value": 1.0978
           }
         ]
       },
@@ -7031,11 +7031,11 @@ window.GDC_MARKETS = {
         "name": "Pound in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.3099,
+        "value": 1.3101,
         "prev": 1.3216,
-        "change": -0.0117,
-        "pct": -0.89,
-        "at": "2026-11-20T03:41:46.000Z",
+        "change": -0.0115,
+        "pct": -0.87,
+        "at": "2026-11-20T03:46:46.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -7283,7 +7283,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-20",
-            "value": 1.3099
+            "value": 1.3101
           }
         ]
       },
