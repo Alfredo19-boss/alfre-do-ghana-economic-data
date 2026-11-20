@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T08:52:34.628Z",
+  "updated": "2026-11-20T09:12:37.125Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minister directs GTEC to engage Rent Commission over hostel fees",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-directs-gtec-to-engage-rent-commission-over-hostel-fees.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:02:32.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "PHOTOS: Meet Diamond Lucas: The 12-year-old admitted to study at UCC",
       "link": "https://www.graphic.com.gh/news/education/photos-meet-diamond-lucas-the-12-year-old-admitted-to-study-at-ucc.html",
@@ -315,17 +326,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/attorney-general-to-law-enforcement-comply-strictly-with-suspects-constitutional-rights.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T17:28:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "West African journalists, educators urged to prioritise fact-checking, verification",
-      "link": "https://www.graphic.com.gh/news/general-news/west-african-journalists-educators-urged-to-prioritise-fact-checking-verification-2.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T16:38:40.000Z",
       "summary": "",
       "categories": [
         "General News"

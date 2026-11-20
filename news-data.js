@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T08:52:30.889Z",
+  "updated": "2026-11-20T09:12:32.684Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Gold Crashes Below US$3,550 As Strong Dollar And Fed Rate Hike Expectations Weigh",
+      "link": "https://thehighstreetjournal.com/gold-crashes-below-us3550-as-strong-dollar-and-fed-rate-hike-expectations-weigh/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T09:06:52.000Z",
+      "summary": "Gold extends weekly losses as a stronger US dollar and expectations of higher interest rates trigger a broad sell-off across precious metals."
+    },
     {
       "title": "15 shops at Accra Mall fail GRA VAT compliance checks",
       "link": "https://www.myjoyonline.com/15-shops-at-accra-mall-fail-gra-vat-compliance-checks/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T20:00:00.000Z",
       "summary": "Communications Minister Samuel Nartey George is scheduled to join South African Deputy Minister of Communications and Digital Technologies Mondli Gungubele and Angela Wamola, head of Africa…"
-    },
-    {
-      "title": "Fidelity Bank Pushes Domestic Capital Towards Manufacturing to Accelerate Industrial Growth",
-      "link": "https://thehighstreetjournal.com/fidelity-bank-pushes-domestic-capital-towards-manufacturing-to-accelerate-industrial-growth/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T18:58:42.000Z",
-      "summary": "Fidelity Bank wants pension funds, insurance investments and private capital channelled into manufacturing and agro-processing, arguing that domestic financing is critical to reducing gold…"
     }
   ]
 };
