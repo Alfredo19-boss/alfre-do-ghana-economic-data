@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:18:13.446Z",
+  "updated": "2026-11-20T05:23:14.778Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -117,6 +117,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Bank of Ghana ready to adopt ECO currency – Governor Asiama",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-ready-to-adopt-eco-currency-governor-asiama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:51:00.000Z",
+      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), says the Central Bank is ready to adopt the ECO, a proposed regional currency designed to reduce cross-border payment costs…",
+      "categories": [
+        "National",
+        "Asiama",
+        "ECO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Moving from public toilet mentality to a culture of household toilet ownership",
       "link": "https://ghanaiantimes.com.gh/moving-from-public-toilet-mentality-to-a-culture-of-household-toilet-ownership/",
       "source": "Ghanaian Times",
@@ -132,7 +145,7 @@ window.GDC_PAPERS = {
       "link": "https://www.myjoyonline.com/high-powered-npc-delegation-engages-bono-house-of-chiefs-on-conflict-resolution/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T04:44:00.000Z",
-      "summary": "A high-powered delegation from the National Peace Council (NPC) has engaged key members of the Bono Regional House of Chiefs to explore strategies for resolving chieftaincy disputes in the…",
+      "summary": "A high-powered delegation from the National Peace Council (NPC) has met with key members of the Bono Regional House of Chiefs to explore strategies to resolve chieftaincy disputes in the…",
       "categories": [
         "National",
         "Bono House of Chiefs",
@@ -206,18 +219,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Africa",
         "Morocco Offer"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Telecel Foundation’s Homecoming: Changing lives across Ghana",
-      "link": "https://www.myjoyonline.com/telecel-foundations-homecoming-changing-lives-across-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:53:00.000Z",
-      "summary": "Through its 2026 Homecoming initiative, the Telecel Ghana Foundation settled the child’s outstanding medical bills, finally bringing the month-long hospital stay to an end.",
-      "categories": [
-        "Health",
-        "Telecel Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
