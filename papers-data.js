@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:18:04.085Z",
+  "updated": "2026-11-20T19:28:04.257Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Maxwell Kudekor appointed World International Press Club International Affairs Secretary",
+      "link": "https://www.myjoyonline.com/maxwell-kudekor-appointed-world-international-press-club-international-affairs-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:23:16.000Z",
+      "summary": "JoyNews journalist Maxwell Kudekor has been appointed International Affairs Secretary of the World International Press Club (WIPC), an international media organisation committed to…",
+      "categories": [
+        "National",
+        "Maxwell Kudekor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama vows to protect Oti Region from illegal mining amid iron ore and nickel discoveries",
+      "link": "https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:20:01.000Z",
+      "summary": "President John Mahama says the discovery of iron ore and nickel deposits in the Oti Region presents a potential source of prosperity and job creation, but insists any decision to mine the…",
+      "categories": [
+        "National",
+        "Illegal mining",
+        "Oti Region",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama defends constitutional restriction on chiefs’ participation in partisan politics",
+      "link": "https://www.myjoyonline.com/mahama-defends-constitutional-restriction-on-chiefs-participation-in-partisan-politics/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:17:44.000Z",
+      "summary": "President John Dramani Mahama has defended the constitutional restriction barring chiefs from participating in active partisan politics, saying the provision is necessary to protect the…",
+      "categories": [
+        "National",
+        "Chiefs",
+        "Mahama",
+        "Politics"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Airbus delivers ACH160: What you need to know about the high-tech helicopter joining Ghana's Air Force",
+      "link": "https://www.graphic.com.gh/news/general-news/airbus-delivers-ach160-what-you-need-to-know-about-the-high-tech-helicopter-joining-ghanas-air-force.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T19:16:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Bono Regional Minister warns MMDCEs against neglecting district security responsibilities",
       "link": "https://www.myjoyonline.com/bono-regional-minister-warns-mmdces-against-neglecting-district-security-responsibilities/",
@@ -92,22 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "link": "https://www.myjoyonline.com/nearly-600-women-killed-in-south-africa-within-three-months/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:39:27.000Z",
-      "summary": "Nearly 600 women were killed in South Africa between July and September this year, according to the country's latest crime statistics.",
-      "categories": [
-        "Africa",
-        "HP News 4",
-        "International",
-        "News",
-        "South Africa",
-        "Women"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "How Nkrumah secretly directed his cameraman Chris Hesse using a walking stick revealed in 'The Eyes of Ghana' documentary",
       "link": "https://www.graphic.com.gh/news/general-news/how-nkrumah-secretly-directed-cameraman-chris-hesse-using-a-walking-stick-revealed-in-the-eyes-of-ghana-documentary.html",
       "source": "Daily Graphic",
@@ -117,39 +152,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Output per worker stood at 178% in 2025 – GSS",
-      "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:32:38.000Z",
-      "summary": "Over the same period, the Service said in its 2026 Productivity, Employment and Growth Report that the output rose by 38% in lower-middle-income Sub-Saharan African countries and by 31% in…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Capital per work",
-        "GSS",
-        "ICT",
-        "output",
-        "Productivity"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Murdered Ghanaian teenager Javits laid to rest in New York as Mamdani, Al Sharpton, others pay tribute",
-      "link": "https://www.myjoyonline.com/murdered-ghanaian-teenager-javits-laid-to-rest-in-new-york-as-mamdani-al-sharpton-others-pay-tribute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:28:39.000Z",
-      "summary": "Family, friends, community leaders and public officials gathered in the Bronx, New York, on Friday, November 20, to bid farewell to 15-year-old Ghanaian teenager Badu Nkansah Frimpong…",
-      "categories": [
-        "International",
-        "National",
-        "Top Story",
-        "Funeral service",
-        "Javits Frimpong",
-        "New York"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Protect local rice farmers, Dr Bawumia tells government",
@@ -211,17 +213,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ablakwa-elected-chair-of-nordic-african-foreign-ministers-meeting-for-2027.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T16:04:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Six killed in attack on Fulbe community in Buipe",
-      "link": "https://www.graphic.com.gh/news/general-news/six-killed-in-attack-on-fulbe-community-in-buipe.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T15:55:59.000Z",
       "summary": "",
       "categories": [
         "General News"
