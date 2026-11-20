@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:48:02.581Z",
+  "updated": "2026-11-20T20:53:02.481Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amputee World Cup: Black Challenge players, officials to receive US$8,000 each from Gold Fields",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-players-officials-to-receive-us8000-each-from-gold-fields/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:48:50.000Z",
+      "summary": "Gold Fields Ghana Limited, the Ghana Football Association (GFA) and the National Paralympic Committee of Ghana (NPC Ghana) have agreed on a funding package that will see each Black…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Ghana Football Association"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WWC 2027Q: Black Queens name squad for first phase of playoff tournament",
+      "link": "https://www.myjoyonline.com/wwc-2027q-black-queens-name-squad-for-first-phase-of-playoff-tournament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:48:42.000Z",
+      "summary": "Bjorkegren has named a 23-woman squad for the first phase of the tournament which is scheduled to be played in Rabat, Morocco.",
+      "categories": [
+        "Football",
+        "National",
+        "2027 Women’s World Cup qualifiers",
+        "Black Queens",
+        "Kim Lars Bjorkegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Apprenticeship Programme is removing financial barriers to skills training — NYA CEO",
+      "link": "https://www.graphic.com.gh/news/general-news/national-apprenticeship-programme-is-removing-financial-barriers-to-skills-training-nya-ceo.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T20:48:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ghana must protect inland fisheries to secure future fish supply – Fisheries Minister",
       "link": "https://www.myjoyonline.com/ghana-must-protect-inland-fisheries-to-secure-future-fish-supply-fisheries-minister/",
@@ -117,33 +158,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "French Ambassador to Ghana warns of AI threats, urges Africa not to ‘wait for the West’",
-      "link": "https://www.myjoyonline.com/french-ambassador-to-ghana-warns-of-ai-threats-urges-africa-not-to-wait-for-the-west/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:25:00.000Z",
-      "summary": "French Ambassador to Ghana, Diarra Dimé-Labille, has sounded an alarm over the potential threats of Artificial Intelligence, warning that humanity could be approaching a crossroads where…",
-      "categories": [
-        "National",
-        "Africa",
-        "AI threats",
-        "Diarra Dimé-Labille",
-        "French Ambassador to Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Maxwell Kudekor appointed World International Press Club International Affairs Secretary",
-      "link": "https://www.myjoyonline.com/maxwell-kudekor-appointed-world-international-press-club-international-affairs-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:23:16.000Z",
-      "summary": "JoyNews journalist Maxwell Kudekor has been appointed International Affairs Secretary of the World International Press Club (WIPC), an international media organisation committed to…",
-      "categories": [
-        "National",
-        "Maxwell Kudekor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Airbus delivers ACH160: What you need to know about the high-tech helicopter joining Ghana's Air Force",
       "link": "https://www.graphic.com.gh/news/general-news/airbus-delivers-ach160-what-you-need-to-know-about-the-high-tech-helicopter-joining-ghanas-air-force.html",
       "source": "Daily Graphic",
@@ -206,17 +220,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
-      "link": "https://www.graphic.com.gh/news/general-news/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T16:14:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
