@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T22:03:21.418Z",
+  "updated": "2026-11-20T23:51:30.861Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "18-year-old UCC student wins Compassion Business Challenge with plastic recycling venture",
+      "link": "https://www.graphic.com.gh/news/general-news/18-year-old-ucc-student-wins-compassion-business-challenge-with-plastic-recycling-venture.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T23:42:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://www.myjoyonline.com/trump-threatens-ban-on-us-firms-building-ai-data-centres-overseas/",
@@ -206,17 +217,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UCC inducts 185 law students for 2026/2027 academic year",
-      "link": "https://www.graphic.com.gh/news/education/ucc-inducts-185-law-students-for-2026-2027-academic-year.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T16:34:40.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
