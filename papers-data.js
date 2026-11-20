@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:08:13.910Z",
+  "updated": "2026-11-20T05:13:14.012Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GSS demands urgent passage of Statistics Bill to secure funding",
+      "link": "https://ghanaiantimes.com.gh/gss-demands-urgent-passage-of-statistics-bill-to-secure-funding/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:10:48.000Z",
+      "summary": "The Ghana Statistical Service (GSS) has called for the urgent passage of the proposed Statistics Bill to establish a National Statistics Fund and secure sustainable financing for the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GTA urges stakeholders to prioritise safety ahead of December in GH",
       "link": "https://ghanaiantimes.com.gh/gta-urges-stakeholders-to-prioritise-safety-ahead-of-december-in-gh/",
@@ -79,6 +91,20 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
+      "link": "https://www.myjoyonline.com/the-last-two-months-are-also-very-strong-months-gra-confident-of-tax-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:51:00.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner General Anthony Kwasi Sarpong says strong collections in the final two months of the year will help the authority achieve its GH¢237 billion…",
+      "categories": [
+        "Economy",
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner-General"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Moving from public toilet mentality to a culture of household toilet ownership",
       "link": "https://ghanaiantimes.com.gh/moving-from-public-toilet-mentality-to-a-culture-of-household-toilet-ownership/",
       "source": "Ghanaian Times",
@@ -97,18 +123,6 @@ window.GDC_PAPERS = {
       "summary": "According to Dr Robert Anthony, in life, so many opportunities needlessly pass us by because we do not know where we are going. He says that there is an ‘Intelligent Force’ in the universe…",
       "categories": [
         "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2027 Budget debate: Minority challenges economic projections, Majority touts gains",
-      "link": "https://ghanaiantimes.com.gh/2027-budget-debate-minority-challenges-economic-projections-majority-touts-gains/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:43:29.000Z",
-      "summary": "The interrogation of economic indicators and projections by the Minority and the highlighting of the government’s economic stability and transformation achievements by the Majority featured…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -203,19 +217,6 @@ window.GDC_PAPERS = {
         "Fees",
         "Hostel",
         "UG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump says no rush on Iran decision, looks to next year",
-      "link": "https://www.myjoyonline.com/trump-says-no-rush-on-iran-decision-looks-to-next-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:35:00.000Z",
-      "summary": "US President Donald Trump on Thursday appeared to push a decision ​on renewed major strikes against Iran into next year, extending a timeline that he had previously suggested could come to…",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
