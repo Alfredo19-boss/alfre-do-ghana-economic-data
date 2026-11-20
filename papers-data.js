@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:43:15.875Z",
+  "updated": "2026-11-20T06:48:13.874Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Christmas cards or digital greetings? Ghanaians weigh in on festive tradition",
+      "link": "https://www.myjoyonline.com/christmas-cards-or-digital-greetings-ghanaians-weigh-in-on-festive-tradition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:44:12.000Z",
+      "summary": "The tradition of exchanging handwritten Christmas cards appears to be giving way to faster digital greetings, but some Ghanaians say physical cards still hold a special sentimental value…",
+      "categories": [
+        "Art & Design",
+        "Arts and Culture",
+        "Events",
+        "Christmas cards",
+        "digital greetings",
+        "festive tradition"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why did God create human beings? Elizabeth Essuman explores question on ‘Behind The Lens’",
+      "link": "https://www.myjoyonline.com/why-did-god-create-human-beings-elizabeth-essuman-explores-question-on-behind-the-lens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:42:50.000Z",
+      "summary": "Elizabeth Essuman and her panelists on this week’s edition of Behind The Lens with Queen Liz explore the theological and philosophical question of why God created human beings.",
+      "categories": [
+        "News",
+        "Opinion",
+        "Elizabeth Essuman",
+        "God",
+        "mankind",
+        "religion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaians share simple acts of kindness they plan to spread this Christmas",
       "link": "https://www.myjoyonline.com/ghanaians-share-simple-acts-of-kindness-they-plan-to-spread-this-christmas/",
@@ -124,18 +156,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MIIF exceeds 2026 target with GH¢9bn in mineral royalties two months ahead of schedule",
-      "link": "https://www.myjoyonline.com/miif-exceeds-2026-target-with-gh%c2%a29bn-in-mineral-royalties-two-months-ahead-of-schedule/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:02:00.000Z",
-      "summary": "The Minerals Income Investment Fund (MIIF) has exceeded its 2026 mineral royalty mobilisation target of GH¢6.9 billion, recording GH¢9 billion two months before the end of the year.",
-      "categories": [
-        "National",
-        "MIIF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "6.13m Ghanaians still practise open defecation — World Vision",
       "link": "https://ghanaiantimes.com.gh/6-13m-ghanaians-still-practise-open-defecation-world-vision/",
       "source": "Ghanaian Times",
@@ -157,20 +177,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Alternative Dispute Resolution reduces court backlog by over 41,000 cases",
-      "link": "https://www.myjoyonline.com/alternative-dispute-resolution-reduces-court-backlog-by-over-41000-cases/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:56:00.000Z",
-      "summary": "Justice Gabriel Pwamang, Acting Chief Justice, has said the Alternative Dispute Resolution (ADR) Programme has reduced the caseload of traditional courts by 41,431 cases since its…",
-      "categories": [
-        "National",
-        "ADR",
-        "Cases",
-        "court"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Menzo begins Kotoko reign with tough Bechem United test",
