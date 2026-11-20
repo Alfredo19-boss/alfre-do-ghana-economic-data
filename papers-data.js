@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T02:13:12.985Z",
+  "updated": "2026-11-20T02:18:13.645Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Trump’s $15 billion defamation case against New York Times may proceed, judge rules",
+      "link": "https://www.myjoyonline.com/trumps-15-billion-defamation-case-against-new-york-times-may-proceed-judge-rules/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:13:00.000Z",
+      "summary": "A ​federal judge on Thursday said President Donald Trump's $15 billion defamation lawsuit against the New York Times and book ‌publisher Penguin Random House may proceed, a victory for…",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "New York Times"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
       "link": "https://www.myjoyonline.com/accused-child-sex-predator-thomas-markle-ruled-competent-to-face-trial/",
@@ -103,19 +116,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "Vincent Kompany"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "link": "https://www.myjoyonline.com/premier-league-clubs-to-cover-legal-costs-if-man-city-sponsors-sue/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:07:00.000Z",
-      "summary": "Premier League clubs have voted to cover legal expenses for the organisation's five board directors if any of Manchester City's sponsors sue them.",
-      "categories": [
-        "Football",
-        "Manchester City",
-        "Premier League clubs"
       ],
       "site": "https://www.myjoyonline.com/"
     },
