@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:27:32.160Z",
+  "updated": "2026-11-20T12:37:35.093Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,88 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cashew Council Ghana seeks clarity on three-month suspension of raw cashew exports",
+      "link": "https://www.myjoyonline.com/cashew-council-ghana-seeks-clarity-on-three-month-suspension-of-raw-cashew-exports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:32:44.000Z",
+      "summary": "The Cashew Council Ghana (CCG) says it is engaging the Presidency and relevant authorities to obtain clarity on the government’s announced three-month suspension of raw cashew nut exports.",
+      "categories": [
+        "National",
+        "Cashew Council Ghana",
+        "raw cashew exports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US army warns detonation of unstable explosives will create toxic plume",
+      "link": "https://www.myjoyonline.com/us-army-warns-detonation-of-unstable-explosives-will-create-toxic-plume/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:31:12.000Z",
+      "summary": "The US Army is set to detonate five tonnes of degraded explosive material in Middletown, Iowa, and have urged locals to vacate the area or stay indoors for their safety.",
+      "categories": [
+        "International",
+        "Explosives",
+        "Toxic",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "link": "https://www.myjoyonline.com/nigeria-moves-to-end-jail-terms-for-attempted-suicide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:30:06.000Z",
+      "summary": "Nigerian President Bola Tinubu has asked parliament to decriminalise attempted suicide, proposing medical support instead of prosecution for those who survive.",
+      "categories": [
+        "Africa",
+        "Jail",
+        "Nigeria",
+        "Suicide"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Be disciplined, creative, take pride in your work’ – Opare Addo tells National Apprenticeship graduates",
+      "link": "https://www.myjoyonline.com/be-disciplined-creative-take-pride-in-your-work-opare-addo-tells-national-apprenticeship-graduates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:29:54.000Z",
+      "summary": "Minister for Youth Development and Empowerment, George Opare Addo, has challenged graduates of the National Apprenticeship Programme to raise standards in their respective trades, build…",
+      "categories": [
+        "National",
+        "George Opare Addo",
+        "Minister for Youth Development and Empowerment",
+        "National Apprenticeship"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Woman knocked down, run over by two buses on Accra–Kasoa Highway",
+      "link": "https://www.myjoyonline.com/woman-knocked-down-run-over-by-two-buses-on-accra-kasoa-highway/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:29:50.000Z",
+      "summary": "A woman has been knocked down and subsequently run over by two buses at Bortianor on the Accra–Kasoa Highway in the early hours of Friday, November 20, while attempting to cross the road.",
+      "categories": [
+        "National",
+        "Accra–Kasoa Highway",
+        "Woman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "William Nyarko calls for campaign finance law to curb vote buying and monetisation of politics",
+      "link": "https://www.myjoyonline.com/william-nyarko-calls-for-campaign-finance-law-to-curb-vote-buying-and-monetisation-of-politics/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:29:08.000Z",
+      "summary": "The Executive Director of the Africa Centre for International Law and Accountability (ACILA), William Nyarko, has called for comprehensive campaign financing legislation to regulate…",
+      "categories": [
+        "National",
+        "campaign finance law",
+        "Monetisation of politics",
+        "William Nyarko"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Does Ghana value good craft? DDC26 sparks the debate",
       "link": "https://www.myjoyonline.com/does-ghana-value-good-craft-ddc26-sparks-the-debate/",
@@ -49,80 +131,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Northshore Apparel Ghana CEO honoured for driving inclusive industrialisation",
-      "link": "https://www.myjoyonline.com/northshore-apparel-ghana-ceo-honoured-for-driving-inclusive-industrialisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:17:03.000Z",
-      "summary": "The Founder and CEO of Northshore Apparel Ghana Ltd, Alhaji Nurideen Mohammed, has received the Inclusive Business and Disability Impact Award.",
-      "categories": [
-        "Fashion",
-        "National",
-        "Ghana Club 100 Awards",
-        "Northshore Apparel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
-      "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:05:12.000Z",
-      "summary": "There is an old saying in the corridors of the Customs Division: the job cannot be learnt from a briefing note. Valuation, classification, transit acquittals, warehousing, the rhythm of a…",
-      "categories": [
-        "Business",
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "Customs Division",
-        "GRA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Boundary Commission rehabilitates school at Elubo",
-      "link": "https://www.myjoyonline.com/ghana-boundary-commission-rehabilitates-school-at-elubo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:00:40.000Z",
-      "summary": "The Ghana Boundary Commission has commissioned and handed over a six-unit classroom block and accompanying facilities to the people of Cocoa Town, a border community in the Elubo general…",
-      "categories": [
-        "Education",
-        "Elubo",
-        "Ghana Boundary Commission"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
-      "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:51:59.000Z",
-      "summary": "Speaking during the visit, the Chief Executive Officer of MIIF, Justina Nelson, who was accompanied by some members of executive and senior management of the Fund, expressed appreciation to…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Agyemang Okyere",
-        "Akyem Mine",
-        "Justina Nelson",
-        "MIIF",
-        "Zijin Golden Ridge"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
-      "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:38:19.000Z",
-      "summary": "In a social media post marking one week since he presented the 2027 Budget, Dr Forson described the commitment as a “solemn pledge” to the people of Ghana.",
-      "categories": [
-        "Business",
-        "Economy",
-        "Dr Ato Forson",
-        "Ministry of Finance",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "2027 Budget will be judged by outcomes - ISSER",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-will-be-judged-by-outcomes-isser.html",
       "source": "Daily Graphic",
@@ -143,20 +151,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "link": "https://www.myjoyonline.com/south-korea-catches-111-students-with-new-measures-against-exam-cheating/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:14:18.000Z",
-      "summary": "South Korea's education ministry says 111 candidates were found with unauthorised smart devices during a high-stakes nationwide exam, after officials introduced urgent measures to tackle…",
-      "categories": [
-        "International",
-        "Cheating",
-        "South Korea",
-        "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
