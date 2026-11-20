@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-20T06:03:19.047Z",
+  "updated": "2026-11-20T06:33:18.357Z",
   "values": {
     "fx.usd": {
       "value": 11.77,
@@ -542,6 +542,14 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-11-20T06:33:18.357Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
+    {
       "at": "2026-11-20T06:03:19.047Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -641,14 +649,6 @@ window.GDC_AUTO = {
       "at": "2026-11-19T22:58:59.386Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-11-19T21:58:57.746Z",
-      "messages": [
-        "BoG FX failed: https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/ returned 502",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
         "cocoa: ok"
       ]
