@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T13:37:34.132Z",
+  "updated": "2026-11-20T13:47:31.409Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
+      "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:42:34.000Z",
+      "summary": "Poland says a Russian cruise missile was among three objects that violated its airspace early on Friday and Prime Minister Donald Tusk said it did not appear to be an accident when Western…",
+      "categories": [
+        "International",
+        "Missile",
+        "Russia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We would have joined Rent Commissioner on campus if notified ahead of visit – UGSRC",
+      "link": "https://www.myjoyonline.com/we-would-have-joined-rent-commissioner-on-campus-if-notified-ahead-of-visit-ugsrc/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:37:05.000Z",
+      "summary": "The University of Ghana Students’ Representative Council (UGSRC) has explained why its executives were absent during the Rent Control Department’s recent campus intervention over rising…",
+      "categories": [
+        "Education",
+        "HP News 10",
+        "Rent Control",
+        "UGEL",
+        "UGSRC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wesley Girls’ parents demand action over death of Philipa Acquah",
+      "link": "https://www.myjoyonline.com/wesley-girls-parents-demand-action-over-death-of-philipa-acquah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:34:24.000Z",
+      "summary": "Parents of Wesley Girls’ High School’s 2026 year group have called for urgent and sustained action against road indiscipline following the death of Philipa Acquah, a high-achieving student…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Parents",
+        "Philipa Acquah",
+        "Wesley Girls"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fire destroys homes and properties at Aboabo Dagomba Line in Ashanti Region",
       "link": "https://www.myjoyonline.com/fire-destroys-homes-and-properties-at-aboabo-dagomba-line-in-ashanti-region/",
@@ -41,6 +84,8 @@ window.GDC_PAPERS = {
       "summary": "The University of Ghana Students’ Representative Council (UGSRC) has commended the Rent Commissioner for intervening in the rising cost of private hostel accommodation around the Legon…",
       "categories": [
         "Education",
+        "HP News 9",
+        "National",
         "Rent Commissioner",
         "UGSRC"
       ],
@@ -66,6 +111,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-20T12:56:48.000Z",
       "summary": "President John Dramani Mahama has announced plans to expand the National Apprenticeship Programme to cover at least 50,000 young people in 2027, following the graduation of more than 13,000…",
       "categories": [
+        "HP News 5",
         "National",
         "Mahama",
         "National Apprenticeship Programme"
@@ -81,49 +127,10 @@ window.GDC_PAPERS = {
       "categories": [
         "Art & Design",
         "Arts and Culture",
+        "HP News 6",
         "National",
         "cane weavers",
         "Dzorwulu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fan found not guilty of racially abusing Semenyo",
-      "link": "https://www.myjoyonline.com/fan-found-not-guilty-of-racially-abusing-semenyo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:45:40.000Z",
-      "summary": "Semenyo was due to give evidence at Liverpool Magistrates' Court in the trial of Mark Mogan, 47, who was accused of shouting racist abuse during the opening match of the Premier League…",
-      "categories": [
-        "Football",
-        "Antoine Semenyo",
-        "Liverpool"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Achimota Mall VAT checks expose invoice irregularities at 14 businesses – GRA",
-      "link": "https://www.myjoyonline.com/achimota-mall-vat-checks-expose-invoice-irregularities-at-14-businesses-gra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:45:39.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread VAT irregularities among businesses operating at Achimota Mall, with all but a few of the 14 establishments inspected found to…",
-      "categories": [
-        "National",
-        "Achimota Mall",
-        "GRA",
-        "VAT"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire destroys self-contained apartment at Madina; three bedrooms saved",
-      "link": "https://www.myjoyonline.com/fire-destroys-self-contained-apartment-at-madina-three-bedrooms-saved/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:44:59.000Z",
-      "summary": "A domestic fire has destroyed a self-contained bedroom apartment and its contents near the Jehovah’s Witnesses Kingdom Hall at Madina in the La Nkwantanang Municipality of the Greater Accra…",
-      "categories": [
-        "National",
-        "Fire",
-        "Madina"
       ],
       "site": "https://www.myjoyonline.com/"
     },

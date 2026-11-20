@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T13:37:31.959Z",
+  "updated": "2026-11-20T13:47:05.248Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "Bank of Ghana realigns policy stance, ends 2026 with 11% policy rate",
+      "link": "https://www.ghanabusinessnews.com/2026/11/20/bank-of-ghana-realigns-policy-stance-ends-2026-with-11-policy-rate/",
+      "source": "Ghana Business News",
+      "published": "2026-11-20T13:44:09.000Z",
+      "summary": "The Bank of Ghana (BoG) has reduced its Monetary Policy Rate (MPR) from 14 to 11 per cent, aligning the benchmark rate with prevailing money market conditions."
+    },
     {
       "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
       "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T04:26:00.000Z",
       "summary": "Ghana’s export earnings reached a record US$30.4 billion in the first ten months of 2026, driven largely by gold, according to the Bank of Ghana’s latest Summary of Economic and Financial…"
-    },
-    {
-      "title": "Rice farmers turn to Nigerian, Burkinabe buyers as local sales stall, says FABAG’s Ato Aggrey",
-      "link": "https://www.myjoyonline.com/rice-farmers-turn-to-nigerian-burkinabe-buyers-as-local-sales-stall-says-fabags-ato-aggrey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:59:00.000Z",
-      "summary": "Ghanaian rice farmers struggling to sell their produce locally are turning to buyers from Nigeria and Burkina Faso, according to the General Secretary of the Food and Beverage Association…"
     }
   ]
 };
