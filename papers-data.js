@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:58:02.458Z",
+  "updated": "2026-11-20T20:08:03.296Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Toilet Day: From 29% to 79%: How Upper West turned the tide against open defecation",
+      "link": "https://www.myjoyonline.com/world-toilet-day-from-29-to-79-how-upper-west-turned-the-tide-against-open-defecation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:56:29.000Z",
+      "summary": "Over a decade ago, the proportion of communities declared Open Defecation Free (ODF) in the Upper West Region stood at about 29 per cent.",
+      "categories": [
+        "Regional",
+        "Open defecation",
+        "Upper West Region",
+        "World Toilet Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Court injunction stops CLOGSAG congress scheduled for November 23-25",
       "link": "https://www.graphic.com.gh/news/general-news/court-injunction-stops-clogsag-congress-scheduled-for-november-23-25.html",
@@ -136,18 +150,6 @@ window.GDC_PAPERS = {
         "distributor",
         "Unilever",
         "Unilever Distributor Recruitment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "St John’s Hospital CEO Dr Maame Yaa Afriye named Outstanding Corporate Woman at 2026 Ghana Women Awards",
-      "link": "https://www.myjoyonline.com/st-johns-hospital-ceo-dr-maame-yaa-afriye-named-outstanding-corporate-woman-at-2026-ghana-women-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:58:50.000Z",
-      "summary": "The Chief Executive Officer of St John’s Hospital and Fertility Centre, Dr Maame Yaa Afriye, has been named Outstanding Corporate Woman at the 2026 Ghana Women Awards. She received the…",
-      "categories": [
-        "National",
-        "St John’s Hospital"
       ],
       "site": "https://www.myjoyonline.com/"
     },
