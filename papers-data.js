@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-19T23:52:13.986Z",
+  "updated": "2026-11-20T00:12:14.630Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+      "link": "https://www.myjoyonline.com/premier-league-clubs-to-cover-legal-costs-if-man-city-sponsors-sue/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:07:00.000Z",
+      "summary": "Premier League clubs have voted to cover legal expenses for the organisation's five board directors if any of Manchester City's sponsors sue them.",
+      "categories": [
+        "Football",
+        "Manchester City",
+        "Premier League clubs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World Fisheries Day: Making Ghana’s expanded Inshore Exclusion Zone work for artisanal fishers",
+      "link": "https://www.myjoyonline.com/world-fisheries-day-making-ghanas-expanded-inshore-exclusion-zone-work-for-artisanal-fishers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:06:09.000Z",
+      "summary": "For more than 22 years, Kwesi Atta has fished out of Ezilinbo, a coastal community in the Jomoro Municipality of the Western Region. The sea has fed his family and sustained his community…",
+      "categories": [
+        "Opinion",
+        "Artisanal fishers",
+        "fisheries day",
+        "inshore exclusion zone"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shevchenko accuses Mudryk camp of ‘baseless slander’",
+      "link": "https://www.myjoyonline.com/shevchenko-accuses-mudryk-camp-of-baseless-slander/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:58:00.000Z",
+      "summary": "Ukraine great Andriy Shevchenko has accused Mykhailo Mudryk's representatives of repeatedly asking a country football federation employee to \"falsely\" take the blame for the winger's…",
+      "categories": [
+        "Football",
+        "Mykhailo Mudryk",
+        "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GRA rejects claims lifestyle audits are overreach to meet tax targets",
       "link": "https://www.myjoyonline.com/gra-rejects-claims-lifestyle-audits-are-overreach-to-meet-tax-targets/",
@@ -85,46 +125,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Accra Circuit Court",
         "Remand"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dram Oil’s multimillion-dollar negligence suit against Deloitte resumes in December",
-      "link": "https://www.myjoyonline.com/dram-oils-multimillion-dollar-negligence-suit-against-deloitte-resumes-in-december/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:03:00.000Z",
-      "summary": "The multimillion-dollar negligence suit filed by Dram Oil and Trading Limited against auditing firm Deloitte and Touche is expected to resume in December at the Commercial Division of the…",
-      "categories": [
-        "National",
-        "Deloitte",
-        "Dram oil"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Old Tafo distributes over 2,000 pieces of furniture to schools",
-      "link": "https://www.myjoyonline.com/old-tafo-distributes-over-2000-pieces-of-furniture-to-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:53:24.000Z",
-      "summary": "More than 2,000 pieces of school furniture are being distributed to about 42 schools in Old Tafo Municipality to address classroom shortages that have forced some pupils to share desks.",
-      "categories": [
-        "Education",
-        "News",
-        "Furniture",
-        "Old Tafo",
-        "schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judicial Service trains judges, court officials in ADR",
-      "link": "https://www.myjoyonline.com/judicial-service-trains-judges-court-officials-in-adr/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:53:00.000Z",
-      "summary": "The Judicial Service has trained selected judges, magistrates, court registrars and clerks in Court-Connected Alternative Dispute Resolution (CCADR) to strengthen the use of alternative…",
-      "categories": [
-        "National",
-        "Judicial Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
