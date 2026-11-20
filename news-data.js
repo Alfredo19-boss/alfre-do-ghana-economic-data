@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T11:47:16.300Z",
+  "updated": "2026-11-20T11:57:31.560Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
+      "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:51:59.000Z",
+      "summary": "Speaking during the visit, the Chief Executive Officer of MIIF, Justina Nelson, who was accompanied by some members of executive and senior management of the Fund, expressed appreciation to…"
+    },
     {
       "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
       "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T21:34:05.000Z",
       "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase."
-    },
-    {
-      "title": "Petrol price battle: GOIL cuts to GH¢14.99 as Star Oil drops to GH¢13.95",
-      "link": "https://www.myjoyonline.com/petrol-price-battle-goil-cuts-to-gh%c2%a214-99-as-star-oil-drops-to-gh%c2%a213-95/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:34:00.000Z",
-      "summary": "GOIL has reduced its petrol price to GH¢14.99 per litre, while Star Oil has announced a lower price of GH¢13.95 per litre as competition among oil marketing companies intensifies."
     }
   ]
 };

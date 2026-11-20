@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:47:32.094Z",
+  "updated": "2026-11-20T11:57:33.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
+      "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:51:59.000Z",
+      "summary": "Speaking during the visit, the Chief Executive Officer of MIIF, Justina Nelson, who was accompanied by some members of executive and senior management of the Fund, expressed appreciation to…",
+      "categories": [
+        "Business",
+        "Mining",
+        "Agyemang Okyere",
+        "Akyem Mine",
+        "Justina Nelson",
+        "MIIF",
+        "Zijin Golden Ridge"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
       "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
@@ -210,20 +227,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Adom Kiki holds fifth edition of The Worshipper’s Heart",
-      "link": "https://www.myjoyonline.com/adom-kiki-holds-fifth-edition-of-the-worshippers-heart/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:26:21.000Z",
-      "summary": "Gospel singer and worship leader Adom Kiki brought worshippers together for the fifth edition of The Worshipper’s Heart, an evening of music, prayer and spiritual reflection",
-      "categories": [
-        "Events",
-        "Adom Kiki",
-        "Fifth edition",
-        "The Worshipper’s Heart"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
