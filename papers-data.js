@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:43:05.095Z",
+  "updated": "2026-11-20T17:48:03.547Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t spent $4.67m on Black Stars’ 2026 World Cup campaign",
+      "link": "https://www.myjoyonline.com/govt-spent-4-67m-on-black-stars-2026-world-cup-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:44:23.000Z",
+      "summary": "Ghana’s Minister of Sports and Recreation, Kofi Adams, says the government spent US$4.67m of the US$5m advance allocated for the Black Stars’ participation in the 2026 FIFA World Cup. The…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Kofi Adams",
+        "Sports Minister",
+        "World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi East ambulance returns to service after five years off the road",
+      "link": "https://www.myjoyonline.com/obuasi-east-ambulance-returns-to-service-after-five-years-off-the-road/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:40:24.000Z",
+      "summary": "Residents of the Obuasi East Municipality are set to benefit from improved emergency medical transportation after the municipal ambulance was restored to service following a GH¢50,000…",
+      "categories": [
+        "Regional",
+        "Ambulance",
+        "Obuasi East"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "National Apprenticeship Programme graduates to get priority support from Women’s Development Bank – Mahama",
       "link": "https://www.myjoyonline.com/national-apprenticeship-programme-graduates-to-get-priority-support-from-womens-development-bank-mahama/",
@@ -55,7 +83,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-20T17:33:51.000Z",
       "summary": "MTN Ghana has marked 30 years of operations in the country, acknowledging the contribution of customers, employees, business partners, government institutions and communities to its growth…",
       "categories": [
-        "News"
+        "Business",
+        "National",
+        "MTN",
+        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -99,34 +130,6 @@ window.GDC_PAPERS = {
         "National",
         "KOGA",
         "Krobo Girls Senior High School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAP Connect: NYA develops digital platform to link apprenticeship graduates to economic opportunities",
-      "link": "https://www.myjoyonline.com/nap-connect-nya-develops-digital-platform-to-link-apprenticeship-graduates-to-economic-opportunities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:22:37.000Z",
-      "summary": "The National Youth Authority has developed a digital platform, NAP Connect, to help graduates of the National Apprenticeship Programme market their skills, showcase their work and connect…",
-      "categories": [
-        "National",
-        "NAP Connect",
-        "National Apprenticeship Programme",
-        "National Youth Authority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Youngsters take over Joy Brands airwaves for World Children’s Day",
-      "link": "https://www.myjoyonline.com/youngsters-take-over-joy-brands-airwaves-for-world-childrens-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:22:33.000Z",
-      "summary": "Friday's broadcasts took an exciting turn as young voices took centre stage across JoyNews and Joy FM, stepping behind the microphones, occupying the news desks and joining studio…",
-      "categories": [
-        "National",
-        "Joy brands",
-        "World Children’s Day",
-        "Youngsters"
       ],
       "site": "https://www.myjoyonline.com/"
     },

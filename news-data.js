@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T17:43:01.869Z",
+  "updated": "2026-11-20T17:48:01.075Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
+      "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:33:51.000Z",
+      "summary": "MTN Ghana has marked 30 years of operations in the country, acknowledging the contribution of customers, employees, business partners, government institutions and communities to its growth…"
+    },
     {
       "title": "New Economy agenda to drive industrial transformation – GIPA CEO",
       "link": "https://www.myjoyonline.com/new-economy-agenda-to-drive-industrial-transformation-gipa-ceo/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T05:05:00.000Z",
       "summary": "Deloitte warns Ghanaian businesses may face higher effective tax burdens despite unchanged rates, as government targets increased revenue through stricter enforcement, digital audits…"
-    },
-    {
-      "title": "Gold Fields Cites US$3.3bn in Gov’t Payments, Jobs and Local Spending in Bid to Retain Tarkwa Mine",
-      "link": "https://thehighstreetjournal.com/gold-fields-cites-us3-3bn-in-govt-payments-jobs-and-local-spending-in-bid-to-retain-tarkwa-mine/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:03:00.000Z",
-      "summary": "Gold Fields reports US$3.3 billion in government payments, US$4.6 billion in local procurement and over 5,000 jobs supported as it seeks to retain Tarkwa."
     }
   ]
 };
