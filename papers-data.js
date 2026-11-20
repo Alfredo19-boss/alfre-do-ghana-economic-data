@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:58:16.900Z",
+  "updated": "2026-11-20T06:03:15.031Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "6.13m Ghanaians still practise open defecation — World Vision",
+      "link": "https://ghanaiantimes.com.gh/6-13m-ghanaians-still-practise-open-defecation-world-vision/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T06:00:56.000Z",
+      "summary": "An estimated 6.13 million Ghanaians, representing 17.8 per cent of the population, still practise open defecation as of 2024 despite efforts by the government and development partners to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "2026 Damang Gold Mine Open Championship tees off",
       "link": "https://ghanaiantimes.com.gh/2026-damang-gold-mine-open-championship-tees-off/",
@@ -89,6 +101,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-20T05:51:00.000Z",
       "summary": "The government could be exposed to a financial liability of more than GH¢680 million over a contract dispute involving the Ghana Revenue Authority (GRA) and private firm Safaritech, the…",
       "categories": [
+        "HP News 7",
         "National",
         "News",
         "GRA",
@@ -181,17 +194,6 @@ window.GDC_PAPERS = {
         "Roads Minister"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FIFA unveils presidential candidates as Diallo, Tashima challenge Infantino",
-      "link": "https://ghanaiantimes.com.gh/fifa-unveils-presidential-candidates-as-diallo-tashima-challenge-infantino/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:38:46.000Z",
-      "summary": "FIFA President, Gianni Infantino’s re-election bid will be challenged by the French and Japanese federation presidents, Philippe Diallo and Kozo Tashima, the ‌global soccer body said…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Locking up business premises is our last resort – GRA boss",
