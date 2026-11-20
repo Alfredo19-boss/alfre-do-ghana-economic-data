@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T06:48:13.203Z",
+  "updated": "2026-11-20T08:22:31.580Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,27 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (HTTP 403)",
+    "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: failed (HTTP 403)",
+    "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
+      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T07:47:00.000Z",
+      "summary": "Ghanaian business executive Alex Apau Dadey has been named Entrepreneur of the Year at the 14th edition of the All Africa Business Leaders Awards (AABLA), held at the Sandton Convention…"
+    },
+    {
+      "title": "German Bundesbank expects inflation to rise sharply at turn of year",
+      "link": "https://www.ghanabusinessnews.com/2026/11/20/german-bundesbank-expects-inflation-to-rise-sharply-at-turn-of-year/",
+      "source": "Ghana Business News",
+      "published": "2026-11-20T06:57:37.000Z",
+      "summary": "Inflation could remain near its current level through the end of the year, with the fuel tax cut still keeping a lid on prices, the central bank said in its monthly report released on…"
+    },
     {
       "title": "Grow More, but Grow Better: Minister Tells Rice Farmers to Fix Quality",
       "link": "https://thehighstreetjournal.com/grow-more-but-grow-better-minister-tells-rice-farmers-to-fix-quality/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T18:55:14.000Z",
       "summary": "Ghana will measure the success of its Invest Ghana Summit by how many investment proposals secure financing and move into operation, Chief of Staff Julius Debrah said, as the government…"
-    },
-    {
-      "title": "AngloGold Ashanti recognized for its sustainability initiatives",
-      "link": "https://gna.org.gh/2026/11/anglogold-ashanti-recognized-for-its-sustainability-initiatives/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-17T18:19:50.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Ecobank Ghana’s Regina Ofori wins global award for Outstanding Contribution to Marketing",
-      "link": "https://www.myjoyonline.com/ecobank-ghanas-regina-ofori-wins-global-award-for-outstanding-contribution-to-marketing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T18:02:20.000Z",
-      "summary": "Head of Marketing and Corporate Communications at Ecobank Ghana PLC, Regina Ofori, has received the Outstanding Contribution to Marketing (Brand) award at the 2026 Global Women in Marketing…"
     }
   ]
 };

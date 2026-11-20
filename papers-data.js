@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:48:13.874Z",
+  "updated": "2026-11-20T08:22:34.959Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
+      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T07:47:00.000Z",
+      "summary": "Ghanaian business executive Alex Apau Dadey has been named Entrepreneur of the Year at the 14th edition of the All Africa Business Leaders Awards (AABLA), held at the Sandton Convention…",
+      "categories": [
+        "Africa",
+        "Business",
+        "Events",
+        "Alex Apau Dadey.All Africa Business Leaders Awards",
+        "KGL Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Christmas cards or digital greetings? Ghanaians weigh in on festive tradition",
       "link": "https://www.myjoyonline.com/christmas-cards-or-digital-greetings-ghanaians-weigh-in-on-festive-tradition/",
@@ -140,20 +155,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "World Children’s Day: Turning economic gains into progress for every child",
-      "link": "https://www.myjoyonline.com/world-childrens-day-turning-economic-gains-into-progress-for-every-child/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:05:00.000Z",
-      "summary": "Every World Children’s Day, November 20th, gives us an opportunity to celebrate Ghana’s children and ask a simple but important question: Are we giving every child the best possible chance…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "World Children's Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "6.13m Ghanaians still practise open defecation — World Vision",
