@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:37:33.906Z",
+  "updated": "2026-11-20T11:47:32.094Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
+      "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:38:19.000Z",
+      "summary": "In a social media post marking one week since he presented the 2027 Budget, Dr Forson described the commitment as a “solemn pledge” to the people of Ghana.",
+      "categories": [
+        "Business",
+        "Economy",
+        "Dr Ato Forson",
+        "Ministry of Finance",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget will be judged by outcomes - ISSER",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-will-be-judged-by-outcomes-isser.html",
@@ -207,19 +222,6 @@ window.GDC_PAPERS = {
         "Adom Kiki",
         "Fifth edition",
         "The Worshipper’s Heart"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament intensifies efforts to pass Anti-Witchcraft Bill 2026",
-      "link": "https://www.myjoyonline.com/parliament-intensifies-efforts-to-pass-anti-witchcraft-bill-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:18:19.000Z",
-      "summary": "The Constitutional and Legal Affairs Committee of Parliament convened on Thursday, November 19, to discuss the bill titled The Criminal Offences (Amendment) Act, 2026, commonly known as the…",
-      "categories": [
-        "National",
-        "Anti-Witchcraft Bill 2026",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },

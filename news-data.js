@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T11:37:31.554Z",
+  "updated": "2026-11-20T11:47:16.300Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
+    {
+      "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
+      "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:38:19.000Z",
+      "summary": "In a social media post marking one week since he presented the 2027 Budget, Dr Forson described the commitment as a “solemn pledge” to the people of Ghana."
+    },
     {
       "title": "Ghana Ready to Adopt ECO Currency as ECOWAS Targets July 2027 Launch",
       "link": "https://thehighstreetjournal.com/ghana-ready-to-adopt-eco-currency-as-ecowas-targets-july-2027-launch/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T21:34:00.000Z",
       "summary": "GOIL has reduced its petrol price to GH¢14.99 per litre, while Star Oil has announced a lower price of GH¢13.95 per litre as competition among oil marketing companies intensifies."
-    },
-    {
-      "title": "Cedi depreciates by 10.6% to dollar as of November 2026 – BoG",
-      "link": "https://www.myjoyonline.com/cedi-depreciates-by-10-6-to-dollar-as-of-november-2026-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:14:00.000Z",
-      "summary": "According to the November 2026 Summary of Economic and Financial Data by the Bank of Ghana, the cedi traded at GH¢11.69 to one American greenback in November 2026."
     }
   ]
 };
