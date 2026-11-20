@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T13:07:34.812Z",
+  "updated": "2026-11-20T13:37:34.132Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fire destroys homes and properties at Aboabo Dagomba Line in Ashanti Region",
+      "link": "https://www.myjoyonline.com/fire-destroys-homes-and-properties-at-aboabo-dagomba-line-in-ashanti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:30:14.000Z",
+      "summary": "A devastating fire has torn through the Dagomba Line at Aboabo, a suburb of Kumasi, in the Ashanti Region, destroying several properties and personal belongings.",
+      "categories": [
+        "Regional",
+        "Aboabo Dagomba line",
+        "Ashanti Region"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UGSRC commends Rent Commissioner for intervention in campus accommodation crisis",
+      "link": "https://www.myjoyonline.com/ugsrc-commends-rent-commissioner-for-intervention-in-campus-accommodation-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:24:53.000Z",
+      "summary": "The University of Ghana Students’ Representative Council (UGSRC) has commended the Rent Commissioner for intervening in the rising cost of private hostel accommodation around the Legon…",
+      "categories": [
+        "Education",
+        "Rent Commissioner",
+        "UGSRC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Association of Banks and GhIPSS rally public behind GhanaPay as nation accelerates toward a cashless economy",
       "link": "https://www.myjoyonline.com/ghana-association-of-banks-and-ghipss-rally-public-behind-ghanapay-as-nation-accelerates-toward-a-cashless-economy/",
@@ -98,40 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Fire",
         "Madina"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
-      "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:41:21.000Z",
-      "summary": "A revised draft agreement at COP31 has removed references to fossil fuels, including an earlier proposal for countries to accelerate the transition away from coal, oil and gas, drawing…",
-      "categories": [
-        "Africa",
-        "Energy",
-        "Health",
-        "International",
-        "News",
-        "Politics",
-        "COP31",
-        "Turkey",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Ernest Ofori Sarpong inducted as UniMAC’s first Chancellor",
-      "link": "https://www.myjoyonline.com/dr-ernest-ofori-sarpong-inducted-as-unimacs-first-chancellor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:40:06.000Z",
-      "summary": "The University of Media, Arts and Communication (UniMAC) has inducted Dr Ernest Ofori Sarpong, CA, as its first Chancellor at a ceremony held at the university's South Legon Campus in Accra…",
-      "categories": [
-        "Education",
-        "National",
-        "Chancellor",
-        "Dr. Ernest Ofori Sarpong",
-        "UNIMAC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
