@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:38:04.148Z",
+  "updated": "2026-11-20T18:43:03.889Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.myjoyonline.com/nearly-600-women-killed-in-south-africa-within-three-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:39:27.000Z",
+      "summary": "Nearly 600 women were killed in South Africa between July and September this year, according to the country's latest crime statistics.",
+      "categories": [
+        "Africa",
+        "International",
+        "News",
+        "South Africa",
+        "Women"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Output per worker stood at 178% in 2025 – GSS",
       "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
@@ -46,6 +61,7 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "National",
+        "Top Story",
         "Funeral service",
         "Javits Frimpong",
         "New York"
@@ -117,19 +133,6 @@ window.GDC_PAPERS = {
         "Economy",
         "GSS",
         "Unemployment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "link": "https://www.myjoyonline.com/indian-man-sentenced-to-19-plus-years-in-plot-to-assassinate-us-based-sikh-separatist-leader/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:54:17.000Z",
-      "summary": "A federal judge sentenced an Indian man to 235 months, more than 19 years,in an attempted plot to kill a leading Sikh political figure in the US.",
-      "categories": [
-        "International",
-        "Indian",
-        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
