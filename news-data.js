@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T09:22:32.673Z",
+  "updated": "2026-11-20T09:32:32.348Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "MTN Group reaffirms long-term investment commitment to Ghana",
+      "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:27:58.000Z",
+      "summary": "The Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant’s commitment to continued investment in Ghana, describing the country as a key market…"
+    },
     {
       "title": "Gold Crashes Below US$3,550 As Strong Dollar And Fed Rate Hike Expectations Weigh",
       "link": "https://thehighstreetjournal.com/gold-crashes-below-us3550-as-strong-dollar-and-fed-rate-hike-expectations-weigh/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T20:50:00.000Z",
       "summary": "Bills Micro Credit Limited has launched a new consumer financing product, Bills Direct, to improve access to essential goods and services through flexible payment arrangements. The…"
-    },
-    {
-      "title": "All Eyes on Ghana’s Digital Progress at Cape Town Summit",
-      "link": "https://thehighstreetjournal.com/ghanas-digital-progress-takes-spotlight/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T20:00:00.000Z",
-      "summary": "Communications Minister Samuel Nartey George is scheduled to join South African Deputy Minister of Communications and Digital Technologies Mondli Gungubele and Angela Wamola, head of Africa…"
     }
   ]
 };
