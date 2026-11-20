@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:13:03.689Z",
+  "updated": "2026-11-20T18:18:04.264Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Children’s Day: Children’s rights must be protected to secure their future – Nathaniel Gyimah",
+      "link": "https://www.myjoyonline.com/world-childrens-day-childrens-rights-must-be-protected-to-secure-their-future-nathaniel-gyimah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:13:36.000Z",
+      "summary": "A participant in JoyNews’ World Children’s Day celebrations, Nathaniel Gyimah, has emphasised the importance of protecting children’s rights, particularly their right to education…",
+      "categories": [
+        "National",
+        "Children",
+        "Nathaniel Gyimah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana must democratise its cocoa processing future",
       "link": "https://www.myjoyonline.com/ghana-must-democratise-its-cocoa-processing-future/",
@@ -115,20 +128,6 @@ window.GDC_PAPERS = {
         "National Apprenticeship Programme",
         "President John Mahama",
         "Women’s Development Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRNMA Ashanti warns against brain drain, holds youth boot camp to improve livelihoods of nurses",
-      "link": "https://www.myjoyonline.com/grnma-ashanti-warns-against-brain-drain-holds-youth-boot-camp-to-improve-livelihoods-of-nurses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:35:12.000Z",
-      "summary": "President John Mahama says women who graduate from the National Apprenticeship Programme and intend to establish their own businesses will receive priority support through the Women’s…",
-      "categories": [
-        "Health",
-        "Brain drain",
-        "GRNMA Ashanti",
-        "nurses"
       ],
       "site": "https://www.myjoyonline.com/"
     },
