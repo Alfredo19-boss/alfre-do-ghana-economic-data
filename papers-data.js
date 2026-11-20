@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T09:32:35.422Z",
+  "updated": "2026-11-20T09:42:35.365Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GPNet celebrates member, Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
+      "link": "https://www.myjoyonline.com/gpnet-celebrates-member-nii-adjei-mensahfio-on-winning-the-gja-best-online-documentary-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:35:19.000Z",
+      "summary": "The Ghana Photojournalist Network (GPNet) has congratulated its member, Nii Adjei Mensahfio, on winning the Best in Online Documentary award at the recently held Ghana Journalists…",
+      "categories": [
+        "Photo Story",
+        "GJA Awards 2025",
+        "Mole National Park"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN Group reaffirms long-term investment commitment to Ghana",
+      "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:27:58.000Z",
+      "summary": "The Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant’s commitment to continued investment in Ghana, describing the country as a key market…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Telecom",
+        "Dr Cassiel Ato Forson",
+        "Mcebisi Jonas",
+        "MTN Group",
+        "MTN Group Board Chairman",
+        "Stephen Blewett"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Betway launches GHS1m Level Up promotion with 2026 Jetour Dashing as grand prize",
       "link": "https://www.myjoyonline.com/betway-launches-ghs1m-level-up-promotion-with-2026-jetour-dashing-as-grand-prize/",
@@ -140,38 +172,6 @@ window.GDC_PAPERS = {
         "Events",
         "Alex Apau Dadey.All Africa Business Leaders Awards",
         "KGL Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Christmas cards or digital greetings? Ghanaians weigh in on festive tradition",
-      "link": "https://www.myjoyonline.com/christmas-cards-or-digital-greetings-ghanaians-weigh-in-on-festive-tradition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:44:12.000Z",
-      "summary": "The tradition of exchanging handwritten Christmas cards appears to be giving way to faster digital greetings, but some Ghanaians say physical cards still hold a special sentimental value…",
-      "categories": [
-        "Art & Design",
-        "Arts and Culture",
-        "Events",
-        "Christmas cards",
-        "digital greetings",
-        "festive tradition"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why did God create human beings? Elizabeth Essuman explores question on ‘Behind The Lens’",
-      "link": "https://www.myjoyonline.com/why-did-god-create-human-beings-elizabeth-essuman-explores-question-on-behind-the-lens/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:42:50.000Z",
-      "summary": "Elizabeth Essuman and her panelists on this week’s edition of Behind The Lens with Queen Liz explore the theological and philosophical question of why God created human beings.",
-      "categories": [
-        "News",
-        "Opinion",
-        "Elizabeth Essuman",
-        "God",
-        "mankind",
-        "religion"
       ],
       "site": "https://www.myjoyonline.com/"
     },
