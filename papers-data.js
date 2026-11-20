@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T02:23:13.236Z",
+  "updated": "2026-11-20T02:38:13.210Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -77,6 +77,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "MPs clash over claims of unemployed doctors in Ghana",
+      "link": "https://www.myjoyonline.com/mps-clash-over-claims-of-unemployed-doctors-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T01:09:00.000Z",
+      "summary": "A disagreement has emerged in Parliament over the employment prospects of newly qualified doctors, with the Majority insisting that all eligible medical practitioners have been offered…",
+      "categories": [
+        "Health",
+        "News",
+        "Doctor",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ringleader pleads guilty to $100 million US jewellery heist",
       "link": "https://www.myjoyonline.com/ringleader-pleads-guilty-to-100-million-us-jewellery-heist/",
       "source": "MyJoyOnline",
@@ -110,19 +124,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Technology",
         "Anthropic"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Frank happy to be ‘back in the circus’ at Palace",
-      "link": "https://www.myjoyonline.com/frank-happy-to-be-back-in-the-circus-at-palace/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:30:00.000Z",
-      "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
-      "categories": [
-        "Football",
-        "Crystal Palace",
-        "Thomas Frank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
