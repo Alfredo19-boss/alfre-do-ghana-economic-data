@@ -3,29 +3,29 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-20T14:14:18.893Z",
+  "updated": "2026-11-20T16:10:39.936Z",
   "values": {
     "fx.usd": {
-      "value": 11.77,
-      "date": "2026-11-19",
-      "source": "Bank of Ghana interbank mid-rate",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
+      "value": 11.7902,
+      "date": "2026-11-20",
+      "source": "Market mid-rate (currency-api)",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json"
     },
     "fx.gbp": {
-      "value": 15.4381,
-      "date": "2026-11-19",
-      "source": "Bank of Ghana interbank mid-rate",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
+      "value": 15.4627,
+      "date": "2026-11-20",
+      "source": "Market mid-rate (currency-api)",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json"
     },
     "fx.eur": {
-      "value": 12.9227,
-      "date": "2026-11-19",
-      "source": "Bank of Ghana interbank mid-rate",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
+      "value": 12.953,
+      "date": "2026-11-20",
+      "source": "Market mid-rate (currency-api)",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json"
     },
     "gold.usdPerOz": {
-      "value": 3729,
-      "date": "2026-11-19",
+      "value": 3550,
+      "date": "2026-11-20",
       "source": "Spot gold (currency-api)",
       "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
       "note": "Per ounce"
@@ -78,6 +78,10 @@ window.GDC_AUTO = {
     {
       "date": "2026-11-19",
       "rate": 11.77
+    },
+    {
+      "date": "2026-11-20",
+      "rate": 11.7902
     }
   ],
   "history": {
@@ -121,6 +125,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-11-19",
         "value": 11.77
+      },
+      {
+        "date": "2026-11-20",
+        "value": 11.7902
       }
     ],
     "fx.gbp": [
@@ -163,6 +171,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-11-19",
         "value": 15.4381
+      },
+      {
+        "date": "2026-11-20",
+        "value": 15.4627
       }
     ],
     "fx.eur": [
@@ -205,6 +217,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-11-19",
         "value": 12.9227
+      },
+      {
+        "date": "2026-11-20",
+        "value": 12.953
       }
     ],
     "gold.usdPerOz": [
@@ -251,6 +267,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-11-19",
         "value": 3729
+      },
+      {
+        "date": "2026-11-20",
+        "value": 3550
       }
     ],
     "cocoa.usdPerTonne": [
@@ -297,8 +317,131 @@ window.GDC_AUTO = {
     ]
   },
   "fxTable": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "rates": {
+      "USD": {
+        "ghs": 11.7902,
+        "src": "market"
+      },
+      "GBP": {
+        "ghs": 15.4627,
+        "src": "market"
+      },
+      "CHF": {
+        "ghs": 14.0065,
+        "src": "market"
+      },
+      "AUD": {
+        "ghs": 7.86996,
+        "src": "market"
+      },
+      "CAD": {
+        "ghs": 8.23532,
+        "src": "market"
+      },
+      "DKK": {
+        "ghs": 1.729,
+        "src": "BoG"
+      },
+      "JPY": {
+        "ghs": 0.0741002,
+        "src": "market"
+      },
+      "NZD": {
+        "ghs": 6.4817,
+        "src": "BoG"
+      },
+      "NOK": {
+        "ghs": 1.2068,
+        "src": "BoG"
+      },
+      "SEK": {
+        "ghs": 1.1555,
+        "src": "BoG"
+      },
+      "ZAR": {
+        "ghs": 0.672942,
+        "src": "market"
+      },
+      "EUR": {
+        "ghs": 12.953,
+        "src": "market"
+      },
+      "CNY": {
+        "ghs": 1.76789,
+        "src": "market"
+      },
+      "XOF": {
+        "ghs": 0.0197467,
+        "src": "market"
+      },
+      "GMD": {
+        "ghs": 0.158427,
+        "src": "market"
+      },
+      "MRO": {
+        "ghs": 0.032923,
+        "src": "BoG"
+      },
+      "NGN": {
+        "ghs": 0.00873363,
+        "src": "market"
+      },
+      "SLL": {
+        "ghs": 0.000513176,
+        "src": "market"
+      },
+      "AED": {
+        "ghs": 3.21039,
+        "src": "market"
+      },
+      "INR": {
+        "ghs": 0.126794,
+        "src": "market"
+      },
+      "SAR": {
+        "ghs": 3.14404,
+        "src": "market"
+      },
+      "KES": {
+        "ghs": 0.0906492,
+        "src": "market"
+      },
+      "EGP": {
+        "ghs": 0.219067,
+        "src": "market"
+      },
+      "MAD": {
+        "ghs": 1.18355,
+        "src": "market"
+      },
+      "XAF": {
+        "ghs": 0.0197467,
+        "src": "market"
+      },
+      "TZS": {
+        "ghs": 0.00443769,
+        "src": "market"
+      },
+      "UGX": {
+        "ghs": 0.00279666,
+        "src": "market"
+      },
+      "ETB": {
+        "ghs": 0.0722446,
+        "src": "market"
+      },
+      "RWF": {
+        "ghs": 0.0079698,
+        "src": "market"
+      },
+      "BWP": {
+        "ghs": 0.830003,
+        "src": "market"
+      }
+    },
+    "prevDate": "2026-11-19",
+    "prev": {
       "USD": {
         "ghs": 11.77,
         "src": "BoG"
@@ -419,132 +562,17 @@ window.GDC_AUTO = {
         "ghs": 0.829924,
         "src": "market"
       }
-    },
-    "prevDate": "2026-11-18",
-    "prev": {
-      "USD": {
-        "ghs": 11.78,
-        "src": "BoG"
-      },
-      "GBP": {
-        "ghs": 15.509,
-        "src": "BoG"
-      },
-      "CHF": {
-        "ghs": 13.9822,
-        "src": "BoG"
-      },
-      "AUD": {
-        "ghs": 7.9236,
-        "src": "BoG"
-      },
-      "CAD": {
-        "ghs": 8.2258,
-        "src": "BoG"
-      },
-      "DKK": {
-        "ghs": 1.7299,
-        "src": "BoG"
-      },
-      "JPY": {
-        "ghs": 0.074,
-        "src": "BoG"
-      },
-      "NZD": {
-        "ghs": 6.4712,
-        "src": "BoG"
-      },
-      "NOK": {
-        "ghs": 1.2155,
-        "src": "BoG"
-      },
-      "SEK": {
-        "ghs": 1.1592,
-        "src": "BoG"
-      },
-      "ZAR": {
-        "ghs": 0.6845,
-        "src": "BoG"
-      },
-      "EUR": {
-        "ghs": 12.9301,
-        "src": "BoG"
-      },
-      "CNY": {
-        "ghs": 1.7669,
-        "src": "BoG"
-      },
-      "XOF": {
-        "ghs": 0.0197117,
-        "src": "BoG"
-      },
-      "GMD": {
-        "ghs": 0.159772,
-        "src": "BoG"
-      },
-      "MRO": {
-        "ghs": 0.032951,
-        "src": "BoG"
-      },
-      "NGN": {
-        "ghs": 0.00856027,
-        "src": "BoG"
-      },
-      "SLL": {
-        "ghs": 0.501354,
-        "src": "BoG"
-      },
-      "AED": {
-        "ghs": 3.19494,
-        "src": "market"
-      },
-      "INR": {
-        "ghs": 0.125725,
-        "src": "market"
-      },
-      "SAR": {
-        "ghs": 3.12891,
-        "src": "market"
-      },
-      "KES": {
-        "ghs": 0.0902535,
-        "src": "market"
-      },
-      "EGP": {
-        "ghs": 0.218339,
-        "src": "market"
-      },
-      "MAD": {
-        "ghs": 1.17853,
-        "src": "market"
-      },
-      "XAF": {
-        "ghs": 0.0196392,
-        "src": "market"
-      },
-      "TZS": {
-        "ghs": 0.00442765,
-        "src": "market"
-      },
-      "UGX": {
-        "ghs": 0.00282289,
-        "src": "market"
-      },
-      "ETB": {
-        "ghs": 0.0716386,
-        "src": "market"
-      },
-      "RWF": {
-        "ghs": 0.00793274,
-        "src": "market"
-      },
-      "BWP": {
-        "ghs": 0.838673,
-        "src": "market"
-      }
     }
   },
   "log": [
+    {
+      "at": "2026-11-20T16:10:39.936Z",
+      "messages": [
+        "BoG FX failed: https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/ returned 502",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
     {
       "at": "2026-11-20T14:14:18.893Z",
       "messages": [
@@ -643,14 +671,6 @@ window.GDC_AUTO = {
     },
     {
       "at": "2026-11-20T04:03:39.229Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-11-20T03:33:18.575Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
