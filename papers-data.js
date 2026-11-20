@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T21:03:02.580Z",
+  "updated": "2026-11-20T21:23:02.776Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -136,16 +136,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "World Toilet Day: From 29% to 79%: How Upper West turned the tide against open defecation",
-      "link": "https://www.myjoyonline.com/world-toilet-day-from-29-to-79-how-upper-west-turned-the-tide-against-open-defecation/",
+      "title": "Quick Clinic launches digital healthcare platform to improve access to medical services",
+      "link": "https://www.myjoyonline.com/quick-clinic-launches-digital-healthcare-platform-to-improve-access-to-medical-services/",
       "source": "MyJoyOnline",
-      "published": "2026-11-20T19:56:29.000Z",
-      "summary": "Over a decade ago, the proportion of communities declared Open Defecation Free (ODF) in the Upper West Region stood at about 29 per cent.",
+      "published": "2026-11-20T20:00:00.000Z",
+      "summary": "A new digital healthcare platform, Quick Clinic, has been launched in Ghana to connect patients, healthcare professionals and medical facilities through a single online ecosystem.",
       "categories": [
-        "Regional",
-        "Open defecation",
-        "Upper West Region",
-        "World Toilet Day"
+        "Health",
+        "digital healthcare",
+        "Quick Clinic"
       ],
       "site": "https://www.myjoyonline.com/"
     },
