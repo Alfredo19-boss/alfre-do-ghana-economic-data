@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:23:14.778Z",
+  "updated": "2026-11-20T05:28:15.349Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Producer inflation rises to 5.2% on mining sector pressures",
+      "link": "https://ghanaiantimes.com.gh/producer-inflation-rises-to-5-2-on-mining-sector-pressures/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:27:21.000Z",
+      "summary": "The country’s year-on-year Producer Price Inflation (PPI) rose to 5.2 per cent in October 2026, from 4.9 per cent in September 2026, driven largely by increases in prices in the mining and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Fix logistics, regulatory bottlenecks to grow businesses — Pres Mahama",
+      "link": "https://ghanaiantimes.com.gh/fix-logistics-regulatory-bottlenecks-to-grow-businesses-pres-mahama/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:23:23.000Z",
+      "summary": "President John Dramani Mahama has called for urgent reforms in Ghana’s logistics and regulatory systems to reduce the cost of doing business and improve the competitiveness of local…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
       "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
@@ -91,18 +115,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "USTED VC cautions students against over-reliance on AI",
-      "link": "https://ghanaiantimes.com.gh/usted-vc-cautions-students-against-over-reliance-on-ai/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:55:28.000Z",
-      "summary": "The Vice-Chancellor of the University of Skills Training and Entrepreneurial Development (USTED), Professor Frederick K. Sarfo, has cautioned students against over-relying on Artificial…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
       "link": "https://www.myjoyonline.com/the-last-two-months-are-also-very-strong-months-gra-confident-of-tax-target/",
       "source": "MyJoyOnline",
@@ -128,17 +140,6 @@ window.GDC_PAPERS = {
         "ECO"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Moving from public toilet mentality to a culture of household toilet ownership",
-      "link": "https://ghanaiantimes.com.gh/moving-from-public-toilet-mentality-to-a-culture-of-household-toilet-ownership/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:50:29.000Z",
-      "summary": "The real measure of a decent home is not simply the roof over its occupants’ heads, but whether the household can meet its basic needs safely, privately and with dignity. Ghana’s sanitation…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "High-powered NPC delegation engages Bono House of Chiefs on conflict resolution",
