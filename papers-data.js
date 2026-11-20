@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:03:03.681Z",
+  "updated": "2026-11-20T18:08:04.357Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
+      "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:02:40.000Z",
+      "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only).",
+      "categories": [
+        "Business",
+        "Economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "link": "https://www.myjoyonline.com/indian-man-sentenced-to-19-plus-years-in-plot-to-assassinate-us-based-sikh-separatist-leader/",
@@ -114,20 +126,6 @@ window.GDC_PAPERS = {
         "National",
         "MTN",
         "MTN Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kumasi Central Prison holds 1,600 inmates against 500 capacity as authorities intensify decongestion",
-      "link": "https://www.myjoyonline.com/kumasi-central-prison-holds-1600-inmates-against-500-capacity-as-authorities-intensify-decongestion/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:32:46.000Z",
-      "summary": "The Kumasi Central Prison is holding an average of 1,600 inmates, more than three times its authorised capacity of 500, as the Ashanti Regional Prisons Command steps up efforts to ease…",
-      "categories": [
-        "Regional",
-        "Decongestion",
-        "Inmates",
-        "Kumasi Central Prison"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T18:03:01.000Z",
+  "updated": "2026-11-20T18:08:01.435Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
+      "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:02:40.000Z",
+      "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only)."
+    },
     {
       "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
       "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T05:09:00.000Z",
       "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…"
-    },
-    {
-      "title": "The No New Tax Paradox: Why Businesses May Still Face Higher Tax Bills Despite Assurance – Deloitte’s Insight",
-      "link": "https://thehighstreetjournal.com/the-no-new-tax-paradox-why-businesses-may-still-face-higher-tax-bills-despite-assurance-deloittes-insight/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:05:00.000Z",
-      "summary": "Deloitte warns Ghanaian businesses may face higher effective tax burdens despite unchanged rates, as government targets increased revenue through stricter enforcement, digital audits…"
     }
   ]
 };
