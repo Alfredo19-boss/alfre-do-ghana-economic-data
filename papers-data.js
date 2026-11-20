@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:08:14.289Z",
+  "updated": "2026-11-20T06:13:13.371Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
+      "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T06:08:00.000Z",
+      "summary": "The high cost of Magnetic Resonance Imaging (MRI) scans, together with expensive treatment, is preventing some patients with pineal region tumours from accessing timely diagnosis and care…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "World Children’s Day: Turning economic gains into progress for every child",
       "link": "https://www.myjoyonline.com/world-childrens-day-turning-economic-gains-into-progress-for-every-child/",
@@ -195,17 +207,6 @@ window.GDC_PAPERS = {
         "Strike"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man United threatens legal action over illegal approaches for JJ Gabriel",
-      "link": "https://ghanaiantimes.com.gh/man-united-threatens-legal-action-over-illegal-approaches-for-jj-gabriel/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:40:23.000Z",
-      "summary": "Manchester United are prepared to take legal action if there is proof that JJ Gabriel was illegally approached by other clubs. The 16-year-old announced his departure from United in a video…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Roads Minister Agbodza inducted as Fellow of Ghana Institute of Architects",
