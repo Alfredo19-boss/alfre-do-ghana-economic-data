@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:07:33.267Z",
+  "updated": "2026-11-20T11:17:33.455Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "link": "https://www.graphic.com.gh/news/health/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T11:13:08.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Stop the rhetorics: Remove trade barriers - President Mahama urges ECOWAS",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-stop-the-rhetorics-remove-trade-barriers-president-mahama-urges-ecowas.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T11:12:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "National Security arrests wanted pastor in counterfeit currency investigation",
       "link": "https://www.myjoyonline.com/national-security-arrests-wanted-pastor-in-counterfeit-currency-investigation/",
       "source": "MyJoyOnline",
@@ -28,6 +50,7 @@ window.GDC_PAPERS = {
       "summary": "A pastor who had been wanted by Ghana's National Security Secretariat since September over an alleged counterfeit currency operation has been arrested at Zeenu, near Ashaiman, following…",
       "categories": [
         "Crime",
+        "HP News 1",
         "Currency",
         "Natioanl security",
         "Pastor"
@@ -42,6 +65,7 @@ window.GDC_PAPERS = {
       "summary": "The ongoing controversy over student hostel fees and the Minister of Education's directive to the Ghana Tertiary Education Commission (GTEC) and the Rent Control Commission to explore their…",
       "categories": [
         "Education",
+        "HP Opinion 3",
         "Opinion",
         "higher eductaion",
         "University"
@@ -186,34 +210,13 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Public health sector mourns pioneer Prof. Binka",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-public-health-sector-mourns-pioneer-prof-binka.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:15:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Use Artificial Intelligence wisely in academic activities - Prof. Sarfo advises students",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-use-artificial-intelligence-wisely-in-academic-activities-prof-sarfo-advises-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:12:11.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Before we liberalise, we must learn to produce",
       "link": "https://www.myjoyonline.com/before-we-liberalise-we-must-learn-to-produce/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T10:02:59.000Z",
       "summary": "Walk into one of Ghana's growing China Malls and the economic reality confronting the country becomes difficult to ignore. The shelves are full. The prices are attractive. Consumers have…",
       "categories": [
+        "HP Opinion 7",
         "Opinion",
         "Economy",
         "produce"
