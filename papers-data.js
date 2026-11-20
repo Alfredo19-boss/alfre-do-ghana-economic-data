@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:13:14.116Z",
+  "updated": "2026-11-20T04:18:14.109Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "Government preparing to hire 8,000 more health workers – Prof Beyuo",
       "link": "https://www.myjoyonline.com/government-preparing-to-hire-8000-more-health-workers-prof-beyuo/",
       "source": "MyJoyOnline",
-      "published": "2026-11-20T03:54:45.000Z",
+      "published": "2026-11-20T04:12:45.000Z",
       "summary": "Another 8,000 health professionals are expected to be recruited into the public health system, with the government preparing a second intake after bringing a similar number on board earlier…",
       "categories": [
         "Health",
