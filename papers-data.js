@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:53:03.991Z",
+  "updated": "2026-11-20T18:58:05.317Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘If a mother’s tears could bring back a child’ – Javits’ mother breaks down during tribute",
+      "link": "https://www.myjoyonline.com/if-a-mothers-tears-could-bring-back-a-child-javits-mother-breaks-down-during-tribute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:52:16.000Z",
+      "summary": "The mother of 15-year-old Badu Nkansah Frimpong, popularly known as Javits, broke down in tears during the reading of her tribute at his funeral in the Bronx, New York, as she struggled to…",
+      "categories": [
+        "International",
+        "National",
+        "Javits",
+        "Mother",
+        "Tribute"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s Education Crossroads: Why Artificial Intelligence must become a tool for inclusive learning and national transformation",
       "link": "https://www.myjoyonline.com/ghanas-education-crossroads-why-artificial-intelligence-must-become-a-tool-for-inclusive-learning-and-national-transformation/",
@@ -132,18 +147,6 @@ window.GDC_PAPERS = {
         "National",
         "Children",
         "Nathaniel Gyimah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana must democratise its cocoa processing future",
-      "link": "https://www.myjoyonline.com/ghana-must-democratise-its-cocoa-processing-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:06:16.000Z",
-      "summary": "For over a century, our farmers have cleared the bush, nursed the pods, and shouldered the volatility of international commodity markets, only for foreign trading houses and European…",
-      "categories": [
-        "Opinion",
-        "Cocoa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
