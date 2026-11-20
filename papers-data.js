@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:03:15.031Z",
+  "updated": "2026-11-20T06:08:14.289Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Children’s Day: Turning economic gains into progress for every child",
+      "link": "https://www.myjoyonline.com/world-childrens-day-turning-economic-gains-into-progress-for-every-child/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:05:00.000Z",
+      "summary": "Every World Children’s Day, November 20th, gives us an opportunity to celebrate Ghana’s children and ask a simple but important question: Are we giving every child the best possible chance…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "World Children's Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MIIF exceeds 2026 target with GH¢9bn in mineral royalties two months ahead of schedule",
+      "link": "https://www.myjoyonline.com/miif-exceeds-2026-target-with-gh%c2%a29bn-in-mineral-royalties-two-months-ahead-of-schedule/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:02:00.000Z",
+      "summary": "The Minerals Income Investment Fund (MIIF) has exceeded its 2026 mineral royalty mobilisation target of GH¢6.9 billion, recording GH¢9 billion two months before the end of the year.",
+      "categories": [
+        "National",
+        "MIIF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "6.13m Ghanaians still practise open defecation — World Vision",
       "link": "https://ghanaiantimes.com.gh/6-13m-ghanaians-still-practise-open-defecation-world-vision/",
@@ -192,33 +218,6 @@ window.GDC_PAPERS = {
         "Agbodza",
         "Ghana",
         "Roads Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Locking up business premises is our last resort – GRA boss",
-      "link": "https://www.myjoyonline.com/locking-up-business-premises-is-our-last-resort-gra-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:34:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) says it would rather engage businesses and help them meet their tax obligations than shut down their operations, insisting that locking up offices and…",
-      "categories": [
-        "HP News 3",
-        "News",
-        "Business",
-        "GRA",
-        "lock"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament, accountability institutions call for new laws to regulate political financing",
-      "link": "https://www.myjoyonline.com/parliament-accountability-institutions-call-for-new-laws-to-regulate-political-financing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:33:00.000Z",
-      "summary": "Parliament, accountability institutions and development partners have renewed calls for comprehensive reform of Ghana’s political financing regime.",
-      "categories": [
-        "National",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
