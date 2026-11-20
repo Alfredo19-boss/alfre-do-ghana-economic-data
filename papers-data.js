@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:32:50.200Z",
+  "updated": "2026-11-20T04:38:13.916Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Army reclaims 50 hectares of degraded Tano-Nimiri Forest Reserve",
+      "link": "https://ghanaiantimes.com.gh/army-reclaims-50-hectares-of-degraded-tano-nimiri-forest-reserve/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:36:37.000Z",
+      "summary": "The Ghana Armed Forces (GAF) has completed the reclamation of 50 hectares of degraded land in the Tano-Nimiri Forest Reserve, restoring abandoned mining sites and constructing a Forward…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Oware-Mensah’s GH¢38.4m trial adjourned to Nov 23",
       "link": "https://ghanaiantimes.com.gh/oware-mensahs-gh%c2%a238-4m-trial-adjourned-to-nov-23/",
@@ -58,6 +70,19 @@ window.GDC_PAPERS = {
         "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Poor sales, mounting hardship – Techiman traders ask Minority MPs to speak for them",
+      "link": "https://www.myjoyonline.com/poor-sales-mounting-hardship-techiman-traders-ask-minority-mps-to-speak-for-them/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:13:00.000Z",
+      "summary": "Traders at the Techiman Market in the Bono East Region have appealed to Minority MPs to take their concerns to Parliament, saying poor sales and declining purchasing power are threatening…",
+      "categories": [
+        "Politics",
+        "Minority MPs",
+        "Techiman traders"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Government preparing to hire 8,000 more health workers – Prof Beyuo",
@@ -134,19 +159,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Migrants",
         "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "University of Ghana seeks legal clarity over rent control of student hostels",
-      "link": "https://www.myjoyonline.com/university-of-ghana-seeks-legal-clarity-over-rent-control-of-student-hostels/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:21:00.000Z",
-      "summary": "The University of Ghana has questioned whether the country’s rent laws can be applied to student accommodation managed by its commercial subsidiary, the University of Ghana Enterprises…",
-      "categories": [
-        "News",
-        "Hostel",
-        "University of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,18 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T14:45:42.000Z",
       "summary": "Electroland Ghana Limited (EGL), has launched its biggest promotion ever, dubbed ‘No Challenger Black Friday’, to reward customers ahead of Christmas. The promotion will run for four days…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Côte d’Ivoire introduces mandatory online registration for travellers from African countries",
-      "link": "https://ghanaiantimes.com.gh/cote-divoire-introduces-mandatory-online-registration-for-travellers-from-african-countries/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:43:31.000Z",
-      "summary": "The Ministry of Foreign Affairs has announced that the Republic of Côte d’Ivoire has introduced a mandatory online registration requirement for travellers arriving from African countries…",
       "categories": [
         "Hot!",
         "News"
