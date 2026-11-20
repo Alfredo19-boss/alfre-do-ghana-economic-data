@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T00:12:14.630Z",
+  "updated": "2026-11-20T00:22:13.199Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘I’m very healthy’ – Kompany to return to dugout after health scare",
+      "link": "https://www.myjoyonline.com/im-very-healthy-kompany-to-return-to-dugout-after-health-scare/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:13:00.000Z",
+      "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has received as he prepares to return to the dugout on Friday.",
+      "categories": [
+        "Football",
+        "Vincent Kompany"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
       "link": "https://www.myjoyonline.com/premier-league-clubs-to-cover-legal-costs-if-man-city-sponsors-sue/",
       "source": "MyJoyOnline",
@@ -32,6 +44,17 @@ window.GDC_PAPERS = {
         "Premier League clubs"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Acting Chief Justice urges government to resolve judicial workers' grievances to avert possible fresh strike",
+      "link": "https://www.graphic.com.gh/news/general-news/acting-chief-justice-urges-government-to-resolve-judicial-workers-grievances-to-avert-fresh-strike.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T00:06:44.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "World Fisheries Day: Making Ghana’s expanded Inshore Exclusion Zone work for artisanal fishers",
@@ -57,6 +80,23 @@ window.GDC_PAPERS = {
         "Football",
         "Mykhailo Mudryk",
         "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We shall win to sell Ghana’ – NDC MP gives NPP anthem a parliamentary remix",
+      "link": "https://www.myjoyonline.com/we-shall-win-to-sell-ghana-ndc-mp-gives-npp-anthem-a-parliamentary-remix/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-19T23:50:00.000Z",
+      "summary": "The familiar refrain of the New Patriotic Party’s (NPP) campaign anthem took an unexpected turn in Parliament when Chiana-Paga MP Alamzy Billa Nikyema gave it a provocative twist, drawing…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Ghana",
+        "NDC",
+        "NPP",
+        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -98,33 +138,6 @@ window.GDC_PAPERS = {
         "International",
         "Alibaba",
         "Nvidia scandal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Ghana’s democracy is for sale’ – Bedzrah warns over money in party elections",
-      "link": "https://www.myjoyonline.com/ghanas-democracy-is-for-sale-bedzrah-warns-over-money-in-party-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:12:50.000Z",
-      "summary": "Ho West MP Emmanuel Bedzrah has warned that the growing influence of money in political party elections threatens the credibility of Ghana’s democracy, following what he described as…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Businessman remanded over alleged vehicle theft",
-      "link": "https://www.myjoyonline.com/businessman-remanded-over-alleged-vehicle-theft/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:12:00.000Z",
-      "summary": "An Accra Circuit Court has remanded a 39-year-old businessman into police custody for allegedly selling two vehicles worth GH¢380,000 and failing to account for the proceeds.",
-      "categories": [
-        "Crime",
-        "Accra Circuit Court",
-        "Remand"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -211,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ipr-ghana-re-elects-esther-cobbah-and-executives-unopposed-at-32nd-agm.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T15:49:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Put knowledge into practice, Austrian Ambassador urges HAWA graduates",
-      "link": "https://www.graphic.com.gh/news/general-news/put-knowledge-into-practice-austrian-ambassador-urges-hawa-graduates.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T15:41:20.000Z",
       "summary": "",
       "categories": [
         "General News"
