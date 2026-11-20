@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T00:22:13.199Z",
+  "updated": "2026-11-20T00:32:13.402Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Frank happy to be ‘back in the circus’ at Palace",
+      "link": "https://www.myjoyonline.com/frank-happy-to-be-back-in-the-circus-at-palace/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:30:00.000Z",
+      "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+      "categories": [
+        "Football",
+        "Crystal Palace",
+        "Thomas Frank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Leicester City split with sponsor after porn actress row",
+      "link": "https://www.myjoyonline.com/leicester-city-split-with-sponsor-after-porn-actress-row/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:21:00.000Z",
+      "summary": "Leicester City have parted ways with their main shirt sponsor after the gambling firm appointed a porn actress as an ambassador.",
+      "categories": [
+        "Football",
+        "Leicester City"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘I’m very healthy’ – Kompany to return to dugout after health scare",
       "link": "https://www.myjoyonline.com/im-very-healthy-kompany-to-return-to-dugout-after-health-scare/",
@@ -111,33 +136,6 @@ window.GDC_PAPERS = {
         "Anthony Kwasi Sarpong",
         "GRA Commissioner-General",
         "Lifestyle audits"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge make history with Egypt win to reach Amputee World Cup semi-finals",
-      "link": "https://www.myjoyonline.com/black-challenge-make-history-with-egypt-win-to-reach-amputee-world-cup-semi-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:27:06.000Z",
-      "summary": "Ghana’s Black Challenge have made history by beating Egypt 2-0 to reach the semi-finals of the 2026 Amputee Football World Cup in Mexico. The victory secures Ghana’s first-ever appearance…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026 Amputee Football World Cup",
-        "Black Challenge"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
-      "link": "https://www.myjoyonline.com/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:21:00.000Z",
-      "summary": "Alibaba was sued on Thursday in New York by shareholders who accused the Chinese e-commerce giant of defrauding them by concealing its ties to the suspected Chinese spy whose relationship…",
-      "categories": [
-        "International",
-        "Alibaba",
-        "Nvidia scandal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
