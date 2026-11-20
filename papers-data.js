@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:48:03.547Z",
+  "updated": "2026-11-20T17:53:03.939Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,11 +21,25 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "World Children’s Day: Parents must involve children in decisions about their future – Akosua Antwiwah",
+      "link": "https://www.myjoyonline.com/world-childrens-day-parents-must-involve-children-in-decisions-about-their-future-akosua-antwiwah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:48:53.000Z",
+      "summary": "A participant in JoyNews’ World Children’s Day celebrations, Akosua Antwiwah, has urged parents to involve their children in decisions that affect their lives, arguing that they should have…",
+      "categories": [
+        "National",
+        "Akosua Antwiwah",
+        "Parents",
+        "World Children’s Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Gov’t spent $4.67m on Black Stars’ 2026 World Cup campaign",
       "link": "https://www.myjoyonline.com/govt-spent-4-67m-on-black-stars-2026-world-cup-campaign/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T17:44:23.000Z",
-      "summary": "Ghana’s Minister of Sports and Recreation, Kofi Adams, says the government spent US$4.67m of the US$5m advance allocated for the Black Stars’ participation in the 2026 FIFA World Cup. The…",
+      "summary": "Ghana’s Minister of Sports and Recreation, Kofi Adams, says the government spent $4.67m of the $5m advance allocated for the Black Stars’ participation in the 2026 FIFA World Cup. The…",
       "categories": [
         "Football",
         "HP Sports 1",
@@ -116,20 +130,6 @@ window.GDC_PAPERS = {
         "ADB Ghana medicals",
         "DNA equipment",
         "Noguchi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Krobo Girls’ Old Girls Association unveils Centenary Ambassadors ahead of 100th anniversary",
-      "link": "https://www.myjoyonline.com/krobo-girls-old-girls-association-unveils-centenary-ambassadors-ahead-of-100th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:22:40.000Z",
-      "summary": "The Krobo Old Girls’ Association (KOGA) is set to unveil six Centenary Ambassadors as part of activities leading up to the 100th anniversary celebration of Krobo Girls’ Presbyterian Senior…",
-      "categories": [
-        "Education",
-        "National",
-        "KOGA",
-        "Krobo Girls Senior High School"
       ],
       "site": "https://www.myjoyonline.com/"
     },
