@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:48:04.628Z",
+  "updated": "2026-11-20T18:53:03.991Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana’s Education Crossroads: Why Artificial Intelligence must become a tool for inclusive learning and national transformation",
+      "link": "https://www.myjoyonline.com/ghanas-education-crossroads-why-artificial-intelligence-must-become-a-tool-for-inclusive-learning-and-national-transformation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:45:58.000Z",
+      "summary": "As Ghana prepares to mark National Education Week 2026 on November 23 and 24, attention is increasingly turning to the role artificial intelligence (AI) can play in shaping the future of…",
+      "categories": [
+        "Opinion",
+        "Artificial Intelligence",
+        "Ghana's Education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nearly 600 women killed in South Africa within three months",
       "link": "https://www.myjoyonline.com/nearly-600-women-killed-in-south-africa-within-three-months/",
       "source": "MyJoyOnline",
@@ -35,6 +48,17 @@ window.GDC_PAPERS = {
         "Women"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How Nkrumah secretly directed his cameraman Chris Hesse using a walking stick revealed in 'The Eyes of Ghana' documentary",
+      "link": "https://www.graphic.com.gh/news/general-news/how-nkrumah-secretly-directed-cameraman-chris-hesse-using-a-walking-stick-revealed-in-the-eyes-of-ghana-documentary.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T18:33:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Output per worker stood at 178% in 2025 – GSS",
@@ -120,20 +144,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Opinion",
         "Cocoa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
-      "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:02:40.000Z",
-      "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only).",
-      "categories": [
-        "Business",
-        "Economy",
-        "GSS",
-        "Unemployment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -225,17 +235,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "LIVESTREAM: Watch the Javits Frimpong funeral",
-      "link": "https://www.graphic.com.gh/news/general-news/livestream-watch-the-javits-frimpong-funeral.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T15:35:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana to face Turkey in WAFF Amputee Football World Cup semi-final",
