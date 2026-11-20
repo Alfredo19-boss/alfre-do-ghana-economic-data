@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T09:57:34.725Z",
+  "updated": "2026-11-20T10:07:33.536Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,72 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Nandom regent goes home",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nandom-regent-goes-home.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:04:15.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "IPMC graduates 700 students in technology disciplines",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ipmc-graduates-700-students-in-technology-disciplines.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:00:33.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GRA to leverage technology to increase revenue - Commissioner-General",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gra-to-leverage-technology-to-increase-revenue-commissioner-general.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:55:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Correctional Services: an investment in public safety, not just punishment — Deputy Interior Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-correctional-services-an-investment-in-public-safety-not-just-punishment-deputy-interior-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:51:30.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "DVLA inaugurates new office at Kyebi",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dvla-inaugurates-new-office-at-kyebi.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:47:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Tano South Assembly steps up revenue mobilisation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tano-south-assembly-steps-up-revenue-mobilisation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:41:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
       "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
       "source": "MyJoyOnline",
@@ -36,7 +102,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GPNet celebrates member, Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
+      "title": "NHIA welcomes GHS, CHAG directives to facilities against illegal charges",
+      "link": "https://www.graphic.com.gh/news/health/ghana-news-nhia-welcomes-ghs-chag-directives-to-facilities-against-illegal-charges.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:36:07.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GPNet celebrates member Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
       "link": "https://www.myjoyonline.com/gpnet-celebrates-member-nii-adjei-mensahfio-on-winning-the-gja-best-online-documentary-award/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T09:35:19.000Z",
@@ -49,11 +126,22 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "La Nkwantanang-Madina Assembly engages chiefs, Imams on HIV prevention",
+      "link": "https://www.graphic.com.gh/news/health/ghana-news-la-nkwantanang-madina-assembly-engages-chiefs-imams-on-hiv-prevention.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T09:32:06.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "MTN Group reaffirms long-term investment commitment to Ghana",
       "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T09:27:58.000Z",
-      "summary": "The Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant’s commitment to continued investment in Ghana, describing the country as a key market…",
+      "summary": "The Board Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant's commitment to continued investment in Ghana, describing the country as a key market…",
       "categories": [
         "Business",
         "Economy",
@@ -80,28 +168,6 @@ window.GDC_PAPERS = {
         "Level Up"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minister directs GTEC to engage Rent Commission over hostel fees",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-directs-gtec-to-engage-rent-commission-over-hostel-fees.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:02:32.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PHOTOS: Meet Diamond Lucas: The 12-year-old admitted to study at UCC",
-      "link": "https://www.graphic.com.gh/news/education/photos-meet-diamond-lucas-the-12-year-old-admitted-to-study-at-ucc.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T08:47:39.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "SWAG announces nominees for 2026 awards night in Accra as Semenyo and Yirenkyi headline",
@@ -264,72 +330,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Acting Chief Justice urges government to resolve judicial workers' grievances to avert possible fresh strike",
-      "link": "https://www.graphic.com.gh/news/general-news/acting-chief-justice-urges-government-to-resolve-judicial-workers-grievances-to-avert-fresh-strike.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T00:06:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
-      "link": "https://www.graphic.com.gh/news/general-news/uk-ghana-chamber-raises-funds-princess-marie-louise-hospital-neonatal-care.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T20:49:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Ghana orders urgent repairs at Legon hostels after student complaints",
-      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-orders-urgent-repairs-at-legon-hostels-after-student-complaints.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T18:56:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Ghana reduces proposed hostel fee from GH¢8,820 to GH¢8,050",
-      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-cuts-proposed-hostel-fee-by-ghc770-after-student-consultations.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T18:28:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Speaker Bagbin urges African parliaments to listen to citizens",
-      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-urges-african-parliaments-to-listen-to-citizens.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T17:54:57.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Attorney-General to law enforcement: Comply strictly with suspects' constitutional rights",
-      "link": "https://www.graphic.com.gh/news/general-news/attorney-general-to-law-enforcement-comply-strictly-with-suspects-constitutional-rights.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T17:28:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
