@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:27:41.017Z",
+  "updated": "2026-11-20T10:37:33.864Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian arrested in Kuwait over alleged sale of abortion pills",
+      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-arrested-in-kuwait-over-alleged-sale-of-abortion-pills.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:30:42.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Adom Kiki holds fifth edition of The Worshipper’s Heart",
+      "link": "https://www.myjoyonline.com/adom-kiki-holds-fifth-edition-of-the-worshippers-heart/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:26:21.000Z",
+      "summary": "Gospel singer and worship leader Adom Kiki brought worshippers together for the fifth edition of The Worshipper’s Heart, an evening of music, prayer and spiritual reflection",
+      "categories": [
+        "Events",
+        "Adom Kiki",
+        "Fifth edition",
+        "The Worshipper’s Heart"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Latex Foam, others honoured at National Customers’ Choice Awards",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-latex-foam-others-honoured-at-national-customers-choice-awards.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:22:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-uk-ghana-chamber-raises-ghc923-165-to-support-princess-marie-childrens-hospital.html",
@@ -113,28 +149,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GRA to leverage technology to increase revenue - Commissioner-General",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gra-to-leverage-technology-to-increase-revenue-commissioner-general.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:55:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Correctional Services: an investment in public safety, not just punishment — Deputy Interior Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-correctional-services-an-investment-in-public-safety-not-just-punishment-deputy-interior-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:51:30.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
       "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
       "source": "MyJoyOnline",
@@ -215,21 +229,6 @@ window.GDC_PAPERS = {
         "Caleb Yirenkyi",
         "SWAG Awards",
         "SWAG Awards 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "15 shops at Accra Mall fail GRA VAT compliance checks",
-      "link": "https://www.myjoyonline.com/15-shops-at-accra-mall-fail-gra-vat-compliance-checks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T08:41:14.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered significant VAT compliance breaches following an inspection of 20 shops at the Accra Mall, with only five found to be compliant. The…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 3",
-        "GRA",
-        "VAT"
       ],
       "site": "https://www.myjoyonline.com/"
     },
