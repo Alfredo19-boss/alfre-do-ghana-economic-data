@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:07:34.054Z",
+  "updated": "2026-11-20T12:17:32.389Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
+      "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:05:12.000Z",
+      "summary": "There is an old saying in the corridors of the Customs Division: the job cannot be learnt from a briefing note. Valuation, classification, transit acquittals, warehousing, the rhythm of a…",
+      "categories": [
+        "Business",
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "Customs Division",
+        "GRA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Boundary Commission rehabilitates school at Elubo",
       "link": "https://www.myjoyonline.com/ghana-boundary-commission-rehabilitates-school-at-elubo/",
@@ -124,6 +139,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "President demands action on port congestion - Tasks 2 ministries to end burden",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-demands-action-on-port-congestion-tasks-2-ministries-to-end-burden.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T11:03:57.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "National Security arrests wanted pastor in counterfeit currency investigation",
       "link": "https://www.myjoyonline.com/national-security-arrests-wanted-pastor-in-counterfeit-currency-investigation/",
       "source": "MyJoyOnline",
@@ -178,21 +204,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Trump posthumously pardons US baseball legend, Pete Rose",
-      "link": "https://www.myjoyonline.com/trump-posthumously-pardons-us-baseball-legend-pete-rose/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:54:50.000Z",
-      "summary": "US President Donald Trump has posthumously pardoned baseball legend Pete Rose.",
-      "categories": [
-        "International",
-        "Sports",
-        "Pete Rose",
-        "Trump",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GIMPA, PURC open centre to champion utilities regulatory excellence",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gimpa-purc-open-centre-to-champion-utilities-regulatory-excellence.html",
       "source": "Daily Graphic",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ga-mantse-urges-newly-qualified-ga-dangme-lawyers-to-defend-heritage-reshape-narrative.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T10:35:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghanaian arrested in Kuwait over alleged sale of abortion pills",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-arrested-in-kuwait-over-alleged-sale-of-abortion-pills.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:30:42.000Z",
       "summary": "",
       "categories": [
         "General News"

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T12:07:31.224Z",
+  "updated": "2026-11-20T12:17:03.223Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
+      "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:05:12.000Z",
+      "summary": "There is an old saying in the corridors of the Customs Division: the job cannot be learnt from a briefing note. Valuation, classification, transit acquittals, warehousing, the rhythm of a…"
+    },
     {
       "title": "PURC Targets Stable Power, Water Supply In 2027 As Utility Investments Rise",
       "link": "https://thehighstreetjournal.com/purc-targets-stable-power-water-supply-in-2027-as-utility-investments-rise/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T22:36:36.000Z",
       "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…"
-    },
-    {
-      "title": "No court order bars dealings with Nguvu Mining – Lawyers",
-      "link": "https://www.myjoyonline.com/no-court-order-bars-dealings-with-nguvu-mining-lawyers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:11:00.000Z",
-      "summary": "Nguvu Mining Limited has rejected claims that an Australian-based company, Adamus Resources Pty Ltd, owns shares in Adamus Resources Limited in Ghana, insisting that it holds the…"
     }
   ]
 };
