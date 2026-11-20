@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T08:42:36.289Z",
+  "updated": "2026-11-20T08:52:34.628Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,55 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PHOTOS: Meet Diamond Lucas: The 12-year-old admitted to study at UCC",
+      "link": "https://www.graphic.com.gh/news/education/photos-meet-diamond-lucas-the-12-year-old-admitted-to-study-at-ucc.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T08:47:39.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "SWAG announces nominees for 2026 awards night in Accra as Semenyo and Yirenkyi headline",
+      "link": "https://www.myjoyonline.com/swag-announces-nominees-for-2026-awards-night-in-accra-as-semenyo-and-yirenkyi-headline/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T08:46:55.000Z",
+      "summary": "Black Stars duo Caleb Yirenkyi and Antoine Semenyo are in the running for the Footballer of the Year award in the men's category alongside Brandon Thomas-Asante.",
+      "categories": [
+        "Athletics",
+        "Boxing",
+        "Football",
+        "Golf",
+        "National",
+        "Other Sports",
+        "Sports",
+        "Tennis",
+        "Antoine Semenyo",
+        "Brandon Thomas-Asante",
+        "Caleb Yirenkyi",
+        "SWAG Awards",
+        "SWAG Awards 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "15 shops at Accra Mall fail GRA VAT compliance checks",
+      "link": "https://www.myjoyonline.com/15-shops-at-accra-mall-fail-gra-vat-compliance-checks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T08:41:14.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has uncovered significant VAT compliance breaches following an inspection of 20 shops at the Accra Mall, with only five found to be compliant. The…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 3",
+        "GRA",
+        "VAT"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Today’s front pages: Friday, November 20, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-20-2026/",
@@ -113,39 +162,6 @@ window.GDC_PAPERS = {
         "Christmas",
         "Joy FM",
         "Kindness"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One in three countries does not measure its air pollution, global report finds",
-      "link": "https://www.myjoyonline.com/one-in-three-countries-does-not-measure-its-air-pollution-global-report-finds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:38:17.000Z",
-      "summary": "One in every three countries in the world has no government system for measuring air pollution, leaving nearly one billion people without official information about the air they breathe, a…",
-      "categories": [
-        "Africa",
-        "Data",
-        "Health",
-        "Research",
-        "Air pollution",
-        "Air quality",
-        "Global Report",
-        "OpenAQ"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "More than half of African countries do not measure their air pollution, report shows",
-      "link": "https://www.myjoyonline.com/more-than-half-of-african-countries-do-not-measure-their-air-pollution-report-shows/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:34:54.000Z",
-      "summary": "More than half of Africa’s 54 countries have no government system for measuring air pollution, according to an analysis of a new global report, even as the continent leads the world in…",
-      "categories": [
-        "Africa",
-        "Health",
-        "Air pollution",
-        "Air quality",
-        "new monitoring"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -310,17 +326,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/west-african-journalists-educators-urged-to-prioritise-fact-checking-verification-2.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T16:38:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghanaian youth leaders call for a seat at the decision-making table",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-youth-leaders-call-for-a-seat-at-the-decision-making-table.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T16:21:21.000Z",
       "summary": "",
       "categories": [
         "General News"

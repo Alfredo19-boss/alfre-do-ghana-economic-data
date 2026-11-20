@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T08:42:33.014Z",
+  "updated": "2026-11-20T08:52:30.889Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "15 shops at Accra Mall fail GRA VAT compliance checks",
+      "link": "https://www.myjoyonline.com/15-shops-at-accra-mall-fail-gra-vat-compliance-checks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T08:41:14.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has uncovered significant VAT compliance breaches following an inspection of 20 shops at the Accra Mall, with only five found to be compliant. The…"
+    },
     {
       "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
       "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T18:58:42.000Z",
       "summary": "Fidelity Bank wants pension funds, insurance investments and private capital channelled into manufacturing and agro-processing, arguing that domestic financing is critical to reducing gold…"
-    },
-    {
-      "title": "Gov’t Seeks to Turn Invest Ghana Summit Talks Into Funded Projects, Julius Debrah Says",
-      "link": "https://thehighstreetjournal.com/invest-ghana-summit-talks-closes/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T18:55:14.000Z",
-      "summary": "Ghana will measure the success of its Invest Ghana Summit by how many investment proposals secure financing and move into operation, Chief of Staff Julius Debrah said, as the government…"
     }
   ]
 };
