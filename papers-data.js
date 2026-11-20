@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T13:57:34.790Z",
+  "updated": "2026-11-20T14:02:32.377Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "African ministers warn against empty promises at COP31, demand delivery of climate finance",
+      "link": "https://www.myjoyonline.com/african-ministers-warn-against-empty-promises-at-cop31-demand-delivery-of-climate-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:56:14.000Z",
+      "summary": "African ministers have mounted a united call for developed countries to honour their climate finance commitments, warning that failure to deliver promised resources will undermine the…",
+      "categories": [
+        "National",
+        "african ministers",
+        "Climate Finance",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mining firms urged to create inclusive workplaces to boost women’s participation",
       "link": "https://www.myjoyonline.com/mining-firms-urged-to-create-inclusive-workplaces-to-boost-womens-participation/",
@@ -114,21 +128,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Aboabo Dagomba line",
         "Ashanti Region"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGSRC commends Rent Commissioner for intervention in campus accommodation crisis",
-      "link": "https://www.myjoyonline.com/ugsrc-commends-rent-commissioner-for-intervention-in-campus-accommodation-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:24:53.000Z",
-      "summary": "The University of Ghana Students’ Representative Council (UGSRC) has commended the Rent Commissioner for intervening in the rising cost of private hostel accommodation around the Legon…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "Rent Commissioner",
-        "UGSRC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
