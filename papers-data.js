@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T21:33:21.359Z",
+  "updated": "2026-11-20T21:53:21.699Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
+      "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T21:12:31.000Z",
+      "summary": "Poland says a Russian cruise missile was among three objects that violated its airspace early on Friday, with Prime Minister Donald Tusk saying it did not appear to be an accident when…",
+      "categories": [
+        "International",
+        "Poland",
+        "Russia",
+        "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian boy killed in US ‘deserved so much better’, says New York Mayor Mamdani",
       "link": "https://www.myjoyonline.com/ghanaian-boy-killed-in-us-deserved-so-much-better-says-new-york-mayor-mamdani/",
@@ -132,21 +146,6 @@ window.GDC_PAPERS = {
         "Nurses and Midwives",
         "Nursing and Midwifery Council (NMC)",
         "University of Business and Integrated Development Studies (UBIDS)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Toilet Day 2026: WaterAid Ghana calls for increased sanitation investment, urges districts to emulate Bongo",
-      "link": "https://www.myjoyonline.com/world-toilet-day-2026-wateraid-ghana-calls-for-increased-sanitation-investment-urges-districts-to-emulate-bongo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:08:17.000Z",
-      "summary": "WaterAid Ghana has called for sustained investment in sanitation infrastructure, stronger local government leadership and greater accountability to ensure that every Ghanaian has access to…",
-      "categories": [
-        "National",
-        "sanitation investment",
-        "Upper East Region",
-        "WaterAid Ghana",
-        "World Toilet Day 2026"
       ],
       "site": "https://www.myjoyonline.com/"
     },
