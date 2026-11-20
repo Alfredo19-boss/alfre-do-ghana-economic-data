@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T14:07:36.479Z",
+  "updated": "2026-11-20T17:33:04.137Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,124 +21,146 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Deputy Health Minister warns against examination malpractice in nursing schools",
-      "link": "https://www.myjoyonline.com/deputy-health-minister-warns-against-examination-malpractice-in-nursing-schools/",
+      "title": "ADB Ghana installs advanced DNA equipment at Noguchi Institute",
+      "link": "https://www.myjoyonline.com/adb-ghana-installs-advanced-dna-equipment-at-noguchi-institute/",
       "source": "MyJoyOnline",
-      "published": "2026-11-20T14:01:40.000Z",
-      "summary": "The Deputy Minister of Health, Professor Dr Grace Ayensu-Danquah, has cautioned health training institutions against examination malpractice, warning that graduating unqualified nurses and…",
+      "published": "2026-11-20T17:26:00.000Z",
+      "summary": "ADB Ghana Medical Systems Group, through Thermo Fisher Scientific UK, has installed advanced DNA equipment at the Noguchi Memorial Institute for Medical Research to strengthen Ghana’s…",
       "categories": [
-        "Education",
         "Health",
         "National",
-        "Examination malpractice",
-        "Nursing schools",
-        "Professor Dr Grace Ayensu-Danquah"
+        "ADB Ghana medicals",
+        "DNA equipment",
+        "Noguchi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Moffy, Gasmilla revisit Ga vibe with new single ‘Seaman Jorley’",
-      "link": "https://www.myjoyonline.com/moffy-gasmilla-revisit-ga-vibe-with-new-single-seaman-jorley/",
+      "title": "Krobo Girls’ Old Girls Association unveils Centenary Ambassadors ahead of 100th anniversary",
+      "link": "https://www.myjoyonline.com/krobo-girls-old-girls-association-unveils-centenary-ambassadors-ahead-of-100th-anniversary/",
       "source": "MyJoyOnline",
-      "published": "2026-11-20T14:01:36.000Z",
-      "summary": "Ghanaian musician Moffy has released a new single, Seaman Jorley, featuring Ga music and Azonto legend Gasmilla, in a creative blend of traditional Ga sounds and contemporary musical…",
-      "categories": [
-        "Music",
-        "Gasmilla",
-        "Moffy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We have still not received our per diems’ – Black Challenge players appeal to government after historic World Cup feat",
-      "link": "https://www.myjoyonline.com/we-have-still-not-received-our-per-diems-black-challenge-players-appeal-to-government-after-historic-world-cup-feat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:59:17.000Z",
-      "summary": "The Black Challenge made history on Wednesday after recording a 2-0 victory over Egypt to book their place in the last four of the competition for the first time.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Ghana",
-        "National Paralympic Committee",
-        "World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African ministers warn against empty promises at COP31, demand delivery of climate finance",
-      "link": "https://www.myjoyonline.com/african-ministers-warn-against-empty-promises-at-cop31-demand-delivery-of-climate-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:56:14.000Z",
-      "summary": "African ministers have mounted a united call for developed countries to honour their climate finance commitments, warning that failure to deliver promised resources will undermine the…",
-      "categories": [
-        "National",
-        "african ministers",
-        "Climate Finance",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mining firms urged to create inclusive workplaces to boost women’s participation",
-      "link": "https://www.myjoyonline.com/mining-firms-urged-to-create-inclusive-workplaces-to-boost-womens-participation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:44:53.000Z",
-      "summary": "The Gender Ministry has urged mining and transport companies to adopt inclusive workplace policies and provide career advancement opportunities, to increase women's participation in Ghana's…",
-      "categories": [
-        "National",
-        "Children and Social Protection",
-        "Director for Gender Equity at the Ministry of Gender"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haruna Iddrisu and NDC’s leadership future: Experience, political maturity and the national question",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-and-ndcs-leadership-future-experience-political-maturity-and-the-national-question/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:44:17.000Z",
-      "summary": "Political leadership is rarely the product of a single achievement, appointment or moment of public recognition. More often, it emerges through years of institutional engagement, exposure…",
-      "categories": [
-        "Opinion",
-        "Haruna Iddrisu",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
-      "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:42:34.000Z",
-      "summary": "Poland says a Russian cruise missile was among three objects that violated its airspace early on Friday and Prime Minister Donald Tusk said it did not appear to be an accident when Western…",
-      "categories": [
-        "International",
-        "Missile",
-        "Russia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We would have joined Rent Commissioner on campus if notified ahead of visit – UGSRC",
-      "link": "https://www.myjoyonline.com/we-would-have-joined-rent-commissioner-on-campus-if-notified-ahead-of-visit-ugsrc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:37:05.000Z",
-      "summary": "The University of Ghana Students’ Representative Council (UGSRC) has explained why its executives were absent during the Rent Control Department’s recent campus intervention over rising…",
+      "published": "2026-11-20T17:22:40.000Z",
+      "summary": "The Krobo Old Girls’ Association (KOGA) is set to unveil six Centenary Ambassadors as part of activities leading up to the 100th anniversary celebration of Krobo Girls’ Presbyterian Senior…",
       "categories": [
         "Education",
-        "HP News 10",
-        "Rent Control",
-        "UGEL",
-        "UGSRC"
+        "National",
+        "KOGA",
+        "Krobo Girls Senior High School"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget will be judged by outcomes - ISSER",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-will-be-judged-by-outcomes-isser.html",
+      "title": "NAP Connect: NYA develops digital platform to link apprenticeship graduates to economic opportunities",
+      "link": "https://www.myjoyonline.com/nap-connect-nya-develops-digital-platform-to-link-apprenticeship-graduates-to-economic-opportunities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:22:37.000Z",
+      "summary": "The National Youth Authority has developed a digital platform, NAP Connect, to help graduates of the National Apprenticeship Programme market their skills, showcase their work and connect…",
+      "categories": [
+        "National",
+        "NAP Connect",
+        "National Apprenticeship Programme",
+        "National Youth Authority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Youngsters take over Joy Brands airwaves for World Children’s Day",
+      "link": "https://www.myjoyonline.com/youngsters-take-over-joy-brands-airwaves-for-world-childrens-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:22:33.000Z",
+      "summary": "Friday's broadcasts took an exciting turn as young voices took centre stage across JoyNews and Joy FM, stepping behind the microphones, occupying the news desks and joining studio…",
+      "categories": [
+        "National",
+        "Joy brands",
+        "World Children’s Day",
+        "Youngsters"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sinapi Aba Trust supports 500 women farmers with climate-smart agriculture training in Upper East",
+      "link": "https://www.myjoyonline.com/sinapi-aba-trust-supports-500-women-farmers-with-climate-smart-agriculture-training-in-upper-east/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:22:08.000Z",
+      "summary": "Sinapi Aba Trust is supporting 500 women smallholder farmers in the Upper East Region with agricultural training, financial assistance and climate-smart farming techniques under a two-year…",
+      "categories": [
+        "Regional",
+        "climate smart",
+        "Sinapi Aba",
+        "women farmers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘I know what that hope feels like’ – New York City Mayor Mamdani on Javits’ immigrant journey",
+      "link": "https://www.myjoyonline.com/i-know-what-that-hope-feels-like-new-york-city-mayor-mamdani-on-javits-immigrant-journey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:13:02.000Z",
+      "summary": "New York City Mayor Zohran Kwame Mamdani has drawn parallels between his childhood journey from Africa to the United States and that of 15-year-old Badu Nkansah Frimpong, popularly known as…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Zohran Mamdani"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New Economy agenda to drive industrial transformation – GIPA CEO",
+      "link": "https://www.myjoyonline.com/new-economy-agenda-to-drive-industrial-transformation-gipa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:09:28.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, says the government’s New Economy agenda will accelerate industrialisation, attract investment…",
+      "categories": [
+        "Business",
+        "Economy",
+        "GIPA",
+        "new economy",
+        "Simon Madjie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Borteyman Sports Complex: gov’t courts private sector involvement to manage $145m facility",
+      "link": "https://www.myjoyonline.com/borteyman-sports-complex-govt-courts-private-sector-involvement-to-manage-145m-facility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:09:19.000Z",
+      "summary": "Government is exploring the possibility of a public-private partnership (PPP) to manage and maintain the Borteyman Sports Complex. This follows the submission of a memorandum from the…",
+      "categories": [
+        "Athletics",
+        "Boxing",
+        "Comp. Sports",
+        "Football",
+        "Golf",
+        "HP Sports 1",
+        "Other Sports",
+        "Sports",
+        "Tennis",
+        "Atsu Tamakloe",
+        "Borteyman Sports Complex",
+        "Ghana",
+        "Kofi Adams",
+        "Parliament",
+        "Sports Minister",
+        "Sports Ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Protect local rice farmers, Dr Bawumia tells government",
+      "link": "https://www.graphic.com.gh/news/politics/protect-local-rice-farmers-dr-bawumia-tells-government.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T11:21:01.000Z",
+      "published": "2026-11-20T17:05:10.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GRA arrests 3 China Mall operators, invites 13 for VAT invoice audit",
+      "link": "https://www.graphic.com.gh/news/general-news/gra-arrests-3-china-mall-operators-invites-13-for-vat-invoice-audit.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T16:54:09.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -146,10 +168,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "African parliaments must open communication channels to citizens - Bagbin",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-parliaments-must-open-communication-channels-to-citizens-bagbin.html",
+      "title": "Vice President Opoku-Agyemang calls for support for struggling rural banks",
+      "link": "https://www.graphic.com.gh/news/general-news/vice-president-opoku-agyemang-calls-for-support-for-struggling-rural-banks.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T11:16:39.000Z",
+      "published": "2026-11-20T16:45:50.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -157,21 +179,21 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "link": "https://www.graphic.com.gh/news/health/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish.html",
+      "title": "UCC inducts 185 law students for 2026/2027 academic year",
+      "link": "https://www.graphic.com.gh/news/education/ucc-inducts-185-law-students-for-2026-2027-academic-year.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T11:13:08.000Z",
+      "published": "2026-11-20T16:34:40.000Z",
       "summary": "",
       "categories": [
-        "Health"
+        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Stop the rhetorics: Remove trade barriers - President Mahama urges ECOWAS",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-stop-the-rhetorics-remove-trade-barriers-president-mahama-urges-ecowas.html",
+      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
+      "link": "https://www.graphic.com.gh/news/general-news/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T11:12:59.000Z",
+      "published": "2026-11-20T16:14:51.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -179,10 +201,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President demands action on port congestion - Tasks 2 ministries to end burden",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-demands-action-on-port-congestion-tasks-2-ministries-to-end-burden.html",
+      "title": "Ablakwa elected Chair of Nordic-African Foreign Ministers' Meeting for 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/ablakwa-elected-chair-of-nordic-african-foreign-ministers-meeting-for-2027.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T11:03:57.000Z",
+      "published": "2026-11-20T16:04:25.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -190,10 +212,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President commissions DNA Lab, vaccine research facility at Noguchi",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-commissions-dna-lab-vaccine-research-facility-at-noguchi.html",
+      "title": "Six killed in attack on Fulbe community in Buipe",
+      "link": "https://www.graphic.com.gh/news/general-news/six-killed-in-attack-on-fulbe-community-in-buipe.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T10:56:30.000Z",
+      "published": "2026-11-20T15:55:59.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -201,10 +223,22 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GIMPA, PURC open centre to champion utilities regulatory excellence",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gimpa-purc-open-centre-to-champion-utilities-regulatory-excellence.html",
+      "title": "Ablakwa elected Chair of Nordic-African Foreign Ministers for 2027",
+      "link": "https://ghanaiantimes.com.gh/ablakwa-elected-chair-of-nordic-african-foreign-ministers-for-2027/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T15:53:18.000Z",
+      "summary": "Ghana’s Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has been elected Chair of the Nordic-African Foreign Ministers’ Meeting for 2027. He is expected to succeed Norway’s Foreign…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "LIVESTREAM: Watch the Javits Frimpong funeral",
+      "link": "https://www.graphic.com.gh/news/general-news/livestream-watch-the-javits-frimpong-funeral.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T10:52:02.000Z",
+      "published": "2026-11-20T15:35:00.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -212,15 +246,64 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ga Mantse urges newly qualified Ga-Dangme lawyers to defend heritage, reshape narrative",
-      "link": "https://www.graphic.com.gh/news/general-news/ga-mantse-urges-newly-qualified-ga-dangme-lawyers-to-defend-heritage-reshape-narrative.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:35:54.000Z",
-      "summary": "",
+      "title": "Ghana to face Turkey in WAFF Amputee Football World Cup semi-final",
+      "link": "https://ghanaiantimes.com.gh/ghana-to-face-turkey-in-waff-amputee-football-world-cup-semi-final/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T15:33:25.000Z",
+      "summary": "Ghana’s National Amputee Football Team, the Black Challenge, will face Turkey in the semi-final of the WAFF Amputee Football World Cup 2026 in Mexico. The highly anticipated encounter is…",
       "categories": [
-        "General News"
+        "Hot!",
+        "Sports"
       ],
-      "site": "https://www.graphic.com.gh/"
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Firefighters save three bedrooms as fire guts apartment at La Nkwantanang",
+      "link": "https://ghanaiantimes.com.gh/firefighters-save-three-bedrooms-as-fire-guts-apartment-at-la-nkwantanang/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T15:28:50.000Z",
+      "summary": "Firefighters from the Madina Fire Station have contained a domestic fire outbreak near the Jehovah’s Witnesses Kingdom Hall at Madina, La Nkwantanang. The crew swiftly brought the fire…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Courts to resume sitting as JUSAG, SSAJUG suspend strike",
+      "link": "https://ghanaiantimes.com.gh/courts-to-resume-sitting-as-jusag-ssajug-suspend-strike/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T15:20:15.000Z",
+      "summary": "The Judicial Service of Ghana has announced that courts across the country will resume normal sittings on Tuesday, November 10, 2026, following the suspension of the industrial action by…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, Norway deepen partnership with new support for startups, fintechs and green cement",
+      "link": "https://ghanaiantimes.com.gh/ghana-norway-deepen-partnership-with-new-support-for-startups-fintechs-and-green-cement/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T15:15:50.000Z",
+      "summary": "Ghana’s Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, has held a fruitful meeting with Norway’s Minister for International Development, H.E. Åsmund Grøver Aukrust, on the sidelines…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Accra High Court restrains CLOGSAG from holding congress",
+      "link": "https://ghanaiantimes.com.gh/accra-high-court-restrains-clogsag-from-holding-congress/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T14:41:17.000Z",
+      "summary": "THE High Court in Accra has granted an interim injunction against the Quadrenial National Congress of the Civil and Local Government Staff Association ofGhana (CLOGSAG). It remains in for…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
@@ -243,72 +326,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2026 Damang Gold Mine Open Championship tees off",
-      "link": "https://ghanaiantimes.com.gh/2026-damang-gold-mine-open-championship-tees-off/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:57:19.000Z",
-      "summary": "Over GH₵500,000 in cash prizes would be up for grabs as golfers from nine countries converge on the Damang Golf Course for the 2026 Damang Gold Mine Open Championship. The event officially…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Menzo begins Kotoko reign with tough Bechem United test",
-      "link": "https://ghanaiantimes.com.gh/menzo-begins-kotoko-reign-with-tough-bechem-united-test/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:55:37.000Z",
-      "summary": "Newly appointed Kumasi Asante Kotoko head coach, Stanley Purl Menzo, will begin his reign when he leads his side to the Nana Fosu Gyeabour Park in Bechem to face Bechem United in their…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FAZ3 president arrives for congress",
-      "link": "https://ghanaiantimes.com.gh/faz3-president-arrives-for-congress/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:53:06.000Z",
-      "summary": "President of FIBA Africa Zone 3 (FAZ3) and FIBA Africa Executive Committee member, Col. Samuel Ahmedu (Rtd), has arrived in the country ahead of its General Meeting and Congress, scheduled…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Alcaraz overpowers Medvedev to move closer to last 4",
-      "link": "https://ghanaiantimes.com.gh/alcaraz-overpowers-medvedev-to-move-closer-to-last-4/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:49:03.000Z",
-      "summary": "World number three, Carlos Alcaraz, eased past Daniil Medvedev 6-2 6-4 on Wednesday to move to the brink of a semi-final spot at the season-ending ATP Finals. Alcaraz, ‌seeking his maiden…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Olympic champion Jepchirchir banned 3 years for doping",
-      "link": "https://ghanaiantimes.com.gh/olympic-champion-jepchirchir-banned-3-years-for-doping/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:47:54.000Z",
-      "summary": "World and former Olympic marathon champion, Peres Jepchirchir, has been suspended for three years over a positive drug test for the banned substance EPO, the Athletics Integrity Unit said…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Chisora confirms talks for Wilder rematch on Fury-Joshua undercard",
-      "link": "https://ghanaiantimes.com.gh/chisora-confirms-talks-for-wilder-rematch-on-fury-joshua-undercard/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:46:23.000Z",
-      "summary": "Derek Chisora has confirmed he is in negotiations for a rematch with Deontay Wilder, after Jai Opetaia withdrew from his planned fight with the American. In April, Wilder fought Chisora on…",
-      "categories": [
-        "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }

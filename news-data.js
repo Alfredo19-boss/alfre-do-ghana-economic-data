@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T14:07:31.974Z",
+  "updated": "2026-11-20T17:33:01.541Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "New Economy agenda to drive industrial transformation – GIPA CEO",
+      "link": "https://www.myjoyonline.com/new-economy-agenda-to-drive-industrial-transformation-gipa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:09:28.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, says the government’s New Economy agenda will accelerate industrialisation, attract investment…"
+    },
+    {
+      "title": "Two nanny goats, a new hope: Kusaug women seek a path to economic independence",
+      "link": "https://www.myjoyonline.com/two-nanny-goats-a-new-hope-kusaug-women-seek-a-path-to-economic-independence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T15:23:06.000Z",
+      "summary": "For Rita, a mother of six from Bazua in the Kusaug Traditional Area of the Upper East Region, receiving two nanny goats could open a new opportunity to support her children. She is among 15…"
+    },
+    {
+      "title": "Inside Deutsche Bank – Painful lessons dressed in suit",
+      "link": "https://www.ghanabusinessnews.com/2026/11/20/inside-deutsche-bank-painful-lessons-dressed-in-suit/",
+      "source": "Ghana Business News",
+      "published": "2026-11-20T14:14:24.000Z",
+      "summary": "There is a law that doesn't proclaim its existence. It doesn't storm newsrooms in the middle of the night, doesn't come with boots on and doesn't come shouting. It comes silently, inside an…"
+    },
     {
       "title": "THE ECOLOGICAL INVOICE: Should Businesses Account For The Cost Of Nature?",
       "link": "https://thehighstreetjournal.com/the-ecological-invoice-should-businesses-account-for-the-cost-of-nature/",
@@ -197,7 +218,7 @@ window.GDC_NEWS = {
       "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December."
     },
     {
-      "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
+      "title": "Doormaster unveils over 500 door designs, offers up to 30% discount at Luv FM Habitat Fair",
       "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T04:30:07.000Z",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T05:03:00.000Z",
       "summary": "Gold Fields reports US$3.3 billion in government payments, US$4.6 billion in local procurement and over 5,000 jobs supported as it seeks to retain Tarkwa."
-    },
-    {
-      "title": "Wassa Professionals Network Demands 10% Community Equity in Tarkwa Mine Renewal",
-      "link": "https://thehighstreetjournal.com/wassa-professionals-network-demands-10-community-equity-in-tarkwa-mine-renewal/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:02:00.000Z",
-      "summary": "WPN says the April 2027 lease expiry offers an opportunity to secure direct community ownership, revenue sharing and representation in future mining operations."
-    },
-    {
-      "title": "Plastic Waste Now Fuels Industries Abroad as Ghana’s Stays in the Drains",
-      "link": "https://thehighstreetjournal.com/plastic-waste-now-fuels-industries-abroad-as-ghanas-stays-in-the-drains/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:01:00.000Z",
-      "summary": "Ghana generates about one million tonnes of plastic waste annually, but weak recycling systems and delayed producer-responsibility legislation are leaving a potentially lucrative industrial…"
-    },
-    {
-      "title": "Banks Urged to Move Beyond Collateral-Based Lending to Unlock SME Financing",
-      "link": "https://thehighstreetjournal.com/banks-urged-to-move-beyond-collateral-based-lending-to-unlock-sme-financing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:00:00.000Z",
-      "summary": "GhISP and CIB Ghana are equipping financial institutions with practical lending skills to improve SME credit assessment and expand access to inclusive, sustainable business financing."
     }
   ]
 };
