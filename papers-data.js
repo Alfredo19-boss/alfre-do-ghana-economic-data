@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T01:03:13.609Z",
+  "updated": "2026-11-20T02:13:12.985Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
+      "link": "https://www.myjoyonline.com/accused-child-sex-predator-thomas-markle-ruled-competent-to-face-trial/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:07:00.000Z",
+      "summary": "A U.S. judge in Florida on Thursday declared Thomas Markle, the ​estranged father of Britain's Duchess of Sussex, Meghan ‌Markle, to be mentally competent to answer to a federal charge…",
+      "categories": [
+        "International",
+        "Thomas Markle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ringleader pleads guilty to $100 million US jewellery heist",
       "link": "https://www.myjoyonline.com/ringleader-pleads-guilty-to-100-million-us-jewellery-heist/",
@@ -117,20 +129,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "World Fisheries Day: Making Ghana’s expanded Inshore Exclusion Zone work for artisanal fishers",
-      "link": "https://www.myjoyonline.com/world-fisheries-day-making-ghanas-expanded-inshore-exclusion-zone-work-for-artisanal-fishers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:06:09.000Z",
-      "summary": "For more than 22 years, Kwesi Atta has fished out of Ezilinbo, a coastal community in the Jomoro Municipality of the Western Region. The sea has fed his family and sustained his community…",
-      "categories": [
-        "Opinion",
-        "Artisanal fishers",
-        "fisheries day",
-        "inshore exclusion zone"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
