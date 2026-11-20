@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:38:02.874Z",
+  "updated": "2026-11-20T20:48:02.581Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana must protect inland fisheries to secure future fish supply – Fisheries Minister",
+      "link": "https://www.myjoyonline.com/ghana-must-protect-inland-fisheries-to-secure-future-fish-supply-fisheries-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:39:16.000Z",
+      "summary": "The Minister for Fisheries and Aquaculture, Emelia Arthur, says that Ghana must intensify efforts to protect its inland fisheries resources through sustainable management, increased…",
+      "categories": [
+        "National",
+        "Emelia Arthur",
+        "fish supply",
+        "Ghana",
+        "inland fisheries"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kintampo North’s Seidu Muazu elected Bono East NALAG Regional representative",
       "link": "https://www.myjoyonline.com/kintampo-norths-seidu-muazu-elected-bono-east-nalag-regional-representative/",
@@ -125,20 +140,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Maxwell Kudekor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama vows to protect Oti Region from illegal mining amid iron ore and nickel discoveries",
-      "link": "https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:20:01.000Z",
-      "summary": "President John Mahama says the discovery of iron ore and nickel deposits in the Oti Region presents a potential source of prosperity and job creation, but insists any decision to mine the…",
-      "categories": [
-        "National",
-        "Illegal mining",
-        "Oti Region",
-        "President John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
