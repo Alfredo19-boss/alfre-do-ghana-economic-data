@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:03:16.549Z",
+  "updated": "2026-11-20T05:08:13.910Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GTA urges stakeholders to prioritise safety ahead of December in GH",
+      "link": "https://ghanaiantimes.com.gh/gta-urges-stakeholders-to-prioritise-safety-ahead-of-december-in-gh/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:07:40.000Z",
+      "summary": "The Ghana Tourism Authority (GTA) has urged stakeholders in the sector to protect the country’s peace and safety as the strongest selling points in attracting visitors. The Deputy Chief…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "China advocates closer collaboration with Ghanaian publishers",
+      "link": "https://ghanaiantimes.com.gh/china-advocates-closer-collaboration-with-ghanaian-publishers/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:04:42.000Z",
+      "summary": "China has called for stronger partnerships with publishers in Ghana and other countries to promote its infrastructure development, expand cultural exchanges and deepen international…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Create jobs with skills, not certificates alone — Education Director",
       "link": "https://ghanaiantimes.com.gh/create-jobs-with-skills-not-certificates-alone-education-director/",
@@ -86,29 +109,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MRI scans must not remain beyond patients’ reach",
-      "link": "https://ghanaiantimes.com.gh/mri-scans-must-not-remain-beyond-patients-reach/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:40:20.000Z",
-      "summary": "A medical diagnosis should never become a luxury that only those who can afford it can access. Yet, for some patients in the country suspected of having pineal region tumours, the cost of a…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Army reclaims 50 hectares of degraded Tano-Nimiri Forest Reserve",
-      "link": "https://ghanaiantimes.com.gh/army-reclaims-50-hectares-of-degraded-tano-nimiri-forest-reserve/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:36:37.000Z",
-      "summary": "The Ghana Armed Forces (GAF) has completed the reclamation of 50 hectares of degraded land in the Tano-Nimiri Forest Reserve, restoring abandoned mining sites and constructing a Forward…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },

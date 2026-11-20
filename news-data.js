@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T05:03:15.793Z",
+  "updated": "2026-11-20T05:08:12.765Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Grow More, but Grow Better: Minister Tells Rice Farmers to Fix Quality",
+      "link": "https://thehighstreetjournal.com/grow-more-but-grow-better-minister-tells-rice-farmers-to-fix-quality/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:05:00.000Z",
+      "summary": "The Trade Minister urges farmers and processors to invest in modern equipment and improve grain quality as consumer preference for imported rice challenges local market growth."
+    },
+    {
+      "title": "GEA Supports 29,000 New Businesses, Facilitates 45,814 Jobs",
+      "link": "https://thehighstreetjournal.com/gea-supports-29000-new-businesses-facilitates-45814-jobs/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:03:00.000Z",
+      "summary": "GEA says its support helped establish 29,000 businesses and create 45,814 jobs, while a new US Virgin Islands partnership seeks wider markets for Ghanaian MSMEs."
+    },
     {
       "title": "Can Ghana Keep its No-New-Taxes Pledge Without Cutting Promised Projects?",
       "link": "https://thehighstreetjournal.com/can-ghana-keep-its-no-new-taxes-pledge-without-cutting-promised-projects/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T17:39:23.000Z",
       "summary": "Gold Fields Ghana Limited says it has paid US$3.3 billion to the Government of Ghana in royalties, corporate taxes and dividends from its operations at the Tarkwa mine. In a media statement…"
-    },
-    {
-      "title": "GVCA, NOVA Business School organise masterclass on private equity, venture capital",
-      "link": "https://www.myjoyonline.com/gvca-nova-business-school-organise-masterclass-on-private-equity-venture-capital/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T17:30:00.000Z",
-      "summary": "The Ghana Venture Capital and Private Equity Association (GVCA) and NOVA Business School Africa have held a masterclass to help women and young executives explore career opportunities in…"
-    },
-    {
-      "title": "Gold Fields Cites Over US$5bn Investment in Tarkwa Mine in Bid to Renew Mining Leases",
-      "link": "https://thehighstreetjournal.com/gold-fields-cites-over-us5bn-investment-in-tarkwa-mine-in-bid-to-renew-mining-leases/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T17:00:00.000Z",
-      "summary": "Gold Fields highlights over US$5 billion invested in Tarkwa, alongside its economic contributions, as it seeks renewal of the mine's leases from government."
     }
   ]
 };
