@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:23:13.369Z",
+  "updated": "2026-11-20T06:38:13.824Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "More than half of African countries do not measure their air pollution, report shows",
+      "link": "https://www.myjoyonline.com/more-than-half-of-african-countries-do-not-measure-their-air-pollution-report-shows/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:34:54.000Z",
+      "summary": "More than half of Africa’s 54 countries have no government system for measuring air pollution, according to an analysis of a new global report, even as the continent leads the world in…",
+      "categories": [
+        "Africa",
+        "Health",
+        "Air pollution",
+        "Air quality",
+        "new monitoring"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Eastern NDC youth organiser backs Opong-Fosu for National Chairmanship",
       "link": "https://www.myjoyonline.com/eastern-ndc-youth-organiser-backs-opong-fosu-for-national-chairmanship/",
@@ -197,20 +212,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Customs uncovers hidden warehouse stocked with suspected smuggled goods in Tatale",
-      "link": "https://www.myjoyonline.com/customs-uncovers-hidden-warehouse-stocked-with-suspected-smuggled-goods-in-tatale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:46:45.000Z",
-      "summary": "Customs officials have uncovered a concealed warehouse in Tatale in the Northern Region, seizing a large consignment of sugar, rice and cooking oil suspected to have entered Ghana through…",
-      "categories": [
-        "National",
-        "Customs",
-        "GRA",
-        "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Chisora confirms talks for Wilder rematch on Fury-Joshua undercard",
