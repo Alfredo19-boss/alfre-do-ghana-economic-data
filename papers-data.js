@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T21:53:21.699Z",
+  "updated": "2026-11-20T22:03:21.418Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,16 +21,39 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.myjoyonline.com/trump-threatens-ban-on-us-firms-building-ai-data-centres-overseas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T21:44:45.000Z",
+      "summary": "Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so.",
+      "categories": [
+        "News",
+        "AI data centre",
+        "Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.myjoyonline.com/white-house-removes-cyber-security-chief-after-series-of-tech-outages/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T21:33:02.000Z",
+      "summary": "The top cyber-security official in the US government is leaving his post after a little over a year in the job.",
+      "categories": [
+        "International",
+        "Cyber",
+        "White House"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk-2/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T21:12:31.000Z",
-      "summary": "Poland says a Russian cruise missile was among three objects that violated its airspace early on Friday, with Prime Minister Donald Tusk saying it did not appear to be an accident when…",
+      "summary": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
       "categories": [
-        "International",
-        "Poland",
-        "Russia",
-        "Ukraine"
+        "International"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -117,35 +140,6 @@ window.GDC_PAPERS = {
         "fish supply",
         "Ghana",
         "inland fisheries"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kintampo North’s Seidu Muazu elected Bono East NALAG Regional representative",
-      "link": "https://www.myjoyonline.com/kintampo-norths-seidu-muazu-elected-bono-east-nalag-regional-representative/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:29:09.000Z",
-      "summary": "The Presiding Member of the Kintampo North Municipal Assembly, Seidu Muazu Harrison, has been elected as the new Regional Representative of the National Association of Local Authorities of…",
-      "categories": [
-        "Regional",
-        "Bono East NALAG Regional rep",
-        "Kintampo North Municipal Assembly",
-        "Seidu Muazu Harrison"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Your uniform is for care, not content’ – Nursing Council warns newly inducted professionals",
-      "link": "https://www.myjoyonline.com/your-uniform-is-for-care-not-content-nursing-council-warns-newly-inducted-professionals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:17:36.000Z",
-      "summary": "Amid a rapidly evolving healthcare landscape, thousands of newly qualified nurses and midwives have been reminded that their primary responsibility is to provide compassionate patient care…",
-      "categories": [
-        "Health",
-        "National",
-        "Nurses and Midwives",
-        "Nursing and Midwifery Council (NMC)",
-        "University of Business and Integrated Development Studies (UBIDS)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
