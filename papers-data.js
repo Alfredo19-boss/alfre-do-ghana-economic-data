@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:53:14.310Z",
+  "updated": "2026-11-20T05:58:16.900Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2026 Damang Gold Mine Open Championship tees off",
+      "link": "https://ghanaiantimes.com.gh/2026-damang-gold-mine-open-championship-tees-off/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:57:19.000Z",
+      "summary": "Over GH₵500,000 in cash prizes would be up for grabs as golfers from nine countries converge on the Damang Golf Course for the 2026 Damang Gold Mine Open Championship. The event officially…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Alternative Dispute Resolution reduces court backlog by over 41,000 cases",
+      "link": "https://www.myjoyonline.com/alternative-dispute-resolution-reduces-court-backlog-by-over-41000-cases/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:56:00.000Z",
+      "summary": "Justice Gabriel Pwamang, Acting Chief Justice, has said the Alternative Dispute Resolution (ADR) Programme has reduced the caseload of traditional courts by 41,431 cases since its…",
+      "categories": [
+        "National",
+        "ADR",
+        "Cases",
+        "court"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Menzo begins Kotoko reign with tough Bechem United test",
+      "link": "https://ghanaiantimes.com.gh/menzo-begins-kotoko-reign-with-tough-bechem-united-test/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:55:37.000Z",
+      "summary": "Newly appointed Kumasi Asante Kotoko head coach, Stanley Purl Menzo, will begin his reign when he leads his side to the Nana Fosu Gyeabour Park in Bechem to face Bechem United in their…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "FAZ3 president arrives for congress",
       "link": "https://ghanaiantimes.com.gh/faz3-president-arrives-for-congress/",
@@ -158,17 +194,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Deepen your knowledge on Borrowers and Lenders Act … Ahmed Ibrahim urges real estate practitioners",
-      "link": "https://ghanaiantimes.com.gh/deepen-your-knowledge-on-borrowers-and-lenders-act-ahmed-ibrahim-urges-real-estate-practitioners/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:34:24.000Z",
-      "summary": "Real estate practitioners have been urged to deepen their understanding of the Borrowers and Lenders Act, 2020 (Act 1052), and the operations of the Collateral Registry to enhance…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Locking up business premises is our last resort – GRA boss",
       "link": "https://www.myjoyonline.com/locking-up-business-premises-is-our-last-resort-gra-boss/",
       "source": "MyJoyOnline",
@@ -192,31 +217,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana to invest $1.1bn in 5G rollout, network expansion",
-      "link": "https://ghanaiantimes.com.gh/mtn-ghana-to-invest-1-1bn-in-5g-rollout-network-expansion/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:32:43.000Z",
-      "summary": "MTN Ghana is to invest US$1.1 billion over the next three years to expand its telecommunications infrastructure, improve network coverage and accelerate the deployment of 5G technology. The…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to produce first locally manufactured vaccine by 2027 – Mahama",
-      "link": "https://www.myjoyonline.com/ghana-to-produce-first-locally-manufactured-vaccine-by-2027-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:27:52.000Z",
-      "summary": "Ghana is expected to produce its first locally manufactured vaccine, the tetanus-diphtheria vaccine, by the first quarter of 2027 as part of efforts to strengthen domestic vaccine…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Mahama",
-        "Vaccine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
