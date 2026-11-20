@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:08:03.296Z",
+  "updated": "2026-11-20T20:18:02.977Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Toilet Day 2026: WaterAid Ghana calls for increased sanitation investment, urges districts to emulate Bongo",
+      "link": "https://www.myjoyonline.com/world-toilet-day-2026-wateraid-ghana-calls-for-increased-sanitation-investment-urges-districts-to-emulate-bongo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:08:17.000Z",
+      "summary": "WaterAid Ghana has called for sustained investment in sanitation infrastructure, stronger local government leadership and greater accountability to ensure that every Ghanaian has access to…",
+      "categories": [
+        "National",
+        "sanitation investment",
+        "Upper East Region",
+        "WaterAid Ghana",
+        "World Toilet Day 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "World Toilet Day: From 29% to 79%: How Upper West turned the tide against open defecation",
       "link": "https://www.myjoyonline.com/world-toilet-day-from-29-to-79-how-upper-west-turned-the-tide-against-open-defecation/",
@@ -134,22 +149,6 @@ window.GDC_PAPERS = {
         "Bono Regional Minister",
         "Joseph Addae Akwaboa",
         "MMDCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JOB VACANCY: Unilever Distributor Recruitment",
-      "link": "https://www.myjoyonline.com/job-vacancy-unilever-distributor-recruitment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:07:55.000Z",
-      "summary": "UNILEVER DISTRIBUTOR RECRUITMENT ANNOUNCEMENT BECOME A UNILEVER PARTNER! Are you a reputable, market-connected FMCG distributor? If yes, Unilever is looking for you! Unilever, a global…",
-      "categories": [
-        "In Focus",
-        "National",
-        "News",
-        "distributor",
-        "Unilever",
-        "Unilever Distributor Recruitment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
