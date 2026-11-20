@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:57:33.722Z",
+  "updated": "2026-11-20T11:07:33.267Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,73 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "National Security arrests wanted pastor in counterfeit currency investigation",
+      "link": "https://www.myjoyonline.com/national-security-arrests-wanted-pastor-in-counterfeit-currency-investigation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:00:00.000Z",
+      "summary": "A pastor who had been wanted by Ghana's National Security Secretariat since September over an alleged counterfeit currency operation has been arrested at Zeenu, near Ashaiman, following…",
+      "categories": [
+        "Crime",
+        "Currency",
+        "Natioanl security",
+        "Pastor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Quality higher education comes at a cost: Who should pay?",
+      "link": "https://www.myjoyonline.com/quality-higher-education-comes-at-a-cost-who-should-pay/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:59:22.000Z",
+      "summary": "The ongoing controversy over student hostel fees and the Minister of Education's directive to the Ghana Tertiary Education Commission (GTEC) and the Rent Control Commission to explore their…",
+      "categories": [
+        "Education",
+        "Opinion",
+        "higher eductaion",
+        "University"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President commissions DNA Lab, vaccine research facility at Noguchi",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-commissions-dna-lab-vaccine-research-facility-at-noguchi.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:56:30.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "link": "https://www.myjoyonline.com/tens-of-thousands-of-uk-fridges-secured-from-hackers-in-secret-nationwide-operation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:55:43.000Z",
+      "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and…",
+      "categories": [
+        "International",
+        "Fridges",
+        "UK"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump posthumously pardons US baseball legend, Pete Rose",
+      "link": "https://www.myjoyonline.com/trump-posthumously-pardons-us-baseball-legend-pete-rose/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:54:50.000Z",
+      "summary": "US President Donald Trump has posthumously pardoned baseball legend Pete Rose.",
+      "categories": [
+        "International",
+        "Sports",
+        "Pete Rose",
+        "Trump",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GIMPA, PURC open centre to champion utilities regulatory excellence",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gimpa-purc-open-centre-to-champion-utilities-regulatory-excellence.html",
@@ -141,17 +208,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Govt urged to improve conditions of service for teachers",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-govt-urged-to-improve-conditions-of-service-for-teachers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:08:13.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Before we liberalise, we must learn to produce",
       "link": "https://www.myjoyonline.com/before-we-liberalise-we-must-learn-to-produce/",
       "source": "MyJoyOnline",
@@ -161,68 +217,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Economy",
         "produce"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
-      "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:39:46.000Z",
-      "summary": "Having played a key role in Ghana's win over Panama, Thomas-Asante was hoping to star for the Black Stars against the Three Lions.",
-      "categories": [
-        "Football",
-        "2026 World Cup",
-        "Black Stars",
-        "Brandon Thomas-Asante",
-        "Carlos Queiroz"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPNet celebrates member Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
-      "link": "https://www.myjoyonline.com/gpnet-celebrates-member-nii-adjei-mensahfio-on-winning-the-gja-best-online-documentary-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:35:19.000Z",
-      "summary": "The Ghana Photojournalist Network (GPNet) has congratulated its member, Nii Adjei Mensahfio, on winning the Best in Online Documentary award at the recently held Ghana Journalists…",
-      "categories": [
-        "Photo Story",
-        "GJA Awards 2025",
-        "Mole National Park"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Group reaffirms long-term investment commitment to Ghana",
-      "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:27:58.000Z",
-      "summary": "The Board Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant's commitment to continued investment in Ghana, describing the country as a key market…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Telecom",
-        "Dr Cassiel Ato Forson",
-        "Mcebisi Jonas",
-        "MTN Group",
-        "MTN Group Board Chairman",
-        "Stephen Blewett"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian passport services disrupted in the UK as Ghana High Commission battles server challenges",
-      "link": "https://www.myjoyonline.com/ghanaian-passport-services-disrupted-in-the-uk-as-ghana-high-commission-battles-server-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:18:00.000Z",
-      "summary": "Ghanaians seeking to obtain their passports through the Ghana High Commission in London may have to wait longer than expected, following a technical problem affecting the Commission's…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Travel and Tourism",
-        "Ghana High Commission in UK",
-        "Ghanaian passport services"
       ],
       "site": "https://www.myjoyonline.com/"
     },
