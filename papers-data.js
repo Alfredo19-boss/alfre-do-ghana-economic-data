@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:47:32.179Z",
+  "updated": "2026-11-20T12:57:33.102Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Crafting survival: Dzorwulu’s cane weavers seek government support to save traditional industry",
+      "link": "https://www.myjoyonline.com/crafting-survival-dzorwulus-cane-weavers-seek-government-support-to-save-traditional-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:52:31.000Z",
+      "summary": "Along the busy roadside of Dzorwulu on the George Walker Bush Highway in Accra, colourful displays of hand-woven cane chairs, tables, baskets, and hampers catch the eye of passing motorists…",
+      "categories": [
+        "Art & Design",
+        "Arts and Culture",
+        "National",
+        "cane weavers",
+        "Dzorwulu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fan found not guilty of racially abusing Semenyo",
+      "link": "https://www.myjoyonline.com/fan-found-not-guilty-of-racially-abusing-semenyo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:45:40.000Z",
+      "summary": "Semenyo was due to give evidence at Liverpool Magistrates' Court in the trial of Mark Mogan, 47, who was accused of shouting racist abuse during the opening match of the Premier League…",
+      "categories": [
+        "Football",
+        "Antoine Semenyo",
+        "Liverpool"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Achimota Mall VAT checks expose invoice irregularities at 14 businesses – GRA",
+      "link": "https://www.myjoyonline.com/achimota-mall-vat-checks-expose-invoice-irregularities-at-14-businesses-gra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:45:39.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread VAT irregularities among businesses operating at Achimota Mall, with all but a few of the 14 establishments inspected found to…",
+      "categories": [
+        "National",
+        "Achimota Mall",
+        "GRA",
+        "VAT"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire destroys self-contained apartment at Madina; three bedrooms saved",
+      "link": "https://www.myjoyonline.com/fire-destroys-self-contained-apartment-at-madina-three-bedrooms-saved/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:44:59.000Z",
+      "summary": "A domestic fire has destroyed a self-contained bedroom apartment and its contents near the Jehovah’s Witnesses Kingdom Hall at Madina in the La Nkwantanang Municipality of the Greater Accra…",
+      "categories": [
+        "National",
+        "Fire",
+        "Madina"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
       "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
@@ -76,59 +131,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Regional",
         "Mafi Hogbetsotso Festival"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US$1.5m medical supplies to benefit patients at 80 health facilities",
-      "link": "https://www.myjoyonline.com/us1-5m-medical-supplies-to-benefit-patients-at-80-health-facilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:35:16.000Z",
-      "summary": "Breast Care International and US-based Direct Relief have provided medical consumables valued at US$1.5 million to 80 health facilities across Ghana, with beneficiary institutions expected…",
-      "categories": [
-        "Health",
-        "News",
-        "BCI",
-        "Direct Relief"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "link": "https://www.myjoyonline.com/three-kyiv-bridges-hit-during-major-russian-missile-attack/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:34:50.000Z",
-      "summary": "Russia has targeted bridges in Kyiv and killed eight during one of the largest air attacks of the war so far, days after Ukraine inflicted heavy damage on the strategically important…",
-      "categories": [
-        "International",
-        "Kyiv",
-        "Russian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rising demand, pipeline obstructions worsen water supply challenges – GWL",
-      "link": "https://www.myjoyonline.com/rising-demand-pipeline-obstructions-worsen-water-supply-challenges-gwl/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:33:27.000Z",
-      "summary": "Ghana Water Limited (GWL) has identified rising water demand, faults at its treatment plant and buildings obstructing underground pipelines as key factors behind prolonged supply…",
-      "categories": [
-        "National",
-        "GWL",
-        "Tema"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cashew Council Ghana seeks clarity on three-month suspension of raw cashew exports",
-      "link": "https://www.myjoyonline.com/cashew-council-ghana-seeks-clarity-on-three-month-suspension-of-raw-cashew-exports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:32:44.000Z",
-      "summary": "The Cashew Council Ghana (CCG) says it is engaging the Presidency and relevant authorities to obtain clarity on the government’s announced three-month suspension of raw cashew nut exports.",
-      "categories": [
-        "National",
-        "Cashew Council Ghana",
-        "raw cashew exports"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T12:47:02.053Z",
+  "updated": "2026-11-20T12:57:28.140Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 403)"
+    "News Ghana: failed (not an RSS/Atom feed)"
   ],
   "items": [
     {
@@ -36,11 +36,11 @@ window.GDC_NEWS = {
       "summary": "The Ghana Revenue Authority says improved compliance, technology adoption, and efforts to close revenue leakages will drive domestic revenue mobilisation under the existing tax framework."
     },
     {
-      "title": "Ghana’s workers’ productivity nearly triples in 34 Years, but wages lag behind – GSS report",
+      "title": "Ghanaian workers’ productivity triples in 34, but salaries not commensurate with increased output – GSS report",
       "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T12:22:13.000Z",
-      "summary": "Ghana’s labour productivity has nearly tripled over the past 34 years, but workers are yet to fully benefit from the gains, with average earnings continuing to lag behind the value they…"
+      "summary": "Ghana has recorded a substantial improvement in labour productivity over the past three and a half decades, although workers are yet to see a corresponding increase in their earnings. Data…"
     },
     {
       "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
