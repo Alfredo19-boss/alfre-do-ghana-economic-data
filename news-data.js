@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T10:17:16.723Z",
+  "updated": "2026-11-20T10:27:33.953Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "MIIF Mobilises GH¢9bn in Mineral Royalties, Exceeding 2026 Target by GH¢2.1bn",
+      "link": "https://thehighstreetjournal.com/miif-mobilises-gh%c2%a29bn-in-mineral-royalties-exceeding-2026-target-by-gh%c2%a22-1bn/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T10:24:25.000Z",
+      "summary": "MIIF has mobilised GH¢9 billion in mineral royalties, surpassing its 2026 target by GH¢2.1 billion, as Ghana seeks to convert growing mining revenues into domestic industrial investment."
+    },
     {
       "title": "MTN Group reaffirms long-term investment commitment to Ghana",
       "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T20:57:08.000Z",
       "summary": "According to Fitch Solutions, the shift of forex intermediation from the Bank of Ghana to the Ghana Gold Board (GoldBod), combined with lower gold prices, will limit dollar supply to the…"
-    },
-    {
-      "title": "Bills Micro Credit launches Bills Direct to help Ghanaians access goods on credit",
-      "link": "https://www.myjoyonline.com/bills-micro-credit-launches-bills-direct-to-help-ghanaians-access-goods-on-credit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T20:50:00.000Z",
-      "summary": "Bills Micro Credit Limited has launched a new consumer financing product, Bills Direct, to improve access to essential goods and services through flexible payment arrangements. The…"
     }
   ]
 };

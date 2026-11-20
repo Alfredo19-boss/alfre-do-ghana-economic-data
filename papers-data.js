@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:17:35.616Z",
+  "updated": "2026-11-20T10:27:41.017Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-uk-ghana-chamber-raises-ghc923-165-to-support-princess-marie-childrens-hospital.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:18:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Parliament intensifies efforts to pass Anti-Witchcraft Bill 2026",
+      "link": "https://www.myjoyonline.com/parliament-intensifies-efforts-to-pass-anti-witchcraft-bill-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:18:19.000Z",
+      "summary": "The Constitutional and Legal Affairs Committee of Parliament convened on Thursday, November 19, to discuss the bill titled The Criminal Offences (Amendment) Act, 2026, commonly known as the…",
+      "categories": [
+        "National",
+        "Anti-Witchcraft Bill 2026",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Public health sector mourns pioneer Prof. Binka",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-public-health-sector-mourns-pioneer-prof-binka.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:15:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Use Artificial Intelligence wisely in academic activities - Prof. Sarfo advises students",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-use-artificial-intelligence-wisely-in-academic-activities-prof-sarfo-advises-students.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:12:11.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt urged to improve conditions of service for teachers",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-govt-urged-to-improve-conditions-of-service-for-teachers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:08:13.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Nandom regent goes home",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nandom-regent-goes-home.html",
@@ -78,28 +135,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "DVLA inaugurates new office at Kyebi",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dvla-inaugurates-new-office-at-kyebi.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:47:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tano South Assembly steps up revenue mobilisation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tano-south-assembly-steps-up-revenue-mobilisation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:41:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
       "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
       "source": "MyJoyOnline",
@@ -115,17 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NHIA welcomes GHS, CHAG directives to facilities against illegal charges",
-      "link": "https://www.graphic.com.gh/news/health/ghana-news-nhia-welcomes-ghs-chag-directives-to-facilities-against-illegal-charges.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:36:07.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "GPNet celebrates member Nii Adjei Mensahfio on winning the GJA Best Online Documentary Award",
       "link": "https://www.myjoyonline.com/gpnet-celebrates-member-nii-adjei-mensahfio-on-winning-the-gja-best-online-documentary-award/",
       "source": "MyJoyOnline",
@@ -137,17 +161,6 @@ window.GDC_PAPERS = {
         "Mole National Park"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "La Nkwantanang-Madina Assembly engages chiefs, Imams on HIV prevention",
-      "link": "https://www.graphic.com.gh/news/health/ghana-news-la-nkwantanang-madina-assembly-engages-chiefs-imams-on-hiv-prevention.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T09:32:06.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "MTN Group reaffirms long-term investment commitment to Ghana",
@@ -217,19 +230,6 @@ window.GDC_PAPERS = {
         "HP Business 3",
         "GRA",
         "VAT"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Today’s front pages: Friday, November 20, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-20-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T08:25:52.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
     },
