@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T13:47:31.409Z",
+  "updated": "2026-11-20T13:57:34.790Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mining firms urged to create inclusive workplaces to boost women’s participation",
+      "link": "https://www.myjoyonline.com/mining-firms-urged-to-create-inclusive-workplaces-to-boost-womens-participation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:44:53.000Z",
+      "summary": "The Gender Ministry has urged mining and transport companies to adopt inclusive workplace policies and provide career advancement opportunities, to increase women's participation in Ghana's…",
+      "categories": [
+        "National",
+        "Children and Social Protection",
+        "Director for Gender Equity at the Ministry of Gender"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Haruna Iddrisu and NDC’s leadership future: Experience, political maturity and the national question",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-and-ndcs-leadership-future-experience-political-maturity-and-the-national-question/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:44:17.000Z",
+      "summary": "Political leadership is rarely the product of a single achievement, appointment or moment of public recognition. More often, it emerges through years of institutional engagement, exposure…",
+      "categories": [
+        "Opinion",
+        "Haruna Iddrisu",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
       "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk/",
@@ -45,6 +71,21 @@ window.GDC_PAPERS = {
         "Rent Control",
         "UGEL",
         "UGSRC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wesley Girls’ parents demand road safety action after death of top student Philipa Acquah",
+      "link": "https://www.myjoyonline.com/wesley-girls-parents-demand-road-safety-action-after-death-of-top-student-philipa-acquah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:34:24.000Z",
+      "summary": "Parents of Wesley Girls’ High School’s 2026 year group have called for urgent and sustained action against road indiscipline following the death of Philipa Acquah, a high-achieving student…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Parents",
+        "Philipa Acquah",
+        "Wesley Girls"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -88,49 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "Rent Commissioner",
         "UGSRC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Association of Banks and GhIPSS rally public behind GhanaPay as nation accelerates toward a cashless economy",
-      "link": "https://www.myjoyonline.com/ghana-association-of-banks-and-ghipss-rally-public-behind-ghanapay-as-nation-accelerates-toward-a-cashless-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:00:55.000Z",
-      "summary": "The Ghana Association of Banks (GAB), in partnership with the Ghana Interbank Payment and Settlement Systems Limited (GhIPSS), has intensified its nationwide awareness drive for GhanaPay…",
-      "categories": [
-        "National",
-        "Banks",
-        "GhanaPay"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama targets 50,000 National Apprenticeship Programme beneficiaries in 2027 as over 13,000 graduates",
-      "link": "https://www.myjoyonline.com/mahama-targets-50000-national-apprenticeship-programme-beneficiaries-in-2027-as-over-13000-graduates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:56:48.000Z",
-      "summary": "President John Dramani Mahama has announced plans to expand the National Apprenticeship Programme to cover at least 50,000 young people in 2027, following the graduation of more than 13,000…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Mahama",
-        "National Apprenticeship Programme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Crafting survival: Dzorwulu’s cane weavers seek government support to save traditional industry",
-      "link": "https://www.myjoyonline.com/crafting-survival-dzorwulus-cane-weavers-seek-government-support-to-save-traditional-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:52:31.000Z",
-      "summary": "Along the busy roadside of Dzorwulu on the George Walker Bush Highway in Accra, colourful displays of hand-woven cane chairs, tables, baskets, and hampers catch the eye of passing motorists…",
-      "categories": [
-        "Art & Design",
-        "Arts and Culture",
-        "HP News 6",
-        "National",
-        "cane weavers",
-        "Dzorwulu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
