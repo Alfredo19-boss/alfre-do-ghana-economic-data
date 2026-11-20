@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:48:14.003Z",
+  "updated": "2026-11-20T04:53:13.516Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Moving from public toilet mentality to a culture of household toilet ownership",
+      "link": "https://ghanaiantimes.com.gh/moving-from-public-toilet-mentality-to-a-culture-of-household-toilet-ownership/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:50:29.000Z",
+      "summary": "The real measure of a decent home is not simply the roof over its occupants’ heads, but whether the household can meet its basic needs safely, privately and with dignity. Ghana’s sanitation…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Choosing your destination",
       "link": "https://ghanaiantimes.com.gh/choosing-your-destination-2/",
@@ -296,18 +307,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP should remain in opposition to learn how to manage economy- Ricketts-Hagan",
-      "link": "https://ghanaiantimes.com.gh/npp-should-remain-in-opposition-to-learn-how-to-manage-economy-ricketts-hagan/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:53:24.000Z",
-      "summary": "The Member of Parliament for Cape Coast South and Deputy Majority Leader, George Kweku Ricketts-Hagan, has criticised the New Patriotic Party (NPP), questioning its ability to manage…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
