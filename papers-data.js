@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:37:35.093Z",
+  "updated": "2026-11-20T12:47:32.179Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,105 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
+      "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:41:21.000Z",
+      "summary": "A revised draft agreement at COP31 has removed references to fossil fuels, including an earlier proposal for countries to accelerate the transition away from coal, oil and gas, drawing…",
+      "categories": [
+        "Africa",
+        "Energy",
+        "Health",
+        "International",
+        "News",
+        "Politics",
+        "COP31",
+        "Turkey",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dr Ernest Ofori Sarpong inducted as UniMAC’s first Chancellor",
+      "link": "https://www.myjoyonline.com/dr-ernest-ofori-sarpong-inducted-as-unimacs-first-chancellor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:40:06.000Z",
+      "summary": "The University of Media, Arts and Communication (UniMAC) has inducted Dr Ernest Ofori Sarpong, CA, as its first Chancellor at a ceremony held at the university's South Legon Campus in Accra…",
+      "categories": [
+        "Education",
+        "National",
+        "Chancellor",
+        "Dr. Ernest Ofori Sarpong",
+        "UNIMAC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agbawe Clan raises alarm over alleged seizure of their land by government operatives",
+      "link": "https://www.myjoyonline.com/agbawe-clan-raises-alarm-over-alleged-seizure-of-their-land-by-government-operatives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:36:36.000Z",
+      "summary": "The Agbawe Clan of Oyarifa-Ayimensah in the Greater Accra Region has raised the alarm over the alleged seizure of its parcel of land at Oyarifa by government operatives, who believed the…",
+      "categories": [
+        "News",
+        "Agbawe Clan",
+        "Ghana Highways Authority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mafi Hogbetsotso festival proceeds to support healthcare campaign",
+      "link": "https://www.myjoyonline.com/mafi-hogbetsotso-festival-proceeds-to-support-healthcare-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:35:40.000Z",
+      "summary": "The 2026 edition of the Mafi Hogbetsotso Festival has been launched with the objective of raising funds to enhance healthcare delivery in the area. This initiative targets retooling the…",
+      "categories": [
+        "Regional",
+        "Mafi Hogbetsotso Festival"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US$1.5m medical supplies to benefit patients at 80 health facilities",
+      "link": "https://www.myjoyonline.com/us1-5m-medical-supplies-to-benefit-patients-at-80-health-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:35:16.000Z",
+      "summary": "Breast Care International and US-based Direct Relief have provided medical consumables valued at US$1.5 million to 80 health facilities across Ghana, with beneficiary institutions expected…",
+      "categories": [
+        "Health",
+        "News",
+        "BCI",
+        "Direct Relief"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "link": "https://www.myjoyonline.com/three-kyiv-bridges-hit-during-major-russian-missile-attack/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:34:50.000Z",
+      "summary": "Russia has targeted bridges in Kyiv and killed eight during one of the largest air attacks of the war so far, days after Ukraine inflicted heavy damage on the strategically important…",
+      "categories": [
+        "International",
+        "Kyiv",
+        "Russian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rising demand, pipeline obstructions worsen water supply challenges – GWL",
+      "link": "https://www.myjoyonline.com/rising-demand-pipeline-obstructions-worsen-water-supply-challenges-gwl/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:33:27.000Z",
+      "summary": "Ghana Water Limited (GWL) has identified rising water demand, faults at its treatment plant and buildings obstructing underground pipelines as key factors behind prolonged supply…",
+      "categories": [
+        "National",
+        "GWL",
+        "Tema"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Cashew Council Ghana seeks clarity on three-month suspension of raw cashew exports",
       "link": "https://www.myjoyonline.com/cashew-council-ghana-seeks-clarity-on-three-month-suspension-of-raw-cashew-exports/",
       "source": "MyJoyOnline",
@@ -30,103 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "Cashew Council Ghana",
         "raw cashew exports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "link": "https://www.myjoyonline.com/us-army-warns-detonation-of-unstable-explosives-will-create-toxic-plume/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:31:12.000Z",
-      "summary": "The US Army is set to detonate five tonnes of degraded explosive material in Middletown, Iowa, and have urged locals to vacate the area or stay indoors for their safety.",
-      "categories": [
-        "International",
-        "Explosives",
-        "Toxic",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "link": "https://www.myjoyonline.com/nigeria-moves-to-end-jail-terms-for-attempted-suicide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:30:06.000Z",
-      "summary": "Nigerian President Bola Tinubu has asked parliament to decriminalise attempted suicide, proposing medical support instead of prosecution for those who survive.",
-      "categories": [
-        "Africa",
-        "Jail",
-        "Nigeria",
-        "Suicide"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Be disciplined, creative, take pride in your work’ – Opare Addo tells National Apprenticeship graduates",
-      "link": "https://www.myjoyonline.com/be-disciplined-creative-take-pride-in-your-work-opare-addo-tells-national-apprenticeship-graduates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:29:54.000Z",
-      "summary": "Minister for Youth Development and Empowerment, George Opare Addo, has challenged graduates of the National Apprenticeship Programme to raise standards in their respective trades, build…",
-      "categories": [
-        "National",
-        "George Opare Addo",
-        "Minister for Youth Development and Empowerment",
-        "National Apprenticeship"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Woman knocked down, run over by two buses on Accra–Kasoa Highway",
-      "link": "https://www.myjoyonline.com/woman-knocked-down-run-over-by-two-buses-on-accra-kasoa-highway/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:29:50.000Z",
-      "summary": "A woman has been knocked down and subsequently run over by two buses at Bortianor on the Accra–Kasoa Highway in the early hours of Friday, November 20, while attempting to cross the road.",
-      "categories": [
-        "National",
-        "Accra–Kasoa Highway",
-        "Woman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "William Nyarko calls for campaign finance law to curb vote buying and monetisation of politics",
-      "link": "https://www.myjoyonline.com/william-nyarko-calls-for-campaign-finance-law-to-curb-vote-buying-and-monetisation-of-politics/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:29:08.000Z",
-      "summary": "The Executive Director of the Africa Centre for International Law and Accountability (ACILA), William Nyarko, has called for comprehensive campaign financing legislation to regulate…",
-      "categories": [
-        "National",
-        "campaign finance law",
-        "Monetisation of politics",
-        "William Nyarko"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Does Ghana value good craft? DDC26 sparks the debate",
-      "link": "https://www.myjoyonline.com/does-ghana-value-good-craft-ddc26-sparks-the-debate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:22:35.000Z",
-      "summary": "The harder question, and the one that ran through Profit Day at DDC26, is whether the country is willing to pay for them, and whether the people who make them will own what they make.",
-      "categories": [
-        "Events",
-        "DDC26"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s workers’ productivity nearly triples in 34 Years, but wages lag behind – GSS report",
-      "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:22:13.000Z",
-      "summary": "Ghana’s labour productivity has nearly tripled over the past 34 years, but workers are yet to fully benefit from the gains, with average earnings continuing to lag behind the value they…",
-      "categories": [
-        "Economy",
-        "HP Business 1",
-        "National",
-        "Dr Alhassan Iddrisu",
-        "Government Statistician",
-        "GSS"
       ],
       "site": "https://www.myjoyonline.com/"
     },

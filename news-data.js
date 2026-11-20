@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T12:37:01.478Z",
+  "updated": "2026-11-20T12:47:02.053Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
+      "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:41:21.000Z",
+      "summary": "A revised draft agreement at COP31 has removed references to fossil fuels, including an earlier proposal for countries to accelerate the transition away from coal, oil and gas, drawing…"
+    },
+    {
+      "title": "GRA Turns To Compliance and Technology To Boost Revenue In 2027",
+      "link": "https://thehighstreetjournal.com/gra-turns-to-compliance-and-technology-to-boost-revenue-in-2027/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T12:38:00.000Z",
+      "summary": "The Ghana Revenue Authority says improved compliance, technology adoption, and efforts to close revenue leakages will drive domestic revenue mobilisation under the existing tax framework."
+    },
     {
       "title": "Ghana’s workers’ productivity nearly triples in 34 Years, but wages lag behind – GSS report",
       "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
@@ -209,6 +223,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T22:03:34.000Z",
       "summary": "The company was also ranked in the top three on the Club 100 rankings, following MTN Ghana and Newmont, respectively."
+    },
+    {
+      "title": "OmniBSIC Bank named Marketing-Oriented Bank of the Year at CIMG Awards",
+      "link": "https://gna.org.gh/2026/11/omnibsic-bank-named-marketing-oriented-bank-of-the-year-at-cimg-awards/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-19T21:22:11.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     },
     {
       "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T02:59:00.000Z",
       "summary": "Ghanaian rice farmers struggling to sell their produce locally are turning to buyers from Nigeria and Burkina Faso, according to the General Secretary of the Food and Beverage Association…"
-    },
-    {
-      "title": "Rice target at risk without production boost, guaranteed buyers – FABAG",
-      "link": "https://www.myjoyonline.com/rice-target-at-risk-without-production-boost-guaranteed-buyers-fabag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T02:14:00.000Z",
-      "summary": "Ghana must increase rice production and guarantee farmers a market to meet its 2031 rice import reduction target, the General Secretary of the Food and Beverage Association of Ghana…"
-    },
-    {
-      "title": "FABAG proposes ‘Rice Board’ to guarantee prices for farmers",
-      "link": "https://www.myjoyonline.com/fabag-proposes-rice-board-to-guarantee-prices-for-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T00:32:00.000Z",
-      "summary": "The Food and Beverage Association of Ghana (FABAG) has proposed a ‘Rice Board’ to guarantee prices and purchases for rice farmers."
-    },
-    {
-      "title": "Buy and store local rice before cutting imports – FABAG’s Ato Aggrey urges government",
-      "link": "https://www.myjoyonline.com/buy-and-store-local-rice-before-cutting-imports-fabags-ato-aggrey-urges-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T00:11:00.000Z",
-      "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports."
     }
   ]
 };
