@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:28:04.257Z",
+  "updated": "2026-11-20T19:38:04.931Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "French Ambassador to Ghana warns of AI threats, urges Africa not to ‘wait for the West’",
+      "link": "https://www.myjoyonline.com/french-ambassador-to-ghana-warns-of-ai-threats-urges-africa-not-to-wait-for-the-west/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:25:00.000Z",
+      "summary": "French Ambassador to Ghana, Diarra Dimé-Labille, has sounded an alarm over the potential threats of Artificial Intelligence, warning that humanity could be approaching a crossroads where…",
+      "categories": [
+        "National",
+        "Africa",
+        "AI threats",
+        "Diarra Dimé-Labille",
+        "French Ambassador to Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Maxwell Kudekor appointed World International Press Club International Affairs Secretary",
       "link": "https://www.myjoyonline.com/maxwell-kudekor-appointed-world-international-press-club-international-affairs-secretary/",
@@ -126,19 +141,6 @@ window.GDC_PAPERS = {
         "Javits",
         "Mother",
         "Tribute"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Education Crossroads: Why Artificial Intelligence must become a tool for inclusive learning and national transformation",
-      "link": "https://www.myjoyonline.com/ghanas-education-crossroads-why-artificial-intelligence-must-become-a-tool-for-inclusive-learning-and-national-transformation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:45:58.000Z",
-      "summary": "As Ghana prepares to mark National Education Week 2026 on November 23 and 24, attention is increasingly turning to the role artificial intelligence (AI) can play in shaping the future of…",
-      "categories": [
-        "Opinion",
-        "Artificial Intelligence",
-        "Ghana's Education"
       ],
       "site": "https://www.myjoyonline.com/"
     },
