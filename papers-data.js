@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:08:13.560Z",
+  "updated": "2026-11-20T04:13:14.116Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -45,6 +45,19 @@ window.GDC_PAPERS = {
         "Fees",
         "Hostel",
         "UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump says no rush on Iran decision, looks to next year",
+      "link": "https://www.myjoyonline.com/trump-says-no-rush-on-iran-decision-looks-to-next-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:35:00.000Z",
+      "summary": "US President Donald Trump on Thursday appeared to push a decision ​on renewed major strikes against Iran into next year, extending a timeline that he had previously suggested could come to…",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -112,18 +125,6 @@ window.GDC_PAPERS = {
         "International",
         "Donald Trump",
         "Nvidia stocks"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judge orders US agriculture chief to stop sending religious emails from official account",
-      "link": "https://www.myjoyonline.com/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:50:00.000Z",
-      "summary": "A US judge ordered, Agriculture Secretary Brooke ​Rollins to stop sending religious emails to employees from her official account,",
-      "categories": [
-        "International",
-        "Religious emails"
       ],
       "site": "https://www.myjoyonline.com/"
     },
