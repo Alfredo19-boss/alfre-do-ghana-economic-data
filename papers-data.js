@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:57:33.573Z",
+  "updated": "2026-11-20T12:07:34.054Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Boundary Commission rehabilitates school at Elubo",
+      "link": "https://www.myjoyonline.com/ghana-boundary-commission-rehabilitates-school-at-elubo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:00:40.000Z",
+      "summary": "The Ghana Boundary Commission has commissioned and handed over a six-unit classroom block and accompanying facilities to the people of Cocoa Town, a border community in the Elubo general…",
+      "categories": [
+        "Education",
+        "Elubo",
+        "Ghana Boundary Commission"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
       "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
@@ -189,22 +202,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghanaian arrested in Kuwait over alleged sale of abortion pills",
-      "link": "https://www.myjoyonline.com/ghanaian-arrested-in-kuwait-over-alleged-sale-of-abortion-pills/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:48:21.000Z",
-      "summary": "A Ghanaian national has been arrested in Kuwait over allegations of selling abortion pills in Mahboula, with security operatives reportedly recovering five strips of the medication during…",
-      "categories": [
-        "Crime",
-        "National",
-        "Top Story",
-        "Abortion",
-        "Ghanaian",
-        "Kuwait"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ga Mantse urges newly qualified Ga-Dangme lawyers to defend heritage, reshape narrative",

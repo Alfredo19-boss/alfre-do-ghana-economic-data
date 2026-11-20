@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T11:57:31.560Z",
+  "updated": "2026-11-20T12:07:31.224Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "PURC Targets Stable Power, Water Supply In 2027 As Utility Investments Rise",
+      "link": "https://thehighstreetjournal.com/purc-targets-stable-power-water-supply-in-2027-as-utility-investments-rise/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T12:02:00.000Z",
+      "summary": "PURC is targeting stable electricity and water supply in 2027 as investments reduce ECG and GWCL operational losses, although revenue shortfalls and distribution inefficiencies remain…"
+    },
     {
       "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
       "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T22:11:00.000Z",
       "summary": "Nguvu Mining Limited has rejected claims that an Australian-based company, Adamus Resources Pty Ltd, owns shares in Adamus Resources Limited in Ghana, insisting that it holds the…"
-    },
-    {
-      "title": "Ghana’s public debt balloons to GH¢759.3 billion in November 2026",
-      "link": "https://www.myjoyonline.com/ghanas-public-debt-balloons-to-gh%c2%a2759-3-billion-in-november-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T21:34:05.000Z",
-      "summary": "Compared to July 2026, the last time the Bank of Ghana published its Summary of Economic and Financial Data, this is about a GH¢23.5 billion increase."
     }
   ]
 };
