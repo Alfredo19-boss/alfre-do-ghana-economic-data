@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:18:14.109Z",
+  "updated": "2026-11-20T04:23:13.515Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -31,6 +31,18 @@ window.GDC_PAPERS = {
         "News",
         "Beyou",
         "nurses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Telecel Foundation’s Homecoming: Changing lives across Ghana",
+      "link": "https://www.myjoyonline.com/telecel-foundations-homecoming-changing-lives-across-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:53:00.000Z",
+      "summary": "Through its 2026 Homecoming initiative, the Telecel Ghana Foundation settled the child’s outstanding medical bills, finally bringing the month-long hospital stay to an end.",
+      "categories": [
+        "Health",
+        "Telecel Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -112,19 +124,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Attempted suicide",
         "Bola Tinubu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows",
-      "link": "https://www.myjoyonline.com/trump-bought-up-to-265000-of-nvidia-stock-in-september-disclosure-shows/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:01:00.000Z",
-      "summary": "US President Donald Trump bought up to $265,000 in Nvidia stock and sold up to $15,000 worth of the stock in September, weeks before reports surfaced about CEO Jensen Huang's ties to an…",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "Nvidia stocks"
       ],
       "site": "https://www.myjoyonline.com/"
     },
