@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:48:02.690Z",
+  "updated": "2026-11-20T19:58:02.458Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Court injunction stops CLOGSAG congress scheduled for November 23-25",
+      "link": "https://www.graphic.com.gh/news/general-news/court-injunction-stops-clogsag-congress-scheduled-for-november-23-25.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T19:42:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Opanyin Daniel Kwame Takyi",
       "link": "https://www.myjoyonline.com/opanyin-daniel-kwame-takyi-2/",
@@ -200,17 +211,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T16:14:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ablakwa elected Chair of Nordic-African Foreign Ministers' Meeting for 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/ablakwa-elected-chair-of-nordic-african-foreign-ministers-meeting-for-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T16:04:25.000Z",
       "summary": "",
       "categories": [
         "General News"
