@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:38:13.824Z",
+  "updated": "2026-11-20T06:43:15.875Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaians share simple acts of kindness they plan to spread this Christmas",
+      "link": "https://www.myjoyonline.com/ghanaians-share-simple-acts-of-kindness-they-plan-to-spread-this-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:41:32.000Z",
+      "summary": "As the Christmas season approaches, some Ghanaians are looking beyond the usual festivities, identifying simple ways to make the season more meaningful for others. In a Joy FM vox pop…",
+      "categories": [
+        "Arts and Culture",
+        "Events",
+        "Christmas",
+        "Joy FM",
+        "Kindness"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "One in three countries does not measure its air pollution, global report finds",
+      "link": "https://www.myjoyonline.com/one-in-three-countries-does-not-measure-its-air-pollution-global-report-finds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:38:17.000Z",
+      "summary": "One in every three countries in the world has no government system for measuring air pollution, leaving nearly one billion people without official information about the air they breathe, a…",
+      "categories": [
+        "Africa",
+        "Data",
+        "Health",
+        "Research",
+        "Air pollution",
+        "Air quality",
+        "Global Report",
+        "OpenAQ"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "More than half of African countries do not measure their air pollution, report shows",
       "link": "https://www.myjoyonline.com/more-than-half-of-african-countries-do-not-measure-their-air-pollution-report-shows/",
@@ -160,36 +193,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDPC, UNICEF deepen partnership on evidence-based development planning",
-      "link": "https://www.myjoyonline.com/ndpc-unicef-deepen-partnership-on-evidence-based-development-planning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:51:00.000Z",
-      "summary": "The National Development Planning Commission (NDPC) and the United Nations Children’s Fund (UNICEF) are seeking to strengthen their cooperation in using research and development data to…",
-      "categories": [
-        "National",
-        "Debt",
-        "Judgement",
-        "Okaikwei Central MP",
-        "Patrick Boamah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA faces GH¢680m Safaritech judgment debt – Patrick Boamah",
-      "link": "https://www.myjoyonline.com/gra-faces-gh%c2%a2680m-safaritech-judgment-debt-patrick-boamah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:51:00.000Z",
-      "summary": "The government could be exposed to a financial liability of more than GH¢680 million over a contract dispute involving the Ghana Revenue Authority (GRA) and private firm Safaritech, the…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "GRA",
-        "Judgement Debt"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Alcaraz overpowers Medvedev to move closer to last 4",
