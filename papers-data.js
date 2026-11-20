@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T02:18:13.645Z",
+  "updated": "2026-11-20T02:23:13.236Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "White House national cyber director Cairncross leaving his post",
+      "link": "https://www.myjoyonline.com/white-house-national-cyber-director-cairncross-leaving-his-post/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:20:00.000Z",
+      "summary": "White House national cyber director Sean Cairncross is leaving his post, a White House official ‌said Thursday, marking the latest departure from the Trump administration after Republican…",
+      "categories": [
+        "International",
+        "national cyber director",
+        "Sean Cairncross"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Businesses could face higher tax costs despite no new taxes in 2027 Budget – Deloitte warns",
+      "link": "https://www.myjoyonline.com/businesses-could-face-higher-tax-costs-despite-no-new-taxes-in-2027-budget-deloitte-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:19:08.000Z",
+      "summary": "In its analysis of the 2027 Budget Statement of the Government of Ghana, the professional services firm said that while the government did not introduce any new headline taxes or increase…",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "Customs Tariff Schedule",
+        "Deloitte",
+        "GRA",
+        "Income Tax Act",
+        "Tax Revenue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Trump’s $15 billion defamation case against New York Times may proceed, judge rules",
       "link": "https://www.myjoyonline.com/trumps-15-billion-defamation-case-against-new-york-times-may-proceed-judge-rules/",
@@ -92,30 +123,6 @@ window.GDC_PAPERS = {
         "Football",
         "Crystal Palace",
         "Thomas Frank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Leicester City split with sponsor after porn actress row",
-      "link": "https://www.myjoyonline.com/leicester-city-split-with-sponsor-after-porn-actress-row/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:21:00.000Z",
-      "summary": "Leicester City have parted ways with their main shirt sponsor after the gambling firm appointed a porn actress as an ambassador.",
-      "categories": [
-        "Football",
-        "Leicester City"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I’m very healthy’ – Kompany to return to dugout after health scare",
-      "link": "https://www.myjoyonline.com/im-very-healthy-kompany-to-return-to-dugout-after-health-scare/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:13:00.000Z",
-      "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has received as he prepares to return to the dugout on Friday.",
-      "categories": [
-        "Football",
-        "Vincent Kompany"
       ],
       "site": "https://www.myjoyonline.com/"
     },

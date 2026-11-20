@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T02:18:12.828Z",
+  "updated": "2026-11-20T02:23:12.266Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Businesses could face higher tax costs despite no new taxes in 2027 Budget – Deloitte warns",
+      "link": "https://www.myjoyonline.com/businesses-could-face-higher-tax-costs-despite-no-new-taxes-in-2027-budget-deloitte-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:19:08.000Z",
+      "summary": "In its analysis of the 2027 Budget Statement of the Government of Ghana, the professional services firm said that while the government did not introduce any new headline taxes or increase…"
+    },
     {
       "title": "Anthropic becomes one of world’s most valuable public companies in stock market debut",
       "link": "https://www.myjoyonline.com/anthropic-becomes-one-of-worlds-most-valuable-public-companies-in-stock-market-debut/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T14:24:29.000Z",
       "summary": "The Ghana Chamber of Clean Energy (GCCE) has commended the Bui Power Authority (BPA) and First Sky Limited following the completion of a 50-megawatt-peak (MWp) solar photovoltaic power…"
-    },
-    {
-      "title": "World Bank Group Mobilises Record $112 Billion as It Courts Private Investors",
-      "link": "https://thehighstreetjournal.com/world-bank-group-mobilises-record-112-bn/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T14:01:00.000Z",
-      "summary": "Ariane Di Iorio, MIGA's Economics and Sustainability Director, said the World Bank Group had already exceeded its 2030 target for its guarantee platform"
     }
   ]
 };
