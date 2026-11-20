@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T02:38:13.210Z",
+  "updated": "2026-11-20T03:07:44.291Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GACL buys 10 sniffer dogs to tighten airport security",
+      "link": "https://www.myjoyonline.com/gacl-buys-10-sniffer-dogs-to-tighten-airport-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:49:54.000Z",
+      "summary": "The Ghana Airports Company Limited (GACL) is stepping up efforts to close security loopholes at the country’s airports, with the acquisition of 10 sniffer dogs to help detect narcotics and…",
+      "categories": [
+        "National",
+        "News",
+        "Cocaine",
+        "Dogs",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "White House national cyber director Cairncross leaving his post",
       "link": "https://www.myjoyonline.com/white-house-national-cyber-director-cairncross-leaving-his-post/",
@@ -112,18 +127,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Anthropic",
         "Claude"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Brighton Anthropic founder to become billionaire",
-      "link": "https://www.myjoyonline.com/brighton-anthropic-founder-to-become-billionaire/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:39:00.000Z",
-      "summary": "A man from Brighton who helped to set up the AI company Anthropic, which made its stock market debut on Thursday, is set to become a billionaire.",
-      "categories": [
-        "Technology",
-        "Anthropic"
       ],
       "site": "https://www.myjoyonline.com/"
     },
