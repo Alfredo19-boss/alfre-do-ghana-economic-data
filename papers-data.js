@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T19:08:06.060Z",
+  "updated": "2026-11-20T19:18:04.085Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bono Regional Minister warns MMDCEs against neglecting district security responsibilities",
+      "link": "https://www.myjoyonline.com/bono-regional-minister-warns-mmdces-against-neglecting-district-security-responsibilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:08:22.000Z",
+      "summary": "The Bono Regional Minister, Joseph Addae Akwaboa, has warned Metropolitan, Municipal and District Chief Executives (MMDCEs) against neglecting their security responsibilities, urging them…",
+      "categories": [
+        "Regional",
+        "Bono Regional Minister",
+        "Joseph Addae Akwaboa",
+        "MMDCE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "JOB VACANCY: Unilever Distributor Recruitment",
+      "link": "https://www.myjoyonline.com/job-vacancy-unilever-distributor-recruitment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T19:07:55.000Z",
+      "summary": "UNILEVER DISTRIBUTOR RECRUITMENT ANNOUNCEMENT BECOME A UNILEVER PARTNER! Are you a reputable, market-connected FMCG distributor? If yes, Unilever is looking for you! Unilever, a global…",
+      "categories": [
+        "In Focus",
+        "National",
+        "News",
+        "distributor",
+        "Unilever",
+        "Unilever Distributor Recruitment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "St John’s Hospital CEO Dr Maame Yaa Afriye named Outstanding Corporate Woman at 2026 Ghana Women Awards",
       "link": "https://www.myjoyonline.com/st-johns-hospital-ceo-dr-maame-yaa-afriye-named-outstanding-corporate-woman-at-2026-ghana-women-awards/",
@@ -118,35 +148,6 @@ window.GDC_PAPERS = {
         "Funeral service",
         "Javits Frimpong",
         "New York"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Children’s Day: What replaced corporal punishment in schools? – Rev. Godson-Afful asks over decline in discipline",
-      "link": "https://www.myjoyonline.com/world-childrens-day-what-replaced-corporal-punishment-in-schools-rev-godson-afful-asks-over-decline-in-discipline/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:24:41.000Z",
-      "summary": "The Head Pastor of Rehoboth Network of Churches, Rev. Dr Henry Godson-Afful, has questioned the effectiveness of disciplinary measures in Ghanaian schools following the removal of corporal…",
-      "categories": [
-        "Education",
-        "National",
-        "Discipline",
-        "School",
-        "World Children's Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Javits funeral service: Use upcoming Thanksgiving gatherings to teach children not to hate – Al Sharpton",
-      "link": "https://www.myjoyonline.com/javits-funeral-service-use-upcoming-thanksgiving-gatherings-to-teach-children-not-to-hate-al-sharpton/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:17:19.000Z",
-      "summary": "American civil rights activist Rev. Al Sharpton has urged parents to use Thanksgiving family gatherings to teach their children tolerance, acceptance and respect for people from different…",
-      "categories": [
-        "National",
-        "Al Sharpton",
-        "Javits",
-        "thanksgiving"
       ],
       "site": "https://www.myjoyonline.com/"
     },
