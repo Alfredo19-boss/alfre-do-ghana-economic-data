@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:53:03.939Z",
+  "updated": "2026-11-20T17:58:05.564Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "link": "https://www.myjoyonline.com/indian-man-sentenced-to-19-plus-years-in-plot-to-assassinate-us-based-sikh-separatist-leader/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:54:17.000Z",
+      "summary": "A federal judge sentenced an Indian man to 235 months, more than 19 years,in an attempted plot to kill a leading Sikh political figure in the US.",
+      "categories": [
+        "International",
+        "Indian",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "World Children’s Day: Parents must involve children in decisions about their future – Akosua Antwiwah",
       "link": "https://www.myjoyonline.com/world-childrens-day-parents-must-involve-children-in-decisions-about-their-future-akosua-antwiwah/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T17:48:53.000Z",
       "summary": "A participant in JoyNews’ World Children’s Day celebrations, Akosua Antwiwah, has urged parents to involve their children in decisions that affect their lives, arguing that they should have…",
       "categories": [
+        "HP News 10",
         "National",
         "Akosua Antwiwah",
         "Parents",
@@ -115,21 +129,6 @@ window.GDC_PAPERS = {
         "Decongestion",
         "Inmates",
         "Kumasi Central Prison"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ADB Ghana installs advanced DNA equipment at Noguchi Institute",
-      "link": "https://www.myjoyonline.com/adb-ghana-installs-advanced-dna-equipment-at-noguchi-institute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:26:00.000Z",
-      "summary": "ADB Ghana Medical Systems Group, through Thermo Fisher Scientific UK, has installed advanced DNA equipment at the Noguchi Memorial Institute for Medical Research to strengthen Ghana’s…",
-      "categories": [
-        "Health",
-        "National",
-        "ADB Ghana medicals",
-        "DNA equipment",
-        "Noguchi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
