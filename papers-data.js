@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:28:02.365Z",
+  "updated": "2026-11-20T20:38:02.874Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kintampo North’s Seidu Muazu elected Bono East NALAG Regional representative",
+      "link": "https://www.myjoyonline.com/kintampo-norths-seidu-muazu-elected-bono-east-nalag-regional-representative/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:29:09.000Z",
+      "summary": "The Presiding Member of the Kintampo North Municipal Assembly, Seidu Muazu Harrison, has been elected as the new Regional Representative of the National Association of Local Authorities of…",
+      "categories": [
+        "Regional",
+        "Bono East NALAG Regional rep",
+        "Kintampo North Municipal Assembly",
+        "Seidu Muazu Harrison"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Your uniform is for care, not content’ – Nursing Council warns newly inducted professionals",
       "link": "https://www.myjoyonline.com/your-uniform-is-for-care-not-content-nursing-council-warns-newly-inducted-professionals/",
@@ -125,20 +139,6 @@ window.GDC_PAPERS = {
         "Illegal mining",
         "Oti Region",
         "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama defends constitutional restriction on chiefs’ participation in partisan politics",
-      "link": "https://www.myjoyonline.com/mahama-defends-constitutional-restriction-on-chiefs-participation-in-partisan-politics/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:17:44.000Z",
-      "summary": "President John Dramani Mahama has defended the constitutional restriction barring chiefs from participating in active partisan politics, saying the provision is necessary to protect the…",
-      "categories": [
-        "National",
-        "Chiefs",
-        "Mahama",
-        "Politics"
       ],
       "site": "https://www.myjoyonline.com/"
     },
