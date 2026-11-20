@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:27:33.390Z",
+  "updated": "2026-11-20T11:37:33.906Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget will be judged by outcomes - ISSER",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-will-be-judged-by-outcomes-isser.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T11:21:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "African parliaments must open communication channels to citizens - Bagbin",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-african-parliaments-must-open-communication-channels-to-citizens-bagbin.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T11:16:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "South Korea catches 111 students with new measures against exam cheating",
       "link": "https://www.myjoyonline.com/south-korea-catches-111-students-with-new-measures-against-exam-cheating/",
@@ -187,28 +209,6 @@ window.GDC_PAPERS = {
         "The Worshipper’s Heart"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Latex Foam, others honoured at National Customers’ Choice Awards",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-latex-foam-others-honoured-at-national-customers-choice-awards.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:22:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UK-Ghana Chamber raises GH¢923,165 to support Princess Marie Children’s Hospital",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-uk-ghana-chamber-raises-ghc923-165-to-support-princess-marie-childrens-hospital.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:18:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Parliament intensifies efforts to pass Anti-Witchcraft Bill 2026",
