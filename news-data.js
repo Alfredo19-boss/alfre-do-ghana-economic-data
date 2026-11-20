@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T03:13:12.614Z",
+  "updated": "2026-11-20T03:33:13.701Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",

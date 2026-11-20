@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T03:13:13.545Z",
+  "updated": "2026-11-20T03:33:14.611Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Drugs war: GACL boss flags threat from compromised officers",
+      "link": "https://www.myjoyonline.com/drugs-war-gacl-boss-flags-threat-from-compromised-officers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:33:00.000Z",
+      "summary": "The fight against drug trafficking at Ghana’s airports could be undermined by the very personnel assigned to detect it, the Managing Director of the Ghana Airports Company Limited (GACL)…",
+      "categories": [
+        "National",
+        "News",
+        "Cocaine",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "White House national cyber director Cairncross leaving his post",
       "link": "https://www.myjoyonline.com/white-house-national-cyber-director-cairncross-leaving-his-post/",
@@ -114,19 +128,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Jewellery heist"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anthropic becomes one of world’s most valuable public companies in stock market debut",
-      "link": "https://www.myjoyonline.com/anthropic-becomes-one-of-worlds-most-valuable-public-companies-in-stock-market-debut/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:50:00.000Z",
-      "summary": "Anthropic has become one of the world's most valuable public companies after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).",
-      "categories": [
-        "Technology",
-        "Anthropic",
-        "Claude"
       ],
       "site": "https://www.myjoyonline.com/"
     },
