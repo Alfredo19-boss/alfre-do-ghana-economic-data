@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T12:17:03.223Z",
+  "updated": "2026-11-20T12:27:01.984Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s workers’ productivity nearly triples in 34 Years, but wages lag behind – GSS report",
+      "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:22:13.000Z",
+      "summary": "Ghana’s labour productivity has nearly tripled over the past 34 years, but workers are yet to fully benefit from the gains, with average earnings continuing to lag behind the value they…"
+    },
     {
       "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
       "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T00:11:00.000Z",
       "summary": "The General Secretary of the Food and Beverage Association of Ghana (FBA), Samuel Ato Aggrey, has urged the government to buy and store locally produced rice before reducing imports."
-    },
-    {
-      "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
-      "link": "https://www.myjoyonline.com/anglogold-ashanti-to-invest-about-2-5bn-in-colombia-copper-mine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T22:36:36.000Z",
-      "summary": "South African miner AngloGold Ashanti plans to invest about $2.5 billion in a copper mine in Colombia, pending environmental permits, its corporate affairs manager, Stewart Bailey, said…"
     }
   ]
 };

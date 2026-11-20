@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:17:32.389Z",
+  "updated": "2026-11-20T12:27:32.160Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Does Ghana value good craft? DDC26 sparks the debate",
+      "link": "https://www.myjoyonline.com/does-ghana-value-good-craft-ddc26-sparks-the-debate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:22:35.000Z",
+      "summary": "The harder question, and the one that ran through Profit Day at DDC26, is whether the country is willing to pay for them, and whether the people who make them will own what they make.",
+      "categories": [
+        "Events",
+        "DDC26"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s workers’ productivity nearly triples in 34 Years, but wages lag behind – GSS report",
+      "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:22:13.000Z",
+      "summary": "Ghana’s labour productivity has nearly tripled over the past 34 years, but workers are yet to fully benefit from the gains, with average earnings continuing to lag behind the value they…",
+      "categories": [
+        "Economy",
+        "HP Business 1",
+        "National",
+        "Dr Alhassan Iddrisu",
+        "Government Statistician",
+        "GSS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Northshore Apparel Ghana CEO honoured for driving inclusive industrialisation",
+      "link": "https://www.myjoyonline.com/northshore-apparel-ghana-ceo-honoured-for-driving-inclusive-industrialisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:17:03.000Z",
+      "summary": "The Founder and CEO of Northshore Apparel Ghana Ltd, Alhaji Nurideen Mohammed, has received the Inclusive Business and Disability Impact Award.",
+      "categories": [
+        "Fashion",
+        "National",
+        "Ghana Club 100 Awards",
+        "Northshore Apparel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
       "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
@@ -150,36 +192,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "National Security arrests wanted pastor in counterfeit currency investigation",
-      "link": "https://www.myjoyonline.com/national-security-arrests-wanted-pastor-in-counterfeit-currency-investigation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:00:00.000Z",
-      "summary": "A pastor who had been wanted by Ghana's National Security Secretariat since September over an alleged counterfeit currency operation has been arrested at Zeenu, near Ashaiman, following…",
-      "categories": [
-        "Crime",
-        "HP News 1",
-        "Currency",
-        "Natioanl security",
-        "Pastor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Quality higher education comes at a cost: Who should pay?",
-      "link": "https://www.myjoyonline.com/quality-higher-education-comes-at-a-cost-who-should-pay/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:59:22.000Z",
-      "summary": "The ongoing controversy over student hostel fees and the Minister of Education's directive to the Ghana Tertiary Education Commission (GTEC) and the Rent Control Commission to explore their…",
-      "categories": [
-        "Education",
-        "HP Opinion 3",
-        "Opinion",
-        "higher eductaion",
-        "University"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President commissions DNA Lab, vaccine research facility at Noguchi",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-commissions-dna-lab-vaccine-research-facility-at-noguchi.html",
       "source": "Daily Graphic",
@@ -189,19 +201,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "link": "https://www.myjoyonline.com/tens-of-thousands-of-uk-fridges-secured-from-hackers-in-secret-nationwide-operation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:55:43.000Z",
-      "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and…",
-      "categories": [
-        "International",
-        "Fridges",
-        "UK"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GIMPA, PURC open centre to champion utilities regulatory excellence",
