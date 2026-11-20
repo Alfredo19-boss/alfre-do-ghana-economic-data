@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:37:33.864Z",
+  "updated": "2026-11-20T10:47:33.851Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ga Mantse urges newly qualified Ga-Dangme lawyers to defend heritage, reshape narrative",
+      "link": "https://www.graphic.com.gh/news/general-news/ga-mantse-urges-newly-qualified-ga-dangme-lawyers-to-defend-heritage-reshape-narrative.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:35:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ghanaian arrested in Kuwait over alleged sale of abortion pills",
       "link": "https://www.graphic.com.gh/news/general-news/ghanaian-arrested-in-kuwait-over-alleged-sale-of-abortion-pills.html",
@@ -138,17 +149,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IPMC graduates 700 students in technology disciplines",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ipmc-graduates-700-students-in-technology-disciplines.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:00:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Snub against England at 2026 World Cup hurt me – Thomas-Asante",
       "link": "https://www.myjoyonline.com/snub-against-england-at-2026-world-cup-hurt-me-thomas-asante/",
       "source": "MyJoyOnline",
@@ -196,6 +196,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ghanaian passport services disrupted in the UK as Ghana High Commission battles server challenges",
+      "link": "https://www.myjoyonline.com/ghanaian-passport-services-disrupted-in-the-uk-as-ghana-high-commission-battles-server-challenges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:18:00.000Z",
+      "summary": "Ghanaians seeking to obtain their passports through the Ghana High Commission in London may have to wait longer than expected, following a technical problem affecting the Commission's…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Travel and Tourism",
+        "Ghana High Commission in UK",
+        "Ghanaian passport services"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Betway launches GHS1m Level Up promotion with 2026 Jetour Dashing as grand prize",
       "link": "https://www.myjoyonline.com/betway-launches-ghs1m-level-up-promotion-with-2026-jetour-dashing-as-grand-prize/",
       "source": "MyJoyOnline",
@@ -206,29 +221,6 @@ window.GDC_PAPERS = {
         "Sports",
         "Betway Ghana",
         "Level Up"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SWAG announces nominees for 2026 awards night in Accra as Semenyo and Yirenkyi headline",
-      "link": "https://www.myjoyonline.com/swag-announces-nominees-for-2026-awards-night-in-accra-as-semenyo-and-yirenkyi-headline/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T08:46:55.000Z",
-      "summary": "Black Stars duo Caleb Yirenkyi and Antoine Semenyo are in the running for the Footballer of the Year award in the men's category alongside Brandon Thomas-Asante.",
-      "categories": [
-        "Athletics",
-        "Boxing",
-        "Football",
-        "Golf",
-        "National",
-        "Other Sports",
-        "Sports",
-        "Tennis",
-        "Antoine Semenyo",
-        "Brandon Thomas-Asante",
-        "Caleb Yirenkyi",
-        "SWAG Awards",
-        "SWAG Awards 2026"
       ],
       "site": "https://www.myjoyonline.com/"
     },
