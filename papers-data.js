@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:43:03.889Z",
+  "updated": "2026-11-20T18:48:04.628Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "Nearly 600 women were killed in South Africa between July and September this year, according to the country's latest crime statistics.",
       "categories": [
         "Africa",
+        "HP News 1",
         "International",
         "News",
         "South Africa",
