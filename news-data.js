@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T04:28:12.801Z",
+  "updated": "2026-11-20T04:32:49.285Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: failed (HTTP 415)",
-    "News Ghana: failed (The operation was aborted due to timeout)"
+    "News Ghana: failed (HTTP 502)"
   ],
   "items": [
+    {
+      "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
+      "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:30:07.000Z",
+      "summary": "Door solutions company, Doormaster, has unveiled an extensive range of more than 500 door designs with high durability to sever homes, offices and other accommodations."
+    },
     {
       "title": "GRA conducting lifestyle audits to ensure tax compliance – Commissioner-General",
       "link": "https://www.myjoyonline.com/gra-conducting-lifestyle-audits-to-ensure-tax-compliance-commissioner-general/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T14:50:48.000Z",
       "summary": "Clean air advocates at COP31 have urged philanthropic funders to double their annual support for air quality initiatives in Africa, Latin America and parts of Asia, warning that inadequate…"
-    },
-    {
-      "title": "Ghana’s productive capacity has not been matched to finance growth, withstand external shocks – Cnergy Global",
-      "link": "https://www.myjoyonline.com/ghanas-productive-capacity-has-not-been-matched-to-finance-growth-withstand-external-shocks-cnergy-global/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:33:10.000Z",
-      "summary": "Cnergy Global Holdings has stated that though Ghana’s economic output has expanded strongly, productive capacity has not been matched by the capacity to finance growth, withstand external…"
     }
   ]
 };

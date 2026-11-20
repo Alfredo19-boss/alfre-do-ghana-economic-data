@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:28:13.750Z",
+  "updated": "2026-11-20T04:32:50.200Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Oware-Mensah’s GH¢38.4m trial adjourned to Nov 23",
+      "link": "https://ghanaiantimes.com.gh/oware-mensahs-gh%c2%a238-4m-trial-adjourned-to-nov-23/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:32:31.000Z",
+      "summary": "The trial of Mrs Gifty Oware-Mensah, a former Deputy Director of the National Service Authority (NSA), over the alleged misappropriation of GH¢38.4 million has been adjourned to November 23…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
+      "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:30:07.000Z",
+      "summary": "Door solutions company, Doormaster, has unveiled an extensive range of more than 500 door designs with high durability to sever homes, offices and other accommodations.",
+      "categories": [
+        "Business",
+        "HP News 10",
+        "News",
+        "door",
+        "Doormaster"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Court of Appeal halts Hanan trial indefinitely over defective charges",
       "link": "https://ghanaiantimes.com.gh/court-of-appeal-halts-hanan-trial-indefinitely-over-defective-charges/",
@@ -120,21 +147,6 @@ window.GDC_PAPERS = {
         "News",
         "Hostel",
         "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
-      "link": "https://www.myjoyonline.com/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:18:00.000Z",
-      "summary": "Oil prices edged higher on Friday, though set for a weekly decline, as concerns over supply disruptions grew following Houthi attacks on Saudi Arabia's capital Riyadh and ​reports of tanker…",
-      "categories": [
-        "International",
-        "Houthi attacks",
-        "Oil prices",
-        "Saudi Arabia",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,18 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T14:43:31.000Z",
       "summary": "The Ministry of Foreign Affairs has announced that the Republic of Côte d’Ivoire has introduced a mandatory online registration requirement for travellers arriving from African countries…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Calling for Asante-Akyem North representation after leaving SALL without a voice for four years, a glaring inconsistency’ – Julius Neequaye Kotey",
-      "link": "https://ghanaiantimes.com.gh/calling-for-asante-akyem-north-representation-after-leaving-sall-without-a-voice-for-four-years-a-glaring-inconsistency-julius-neequaye-kotey/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:41:21.000Z",
-      "summary": "The Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), Julius Neequaye Kotey, has criticised the New Patriotic Party (NPP) over its call for parliamentary…",
       "categories": [
         "Hot!",
         "News"
