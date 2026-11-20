@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:48:15.158Z",
+  "updated": "2026-11-20T05:53:14.310Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "FAZ3 president arrives for congress",
+      "link": "https://ghanaiantimes.com.gh/faz3-president-arrives-for-congress/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:53:06.000Z",
+      "summary": "President of FIBA Africa Zone 3 (FAZ3) and FIBA Africa Executive Committee member, Col. Samuel Ahmedu (Rtd), has arrived in the country ahead of its General Meeting and Congress, scheduled…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NDPC, UNICEF deepen partnership on evidence-based development planning",
+      "link": "https://www.myjoyonline.com/ndpc-unicef-deepen-partnership-on-evidence-based-development-planning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:51:00.000Z",
+      "summary": "The National Development Planning Commission (NDPC) and the United Nations Children’s Fund (UNICEF) are seeking to strengthen their cooperation in using research and development data to…",
+      "categories": [
+        "National",
+        "Debt",
+        "Judgement",
+        "Okaikwei Central MP",
+        "Patrick Boamah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA faces GH¢680m Safaritech judgment debt – Patrick Boamah",
+      "link": "https://www.myjoyonline.com/gra-faces-gh%c2%a2680m-safaritech-judgment-debt-patrick-boamah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:51:00.000Z",
+      "summary": "The government could be exposed to a financial liability of more than GH¢680 million over a contract dispute involving the Ghana Revenue Authority (GRA) and private firm Safaritech, the…",
+      "categories": [
+        "National",
+        "News",
+        "GRA",
+        "Judgement Debt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alcaraz overpowers Medvedev to move closer to last 4",
+      "link": "https://ghanaiantimes.com.gh/alcaraz-overpowers-medvedev-to-move-closer-to-last-4/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:49:03.000Z",
+      "summary": "World number three, Carlos Alcaraz, eased past Daniil Medvedev 6-2 6-4 on Wednesday to move to the brink of a semi-final spot at the season-ending ATP Finals. Alcaraz, ‌seeking his maiden…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Olympic champion Jepchirchir banned 3 years for doping",
       "link": "https://ghanaiantimes.com.gh/olympic-champion-jepchirchir-banned-3-years-for-doping/",
@@ -156,17 +207,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Emeritus Professor Fred Binka dies at 73",
-      "link": "https://ghanaiantimes.com.gh/emeritus-professor-fred-binka-dies-at-73/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:30:16.000Z",
-      "summary": "Ghanaian public health scientist and Emeritus Professor, Fred Newton Binka, has died at the age of 73. He died in Accra on November 15, 2026, the Binka family has announced. In a statement…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana to produce first locally manufactured vaccine by 2027 – Mahama",
       "link": "https://www.myjoyonline.com/ghana-to-produce-first-locally-manufactured-vaccine-by-2027-mahama/",
       "source": "MyJoyOnline",
@@ -175,45 +215,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Ghana",
-        "Mahama",
-        "Vaccine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Producer inflation rises to 5.2% on mining sector pressures",
-      "link": "https://ghanaiantimes.com.gh/producer-inflation-rises-to-5-2-on-mining-sector-pressures/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:27:21.000Z",
-      "summary": "The country’s year-on-year Producer Price Inflation (PPI) rose to 5.2 per cent in October 2026, from 4.9 per cent in September 2026, driven largely by increases in prices in the mining and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GSS seeks dedicated data budget line for MDAs",
-      "link": "https://www.myjoyonline.com/gss-seeks-dedicated-data-budget-line-for-mdas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:18:00.000Z",
-      "summary": "Dr Alhassan Iddrisu, the Government Statistician, has called on the Government to establish a dedicated budget line for data production across all Ministries, Departments and Agencies…",
-      "categories": [
-        "National",
-        "Data",
-        "GSS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama inaugurates Vaccine R&D Laboratories, DNA Laboratory",
-      "link": "https://www.myjoyonline.com/mahama-inaugurates-vaccine-rd-laboratories-dna-laboratory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:11:00.000Z",
-      "summary": "President John Mahama has inaugurated new Vaccine Research and Development (R&D) Laboratories and a Human Identification (DNA) Laboratory at the Noguchi Memorial Institute for Medical…",
-      "categories": [
-        "National",
-        "DNA",
         "Mahama",
         "Vaccine"
       ],
