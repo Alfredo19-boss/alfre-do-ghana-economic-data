@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T08:22:34.959Z",
+  "updated": "2026-11-20T08:32:34.857Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Today’s front pages: Friday, November 20, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-20-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T08:25:52.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s Black Wonders begin final preparations for 2026 Deaf AFCON in Ethiopia",
+      "link": "https://www.myjoyonline.com/ghanas-black-wonders-begin-final-preparations-for-2026-deaf-afcon-in-ethiopia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T08:21:36.000Z",
+      "summary": "A 24-player squad, alongside the technical team, is preparing for the continental competition, where Ghana will compete in Group D against Mali, Kenya and Zanzibar.",
+      "categories": [
+        "Football",
+        "National",
+        "Sports",
+        "Black Wonders",
+        "Deaf AFCON 2026",
+        "Ethiopia",
+        "Ghana",
+        "Haruna Mubarak",
+        "Kenya",
+        "Mali",
+        "Zanzibar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
       "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
@@ -112,35 +145,6 @@ window.GDC_PAPERS = {
         "Air pollution",
         "Air quality",
         "new monitoring"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Eastern NDC youth organiser backs Opong-Fosu for National Chairmanship",
-      "link": "https://www.myjoyonline.com/eastern-ndc-youth-organiser-backs-opong-fosu-for-national-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:22:00.000Z",
-      "summary": "The Eastern Regional Youth Organiser of the National Democratic Congress (NDC), Richard Etornam Nyarko, has declared his support for former Local Government Minister Dr Akwasi Opong-Fosu in…",
-      "categories": [
-        "Politics",
-        "Eastern Region",
-        "National Chairmanship",
-        "NDC",
-        "Youth Organiser"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "My Day, My Rights, My Future",
-      "link": "https://www.myjoyonline.com/my-day-my-rights-my-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:20:00.000Z",
-      "summary": "Have you ever woken up and wondered what a child’s day looks like? Have you paused to imagine what goes through their minds, the dreams they have, and the challenges they face? Perhaps we…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "My Future"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -257,6 +261,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "University of Ghana orders urgent repairs at Legon hostels after student complaints",
+      "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-orders-urgent-repairs-at-legon-hostels-after-student-complaints.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-19T18:56:40.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "University of Ghana reduces proposed hostel fee from GH¢8,820 to GH¢8,050",
       "link": "https://www.graphic.com.gh/news/general-news/university-of-ghana-cuts-proposed-hostel-fee-by-ghc770-after-student-consultations.html",
       "source": "Daily Graphic",
@@ -305,17 +320,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghanaian-youth-leaders-call-for-a-seat-at-the-decision-making-table.html",
       "source": "Daily Graphic",
       "published": "2026-11-19T16:21:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "IPR Ghana re-elects Esther Cobbah and executives unopposed at 32nd AGM",
-      "link": "https://www.graphic.com.gh/news/general-news/ipr-ghana-re-elects-esther-cobbah-and-executives-unopposed-at-32nd-agm.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-19T15:49:48.000Z",
       "summary": "",
       "categories": [
         "General News"
