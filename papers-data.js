@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:47:33.851Z",
+  "updated": "2026-11-20T10:57:33.722Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GIMPA, PURC open centre to champion utilities regulatory excellence",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gimpa-purc-open-centre-to-champion-utilities-regulatory-excellence.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-20T10:52:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghanaian arrested in Kuwait over alleged sale of abortion pills",
+      "link": "https://www.myjoyonline.com/ghanaian-arrested-in-kuwait-over-alleged-sale-of-abortion-pills/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:48:21.000Z",
+      "summary": "A Ghanaian national has been arrested in Kuwait over allegations of selling abortion pills in Mahboula, with security operatives reportedly recovering five strips of the medication during…",
+      "categories": [
+        "Crime",
+        "National",
+        "Top Story",
+        "Abortion",
+        "Ghanaian",
+        "Kuwait"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ga Mantse urges newly qualified Ga-Dangme lawyers to defend heritage, reshape narrative",
       "link": "https://www.graphic.com.gh/news/general-news/ga-mantse-urges-newly-qualified-ga-dangme-lawyers-to-defend-heritage-reshape-narrative.html",
@@ -125,17 +152,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Nandom regent goes home",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nandom-regent-goes-home.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T10:04:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Before we liberalise, we must learn to produce",
       "link": "https://www.myjoyonline.com/before-we-liberalise-we-must-learn-to-produce/",
       "source": "MyJoyOnline",
@@ -207,20 +223,6 @@ window.GDC_PAPERS = {
         "Travel and Tourism",
         "Ghana High Commission in UK",
         "Ghanaian passport services"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Betway launches GHS1m Level Up promotion with 2026 Jetour Dashing as grand prize",
-      "link": "https://www.myjoyonline.com/betway-launches-ghs1m-level-up-promotion-with-2026-jetour-dashing-as-grand-prize/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:14:21.000Z",
-      "summary": "Betway Ghana has launched a six-week promotion, Level Up, offering players a prize pool worth more than GHS1 million, including a brand-new 2026 Jetour Dashing as the grand prize. Running…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Betway Ghana",
-        "Level Up"
       ],
       "site": "https://www.myjoyonline.com/"
     },
