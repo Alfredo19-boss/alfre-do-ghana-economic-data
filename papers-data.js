@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:13:14.012Z",
+  "updated": "2026-11-20T05:18:13.446Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
+      "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:17:16.000Z",
+      "summary": "The high cost of Magnetic Resonance Imaging (MRI) scans, together with expensive treatment, is preventing some patients with pineal region tumours from accessing timely diagnosis and care…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GSS demands urgent passage of Statistics Bill to secure funding",
       "link": "https://ghanaiantimes.com.gh/gss-demands-urgent-passage-of-statistics-bill-to-secure-funding/",
@@ -116,15 +128,18 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Choosing your destination",
-      "link": "https://ghanaiantimes.com.gh/choosing-your-destination-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:46:38.000Z",
-      "summary": "According to Dr Robert Anthony, in life, so many opportunities needlessly pass us by because we do not know where we are going. He says that there is an ‘Intelligent Force’ in the universe…",
+      "title": "High-powered NPC delegation engages Bono House of Chiefs on conflict resolution",
+      "link": "https://www.myjoyonline.com/high-powered-npc-delegation-engages-bono-house-of-chiefs-on-conflict-resolution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:44:00.000Z",
+      "summary": "A high-powered delegation from the National Peace Council (NPC) has engaged key members of the Bono Regional House of Chiefs to explore strategies for resolving chieftaincy disputes in the…",
       "categories": [
-        "Features"
+        "National",
+        "Bono House of Chiefs",
+        "conflict",
+        "NPC"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
@@ -203,20 +218,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Health",
         "Telecel Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UG regrets clash with Rent Control officials, defends hostel fees",
-      "link": "https://www.myjoyonline.com/ug-regrets-clash-with-rent-control-officials-defends-hostel-fees/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:46:06.000Z",
-      "summary": "The University of Ghana has apologised for a confrontation involving persons acting on its behalf and officials of the Rent Control Department during an inspection of some…",
-      "categories": [
-        "News",
-        "Fees",
-        "Hostel",
-        "UG"
       ],
       "site": "https://www.myjoyonline.com/"
     },

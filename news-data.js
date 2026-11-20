@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T05:13:13.057Z",
+  "updated": "2026-11-20T05:18:12.485Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -17,7 +17,7 @@ window.GDC_NEWS = {
     "Citi Newsroom: failed (HTTP 415)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: failed (HTTP 415)",
+    "Ghana News Agency: failed (HTTP 403)",
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
@@ -69,6 +69,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:00:00.000Z",
       "summary": "Ghana’s 2027 Budget prioritises public investment, but sustainable financing, debt management and effective execution will determine its economic impact."
+    },
+    {
+      "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
+      "link": "https://www.myjoyonline.com/the-last-two-months-are-also-very-strong-months-gra-confident-of-tax-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:51:00.000Z",
+      "summary": "Ghana Revenue Authority (GRA) Commissioner General Anthony Kwasi Sarpong says strong collections in the final two months of the year will help the authority achieve its GH¢237 billion…"
     },
     {
       "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T18:02:20.000Z",
       "summary": "Head of Marketing and Corporate Communications at Ecobank Ghana PLC, Regina Ofori, has received the Outstanding Contribution to Marketing (Brand) award at the 2026 Global Women in Marketing…"
-    },
-    {
-      "title": "Gold Fields says Tarkwa mine has contributed US$3.3bn to Ghana",
-      "link": "https://www.myjoyonline.com/gold-fields-says-tarkwa-mine-has-contributed-us3-3bn-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T17:39:23.000Z",
-      "summary": "Gold Fields Ghana Limited says it has paid US$3.3 billion to the Government of Ghana in royalties, corporate taxes and dividends from its operations at the Tarkwa mine. In a media statement…"
     }
   ]
 };
