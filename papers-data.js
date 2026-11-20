@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:18:04.264Z",
+  "updated": "2026-11-20T18:23:04.697Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Javits funeral service: Use upcoming Thanksgiving gatherings to teach children not to hate – Al Sharpton",
+      "link": "https://www.myjoyonline.com/javits-funeral-service-use-upcoming-thanksgiving-gatherings-to-teach-children-not-to-hate-al-sharpton/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:17:19.000Z",
+      "summary": "American civil rights activist Rev. Al Sharpton has urged parents to use Thanksgiving family gatherings to teach their children tolerance, acceptance and respect for people from different…",
+      "categories": [
+        "National",
+        "Al Sharpton",
+        "Javits",
+        "thanksgiving"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "World Children’s Day: Children’s rights must be protected to secure their future – Nathaniel Gyimah",
       "link": "https://www.myjoyonline.com/world-childrens-day-childrens-rights-must-be-protected-to-secure-their-future-nathaniel-gyimah/",
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Ambulance",
         "Obuasi East"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Apprenticeship Programme graduates to get priority support from Women’s Development Bank – Mahama",
-      "link": "https://www.myjoyonline.com/national-apprenticeship-programme-graduates-to-get-priority-support-from-womens-development-bank-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:36:15.000Z",
-      "summary": "President John Mahama says women who graduate from the National Apprenticeship Programme and intend to establish their own businesses will receive priority support through the Women’s…",
-      "categories": [
-        "National",
-        "National Apprenticeship Programme",
-        "President John Mahama",
-        "Women’s Development Bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
