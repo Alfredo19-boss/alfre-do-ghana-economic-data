@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T21:23:02.776Z",
+  "updated": "2026-11-20T21:33:21.359Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian boy killed in US ‘deserved so much better’, says New York Mayor Mamdani",
+      "link": "https://www.myjoyonline.com/ghanaian-boy-killed-in-us-deserved-so-much-better-says-new-york-mayor-mamdani/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T21:02:00.000Z",
+      "summary": "A 15-year-old Ghanaian boy who was killed in the US last month was remembered as a hard-working student with dreams of becoming a doctor, as his father, New York City's mayor and civil…",
+      "categories": [
+        "Diaspora",
+        "News",
+        "Javits Frimpong",
+        "Killed",
+        "teeanger"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sulemana Baba re-elected as NALAG Ahafo Regional representative",
       "link": "https://www.myjoyonline.com/sulemana-baba-re-elected-as-nalag-ahafo-regional-representative/",
@@ -132,19 +147,6 @@ window.GDC_PAPERS = {
         "Upper East Region",
         "WaterAid Ghana",
         "World Toilet Day 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Quick Clinic launches digital healthcare platform to improve access to medical services",
-      "link": "https://www.myjoyonline.com/quick-clinic-launches-digital-healthcare-platform-to-improve-access-to-medical-services/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:00:00.000Z",
-      "summary": "A new digital healthcare platform, Quick Clinic, has been launched in Ghana to connect patients, healthcare professionals and medical facilities through a single online ecosystem.",
-      "categories": [
-        "Health",
-        "digital healthcare",
-        "Quick Clinic"
       ],
       "site": "https://www.myjoyonline.com/"
     },
