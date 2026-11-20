@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:58:05.317Z",
+  "updated": "2026-11-20T19:03:04.355Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "St John’s Hospital CEO Dr Maame Yaa Afriye named Outstanding Corporate Woman at 2026 Ghana Women Awards",
+      "link": "https://www.myjoyonline.com/st-johns-hospital-ceo-dr-maame-yaa-afriye-named-outstanding-corporate-woman-at-2026-ghana-women-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:58:50.000Z",
+      "summary": "The Chief Executive Officer of St John’s Hospital and Fertility Centre, Dr Maame Yaa Afriye, has been named Outstanding Corporate Woman at the 2026 Ghana Women Awards. She received the…",
+      "categories": [
+        "National",
+        "St John’s Hospital"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘If a mother’s tears could bring back a child’ – Javits’ mother breaks down during tribute",
       "link": "https://www.myjoyonline.com/if-a-mothers-tears-could-bring-back-a-child-javits-mother-breaks-down-during-tribute/",
@@ -134,19 +146,6 @@ window.GDC_PAPERS = {
         "Al Sharpton",
         "Javits",
         "thanksgiving"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Children’s Day: Children’s rights must be protected to secure their future – Nathaniel Gyimah",
-      "link": "https://www.myjoyonline.com/world-childrens-day-childrens-rights-must-be-protected-to-secure-their-future-nathaniel-gyimah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:13:36.000Z",
-      "summary": "A participant in JoyNews’ World Children’s Day celebrations, Nathaniel Gyimah, has emphasised the importance of protecting children’s rights, particularly their right to education…",
-      "categories": [
-        "National",
-        "Children",
-        "Nathaniel Gyimah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
