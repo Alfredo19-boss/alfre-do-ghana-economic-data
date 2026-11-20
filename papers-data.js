@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T00:32:13.402Z",
+  "updated": "2026-11-20T01:03:13.609Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,43 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ringleader pleads guilty to $100 million US jewellery heist",
+      "link": "https://www.myjoyonline.com/ringleader-pleads-guilty-to-100-million-us-jewellery-heist/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:59:00.000Z",
+      "summary": "The ringleader in a spate of truck burglaries pleaded guilty on Thursday to a federal robbery charge for his role in stealing roughly $100 million ​worth of jewellery from an armoured…",
+      "categories": [
+        "International",
+        "Jewellery heist"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Anthropic becomes one of world’s most valuable public companies in stock market debut",
+      "link": "https://www.myjoyonline.com/anthropic-becomes-one-of-worlds-most-valuable-public-companies-in-stock-market-debut/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:50:00.000Z",
+      "summary": "Anthropic has become one of the world's most valuable public companies after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).",
+      "categories": [
+        "Technology",
+        "Anthropic",
+        "Claude"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Brighton Anthropic founder to become billionaire",
+      "link": "https://www.myjoyonline.com/brighton-anthropic-founder-to-become-billionaire/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:39:00.000Z",
+      "summary": "A man from Brighton who helped to set up the AI company Anthropic, which made its stock market debut on Thursday, is set to become a billionaire.",
+      "categories": [
+        "Technology",
+        "Anthropic"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Frank happy to be ‘back in the circus’ at Palace",
       "link": "https://www.myjoyonline.com/frank-happy-to-be-back-in-the-circus-at-palace/",
@@ -92,50 +129,6 @@ window.GDC_PAPERS = {
         "Artisanal fishers",
         "fisheries day",
         "inshore exclusion zone"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shevchenko accuses Mudryk camp of ‘baseless slander’",
-      "link": "https://www.myjoyonline.com/shevchenko-accuses-mudryk-camp-of-baseless-slander/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:58:00.000Z",
-      "summary": "Ukraine great Andriy Shevchenko has accused Mykhailo Mudryk's representatives of repeatedly asking a country football federation employee to \"falsely\" take the blame for the winger's…",
-      "categories": [
-        "Football",
-        "Mykhailo Mudryk",
-        "Ukraine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We shall win to sell Ghana’ – NDC MP gives NPP anthem a parliamentary remix",
-      "link": "https://www.myjoyonline.com/we-shall-win-to-sell-ghana-ndc-mp-gives-npp-anthem-a-parliamentary-remix/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:50:00.000Z",
-      "summary": "The familiar refrain of the New Patriotic Party’s (NPP) campaign anthem took an unexpected turn in Parliament when Chiana-Paga MP Alamzy Billa Nikyema gave it a provocative twist, drawing…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Ghana",
-        "NDC",
-        "NPP",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA rejects claims lifestyle audits are overreach to meet tax targets",
-      "link": "https://www.myjoyonline.com/gra-rejects-claims-lifestyle-audits-are-overreach-to-meet-tax-targets/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T23:49:00.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner-General Anthony Kwasi Sarpong has rejected the suggestion that the authority is resorting to lifestyle audits and other compliance measures…",
-      "categories": [
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner-General",
-        "Lifestyle audits"
       ],
       "site": "https://www.myjoyonline.com/"
     },

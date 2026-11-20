@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T00:31:43.219Z",
+  "updated": "2026-11-20T01:03:12.410Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,27 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 415)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 502)"
+    "Ghana News Agency: failed (HTTP 415)",
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Anthropic becomes one of world’s most valuable public companies in stock market debut",
+      "link": "https://www.myjoyonline.com/anthropic-becomes-one-of-worlds-most-valuable-public-companies-in-stock-market-debut/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:50:00.000Z",
+      "summary": "Anthropic has become one of the world's most valuable public companies after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion)."
+    },
+    {
+      "title": "Brighton Anthropic founder to become billionaire",
+      "link": "https://www.myjoyonline.com/brighton-anthropic-founder-to-become-billionaire/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T00:39:00.000Z",
+      "summary": "A man from Brighton who helped to set up the AI company Anthropic, which made its stock market debut on Thursday, is set to become a billionaire."
+    },
     {
       "title": "Goldfields wins overall CSR company at Ghana Club 100",
       "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T14:01:00.000Z",
       "summary": "Ariane Di Iorio, MIGA's Economics and Sustainability Director, said the World Bank Group had already exceeded its 2030 target for its guarantee platform"
-    },
-    {
-      "title": "High Interest Rates Threaten Ghana’s Cashew Processing Ambitions",
-      "link": "https://thehighstreetjournal.com/high-interest-rates-threaten-ghanas-cashew-processing-ambitions/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T13:38:07.000Z",
-      "summary": "High borrowing costs and inadequate working capital are constraining Ghana's cashew processors, with industry executives calling for affordable financing, strategic warehousing and stronger…"
-    },
-    {
-      "title": "First National Bank’s unique approach to banking yielding good results – CEO",
-      "link": "https://www.myjoyonline.com/first-national-banks-unique-approach-to-banking-yielding-good-results-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T13:31:36.000Z",
-      "summary": "The CEO asserted that the results reflected progress in the bank’s growth strategy and the confidence customers continued to place in the business. “We have delivered steady profitability…"
     }
   ]
 };
