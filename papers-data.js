@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:58:05.564Z",
+  "updated": "2026-11-20T18:03:03.681Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -40,7 +40,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-20T17:48:53.000Z",
       "summary": "A participant in JoyNews’ World Children’s Day celebrations, Akosua Antwiwah, has urged parents to involve their children in decisions that affect their lives, arguing that they should have…",
       "categories": [
-        "HP News 10",
         "National",
         "Akosua Antwiwah",
         "Parents",
