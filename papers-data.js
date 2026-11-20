@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:53:02.481Z",
+  "updated": "2026-11-20T21:03:02.580Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Sulemana Baba re-elected as NALAG Ahafo Regional representative",
+      "link": "https://www.myjoyonline.com/sulemana-baba-re-elected-as-nalag-ahafo-regional-representative/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:52:42.000Z",
+      "summary": "The incumbent Ahafo Regional Representative to the National Executive Council (NEC) of the National Association of Local Authorities of Ghana (NALAG), Sulemana Baba Amadu, has been retained…",
+      "categories": [
+        "Regional",
+        "NALAG Ahafo Regional representative",
+        "Sulemana Baba Amadu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amputee World Cup: Black Challenge players, officials to receive US$8,000 each from Gold Fields",
       "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-players-officials-to-receive-us8000-each-from-gold-fields/",
       "source": "MyJoyOnline",
@@ -28,6 +41,7 @@ window.GDC_PAPERS = {
       "summary": "Gold Fields Ghana Limited, the Ghana Football Association (GFA) and the National Paralympic Committee of Ghana (NPC Ghana) have agreed on a funding package that will see each Black…",
       "categories": [
         "Football",
+        "HP Sports 2",
         "Sports",
         "Benaiah Elorm Dafeamekpor",
         "Black Challenge",
@@ -43,6 +57,7 @@ window.GDC_PAPERS = {
       "summary": "Bjorkegren has named a 23-woman squad for the first phase of the tournament which is scheduled to be played in Rabat, Morocco.",
       "categories": [
         "Football",
+        "HP Sports 3",
         "National",
         "2027 Women’s World Cup qualifiers",
         "Black Queens",
@@ -144,18 +159,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Opanyin Daniel Kwame Takyi",
-      "link": "https://www.myjoyonline.com/opanyin-daniel-kwame-takyi-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:35:01.000Z",
-      "summary": "With heavy hearts, we invite family, friends, loved ones, and well-wishers to join us as we observe the one-week remembrance of our beloved father, Opanyin Daniel Kwame Takyi As we remember…",
-      "categories": [
-        "Obituary",
-        "Opanyin Daniel Kwame Takyi"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Airbus delivers ACH160: What you need to know about the high-tech helicopter joining Ghana's Air Force",
