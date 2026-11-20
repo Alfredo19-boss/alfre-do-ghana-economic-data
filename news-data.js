@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T14:02:03.312Z",
+  "updated": "2026-11-20T14:07:31.974Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,9 +18,16 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "THE ECOLOGICAL INVOICE: Should Businesses Account For The Cost Of Nature?",
+      "link": "https://thehighstreetjournal.com/the-ecological-invoice-should-businesses-account-for-the-cost-of-nature/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T14:04:36.000Z",
+      "summary": "Exploring how businesses can measure, value and account for their environmental impact, and why recognising nature’s contribution matters for financial reporting and economic development."
+    },
     {
       "title": "Bank of Ghana realigns policy stance, ends 2026 with 11% policy rate",
       "link": "https://www.ghanabusinessnews.com/2026/11/20/bank-of-ghana-realigns-policy-stance-ends-2026-with-11-policy-rate/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T05:00:00.000Z",
       "summary": "GhISP and CIB Ghana are equipping financial institutions with practical lending skills to improve SME credit assessment and expand access to inclusive, sustainable business financing."
-    },
-    {
-      "title": "Gold powers Ghana’s export earnings to record US$30.4bn by October",
-      "link": "https://www.myjoyonline.com/gold-powers-ghanas-export-earnings-to-record-us30-4bn-by-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T04:26:00.000Z",
-      "summary": "Ghana’s export earnings reached a record US$30.4 billion in the first ten months of 2026, driven largely by gold, according to the Bank of Ghana’s latest Summary of Economic and Financial…"
     }
   ]
 };

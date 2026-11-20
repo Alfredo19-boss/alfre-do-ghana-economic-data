@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T14:02:32.377Z",
+  "updated": "2026-11-20T14:07:36.479Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Deputy Health Minister warns against examination malpractice in nursing schools",
+      "link": "https://www.myjoyonline.com/deputy-health-minister-warns-against-examination-malpractice-in-nursing-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T14:01:40.000Z",
+      "summary": "The Deputy Minister of Health, Professor Dr Grace Ayensu-Danquah, has cautioned health training institutions against examination malpractice, warning that graduating unqualified nurses and…",
+      "categories": [
+        "Education",
+        "Health",
+        "National",
+        "Examination malpractice",
+        "Nursing schools",
+        "Professor Dr Grace Ayensu-Danquah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Moffy, Gasmilla revisit Ga vibe with new single ‘Seaman Jorley’",
+      "link": "https://www.myjoyonline.com/moffy-gasmilla-revisit-ga-vibe-with-new-single-seaman-jorley/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T14:01:36.000Z",
+      "summary": "Ghanaian musician Moffy has released a new single, Seaman Jorley, featuring Ga music and Azonto legend Gasmilla, in a creative blend of traditional Ga sounds and contemporary musical…",
+      "categories": [
+        "Music",
+        "Gasmilla",
+        "Moffy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We have still not received our per diems’ – Black Challenge players appeal to government after historic World Cup feat",
+      "link": "https://www.myjoyonline.com/we-have-still-not-received-our-per-diems-black-challenge-players-appeal-to-government-after-historic-world-cup-feat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:59:17.000Z",
+      "summary": "The Black Challenge made history on Wednesday after recording a 2-0 victory over Egypt to book their place in the last four of the competition for the first time.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Ghana",
+        "National Paralympic Committee",
+        "World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "African ministers warn against empty promises at COP31, demand delivery of climate finance",
       "link": "https://www.myjoyonline.com/african-ministers-warn-against-empty-promises-at-cop31-demand-delivery-of-climate-finance/",
@@ -85,49 +131,6 @@ window.GDC_PAPERS = {
         "Rent Control",
         "UGEL",
         "UGSRC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wesley Girls’ parents demand road safety action after death of top student Philipa Acquah",
-      "link": "https://www.myjoyonline.com/wesley-girls-parents-demand-road-safety-action-after-death-of-top-student-philipa-acquah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:34:24.000Z",
-      "summary": "Parents of Wesley Girls’ High School’s 2026 year group have called for urgent and sustained action against road indiscipline following the death of Philipa Acquah, a high-achieving student…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Parents",
-        "Philipa Acquah",
-        "Wesley Girls"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wesley Girls’ parents demand action over death of Philipa Acquah",
-      "link": "https://www.myjoyonline.com/wesley-girls-parents-demand-action-over-death-of-philipa-acquah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:34:24.000Z",
-      "summary": "Parents of Wesley Girls’ High School’s 2026 year group have called for urgent and sustained action against road indiscipline following the death of Philipa Acquah, a high-achieving student…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Parents",
-        "Philipa Acquah",
-        "Wesley Girls"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire destroys homes and properties at Aboabo Dagomba Line in Ashanti Region",
-      "link": "https://www.myjoyonline.com/fire-destroys-homes-and-properties-at-aboabo-dagomba-line-in-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T13:30:14.000Z",
-      "summary": "A devastating fire has torn through the Dagomba Line at Aboabo, a suburb of Kumasi, in the Ashanti Region, destroying several properties and personal belongings.",
-      "categories": [
-        "Regional",
-        "Aboabo Dagomba line",
-        "Ashanti Region"
       ],
       "site": "https://www.myjoyonline.com/"
     },
