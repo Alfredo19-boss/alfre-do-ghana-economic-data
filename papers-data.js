@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:43:13.863Z",
+  "updated": "2026-11-20T05:48:15.158Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,56 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Olympic champion Jepchirchir banned 3 years for doping",
+      "link": "https://ghanaiantimes.com.gh/olympic-champion-jepchirchir-banned-3-years-for-doping/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:47:54.000Z",
+      "summary": "World and former Olympic marathon champion, Peres Jepchirchir, has been suspended for three years over a positive drug test for the banned substance EPO, the Athletics Integrity Unit said…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Customs uncovers hidden warehouse stocked with suspected smuggled goods in Tatale",
+      "link": "https://www.myjoyonline.com/customs-uncovers-hidden-warehouse-stocked-with-suspected-smuggled-goods-in-tatale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:46:45.000Z",
+      "summary": "Customs officials have uncovered a concealed warehouse in Tatale in the Northern Region, seizing a large consignment of sugar, rice and cooking oil suspected to have entered Ghana through…",
+      "categories": [
+        "National",
+        "Customs",
+        "GRA",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chisora confirms talks for Wilder rematch on Fury-Joshua undercard",
+      "link": "https://ghanaiantimes.com.gh/chisora-confirms-talks-for-wilder-rematch-on-fury-joshua-undercard/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:46:23.000Z",
+      "summary": "Derek Chisora has confirmed he is in negotiations for a rematch with Deontay Wilder, after Jai Opetaia withdrew from his planned fight with the American. In April, Wilder fought Chisora on…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Judicial Service seeks government action to avert fresh strike",
+      "link": "https://www.myjoyonline.com/judicial-service-seeks-government-action-to-avert-fresh-strike/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:44:00.000Z",
+      "summary": "The Judicial Service has appealed to the government to urgently address unresolved staff welfare issues, warning that delays could prompt two unions representing its employees to resume…",
+      "categories": [
+        "National",
+        "Government",
+        "Judicial Service",
+        "Strike"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Man United threatens legal action over illegal approaches for JJ Gabriel",
       "link": "https://ghanaiantimes.com.gh/man-united-threatens-legal-action-over-illegal-approaches-for-jj-gabriel/",
@@ -75,7 +125,10 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Revenue Authority (GRA) says it would rather engage businesses and help them meet their tax obligations than shut down their operations, insisting that locking up offices and…",
       "categories": [
         "HP News 3",
-        "News"
+        "News",
+        "Business",
+        "GRA",
+        "lock"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -140,18 +193,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Fix logistics, regulatory bottlenecks to grow businesses — Pres Mahama",
-      "link": "https://ghanaiantimes.com.gh/fix-logistics-regulatory-bottlenecks-to-grow-businesses-pres-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:23:23.000Z",
-      "summary": "President John Dramani Mahama has called for urgent reforms in Ghana’s logistics and regulatory systems to reduce the cost of doing business and improve the competitiveness of local…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "GSS seeks dedicated data budget line for MDAs",
       "link": "https://www.myjoyonline.com/gss-seeks-dedicated-data-budget-line-for-mdas/",
       "source": "MyJoyOnline",
@@ -165,18 +206,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
-      "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:17:16.000Z",
-      "summary": "The high cost of Magnetic Resonance Imaging (MRI) scans, together with expensive treatment, is preventing some patients with pineal region tumours from accessing timely diagnosis and care…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Mahama inaugurates Vaccine R&D Laboratories, DNA Laboratory",
       "link": "https://www.myjoyonline.com/mahama-inaugurates-vaccine-rd-laboratories-dna-laboratory/",
       "source": "MyJoyOnline",
@@ -185,33 +214,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "DNA",
-        "Mahama",
-        "Vaccine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Invest in Ghana, reach 450m West Africans – Finance Minister to investors",
-      "link": "https://www.myjoyonline.com/invest-in-ghana-reach-450m-west-africans-finance-minister-to-investors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:05:00.000Z",
-      "summary": "Dr Cassiel Ato Baah Forson, the Finance Minister, urged global investors to set up processing plants in Ghana to support the country’s value-addition agenda and tap into a market of more…",
-      "categories": [
-        "National",
-        "Finance Minister",
-        "Ghana",
-        "Investors"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Clinical trials critical to vaccine self-sufficiency – Mahama",
-      "link": "https://www.myjoyonline.com/clinical-trials-critical-to-vaccine-self-sufficiency-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:58:00.000Z",
-      "summary": "President John Dramani Mahama has urged Ghanaians to participate in clinical trials, saying public confidence in scientific research is essential for the country’s efforts to develop and…",
-      "categories": [
-        "National",
         "Mahama",
         "Vaccine"
       ],
