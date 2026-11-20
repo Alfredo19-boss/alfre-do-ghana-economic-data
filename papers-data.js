@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:58:13.752Z",
+  "updated": "2026-11-20T05:03:16.549Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Create jobs with skills, not certificates alone — Education Director",
+      "link": "https://ghanaiantimes.com.gh/create-jobs-with-skills-not-certificates-alone-education-director/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:01:24.000Z",
+      "summary": "Young people have been admonished to look beyond academic certificates and acquire practical skills to create their own jobs. According to the Municipal Director of Education for La…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "School campaign against deadly rabies launched in Ho",
+      "link": "https://ghanaiantimes.com.gh/school-campaign-against-deadly-rabies-launched-in-ho/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:58:24.000Z",
+      "summary": "The Volta Region has launched a school-based campaign to protect children from rabies following 182 reported dog-bite cases since 2023. The campaign, dubbed “Stop Rabies in Basic Schools,”…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "USTED VC cautions students against over-reliance on AI",
       "link": "https://ghanaiantimes.com.gh/usted-vc-cautions-students-against-over-reliance-on-ai/",
@@ -104,18 +127,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Oware-Mensah’s GH¢38.4m trial adjourned to Nov 23",
-      "link": "https://ghanaiantimes.com.gh/oware-mensahs-gh%c2%a238-4m-trial-adjourned-to-nov-23/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:32:31.000Z",
-      "summary": "The trial of Mrs Gifty Oware-Mensah, a former Deputy Director of the National Service Authority (NSA), over the alleged misappropriation of GH¢38.4 million has been adjourned to November 23…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
       "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
       "source": "MyJoyOnline",
@@ -129,18 +140,6 @@ window.GDC_PAPERS = {
         "Doormaster"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court of Appeal halts Hanan trial indefinitely over defective charges",
-      "link": "https://ghanaiantimes.com.gh/court-of-appeal-halts-hanan-trial-indefinitely-over-defective-charges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:27:35.000Z",
-      "summary": "The Court of Appeal has indefinitely stalled the trial of Alhaji Hanan Abdul-Wahab Aludiba, a former Chief Executive Officer of the National Food and Buffer Stock Company, to allow his…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Poor sales, mounting hardship – Techiman traders ask Minority MPs to speak for them",

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T04:58:12.956Z",
+  "updated": "2026-11-20T05:03:15.793Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,41 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Can Ghana Keep its No-New-Taxes Pledge Without Cutting Promised Projects?",
+      "link": "https://thehighstreetjournal.com/can-ghana-keep-its-no-new-taxes-pledge-without-cutting-promised-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:02:00.000Z",
+      "summary": "Ghana’s no-new-taxes pledge hinges on stronger revenue collection, reduced leakages, fair enforcement and disciplined spending to finance development without accumulating arrears or debt."
+    },
+    {
+      "title": "DStv Price Cuts Trigger Subscriber Comeback as MultiChoice Reports Massive Uptake",
+      "link": "https://thehighstreetjournal.com/dstv-price-cuts-trigger-subscriber-comeback-as-multichoice-reports-massive-uptake/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:01:00.000Z",
+      "summary": "MultiChoice Ghana reports a surge in uptake and returning subscribers following DStv price cuts, but withholds figures on the scale of the recovery."
+    },
+    {
+      "title": "MobileMoney Fintech Places Fifth in Ghana Club 100 on Debut",
+      "link": "https://thehighstreetjournal.com/mobilemoney-fintech-places-fifth-in-ghana-club-100-on-debut/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:00:00.000Z",
+      "summary": "MobileMoney Fintech LTD placed fifth in the 2026 Ghana Club 100 on its first entry, months after separating from MTN Ghana, which ranked second."
+    },
+    {
+      "title": "Government Statistician Calls for Dedicated Data Budget Across MDAs",
+      "link": "https://thehighstreetjournal.com/government-statistician-calls-for-dedicated-data-budget-across-mdas/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:00:00.000Z",
+      "summary": "The Government Statistician wants dedicated budget allocations for data production across MDAs to reduce donor dependence, strengthen evidence-based policymaking and ensure sustainable…"
+    },
+    {
+      "title": "Ghana’s 2027 Budget: From Macroeconomic Stability to Prioritising Public Investment",
+      "link": "https://thehighstreetjournal.com/ghanas-2027-budget-from-macroeconomic-stability-to-prioritising-public-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-20T05:00:00.000Z",
+      "summary": "Ghana’s 2027 Budget prioritises public investment, but sustainable financing, debt management and effective execution will determine its economic impact."
+    },
     {
       "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
       "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2237bn-in-non-oil-tax-revenue-confident-of-meeting-year-end-goal/",
@@ -1035,41 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-17T17:00:00.000Z",
       "summary": "Gold Fields highlights over US$5 billion invested in Tarkwa, alongside its economic contributions, as it seeks renewal of the mine's leases from government."
-    },
-    {
-      "title": "Invest in Ghana, produce here and grow with us — Ato Forson",
-      "link": "https://www.myjoyonline.com/invest-in-ghana-produce-here-and-grow-with-us-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T16:04:42.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has urged local and international businesses to seize opportunities under the New Economy programme, outlining how planned public investment…"
-    },
-    {
-      "title": "Ghana’s Cashew Processing Industry Faces a Working Capital Trap",
-      "link": "https://thehighstreetjournal.com/ghanas-cashew-processing-industry-faces-a-working-capital-trap/",
-      "source": "The High Street Journal",
-      "published": "2026-11-17T15:25:00.000Z",
-      "summary": "Ghana's cashew processing ambitions face a working capital challenge as expensive borrowing limits raw material purchases, threatens factory utilisation and weakens domestic processors'…"
-    },
-    {
-      "title": "MIIF surpasses 2026 royalty target, records over GH¢9bn by October",
-      "link": "https://www.myjoyonline.com/miif-surpasses-2026-royalty-target-records-over-gh%c2%a29bn-by-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T15:05:36.000Z",
-      "summary": "The Chief Executive Officer of MIIF, Justina Nelson, announced this on Monday, November 16, 2026, at the Invest Ghana Summit 2026, held at the Kempinski Gold Coast Hotel in Accra."
-    },
-    {
-      "title": "2027 Budget good but fiscal target difficult to attain – Cynergy Global",
-      "link": "https://www.myjoyonline.com/2027-budget-good-but-fiscal-target-difficult-to-attain-cynergy-global/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:56:25.000Z",
-      "summary": "It stated that the 2027 target is steep, highlighting that implied nominal GDP grows by about 13% in 2027 in its calculation from the 17.9% ratio."
-    },
-    {
-      "title": "GCB Bank records GH¢2.87bn profit before tax in nine months to September",
-      "link": "https://www.myjoyonline.com/gcb-bank-records-gh%c2%a22-87bn-profit-before-tax-in-nine-months-to-september/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:55:48.000Z",
-      "summary": "Loans grow 47.7%, non-performing loans ratio falls to 4.8%, while earnings per share rise 43.3%. Bank targets at least GH¢3.7bn profit before tax for 2026. GCB Bank PLC recorded a profit…"
     }
   ]
 };
