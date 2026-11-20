@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:08:04.357Z",
+  "updated": "2026-11-20T18:13:03.689Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana must democratise its cocoa processing future",
+      "link": "https://www.myjoyonline.com/ghana-must-democratise-its-cocoa-processing-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:06:16.000Z",
+      "summary": "For over a century, our farmers have cleared the bush, nursed the pods, and shouldered the volatility of international commodity markets, only for foreign trading houses and European…",
+      "categories": [
+        "Opinion",
+        "Cocoa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
       "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
       "source": "MyJoyOnline",
@@ -28,7 +40,9 @@ window.GDC_PAPERS = {
       "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only).",
       "categories": [
         "Business",
-        "Economy"
+        "Economy",
+        "GSS",
+        "Unemployment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -67,7 +81,10 @@ window.GDC_PAPERS = {
       "summary": "Ghana’s Minister of Sports and Recreation, Kofi Adams, says the government spent $4.67m of the $5m advance allocated for the Black Stars’ participation in the 2026 FIFA World Cup. The…",
       "categories": [
         "Football",
+        "HP News 10",
         "HP Sports 1",
+        "National",
+        "News",
         "Kofi Adams",
         "Sports Minister",
         "World Cup"
@@ -112,20 +129,6 @@ window.GDC_PAPERS = {
         "Brain drain",
         "GRNMA Ashanti",
         "nurses"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
-      "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:33:51.000Z",
-      "summary": "MTN Ghana has marked 30 years of operations in the country, acknowledging the contribution of customers, employees, business partners, government institutions and communities to its growth…",
-      "categories": [
-        "Business",
-        "National",
-        "MTN",
-        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
