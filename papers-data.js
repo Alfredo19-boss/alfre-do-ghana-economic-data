@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:43:14.214Z",
+  "updated": "2026-11-20T04:48:14.003Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Choosing your destination",
+      "link": "https://ghanaiantimes.com.gh/choosing-your-destination-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:46:38.000Z",
+      "summary": "According to Dr Robert Anthony, in life, so many opportunities needlessly pass us by because we do not know where we are going. He says that there is an ‘Intelligent Force’ in the universe…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2027 Budget debate: Minority challenges economic projections, Majority touts gains",
+      "link": "https://ghanaiantimes.com.gh/2027-budget-debate-minority-challenges-economic-projections-majority-touts-gains/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:43:29.000Z",
+      "summary": "The interrogation of economic indicators and projections by the Minority and the highlighting of the government’s economic stability and transformation achievements by the Majority featured…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "MRI scans must not remain beyond patients’ reach",
       "link": "https://ghanaiantimes.com.gh/mri-scans-must-not-remain-beyond-patients-reach/",
@@ -280,30 +303,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T14:53:24.000Z",
       "summary": "The Member of Parliament for Cape Coast South and Deputy Majority Leader, George Kweku Ricketts-Hagan, has criticised the New Patriotic Party (NPP), questioning its ability to manage…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Cocaine business is the only one booming under Mahama’ – Ntim Fordjour",
-      "link": "https://ghanaiantimes.com.gh/cocaine-business-is-the-only-one-booming-under-mahama-ntim-fordjour/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:51:35.000Z",
-      "summary": "The Member of Parliament for Assin South, Rev. John Ntim Fordjour, has accused the government of failing to improve economic conditions for businesses and farmers, claiming that the cocaine…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bawumia hosted in Berlin by CDU, Konrad Adenauer Stiftung for talks on jobs, governance",
-      "link": "https://ghanaiantimes.com.gh/bawumia-hosted-in-berlin-by-cdu-konrad-adenauer-stiftung-for-talks-on-jobs-governance/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:49:12.000Z",
-      "summary": "Flagbearer of the New Patriotic Party (NPP) and former Vice President, Dr. Mahamudu Bawumia, has been hosted in Berlin by the Christian Democratic Union, (CDU), the party of the German…",
       "categories": [
         "Hot!",
         "News"
