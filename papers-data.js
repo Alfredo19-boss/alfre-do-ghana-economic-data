@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T20:18:02.977Z",
+  "updated": "2026-11-20T20:28:02.365Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Your uniform is for care, not content’ – Nursing Council warns newly inducted professionals",
+      "link": "https://www.myjoyonline.com/your-uniform-is-for-care-not-content-nursing-council-warns-newly-inducted-professionals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T20:17:36.000Z",
+      "summary": "Amid a rapidly evolving healthcare landscape, thousands of newly qualified nurses and midwives have been reminded that their primary responsibility is to provide compassionate patient care…",
+      "categories": [
+        "Health",
+        "National",
+        "Nurses and Midwives",
+        "Nursing and Midwifery Council (NMC)",
+        "University of Business and Integrated Development Studies (UBIDS)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "World Toilet Day 2026: WaterAid Ghana calls for increased sanitation investment, urges districts to emulate Bongo",
       "link": "https://www.myjoyonline.com/world-toilet-day-2026-wateraid-ghana-calls-for-increased-sanitation-investment-urges-districts-to-emulate-bongo/",
@@ -137,20 +152,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bono Regional Minister warns MMDCEs against neglecting district security responsibilities",
-      "link": "https://www.myjoyonline.com/bono-regional-minister-warns-mmdces-against-neglecting-district-security-responsibilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T19:08:22.000Z",
-      "summary": "The Bono Regional Minister, Joseph Addae Akwaboa, has warned Metropolitan, Municipal and District Chief Executives (MMDCEs) against neglecting their security responsibilities, urging them…",
-      "categories": [
-        "Regional",
-        "Bono Regional Minister",
-        "Joseph Addae Akwaboa",
-        "MMDCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "How Nkrumah secretly directed his cameraman Chris Hesse using a walking stick revealed in 'The Eyes of Ghana' documentary",
