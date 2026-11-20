@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:38:05.003Z",
+  "updated": "2026-11-20T17:43:05.095Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "National Apprenticeship Programme graduates to get priority support from Women’s Development Bank – Mahama",
+      "link": "https://www.myjoyonline.com/national-apprenticeship-programme-graduates-to-get-priority-support-from-womens-development-bank-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:36:15.000Z",
+      "summary": "President John Mahama says women who graduate from the National Apprenticeship Programme and intend to establish their own businesses will receive priority support through the Women’s…",
+      "categories": [
+        "National",
+        "National Apprenticeship Programme",
+        "President John Mahama",
+        "Women’s Development Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRNMA Ashanti warns against brain drain, holds youth boot camp to improve livelihoods of nurses",
+      "link": "https://www.myjoyonline.com/grnma-ashanti-warns-against-brain-drain-holds-youth-boot-camp-to-improve-livelihoods-of-nurses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:35:12.000Z",
+      "summary": "President John Mahama says women who graduate from the National Apprenticeship Programme and intend to establish their own businesses will receive priority support through the Women’s…",
+      "categories": [
+        "Health",
+        "Brain drain",
+        "GRNMA Ashanti",
+        "nurses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
       "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
@@ -99,33 +127,6 @@ window.GDC_PAPERS = {
         "Joy brands",
         "World Children’s Day",
         "Youngsters"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sinapi Aba Trust supports 500 women farmers with climate-smart agriculture training in Upper East",
-      "link": "https://www.myjoyonline.com/sinapi-aba-trust-supports-500-women-farmers-with-climate-smart-agriculture-training-in-upper-east/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:22:08.000Z",
-      "summary": "Sinapi Aba Trust is supporting 500 women smallholder farmers in the Upper East Region with agricultural training, financial assistance and climate-smart farming techniques under a two-year…",
-      "categories": [
-        "Regional",
-        "climate smart",
-        "Sinapi Aba",
-        "women farmers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I know what that hope feels like’ – New York City Mayor Mamdani on Javits’ immigrant journey",
-      "link": "https://www.myjoyonline.com/i-know-what-that-hope-feels-like-new-york-city-mayor-mamdani-on-javits-immigrant-journey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:13:02.000Z",
-      "summary": "New York City Mayor Zohran Kwame Mamdani has drawn parallels between his childhood journey from Africa to the United States and that of 15-year-old Badu Nkansah Frimpong, popularly known as…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Zohran Mamdani"
       ],
       "site": "https://www.myjoyonline.com/"
     },
