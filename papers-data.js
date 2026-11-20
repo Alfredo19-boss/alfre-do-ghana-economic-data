@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T09:12:37.125Z",
+  "updated": "2026-11-20T09:22:35.371Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Betway launches GHS1m Level Up promotion with 2026 Jetour Dashing as grand prize",
+      "link": "https://www.myjoyonline.com/betway-launches-ghs1m-level-up-promotion-with-2026-jetour-dashing-as-grand-prize/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T09:14:21.000Z",
+      "summary": "Betway Ghana has launched a six-week promotion, Level Up, offering players a prize pool worth more than GHS1 million, including a brand-new 2026 Jetour Dashing as the grand prize. Running…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Betway Ghana",
+        "Level Up"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minister directs GTEC to engage Rent Commission over hostel fees",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-directs-gtec-to-engage-rent-commission-over-hostel-fees.html",
@@ -158,21 +172,6 @@ window.GDC_PAPERS = {
         "God",
         "mankind",
         "religion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaians share simple acts of kindness they plan to spread this Christmas",
-      "link": "https://www.myjoyonline.com/ghanaians-share-simple-acts-of-kindness-they-plan-to-spread-this-christmas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T06:41:32.000Z",
-      "summary": "As the Christmas season approaches, some Ghanaians are looking beyond the usual festivities, identifying simple ways to make the season more meaningful for others. In a Joy FM vox pop…",
-      "categories": [
-        "Arts and Culture",
-        "Events",
-        "Christmas",
-        "Joy FM",
-        "Kindness"
       ],
       "site": "https://www.myjoyonline.com/"
     },
