@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T10:07:33.536Z",
+  "updated": "2026-11-20T10:17:35.616Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,19 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Before we liberalise, we must learn to produce",
+      "link": "https://www.myjoyonline.com/before-we-liberalise-we-must-learn-to-produce/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T10:02:59.000Z",
+      "summary": "Walk into one of Ghana's growing China Malls and the economic reality confronting the country becomes difficult to ignore. The shelves are full. The prices are attractive. Consumers have…",
+      "categories": [
+        "Opinion",
+        "Economy",
+        "produce"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "IPMC graduates 700 students in technology disciplines",
@@ -217,27 +230,6 @@ window.GDC_PAPERS = {
         "In Focus",
         "National",
         "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Black Wonders begin final preparations for 2026 Deaf AFCON in Ethiopia",
-      "link": "https://www.myjoyonline.com/ghanas-black-wonders-begin-final-preparations-for-2026-deaf-afcon-in-ethiopia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T08:21:36.000Z",
-      "summary": "A 24-player squad, alongside the technical team, is preparing for the continental competition, where Ghana will compete in Group D against Mali, Kenya and Zanzibar.",
-      "categories": [
-        "Football",
-        "National",
-        "Sports",
-        "Black Wonders",
-        "Deaf AFCON 2026",
-        "Ethiopia",
-        "Ghana",
-        "Haruna Mubarak",
-        "Kenya",
-        "Mali",
-        "Zanzibar"
       ],
       "site": "https://www.myjoyonline.com/"
     },
