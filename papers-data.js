@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:23:04.697Z",
+  "updated": "2026-11-20T18:33:05.061Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Murdered Ghanaian teenager Javits laid to rest in New York as Mamdani, Al Sharpton, others pay tribute",
+      "link": "https://www.myjoyonline.com/murdered-ghanaian-teenager-javits-laid-to-rest-in-new-york-as-mamdani-al-sharpton-others-pay-tribute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:28:39.000Z",
+      "summary": "Family, friends, community leaders and public officials gathered in the Bronx, New York, on Friday, November 20, to bid farewell to 15-year-old Ghanaian teenager Badu Nkansah Frimpong…",
+      "categories": [
+        "International",
+        "National",
+        "Funeral service",
+        "Javits Frimpong",
+        "New York"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World Children’s Day: What replaced corporal punishment in schools? – Rev. Godson-Afful asks over decline in discipline",
+      "link": "https://www.myjoyonline.com/world-childrens-day-what-replaced-corporal-punishment-in-schools-rev-godson-afful-asks-over-decline-in-discipline/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:24:41.000Z",
+      "summary": "The Head Pastor of Rehoboth Network of Churches, Rev. Dr Henry Godson-Afful, has questioned the effectiveness of disciplinary measures in Ghanaian schools following the removal of corporal…",
+      "categories": [
+        "Education",
+        "National",
+        "Discipline",
+        "School",
+        "World Children's Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Javits funeral service: Use upcoming Thanksgiving gatherings to teach children not to hate – Al Sharpton",
       "link": "https://www.myjoyonline.com/javits-funeral-service-use-upcoming-thanksgiving-gatherings-to-teach-children-not-to-hate-al-sharpton/",
@@ -97,37 +127,6 @@ window.GDC_PAPERS = {
         "Akosua Antwiwah",
         "Parents",
         "World Children’s Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t spent $4.67m on Black Stars’ 2026 World Cup campaign",
-      "link": "https://www.myjoyonline.com/govt-spent-4-67m-on-black-stars-2026-world-cup-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:44:23.000Z",
-      "summary": "Ghana’s Minister of Sports and Recreation, Kofi Adams, says the government spent $4.67m of the $5m advance allocated for the Black Stars’ participation in the 2026 FIFA World Cup. The…",
-      "categories": [
-        "Football",
-        "HP News 10",
-        "HP Sports 1",
-        "National",
-        "News",
-        "Kofi Adams",
-        "Sports Minister",
-        "World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi East ambulance returns to service after five years off the road",
-      "link": "https://www.myjoyonline.com/obuasi-east-ambulance-returns-to-service-after-five-years-off-the-road/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:40:24.000Z",
-      "summary": "Residents of the Obuasi East Municipality are set to benefit from improved emergency medical transportation after the municipal ambulance was restored to service following a GH¢50,000…",
-      "categories": [
-        "Regional",
-        "Ambulance",
-        "Obuasi East"
       ],
       "site": "https://www.myjoyonline.com/"
     },
