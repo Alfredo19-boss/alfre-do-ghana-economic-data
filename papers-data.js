@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T17:33:04.137Z",
+  "updated": "2026-11-20T17:38:05.003Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
+      "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:33:51.000Z",
+      "summary": "MTN Ghana has marked 30 years of operations in the country, acknowledging the contribution of customers, employees, business partners, government institutions and communities to its growth…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kumasi Central Prison holds 1,600 inmates against 500 capacity as authorities intensify decongestion",
+      "link": "https://www.myjoyonline.com/kumasi-central-prison-holds-1600-inmates-against-500-capacity-as-authorities-intensify-decongestion/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T17:32:46.000Z",
+      "summary": "The Kumasi Central Prison is holding an average of 1,600 inmates, more than three times its authorised capacity of 500, as the Ashanti Regional Prisons Command steps up efforts to ease…",
+      "categories": [
+        "Regional",
+        "Decongestion",
+        "Inmates",
+        "Kumasi Central Prison"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "ADB Ghana installs advanced DNA equipment at Noguchi Institute",
       "link": "https://www.myjoyonline.com/adb-ghana-installs-advanced-dna-equipment-at-noguchi-institute/",
@@ -101,47 +126,6 @@ window.GDC_PAPERS = {
         "HP News 1",
         "National",
         "Zohran Mamdani"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Economy agenda to drive industrial transformation – GIPA CEO",
-      "link": "https://www.myjoyonline.com/new-economy-agenda-to-drive-industrial-transformation-gipa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:09:28.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, says the government’s New Economy agenda will accelerate industrialisation, attract investment…",
-      "categories": [
-        "Business",
-        "Economy",
-        "GIPA",
-        "new economy",
-        "Simon Madjie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Borteyman Sports Complex: gov’t courts private sector involvement to manage $145m facility",
-      "link": "https://www.myjoyonline.com/borteyman-sports-complex-govt-courts-private-sector-involvement-to-manage-145m-facility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:09:19.000Z",
-      "summary": "Government is exploring the possibility of a public-private partnership (PPP) to manage and maintain the Borteyman Sports Complex. This follows the submission of a memorandum from the…",
-      "categories": [
-        "Athletics",
-        "Boxing",
-        "Comp. Sports",
-        "Football",
-        "Golf",
-        "HP Sports 1",
-        "Other Sports",
-        "Sports",
-        "Tennis",
-        "Atsu Tamakloe",
-        "Borteyman Sports Complex",
-        "Ghana",
-        "Kofi Adams",
-        "Parliament",
-        "Sports Minister",
-        "Sports Ministry"
       ],
       "site": "https://www.myjoyonline.com/"
     },
