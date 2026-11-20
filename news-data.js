@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T03:48:13.111Z",
+  "updated": "2026-11-20T03:53:12.639Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "GRA conducting lifestyle audits to ensure tax compliance – Commissioner-General",
+      "link": "https://www.myjoyonline.com/gra-conducting-lifestyle-audits-to-ensure-tax-compliance-commissioner-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:41:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is using lifestyle audits to check whether taxpayers’ declared incomes match their vehicle purchases and imported goods."
+    },
     {
       "title": "Businesses could face higher tax costs despite no new taxes in 2027 Budget – Deloitte warns",
       "link": "https://www.myjoyonline.com/businesses-could-face-higher-tax-costs-despite-no-new-taxes-in-2027-budget-deloitte-warns/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T14:33:10.000Z",
       "summary": "Cnergy Global Holdings has stated that though Ghana’s economic output has expanded strongly, productive capacity has not been matched by the capacity to finance growth, withstand external…"
-    },
-    {
-      "title": "Ghana Chamber of Clean Energy commends BPA, First Sky on completion of Yendi solar plant",
-      "link": "https://www.myjoyonline.com/ghana-chamber-of-clean-energy-commends-bpa-first-sky-on-completion-of-yendi-solar-plant/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:24:29.000Z",
-      "summary": "The Ghana Chamber of Clean Energy (GCCE) has commended the Bui Power Authority (BPA) and First Sky Limited following the completion of a 50-megawatt-peak (MWp) solar photovoltaic power…"
     }
   ]
 };

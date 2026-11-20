@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T03:48:13.796Z",
+  "updated": "2026-11-20T03:53:13.449Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,8 @@ window.GDC_PAPERS = {
       "summary": "The University of Ghana has apologised for a confrontation involving persons acting on its behalf and officials of the Rent Control Department during an inspection of some…",
       "categories": [
         "News",
+        "Fees",
+        "Hostel",
         "UG"
       ],
       "site": "https://www.myjoyonline.com/"
@@ -42,6 +44,20 @@ window.GDC_PAPERS = {
         "News",
         "Hostel",
         "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA conducting lifestyle audits to ensure tax compliance – Commissioner-General",
+      "link": "https://www.myjoyonline.com/gra-conducting-lifestyle-audits-to-ensure-tax-compliance-commissioner-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:41:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is using lifestyle audits to check whether taxpayers’ declared incomes match their vehicle purchases and imported goods.",
+      "categories": [
+        "Economy",
+        "National",
+        "GRA Commissioner-General",
+        "Lifestyle audits"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -112,21 +128,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Thomas Markle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GACL buys 10 sniffer dogs to tighten airport security",
-      "link": "https://www.myjoyonline.com/gacl-buys-10-sniffer-dogs-to-tighten-airport-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T01:46:54.000Z",
-      "summary": "The Ghana Airports Company Limited (GACL) is stepping up efforts to close security loopholes at the country’s airports, with the acquisition of 10 sniffer dogs to help detect narcotics and…",
-      "categories": [
-        "National",
-        "News",
-        "Cocaine",
-        "Dogs",
-        "NACOC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
