@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T11:17:33.455Z",
+  "updated": "2026-11-20T11:27:33.390Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "link": "https://www.myjoyonline.com/south-korea-catches-111-students-with-new-measures-against-exam-cheating/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T11:14:18.000Z",
+      "summary": "South Korea's education ministry says 111 candidates were found with unauthorised smart devices during a high-stakes nationwide exam, after officials introduced urgent measures to tackle…",
+      "categories": [
+        "International",
+        "Cheating",
+        "South Korea",
+        "Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "link": "https://www.graphic.com.gh/news/health/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish.html",
@@ -206,20 +220,6 @@ window.GDC_PAPERS = {
         "National",
         "Anti-Witchcraft Bill 2026",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Before we liberalise, we must learn to produce",
-      "link": "https://www.myjoyonline.com/before-we-liberalise-we-must-learn-to-produce/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T10:02:59.000Z",
-      "summary": "Walk into one of Ghana's growing China Malls and the economic reality confronting the country becomes difficult to ignore. The shelves are full. The prices are attractive. Consumers have…",
-      "categories": [
-        "HP Opinion 7",
-        "Opinion",
-        "Economy",
-        "produce"
       ],
       "site": "https://www.myjoyonline.com/"
     },
