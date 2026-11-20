@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T03:53:13.449Z",
+  "updated": "2026-11-20T03:58:14.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government preparing to hire 8,000 more health workers – Prof Beyuo",
+      "link": "https://www.myjoyonline.com/government-preparing-to-hire-8000-more-health-workers-prof-beyuo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:54:45.000Z",
+      "summary": "Another 8,000 health professionals are expected to be recruited into the public health system, with the government preparing a second intake after bringing a similar number on board earlier…",
+      "categories": [
+        "Health",
+        "News",
+        "Beyou",
+        "nurses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UG regrets clash with Rent Control officials, defends hostel fees",
       "link": "https://www.myjoyonline.com/ug-regrets-clash-with-rent-control-officials-defends-hostel-fees/",
@@ -44,6 +58,18 @@ window.GDC_PAPERS = {
         "News",
         "Hostel",
         "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Judge orders US agriculture chief to stop sending religious emails from official account",
+      "link": "https://www.myjoyonline.com/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T02:50:00.000Z",
+      "summary": "A US judge ordered, Agriculture Secretary Brooke ​Rollins to stop sending religious emails to employees from her official account,",
+      "categories": [
+        "International",
+        "Religious emails"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -103,31 +129,6 @@ window.GDC_PAPERS = {
         "GRA",
         "Income Tax Act",
         "Tax Revenue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump’s $15 billion defamation case against New York Times may proceed, judge rules",
-      "link": "https://www.myjoyonline.com/trumps-15-billion-defamation-case-against-new-york-times-may-proceed-judge-rules/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:13:00.000Z",
-      "summary": "A ​federal judge on Thursday said President Donald Trump's $15 billion defamation lawsuit against the New York Times and book ‌publisher Penguin Random House may proceed, a victory for…",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "New York Times"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
-      "link": "https://www.myjoyonline.com/accused-child-sex-predator-thomas-markle-ruled-competent-to-face-trial/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:07:00.000Z",
-      "summary": "A U.S. judge in Florida on Thursday declared Thomas Markle, the ​estranged father of Britain's Duchess of Sussex, Meghan ‌Markle, to be mentally competent to answer to a federal charge…",
-      "categories": [
-        "International",
-        "Thomas Markle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
