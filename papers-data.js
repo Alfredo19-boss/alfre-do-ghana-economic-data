@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T12:57:33.102Z",
+  "updated": "2026-11-20T13:07:34.812Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Association of Banks and GhIPSS rally public behind GhanaPay as nation accelerates toward a cashless economy",
+      "link": "https://www.myjoyonline.com/ghana-association-of-banks-and-ghipss-rally-public-behind-ghanapay-as-nation-accelerates-toward-a-cashless-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T13:00:55.000Z",
+      "summary": "The Ghana Association of Banks (GAB), in partnership with the Ghana Interbank Payment and Settlement Systems Limited (GhIPSS), has intensified its nationwide awareness drive for GhanaPay…",
+      "categories": [
+        "National",
+        "Banks",
+        "GhanaPay"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama targets 50,000 National Apprenticeship Programme beneficiaries in 2027 as over 13,000 graduates",
+      "link": "https://www.myjoyonline.com/mahama-targets-50000-national-apprenticeship-programme-beneficiaries-in-2027-as-over-13000-graduates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T12:56:48.000Z",
+      "summary": "President John Dramani Mahama has announced plans to expand the National Apprenticeship Programme to cover at least 50,000 young people in 2027, following the graduation of more than 13,000…",
+      "categories": [
+        "National",
+        "Mahama",
+        "National Apprenticeship Programme"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Crafting survival: Dzorwulu’s cane weavers seek government support to save traditional industry",
       "link": "https://www.myjoyonline.com/crafting-survival-dzorwulus-cane-weavers-seek-government-support-to-save-traditional-industry/",
@@ -106,31 +132,6 @@ window.GDC_PAPERS = {
         "Chancellor",
         "Dr. Ernest Ofori Sarpong",
         "UNIMAC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agbawe Clan raises alarm over alleged seizure of their land by government operatives",
-      "link": "https://www.myjoyonline.com/agbawe-clan-raises-alarm-over-alleged-seizure-of-their-land-by-government-operatives/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:36:36.000Z",
-      "summary": "The Agbawe Clan of Oyarifa-Ayimensah in the Greater Accra Region has raised the alarm over the alleged seizure of its parcel of land at Oyarifa by government operatives, who believed the…",
-      "categories": [
-        "News",
-        "Agbawe Clan",
-        "Ghana Highways Authority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mafi Hogbetsotso festival proceeds to support healthcare campaign",
-      "link": "https://www.myjoyonline.com/mafi-hogbetsotso-festival-proceeds-to-support-healthcare-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:35:40.000Z",
-      "summary": "The 2026 edition of the Mafi Hogbetsotso Festival has been launched with the objective of raising funds to enhance healthcare delivery in the area. This initiative targets retooling the…",
-      "categories": [
-        "Regional",
-        "Mafi Hogbetsotso Festival"
       ],
       "site": "https://www.myjoyonline.com/"
     },

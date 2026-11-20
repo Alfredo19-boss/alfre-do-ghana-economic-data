@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T12:57:28.140Z",
+  "updated": "2026-11-20T13:07:32.577Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -18,7 +18,7 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (not an RSS/Atom feed)"
+    "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
     {
@@ -36,7 +36,7 @@ window.GDC_NEWS = {
       "summary": "The Ghana Revenue Authority says improved compliance, technology adoption, and efforts to close revenue leakages will drive domestic revenue mobilisation under the existing tax framework."
     },
     {
-      "title": "Ghanaian workers’ productivity triples in 34, but salaries not commensurate with increased output – GSS report",
+      "title": "Ghanaian workers’ productivity triples in 34 years, but salaries not commensurate with increased output – GSS",
       "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T12:22:13.000Z",
