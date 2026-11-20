@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:33:14.995Z",
+  "updated": "2026-11-20T05:38:15.008Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Locking up business premises is our last resort – GRA boss",
+      "link": "https://www.myjoyonline.com/locking-up-business-premises-is-our-last-resort-gra-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:34:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) says it would rather engage businesses and help them meet their tax obligations than shut down their operations, insisting that locking up offices and…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MTN Ghana to invest $1.1bn in 5G rollout, network expansion",
       "link": "https://ghanaiantimes.com.gh/mtn-ghana-to-invest-1-1bn-in-5g-rollout-network-expansion/",
@@ -81,6 +92,19 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "GSS seeks dedicated data budget line for MDAs",
+      "link": "https://www.myjoyonline.com/gss-seeks-dedicated-data-budget-line-for-mdas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:18:00.000Z",
+      "summary": "Dr Alhassan Iddrisu, the Government Statistician, has called on the Government to establish a dedicated budget line for data production across all Ministries, Departments and Agencies…",
+      "categories": [
+        "National",
+        "Data",
+        "GSS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
       "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
       "source": "Ghanaian Times",
@@ -91,6 +115,20 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama inaugurates Vaccine R&D Laboratories, DNA Laboratory",
+      "link": "https://www.myjoyonline.com/mahama-inaugurates-vaccine-rd-laboratories-dna-laboratory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:11:00.000Z",
+      "summary": "President John Mahama has inaugurated new Vaccine Research and Development (R&D) Laboratories and a Human Identification (DNA) Laboratory at the Noguchi Memorial Institute for Medical…",
+      "categories": [
+        "National",
+        "DNA",
+        "Mahama",
+        "Vaccine"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GSS demands urgent passage of Statistics Bill to secure funding",
@@ -178,49 +216,6 @@ window.GDC_PAPERS = {
         "National",
         "Asiama",
         "ECO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "High-powered NPC delegation engages Bono House of Chiefs on conflict resolution",
-      "link": "https://www.myjoyonline.com/high-powered-npc-delegation-engages-bono-house-of-chiefs-on-conflict-resolution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:44:00.000Z",
-      "summary": "A high-powered delegation from the National Peace Council (NPC) has met with key members of the Bono Regional House of Chiefs to explore strategies to resolve chieftaincy disputes in the…",
-      "categories": [
-        "National",
-        "Bono House of Chiefs",
-        "conflict",
-        "NPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
-      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2237bn-in-non-oil-tax-revenue-confident-of-meeting-year-end-goal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:33:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December.",
-      "categories": [
-        "Economy",
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
-      "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:30:07.000Z",
-      "summary": "Door solutions company, Doormaster, has unveiled an extensive range of more than 500 door designs with high durability to sever homes, offices and other accommodations.",
-      "categories": [
-        "Business",
-        "HP News 10",
-        "News",
-        "door",
-        "Doormaster"
       ],
       "site": "https://www.myjoyonline.com/"
     },
