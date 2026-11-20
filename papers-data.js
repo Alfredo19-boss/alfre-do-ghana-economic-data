@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:38:13.916Z",
+  "updated": "2026-11-20T04:43:14.214Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "MRI scans must not remain beyond patients’ reach",
+      "link": "https://ghanaiantimes.com.gh/mri-scans-must-not-remain-beyond-patients-reach/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:40:20.000Z",
+      "summary": "A medical diagnosis should never become a luxury that only those who can afford it can access. Yet, for some patients in the country suspected of having pineal region tumours, the cost of a…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Army reclaims 50 hectares of degraded Tano-Nimiri Forest Reserve",
       "link": "https://ghanaiantimes.com.gh/army-reclaims-50-hectares-of-degraded-tano-nimiri-forest-reserve/",
       "source": "Ghanaian Times",
@@ -31,6 +42,20 @@ window.GDC_PAPERS = {
         "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
+      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2237bn-in-non-oil-tax-revenue-confident-of-meeting-year-end-goal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:33:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December.",
+      "categories": [
+        "Economy",
+        "National",
+        "Anthony Kwasi Sarpong",
+        "GRA Commissioner-General"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Oware-Mensah’s GH¢38.4m trial adjourned to Nov 23",
@@ -146,19 +171,6 @@ window.GDC_PAPERS = {
         "International",
         "Donald Trump",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dozens missing off Senegal as West African departures for Europe surge",
-      "link": "https://www.myjoyonline.com/dozens-missing-off-senegal-as-west-african-departures-for-europe-surge/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T03:26:00.000Z",
-      "summary": "Authorities were searching for survivors on Thursday after a boat carrying dozens of migrants capsized ‌off Senegal's coast early the day before, local officials said, amid a surge in…",
-      "categories": [
-        "Africa",
-        "Migrants",
-        "Senegal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,18 +304,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-19T14:49:12.000Z",
       "summary": "Flagbearer of the New Patriotic Party (NPP) and former Vice President, Dr. Mahamudu Bawumia, has been hosted in Berlin by the Christian Democratic Union, (CDU), the party of the German…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Electroland Ghana launches ‘No Challenger Black Friday’",
-      "link": "https://ghanaiantimes.com.gh/electroland-ghana-launches-no-challenger-black-friday/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T14:45:42.000Z",
-      "summary": "Electroland Ghana Limited (EGL), has launched its biggest promotion ever, dubbed ‘No Challenger Black Friday’, to reward customers ahead of Christmas. The promotion will run for four days…",
       "categories": [
         "Hot!",
         "News"

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T04:38:12.811Z",
+  "updated": "2026-11-20T04:43:13.357Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
+      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2237bn-in-non-oil-tax-revenue-confident-of-meeting-year-end-goal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:33:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December."
+    },
     {
       "title": "Doormaster unveils over 500 door designs, offers 30% discount at Luv FM Habitat Fair",
       "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-17T14:55:48.000Z",
       "summary": "Loans grow 47.7%, non-performing loans ratio falls to 4.8%, while earnings per share rise 43.3%. Bank targets at least GH¢3.7bn profit before tax for 2026. GCB Bank PLC recorded a profit…"
-    },
-    {
-      "title": "COP31: Advocates urge funders to double clean air money for Africa, Asia and Latin America by COP32",
-      "link": "https://www.myjoyonline.com/cop31-advocates-urge-funders-to-double-clean-air-money-for-africa-asia-and-latin-america-by-cop32/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-17T14:50:48.000Z",
-      "summary": "Clean air advocates at COP31 have urged philanthropic funders to double their annual support for air quality initiatives in Africa, Latin America and parts of Asia, warning that inadequate…"
     }
   ]
 };
