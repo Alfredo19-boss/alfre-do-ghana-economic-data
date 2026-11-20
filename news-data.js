@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-20T18:33:02.194Z",
+  "updated": "2026-11-20T18:38:01.387Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (The operation was aborted due to timeout)"
   ],
   "items": [
+    {
+      "title": "Output per worker stood at 178% in 2025 – GSS",
+      "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:32:38.000Z",
+      "summary": "Over the same period, the Service said in its 2026 Productivity, Employment and Growth Report that the output rose by 38% in lower-middle-income Sub-Saharan African countries and by 31% in…"
+    },
     {
       "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
       "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T05:32:00.000Z",
       "summary": "China has said it is ready to support Ghana’s US$10 billion New Economy Programme through cooperation in artificial intelligence, green technology, agriculture, and industrial development."
-    },
-    {
-      "title": "Sliding-scale mining royalties generate GH¢7.8bn for Ghana – Mahama",
-      "link": "https://www.myjoyonline.com/sliding-scale-mining-royalties-generate-gh%c2%a27-8bn-for-ghana-mahama-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:09:00.000Z",
-      "summary": "President John Mahama says Ghana has generated GH¢7.8 billion in royalties from large-scale gold mining companies since the introduction of a sliding-scale royalty regime this year, as part…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T18:33:05.061Z",
+  "updated": "2026-11-20T18:38:04.148Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Output per worker stood at 178% in 2025 – GSS",
+      "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T18:32:38.000Z",
+      "summary": "Over the same period, the Service said in its 2026 Productivity, Employment and Growth Report that the output rose by 38% in lower-middle-income Sub-Saharan African countries and by 31% in…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Capital per work",
+        "GSS",
+        "ICT",
+        "output",
+        "Productivity"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Murdered Ghanaian teenager Javits laid to rest in New York as Mamdani, Al Sharpton, others pay tribute",
       "link": "https://www.myjoyonline.com/murdered-ghanaian-teenager-javits-laid-to-rest-in-new-york-as-mamdani-al-sharpton-others-pay-tribute/",
@@ -113,20 +130,6 @@ window.GDC_PAPERS = {
         "International",
         "Indian",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Children’s Day: Parents must involve children in decisions about their future – Akosua Antwiwah",
-      "link": "https://www.myjoyonline.com/world-childrens-day-parents-must-involve-children-in-decisions-about-their-future-akosua-antwiwah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:48:53.000Z",
-      "summary": "A participant in JoyNews’ World Children’s Day celebrations, Akosua Antwiwah, has urged parents to involve their children in decisions that affect their lives, arguing that they should have…",
-      "categories": [
-        "National",
-        "Akosua Antwiwah",
-        "Parents",
-        "World Children’s Day"
       ],
       "site": "https://www.myjoyonline.com/"
     },
