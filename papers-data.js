@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T03:33:14.611Z",
+  "updated": "2026-11-20T03:43:14.162Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "University of Ghana seeks legal clarity over rent control of student hostels",
+      "link": "https://www.myjoyonline.com/university-of-ghana-seeks-legal-clarity-over-rent-control-of-student-hostels/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:21:00.000Z",
+      "summary": "The University of Ghana has questioned whether the country’s rent laws can be applied to student accommodation managed by its commercial subsidiary, the University of Ghana Enterprises…",
+      "categories": [
+        "News",
+        "Hostel",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Drugs war: GACL boss flags threat from compromised officers",
       "link": "https://www.myjoyonline.com/drugs-war-gacl-boss-flags-threat-from-compromised-officers/",
@@ -116,18 +129,6 @@ window.GDC_PAPERS = {
         "News",
         "Doctor",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ringleader pleads guilty to $100 million US jewellery heist",
-      "link": "https://www.myjoyonline.com/ringleader-pleads-guilty-to-100-million-us-jewellery-heist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:59:00.000Z",
-      "summary": "The ringleader in a spate of truck burglaries pleaded guilty on Thursday to a federal robbery charge for his role in stealing roughly $100 million ​worth of jewellery from an armoured…",
-      "categories": [
-        "International",
-        "Jewellery heist"
       ],
       "site": "https://www.myjoyonline.com/"
     },
