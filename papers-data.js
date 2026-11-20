@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:53:13.516Z",
+  "updated": "2026-11-20T04:58:13.752Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "USTED VC cautions students against over-reliance on AI",
+      "link": "https://ghanaiantimes.com.gh/usted-vc-cautions-students-against-over-reliance-on-ai/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T04:55:28.000Z",
+      "summary": "The Vice-Chancellor of the University of Skills Training and Entrepreneurial Development (USTED), Professor Frederick K. Sarfo, has cautioned students against over-relying on Artificial…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Moving from public toilet mentality to a culture of household toilet ownership",
       "link": "https://ghanaiantimes.com.gh/moving-from-public-toilet-mentality-to-a-culture-of-household-toilet-ownership/",
@@ -240,18 +252,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AG issues directive to police, law enforcement agencies on due process in criminal investigations",
-      "link": "https://ghanaiantimes.com.gh/ag-issues-directive-to-police-law-enforcement-agencies-on-due-process-in-criminal-investigations/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-19T18:14:35.000Z",
-      "summary": "The Attorney General and Minister of Justice, has issued a Directive to the Police CID and other law enforcement agencies to regulate the conduct of criminal investigations and the handling…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Speaker Bagbin urges African parliaments to listen to citizens",
