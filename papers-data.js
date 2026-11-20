@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T04:03:13.514Z",
+  "updated": "2026-11-20T04:08:13.560Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,6 +49,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Dozens missing off Senegal as West African departures for Europe surge",
+      "link": "https://www.myjoyonline.com/dozens-missing-off-senegal-as-west-african-departures-for-europe-surge/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:26:00.000Z",
+      "summary": "Authorities were searching for survivors on Thursday after a boat carrying dozens of migrants capsized ‌off Senegal's coast early the day before, local officials said, amid a surge in…",
+      "categories": [
+        "Africa",
+        "Migrants",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "University of Ghana seeks legal clarity over rent control of student hostels",
       "link": "https://www.myjoyonline.com/university-of-ghana-seeks-legal-clarity-over-rent-control-of-student-hostels/",
       "source": "MyJoyOnline",
@@ -58,6 +71,21 @@ window.GDC_PAPERS = {
         "News",
         "Hostel",
         "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
+      "link": "https://www.myjoyonline.com/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T03:18:00.000Z",
+      "summary": "Oil prices edged higher on Friday, though set for a weekly decline, as concerns over supply disruptions grew following Houthi attacks on Saudi Arabia's capital Riyadh and ​reports of tanker…",
+      "categories": [
+        "International",
+        "Houthi attacks",
+        "Oil prices",
+        "Saudi Arabia",
+        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -96,34 +124,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Religious emails"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA conducting lifestyle audits to ensure tax compliance – Commissioner-General",
-      "link": "https://www.myjoyonline.com/gra-conducting-lifestyle-audits-to-ensure-tax-compliance-commissioner-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:41:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) is using lifestyle audits to check whether taxpayers’ declared incomes match their vehicle purchases and imported goods.",
-      "categories": [
-        "Economy",
-        "National",
-        "GRA Commissioner-General",
-        "Lifestyle audits"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drugs war: GACL boss flags threat from compromised officers",
-      "link": "https://www.myjoyonline.com/drugs-war-gacl-boss-flags-threat-from-compromised-officers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:33:00.000Z",
-      "summary": "The fight against drug trafficking at Ghana’s airports could be undermined by the very personnel assigned to detect it, the Managing Director of the Ghana Airports Company Limited (GACL)…",
-      "categories": [
-        "National",
-        "News",
-        "Cocaine",
-        "NACOC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
