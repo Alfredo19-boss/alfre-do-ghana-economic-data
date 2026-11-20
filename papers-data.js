@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:28:15.349Z",
+  "updated": "2026-11-20T05:33:14.995Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MTN Ghana to invest $1.1bn in 5G rollout, network expansion",
+      "link": "https://ghanaiantimes.com.gh/mtn-ghana-to-invest-1-1bn-in-5g-rollout-network-expansion/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:32:43.000Z",
+      "summary": "MTN Ghana is to invest US$1.1 billion over the next three years to expand its telecommunications infrastructure, improve network coverage and accelerate the deployment of 5G technology. The…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Emeritus Professor Fred Binka dies at 73",
+      "link": "https://ghanaiantimes.com.gh/emeritus-professor-fred-binka-dies-at-73/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:30:16.000Z",
+      "summary": "Ghanaian public health scientist and Emeritus Professor, Fred Newton Binka, has died at the age of 73. He died in Accra on November 15, 2026, the Binka family has announced. In a statement…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana to produce first locally manufactured vaccine by 2027 – Mahama",
+      "link": "https://www.myjoyonline.com/ghana-to-produce-first-locally-manufactured-vaccine-by-2027-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:27:52.000Z",
+      "summary": "Ghana is expected to produce its first locally manufactured vaccine, the tetanus-diphtheria vaccine, by the first quarter of 2027 as part of efforts to strengthen domestic vaccine…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Mahama",
+        "Vaccine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Producer inflation rises to 5.2% on mining sector pressures",
       "link": "https://ghanaiantimes.com.gh/producer-inflation-rises-to-5-2-on-mining-sector-pressures/",
@@ -81,6 +117,20 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Invest in Ghana, reach 450m West Africans – Finance Minister to investors",
+      "link": "https://www.myjoyonline.com/invest-in-ghana-reach-450m-west-africans-finance-minister-to-investors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:05:00.000Z",
+      "summary": "Dr Cassiel Ato Baah Forson, the Finance Minister, urged global investors to set up processing plants in Ghana to support the country’s value-addition agenda and tap into a market of more…",
+      "categories": [
+        "National",
+        "Finance Minister",
+        "Ghana",
+        "Investors"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "China advocates closer collaboration with Ghanaian publishers",
       "link": "https://ghanaiantimes.com.gh/china-advocates-closer-collaboration-with-ghanaian-publishers/",
       "source": "Ghanaian Times",
@@ -92,27 +142,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Create jobs with skills, not certificates alone — Education Director",
-      "link": "https://ghanaiantimes.com.gh/create-jobs-with-skills-not-certificates-alone-education-director/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:01:24.000Z",
-      "summary": "Young people have been admonished to look beyond academic certificates and acquire practical skills to create their own jobs. According to the Municipal Director of Education for La…",
+      "title": "Clinical trials critical to vaccine self-sufficiency – Mahama",
+      "link": "https://www.myjoyonline.com/clinical-trials-critical-to-vaccine-self-sufficiency-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T04:58:00.000Z",
+      "summary": "President John Dramani Mahama has urged Ghanaians to participate in clinical trials, saying public confidence in scientific research is essential for the country’s efforts to develop and…",
       "categories": [
-        "Hot!",
-        "News"
+        "National",
+        "Mahama",
+        "Vaccine"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "School campaign against deadly rabies launched in Ho",
-      "link": "https://ghanaiantimes.com.gh/school-campaign-against-deadly-rabies-launched-in-ho/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T04:58:24.000Z",
-      "summary": "The Volta Region has launched a school-based campaign to protect children from rabies following 182 reported dog-bite cases since 2023. The campaign, dubbed “Stop Rabies in Basic Schools,”…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
@@ -181,45 +221,6 @@ window.GDC_PAPERS = {
         "News",
         "door",
         "Doormaster"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Poor sales, mounting hardship – Techiman traders ask Minority MPs to speak for them",
-      "link": "https://www.myjoyonline.com/poor-sales-mounting-hardship-techiman-traders-ask-minority-mps-to-speak-for-them/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:13:00.000Z",
-      "summary": "Traders at the Techiman Market in the Bono East Region have appealed to Minority MPs to take their concerns to Parliament, saying poor sales and declining purchasing power are threatening…",
-      "categories": [
-        "Politics",
-        "Minority MPs",
-        "Techiman traders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government preparing to hire 8,000 more health workers – Prof Beyuo",
-      "link": "https://www.myjoyonline.com/government-preparing-to-hire-8000-more-health-workers-prof-beyuo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:12:45.000Z",
-      "summary": "Another 8,000 health professionals are expected to be recruited into the public health system, with the government preparing a second intake after bringing a similar number on board earlier…",
-      "categories": [
-        "Health",
-        "News",
-        "Beyou",
-        "nurses"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newly launched ‘Morocco Offer’ targets 50,000 jobs with defence industry push",
-      "link": "https://www.myjoyonline.com/newly-launched-morocco-offer-targets-50000-jobs-with-defence-industry-push/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:02:00.000Z",
-      "summary": "Morocco has unveiled a defence industry roadmap targeting approximately 50,000 direct and indirect jobs by 2035, as it seeks to expand local manufacturing and build an export-driven sector.",
-      "categories": [
-        "Africa",
-        "Morocco Offer"
       ],
       "site": "https://www.myjoyonline.com/"
     },
