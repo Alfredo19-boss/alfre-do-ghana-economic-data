@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T06:13:13.371Z",
+  "updated": "2026-11-20T06:23:13.369Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Eastern NDC youth organiser backs Opong-Fosu for National Chairmanship",
+      "link": "https://www.myjoyonline.com/eastern-ndc-youth-organiser-backs-opong-fosu-for-national-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:22:00.000Z",
+      "summary": "The Eastern Regional Youth Organiser of the National Democratic Congress (NDC), Richard Etornam Nyarko, has declared his support for former Local Government Minister Dr Akwasi Opong-Fosu in…",
+      "categories": [
+        "Politics",
+        "Eastern Region",
+        "National Chairmanship",
+        "NDC",
+        "Youth Organiser"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "My Day, My Rights, My Future",
+      "link": "https://www.myjoyonline.com/my-day-my-rights-my-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T06:20:00.000Z",
+      "summary": "Have you ever woken up and wondered what a child’s day looks like? Have you paused to imagine what goes through their minds, the dreams they have, and the challenges they face? Perhaps we…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "My Future"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
       "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
@@ -193,34 +222,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Judicial Service seeks government action to avert fresh strike",
-      "link": "https://www.myjoyonline.com/judicial-service-seeks-government-action-to-avert-fresh-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:44:00.000Z",
-      "summary": "The Judicial Service has appealed to the government to urgently address unresolved staff welfare issues, warning that delays could prompt two unions representing its employees to resume…",
-      "categories": [
-        "National",
-        "Government",
-        "Judicial Service",
-        "Strike"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Roads Minister Agbodza inducted as Fellow of Ghana Institute of Architects",
-      "link": "https://www.myjoyonline.com/roads-minister-agbodza-inducted-as-fellow-of-ghana-institute-of-architects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T05:39:00.000Z",
-      "summary": "Minister of Roads and Highways Kwame Governs Agbodza has been admitted as a Fellow of the Ghana Institute of Architects (GIA), in recognition of his association with the architectural…",
-      "categories": [
-        "National",
-        "Agbodza",
-        "Ghana",
-        "Roads Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Acting Chief Justice urges government to resolve judicial workers' grievances to avert possible fresh strike",
