@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T05:38:15.008Z",
+  "updated": "2026-11-20T05:43:13.863Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,73 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Man United threatens legal action over illegal approaches for JJ Gabriel",
+      "link": "https://ghanaiantimes.com.gh/man-united-threatens-legal-action-over-illegal-approaches-for-jj-gabriel/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:40:23.000Z",
+      "summary": "Manchester United are prepared to take legal action if there is proof that JJ Gabriel was illegally approached by other clubs. The 16-year-old announced his departure from United in a video…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Roads Minister Agbodza inducted as Fellow of Ghana Institute of Architects",
+      "link": "https://www.myjoyonline.com/roads-minister-agbodza-inducted-as-fellow-of-ghana-institute-of-architects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:39:00.000Z",
+      "summary": "Minister of Roads and Highways Kwame Governs Agbodza has been admitted as a Fellow of the Ghana Institute of Architects (GIA), in recognition of his association with the architectural…",
+      "categories": [
+        "National",
+        "Agbodza",
+        "Ghana",
+        "Roads Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FIFA unveils presidential candidates as Diallo, Tashima challenge Infantino",
+      "link": "https://ghanaiantimes.com.gh/fifa-unveils-presidential-candidates-as-diallo-tashima-challenge-infantino/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:38:46.000Z",
+      "summary": "FIFA President, Gianni Infantino’s re-election bid will be challenged by the French and Japanese federation presidents, Philippe Diallo and Kozo Tashima, the ‌global soccer body said…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Deepen your knowledge on Borrowers and Lenders Act … Ahmed Ibrahim urges real estate practitioners",
+      "link": "https://ghanaiantimes.com.gh/deepen-your-knowledge-on-borrowers-and-lenders-act-ahmed-ibrahim-urges-real-estate-practitioners/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-20T05:34:24.000Z",
+      "summary": "Real estate practitioners have been urged to deepen their understanding of the Borrowers and Lenders Act, 2020 (Act 1052), and the operations of the Collateral Registry to enhance…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Locking up business premises is our last resort – GRA boss",
       "link": "https://www.myjoyonline.com/locking-up-business-premises-is-our-last-resort-gra-boss/",
       "source": "MyJoyOnline",
       "published": "2026-11-20T05:34:00.000Z",
       "summary": "The Ghana Revenue Authority (GRA) says it would rather engage businesses and help them meet their tax obligations than shut down their operations, insisting that locking up offices and…",
       "categories": [
+        "HP News 3",
         "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament, accountability institutions call for new laws to regulate political financing",
+      "link": "https://www.myjoyonline.com/parliament-accountability-institutions-call-for-new-laws-to-regulate-political-financing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T05:33:00.000Z",
+      "summary": "Parliament, accountability institutions and development partners have renewed calls for comprehensive reform of Ghana’s political financing regime.",
+      "categories": [
+        "National",
+        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -131,30 +191,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GSS demands urgent passage of Statistics Bill to secure funding",
-      "link": "https://ghanaiantimes.com.gh/gss-demands-urgent-passage-of-statistics-bill-to-secure-funding/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:10:48.000Z",
-      "summary": "The Ghana Statistical Service (GSS) has called for the urgent passage of the proposed Statistics Bill to establish a National Statistics Fund and secure sustainable financing for the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GTA urges stakeholders to prioritise safety ahead of December in GH",
-      "link": "https://ghanaiantimes.com.gh/gta-urges-stakeholders-to-prioritise-safety-ahead-of-december-in-gh/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:07:40.000Z",
-      "summary": "The Ghana Tourism Authority (GTA) has urged stakeholders in the sector to protect the country’s peace and safety as the strongest selling points in attracting visitors. The Deputy Chief…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Invest in Ghana, reach 450m West Africans – Finance Minister to investors",
       "link": "https://www.myjoyonline.com/invest-in-ghana-reach-450m-west-africans-finance-minister-to-investors/",
       "source": "MyJoyOnline",
@@ -169,17 +205,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "China advocates closer collaboration with Ghanaian publishers",
-      "link": "https://ghanaiantimes.com.gh/china-advocates-closer-collaboration-with-ghanaian-publishers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T05:04:42.000Z",
-      "summary": "China has called for stronger partnerships with publishers in Ghana and other countries to promote its infrastructure development, expand cultural exchanges and deepen international…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Clinical trials critical to vaccine self-sufficiency – Mahama",
       "link": "https://www.myjoyonline.com/clinical-trials-critical-to-vaccine-self-sufficiency-mahama/",
       "source": "MyJoyOnline",
@@ -189,33 +214,6 @@ window.GDC_PAPERS = {
         "National",
         "Mahama",
         "Vaccine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
-      "link": "https://www.myjoyonline.com/the-last-two-months-are-also-very-strong-months-gra-confident-of-tax-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:51:00.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner General Anthony Kwasi Sarpong says strong collections in the final two months of the year will help the authority achieve its GH¢237 billion…",
-      "categories": [
-        "Economy",
-        "National",
-        "Anthony Kwasi Sarpong",
-        "GRA Commissioner-General"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bank of Ghana ready to adopt ECO currency – Governor Asiama",
-      "link": "https://www.myjoyonline.com/bank-of-ghana-ready-to-adopt-eco-currency-governor-asiama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:51:00.000Z",
-      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), says the Central Bank is ready to adopt the ECO, a proposed regional currency designed to reduce cross-border payment costs…",
-      "categories": [
-        "National",
-        "Asiama",
-        "ECO"
       ],
       "site": "https://www.myjoyonline.com/"
     },
