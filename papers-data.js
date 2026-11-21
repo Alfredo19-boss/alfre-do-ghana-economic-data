@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T18:33:28.674Z",
+  "updated": "2026-11-21T18:43:28.618Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -81,6 +81,7 @@ window.GDC_PAPERS = {
         "International",
         "National",
         "Politics",
+        "Top Story",
         "Africa",
         "Asiedu Nketiah",
         "Moscow",
@@ -130,7 +131,6 @@ window.GDC_PAPERS = {
       "summary": "A 32-year-old man has been remanded into police custody by the Madina District Court for allegedly stealing GH¢18,500 belonging to his girlfriend after she refused to loan him money to…",
       "categories": [
         "Crime",
-        "HP News 3",
         "News",
         "girlfriend’s money",
         "man",
