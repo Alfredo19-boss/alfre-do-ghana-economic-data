@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:59:17.378Z",
+  "updated": "2026-11-21T06:09:17.216Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -81,6 +81,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Mpraeso MP challenges Big Push figures in 2027 Budget",
+      "link": "https://www.myjoyonline.com/mpraeso-mp-challenges-big-push-figures-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:20:00.000Z",
+      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has questioned discrepancies in the financial allocations for the government’s Big Push infrastructure programme, demanding clarity…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Big Push",
+        "Mpraeso MP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "National Apprenticeship Programme: 13,309 graduate in fashion, farming and hospitality",
       "link": "https://www.myjoyonline.com/national-apprenticeship-programme-13309-graduate-in-fashion-farming-and-hospitality/",
       "source": "MyJoyOnline",
@@ -118,20 +132,6 @@ window.GDC_PAPERS = {
         "Bawumia",
         "Ghana",
         "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UNICEF pushes mother-tongue teaching to improve early learning",
-      "link": "https://www.myjoyonline.com/unicef-pushes-mother-tongue-teaching-to-improve-early-learning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T02:54:00.000Z",
-      "summary": "The United Nations Children’s Fund (UNICEF) has called for stronger implementation of mother-tongue instruction in the early years of basic education, saying children learn more effectively…",
-      "categories": [
-        "News",
-        "Children",
-        "Education",
-        "UNICEF"
       ],
       "site": "https://www.myjoyonline.com/"
     },
