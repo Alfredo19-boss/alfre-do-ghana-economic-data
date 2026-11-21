@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:39:17.041Z",
+  "updated": "2026-11-21T05:49:17.212Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GSA recovers GH¢400,000 rent arrears after High Court victory",
+      "link": "https://www.myjoyonline.com/gsa-recovers-gh%c2%a2400000-rent-arrears-after-high-court-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:40:07.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) has recovered about GH¢400,000 in unpaid rent after securing a High Court ruling that upholds its authority to enforce regulations under the Ghana…",
+      "categories": [
+        "News",
+        "Ghana",
+        "GSA",
+        "shippers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Food suppliers suspend planned picketing over unpaid arrears",
       "link": "https://www.myjoyonline.com/food-suppliers-suspend-planned-picketing-over-unpaid-arrears/",
@@ -116,19 +130,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Children",
-        "UNICEF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UNICEF calls for stronger voice for children in national decisions",
-      "link": "https://www.myjoyonline.com/unicef-calls-for-stronger-voice-for-children-in-national-decisions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T01:19:00.000Z",
-      "summary": "The United Nations Children’s Fund (UNICEF) has urged parents, policymakers and other adults to give children a stronger voice in decisions affecting their lives, warning that their rights…",
-      "categories": [
-        "News",
-        "Chidren",
         "UNICEF"
       ],
       "site": "https://www.myjoyonline.com/"
