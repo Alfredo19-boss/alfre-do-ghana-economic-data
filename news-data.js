@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T05:00:41.353Z",
+  "updated": "2026-11-21T05:10:42.786Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,34 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Tax Reliefs Could Bring Solar Power Within Reach of More Ghanaians",
+      "link": "https://thehighstreetjournal.com/tax-reliefs-could-bring-solar-power-within-reach-of-more-ghanaians/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:05:00.000Z",
+      "summary": "Proposed import duty and VAT exemptions could lower the cost of solar installations, opening up opportunities for households and businesses to reduce their dependence on the national grid."
+    },
+    {
+      "title": "Ghanaian Shoppers Put Affordability Ahead of Brand Loyalty",
+      "link": "https://thehighstreetjournal.com/ghanaian-shoppers-put-affordability-ahead-of-brand-loyalty/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:03:00.000Z",
+      "summary": "Ghana’s recovering FMCG market faces price-sensitive consumers, forcing businesses to rethink pack sizes, pricing, cost management and local innovation to protect sales and margins in 2027."
+    },
+    {
+      "title": "Ghana’s Productivity Gains Leave Workers Waiting For Better Pay",
+      "link": "https://thehighstreetjournal.com/ghanas-productivity-gains-leave-workers-waiting-for-better-pay/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:02:00.000Z",
+      "summary": "The average worker generated GH¢15,197 in economic output in 2025, but annual earnings stood at GH¢9,388, according to the Ghana Statistical Service."
+    },
+    {
+      "title": "Africa’s Health Financing, Sovereignty to Take Centre Stage at AHAIC 2027",
+      "link": "https://thehighstreetjournal.com/africas-health-financing-sovereignty-to-take-centre-stage-at-ahaic-2027/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:01:00.000Z",
+      "summary": "Africa’s health financing, sovereignty and access challenges will headline AHAIC 2027 in Kigali, as leaders seek continent-led solutions to strengthen healthcare systems and resilience."
+    },
     {
       "title": "Ghana’s 2030 Sanitation Target at Risk as 6 Million Still Practise Open Defecation",
       "link": "https://thehighstreetjournal.com/ghanas-2030-sanitation-target-at-risk-as-6-million-still-practise-open-defecation/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-18T07:20:31.000Z",
       "summary": "Whatever power you wield, either administrative or pollical, there is always an expiry date. For those who are in control of corporate organisations, there is always the day to step down…"
-    },
-    {
-      "title": "Government urged to increase investment in TVET education",
-      "link": "https://www.ghanabusinessnews.com/2026/11/18/government-urged-to-increase-investment-in-tvet-education/",
-      "source": "Ghana Business News",
-      "published": "2026-11-18T06:47:04.000Z",
-      "summary": "The government has been urged to prioritize investment in Technical, Vocational Education and Training (TVET) just as it is being done in promoting Science Technology Engineering and…"
-    },
-    {
-      "title": "Ghana government to establish medical tourism hub, complete Kumasi Theatre – Minister",
-      "link": "https://www.ghanabusinessnews.com/2026/11/18/ghana-government-to-establish-medical-tourism-hub-complete-kumasi-theatre-minister/",
-      "source": "Ghana Business News",
-      "published": "2026-11-18T06:44:29.000Z",
-      "summary": "Dr Casiel Ato Forson, the Minister of Finance, said the Government will establish a Ghana Medical Tourism Hub and complete a new National Theatre in Kumasi as part of efforts to strengthen…"
-    },
-    {
-      "title": "Gold Fields ready to invest in Tarkwa’s next phase as lease renewal awaits decision",
-      "link": "https://www.myjoyonline.com/gold-fields-ready-to-invest-in-tarkwas-next-phase-as-lease-renewal-awaits-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T06:11:02.000Z",
-      "summary": "Gold Fields Ghana says it is ready to invest further to extend the life of the Tarkwa mine, pending the outcome of its mining lease renewal application."
-    },
-    {
-      "title": "Cedi loses ground as depreciation slips further to 10.6% – BoG data",
-      "link": "https://www.myjoyonline.com/cedi-loses-ground-as-depreciation-slips-further-to-10-6-bog-data/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:48:49.000Z",
-      "summary": "The Ghana cedi is coming under renewed pressure, with its year-to-date depreciation against the US dollar reaching 10.6 per cent in November, up from 9.5 per cent in September."
     }
   ]
 };

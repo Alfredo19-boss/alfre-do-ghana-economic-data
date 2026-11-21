@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:01:11.789Z",
+  "updated": "2026-11-21T05:11:11.219Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UNICEF pushes mother-tongue teaching to improve early learning",
+      "link": "https://www.myjoyonline.com/unicef-pushes-mother-tongue-teaching-to-improve-early-learning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T02:54:00.000Z",
+      "summary": "The United Nations Children’s Fund (UNICEF) has called for stronger implementation of mother-tongue instruction in the early years of basic education, saying children learn more effectively…",
+      "categories": [
+        "News",
+        "Children",
+        "Education",
+        "UNICEF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Unregistered children risk exclusion from essential services — UNICEF",
       "link": "https://www.myjoyonline.com/unregistered-children-risk-exclusion-from-essential-services-unicef/",
@@ -126,19 +140,6 @@ window.GDC_PAPERS = {
         "Denmark",
         "Russia",
         "Ukraine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.myjoyonline.com/trump-threatens-ban-on-us-firms-building-ai-data-centres-overseas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T21:44:45.000Z",
-      "summary": "Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so.",
-      "categories": [
-        "News",
-        "AI data centre",
-        "Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },
