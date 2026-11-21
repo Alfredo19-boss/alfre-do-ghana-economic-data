@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T16:03:29.318Z",
+  "updated": "2026-11-21T16:13:28.470Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "South Africa reopens the business of winning Ghanaian travellers and corporate clients",
+      "link": "https://www.myjoyonline.com/south-africa-reopens-the-business-of-winning-ghanaian-travellers-and-corporate-clients/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T16:05:14.000Z",
+      "summary": "South Africa is stepping up efforts to rebuild confidence among Ghanaian travellers, business operators and corporate clients, as tourism stakeholders seek to turn recent travel sentiment…",
+      "categories": [
+        "Africa",
+        "National",
+        "Ghanaian travellers",
+        "South Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Protect local rice farmers – Dr Bawumia tells government",
+      "link": "https://www.myjoyonline.com/protect-local-rice-farmers-dr-bawumia-tells-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T16:02:04.000Z",
+      "summary": "The former Vice President and flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has called for a decisive shift in national policy to protect local rice producers from…",
+      "categories": [
+        "National",
+        "Dr Mahamudu Bawumia",
+        "local rice farmers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Obetsebi Lamptey to Pamprom road to reopen to traffic mid-December – GARID",
       "link": "https://www.myjoyonline.com/obetsebi-lamptey-to-pamprom-road-to-reopen-to-traffic-mid-december-garid/",
@@ -112,34 +139,6 @@ window.GDC_PAPERS = {
         "Black Challenge",
         "Ghana",
         "Mexico"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa is not poor. Africa is under-protected",
-      "link": "https://www.myjoyonline.com/africa-is-not-poor-africa-is-under-protected/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:13:42.000Z",
-      "summary": "Since the Dangote IPO, I have come across a number of articles that start like this: Africa is not xxx. It lacks xxx. I couldn't help but think about this sentiment from an actuarial…",
-      "categories": [
-        "Opinion",
-        "Africa",
-        "Poor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
-      "link": "https://www.myjoyonline.com/teacher-granted-gh%c2%a2100000-bail-over-alleged-sale-of-unregistered-drugs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:12:09.000Z",
-      "summary": "An Accra Circuit Court has granted GH¢100,000 bail with two sureties to a teacher arrested over the alleged sale of unregistered drugs.",
-      "categories": [
-        "Crime",
-        "National",
-        "Accra Circuit Court",
-        "Teacher",
-        "unregistered drugs"
       ],
       "site": "https://www.myjoyonline.com/"
     },
