@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T08:09:17.029Z",
+  "updated": "2026-11-21T08:19:16.956Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Livestream: Newsfile examines UG hostel fees, AG’s 48-hour detention directive and presidential jet purchase",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-examines-ug-hostel-fees-ags-48-hour-detention-directive-and-presidential-jet-purchase/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:09:23.000Z",
+      "summary": "The cost of student accommodation at the University of Ghana, the enforcement of constitutional rights of arrested persons and the government's decision to acquire a US$60.68 million…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "AG's 48-hour detention directive",
+        "Newsfile",
+        "presidential jet purchase",
+        "UG hostel fees"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GPL: NASCO presents prizes to Hearts of Oak duo for being best player and coach for October",
       "link": "https://www.myjoyonline.com/gpl-nasco-presents-prizes-to-hearts-of-oak-duo-for-being-best-player-and-coach-for-october/",
@@ -114,20 +131,6 @@ window.GDC_PAPERS = {
         "Bank of Ghana",
         "Gideon Boako",
         "rates"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mpraeso MP calls for greater Ghanaian ownership of economy under New Economy agenda",
-      "link": "https://www.myjoyonline.com/mpraeso-mp-calls-for-greater-ghanaian-ownership-of-economy-under-new-economy-agenda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:52:00.000Z",
-      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has called for greater Ghanaian ownership of the country’s economic opportunities, insisting that the government’s New Economy…",
-      "categories": [
-        "National",
-        "Davis Amsah Opoku",
-        "Government",
-        "Roads"
       ],
       "site": "https://www.myjoyonline.com/"
     },
