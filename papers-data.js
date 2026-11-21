@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:21:10.883Z",
+  "updated": "2026-11-21T05:39:17.041Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,38 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Food suppliers suspend planned picketing over unpaid arrears",
+      "link": "https://www.myjoyonline.com/food-suppliers-suspend-planned-picketing-over-unpaid-arrears/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:35:54.000Z",
+      "summary": "The Controlled Food Suppliers Association has given the Ghana Commodity Exchange (GCX) and the National Food Buffer Stock Company (NAFCO) a reprieve, suspending plans to picket the two…",
+      "categories": [
+        "News",
+        "Commodity",
+        "food suppliers",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Challenge make history with Turkey win to set up Amputee World Cup final against Morocco",
+      "link": "https://www.myjoyonline.com/black-challenge-make-history-with-turkey-win-to-set-up-amputee-world-cup-final-against-morocco/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:29:38.000Z",
+      "summary": "Ghana’s Black Challenge have reached the final of the 2026 Amputee Football World Cup for the first time in their history after beating defending champions Turkey 4-2 on penalties in the…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "National",
+        "News",
+        "Sports",
+        "2026 Amputee Football World Cup",
+        "Black Challenge"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "National Apprenticeship Programme: 13,309 graduate in fashion, farming and hospitality",
       "link": "https://www.myjoyonline.com/national-apprenticeship-programme-13309-graduate-in-fashion-farming-and-hospitality/",
       "source": "MyJoyOnline",
@@ -29,6 +61,35 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How Nkrumah secretly communicated with his cameraman Dr Chris Hesse, using a walking stick",
+      "link": "https://www.myjoyonline.com/how-nkrumah-secretly-communicated-with-his-cameraman-dr-chris-hesse-using-a-walking-stick/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T04:04:00.000Z",
+      "summary": "Ghana’s first President, Dr Kwame Nkrumah, had an unusual way of directing his personal cameraman, Rev. Dr Chris Tsui Hesse, without uttering a word — a discreet signalling system involving…",
+      "categories": [
+        "News",
+        "Chris Hesse",
+        "Dr Kwame Nkrumah",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia demands protection for Ghanaian rice farmers against cheap imports",
+      "link": "https://www.myjoyonline.com/bawumia-demands-protection-for-ghanaian-rice-farmers-against-cheap-imports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T03:29:00.000Z",
+      "summary": "The growing pressure from imported rice on local producers requires a fundamental rethink of Ghana’s agricultural and trade policies, New Patriotic Party (NPP) flagbearer Dr Mahamudu…",
+      "categories": [
+        "Agribusiness",
+        "News",
+        "Bawumia",
+        "Ghana",
+        "Rice"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -73,36 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "VIDEO: 8 As student Philipa Acquah’s final speech at GCTU before tragic death",
-      "link": "https://www.myjoyonline.com/video-8-as-student-philipa-acquahs-final-speech-at-gctu-before-tragic-death/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T00:26:00.000Z",
-      "summary": "A video showing Philipa Acquah confidently addressing fellow students at her university matriculation ceremony has emerged, offering a poignant reminder of a promising young life cut short…",
-      "categories": [
-        "Education",
-        "News",
-        "GCTU",
-        "Philipa Acquah",
-        "University"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Children’s Day: UNICEF raises alarm over one million out-of-school children in Ghana",
-      "link": "https://www.myjoyonline.com/world-childrens-day-unicef-raises-alarm-over-one-million-out-of-school-children-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T23:55:00.000Z",
-      "summary": "An estimated one million children in Ghana are missing out on education, raising concerns about the country’s efforts to guarantee every child access to quality learning, an education…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Children",
-        "UNICEF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "18-year-old UCC student wins Compassion Business Challenge with plastic recycling venture",
       "link": "https://www.graphic.com.gh/news/general-news/18-year-old-ucc-student-wins-compassion-business-challenge-with-plastic-recycling-venture.html",
       "source": "Daily Graphic",
@@ -112,34 +143,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghanaian children spend 12 years in school but learn for only five – UNICEF",
-      "link": "https://www.myjoyonline.com/ghanaian-children-spend-12-years-in-school-but-learn-for-only-five-unicef/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T23:29:00.000Z",
-      "summary": "Ghana is facing a serious learning crisis, with children spending nearly 12 years in basic education but acquiring only about five years’ worth of learning, an education specialist at…",
-      "categories": [
-        "News",
-        "Children",
-        "Education",
-        "UNICEF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "French police officers sentenced for beating music producer Michel Zecler",
-      "link": "https://www.myjoyonline.com/french-police-officers-sentenced-for-beating-music-producer-michel-zecler/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T22:47:00.000Z",
-      "summary": "Three French police officers have been convicted of beating up a black music producer six years ago in Paris in what the court upheld as an aggravated circumstance of racism.",
-      "categories": [
-        "International",
-        "Music",
-        "French",
-        "Music Producer"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "National Apprenticeship Programme is removing financial barriers to skills training — NYA CEO",
