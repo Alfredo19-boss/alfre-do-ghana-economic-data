@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T10:54:17.845Z",
+  "updated": "2026-11-21T11:04:16.797Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UGEL hostel charges among lowest compared to private facilities – Prof Abekah-Nkrumah",
+      "link": "https://www.myjoyonline.com/ugel-hostel-charges-among-lowest-compared-to-private-facilities-prof-abekah-nkrumah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T11:01:30.000Z",
+      "summary": "The University of Ghana says accommodation fees charged by the University of Ghana Enterprises Limited (UGEL) remain among the lowest compared to privately operated hostels, despite…",
+      "categories": [
+        "National",
+        "News",
+        "private facilities",
+        "Prof. Gordon Abekah-Nkrumah",
+        "UGEL hostel charges"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A-G’s directive on suspects’ rights must translate into action, not just promises – Sulemana Braimah",
+      "link": "https://www.myjoyonline.com/a-gs-directive-on-suspects-rights-must-translate-into-action-not-just-promises-sulemana-braimah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T11:00:07.000Z",
+      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, has cautioned that the Attorney-General’s directive on protecting the rights of arrested persons…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "AG",
+        "Sulemana Braimah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "High Court rules that Anlo Traditional Council lacks jurisdiction to adjudicate Atorkor chieftaincy dispute",
       "link": "https://www.myjoyonline.com/high-court-rules-that-anlo-traditional-council-lacks-jurisdiction-to-adjudicate-atorkor-chieftaincy-dispute/",
@@ -42,7 +71,6 @@ window.GDC_PAPERS = {
       "summary": "Professor at the University of Ghana School of Law, Kwadwo Appiagyei-Atua, has challenged the University of Ghana Enterprise Limited (UGEL) to submit its accommodation charges to legal…",
       "categories": [
         "Education",
-        "HP News 7",
         "Kwadwo Appiagyei-Atua",
         "UGEL"
       ],
@@ -105,22 +133,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I initiated Gold Fields support for you – Sports Minister says as he praises Black Challenge for reaching Amputee World Cup final",
-      "link": "https://www.myjoyonline.com/i-initiated-gold-fields-support-for-you-sports-minister-says-as-he-praises-black-challenge-for-reaching-amputee-world-cup-final/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:47:54.000Z",
-      "summary": "The Black Challenge advanced into the final after beating defending champions Turkey on penalties in the semifinals in the early hours of Saturday.",
-      "categories": [
-        "Football",
-        "National",
-        "Amputee Football World Cup",
-        "Black Challenge",
-        "Gold Fields",
-        "Kofi Adams"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
       "link": "https://www.graphic.com.gh/news/general-news/teacher-granted-ghc100-000-bail-over-alleged-sale-of-unregistered-drugs.html",
       "source": "Daily Graphic",
@@ -141,24 +153,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Universities charging students for accommodation must comply with rent laws – Abraham Amaliba",
-      "link": "https://www.myjoyonline.com/universities-charging-students-for-accommodation-must-comply-with-rent-laws-abraham-amaliba/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:36:07.000Z",
-      "summary": "The Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, says universities that charge students for accommodation should be subject to rent regulation, arguing…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Abraham Amaliba",
-        "accommodation",
-        "Rent laws",
-        "Students",
-        "Universities"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ensign Global University graduates 65 public health students at 11th congregation",
