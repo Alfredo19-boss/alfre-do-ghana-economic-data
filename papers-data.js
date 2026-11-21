@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T19:13:28.546Z",
+  "updated": "2026-11-21T19:23:28.848Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
+      "link": "https://www.myjoyonline.com/senior-high-schools-still-using-firewood-and-charcoal-in-their-kitchens-urged-to-adopt-lpg/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:12:28.000Z",
+      "summary": "Senior high schools still using firewood and charcoal in their kitchens have been urged to adopt Liquefied Petroleum Gas (LPG) because of health consequences of prolonged exposure to…",
+      "categories": [
+        "Education",
+        "National",
+        "Firewood",
+        "LPG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mamdani announces plan to close New York’s Rikers Island jail by 2032",
+      "link": "https://www.myjoyonline.com/mamdani-announces-plan-to-close-new-yorks-rikers-island-jail-by-2032/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:11:48.000Z",
+      "summary": "New York City's official overseeing the closure of the city's most notorious jail hopes a new plan from Mayor Zohran Mamdani will lead to \"a moment of transformation\" for how people are…",
+      "categories": [
+        "International",
+        "Mamdani",
+        "New York",
+        "Rikers Island"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man killed in suspected scrambler hit-and-run",
+      "link": "https://www.myjoyonline.com/man-killed-in-suspected-scrambler-hit-and-run/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:11:27.000Z",
+      "summary": "A man has been killed following a collision with a vehicle believed to be a scrambler motorcycle, gardaí (Irish police) have said.",
+      "categories": [
+        "International",
+        "scrambler"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Universities must rethink media education as media industry shifts towards entrepreneurship – Prof Sikanku",
+      "link": "https://www.myjoyonline.com/universities-must-rethink-media-education-as-media-industry-shifts-towards-entrepreneurship-prof-sikanku/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:10:48.000Z",
+      "summary": "Associate Professor of Journalism and Political Communication and Dean of the School of Journalism and Media Studies (SOJAMS) at the University of Media, Arts and Communication (UniMAC)…",
+      "categories": [
+        "Education",
+        "National",
+        "Media Education",
+        "Professor Godwin Etse Sikanku",
+        "Universities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Leadership is not personal property’ – ASWAJ reaffirms NADAC’s sole authority to elect National Imam",
       "link": "https://www.myjoyonline.com/leadership-is-not-personal-property-aswaj-reaffirms-nadacs-sole-authority-to-elect-national-imam/",
@@ -83,73 +138,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Asiedu Nketiah urges Africa to turn reparations declarations into practical action",
-      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-africa-to-turn-reparations-declarations-into-practical-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T17:39:28.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called on African governments and political leaders to move beyond declarations on reparative…",
-      "categories": [
-        "International",
-        "National",
-        "Politics",
-        "Top Story",
-        "Africa",
-        "Asiedu Nketiah",
-        "Moscow",
-        "Movement for Freedom of Nations Assembly",
-        "Reparations"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ashantis deserve more than loans of their stolen royal regalia – Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/ashantis-deserve-more-than-loans-of-their-stolen-royal-regalia-asiedu-nketiah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T17:33:45.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, says the Asante people deserve more than temporary access to their royal heritage, insisting that…",
-      "categories": [
-        "HP News 1",
-        "International",
-        "National",
-        "Politics",
-        "African Union",
-        "Asiedu Nketiah",
-        "Moscow",
-        "Movement for Freedom of Nations"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bono East Regional Minister reaffirms gov’t commitment to infrastructure and job creation at Offuman Fofie Yam Festival",
-      "link": "https://www.myjoyonline.com/bono-east-regional-minister-reaffirms-govt-commitment-to-infrastructure-and-job-creation-at-offuman-fofie-yam-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T17:05:32.000Z",
-      "summary": "The Bono East Regional Minister, Francis Owusu Antwi, joined the Paramount Chief of the Offuman Traditional Area, Nana Kwaku Gyan Borokuo II, for the grand durbar of the Offuman Traditional…",
-      "categories": [
-        "Regional",
-        "Bono East Regional Minister",
-        "Francis Owusu Antwi",
-        "infrastructure and job creation",
-        "Offuman Fofie Yam Festival"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man remanded for allegedly stealing girlfriend’s GH¢18,500",
-      "link": "https://www.myjoyonline.com/man-remanded-for-allegedly-stealing-girlfriends-gh%c2%a218500/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T16:36:25.000Z",
-      "summary": "A 32-year-old man has been remanded into police custody by the Madina District Court for allegedly stealing GH¢18,500 belonging to his girlfriend after she refused to loan him money to…",
-      "categories": [
-        "Crime",
-        "News",
-        "girlfriend’s money",
-        "man",
-        "Stealing"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "KsTU matriculates over 9,000 students for 2026/2027 academic year",
