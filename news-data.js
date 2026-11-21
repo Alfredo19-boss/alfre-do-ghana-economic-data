@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T09:28:46.294Z",
+  "updated": "2026-11-21T09:38:46.208Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bold Flavors, Fine Craft, and High-Level Backing Energize GEXPO 2026 in Accra",
+      "link": "https://thehighstreetjournal.com/bold-flavors-fine-craft-and-high-level-backing-energize-gexpo-2026-in-accra/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T09:31:53.000Z",
+      "summary": "GEXPO 2026 showcases Ghanaian enterprise, from innovative cocoa products and local beverages to quality apparel, natural beauty products and contemporary crafts, attracting strong…"
+    },
     {
       "title": "Brisk Buying Expected at GEXPO as the Weekend Kicks In",
       "link": "https://thehighstreetjournal.com/brisk-buying-expected-at-gexpo-as-the-weekend-kicks-in/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T10:47:53.000Z",
       "summary": "The country obtained 121 of 173 valid votes in Region D, renewing its representation on the governing body of the United Nations agency responsible for coordinating international…"
-    },
-    {
-      "title": "Deloitte Urges Energy-Intensive Businesses to Consider Solar After Gov’t’s Tax Exemptions on Solar Equipment",
-      "link": "https://thehighstreetjournal.com/deloitte-urges-energy-intensive-businesses-to-consider-solar-after-govts-tax-exemptions-on-solar-equipment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T10:25:00.000Z",
-      "summary": "Deloitte urges energy-intensive businesses to consider solar investments following proposed import duty and VAT exemptions on solar panels and batteries, saying the incentives could reduce…"
     }
   ]
 };

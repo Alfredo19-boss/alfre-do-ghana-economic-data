@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:29:17.004Z",
+  "updated": "2026-11-21T09:39:17.923Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "German President Steinmeier to visit Ghana on November 24",
+      "link": "https://www.graphic.com.gh/news/general-news/german-president-steinmeier-to-visit-ghana-on-november-24.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T09:38:12.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Universities charging students for accommodation must comply with rent laws – Abraham Amaliba",
+      "link": "https://www.myjoyonline.com/universities-charging-students-for-accommodation-must-comply-with-rent-laws-abraham-amaliba/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:36:07.000Z",
+      "summary": "The Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, says universities that charge students for accommodation should be subject to rent regulation, arguing…",
+      "categories": [
+        "National",
+        "News",
+        "Abraham Amaliba",
+        "accommodation",
+        "Rent laws",
+        "Students",
+        "Universities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ensign Global University graduates 65 public health students at 11th congregation",
+      "link": "https://www.graphic.com.gh/news/education/ensign-global-university-graduates-65-public-health-students-at-11th-congregation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T09:28:29.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Fifteen youth startups receive GH¢210,000 in seed funding under compassion business challenge",
       "link": "https://www.myjoyonline.com/fifteen-youth-startups-receive-gh%c2%a2210000-in-seed-funding-under-compassion-business-challenge/",
@@ -118,21 +157,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UniMAC inducts Ernest Ofori Sarpong as first Chancellor, secures GH¢10m government funding",
-      "link": "https://www.myjoyonline.com/unimac-inducts-ernest-ofori-sarpong-as-first-chancellor-secures-gh%c2%a210m-government-funding/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:47:42.000Z",
-      "summary": "The University of Media, Arts and Communication (UniMAC) has inducted businessman Ernest Ofori Sarpong as its first Chancellor, with the government announcing GH¢10 million in seed funding…",
-      "categories": [
-        "Education",
-        "National",
-        "Chancellor",
-        "Ernest Ofori Sarpong",
-        "UNIMAC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Javits Frimpong laid to rest in the Bronx",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-javits-frimpong-laid-to-rest-in-the-bronx.html",
       "source": "Daily Graphic",
@@ -192,28 +216,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/how-nkrumah-secretly-directed-cameraman-chris-hesse-using-a-walking-stick-revealed-in-the-eyes-of-ghana-documentary.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T18:33:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Protect local rice farmers, Dr Bawumia tells government",
-      "link": "https://www.graphic.com.gh/news/politics/protect-local-rice-farmers-dr-bawumia-tells-government.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T17:05:10.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA arrests 3 China Mall operators, invites 13 for VAT invoice audit",
-      "link": "https://www.graphic.com.gh/news/general-news/gra-arrests-3-china-mall-operators-invites-13-for-vat-invoice-audit.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T16:54:09.000Z",
       "summary": "",
       "categories": [
         "General News"
