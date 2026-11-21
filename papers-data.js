@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:59:17.462Z",
+  "updated": "2026-11-21T10:09:15.955Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Rent Control registers 3,000 landlords in Greater Accra in three months – Commissioner",
+      "link": "https://www.myjoyonline.com/rent-control-registers-3000-landlords-in-greater-accra-in-three-months-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T10:03:33.000Z",
+      "summary": "The Acting Rent Control Commissioner, Frederick Opoku, says the Rent Control Department has registered about 3,000 landlords in the Greater Accra Region within the last three months as part…",
+      "categories": [
+        "National",
+        "Greater Accra",
+        "Landlords",
+        "Rent Control"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31: AbibiNsroma Foundation urges governments to turn climate pledges into action",
       "link": "https://www.myjoyonline.com/cop31-abibinsroma-foundation-urges-governments-to-turn-climate-pledges-into-action/",
@@ -157,24 +171,10 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘3 Shots For Baby Jesus’ brings Accra nightlife to theatre this Christmas",
-      "link": "https://www.myjoyonline.com/3-shots-for-baby-jesus-brings-accra-nightlife-to-theatre-this-christmas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:07:04.000Z",
-      "summary": "Audiences at 3 Shots For Baby Jesus, the new Christmas play by Ghanaian filmmaker and playwright Joewackle J. Kusi, will spend the evening as customers of a struggling bar in Accra…",
-      "categories": [
-        "HP Entertainment 1",
-        "Theatre",
-        "3 Shots For Baby Jesus",
-        "Accra"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Javits Frimpong laid to rest in the Bronx",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-javits-frimpong-laid-to-rest-in-the-bronx.html",
+      "title": "Festival to revive Nana Yaa Asantewaa’s legacy, restore fire-ravaged museum",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-festival-to-revive-nana-yaa-asantewaas-legacy-restore-fire-ravaged-museum.html",
       "source": "Daily Graphic",
-      "published": "2026-11-21T02:29:38.000Z",
+      "published": "2026-11-21T04:25:11.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -182,10 +182,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "18-year-old UCC student wins Compassion Business Challenge with plastic recycling venture",
-      "link": "https://www.graphic.com.gh/news/general-news/18-year-old-ucc-student-wins-compassion-business-challenge-with-plastic-recycling-venture.html",
+      "title": "Teacher turns creativity into agritourism venture in Oti Region",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-teacher-turns-creativity-into-agritourism-venture-in-oti-region.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T23:42:54.000Z",
+      "published": "2026-11-21T04:11:11.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -193,10 +193,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "National Apprenticeship Programme is removing financial barriers to skills training — NYA CEO",
-      "link": "https://www.graphic.com.gh/news/general-news/national-apprenticeship-programme-is-removing-financial-barriers-to-skills-training-nya-ceo.html",
+      "title": "Strengthen, implement programmes to eliminate abuse against children - Govt told",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-strengthen-implement-programmes-to-eliminate-abuse-against-children-govt-told.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T20:48:01.000Z",
+      "published": "2026-11-21T03:45:15.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -204,10 +204,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Court injunction stops CLOGSAG congress scheduled for November 23-25",
-      "link": "https://www.graphic.com.gh/news/general-news/court-injunction-stops-clogsag-congress-scheduled-for-november-23-25.html",
+      "title": "Roads Ministry, GIZ, partners sign agreement to improve road construction quality",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-roads-ministry-giz-partners-sign-agreement-to-improve-road-construction-quality.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T19:42:26.000Z",
+      "published": "2026-11-21T03:41:54.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -215,10 +215,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Airbus delivers ACH160: What you need to know about the high-tech helicopter joining Ghana's Air Force",
-      "link": "https://www.graphic.com.gh/news/general-news/airbus-delivers-ach160-what-you-need-to-know-about-the-high-tech-helicopter-joining-ghanas-air-force.html",
+      "title": "GBC launches 5-year strategic plan to drive digital transformation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gbc-launches-5-year-strategic-plan-to-drive-digital-transformation.html",
       "source": "Daily Graphic",
-      "published": "2026-11-20T19:16:52.000Z",
+      "published": "2026-11-21T03:38:26.000Z",
       "summary": "",
       "categories": [
         "General News"
