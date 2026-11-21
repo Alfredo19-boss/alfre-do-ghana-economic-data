@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T17:43:28.760Z",
+  "updated": "2026-11-21T17:53:28.981Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Asiedu Nketiah urges Africa to turn reparations declarations into practical action",
+      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-africa-to-turn-reparations-declarations-into-practical-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T17:39:28.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called on African governments and political leaders to move beyond declarations on reparative…",
+      "categories": [
+        "International",
+        "National",
+        "Politics",
+        "Africa",
+        "Asiedu Nketiah",
+        "Moscow",
+        "Movement for Freedom of Nations Assembly",
+        "Reparations"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ashantis deserve more than loans of their stolen royal regalia – Asiedu Nketiah",
       "link": "https://www.myjoyonline.com/ashantis-deserve-more-than-loans-of-their-stolen-royal-regalia-asiedu-nketiah/",
@@ -119,24 +137,6 @@ window.GDC_PAPERS = {
         "News",
         "GARID",
         "Obetsebi Lamptey to Pamprom road"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana to vote for Infantino’s re-election as all 54 CAF nations back FIFA president",
-      "link": "https://www.myjoyonline.com/ghana-to-vote-for-infantinos-re-election-as-all-54-caf-nations-back-fifa-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:53:24.000Z",
-      "summary": "Ghana will vote for Gianni Infantino in the March 2027 FIFA presidential election after all 54 member associations of the Confederation of African Football (CAF), including the Ghana…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "FIFA elections",
-        "GFA",
-        "Ghana FA",
-        "Gianni Infantino",
-        "Kurt Okraku",
-        "Phillepe Diallo"
       ],
       "site": "https://www.myjoyonline.com/"
     },
