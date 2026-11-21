@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:39:17.923Z",
+  "updated": "2026-11-21T09:49:16.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -38,6 +38,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T09:36:07.000Z",
       "summary": "The Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, says universities that charge students for accommodation should be subject to rent regulation, arguing…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "Abraham Amaliba",
@@ -95,6 +96,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T09:16:48.000Z",
       "summary": "A National Communications Member of the New Patriotic Party (NPP), Kofi Tonto, says Ghana has neglected discussions on the country's rental challenges, blaming successive governments, the…",
       "categories": [
+        "HP News 2",
         "National",
         "Ghana",
         "Kofi Tonto"
@@ -122,6 +124,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T09:06:25.000Z",
       "summary": "International corporate lawyer and entrepreneur Vicky Bright says emotional outbursts and public confrontations over university hostel fees will not resolve Ghana’s longstanding student…",
       "categories": [
+        "HP News 3",
         "National",
         "News",
         "Emotional outbursts",
