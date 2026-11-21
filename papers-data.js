@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T18:23:29.449Z",
+  "updated": "2026-11-21T18:33:28.674Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Man’s penis reattached at Korle Bu Teaching Hospital after accident",
+      "link": "https://www.myjoyonline.com/mans-penis-reattached-at-korle-bu-teaching-hospital-after-accident/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T18:24:02.000Z",
+      "summary": "Surgeons at the Korle Bu Teaching Hospital have successfully reattached a man’s severed penis in a rare and complex procedure, the hospital’s Board Chair, Professor Titus Beyuo, has…",
+      "categories": [
+        "Health",
+        "HP News 4",
+        "Korle Bu",
+        "penis"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Give us back our school’ – Mfantsipim Old Boys appeal to government",
+      "link": "https://www.myjoyonline.com/give-us-back-our-school-mfantsipim-old-boys-appeal-to-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T18:22:53.000Z",
+      "summary": "The Mfantsipim Old Boys Association (MOBA) has called on the government to reconsider the management structure of Mfantsipim School and allow the association to assume greater…",
+      "categories": [
+        "Education",
+        "National",
+        "Mfantsipim Old Boys"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Techiman North inaugurates 58 sanitation guards to boost cleanliness and create jobs",
       "link": "https://www.myjoyonline.com/techiman-north-inaugurates-58-sanitation-guards-to-boost-cleanliness-and-create-jobs/",
@@ -122,34 +149,6 @@ window.GDC_PAPERS = {
         "CID",
         "KOANS",
         "Okyenhene"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Africa reopens the business of winning Ghanaian travellers and corporate clients",
-      "link": "https://www.myjoyonline.com/south-africa-reopens-the-business-of-winning-ghanaian-travellers-and-corporate-clients/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T16:05:14.000Z",
-      "summary": "South Africa is stepping up efforts to rebuild confidence among Ghanaian travellers, business operators and corporate clients, as tourism stakeholders seek to turn recent travel sentiment…",
-      "categories": [
-        "Africa",
-        "National",
-        "Ghanaian travellers",
-        "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Protect local rice farmers – Dr Bawumia tells government",
-      "link": "https://www.myjoyonline.com/protect-local-rice-farmers-dr-bawumia-tells-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T16:02:04.000Z",
-      "summary": "The former Vice President and flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has called for a decisive shift in national policy to protect local rice producers from…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Dr Mahamudu Bawumia",
-        "local rice farmers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
