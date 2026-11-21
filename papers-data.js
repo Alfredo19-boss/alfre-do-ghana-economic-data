@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T14:13:28.627Z",
+  "updated": "2026-11-21T14:23:29.256Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Africa is not poor. Africa is under-protected",
+      "link": "https://www.myjoyonline.com/africa-is-not-poor-africa-is-under-protected/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:13:42.000Z",
+      "summary": "Since the Dangote IPO, I have come across a number of articles that start like this: Africa is not xxx. It lacks xxx. I couldn't help but think about this sentiment from an actuarial…",
+      "categories": [
+        "Opinion",
+        "Africa",
+        "Poor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
       "link": "https://www.myjoyonline.com/teacher-granted-gh%c2%a2100000-bail-over-alleged-sale-of-unregistered-drugs/",
@@ -131,18 +144,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kofi Tonto backs purchase of presidential jet but says Ghana should have acquired a bigger aircraft",
-      "link": "https://www.myjoyonline.com/kofi-tonto-backs-purchase-of-presidential-jet-but-says-ghana-should-have-acquired-a-bigger-aircraft/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T12:25:18.000Z",
-      "summary": "A National Communications Member of the New Patriotic Party (NPP), Kofi Tonto, has defended the government's decision to acquire a new presidential aircraft, arguing that the President…",
+      "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
+      "link": "https://www.graphic.com.gh/news/general-news/npa-pushes-lpg-adoption-in-boarding-schools-to-replace-firewood-charcoal-over-health-concerns.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T12:22:10.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Aircraft",
-        "Ghana",
-        "Kofi Tonto"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Obetsebi Lamptey to Pamprom stretch to reopen mid-December - GARID",
@@ -207,17 +217,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Festival to revive Nana Yaa Asantewaa’s legacy, restore fire-ravaged museum",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-festival-to-revive-nana-yaa-asantewaas-legacy-restore-fire-ravaged-museum.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T04:25:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
