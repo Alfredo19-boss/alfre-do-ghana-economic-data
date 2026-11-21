@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T07:38:45.374Z",
+  "updated": "2026-11-21T07:48:47.046Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bank of Ghana is ready to adopt ECO currency – Governor",
+      "link": "https://www.ghanabusinessnews.com/2026/11/21/bank-of-ghana-is-ready-to-adopt-eco-currency-governor/",
+      "source": "Ghana Business News",
+      "published": "2026-11-21T07:48:22.000Z",
+      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), says the Central Bank is ready to adopt the ECO, a proposed regional currency designed to reduce cross-border payment costs…"
+    },
     {
       "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
       "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T09:23:00.000Z",
       "summary": "Societe Generale (SG) Ghana has launched a new offer called the Professional Plus Offer designed for Professionals looking to establish or expand their private practices and businesses. The…"
-    },
-    {
-      "title": "Affordability, margin pressure, innovation to drive consumption in 2027, FMCGs urged to prepare",
-      "link": "https://www.myjoyonline.com/affordability-margin-pressure-innovation-to-drive-consumption-in-2027-fmcgs-urged-to-prepare/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T09:19:47.000Z",
-      "summary": "Fast-moving consumer goods (FMCG) companies operating in Ghana have been urged to make affordability, preparation for margin pressure, and locally relevant innovation central to their…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T07:39:16.138Z",
+  "updated": "2026-11-21T07:49:17.471Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GPL: NASCO presents prizes to Hearts of Oak duo for being best player and coach for October",
+      "link": "https://www.myjoyonline.com/gpl-nasco-presents-prizes-to-hearts-of-oak-duo-for-being-best-player-and-coach-for-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T07:40:16.000Z",
+      "summary": "NASCO Electronics, through its parent company Electroland Ghana Limited, has presented prizes to Accra Hearts of Oak duo Nebojsa Kapor and Kelvin Osei Asibey after the pair were named the…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Hearts of Oak",
+        "Kelvin Osei Asibey",
+        "NASCO Coach of the Month",
+        "NASCO Player of the Month",
+        "Nebosja Kapor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GTA 6 sales hit $3.8bn in a single day – the biggest entertainment launch in history",
       "link": "https://www.myjoyonline.com/gta-6-sales-hit-3-8bn-in-a-single-day-the-biggest-entertainment-launch-in-history/",
@@ -112,21 +129,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "GSA",
         "shippers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Food suppliers suspend planned picketing over unpaid arrears",
-      "link": "https://www.myjoyonline.com/food-suppliers-suspend-planned-picketing-over-unpaid-arrears/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:35:54.000Z",
-      "summary": "The Controlled Food Suppliers Association has given the Ghana Commodity Exchange (GCX) and the National Food Buffer Stock Company (NAFCO) a reprieve, suspending plans to picket the two…",
-      "categories": [
-        "HP News 1",
-        "News",
-        "Commodity",
-        "food suppliers",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
