@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T21:36:35.557Z",
+  "updated": "2026-11-21T21:56:35.936Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "“Even if it keeps you out of power, support $10bn programme” – Mahama to Minority",
+      "link": "https://www.myjoyonline.com/even-if-it-keeps-you-out-of-power-support-10bn-programme-mahama-to-minority/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T21:48:12.000Z",
+      "summary": "President John Dramani Mahama has urged the Minority in Parliament to support the government’s $10 billion New Economy programme, saying its success would benefit Ghana even if it prolongs…",
+      "categories": [
+        "National",
+        "Mahama",
+        "Minority",
+        "NDC",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nii Lante Vanderpuye promises pension scheme for NDC workers if elected National Chairman",
       "link": "https://www.myjoyonline.com/nii-lante-vanderpuye-promises-pension-scheme-for-ndc-workers-if-elected-national-chairman/",
@@ -134,18 +149,6 @@ window.GDC_PAPERS = {
         "Mamdani",
         "New York",
         "Rikers Island"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man killed in suspected scrambler hit-and-run",
-      "link": "https://www.myjoyonline.com/man-killed-in-suspected-scrambler-hit-and-run/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:11:27.000Z",
-      "summary": "A man has been killed following a collision with a vehicle believed to be a scrambler motorcycle, gardaí (Irish police) have said.",
-      "categories": [
-        "International",
-        "scrambler"
       ],
       "site": "https://www.myjoyonline.com/"
     },
