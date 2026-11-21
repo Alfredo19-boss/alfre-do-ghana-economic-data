@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T07:49:17.471Z",
+  "updated": "2026-11-21T07:59:17.114Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -118,17 +118,16 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GSA recovers GH¢400,000 rent arrears after High Court victory",
-      "link": "https://www.myjoyonline.com/gsa-recovers-gh%c2%a2400000-rent-arrears-after-high-court-victory/",
+      "title": "Mpraeso MP calls for greater Ghanaian ownership of economy under New Economy agenda",
+      "link": "https://www.myjoyonline.com/mpraeso-mp-calls-for-greater-ghanaian-ownership-of-economy-under-new-economy-agenda/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T05:40:07.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) has recovered about GH¢400,000 in unpaid rent after securing a High Court ruling that upholds its authority to enforce regulations under the Ghana…",
+      "published": "2026-11-21T05:52:00.000Z",
+      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has called for greater Ghanaian ownership of the country’s economic opportunities, insisting that the government’s New Economy…",
       "categories": [
-        "HP News 4",
-        "News",
-        "Ghana",
-        "GSA",
-        "shippers"
+        "National",
+        "Davis Amsah Opoku",
+        "Government",
+        "Roads"
       ],
       "site": "https://www.myjoyonline.com/"
     },

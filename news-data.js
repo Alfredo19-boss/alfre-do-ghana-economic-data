@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T07:48:47.046Z",
+  "updated": "2026-11-21T07:58:46.347Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana, US Virgin Islands explore new trade and investment opportunities",
+      "link": "https://www.ghanabusinessnews.com/2026/11/21/ghana-us-virgin-islands-explore-new-trade-and-investment-opportunities/",
+      "source": "Ghana Business News",
+      "published": "2026-11-21T07:52:52.000Z",
+      "summary": "Ghana and the United States Virgin Islands (USVI) are seeking to deepen economic cooperation and expand trade and investment opportunities."
+    },
     {
       "title": "Bank of Ghana is ready to adopt ECO currency – Governor",
       "link": "https://www.ghanabusinessnews.com/2026/11/21/bank-of-ghana-is-ready-to-adopt-eco-currency-governor/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T09:30:42.000Z",
       "summary": "Ghana's proposed 2027 Income Tax Bill will bring cryptocurrency trading, virtual assets, digital services and foreign technology companies under formal taxation, closing existing loopholes…"
-    },
-    {
-      "title": "SG Ghana launches Professional Plus Offer to support professionals in building, growing their businesses",
-      "link": "https://www.myjoyonline.com/sg-ghana-launches-professional-plus-offer-to-support-professionals-in-building-growing-their-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T09:23:00.000Z",
-      "summary": "Societe Generale (SG) Ghana has launched a new offer called the Professional Plus Offer designed for Professionals looking to establish or expand their private practices and businesses. The…"
     }
   ]
 };
