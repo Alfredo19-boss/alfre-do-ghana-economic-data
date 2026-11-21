@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T18:43:28.618Z",
+  "updated": "2026-11-21T19:13:28.546Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Leadership is not personal property’ – ASWAJ reaffirms NADAC’s sole authority to elect National Imam",
+      "link": "https://www.myjoyonline.com/leadership-is-not-personal-property-aswaj-reaffirms-nadacs-sole-authority-to-elect-national-imam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:05:30.000Z",
+      "summary": "The National Da’wa Council (NADAC) of the Ahlussunna Wal Jama’a (ASWAJ) has reaffirmed its constitutional mandate to elect the National Imam and his deputies, declaring that \"leadership is…",
+      "categories": [
+        "National",
+        "National Da’wa Council",
+        "National Imam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Man’s penis reattached at Korle Bu Teaching Hospital after accident",
       "link": "https://www.myjoyonline.com/mans-penis-reattached-at-korle-bu-teaching-hospital-after-accident/",
@@ -135,20 +148,6 @@ window.GDC_PAPERS = {
         "girlfriend’s money",
         "man",
         "Stealing"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Okyenhene files CID compliant against KOANS for alleged publication of false news",
-      "link": "https://www.myjoyonline.com/okyenhene-files-cid-compliant-against-koans-for-alleged-publication-of-false-news/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T16:15:01.000Z",
-      "summary": "The Okyenhene, Osagyefuo Amoatia Ofori Panin, represented by the Akyem Abuakwa State Secretary, D.M. Ofori-Atta, has filed an official complaint against the Managing Director of KOANS…",
-      "categories": [
-        "Regional",
-        "CID",
-        "KOANS",
-        "Okyenhene"
       ],
       "site": "https://www.myjoyonline.com/"
     },
