@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T11:23:46.006Z",
+  "updated": "2026-11-21T14:12:58.568Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Deloitte Backs New Economy Programme, Flags Implementation Challenges",
+      "link": "https://thehighstreetjournal.com/deloitte-backs-new-economy-programme-flags-implementation-challenges/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T12:30:00.000Z",
+      "summary": "Deloitte backs Ghana’s US$10 billion New Economy Programme but warns that infrastructure, financing, coordination and implementation gaps could undermine its 2030 growth and job targets."
+    },
     {
       "title": "Compassion Business Challenge Backs 15 Young Entrepreneurs with Startup Grants",
       "link": "https://thehighstreetjournal.com/compassion-business-challenge-backs-15-young-entrepreneurs-with-startup-grants/",
@@ -69,6 +76,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-21T07:15:10.000Z",
       "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…"
+    },
+    {
+      "title": "JL Properties ranks 55th at 2026 Ghana Club 100 Awards",
+      "link": "https://www.myjoyonline.com/jl-properties-ranks-55th-at-2026-ghana-club-100-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T06:29:00.000Z",
+      "summary": "JL Properties, an indigenous real estate development company has been ranked 55th in the latest Ghana Club 100 list. The ranking was announced at the Ghana Club 100 Awards held at the La…"
     },
     {
       "title": "Tax Reliefs Could Bring Solar Power Within Reach of More Ghanaians",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T11:30:00.000Z",
       "summary": "Private sector credit grew 37.2% in October as lending rates declined and non-performing loans improved, creating opportunities for businesses while raising questions about financing costs…"
-    },
-    {
-      "title": "GRA Uncovers Widespread VAT Non-Compliance at West Hills Mall Enclave",
-      "link": "https://thehighstreetjournal.com/gra-uncovers-widespread-vat-non-compliance-at-west-hills-mall-enclave/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T11:03:30.000Z",
-      "summary": "GRA has uncovered VAT compliance breaches in 19 of 22 shops inspected around West Hills Mall, intensifying concerns about invoice practices, tax registration and domestic revenue…"
-    },
-    {
-      "title": "Beyond Fuel Prices: What investors and financiers should understand about Ghana’s downstream petroleum sector",
-      "link": "https://www.myjoyonline.com/beyond-fuel-prices-what-investors-and-financiers-should-understand-about-ghanas-downstream-petroleum-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:50:37.000Z",
-      "summary": "Ghana’s downstream petroleum sector continues to attract interest from operators, banks, investors, asset managers and entrepreneurs, but investment decisions in the sector require a much…"
     }
   ]
 };

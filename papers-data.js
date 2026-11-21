@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T11:24:16.592Z",
+  "updated": "2026-11-21T14:13:28.627Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,118 +21,161 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NaCCA urges international schools to integrate Ghanaian values into curricula",
-      "link": "https://www.myjoyonline.com/nacca-urges-international-schools-to-integrate-ghanaian-values-into-curricula/",
+      "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
+      "link": "https://www.myjoyonline.com/teacher-granted-gh%c2%a2100000-bail-over-alleged-sale-of-unregistered-drugs/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T11:22:37.000Z",
-      "summary": "The National Council for Curriculum and Assessment (NaCCA) has urged international curriculum providers and schools operating in Ghana to incorporate Ghanaian cultural values and local…",
+      "published": "2026-11-21T14:12:09.000Z",
+      "summary": "An Accra Circuit Court has granted GH¢100,000 bail with two sureties to a teacher arrested over the alleged sale of unregistered drugs.",
       "categories": [
-        "News",
-        "Ghanaian values",
-        "international schools",
-        "National Council for Curriculum and Assessment (NaCCA)"
+        "Crime",
+        "National",
+        "Accra Circuit Court",
+        "Teacher",
+        "unregistered drugs"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ga West Education Directorate celebrates International Children’s Day, calls for greater protection of children’s rights",
-      "link": "https://www.myjoyonline.com/ga-west-education-directorate-celebrates-international-childrens-day-calls-for-greater-protection-of-childrens-rights/",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.myjoyonline.com/man-convicted-of-starting-palisades-fire-in-los-angeles/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T11:19:04.000Z",
-      "summary": "The Ga West Education Directorate has joined the global community to celebrate International Children’s Day, calling on parents, teachers and caregivers to provide safe, inclusive and…",
+      "published": "2026-11-21T13:59:46.000Z",
+      "summary": "A jury in Los Angeles has found a 30-year-old man guilty of starting one of the most destructive wildfires in California's history.",
       "categories": [
-        "Education",
-        "Regional",
-        "Ga West Education Directorate",
-        "International Children’s Day"
+        "International",
+        "Fire",
+        "Los Angeles",
+        "Palisades"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UGEL hostel charges among lowest compared to private facilities – Prof Abekah-Nkrumah",
-      "link": "https://www.myjoyonline.com/ugel-hostel-charges-among-lowest-compared-to-private-facilities-prof-abekah-nkrumah/",
+      "title": "Zelensky says Crimean Bridge strikes ‘fair response’ as he meets UK’s Streeting",
+      "link": "https://www.myjoyonline.com/zelensky-says-crimean-bridge-strikes-fair-response-as-he-meets-uks-streeting/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T11:01:30.000Z",
-      "summary": "The University of Ghana says accommodation fees charged by the University of Ghana Enterprises Limited (UGEL) remain among the lowest compared to privately operated hostels, despite…",
+      "published": "2026-11-21T13:54:28.000Z",
+      "summary": "Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a \"fair response\" to 109 separate Russian…",
+      "categories": [
+        "International",
+        "UK",
+        "Zelensky"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa elected chair of Nordic-African Foreign Ministers’ Meeting for 2027",
+      "link": "https://www.myjoyonline.com/ablakwa-elected-chair-of-nordic-african-foreign-ministers-meeting-for-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T13:54:23.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has been elected Chair of the Nordic-African Foreign Ministers’ Meeting for 2027.",
+      "categories": [
+        "National",
+        "Nordic-African Foreign Ministers",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KsTU matriculates over 9,000 students for 2025/2026 academic year",
+      "link": "https://www.graphic.com.gh/news/education/kstu-matriculates-over-9-000-students-for-2025-2026-academic-year.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T13:29:05.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AG’s 48-hour detention statement is revolutionary – Abraham Amaliba",
+      "link": "https://www.myjoyonline.com/ags-48-hour-detention-statement-is-revolutionary-abraham-amaliba/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T13:11:12.000Z",
+      "summary": "Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, has described the Attorney General’s directive on the 48-hour detention limit and misconduct by investigative…",
       "categories": [
         "National",
         "News",
-        "private facilities",
-        "Prof. Gordon Abekah-Nkrumah",
-        "UGEL hostel charges"
+        "48-hour detention statement",
+        "Abraham Amaliba",
+        "AG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "A-G’s directive on suspects’ rights must translate into action, not just promises – Sulemana Braimah",
-      "link": "https://www.myjoyonline.com/a-gs-directive-on-suspects-rights-must-translate-into-action-not-just-promises-sulemana-braimah/",
+      "title": "AG directive: Amaliba calls for complaint unit to address misconduct",
+      "link": "https://www.myjoyonline.com/ag-directive-amaliba-calls-for-complaint-unit-to-address-misconduct/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T11:00:07.000Z",
-      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, has cautioned that the Attorney-General’s directive on protecting the rights of arrested persons…",
+      "published": "2026-11-21T12:47:02.000Z",
+      "summary": "Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, has called on the Attorney General to establish a dedicated complaint unit to receive reports from citizens…",
       "categories": [
-        "HP News 5",
         "National",
+        "News",
+        "Abraham Amaliba",
         "AG",
-        "Sulemana Braimah"
+        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "High Court rules that Anlo Traditional Council lacks jurisdiction to adjudicate Atorkor chieftaincy dispute",
-      "link": "https://www.myjoyonline.com/high-court-rules-that-anlo-traditional-council-lacks-jurisdiction-to-adjudicate-atorkor-chieftaincy-dispute/",
+      "title": "It is an honour to be inducted as Fellow of the Ghana Institute of Architects – Kwame Agbodza",
+      "link": "https://www.myjoyonline.com/it-is-an-honour-to-be-inducted-as-fellow-of-the-ghana-institute-of-architects-kwame-agbodza/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T10:43:28.000Z",
-      "summary": "The Denu High Court has ruled that the Anlo Traditional Council lacks jurisdiction over a chieftaincy dispute concerning the legitimate Dufia (Paramount Chief) for the Atorkor community in…",
-      "categories": [
-        "News",
-        "Regional",
-        "Anlo Traditional Council",
-        "Atorkor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UGEL cannot hide behind UG’s autonomy to evade Rent Commissioner – Appiagyei-Atua",
-      "link": "https://www.myjoyonline.com/ugel-cannot-hide-behind-ugs-autonomy-to-evade-rent-commissioner-appiagyei-atua/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T10:30:29.000Z",
-      "summary": "Professor at the University of Ghana School of Law, Kwadwo Appiagyei-Atua, has challenged the University of Ghana Enterprise Limited (UGEL) to submit its accommodation charges to legal…",
-      "categories": [
-        "Education",
-        "Kwadwo Appiagyei-Atua",
-        "UGEL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I will deploy 2,000 ‘yellow yellow’ task force officers to check rent abuses in 2027 – Rent Commissioner",
-      "link": "https://www.myjoyonline.com/i-will-deploy-2000-yellow-yellow-task-force-officers-to-check-rent-abuses-in-2027-rent-commissioner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T10:17:53.000Z",
-      "summary": "Acting Rent Commissioner Frederick Opoku says the Rent Control Department plans to deploy 2,000 \"yellow yellow\" task force officers across the country in the first quarter of 2027 to…",
+      "published": "2026-11-21T12:31:07.000Z",
+      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has indicated that it was an honour for him to be inducted as a Fellow of the Ghana Institute of Architects (GIA).",
       "categories": [
         "National",
         "News",
-        "2027",
-        "Rent",
-        "Rent Commissioner",
-        "task force officers"
+        "Fellow of Ghana Institute of Architects",
+        "Kwame Agbodza"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Rent Control registers 3,000 landlords in Greater Accra in three months – Commissioner",
-      "link": "https://www.myjoyonline.com/rent-control-registers-3000-landlords-in-greater-accra-in-three-months-commissioner/",
+      "title": "Kofi Tonto backs purchase of presidential jet but says Ghana should have acquired a bigger aircraft",
+      "link": "https://www.myjoyonline.com/kofi-tonto-backs-purchase-of-presidential-jet-but-says-ghana-should-have-acquired-a-bigger-aircraft/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T10:03:33.000Z",
-      "summary": "The Acting Rent Control Commissioner, Frederick Opoku, says the Rent Control Department has registered about 3,000 landlords in the Greater Accra Region within the last three months as part…",
+      "published": "2026-11-21T12:25:18.000Z",
+      "summary": "A National Communications Member of the New Patriotic Party (NPP), Kofi Tonto, has defended the government's decision to acquire a new presidential aircraft, arguing that the President…",
       "categories": [
         "National",
-        "Greater Accra",
-        "Landlords",
-        "Rent Control"
+        "Aircraft",
+        "Ghana",
+        "Kofi Tonto"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obetsebi Lamptey to Pamprom stretch to reopen mid-December - GARID",
+      "link": "https://www.graphic.com.gh/news/general-news/obetsebi-lamptey-to-pamprom-stretch-to-reopen-mid-december-garid.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T11:24:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama calls on Oti Chiefs to help end Nkwanta conflicts",
+      "link": "https://www.graphic.com.gh/news/general-news/mahama-asks-oti-chiefs-to-help-resolve-nkwanta-conflicts.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T11:03:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama pledges consultation with Oti chiefs and youth before mining iron ore",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-pledges-consultation-with-oti-chiefs-and-youth-before-mining-iron-ore.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T11:00:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
@@ -172,50 +215,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-festival-to-revive-nana-yaa-asantewaas-legacy-restore-fire-ravaged-museum.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T04:25:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Teacher turns creativity into agritourism venture in Oti Region",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-teacher-turns-creativity-into-agritourism-venture-in-oti-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T04:11:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Strengthen, implement programmes to eliminate abuse against children - Govt told",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-strengthen-implement-programmes-to-eliminate-abuse-against-children-govt-told.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T03:45:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Roads Ministry, GIZ, partners sign agreement to improve road construction quality",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-roads-ministry-giz-partners-sign-agreement-to-improve-road-construction-quality.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T03:41:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GBC launches 5-year strategic plan to drive digital transformation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gbc-launches-5-year-strategic-plan-to-drive-digital-transformation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T03:38:26.000Z",
       "summary": "",
       "categories": [
         "General News"
