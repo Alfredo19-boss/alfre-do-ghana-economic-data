@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T21:56:35.936Z",
+  "updated": "2026-11-21T22:16:35.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vanderpuye vows to end NPP dominance in Ashanti Region if elected NDC Chairman",
+      "link": "https://www.myjoyonline.com/vanderpuye-vows-to-end-npp-dominance-in-ashanti-region-if-elected-ndc-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T22:13:40.000Z",
+      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has vowed to end the New Patriotic Party’s (NPP) dominance in the Ashanti Region, saying he…",
+      "categories": [
+        "Politics",
+        "NDC Chairman",
+        "NPP",
+        "Vanderpuye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "“Even if it keeps you out of power, support $10bn programme” – Mahama to Minority",
       "link": "https://www.myjoyonline.com/even-if-it-keeps-you-out-of-power-support-10bn-programme-mahama-to-minority/",
@@ -135,20 +149,6 @@ window.GDC_PAPERS = {
         "National",
         "Firewood",
         "LPG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mamdani announces plan to close New York’s Rikers Island jail by 2032",
-      "link": "https://www.myjoyonline.com/mamdani-announces-plan-to-close-new-yorks-rikers-island-jail-by-2032/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:11:48.000Z",
-      "summary": "New York City's official overseeing the closure of the city's most notorious jail hopes a new plan from Mayor Zohran Mamdani will lead to \"a moment of transformation\" for how people are…",
-      "categories": [
-        "International",
-        "Mamdani",
-        "New York",
-        "Rikers Island"
       ],
       "site": "https://www.myjoyonline.com/"
     },
