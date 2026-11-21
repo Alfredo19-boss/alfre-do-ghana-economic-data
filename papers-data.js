@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T08:49:17.452Z",
+  "updated": "2026-11-21T08:59:16.899Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Legon accommodation crisis has persisted for decades; needs practical solutions – Sulemana Braimah",
+      "link": "https://www.myjoyonline.com/legon-accommodation-crisis-has-persisted-for-decades-needs-practical-solutions-sulemana-braimah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:55:32.000Z",
+      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, says Ghana has failed to adequately address the longstanding accommodation crisis facing university…",
+      "categories": [
+        "National",
+        "Legon",
+        "Sulemana Braimah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UniMAC inducts Ernest Ofori Sarpong as first Chancellor, secures GH¢10m government funding",
+      "link": "https://www.myjoyonline.com/unimac-inducts-ernest-ofori-sarpong-as-first-chancellor-secures-gh%c2%a210m-government-funding/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:47:42.000Z",
+      "summary": "The University of Media, Arts and Communication (UniMAC) has inducted businessman Ernest Ofori Sarpong as its first Chancellor, with the government announcing GH¢10 million in seed funding…",
+      "categories": [
+        "Education",
+        "National",
+        "Chancellor",
+        "Ernest Ofori Sarpong",
+        "UNIMAC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GNFS firefighters avert disaster as tanker catches fire at Tamale filling station",
       "link": "https://www.myjoyonline.com/gnfs-firefighters-avert-disaster-as-tanker-catches-fire-at-tamale-filling-station/",
@@ -103,34 +131,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Health",
         "pancreatic cancer pill"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
-      "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T07:15:10.000Z",
-      "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Annual Internal Audit Conference",
-        "TDC Ghana Ltd"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Students Loan Trust Fund sensitises tertiary students on available education financing opportunities",
-      "link": "https://www.myjoyonline.com/students-loan-trust-fund-sensitises-tertiary-students-on-available-education-financing-opportunities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T06:59:01.000Z",
-      "summary": "The Students Loan Trust Fund (SLTF) has affirmed its commitment to improving access to tertiary education financing as it launches an extensive student orientation and sensitisation…",
-      "categories": [
-        "Education",
-        "Dr Hamid Kanyiti Salifu",
-        "Dr Saajida Shiraz",
-        "Students Loan Trust Fund"
       ],
       "site": "https://www.myjoyonline.com/"
     },
