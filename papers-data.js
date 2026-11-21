@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T03:11:10.942Z",
+  "updated": "2026-11-21T03:41:11.333Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,6 +32,21 @@ window.GDC_PAPERS = {
         "GCTU",
         "Philipa Acquah",
         "University"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World Children’s Day: UNICEF raises alarm over one million out-of-school children in Ghana",
+      "link": "https://www.myjoyonline.com/world-childrens-day-unicef-raises-alarm-over-one-million-out-of-school-children-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T23:55:00.000Z",
+      "summary": "An estimated one million children in Ghana are missing out on education, raising concerns about the country’s efforts to guarantee every child access to quality learning, an education…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Children",
+        "UNICEF"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -124,22 +139,6 @@ window.GDC_PAPERS = {
         "Benaiah Elorm Dafeamekpor",
         "Black Challenge",
         "Ghana Football Association"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WWC 2027Q: Black Queens name squad for first phase of playoff tournament",
-      "link": "https://www.myjoyonline.com/wwc-2027q-black-queens-name-squad-for-first-phase-of-playoff-tournament/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:48:42.000Z",
-      "summary": "Bjorkegren has named a 23-woman squad for the first phase of the tournament which is scheduled to be played in Rabat, Morocco.",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "National",
-        "2027 Women’s World Cup qualifiers",
-        "Black Queens",
-        "Kim Lars Bjorkegren"
       ],
       "site": "https://www.myjoyonline.com/"
     },
