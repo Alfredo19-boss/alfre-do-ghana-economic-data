@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T10:24:16.861Z",
+  "updated": "2026-11-21T10:34:16.655Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UGEL cannot hide behind UG’s autonomy to evade Rent Commissioner – Appiagyei-Atua",
+      "link": "https://www.myjoyonline.com/ugel-cannot-hide-behind-ugs-autonomy-to-evade-rent-commissioner-appiagyei-atua/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T10:30:29.000Z",
+      "summary": "Professor at the University of Ghana School of Law, Kwadwo Appiagyei-Atua, has challenged the University of Ghana Enterprise Limited (UGEL) to submit its accommodation charges to legal…",
+      "categories": [
+        "Education",
+        "HP News 7",
+        "Kwadwo Appiagyei-Atua",
+        "UGEL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "I will deploy 2,000 ‘yellow yellow’ task force officers to check rent abuses in 2027 – Rent Commissioner",
       "link": "https://www.myjoyonline.com/i-will-deploy-2000-yellow-yellow-task-force-officers-to-check-rent-abuses-in-2027-rent-commissioner/",
@@ -154,21 +168,6 @@ window.GDC_PAPERS = {
         "business challenge",
         "SEED",
         "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NFA urges Ghana Actors Guild to resolve divisions, avoid fresh court battle",
-      "link": "https://www.myjoyonline.com/nfa-urges-ghana-actors-guild-to-resolve-divisions-avoid-fresh-court-battle/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:23:35.000Z",
-      "summary": "The National Film Authority (NFA) has appealed to the leadership and members of the Ghana Actors Guild (GAG) to resolve their ongoing differences through dialogue, warning that renewed…",
-      "categories": [
-        "HP Entertainment 2",
-        "Movies",
-        "Ghana Actors’ Guild",
-        "Kafui Danku",
-        "National Film Authority (NFA)"
       ],
       "site": "https://www.myjoyonline.com/"
     },

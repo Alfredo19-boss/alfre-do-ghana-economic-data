@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T10:23:45.118Z",
+  "updated": "2026-11-21T10:33:46.070Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Compassion Business Challenge Backs 15 Young Entrepreneurs with Startup Grants",
+      "link": "https://thehighstreetjournal.com/compassion-business-challenge-backs-15-young-entrepreneurs-with-startup-grants/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T10:30:00.000Z",
+      "summary": "Fifteen young entrepreneurs receive GH¢210,000 in startup grants under the Compassion Business Challenge, alongside mentorship, training and business development support to strengthen their…"
+    },
     {
       "title": "Bold Flavors, Fine Craft, and High-Level Backing Energize GEXPO 2026 in Accra",
       "link": "https://thehighstreetjournal.com/bold-flavors-fine-craft-and-high-level-backing-energize-gexpo-2026-in-accra/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T10:50:37.000Z",
       "summary": "Ghana’s downstream petroleum sector continues to attract interest from operators, banks, investors, asset managers and entrepreneurs, but investment decisions in the sector require a much…"
-    },
-    {
-      "title": "Ghana Wins Re-Election to ITU Council With 121 Votes",
-      "link": "https://thehighstreetjournal.com/ghana-wins-re-election-to-itu-council/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T10:47:53.000Z",
-      "summary": "The country obtained 121 of 173 valid votes in Region D, renewing its representation on the governing body of the United Nations agency responsible for coordinating international…"
     }
   ]
 };
