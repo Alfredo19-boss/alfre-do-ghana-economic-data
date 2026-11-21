@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T15:03:29.056Z",
+  "updated": "2026-11-21T15:33:28.968Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -166,7 +166,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Obetsebi Lamptey to Pamprom stretch to reopen mid-December - GARID",
+      "title": "Accra: Obetsebi Lamptey to Pamprom road to reopen to traffic mid-December - GARID",
       "link": "https://www.graphic.com.gh/news/general-news/obetsebi-lamptey-to-pamprom-stretch-to-reopen-mid-december-garid.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T11:24:28.000Z",
