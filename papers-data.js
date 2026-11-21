@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T17:13:29.246Z",
+  "updated": "2026-11-21T17:43:28.760Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ashantis deserve more than loans of their stolen royal regalia – Asiedu Nketiah",
+      "link": "https://www.myjoyonline.com/ashantis-deserve-more-than-loans-of-their-stolen-royal-regalia-asiedu-nketiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T17:33:45.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, says the Asante people deserve more than temporary access to their royal heritage, insisting that…",
+      "categories": [
+        "International",
+        "National",
+        "Politics",
+        "African Union",
+        "Asiedu Nketiah",
+        "Moscow",
+        "Movement for Freedom of Nations"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bono East Regional Minister reaffirms gov’t commitment to infrastructure and job creation at Offuman Fofie Yam Festival",
       "link": "https://www.myjoyonline.com/bono-east-regional-minister-reaffirms-govt-commitment-to-infrastructure-and-job-creation-at-offuman-fofie-yam-festival/",
@@ -120,21 +137,6 @@ window.GDC_PAPERS = {
         "Gianni Infantino",
         "Kurt Okraku",
         "Phillepe Diallo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge: Assafuah blasts Sports Minister Kofi Adams over alleged neglect of Amputee World Cup finalists",
-      "link": "https://www.myjoyonline.com/black-challenge-assafuah-blasts-sports-minister-kofi-adams-over-alleged-neglect-of-amputee-world-cup-finalists/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:50:52.000Z",
-      "summary": "Old Tafo MP and Ranking Member of Parliament’s Youth and Sports Committee, Vincent Ekow Assafuah, has criticised Sports Minister Kofi Adams over the Ministry’s handling of Ghana’s Black…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Black Challenge",
-        "Kofi Adams",
-        "Vincent Ekow Assafuah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
