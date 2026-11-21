@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T10:09:15.955Z",
+  "updated": "2026-11-21T10:24:16.861Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "I will deploy 2,000 ‘yellow yellow’ task force officers to check rent abuses in 2027 – Rent Commissioner",
+      "link": "https://www.myjoyonline.com/i-will-deploy-2000-yellow-yellow-task-force-officers-to-check-rent-abuses-in-2027-rent-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T10:17:53.000Z",
+      "summary": "Acting Rent Commissioner Frederick Opoku says the Rent Control Department plans to deploy 2,000 \"yellow yellow\" task force officers across the country in the first quarter of 2027 to…",
+      "categories": [
+        "National",
+        "News",
+        "2027",
+        "Rent",
+        "Rent Commissioner",
+        "task force officers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Rent Control registers 3,000 landlords in Greater Accra in three months – Commissioner",
       "link": "https://www.myjoyonline.com/rent-control-registers-3000-landlords-in-greater-accra-in-three-months-commissioner/",
@@ -153,20 +169,6 @@ window.GDC_PAPERS = {
         "Ghana Actors’ Guild",
         "Kafui Danku",
         "National Film Authority (NFA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kofi Tonto says Ghana’s rent crisis has been neglected by successive governments, media",
-      "link": "https://www.myjoyonline.com/kofi-tonto-says-ghanas-rent-crisis-has-been-neglected-by-successive-governments-media/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:16:48.000Z",
-      "summary": "A National Communications Member of the New Patriotic Party (NPP), Kofi Tonto, says Ghana has neglected discussions on the country's rental challenges, blaming successive governments, the…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Ghana",
-        "Kofi Tonto"
       ],
       "site": "https://www.myjoyonline.com/"
     },
