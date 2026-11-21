@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T14:23:29.256Z",
+  "updated": "2026-11-21T14:33:28.679Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "APC hails Ghana’s Black Challenge after historic Amputee World Cup final qualification",
+      "link": "https://www.myjoyonline.com/apc-hails-ghanas-black-challenge-after-historic-amputee-world-cup-final-qualification/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:23:48.000Z",
+      "summary": "The African Paralympic Committee (APC) has congratulated Ghana’s Black Challenge and Morocco’s National Amputee Football Team after the two countries secured places in the final of the 2026…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Amputee Football World Cup",
+        "Black Challenge",
+        "Ghana",
+        "Mexico"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Africa is not poor. Africa is under-protected",
       "link": "https://www.myjoyonline.com/africa-is-not-poor-africa-is-under-protected/",
@@ -126,20 +142,6 @@ window.GDC_PAPERS = {
         "Abraham Amaliba",
         "AG",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "It is an honour to be inducted as Fellow of the Ghana Institute of Architects – Kwame Agbodza",
-      "link": "https://www.myjoyonline.com/it-is-an-honour-to-be-inducted-as-fellow-of-the-ghana-institute-of-architects-kwame-agbodza/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T12:31:07.000Z",
-      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has indicated that it was an honour for him to be inducted as a Fellow of the Ghana Institute of Architects (GIA).",
-      "categories": [
-        "National",
-        "News",
-        "Fellow of Ghana Institute of Architects",
-        "Kwame Agbodza"
       ],
       "site": "https://www.myjoyonline.com/"
     },
