@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T18:03:29.258Z",
+  "updated": "2026-11-21T18:23:29.449Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -69,6 +69,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T17:33:45.000Z",
       "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, says the Asante people deserve more than temporary access to their royal heritage, insisting that…",
       "categories": [
+        "HP News 1",
         "International",
         "National",
         "Politics",
@@ -102,6 +103,7 @@ window.GDC_PAPERS = {
       "summary": "A 32-year-old man has been remanded into police custody by the Madina District Court for allegedly stealing GH¢18,500 belonging to his girlfriend after she refused to loan him money to…",
       "categories": [
         "Crime",
+        "HP News 3",
         "News",
         "girlfriend’s money",
         "man",
@@ -144,6 +146,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T16:02:04.000Z",
       "summary": "The former Vice President and flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has called for a decisive shift in national policy to protect local rice producers from…",
       "categories": [
+        "HP News 4",
         "National",
         "Dr Mahamudu Bawumia",
         "local rice farmers"
