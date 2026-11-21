@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T16:43:29.079Z",
+  "updated": "2026-11-21T17:13:29.246Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bono East Regional Minister reaffirms gov’t commitment to infrastructure and job creation at Offuman Fofie Yam Festival",
+      "link": "https://www.myjoyonline.com/bono-east-regional-minister-reaffirms-govt-commitment-to-infrastructure-and-job-creation-at-offuman-fofie-yam-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T17:05:32.000Z",
+      "summary": "The Bono East Regional Minister, Francis Owusu Antwi, joined the Paramount Chief of the Offuman Traditional Area, Nana Kwaku Gyan Borokuo II, for the grand durbar of the Offuman Traditional…",
+      "categories": [
+        "Regional",
+        "Bono East Regional Minister",
+        "Francis Owusu Antwi",
+        "infrastructure and job creation",
+        "Offuman Fofie Yam Festival"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Man remanded for allegedly stealing girlfriend’s GH¢18,500",
       "link": "https://www.myjoyonline.com/man-remanded-for-allegedly-stealing-girlfriends-gh%c2%a218500/",
@@ -120,23 +135,6 @@ window.GDC_PAPERS = {
         "Black Challenge",
         "Kofi Adams",
         "Vincent Ekow Assafuah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mayweather’s Ghana visit offers opportunity to promote boxing, tourism – Mahama",
-      "link": "https://www.myjoyonline.com/mayweathers-ghana-visit-offers-opportunity-to-promote-boxing-tourism-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:40:56.000Z",
-      "summary": "President John Dramani Mahama has hosted American boxing legend and promoter Floyd Joy Mayweather Jr. at his residence during the boxer’s visit to Accra this week.",
-      "categories": [
-        "Boxing",
-        "National",
-        "News",
-        "Floyd Joy Mayweather Jr.",
-        "Ghana",
-        "Mahama",
-        "Tourism"
       ],
       "site": "https://www.myjoyonline.com/"
     },
