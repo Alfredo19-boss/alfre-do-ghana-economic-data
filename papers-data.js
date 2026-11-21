@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T22:16:35.063Z",
+  "updated": "2026-11-21T22:36:35.325Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Vanderpuye vows to rebuild and unite NDC if elected National Chairman",
+      "link": "https://www.myjoyonline.com/vanderpuye-vows-to-rebuild-and-unite-ndc-if-elected-national-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T22:24:49.000Z",
+      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has pledged to rebuild and unite the party, promising to overhaul its structures and restore its…",
+      "categories": [
+        "Politics",
+        "National Chairman",
+        "NDC",
+        "Vanderpuye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vanderpuye vows to end NPP dominance in Ashanti Region if elected NDC Chairman",
       "link": "https://www.myjoyonline.com/vanderpuye-vows-to-end-npp-dominance-in-ashanti-region-if-elected-ndc-chairman/",
@@ -137,20 +151,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
-      "link": "https://www.myjoyonline.com/senior-high-schools-still-using-firewood-and-charcoal-in-their-kitchens-urged-to-adopt-lpg/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:12:28.000Z",
-      "summary": "Senior high schools still using firewood and charcoal in their kitchens have been urged to adopt Liquefied Petroleum Gas (LPG) because of health consequences of prolonged exposure to…",
-      "categories": [
-        "Education",
-        "National",
-        "Firewood",
-        "LPG"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ernest Ofori Sarpong inducted as First Chancellor University of Media, Arts and Communication",
