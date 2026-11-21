@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T11:04:16.797Z",
+  "updated": "2026-11-21T11:24:16.592Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NaCCA urges international schools to integrate Ghanaian values into curricula",
+      "link": "https://www.myjoyonline.com/nacca-urges-international-schools-to-integrate-ghanaian-values-into-curricula/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T11:22:37.000Z",
+      "summary": "The National Council for Curriculum and Assessment (NaCCA) has urged international curriculum providers and schools operating in Ghana to incorporate Ghanaian cultural values and local…",
+      "categories": [
+        "News",
+        "Ghanaian values",
+        "international schools",
+        "National Council for Curriculum and Assessment (NaCCA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ga West Education Directorate celebrates International Children’s Day, calls for greater protection of children’s rights",
+      "link": "https://www.myjoyonline.com/ga-west-education-directorate-celebrates-international-childrens-day-calls-for-greater-protection-of-childrens-rights/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T11:19:04.000Z",
+      "summary": "The Ga West Education Directorate has joined the global community to celebrate International Children’s Day, calling on parents, teachers and caregivers to provide safe, inclusive and…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Ga West Education Directorate",
+        "International Children’s Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UGEL hostel charges among lowest compared to private facilities – Prof Abekah-Nkrumah",
       "link": "https://www.myjoyonline.com/ugel-hostel-charges-among-lowest-compared-to-private-facilities-prof-abekah-nkrumah/",
@@ -103,32 +131,6 @@ window.GDC_PAPERS = {
         "Greater Accra",
         "Landlords",
         "Rent Control"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: AbibiNsroma Foundation urges governments to turn climate pledges into action",
-      "link": "https://www.myjoyonline.com/cop31-abibinsroma-foundation-urges-governments-to-turn-climate-pledges-into-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:55:07.000Z",
-      "summary": "The AbibiNsroma Foundation has called on governments and climate finance institutions to ensure that commitments made at COP31 translate into tangible support for communities vulnerable to…",
-      "categories": [
-        "National",
-        "AbibiNsroma Foundation",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rent Control to go digital by first quarter of 2027 – Rent Commissioner",
-      "link": "https://www.myjoyonline.com/rent-control-to-go-digital-by-first-quarter-of-2027-rent-commissioner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:48:14.000Z",
-      "summary": "The Acting Rent Control Commissioner, Frederick Opoku, has announced plans to digitise the operations of the Rent Control Department within the first three months of 2027 as part of reforms…",
-      "categories": [
-        "National",
-        "Digital",
-        "Frederick Opoku"
       ],
       "site": "https://www.myjoyonline.com/"
     },
