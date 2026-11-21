@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:09:16.289Z",
+  "updated": "2026-11-21T09:19:16.604Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Kofi Tonto says Ghana’s rent crisis has been neglected by successive governments, media",
+      "link": "https://www.myjoyonline.com/kofi-tonto-says-ghanas-rent-crisis-has-been-neglected-by-successive-governments-media/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:16:48.000Z",
+      "summary": "A National Communications Member of the New Patriotic Party (NPP), Kofi Tonto, says Ghana has neglected discussions on the country's rental challenges, blaming successive governments, the…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Kofi Tonto"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘3 Shots For Baby Jesus’ brings Accra nightlife to theatre this Christmas",
       "link": "https://www.myjoyonline.com/3-shots-for-baby-jesus-brings-accra-nightlife-to-theatre-this-christmas/",
       "source": "MyJoyOnline",
       "published": "2026-11-21T09:07:04.000Z",
       "summary": "Audiences at 3 Shots For Baby Jesus, the new Christmas play by Ghanaian filmmaker and playwright Joewackle J. Kusi, will spend the evening as customers of a struggling bar in Accra…",
       "categories": [
+        "HP Entertainment 1",
         "Theatre",
         "3 Shots For Baby Jesus",
         "Accra"
@@ -114,23 +128,6 @@ window.GDC_PAPERS = {
         "Government",
         "Javits Frimpong",
         "Justice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Livestream: Newsfile examines UG hostel fees, AG’s 48-hour detention directive and presidential jet purchase",
-      "link": "https://www.myjoyonline.com/livestream-newsfile-examines-ug-hostel-fees-ags-48-hour-detention-directive-and-presidential-jet-purchase/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:09:23.000Z",
-      "summary": "The cost of student accommodation at the University of Ghana, the enforcement of constitutional rights of arrested persons and the government's decision to acquire a US$60.68 million…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "AG's 48-hour detention directive",
-        "Newsfile",
-        "presidential jet purchase",
-        "UG hostel fees"
       ],
       "site": "https://www.myjoyonline.com/"
     },
