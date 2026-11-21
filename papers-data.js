@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T07:19:16.471Z",
+  "updated": "2026-11-21T07:29:16.354Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "link": "https://www.myjoyonline.com/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T07:23:00.000Z",
+      "summary": "Experts are calling it the biggest breakthrough in pancreatic cancer treatment for decades — a daily pill that appears to shrink and possibly even eliminate tumours in some patients with…",
+      "categories": [
+        "Health",
+        "pancreatic cancer pill"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
       "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
@@ -121,20 +133,6 @@ window.GDC_PAPERS = {
         "Sports",
         "2026 Amputee Football World Cup",
         "Black Challenge"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mpraeso MP challenges Big Push figures in 2027 Budget",
-      "link": "https://www.myjoyonline.com/mpraeso-mp-challenges-big-push-figures-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:20:00.000Z",
-      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has questioned discrepancies in the financial allocations for the government’s Big Push infrastructure programme, demanding clarity…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Big Push",
-        "Mpraeso MP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
