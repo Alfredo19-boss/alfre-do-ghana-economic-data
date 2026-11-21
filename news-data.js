@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T07:08:45.801Z",
+  "updated": "2026-11-21T07:18:46.544Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
+      "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T07:15:10.000Z",
+      "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…"
+    },
     {
       "title": "Tax Reliefs Could Bring Solar Power Within Reach of More Ghanaians",
       "link": "https://thehighstreetjournal.com/tax-reliefs-could-bring-solar-power-within-reach-of-more-ghanaians/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T09:19:47.000Z",
       "summary": "Fast-moving consumer goods (FMCG) companies operating in Ghana have been urged to make affordability, preparation for margin pressure, and locally relevant innovation central to their…"
-    },
-    {
-      "title": "MTN CEO Stephen Blewett hails 30 years of operations in Ghana, announces US$1.1bn investment",
-      "link": "https://www.myjoyonline.com/mtn-ceo-stephen-blewett-hails-30-years-of-operations-in-ghana-announces-us1-1bn-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T08:29:53.000Z",
-      "summary": "The CEO of MTN Ghana, Stephen Blewett has said the company is excited to mark three decades in the country as it plans to invest US$1.1 billion over the next three years. He made the…"
     }
   ]
 };

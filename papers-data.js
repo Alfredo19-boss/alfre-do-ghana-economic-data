@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T07:09:16.256Z",
+  "updated": "2026-11-21T07:19:16.471Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
+      "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T07:15:10.000Z",
+      "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Annual Internal Audit Conference",
+        "TDC Ghana Ltd"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Students Loan Trust Fund sensitises tertiary students on available education financing opportunities",
       "link": "https://www.myjoyonline.com/students-loan-trust-fund-sensitises-tertiary-students-on-available-education-financing-opportunities/",
       "source": "MyJoyOnline",
@@ -31,6 +45,19 @@ window.GDC_PAPERS = {
         "Dr Hamid Kanyiti Salifu",
         "Dr Saajida Shiraz",
         "Students Loan Trust Fund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ensign Global University celebrates its 2026 graduating class in 11th Congregation",
+      "link": "https://www.myjoyonline.com/ensign-global-university-celebrates-its-2026-graduating-class-in-11th-congregation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T06:09:00.000Z",
+      "summary": "Ensign Global University marked its 11th Congregation for the 2025/2026 academic year on November 14, graduating 65 Master of Public Health (MPH) students—comprising 32 males and 33 females.",
+      "categories": [
+        "Education",
+        "Congregation",
+        "Ensign Global University"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -108,33 +135,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "Big Push",
         "Mpraeso MP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mpraeso MP jabs government over cocaine trafficking, calls for ‘Cocaine Board’",
-      "link": "https://www.myjoyonline.com/mpraeso-mp-jabs-government-over-cocaine-trafficking-calls-for-cocaine-board/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:17:00.000Z",
-      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has questioned Ghana’s ability to combat cocaine trafficking, sarcastically suggesting that the government might as well establish a…",
-      "categories": [
-        "National",
-        "News",
-        "Cocaine",
-        "Ghana",
-        "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Apprenticeship Programme: 13,309 graduate in fashion, farming and hospitality",
-      "link": "https://www.myjoyonline.com/national-apprenticeship-programme-13309-graduate-in-fashion-farming-and-hospitality/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:10:43.000Z",
-      "summary": "The National Programme (NAP) has produced its first graduating class, with 13,309 young Ghanaians completing training across all 16 regions.",
-      "categories": [
-        "News",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
