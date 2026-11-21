@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T04:01:11.000Z",
+  "updated": "2026-11-21T04:21:11.161Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UNICEF calls for stronger voice for children in national decisions",
+      "link": "https://www.myjoyonline.com/unicef-calls-for-stronger-voice-for-children-in-national-decisions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T01:19:00.000Z",
+      "summary": "The United Nations Children’s Fund (UNICEF) has urged parents, policymakers and other adults to give children a stronger voice in decisions affecting their lives, warning that their rights…",
+      "categories": [
+        "News",
+        "Chidren",
+        "UNICEF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "VIDEO: 8 As student Philipa Acquah’s final speech at GCTU before tragic death",
       "link": "https://www.myjoyonline.com/video-8-as-student-philipa-acquahs-final-speech-at-gctu-before-tragic-death/",
@@ -126,17 +139,6 @@ window.GDC_PAPERS = {
         "International",
         "Cyber",
         "White House"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "link": "https://www.myjoyonline.com/russian-missile-hits-poland-as-ukraines-allies-hold-military-exercise-says-tusk-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T21:12:31.000Z",
-      "summary": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
-      "categories": [
-        "International"
       ],
       "site": "https://www.myjoyonline.com/"
     },
