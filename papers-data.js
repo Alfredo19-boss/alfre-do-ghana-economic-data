@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T08:59:16.899Z",
+  "updated": "2026-11-21T09:09:16.289Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘3 Shots For Baby Jesus’ brings Accra nightlife to theatre this Christmas",
+      "link": "https://www.myjoyonline.com/3-shots-for-baby-jesus-brings-accra-nightlife-to-theatre-this-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:07:04.000Z",
+      "summary": "Audiences at 3 Shots For Baby Jesus, the new Christmas play by Ghanaian filmmaker and playwright Joewackle J. Kusi, will spend the evening as customers of a struggling bar in Accra…",
+      "categories": [
+        "Theatre",
+        "3 Shots For Baby Jesus",
+        "Accra"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Emotional outbursts will not solve student accommodation crisis – Vicky Bright",
+      "link": "https://www.myjoyonline.com/emotional-outbursts-will-not-solve-student-accommodation-crisis-vicky-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:06:25.000Z",
+      "summary": "International corporate lawyer and entrepreneur Vicky Bright says emotional outbursts and public confrontations over university hostel fees will not resolve Ghana’s longstanding student…",
+      "categories": [
+        "National",
+        "News",
+        "Emotional outbursts",
+        "student accommodation crisis",
+        "Vicky Bright"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UG accommodation crisis has persisted for decades; needs practical solutions – Sulemana Braimah",
+      "link": "https://www.myjoyonline.com/ug-accommodation-crisis-has-persisted-for-decades-needs-practical-solutions-sulemana-braimah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:55:32.000Z",
+      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, says Ghana has failed to adequately address the longstanding accommodation crisis facing university…",
+      "categories": [
+        "National",
+        "Legon",
+        "Sulemana Braimah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Legon accommodation crisis has persisted for decades; needs practical solutions – Sulemana Braimah",
       "link": "https://www.myjoyonline.com/legon-accommodation-crisis-has-persisted-for-decades-needs-practical-solutions-sulemana-braimah/",
@@ -90,47 +131,6 @@ window.GDC_PAPERS = {
         "Newsfile",
         "presidential jet purchase",
         "UG hostel fees"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL: NASCO presents prizes to Hearts of Oak duo for being best player and coach for October",
-      "link": "https://www.myjoyonline.com/gpl-nasco-presents-prizes-to-hearts-of-oak-duo-for-being-best-player-and-coach-for-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T07:40:16.000Z",
-      "summary": "NASCO Electronics, through its parent company Electroland Ghana Limited, has presented prizes to Accra Hearts of Oak duo Nebojsa Kapor and Kelvin Osei Asibey after the pair were named the…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Hearts of Oak",
-        "Kelvin Osei Asibey",
-        "NASCO Coach of the Month",
-        "NASCO Player of the Month",
-        "Nebosja Kapor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTA 6 sales hit $3.8bn in a single day – the biggest entertainment launch in history",
-      "link": "https://www.myjoyonline.com/gta-6-sales-hit-3-8bn-in-a-single-day-the-biggest-entertainment-launch-in-history/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T07:30:00.000Z",
-      "summary": "Grand Theft Auto 6 (GTA 6) saw record retail sales in its first full-day of release, hitting $3.8bn (£2.9bn), making it the biggest entertainment launch in history.",
-      "categories": [
-        "International",
-        "Grand Theft Auto 6"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "link": "https://www.myjoyonline.com/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T07:23:00.000Z",
-      "summary": "Experts are calling it the biggest breakthrough in pancreatic cancer treatment for decades — a daily pill that appears to shrink and possibly even eliminate tumours in some patients with…",
-      "categories": [
-        "Health",
-        "pancreatic cancer pill"
       ],
       "site": "https://www.myjoyonline.com/"
     },
