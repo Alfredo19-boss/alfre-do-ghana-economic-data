@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T14:43:28.523Z",
+  "updated": "2026-11-21T14:53:29.113Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Challenge: Assafuah blasts Sports Minister Kofi Adams over alleged neglect of Amputee World Cup finalists",
+      "link": "https://www.myjoyonline.com/black-challenge-assafuah-blasts-sports-minister-kofi-adams-over-alleged-neglect-of-amputee-world-cup-finalists/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:50:52.000Z",
+      "summary": "Old Tafo MP and Ranking Member of Parliament’s Youth and Sports Committee, Vincent Ekow Assafuah, has criticised Sports Minister Kofi Adams over the Ministry’s handling of Ghana’s Black…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Black Challenge",
+        "Kofi Adams",
+        "Vincent Ekow Assafuah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mayweather’s Ghana visit offers opportunity to promote boxing, tourism – Mahama",
       "link": "https://www.myjoyonline.com/mayweathers-ghana-visit-offers-opportunity-to-promote-boxing-tourism-mahama/",
@@ -120,19 +135,6 @@ window.GDC_PAPERS = {
         "International",
         "UK",
         "Zelensky"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa elected chair of Nordic-African Foreign Ministers’ Meeting for 2027",
-      "link": "https://www.myjoyonline.com/ablakwa-elected-chair-of-nordic-african-foreign-ministers-meeting-for-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T13:54:23.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has been elected Chair of the Nordic-African Foreign Ministers’ Meeting for 2027.",
-      "categories": [
-        "National",
-        "Nordic-African Foreign Ministers",
-        "Samuel Okudzeto Ablakwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
