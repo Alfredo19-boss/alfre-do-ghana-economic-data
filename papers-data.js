@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T16:23:29.058Z",
+  "updated": "2026-11-21T16:43:29.079Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Man remanded for allegedly stealing girlfriend’s GH¢18,500",
+      "link": "https://www.myjoyonline.com/man-remanded-for-allegedly-stealing-girlfriends-gh%c2%a218500/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T16:36:25.000Z",
+      "summary": "A 32-year-old man has been remanded into police custody by the Madina District Court for allegedly stealing GH¢18,500 belonging to his girlfriend after she refused to loan him money to…",
+      "categories": [
+        "Crime",
+        "News",
+        "girlfriend’s money",
+        "man",
+        "Stealing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Okyenhene files CID compliant against KOANS for alleged publication of false news",
       "link": "https://www.myjoyonline.com/okyenhene-files-cid-compliant-against-koans-for-alleged-publication-of-false-news/",
@@ -122,21 +137,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Mahama",
         "Tourism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian cyclist takes climate campaign to COP31, calls for youth-led environmental action",
-      "link": "https://www.myjoyonline.com/ghanaian-cyclist-takes-climate-campaign-to-cop31-calls-for-youth-led-environmental-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:40:06.000Z",
-      "summary": "For five years, James Kumbeni has turned his bicycle into an instrument of climate advocacy, cycling across communities to promote environmental awareness and encourage action against…",
-      "categories": [
-        "National",
-        "COP31",
-        "environmental action",
-        "Ghanaian cyclist",
-        "James Kumbeni"
       ],
       "site": "https://www.myjoyonline.com/"
     },
