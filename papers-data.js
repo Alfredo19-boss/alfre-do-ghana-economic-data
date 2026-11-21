@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T21:16:35.082Z",
+  "updated": "2026-11-21T21:36:35.557Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nii Lante Vanderpuye promises pension scheme for NDC workers if elected National Chairman",
+      "link": "https://www.myjoyonline.com/nii-lante-vanderpuye-promises-pension-scheme-for-ndc-workers-if-elected-national-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T21:27:35.000Z",
+      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has pledged to introduce a pension scheme for party workers at all levels if elected to lead the…",
+      "categories": [
+        "Politics",
+        "NDC",
+        "Nii Lante Vanderpuye",
+        "Pension scheme"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
       "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
@@ -132,21 +146,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "scrambler"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Universities must rethink media education as media industry shifts towards entrepreneurship – Prof Sikanku",
-      "link": "https://www.myjoyonline.com/universities-must-rethink-media-education-as-media-industry-shifts-towards-entrepreneurship-prof-sikanku/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:10:48.000Z",
-      "summary": "Associate Professor of Journalism and Political Communication and Dean of the School of Journalism and Media Studies (SOJAMS) at the University of Media, Arts and Communication (UniMAC)…",
-      "categories": [
-        "Education",
-        "National",
-        "Media Education",
-        "Professor Godwin Etse Sikanku",
-        "Universities"
       ],
       "site": "https://www.myjoyonline.com/"
     },
