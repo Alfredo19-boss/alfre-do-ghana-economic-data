@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T15:32:58.804Z",
+  "updated": "2026-11-21T16:02:58.899Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s Productivity Pains Are Not Reaching Workers’ Pockets, GSS Report Finds",
+      "link": "https://thehighstreetjournal.com/ghanas-productivity-pains-are-not-reaching-workers-pockets-gss-report-finds/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T16:00:00.000Z",
+      "summary": "Ghana’s labour productivity has increased 178% since 1991, but workers’ earnings remain below 2019 levels, highlighting the disconnect between economic output and wage growth."
+    },
     {
       "title": "GEXPO 2026 Revives Memories of Classic Trade Fairs as Calls Grow for Annual Exhibition",
       "link": "https://thehighstreetjournal.com/gexpo-2026-revives-memories-of-classic-trade-fairs-as-calls-grow-for-annual-exhibition/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T11:45:00.000Z",
       "summary": "Financing partnership targets local contractors, suppliers and service providers struggling to secure capital for mining-sector contracts"
-    },
-    {
-      "title": "Average lending rate fell marginally to 15.75% in October 2026",
-      "link": "https://www.myjoyonline.com/average-lending-rate-fell-marginally-to-15-75-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T11:39:39.000Z",
-      "summary": "This means one would pay about 1.31% per month on every loan, excluding other fees."
     }
   ]
 };

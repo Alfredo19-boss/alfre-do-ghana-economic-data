@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T15:33:28.968Z",
+  "updated": "2026-11-21T16:03:29.318Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Obetsebi Lamptey to Pamprom road to reopen to traffic mid-December – GARID",
+      "link": "https://www.myjoyonline.com/obetsebi-lamptey-to-pamprom-road-to-reopen-to-traffic-mid-december-garid/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T15:52:44.000Z",
+      "summary": "The road stretch from the Obetsebi Lamptey Interchange to the Metro Mass area at Pamprom Junction is expected to reopen to motorists between December 15 and 20, 2026, following the…",
+      "categories": [
+        "National",
+        "News",
+        "GARID",
+        "Obetsebi Lamptey to Pamprom road"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana to vote for Infantino’s re-election as all 54 CAF nations back FIFA president",
       "link": "https://www.myjoyonline.com/ghana-to-vote-for-infantinos-re-election-as-all-54-caf-nations-back-fifa-president/",
@@ -130,21 +144,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "link": "https://www.myjoyonline.com/man-convicted-of-starting-palisades-fire-in-los-angeles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T13:59:46.000Z",
-      "summary": "A jury in Los Angeles has found a 30-year-old man guilty of starting one of the most destructive wildfires in California's history.",
-      "categories": [
-        "International",
-        "Fire",
-        "Los Angeles",
-        "Palisades"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KsTU matriculates over 9,000 students for 2025/2026 academic year",
+      "title": "KsTU matriculates over 9,000 students for 2026/2027 academic year",
       "link": "https://www.graphic.com.gh/news/education/kstu-matriculates-over-9-000-students-for-2025-2026-academic-year.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T13:29:05.000Z",
