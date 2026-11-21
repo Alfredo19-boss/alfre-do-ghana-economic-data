@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:49:16.407Z",
+  "updated": "2026-11-21T09:59:17.462Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,59 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP31: AbibiNsroma Foundation urges governments to turn climate pledges into action",
+      "link": "https://www.myjoyonline.com/cop31-abibinsroma-foundation-urges-governments-to-turn-climate-pledges-into-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:55:07.000Z",
+      "summary": "The AbibiNsroma Foundation has called on governments and climate finance institutions to ensure that commitments made at COP31 translate into tangible support for communities vulnerable to…",
+      "categories": [
+        "National",
+        "AbibiNsroma Foundation",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rent Control to go digital by first quarter of 2027 – Rent Commissioner",
+      "link": "https://www.myjoyonline.com/rent-control-to-go-digital-by-first-quarter-of-2027-rent-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:48:14.000Z",
+      "summary": "The Acting Rent Control Commissioner, Frederick Opoku, has announced plans to digitise the operations of the Rent Control Department within the first three months of 2027 as part of reforms…",
+      "categories": [
+        "National",
+        "Digital",
+        "Frederick Opoku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I initiated Gold Fields support for you – Sports Minister says as he praises Black Challenge for reaching Amputee World Cup final",
+      "link": "https://www.myjoyonline.com/i-initiated-gold-fields-support-for-you-sports-minister-says-as-he-praises-black-challenge-for-reaching-amputee-world-cup-final/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:47:54.000Z",
+      "summary": "The Black Challenge advanced into the final after beating defending champions Turkey on penalties in the semifinals in the early hours of Saturday.",
+      "categories": [
+        "Football",
+        "National",
+        "Amputee Football World Cup",
+        "Black Challenge",
+        "Gold Fields",
+        "Kofi Adams"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
+      "link": "https://www.graphic.com.gh/news/general-news/teacher-granted-ghc100-000-bail-over-alleged-sale-of-unregistered-drugs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T09:47:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "German President Steinmeier to visit Ghana on November 24",
       "link": "https://www.graphic.com.gh/news/general-news/german-president-steinmeier-to-visit-ghana-on-november-24.html",
@@ -118,48 +171,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Emotional outbursts will not solve student accommodation crisis – Vicky Bright",
-      "link": "https://www.myjoyonline.com/emotional-outbursts-will-not-solve-student-accommodation-crisis-vicky-bright/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:06:25.000Z",
-      "summary": "International corporate lawyer and entrepreneur Vicky Bright says emotional outbursts and public confrontations over university hostel fees will not resolve Ghana’s longstanding student…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Emotional outbursts",
-        "student accommodation crisis",
-        "Vicky Bright"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UG accommodation crisis has persisted for decades; needs practical solutions – Sulemana Braimah",
-      "link": "https://www.myjoyonline.com/ug-accommodation-crisis-has-persisted-for-decades-needs-practical-solutions-sulemana-braimah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:55:32.000Z",
-      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, says Ghana has failed to adequately address the longstanding accommodation crisis facing university…",
-      "categories": [
-        "National",
-        "Legon",
-        "Sulemana Braimah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Legon accommodation crisis has persisted for decades; needs practical solutions – Sulemana Braimah",
-      "link": "https://www.myjoyonline.com/legon-accommodation-crisis-has-persisted-for-decades-needs-practical-solutions-sulemana-braimah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:55:32.000Z",
-      "summary": "The Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, says Ghana has failed to adequately address the longstanding accommodation crisis facing university…",
-      "categories": [
-        "National",
-        "Legon",
-        "Sulemana Braimah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Javits Frimpong laid to rest in the Bronx",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-javits-frimpong-laid-to-rest-in-the-bronx.html",
       "source": "Daily Graphic",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/airbus-delivers-ach160-what-you-need-to-know-about-the-high-tech-helicopter-joining-ghanas-air-force.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T19:16:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "How Nkrumah secretly directed his cameraman Chris Hesse using a walking stick revealed in 'The Eyes of Ghana' documentary",
-      "link": "https://www.graphic.com.gh/news/general-news/how-nkrumah-secretly-directed-cameraman-chris-hesse-using-a-walking-stick-revealed-in-the-eyes-of-ghana-documentary.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T18:33:16.000Z",
       "summary": "",
       "categories": [
         "General News"
