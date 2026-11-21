@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T16:13:28.470Z",
+  "updated": "2026-11-21T16:23:29.058Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Okyenhene files CID compliant against KOANS for alleged publication of false news",
+      "link": "https://www.myjoyonline.com/okyenhene-files-cid-compliant-against-koans-for-alleged-publication-of-false-news/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T16:15:01.000Z",
+      "summary": "The Okyenhene, Osagyefuo Amoatia Ofori Panin, represented by the Akyem Abuakwa State Secretary, D.M. Ofori-Atta, has filed an official complaint against the Managing Director of KOANS…",
+      "categories": [
+        "Regional",
+        "CID",
+        "KOANS",
+        "Okyenhene"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "South Africa reopens the business of winning Ghanaian travellers and corporate clients",
       "link": "https://www.myjoyonline.com/south-africa-reopens-the-business-of-winning-ghanaian-travellers-and-corporate-clients/",
@@ -123,22 +137,6 @@ window.GDC_PAPERS = {
         "environmental action",
         "Ghanaian cyclist",
         "James Kumbeni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "APC hails Ghana’s Black Challenge after historic Amputee World Cup final qualification",
-      "link": "https://www.myjoyonline.com/apc-hails-ghanas-black-challenge-after-historic-amputee-world-cup-final-qualification/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:23:48.000Z",
-      "summary": "The African Paralympic Committee (APC) has congratulated Ghana’s Black Challenge and Morocco’s National Amputee Football Team after the two countries secured places in the final of the 2026…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Amputee Football World Cup",
-        "Black Challenge",
-        "Ghana",
-        "Mexico"
       ],
       "site": "https://www.myjoyonline.com/"
     },
