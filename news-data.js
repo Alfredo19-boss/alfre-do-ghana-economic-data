@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T20:46:05.231Z",
+  "updated": "2026-11-21T21:16:04.436Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
+      "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T21:12:58.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) says it will strengthen regulatory oversight and enforcement in 2027 to protect importers and exporters and address persistent challenges in the…"
+    },
     {
       "title": "Ghana’s Productivity Pains Are Not Reaching Workers’ Pockets, GSS Report Finds",
       "link": "https://thehighstreetjournal.com/ghanas-productivity-pains-are-not-reaching-workers-pockets-gss-report-finds/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T12:01:32.000Z",
       "summary": "Bills Microcredit has introduced no-down-payment, no-collateral and no-account-needed consumer loans dubbed Bills Direct. According to the firm, customers can pick items at partner stores…"
-    },
-    {
-      "title": "Minerals Commission, CalBank Commit GH¢1bn to Mining Businesses",
-      "link": "https://thehighstreetjournal.com/minerals-commission-calbank-commit-gh%c2%a21bn-to-mining-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T11:45:00.000Z",
-      "summary": "Financing partnership targets local contractors, suppliers and service providers struggling to secure capital for mining-sector contracts"
     }
   ]
 };

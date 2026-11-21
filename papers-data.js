@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T20:46:35.694Z",
+  "updated": "2026-11-21T21:16:35.082Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
+      "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T21:12:58.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) says it will strengthen regulatory oversight and enforcement in 2027 to protect importers and exporters and address persistent challenges in the…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027",
+        "Ghana Shippers Authority",
+        "Shipping Industry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "link": "https://www.myjoyonline.com/fight-over-fossil-fuels-leaves-cop31-climate-talks-in-deadlock/",
@@ -132,19 +147,6 @@ window.GDC_PAPERS = {
         "Media Education",
         "Professor Godwin Etse Sikanku",
         "Universities"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Leadership is not personal property’ – ASWAJ reaffirms NADAC’s sole authority to elect National Imam",
-      "link": "https://www.myjoyonline.com/leadership-is-not-personal-property-aswaj-reaffirms-nadacs-sole-authority-to-elect-national-imam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:05:30.000Z",
-      "summary": "The National Da’wa Council (NADAC) of the Ahlussunna Wal Jama’a (ASWAJ) has reaffirmed its constitutional mandate to elect the National Imam and his deputies, declaring that \"leadership is…",
-      "categories": [
-        "National",
-        "National Da’wa Council",
-        "National Imam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
