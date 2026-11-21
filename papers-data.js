@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T09:19:16.604Z",
+  "updated": "2026-11-21T09:29:17.004Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fifteen youth startups receive GH¢210,000 in seed funding under compassion business challenge",
+      "link": "https://www.myjoyonline.com/fifteen-youth-startups-receive-gh%c2%a2210000-in-seed-funding-under-compassion-business-challenge/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:26:26.000Z",
+      "summary": "Fifteen young entrepreneurs have been awarded a combined GH¢210,000 in seed capital under the second edition of the Compassion Business Challenge, as stakeholders push youth…",
+      "categories": [
+        "National",
+        "business challenge",
+        "SEED",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NFA urges Ghana Actors Guild to resolve divisions, avoid fresh court battle",
+      "link": "https://www.myjoyonline.com/nfa-urges-ghana-actors-guild-to-resolve-divisions-avoid-fresh-court-battle/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T09:23:35.000Z",
+      "summary": "The National Film Authority (NFA) has appealed to the leadership and members of the Ghana Actors Guild (GAG) to resolve their ongoing differences through dialogue, warning that renewed…",
+      "categories": [
+        "HP Entertainment 2",
+        "Movies",
+        "Ghana Actors’ Guild",
+        "Kafui Danku",
+        "National Film Authority (NFA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kofi Tonto says Ghana’s rent crisis has been neglected by successive governments, media",
       "link": "https://www.myjoyonline.com/kofi-tonto-says-ghanas-rent-crisis-has-been-neglected-by-successive-governments-media/",
@@ -104,32 +133,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNFS firefighters avert disaster as tanker catches fire at Tamale filling station",
-      "link": "https://www.myjoyonline.com/gnfs-firefighters-avert-disaster-as-tanker-catches-fire-at-tamale-filling-station/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:42:19.000Z",
-      "summary": "Firefighters from the Ghana National Fire Service (GNFS) have averted a potential disaster after swiftly extinguishing a fire involving a tanker at Naagamni Filling Station at Nyohini in…",
+      "title": "Javits Frimpong laid to rest in the Bronx",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-javits-frimpong-laid-to-rest-in-the-bronx.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T02:29:38.000Z",
+      "summary": "",
       "categories": [
-        "Regional",
-        "Fire",
-        "tanker"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t pledges support for justice over killing of Javits Frimpong",
-      "link": "https://www.myjoyonline.com/govt-pledges-support-for-justice-over-killing-of-javits-frimpong/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T08:40:58.000Z",
-      "summary": "Deputy Foreign Affairs Minister James Gyakye Quayson has assured the family of 15-year-old Ghanaian student Javits Badu Nkansah Frimpong of the government’s support in pursuing justice…",
-      "categories": [
-        "National",
-        "News",
-        "Government",
-        "Javits Frimpong",
-        "Justice"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "18-year-old UCC student wins Compassion Business Challenge with plastic recycling venture",
@@ -202,17 +214,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/gra-arrests-3-china-mall-operators-invites-13-for-vat-invoice-audit.html",
       "source": "Daily Graphic",
       "published": "2026-11-20T16:54:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Vice President Opoku-Agyemang calls for support for struggling rural banks",
-      "link": "https://www.graphic.com.gh/news/general-news/vice-president-opoku-agyemang-calls-for-support-for-struggling-rural-banks.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-20T16:45:50.000Z",
       "summary": "",
       "categories": [
         "General News"

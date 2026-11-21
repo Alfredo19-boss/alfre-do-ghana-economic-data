@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T09:18:45.846Z",
+  "updated": "2026-11-21T09:28:46.294Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Brisk Buying Expected at GEXPO as the Weekend Kicks In",
+      "link": "https://thehighstreetjournal.com/brisk-buying-expected-at-gexpo-as-the-weekend-kicks-in/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T09:20:39.000Z",
+      "summary": "GEXPO 2026 at Black Star Square—running until Sunday evening—evokes classic La Trade Fair and INDUTECH energy, showcasing international-standard Made-in-Ghana goods and inspiring…"
+    },
     {
       "title": "Beyond the Injunction: CLOGSAG’s Leadership Disputes and the Cost to Its Members",
       "link": "https://thehighstreetjournal.com/beyond-the-injunction-clogsags-leadership-disputes-and-the-cost-to-its-members/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T10:25:00.000Z",
       "summary": "Deloitte urges energy-intensive businesses to consider solar investments following proposed import duty and VAT exemptions on solar panels and batteries, saying the incentives could reduce…"
-    },
-    {
-      "title": "Mobile money fraud risks eroding trust in digital finance – Academic City, MMFL, BoG tackle fintech threats",
-      "link": "https://www.myjoyonline.com/mobile-money-fraud-risks-eroding-trust-in-digital-finance-academic-city-mmfl-bog-tackle-fintech-threats/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T10:11:36.000Z",
-      "summary": "A Bank of Ghana (BoG) official has warned that customers who lose their savings to fraud could turn away from digital financial services, undermining gains in financial inclusion."
     }
   ]
 };
