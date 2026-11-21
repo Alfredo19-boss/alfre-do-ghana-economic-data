@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T14:33:28.679Z",
+  "updated": "2026-11-21T14:43:28.523Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mayweather’s Ghana visit offers opportunity to promote boxing, tourism – Mahama",
+      "link": "https://www.myjoyonline.com/mayweathers-ghana-visit-offers-opportunity-to-promote-boxing-tourism-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:40:56.000Z",
+      "summary": "President John Dramani Mahama has hosted American boxing legend and promoter Floyd Joy Mayweather Jr. at his residence during the boxer’s visit to Accra this week.",
+      "categories": [
+        "Boxing",
+        "National",
+        "News",
+        "Floyd Joy Mayweather Jr.",
+        "Ghana",
+        "Mahama",
+        "Tourism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian cyclist takes climate campaign to COP31, calls for youth-led environmental action",
+      "link": "https://www.myjoyonline.com/ghanaian-cyclist-takes-climate-campaign-to-cop31-calls-for-youth-led-environmental-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:40:06.000Z",
+      "summary": "For five years, James Kumbeni has turned his bicycle into an instrument of climate advocacy, cycling across communities to promote environmental awareness and encourage action against…",
+      "categories": [
+        "National",
+        "COP31",
+        "environmental action",
+        "Ghanaian cyclist",
+        "James Kumbeni"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "APC hails Ghana’s Black Challenge after historic Amputee World Cup final qualification",
       "link": "https://www.myjoyonline.com/apc-hails-ghanas-black-challenge-after-historic-amputee-world-cup-final-qualification/",
@@ -114,36 +146,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AG’s 48-hour detention statement is revolutionary – Abraham Amaliba",
-      "link": "https://www.myjoyonline.com/ags-48-hour-detention-statement-is-revolutionary-abraham-amaliba/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T13:11:12.000Z",
-      "summary": "Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, has described the Attorney General’s directive on the 48-hour detention limit and misconduct by investigative…",
-      "categories": [
-        "National",
-        "News",
-        "48-hour detention statement",
-        "Abraham Amaliba",
-        "AG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AG directive: Amaliba calls for complaint unit to address misconduct",
-      "link": "https://www.myjoyonline.com/ag-directive-amaliba-calls-for-complaint-unit-to-address-misconduct/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T12:47:02.000Z",
-      "summary": "Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, has called on the Attorney General to establish a dedicated complaint unit to receive reports from citizens…",
-      "categories": [
-        "National",
-        "News",
-        "Abraham Amaliba",
-        "AG",
-        "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
