@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T14:53:29.113Z",
+  "updated": "2026-11-21T15:03:29.056Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana to vote for Infantino’s re-election as all 54 CAF nations back FIFA president",
+      "link": "https://www.myjoyonline.com/ghana-to-vote-for-infantinos-re-election-as-all-54-caf-nations-back-fifa-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:53:24.000Z",
+      "summary": "Ghana will vote for Gianni Infantino in the March 2027 FIFA presidential election after all 54 member associations of the Confederation of African Football (CAF), including the Ghana…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "FIFA elections",
+        "GFA",
+        "Ghana FA",
+        "Gianni Infantino",
+        "Kurt Okraku",
+        "Phillepe Diallo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Black Challenge: Assafuah blasts Sports Minister Kofi Adams over alleged neglect of Amputee World Cup finalists",
       "link": "https://www.myjoyonline.com/black-challenge-assafuah-blasts-sports-minister-kofi-adams-over-alleged-neglect-of-amputee-world-cup-finalists/",
@@ -122,19 +140,6 @@ window.GDC_PAPERS = {
         "Fire",
         "Los Angeles",
         "Palisades"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Zelensky says Crimean Bridge strikes ‘fair response’ as he meets UK’s Streeting",
-      "link": "https://www.myjoyonline.com/zelensky-says-crimean-bridge-strikes-fair-response-as-he-meets-uks-streeting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T13:54:28.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a \"fair response\" to 109 separate Russian…",
-      "categories": [
-        "International",
-        "UK",
-        "Zelensky"
       ],
       "site": "https://www.myjoyonline.com/"
     },

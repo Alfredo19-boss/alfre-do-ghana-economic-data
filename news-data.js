@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T14:52:58.513Z",
+  "updated": "2026-11-21T15:02:58.518Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEXPO 2026 Revives Memories of Classic Trade Fairs as Calls Grow for Annual Exhibition",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-revives-memories-of-classic-trade-fairs-as-calls-grow-for-annual-exhibition/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T15:00:00.000Z",
+      "summary": "GEXPO 2026 revives Ghana’s trade exhibition culture, bringing together over 500 exhibitors and renewing calls for an annual platform to promote local products and businesses."
+    },
     {
       "title": "Deloitte Backs New Economy Programme, Flags Implementation Challenges",
       "link": "https://thehighstreetjournal.com/deloitte-backs-new-economy-programme-flags-implementation-challenges/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T11:39:39.000Z",
       "summary": "This means one would pay about 1.31% per month on every loan, excluding other fees."
-    },
-    {
-      "title": "Private Sector Credit Surges 37.2% as Ghanaian Businesses Gain Greater Access to Bank Financing",
-      "link": "https://thehighstreetjournal.com/private-sector-credit-surges-37-2-as-ghanaian-businesses-gain-greater-access-to-bank-financing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T11:30:00.000Z",
-      "summary": "Private sector credit grew 37.2% in October as lending rates declined and non-performing loans improved, creating opportunities for businesses while raising questions about financing costs…"
     }
   ]
 };
