@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T22:36:35.325Z",
+  "updated": "2026-11-21T22:56:35.446Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -41,6 +41,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T22:13:40.000Z",
       "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has vowed to end the New Patriotic Party’s (NPP) dominance in the Ashanti Region, saying he…",
       "categories": [
+        "HP News 3",
         "Politics",
         "NDC Chairman",
         "NPP",
@@ -56,6 +57,7 @@ window.GDC_PAPERS = {
       "summary": "President John Dramani Mahama has urged the Minority in Parliament to support the government’s $10 billion New Economy programme, saying its success would benefit Ghana even if it prolongs…",
       "categories": [
         "National",
+        "Top Story",
         "Mahama",
         "Minority",
         "NDC",
@@ -70,6 +72,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T21:27:35.000Z",
       "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has pledged to introduce a pension scheme for party workers at all levels if elected to lead the…",
       "categories": [
+        "HP News 1",
         "Politics",
         "NDC",
         "Nii Lante Vanderpuye",
@@ -85,6 +88,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Shippers’ Authority (GSA) says it will strengthen regulatory oversight and enforcement in 2027 to protect importers and exporters and address persistent challenges in the…",
       "categories": [
         "Economy",
+        "HP News 5",
         "National",
         "2027",
         "Ghana Shippers Authority",
