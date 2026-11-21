@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T03:41:11.333Z",
+  "updated": "2026-11-21T04:01:11.000Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "VIDEO: 8 As student Philipa Acquah’s final speech at GCTU before tragic death",
       "link": "https://www.myjoyonline.com/video-8-as-student-philipa-acquahs-final-speech-at-gctu-before-tragic-death/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T01:46:00.000Z",
+      "published": "2026-11-21T00:26:00.000Z",
       "summary": "A video showing Philipa Acquah confidently addressing fellow students at her university matriculation ceremony has emerged, offering a poignant reminder of a promising young life cut short…",
       "categories": [
         "Education",
@@ -62,6 +62,48 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Ghanaian children spend 12 years in school but learn for only five – UNICEF",
+      "link": "https://www.myjoyonline.com/ghanaian-children-spend-12-years-in-school-but-learn-for-only-five-unicef/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T23:29:00.000Z",
+      "summary": "Ghana is facing a serious learning crisis, with children spending nearly 12 years in basic education but acquiring only about five years’ worth of learning, an education specialist at…",
+      "categories": [
+        "News",
+        "Children",
+        "Education",
+        "UNICEF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "French police officers sentenced for beating music producer Michel Zecler",
+      "link": "https://www.myjoyonline.com/french-police-officers-sentenced-for-beating-music-producer-michel-zecler/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T22:47:00.000Z",
+      "summary": "Three French police officers have been convicted of beating up a black music producer six years ago in Paris in what the court upheld as an aggravated circumstance of racism.",
+      "categories": [
+        "International",
+        "Music",
+        "French",
+        "Music Producer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.myjoyonline.com/denmark-accuses-russia-of-plotting-to-assassinate-us-ukrainian-rapper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-20T22:01:00.000Z",
+      "summary": "Denmark has accused Russian intelligence services of plotting to assassinate a Ukrainian-American near Copenhagen, saying they had \"planned\" and \"initiated\" the attempt.",
+      "categories": [
+        "News",
+        "Denmark",
+        "Russia",
+        "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://www.myjoyonline.com/trump-threatens-ban-on-us-firms-building-ai-data-centres-overseas/",
       "source": "MyJoyOnline",
@@ -95,50 +137,6 @@ window.GDC_PAPERS = {
       "summary": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
       "categories": [
         "International"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian boy killed in US ‘deserved so much better’, says New York Mayor Mamdani",
-      "link": "https://www.myjoyonline.com/ghanaian-boy-killed-in-us-deserved-so-much-better-says-new-york-mayor-mamdani/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T21:02:00.000Z",
-      "summary": "A 15-year-old Ghanaian boy who was killed in the US last month was remembered as a hard-working student with dreams of becoming a doctor, as his father, New York City's mayor and civil…",
-      "categories": [
-        "Diaspora",
-        "News",
-        "Javits Frimpong",
-        "Killed",
-        "teeanger"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sulemana Baba re-elected as NALAG Ahafo Regional representative",
-      "link": "https://www.myjoyonline.com/sulemana-baba-re-elected-as-nalag-ahafo-regional-representative/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:52:42.000Z",
-      "summary": "The incumbent Ahafo Regional Representative to the National Executive Council (NEC) of the National Association of Local Authorities of Ghana (NALAG), Sulemana Baba Amadu, has been retained…",
-      "categories": [
-        "Regional",
-        "NALAG Ahafo Regional representative",
-        "Sulemana Baba Amadu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee World Cup: Black Challenge players, officials to receive US$8,000 each from Gold Fields",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-black-challenge-players-officials-to-receive-us8000-each-from-gold-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:48:50.000Z",
-      "summary": "Gold Fields Ghana Limited, the Ghana Football Association (GFA) and the National Paralympic Committee of Ghana (NPC Ghana) have agreed on a funding package that will see each Black…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Ghana Football Association"
       ],
       "site": "https://www.myjoyonline.com/"
     },
