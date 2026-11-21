@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T06:09:17.216Z",
+  "updated": "2026-11-21T06:19:15.930Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T05:54:43.000Z",
       "summary": "Tano North Member of Parliament, Dr Gideon Boako, has challenged claims that the Bank of Ghana’s reduction of the Monetary Policy Rate from 14% to 11% represents a cut in prevailing market…",
       "categories": [
+        "HP News 5",
         "National",
         "Bank of Ghana",
         "Gideon Boako",
@@ -41,6 +42,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T05:40:07.000Z",
       "summary": "The Ghana Shippers’ Authority (GSA) has recovered about GH¢400,000 in unpaid rent after securing a High Court ruling that upholds its authority to enforce regulations under the Ghana…",
       "categories": [
+        "HP News 4",
         "News",
         "Ghana",
         "GSA",
@@ -55,6 +57,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-21T05:35:54.000Z",
       "summary": "The Controlled Food Suppliers Association has given the Ghana Commodity Exchange (GCX) and the National Food Buffer Stock Company (NAFCO) a reprieve, suspending plans to picket the two…",
       "categories": [
+        "HP News 1",
         "News",
         "Commodity",
         "food suppliers",
@@ -95,6 +98,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Mpraeso MP jabs government over cocaine trafficking, calls for ‘Cocaine Board’",
+      "link": "https://www.myjoyonline.com/mpraeso-mp-jabs-government-over-cocaine-trafficking-calls-for-cocaine-board/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:17:00.000Z",
+      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has questioned Ghana’s ability to combat cocaine trafficking, sarcastically suggesting that the government might as well establish a…",
+      "categories": [
+        "National",
+        "News",
+        "Cocaine",
+        "Ghana",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "National Apprenticeship Programme: 13,309 graduate in fashion, farming and hospitality",
       "link": "https://www.myjoyonline.com/national-apprenticeship-programme-13309-graduate-in-fashion-farming-and-hospitality/",
       "source": "MyJoyOnline",
@@ -107,31 +125,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "How Nkrumah secretly communicated with his cameraman Dr Chris Hesse, using a walking stick",
-      "link": "https://www.myjoyonline.com/how-nkrumah-secretly-communicated-with-his-cameraman-dr-chris-hesse-using-a-walking-stick/",
+      "title": "“Give Ghana’s mines to competent Ghanaian businesses” — Mpraeso MP urges gov’t",
+      "link": "https://www.myjoyonline.com/give-ghanas-mines-to-competent-ghanaian-businesses-mpraeso-mp-urges-govt/",
       "source": "MyJoyOnline",
-      "published": "2026-11-21T04:04:00.000Z",
-      "summary": "Ghana’s first President, Dr Kwame Nkrumah, had an unusual way of directing his personal cameraman, Rev. Dr Chris Tsui Hesse, without uttering a word — a discreet signalling system involving…",
+      "published": "2026-11-21T05:02:00.000Z",
+      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has called on the government to prioritise competent Ghanaian-owned businesses in the management and operation of the country’s…",
       "categories": [
+        "HP News 9",
+        "National",
         "News",
-        "Chris Hesse",
-        "Dr Kwame Nkrumah",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia demands protection for Ghanaian rice farmers against cheap imports",
-      "link": "https://www.myjoyonline.com/bawumia-demands-protection-for-ghanaian-rice-farmers-against-cheap-imports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T03:29:00.000Z",
-      "summary": "The growing pressure from imported rice on local producers requires a fundamental rethink of Ghana’s agricultural and trade policies, New Patriotic Party (NPP) flagbearer Dr Mahamudu…",
-      "categories": [
-        "Agribusiness",
-        "News",
-        "Bawumia",
+        "Businesses",
         "Ghana",
-        "Rice"
+        "Mines"
       ],
       "site": "https://www.myjoyonline.com/"
     },
