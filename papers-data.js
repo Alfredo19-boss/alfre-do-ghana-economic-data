@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-20T23:51:30.861Z",
+  "updated": "2026-11-21T03:11:10.942Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "VIDEO: 8 As student Philipa Acquah’s final speech at GCTU before tragic death",
+      "link": "https://www.myjoyonline.com/video-8-as-student-philipa-acquahs-final-speech-at-gctu-before-tragic-death/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T01:46:00.000Z",
+      "summary": "A video showing Philipa Acquah confidently addressing fellow students at her university matriculation ceremony has emerged, offering a poignant reminder of a promising young life cut short…",
+      "categories": [
+        "Education",
+        "News",
+        "GCTU",
+        "Philipa Acquah",
+        "University"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "18-year-old UCC student wins Compassion Business Challenge with plastic recycling venture",
       "link": "https://www.graphic.com.gh/news/general-news/18-year-old-ucc-student-wins-compassion-business-challenge-with-plastic-recycling-venture.html",
@@ -138,21 +153,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana must protect inland fisheries to secure future fish supply – Fisheries Minister",
-      "link": "https://www.myjoyonline.com/ghana-must-protect-inland-fisheries-to-secure-future-fish-supply-fisheries-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T20:39:16.000Z",
-      "summary": "The Minister for Fisheries and Aquaculture, Emelia Arthur, says that Ghana must intensify efforts to protect its inland fisheries resources through sustainable management, increased…",
-      "categories": [
-        "National",
-        "Emelia Arthur",
-        "fish supply",
-        "Ghana",
-        "inland fisheries"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Court injunction stops CLOGSAG congress scheduled for November 23-25",
