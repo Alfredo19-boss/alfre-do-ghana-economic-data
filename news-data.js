@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T07:58:46.347Z",
+  "updated": "2026-11-21T08:08:45.803Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Beyond the Injunction: CLOGSAG’s Leadership Disputes and the Cost to Its Members",
+      "link": "https://thehighstreetjournal.com/beyond-the-injunction-clogsags-leadership-disputes-and-the-cost-to-its-members/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T08:00:00.000Z",
+      "summary": "CLOGSAG’s national congress has been halted by a court injunction for the second time in four years, raising concerns over recurring leadership disputes and internal governance."
+    },
     {
       "title": "Ghana, US Virgin Islands explore new trade and investment opportunities",
       "link": "https://www.ghanabusinessnews.com/2026/11/21/ghana-us-virgin-islands-explore-new-trade-and-investment-opportunities/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T10:11:36.000Z",
       "summary": "A Bank of Ghana (BoG) official has warned that customers who lose their savings to fraud could turn away from digital financial services, undermining gains in financial inclusion."
-    },
-    {
-      "title": "Earning from Crypto & Digital Assets? Brace Yourself for a Possible Income Tax in 2027",
-      "link": "https://thehighstreetjournal.com/earning-from-crypto-digital-assets-brace-yourself-for-a-possible-income-tax-in-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T09:30:42.000Z",
-      "summary": "Ghana's proposed 2027 Income Tax Bill will bring cryptocurrency trading, virtual assets, digital services and foreign technology companies under formal taxation, closing existing loopholes…"
     }
   ]
 };
