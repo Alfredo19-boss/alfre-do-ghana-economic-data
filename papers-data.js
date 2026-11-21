@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T22:56:35.446Z",
+  "updated": "2026-11-21T23:16:35.381Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "All 16 regional best farmers to receive pick-up vehicles at 2026 Farmers’ Day",
+      "link": "https://www.myjoyonline.com/all-16-regional-best-farmers-to-receive-pick-up-vehicles-at-2026-farmers-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T23:07:18.000Z",
+      "summary": "All 16 regional best farmers will receive brand-new pick-up vehicles at this year’s National Farmers’ Day celebration, the Minister of Food and Agriculture, Eric Opoku, has announced. The…",
+      "categories": [
+        "National",
+        "Best farmers",
+        "pick up vehicles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vanderpuye vows to rebuild and unite NDC if elected National Chairman",
       "link": "https://www.myjoyonline.com/vanderpuye-vows-to-rebuild-and-unite-ndc-if-elected-national-chairman/",
@@ -125,23 +138,6 @@ window.GDC_PAPERS = {
         "Benaiah Elorm Dafeamekpor",
         "Ghana",
         "Morocco"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana-Morocco final brings African Paralympic chiefs together on opposite sides",
-      "link": "https://www.myjoyonline.com/ghana-morocco-final-brings-african-paralympic-chiefs-together-on-opposite-sides/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:53:29.000Z",
-      "summary": "Deen is travelling to San Juan De Lagos, Mexico on a private jet and will be joined at the final by the African Paralympic Committee’s Second Vice-President, Morocco’s Hamid El Aouni, as…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "Ghana",
-        "Morocco",
-        "National Paralympic Committee",
-        "Samson Deen"
       ],
       "site": "https://www.myjoyonline.com/"
     },
