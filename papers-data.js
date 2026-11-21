@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T08:19:16.956Z",
+  "updated": "2026-11-21T08:49:17.452Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GNFS firefighters avert disaster as tanker catches fire at Tamale filling station",
+      "link": "https://www.myjoyonline.com/gnfs-firefighters-avert-disaster-as-tanker-catches-fire-at-tamale-filling-station/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:42:19.000Z",
+      "summary": "Firefighters from the Ghana National Fire Service (GNFS) have averted a potential disaster after swiftly extinguishing a fire involving a tanker at Naagamni Filling Station at Nyohini in…",
+      "categories": [
+        "Regional",
+        "Fire",
+        "tanker"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t pledges support for justice over killing of Javits Frimpong",
+      "link": "https://www.myjoyonline.com/govt-pledges-support-for-justice-over-killing-of-javits-frimpong/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T08:40:58.000Z",
+      "summary": "Deputy Foreign Affairs Minister James Gyakye Quayson has assured the family of 15-year-old Ghanaian student Javits Badu Nkansah Frimpong of the government’s support in pursuing justice…",
+      "categories": [
+        "National",
+        "News",
+        "Government",
+        "Javits Frimpong",
+        "Justice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Livestream: Newsfile examines UG hostel fees, AG’s 48-hour detention directive and presidential jet purchase",
       "link": "https://www.myjoyonline.com/livestream-newsfile-examines-ug-hostel-fees-ags-48-hour-detention-directive-and-presidential-jet-purchase/",
@@ -103,34 +131,6 @@ window.GDC_PAPERS = {
         "Dr Hamid Kanyiti Salifu",
         "Dr Saajida Shiraz",
         "Students Loan Trust Fund"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ensign Global University celebrates its 2026 graduating class in 11th Congregation",
-      "link": "https://www.myjoyonline.com/ensign-global-university-celebrates-its-2026-graduating-class-in-11th-congregation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T06:09:00.000Z",
-      "summary": "Ensign Global University marked its 11th Congregation for the 2025/2026 academic year on November 14, graduating 65 Master of Public Health (MPH) students—comprising 32 males and 33 females.",
-      "categories": [
-        "Education",
-        "Congregation",
-        "Ensign Global University"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG’s 300bps rate cut never happened; market rates actually increased – Gideon Boako",
-      "link": "https://www.myjoyonline.com/bogs-300bps-rate-cut-never-happened-market-rates-actually-increased-gideon-boako/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:54:43.000Z",
-      "summary": "Tano North Member of Parliament, Dr Gideon Boako, has challenged claims that the Bank of Ghana’s reduction of the Monetary Policy Rate from 14% to 11% represents a cut in prevailing market…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Bank of Ghana",
-        "Gideon Boako",
-        "rates"
       ],
       "site": "https://www.myjoyonline.com/"
     },
