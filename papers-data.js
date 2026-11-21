@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:49:17.212Z",
+  "updated": "2026-11-21T05:59:17.378Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BoG’s 300bps rate cut never happened; market rates actually increased – Gideon Boako",
+      "link": "https://www.myjoyonline.com/bogs-300bps-rate-cut-never-happened-market-rates-actually-increased-gideon-boako/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:54:43.000Z",
+      "summary": "Tano North Member of Parliament, Dr Gideon Boako, has challenged claims that the Bank of Ghana’s reduction of the Monetary Policy Rate from 14% to 11% represents a cut in prevailing market…",
+      "categories": [
+        "National",
+        "Bank of Ghana",
+        "Gideon Boako",
+        "rates"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GSA recovers GH¢400,000 rent arrears after High Court victory",
       "link": "https://www.myjoyonline.com/gsa-recovers-gh%c2%a2400000-rent-arrears-after-high-court-victory/",
@@ -117,19 +131,6 @@ window.GDC_PAPERS = {
         "News",
         "Children",
         "Education",
-        "UNICEF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Unregistered children risk exclusion from essential services — UNICEF",
-      "link": "https://www.myjoyonline.com/unregistered-children-risk-exclusion-from-essential-services-unicef/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T02:01:00.000Z",
-      "summary": "The failure to register the birth of nearly one in four children in Ghana is leaving thousands without official recognition and undermining efforts to plan essential public services, the…",
-      "categories": [
-        "News",
-        "Children",
         "UNICEF"
       ],
       "site": "https://www.myjoyonline.com/"
