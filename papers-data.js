@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T17:53:28.981Z",
+  "updated": "2026-11-21T18:03:29.258Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Techiman North inaugurates 58 sanitation guards to boost cleanliness and create jobs",
+      "link": "https://www.myjoyonline.com/techiman-north-inaugurates-58-sanitation-guards-to-boost-cleanliness-and-create-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T17:54:00.000Z",
+      "summary": "The Techiman North District Assembly has inaugurated 58 sanitation guards tasked with keeping the district clean and healthy, in a move to tackle poor sanitation and youth unemployment…",
+      "categories": [
+        "Regional",
+        "sanitation guards",
+        "Techiman North District Assembly"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ernest Ofori Sarpong inducted as First Chancellor University of Media, Arts and Communication",
+      "link": "https://www.graphic.com.gh/news/education/ernest-ofori-sarpong-inducted-as-first-unimac-chancellor.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T17:53:58.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Asiedu Nketiah urges Africa to turn reparations declarations into practical action",
       "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-africa-to-turn-reparations-declarations-into-practical-action/",
@@ -127,20 +151,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obetsebi Lamptey to Pamprom road to reopen to traffic mid-December – GARID",
-      "link": "https://www.myjoyonline.com/obetsebi-lamptey-to-pamprom-road-to-reopen-to-traffic-mid-december-garid/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T15:52:44.000Z",
-      "summary": "The road stretch from the Obetsebi Lamptey Interchange to the Metro Mass area at Pamprom Junction is expected to reopen to motorists between December 15 and 20, 2026, following the…",
-      "categories": [
-        "National",
-        "News",
-        "GARID",
-        "Obetsebi Lamptey to Pamprom road"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "KsTU matriculates over 9,000 students for 2026/2027 academic year",
       "link": "https://www.graphic.com.gh/news/education/kstu-matriculates-over-9-000-students-for-2025-2026-academic-year.html",
       "source": "Daily Graphic",
@@ -214,17 +224,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ensign Global University graduates 65 public health students at 11th congregation",
-      "link": "https://www.graphic.com.gh/news/education/ensign-global-university-graduates-65-public-health-students-at-11th-congregation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T09:28:29.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
