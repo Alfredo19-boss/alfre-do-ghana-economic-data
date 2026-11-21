@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T05:10:42.786Z",
+  "updated": "2026-11-21T05:20:40.107Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -62,6 +62,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-21T05:00:00.000Z",
       "summary": "A new book by Prof Eliza Govender and Ghanaian academic, Dr Emmanuel Essel examines how community radio can strengthen grassroots health communication through access, participation and…"
+    },
+    {
+      "title": "Bawumia demands protection for Ghanaian rice farmers against cheap imports",
+      "link": "https://www.myjoyonline.com/bawumia-demands-protection-for-ghanaian-rice-farmers-against-cheap-imports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T03:29:00.000Z",
+      "summary": "The growing pressure from imported rice on local producers requires a fundamental rethink of Ghana’s agricultural and trade policies, New Patriotic Party (NPP) flagbearer Dr Mahamudu…"
     },
     {
       "title": "Output per worker stood at 178% in 2025 – GSS",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T08:29:53.000Z",
       "summary": "The CEO of MTN Ghana, Stephen Blewett has said the company is excited to mark three decades in the country as it plans to invest US$1.1 billion over the next three years. He made the…"
-    },
-    {
-      "title": "Power in every form has an expiry date!",
-      "link": "https://www.ghanabusinessnews.com/2026/11/18/power-in-every-form-has-an-expiry-date/",
-      "source": "Ghana Business News",
-      "published": "2026-11-18T07:20:31.000Z",
-      "summary": "Whatever power you wield, either administrative or pollical, there is always an expiry date. For those who are in control of corporate organisations, there is always the day to step down…"
     }
   ]
 };

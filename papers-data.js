@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T05:11:11.219Z",
+  "updated": "2026-11-21T05:21:10.883Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "National Apprenticeship Programme: 13,309 graduate in fashion, farming and hospitality",
+      "link": "https://www.myjoyonline.com/national-apprenticeship-programme-13309-graduate-in-fashion-farming-and-hospitality/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T05:10:43.000Z",
+      "summary": "The National Programme (NAP) has produced its first graduating class, with 13,309 young Ghanaians completing training across all 16 regions.",
+      "categories": [
+        "News",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UNICEF pushes mother-tongue teaching to improve early learning",
       "link": "https://www.myjoyonline.com/unicef-pushes-mother-tongue-teaching-to-improve-early-learning/",
@@ -126,20 +138,6 @@ window.GDC_PAPERS = {
         "Music",
         "French",
         "Music Producer"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.myjoyonline.com/denmark-accuses-russia-of-plotting-to-assassinate-us-ukrainian-rapper/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T22:01:00.000Z",
-      "summary": "Denmark has accused Russian intelligence services of plotting to assassinate a Ukrainian-American near Copenhagen, saying they had \"planned\" and \"initiated\" the attempt.",
-      "categories": [
-        "News",
-        "Denmark",
-        "Russia",
-        "Ukraine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
