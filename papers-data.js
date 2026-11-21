@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T07:29:16.354Z",
+  "updated": "2026-11-21T07:39:16.138Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GTA 6 sales hit $3.8bn in a single day – the biggest entertainment launch in history",
+      "link": "https://www.myjoyonline.com/gta-6-sales-hit-3-8bn-in-a-single-day-the-biggest-entertainment-launch-in-history/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T07:30:00.000Z",
+      "summary": "Grand Theft Auto 6 (GTA 6) saw record retail sales in its first full-day of release, hitting $3.8bn (£2.9bn), making it the biggest entertainment launch in history.",
+      "categories": [
+        "International",
+        "Grand Theft Auto 6"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "link": "https://www.myjoyonline.com/massive-hope-for-pancreatic-cancer-pill-after-trial-saw-tumours-vanish/",
@@ -115,24 +127,6 @@ window.GDC_PAPERS = {
         "Commodity",
         "food suppliers",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge make history with Turkey win to set up Amputee World Cup final against Morocco",
-      "link": "https://www.myjoyonline.com/black-challenge-make-history-with-turkey-win-to-set-up-amputee-world-cup-final-against-morocco/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:29:38.000Z",
-      "summary": "Ghana’s Black Challenge have reached the final of the 2026 Amputee Football World Cup for the first time in their history after beating defending champions Turkey 4-2 on penalties in the…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "National",
-        "News",
-        "Sports",
-        "2026 Amputee Football World Cup",
-        "Black Challenge"
       ],
       "site": "https://www.myjoyonline.com/"
     },
