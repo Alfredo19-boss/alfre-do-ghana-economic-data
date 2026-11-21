@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T19:23:28.848Z",
+  "updated": "2026-11-21T20:46:35.694Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,66 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "link": "https://www.myjoyonline.com/fight-over-fossil-fuels-leaves-cop31-climate-talks-in-deadlock/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T20:18:54.000Z",
+      "summary": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock after running more than 36 hours into overtime with countries unable to agree on a new global climate deal.",
+      "categories": [
+        "International",
+        "COP31",
+        "fossil fuels",
+        "UN climate summit"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amputee World Cup: Repeat for Ghana or revenge for Morocco?",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-repeat-for-ghana-or-revenge-for-morocco/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:56:19.000Z",
+      "summary": "For Ghana, the opportunity is to crown an impressive campaign with a maiden world title, while Morocco will be seeking revenge for two painful defeats against their West African rivals.",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "2026 Football World Cup",
+        "Amputee",
+        "Benaiah Elorm Dafeamekpor",
+        "Ghana",
+        "Morocco"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana-Morocco final brings African Paralympic chiefs together on opposite sides",
+      "link": "https://www.myjoyonline.com/ghana-morocco-final-brings-african-paralympic-chiefs-together-on-opposite-sides/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T19:53:29.000Z",
+      "summary": "Deen is travelling to San Juan De Lagos, Mexico on a private jet and will be joined at the final by the African Paralympic Committee’s Second Vice-President, Morocco’s Hamid El Aouni, as…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Sports",
+        "Ghana",
+        "Morocco",
+        "National Paralympic Committee",
+        "Samson Deen"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UK and Ghana to deepen security partnership at 4th Security Dialogue in London next week",
+      "link": "https://www.graphic.com.gh/news/general-news/uk-and-ghana-to-deepen-security-partnership-at-fourth-security-dialogue-in-london.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-21T19:43:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
       "link": "https://www.myjoyonline.com/senior-high-schools-still-using-firewood-and-charcoal-in-their-kitchens-urged-to-adopt-lpg/",
@@ -85,46 +145,6 @@ window.GDC_PAPERS = {
         "National",
         "National Da’wa Council",
         "National Imam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man’s penis reattached at Korle Bu Teaching Hospital after accident",
-      "link": "https://www.myjoyonline.com/mans-penis-reattached-at-korle-bu-teaching-hospital-after-accident/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T18:24:02.000Z",
-      "summary": "Surgeons at the Korle Bu Teaching Hospital have successfully reattached a man’s severed penis in a rare and complex procedure, the hospital’s Board Chair, Professor Titus Beyuo, has…",
-      "categories": [
-        "Health",
-        "HP News 4",
-        "Korle Bu",
-        "penis"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Give us back our school’ – Mfantsipim Old Boys appeal to government",
-      "link": "https://www.myjoyonline.com/give-us-back-our-school-mfantsipim-old-boys-appeal-to-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T18:22:53.000Z",
-      "summary": "The Mfantsipim Old Boys Association (MOBA) has called on the government to reconsider the management structure of Mfantsipim School and allow the association to assume greater…",
-      "categories": [
-        "Education",
-        "National",
-        "Mfantsipim Old Boys"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Techiman North inaugurates 58 sanitation guards to boost cleanliness and create jobs",
-      "link": "https://www.myjoyonline.com/techiman-north-inaugurates-58-sanitation-guards-to-boost-cleanliness-and-create-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T17:54:00.000Z",
-      "summary": "The Techiman North District Assembly has inaugurated 58 sanitation guards tasked with keeping the district clean and healthy, in a move to tackle poor sanitation and youth unemployment…",
-      "categories": [
-        "Regional",
-        "sanitation guards",
-        "Techiman North District Assembly"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -199,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/teacher-granted-ghc100-000-bail-over-alleged-sale-of-unregistered-drugs.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T09:47:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "German President Steinmeier to visit Ghana on November 24",
-      "link": "https://www.graphic.com.gh/news/general-news/german-president-steinmeier-to-visit-ghana-on-november-24.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T09:38:12.000Z",
       "summary": "",
       "categories": [
         "General News"
