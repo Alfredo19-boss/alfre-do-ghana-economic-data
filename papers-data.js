@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T10:34:16.655Z",
+  "updated": "2026-11-21T10:54:17.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "High Court rules that Anlo Traditional Council lacks jurisdiction to adjudicate Atorkor chieftaincy dispute",
+      "link": "https://www.myjoyonline.com/high-court-rules-that-anlo-traditional-council-lacks-jurisdiction-to-adjudicate-atorkor-chieftaincy-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T10:43:28.000Z",
+      "summary": "The Denu High Court has ruled that the Anlo Traditional Council lacks jurisdiction over a chieftaincy dispute concerning the legitimate Dufia (Paramount Chief) for the Atorkor community in…",
+      "categories": [
+        "News",
+        "Regional",
+        "Anlo Traditional Council",
+        "Atorkor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UGEL cannot hide behind UG’s autonomy to evade Rent Commissioner – Appiagyei-Atua",
       "link": "https://www.myjoyonline.com/ugel-cannot-hide-behind-ugs-autonomy-to-evade-rent-commissioner-appiagyei-atua/",
@@ -156,20 +170,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fifteen youth startups receive GH¢210,000 in seed funding under compassion business challenge",
-      "link": "https://www.myjoyonline.com/fifteen-youth-startups-receive-gh%c2%a2210000-in-seed-funding-under-compassion-business-challenge/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T09:26:26.000Z",
-      "summary": "Fifteen young entrepreneurs have been awarded a combined GH¢210,000 in seed capital under the second edition of the Compassion Business Challenge, as stakeholders push youth…",
-      "categories": [
-        "National",
-        "business challenge",
-        "SEED",
-        "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Festival to revive Nana Yaa Asantewaa’s legacy, restore fire-ravaged museum",
