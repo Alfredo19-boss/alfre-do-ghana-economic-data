@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T06:19:15.930Z",
+  "updated": "2026-11-21T07:09:16.256Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Students Loan Trust Fund sensitises tertiary students on available education financing opportunities",
+      "link": "https://www.myjoyonline.com/students-loan-trust-fund-sensitises-tertiary-students-on-available-education-financing-opportunities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T06:59:01.000Z",
+      "summary": "The Students Loan Trust Fund (SLTF) has affirmed its commitment to improving access to tertiary education financing as it launches an extensive student orientation and sensitisation…",
+      "categories": [
+        "Education",
+        "Dr Hamid Kanyiti Salifu",
+        "Dr Saajida Shiraz",
+        "Students Loan Trust Fund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "BoG’s 300bps rate cut never happened; market rates actually increased – Gideon Boako",
       "link": "https://www.myjoyonline.com/bogs-300bps-rate-cut-never-happened-market-rates-actually-increased-gideon-boako/",
@@ -121,22 +135,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Give Ghana’s mines to competent Ghanaian businesses” — Mpraeso MP urges gov’t",
-      "link": "https://www.myjoyonline.com/give-ghanas-mines-to-competent-ghanaian-businesses-mpraeso-mp-urges-govt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T05:02:00.000Z",
-      "summary": "The Member of Parliament for Mpraeso, Davis Ansah Opoku, has called on the government to prioritise competent Ghanaian-owned businesses in the management and operation of the country’s…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Businesses",
-        "Ghana",
-        "Mines"
       ],
       "site": "https://www.myjoyonline.com/"
     },
