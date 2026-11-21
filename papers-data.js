@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T04:21:11.161Z",
+  "updated": "2026-11-21T05:01:11.789Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Unregistered children risk exclusion from essential services — UNICEF",
+      "link": "https://www.myjoyonline.com/unregistered-children-risk-exclusion-from-essential-services-unicef/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T02:01:00.000Z",
+      "summary": "The failure to register the birth of nearly one in four children in Ghana is leaving thousands without official recognition and undermining efforts to plan essential public services, the…",
+      "categories": [
+        "News",
+        "Children",
+        "UNICEF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UNICEF calls for stronger voice for children in national decisions",
       "link": "https://www.myjoyonline.com/unicef-calls-for-stronger-voice-for-children-in-national-decisions/",
@@ -126,19 +139,6 @@ window.GDC_PAPERS = {
         "News",
         "AI data centre",
         "Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "link": "https://www.myjoyonline.com/white-house-removes-cyber-security-chief-after-series-of-tech-outages/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T21:33:02.000Z",
-      "summary": "The top cyber-security official in the US government is leaving his post after a little over a year in the job.",
-      "categories": [
-        "International",
-        "Cyber",
-        "White House"
       ],
       "site": "https://www.myjoyonline.com/"
     },

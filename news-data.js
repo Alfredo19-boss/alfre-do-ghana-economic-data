@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T04:20:40.473Z",
+  "updated": "2026-11-21T05:00:41.353Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s 2030 Sanitation Target at Risk as 6 Million Still Practise Open Defecation",
+      "link": "https://thehighstreetjournal.com/ghanas-2030-sanitation-target-at-risk-as-6-million-still-practise-open-defecation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:00:00.000Z",
+      "summary": "Ghana’s 2030 sanitation target faces mounting pressure, with six million people practising open defecation, prompting calls for comprehensive waste management beyond toilet construction."
+    },
+    {
+      "title": "Community Radio Can Strengthen Grassroots Health Development, New Book Finds",
+      "link": "https://thehighstreetjournal.com/community-radio-can-strengthen-grassroots-health-development-new-book-finds/",
+      "source": "The High Street Journal",
+      "published": "2026-11-21T05:00:00.000Z",
+      "summary": "A new book by Prof Eliza Govender and Ghanaian academic, Dr Emmanuel Essel examines how community radio can strengthen grassroots health communication through access, participation and…"
+    },
     {
       "title": "Output per worker stood at 178% in 2025 – GSS",
       "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T05:48:49.000Z",
       "summary": "The Ghana cedi is coming under renewed pressure, with its year-to-date depreciation against the US dollar reaching 10.6 per cent in November, up from 9.5 per cent in September."
-    },
-    {
-      "title": "Gold Fields Touts Enormous Technical & Financial Capacity to Extend Life of Tarkwa Mine Upon Lease Renewal",
-      "link": "https://thehighstreetjournal.com/gold-fields-touts-enormous-technical-financial-capacity-to-extend-life-of-tarkwa-mine-upon-lease-renewal/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T05:43:54.000Z",
-      "summary": "Gold Fields says its technical expertise, US$5 billion investment history and financial strength position it to extend Tarkwa mine's lifespan, pledging further capital investment to protect…"
-    },
-    {
-      "title": "China offers AI and green technology support for Ghana’s $10bn New Economy push",
-      "link": "https://www.myjoyonline.com/china-offers-ai-and-green-technology-support-for-ghanas-10bn-new-economy-push/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T05:32:00.000Z",
-      "summary": "China has said it is ready to support Ghana’s US$10 billion New Economy Programme through cooperation in artificial intelligence, green technology, agriculture, and industrial development."
     }
   ]
 };
