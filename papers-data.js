@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T22:22:11.635Z",
+  "updated": "2026-11-22T22:32:12.384Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ashanti NDC Communications Officer Kabore endorses Dr Sammy Ayeh for Deputy National Communications Officer role",
+      "link": "https://www.myjoyonline.com/ashanti-ndc-communications-officer-kabore-endorses-dr-sammy-ayeh-for-deputy-national-communications-officer-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:25:41.000Z",
+      "summary": "The newly elected Ashanti Regional Communications Officer of the National Democratic Congress (NDC), Mahmud Kabore, has endorsed Dr Sammy Ayeh for the position of Deputy National…",
+      "categories": [
+        "National",
+        "Politics",
+        "Deputy National Communications Officer",
+        "Dr Sammy Ayeh",
+        "Kabore",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Argentina midfielder Paredes collapses during TV interview",
       "link": "https://www.myjoyonline.com/argentina-midfielder-paredes-collapses-during-tv-interview/",
@@ -111,22 +127,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Accra Circuit Court",
         "Enlistment fraud"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Woyome dares critics to prove that he took a bribe or engaged in corruption",
-      "link": "https://www.myjoyonline.com/woyome-dares-critics-to-prove-that-he-took-a-bribe-or-engaged-in-corruption/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:17:19.000Z",
-      "summary": "Alfred Agbesi Woyome, a contender for the National Democratic Congress (NDC) national chairmanship, has challenged anyone in the country to produce evidence that he has taken a bribe or…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Politics",
-        "Alfred Agbesi Woyome",
-        "Judgement Debt",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
