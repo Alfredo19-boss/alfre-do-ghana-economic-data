@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:16:20.140Z",
+  "updated": "2026-11-22T16:26:19.255Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
+      "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:17:51.000Z",
+      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has called for increased investment in infrastructure, financing and formalisation of the artisanal and small-scale mining (ASM) sector to help…",
+      "categories": [
+        "Mining",
+        "National",
+        "ASM",
+        "Chamber of licenced gold buyers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Roads Minister Kwame Agbodza Inducted into Ghana Institute of Architects Hall of Fellows",
       "link": "https://www.graphic.com.gh/news/general-news/roads-minister-kwame-agbodza-inducted-into-ghana-institute-of-architects-hall-of-fellows.html",
       "source": "Daily Graphic",
@@ -30,6 +44,19 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sir Knight Prosper Augustus Semevo",
+      "link": "https://www.myjoyonline.com/sir-knight-prosper-augustus-semevo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:13:43.000Z",
+      "summary": "CELEBRATION OF LIFE CHIEF MOURNERS Daasebre Nana Kweku Boateng Ill (Paramount Chief of New Juaben Traditional Area), Togbi Tsikata Aqbodzie Il (Dufia of Srogbe), Togbi Nyaho Tamakloe VI…",
+      "categories": [
+        "National",
+        "Obituary",
+        "Prosper Augustus Semevo"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Accra Academy 2001 Year Group marks 25th anniversary; hands over renovated dining hall, kitchen complex",
@@ -131,36 +158,6 @@ window.GDC_PAPERS = {
         "Customs Commissioner",
         "GRA",
         "Nana Fredua Ofori-Atta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newmont marks 20 years in Ghana with over $6bn investment, $3bn in state revenue",
-      "link": "https://www.myjoyonline.com/newmont-marks-20-years-in-ghana-with-over-6bn-investment-3bn-in-state-revenue/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T14:55:11.000Z",
-      "summary": "Newmont’s Ahafo South Mine has marked two decades of commercial gold production in Ghana, celebrating a 20-year partnership defined by over $6 billion in capital investments, more than $3…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "Mining",
-        "National",
-        "Investment",
-        "Newmont"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Military training for the first batch of 1,000 NSS personnel begins on November 30",
-      "link": "https://www.myjoyonline.com/military-training-for-the-first-batch-of-1000-nss-personnel-begins-on-november-30/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T14:26:57.000Z",
-      "summary": "The first batch of 1,000 National Service Personnel selected for a military training exercise will begin the programme on November 30, 2026, at the Battle Training Camp (BTC) in Bundase.",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Military training",
-        "NSS Personnel"
       ],
       "site": "https://www.myjoyonline.com/"
     },

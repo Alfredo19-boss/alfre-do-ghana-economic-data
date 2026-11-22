@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T16:15:51.198Z",
+  "updated": "2026-11-22T16:25:49.125Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
+      "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:17:51.000Z",
+      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has called for increased investment in infrastructure, financing and formalisation of the artisanal and small-scale mining (ASM) sector to help…"
+    },
     {
       "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
       "link": "https://www.myjoyonline.com/customs-commissioner-rallies-brokers-to-close-gh%c2%a214-35bn-revenue-gap/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-18T16:53:38.000Z",
       "summary": "More than 15 million internal documents reportedly offer insights into how Deutsche Bank handled warnings and problematic clients. Here is what international media outlets discovered while…"
-    },
-    {
-      "title": "MTN Urged to Strengthen Network Quality and Expand Digital Inclusion",
-      "link": "https://thehighstreetjournal.com/mtn-urged-to-strengthen-network-quality-and-expand-digital-inclusion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T16:15:00.000Z",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has urged MTN Ghana to improve network quality, expand digital access and strengthen cybersecurity as the telecommunications company…"
     }
   ]
 };
