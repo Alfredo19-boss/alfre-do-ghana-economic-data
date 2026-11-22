@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:56:19.892Z",
+  "updated": "2026-11-22T17:06:19.067Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Asikuma Inland Port to ease Tema Port congestion and create jobs in Asuogyaman – Mahama",
+      "link": "https://www.myjoyonline.com/asikuma-inland-port-to-ease-tema-port-congestion-and-create-jobs-in-asuogyaman-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:01:36.000Z",
+      "summary": "President John Mahama says the construction of the Asikuma Inland Port will help ease congestion at the Tema Port while creating jobs and opening up economic opportunities for residents of…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Asikuma Inland Port",
+        "Asuogyaman",
+        "Mahama",
+        "Odwira Akyi Akwasidae Kese",
+        "Tema Port"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026/2027 GPL: Medeama beat AshantiGold to stay top",
+      "link": "https://www.myjoyonline.com/2026-2027-gpl-medeama-beat-ashantigold-to-stay-top/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:59:24.000Z",
+      "summary": "Medeama SC made it three consecutive wins in the Ghana Premier League with a comfortable 2-0 victory over AshantiGold. After a goalless first half, the defending champions broke the…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Ghana Premier League",
+        "Medeama SC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gizella Tetteh-Agbotui condemns unfair hostel fee hikes, assures students of gov’t action",
       "link": "https://www.myjoyonline.com/gizella-tetteh-agbotui-condemns-unfair-hostel-fee-hikes-assures-students-of-govt-action/",
@@ -134,6 +166,7 @@ window.GDC_PAPERS = {
       "summary": "The Accra Academy 2001 Year Group, popularly known as BLEOO 2G1, has marked its 25th anniversary with the official handover and commissioning of a renovated Dining Hall and Kitchen Complex…",
       "categories": [
         "Education",
+        "HP News 9",
         "National",
         "Accra Academy",
         "Accra Academy 2001 year group",
@@ -151,35 +184,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC-USA elects new executives to steer chapter’s affairs",
-      "link": "https://www.myjoyonline.com/ndc-usa-elects-new-executives-to-steer-chapters-affairs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T15:45:59.000Z",
-      "summary": "The United States chapter of the National Democratic Congress (NDC-USA) has elected new executives to lead the organisation and strengthen its structures across the country.",
-      "categories": [
-        "News",
-        "Politics",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.myjoyonline.com/south-korea-education-minister-resigns-over-exam-cheating-scandal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T15:35:24.000Z",
-      "summary": "South Korea's Education Minister Choi Kyo-jin has resigned over an exam cheating scandal that shocked the nation.",
-      "categories": [
-        "Education",
-        "International",
-        "News",
-        "Choi Kyo-jin",
-        "Exam",
-        "South Korea"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Korle Bu surgeons successfully reattach man's severed penis after he injured himself while squatting on WC",
