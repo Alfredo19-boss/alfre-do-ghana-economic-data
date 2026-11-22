@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T04:08:05.830Z",
+  "updated": "2026-11-22T04:38:07.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One presidential jet, dishonest politicians, rented press and gullible citizens",
+      "link": "https://www.myjoyonline.com/one-presidential-jet-dishonest-politicians-rented-press-and-gullible-citizens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T04:31:26.000Z",
+      "summary": "Imagine this: in today’s commercial aviation, airlines are required to submit advance passenger information to authorities at the destination airport. If the President of Ghana were to be…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Akufo-Addo",
+        "John Mahama",
+        "Kwaku Antwi-Boasiako",
+        "NDC",
+        "NPP",
+        "Okudzeto Ablakwa",
+        "Presidential jet"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP 31: Africa expresses profound disappointment with outcomes, questions Presidency’s handling of negotiations",
       "link": "https://www.myjoyonline.com/cop-31-africa-expresses-profound-disappointment-with-outcomes-questions-presidencys-handling-of-negotiations/",
@@ -118,20 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "Best farmers",
         "pick up vehicles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vanderpuye vows to rebuild and unite NDC if elected National Chairman",
-      "link": "https://www.myjoyonline.com/vanderpuye-vows-to-rebuild-and-unite-ndc-if-elected-national-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T22:24:49.000Z",
-      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has pledged to rebuild and unite the party, promising to overhaul its structures and restore its…",
-      "categories": [
-        "Politics",
-        "National Chairman",
-        "NDC",
-        "Vanderpuye"
       ],
       "site": "https://www.myjoyonline.com/"
     },
