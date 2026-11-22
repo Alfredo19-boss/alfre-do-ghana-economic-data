@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:56:18.968Z",
+  "updated": "2026-11-22T11:26:19.777Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kwame Dzokoto of Edziban fame to be buried on February 20, 2027, in Sekondi",
+      "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-buried-on-february-20-2027-in-sekondi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:50:20.000Z",
+      "summary": "Seth Kwame Dzokoto, affectionately called Edziban, an outstanding personality in the media and political space, will be laid to rest on February 20, 2027, in Sekondi in the Western Region.",
+      "categories": [
+        "National",
+        "Edziban",
+        "Sekondi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kwame Dzokoto of Edziban fame to be laid to rest on February 20, 2027, in Sekondi",
       "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-laid-to-rest-on-february-20-2027-in-sekondi/",
@@ -129,19 +142,6 @@ window.GDC_PAPERS = {
         "The Hague",
         "Turkey",
         "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bagbin urges Africa to tell its own story, use technology ethically",
-      "link": "https://www.myjoyonline.com/bagbin-urges-africa-to-tell-its-own-story-use-technology-ethically/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:05:48.000Z",
-      "summary": "Africa must take greater ownership of its narratives and build a stronger continental communication ecosystem, Mr Alban Bagbin, the Speaker of Ghana’s Parliament, told delegates at the 2026…",
-      "categories": [
-        "National",
-        "Africa",
-        "Bagbin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
