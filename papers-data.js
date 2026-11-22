@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T03:48:06.059Z",
+  "updated": "2026-11-22T03:58:06.298Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prof Nunoo calls for automated fisheries management to curb political interference",
+      "link": "https://www.myjoyonline.com/prof-nunoo-calls-for-automated-fisheries-management-to-curb-political-interference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T03:54:26.000Z",
+      "summary": "Professor of Fisheries Science at the University of Ghana, Francis Kofi Ewusie Nunoo, has called for greater automation in Ghana’s fisheries sector, arguing that the use of modern…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "22-year-old Ghanaian man dies after apartment fire in New York",
       "link": "https://www.myjoyonline.com/22-year-old-ghanaian-man-dies-after-apartment-fire-in-new-york/",
@@ -120,21 +131,6 @@ window.GDC_PAPERS = {
         "Minority",
         "NDC",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nii Lante Vanderpuye promises pension scheme for NDC workers if elected National Chairman",
-      "link": "https://www.myjoyonline.com/nii-lante-vanderpuye-promises-pension-scheme-for-ndc-workers-if-elected-national-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T21:27:35.000Z",
-      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has pledged to introduce a pension scheme for party workers at all levels if elected to lead the…",
-      "categories": [
-        "HP News 1",
-        "Politics",
-        "NDC",
-        "Nii Lante Vanderpuye",
-        "Pension scheme"
       ],
       "site": "https://www.myjoyonline.com/"
     },
