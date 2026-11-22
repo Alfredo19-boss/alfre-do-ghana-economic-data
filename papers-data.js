@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T17:16:18.832Z",
+  "updated": "2026-11-22T17:26:19.303Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,48 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "2026/27 Ghana League: Dreams beat Samartex to record consecutive wins for first time this season",
+      "link": "https://www.myjoyonline.com/2026-27-ghana-league-dreams-beat-samartex-to-record-consecutive-wins-for-first-time-this-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:20:39.000Z",
+      "summary": "Dreams FC recorded consecutive victories in the Ghana Premier League for the first time this season after beating FC Samartex 1996 2-0 at the Tuba AstroTurf on Sunday. The Still Believe…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026/27 Ghana Premier League",
+        "Dreams Fc",
+        "FC Samartex 1996"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prof. Francis Kwaw Andoh inducted as Principal of Enchi College of Education",
+      "link": "https://www.myjoyonline.com/prof-francis-kwaw-andoh-inducted-as-principal-of-enchi-college-of-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:20:03.000Z",
+      "summary": "Professor Francis Kwaw Andoh, an alumnus of Enchi College of Education, has been formally inducted as the new Principal of the institution in the Western North Region.",
+      "categories": [
+        "Education",
+        "Regional",
+        "Enchi College of Education",
+        "principal",
+        "Prof Francis Kwaw Andoh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I wanted a 5% fare increment, but transport operators are strong negotiators – Transport Minister",
+      "link": "https://www.myjoyonline.com/i-wanted-a-5-fare-increment-but-transport-operators-are-strong-negotiators-transport-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:17:38.000Z",
+      "summary": "Transport Minister Joseph Bukari Nikpe has disclosed that he initially proposed a 5% increase in public transport fares but the negotiations with transport operators resulted in an 8%…",
+      "categories": [
+        "National",
+        "Transport fare"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Asante Kotoko suffer defeat against Bechem United on Stanley Menzo’s debut",
       "link": "https://www.myjoyonline.com/asante-kotoko-suffer-defeat-against-bechem-united-on-stanley-menzos-debut/",
       "source": "MyJoyOnline",
@@ -29,6 +71,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "HP Sports 1",
+        "National",
         "Asante Kotoko",
         "Ghana Premier League",
         "Isaac Korankye",
@@ -108,38 +151,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Visually impaired student graduates with a first-class degree after relying on friends’ help with notes",
-      "link": "https://www.myjoyonline.com/visually-impaired-student-graduates-with-a-first-class-degree-after-relying-on-friends-help-with-notes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:28:08.000Z",
-      "summary": "Mariama Fatawu Yambakye, a visually impaired student who relied on her friends to access learning materials throughout her studies, has graduated with a first-class qualification from the…",
-      "categories": [
-        "Education",
-        "HP News 7",
-        "National",
-        "first class degree",
-        "Student",
-        "visually-impaired student"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Visually impaired student graduates with a first-class degree after relying on friends’ support",
-      "link": "https://www.myjoyonline.com/visually-impaired-student-graduates-with-a-first-class-degree-after-relying-on-friends-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:28:08.000Z",
-      "summary": "Mariama Fatawu Yambakye, a visually impaired student who relied on her friends to access learning materials throughout her studies, has graduated with a first-class qualification from the…",
-      "categories": [
-        "Education",
-        "HP News 7",
-        "National",
-        "first class degree",
-        "Student",
-        "visually-impaired student"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NDC UK-Ireland Chapter elects new executives",
       "link": "https://www.graphic.com.gh/news/politics/ndc-uk-ireland-chapter-elects-new-executives.html",
       "source": "Daily Graphic",
@@ -149,20 +160,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
-      "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:17:51.000Z",
-      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has called for increased investment in infrastructure, financing and formalisation of the artisanal and small-scale mining (ASM) sector to help…",
-      "categories": [
-        "Mining",
-        "National",
-        "ASM",
-        "Chamber of licenced gold buyers"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Roads Minister Kwame Agbodza Inducted into Ghana Institute of Architects Hall of Fellows",
