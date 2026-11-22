@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:46:19.889Z",
+  "updated": "2026-11-22T16:56:19.892Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gizella Tetteh-Agbotui condemns unfair hostel fee hikes, assures students of gov’t action",
+      "link": "https://www.myjoyonline.com/gizella-tetteh-agbotui-condemns-unfair-hostel-fee-hikes-assures-students-of-govt-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:51:36.000Z",
+      "summary": "Deputy Minister for Works and Housing, Gizella Tetteh-Agbotui, has condemned reported arbitrary increases in hostel fees by some operators, warning that students must not be made to bear…",
+      "categories": [
+        "National",
+        "Gizella Tetteh-Agbotui",
+        "Hostel",
+        "Rent"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-japan-relations-must-go-beyond-development-assistance-ambassador.html",
@@ -164,21 +178,6 @@ window.GDC_PAPERS = {
         "Choi Kyo-jin",
         "Exam",
         "South Korea"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I would have stopped him if I disagreed – Housing Minister backs Rent Control Commissioner",
-      "link": "https://www.myjoyonline.com/i-would-have-stopped-him-if-i-disagreed-housing-minister-backs-rent-control-commissioner/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T15:21:43.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has defended the enforcement activities of Acting Rent Control Commissioner Frederick Opoku, insisting that he has the…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Acting Rent Control Commissioner",
-        "Ahmed Inrahim"
       ],
       "site": "https://www.myjoyonline.com/"
     },
