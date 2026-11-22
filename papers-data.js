@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T20:36:20.278Z",
+  "updated": "2026-11-22T20:46:20.828Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Countries push back against COP31 final draft accused of abandoning fossil fuel commitments",
+      "link": "https://www.myjoyonline.com/countries-push-back-against-cop31-final-draft-accused-of-abandoning-fossil-fuel-commitments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T20:41:33.000Z",
+      "summary": "Climate talks in Antalya run more than 44 hours beyond scheduled closing time as the EU, Marshall Islands and Panama challenge a proposed deal that makes no explicit reference to fossil…",
+      "categories": [
+        "Africa",
+        "News",
+        "Technology",
+        "COP31",
+        "Turkey",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "link": "https://www.myjoyonline.com/uk-should-only-rejoin-eu-if-it-innovates-on-technology-blair-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T20:38:38.000Z",
+      "summary": "Former prime minister Sir Tony Blair has said Britain should rejoin the European Union (EU) only if it reforms and allows more technological innovation.",
+      "categories": [
+        "International",
+        "EU",
+        "Tony Blair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
       "link": "https://www.myjoyonline.com/judge-approves-7-25bn-settlement-for-roundup-weedkiller-cancer-claims/",
@@ -119,21 +148,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Dr Zanetor Agyeman-Rawlings protests ‘disrespect’ at COP31 as summit president apologises",
-      "link": "https://www.myjoyonline.com/dr-zanetor-agyeman-rawlings-protests-disrespect-at-cop31-as-summit-president-apologises/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T18:04:04.000Z",
-      "summary": "Ghana’s Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has protested what she described as disrespectful treatment at the closing plenary of COP31 after she…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "COP31",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GTEC does not, and will never recruit staff for universities; GTEC is only facilitating - Prof Jinapor Abdulai to UTAG",
       "link": "https://www.graphic.com.gh/news/education/gtec-does-not-and-will-never-recruit-staff-for-universities-gtec-is-only-facilitating-and-recognises-autonomy-of-prof-jinapor-abdulai-to-utag.html",
       "source": "Daily Graphic",
@@ -154,24 +168,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Profligate Hearts punished in 2-2 draw with Aduana",
-      "link": "https://www.myjoyonline.com/profligate-hearts-punished-in-2-2-draw-with-aduana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:43:06.000Z",
-      "summary": "Accra Hearts of Oak surrendered a two-goal lead to settle for a 2-2 draw with Aduana F.C. in the Ghana Premier League on Sunday. Hearts went into the game chasing top spot and got a…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Aduana F.C.",
-        "Ghana",
-        "Ghana Premier League",
-        "Hearts of Oak"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
