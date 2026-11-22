@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T12:56:20.021Z",
+  "updated": "2026-11-22T13:06:20.111Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PURC assures Ghanaians of stable power and water supply in 2027",
+      "link": "https://www.myjoyonline.com/purc-assures-ghanaians-of-stable-power-and-water-supply-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:57:24.000Z",
+      "summary": "The Public Utilities Regulatory Commission (PURC) has assured consumers of stable electricity and water supply in 2027, citing increased investment and stronger regulatory oversight.",
+      "categories": [
+        "National",
+        "Power",
+        "PURC",
+        "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Housing Minister pushes development bank to unlock housing finance",
+      "link": "https://www.myjoyonline.com/housing-minister-pushes-development-bank-to-unlock-housing-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:56:47.000Z",
+      "summary": "Ghana needs a dedicated development bank to provide affordable long-term financing for housing developers and support the delivery of affordable homes, Ahmed Ibrahim, Minister of Works…",
+      "categories": [
+        "National",
+        "Bank",
+        "Development",
+        "Housing Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to construct Inland Fisheries Market in Accra in 2027 – Emelia Arthur",
+      "link": "https://www.myjoyonline.com/government-to-construct-inland-fisheries-market-in-accra-in-2027-emelia-arthur/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:52:42.000Z",
+      "summary": "The Minister for Fisheries and Aquaculture, Emelia Arthur, has announced plans to construct an Inland Fisheries Market in Accra next year, using funds allocated to the Ministry in the 2027…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Accra",
+        "Emelia Arthur",
+        "Government",
+        "Inland Fisheries Market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "51% of young voters satisfied with 24-hour economy policy – Global InfoAnalytics poll",
       "link": "https://www.myjoyonline.com/51-of-young-voters-satisfied-with-24-hour-economy-policy-global-infoanalytics-poll/",
@@ -93,51 +138,6 @@ window.GDC_PAPERS = {
         "National",
         "Edziban",
         "Sekondi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Washking marks 10 years with over 1,000 sanitation installations",
-      "link": "https://www.myjoyonline.com/washking-marks-10-years-with-over-1000-sanitation-installations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:28:58.000Z",
-      "summary": "Washking Limited, a sanitation solutions company, has marked 10 years of operations, having delivered more than 1,000 sanitation installations and reached over 8,000 people.",
-      "categories": [
-        "National",
-        "News",
-        "Regional",
-        "affordable toilet",
-        "Sanitation",
-        "WashKing"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW VC urges newly trained teachers to accept postings to deprived communities",
-      "link": "https://www.myjoyonline.com/uew-vc-urges-newly-trained-teachers-to-accept-postings-to-deprived-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:27:19.000Z",
-      "summary": "The University of Education, Winneba (UEW) has urged newly trained teachers from Nusrat Jahan College of Education to accept postings to rural and deprived communities to help address…",
-      "categories": [
-        "Education",
-        "News",
-        "College of Education",
-        "Nusrat College of Education",
-        "UEW"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW urges Nusrat Jahan College graduates to accept postings to deprived communities",
-      "link": "https://www.myjoyonline.com/uew-urges-nusrat-jahan-college-graduates-to-accept-postings-to-deprived-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:27:19.000Z",
-      "summary": "The University of Education, Winneba (UEW) has urged newly trained teachers from Nusrat Jahan College of Education to accept postings to rural and deprived communities to help address…",
-      "categories": [
-        "News",
-        "College of Education",
-        "Nusrat College of Education",
-        "UEW"
       ],
       "site": "https://www.myjoyonline.com/"
     },
