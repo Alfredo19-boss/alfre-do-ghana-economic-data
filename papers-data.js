@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:46:19.693Z",
+  "updated": "2026-11-22T10:56:18.968Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kwame Dzokoto of Edziban fame to be laid to rest on February 20, 2027, in Sekondi",
+      "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-laid-to-rest-on-february-20-2027-in-sekondi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:50:20.000Z",
+      "summary": "Seth Kwame Dzokoto, affectionately called Edziban, an outstanding personality in the media and political space, will be laid to rest on February 20, 2027, in Sekondi in the Western Region.",
+      "categories": [
+        "National",
+        "Edziban",
+        "Sekondi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Washking marks 10 years with over 1,000 sanitation installations",
       "link": "https://www.myjoyonline.com/washking-marks-10-years-with-over-1000-sanitation-installations/",
@@ -129,21 +142,6 @@ window.GDC_PAPERS = {
         "National",
         "Africa",
         "Bagbin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama calls on Oti Chiefs to help end Nkwanta conflicts",
-      "link": "https://www.myjoyonline.com/president-mahama-calls-on-oti-chiefs-to-help-end-nkwanta-conflicts/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:04:34.000Z",
-      "summary": "President John Dramani Mahama has called on the Oti Regional House of Chiefs to assist the government in resolving the recurring ethnic and chieftaincy conflicts in the Nkwanta area.",
-      "categories": [
-        "National",
-        "Covid-19",
-        "Nkwanta",
-        "Oti Chiefs",
-        "President Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
