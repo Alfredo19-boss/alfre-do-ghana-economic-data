@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T05:08:05.381Z",
+  "updated": "2026-11-22T07:46:20.731Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "In Ghana, political principles fly economy until their owners enter government!",
+      "link": "https://www.myjoyonline.com/in-ghana-political-principles-fly-economy-until-their-owners-enter-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T07:27:23.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, there lived two political parties that agreed on almost everything except who should enjoy the privileges they so passionately condemned…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Falcon 900EX",
+        "Jimmy Aglah",
+        "NDC",
+        "NPP",
+        "Presidential jet"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Tourism Ministry says Christmas events can boost Ghana’s December visitor appeal",
       "link": "https://www.myjoyonline.com/tourism-ministry-says-christmas-events-can-boost-ghanas-december-visitor-appeal/",
@@ -129,21 +146,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Haruna Iddrisu announces €325m loan plan to address water shortages in three Northern cities",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-announces-e325m-loan-plan-to-address-water-shortages-in-three-northern-cities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T23:54:17.000Z",
-      "summary": "Education Minister and Tamale South MP, Haruna Iddrisu, says a €325 million loan agreement to support water infrastructure projects in Tamale, Damongo and Yendi will be laid before…",
-      "categories": [
-        "Regional",
-        "Damongo",
-        "Haruna Iddrisu",
-        "Tamale",
-        "Water Shortages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "UK and Ghana to deepen security partnership at 4th Security Dialogue in London next week",
       "link": "https://www.graphic.com.gh/news/general-news/uk-and-ghana-to-deepen-security-partnership-at-fourth-security-dialogue-in-london.html",
       "source": "Daily Graphic",
@@ -155,7 +157,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ernest Ofori Sarpong inducted as First Chancellor University of Media, Arts and Communication",
+      "title": "Ernest Ofori Sarpong inducted as First Chancellor of University of Media, Arts and Communication",
       "link": "https://www.graphic.com.gh/news/education/ernest-ofori-sarpong-inducted-as-first-unimac-chancellor.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T17:53:58.000Z",
