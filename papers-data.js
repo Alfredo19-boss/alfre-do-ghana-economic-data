@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T23:12:11.270Z",
+  "updated": "2026-11-22T23:32:11.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
+      "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:26:44.000Z",
+      "summary": "Also, earnings are below output per worker. In 2025, the average worker produced GH₵15,197 in value added and earned GH₵9,388. In industry, output per worker was GH₵30,588 and earnings were…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Capital per worker",
+        "earnings",
+        "GSS",
+        "Job quality",
+        "Productivity"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "link": "https://www.myjoyonline.com/miley-cyrus-marries-maxx-morando-in-california-ceremony/",
@@ -117,19 +134,6 @@ window.GDC_PAPERS = {
         "Dr Sammy Ayeh",
         "Kabore",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Argentina midfielder Paredes collapses during TV interview",
-      "link": "https://www.myjoyonline.com/argentina-midfielder-paredes-collapses-during-tv-interview/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:14:15.000Z",
-      "summary": "World Cup-winning midfielder Leandro Paredes collapsed while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
-      "categories": [
-        "Football",
-        "Collapse",
-        "Leandro Paredes"
       ],
       "site": "https://www.myjoyonline.com/"
     },

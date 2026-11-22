@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T23:11:41.199Z",
+  "updated": "2026-11-22T23:31:40.981Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
+      "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:26:44.000Z",
+      "summary": "Also, earnings are below output per worker. In 2025, the average worker produced GH₵15,197 in value added and earned GH₵9,388. In industry, output per worker was GH₵30,588 and earnings were…"
+    },
     {
       "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T22:35:00.000Z",
       "summary": "The co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, says Ghana can achieve its target of refining all artisanal and small-scale mining (ASM)…"
-    },
-    {
-      "title": "Ghana must curb gold smuggling to achieve 2028 refining target – Manteaw",
-      "link": "https://www.myjoyonline.com/ghana-must-curb-gold-smuggling-to-achieve-2028-refining-target-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T22:13:00.000Z",
-      "summary": "Ghana must curb gold smuggling and expand its refinery infrastructure to meet the government’s 2028 target of refining all artisanal and small-scale mining (ASM) gold locally, GHEITI…"
     }
   ]
 };
