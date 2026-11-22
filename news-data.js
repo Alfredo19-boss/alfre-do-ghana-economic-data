@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T11:35:49.515Z",
+  "updated": "2026-11-22T12:05:48.389Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "The 2027 Budget: The Strengths & Weaknesses of Ghana’s Next Year Economic Policy – CERPA’s Analysis",
+      "link": "https://thehighstreetjournal.com/the-2027-budget-the-strengths-weaknesses-of-ghanas-next-year-economic-policy-cerpas-analysis/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T12:00:32.000Z",
+      "summary": "CERPA identifies six strengths and six weaknesses in the 2027 Budget, praising its industrialisation and employment ambitions while warning of execution gaps, inadequate household relief…"
+    },
     {
       "title": "2027 Budget & Citizens’ Wishlist: How the Budget Fared Against Public Expectations – CERPA’s Review",
       "link": "https://thehighstreetjournal.com/2027-budget-citizens-wishlist-how-the-budget-fared-against-public-expectations-cerpas-review/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T15:37:34.000Z",
       "summary": "The Bank of Ghana (BoG) says it is prepared to manage the liquidity impact of early repayments to domestic bondholders, following concerns about the potential implications for the financial…"
-    },
-    {
-      "title": "GEXPO 2026 opens at Black Star Square to promote Made-in-Ghana products",
-      "link": "https://www.myjoyonline.com/gexpo-2026-opens-at-black-star-square-to-promote-made-in-ghana-products/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:32:18.000Z",
-      "summary": "The 2026 Ghana Export and Made in Ghana Fair (GEXPO 2026) is set to run from November 18 to 22 at the Black Star Square in Accra, with a focus on promoting locally manufactured products and…"
     }
   ]
 };
