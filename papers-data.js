@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T22:52:11.534Z",
+  "updated": "2026-11-22T23:02:11.317Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:58:54.000Z",
+      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢4.25 billion.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "Interest rates",
+        "T-Bills"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Russell Brand’s wife says she’ll honour prison rules after message row",
+      "link": "https://www.myjoyonline.com/russell-brands-wife-says-shell-honour-prison-rules-after-message-row/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:54:00.000Z",
+      "summary": "The wife of disgraced comedian Russell Brand says she will \"honour\" his prison's rules, a week after she read a message from her husband claiming his innocence.",
+      "categories": [
+        "International",
+        "Music",
+        "Russell Brand"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GAFM resolves regulatory status with GTEC, clarifies professional certification role",
       "link": "https://www.myjoyonline.com/gafm-resolves-regulatory-status-with-gtec-clarifies-professional-certification-role/",
@@ -99,34 +130,6 @@ window.GDC_PAPERS = {
         "Football",
         "Desire Doue",
         "PSG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pochettino endures nightmare start as Man United lose to Liverpool",
-      "link": "https://www.myjoyonline.com/pochettino-endures-nightmare-start-as-man-united-lose-to-liverpool/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:53:19.000Z",
-      "summary": "Mauricio Pochettino's reign as Manchester United head coach began in desperate fashion, as his team were thrashed by rivals Liverpool and remained in the Premier League relegation zone.",
-      "categories": [
-        "Football",
-        "Man United",
-        "Mauricio Pochettino"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Institute of Architects proposes structured partnership to protect Ghana’s architectural heritage",
-      "link": "https://www.myjoyonline.com/ghana-institute-of-architects-proposes-structured-partnership-to-protect-ghanas-architectural-heritage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:51:44.000Z",
-      "summary": "The Ghana Institute of Architects (GIA) has proposed the introduction of a legislative instrument to strengthen the protection and preservation of Ghana’s architectural heritage as part of…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana Institute of Architects",
-        "Kwame Agbodza",
-        "Tony Asare"
       ],
       "site": "https://www.myjoyonline.com/"
     },
