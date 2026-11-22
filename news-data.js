@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T08:35:49.785Z",
+  "updated": "2026-11-22T09:25:48.735Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Copyright now foundation of modern global economy – Bonsu",
+      "link": "https://www.ghanabusinessnews.com/2026/11/22/copyright-now-foundation-of-modern-global-economy-bonsu/",
+      "source": "Ghana Business News",
+      "published": "2026-11-22T09:25:16.000Z",
+      "summary": "Mr William Akwetey Bonsu, the Head and Administrator of the Ghana Copyright Office, has urged law students to recognize copyright law as a foundational pillar of the modern global economy…"
+    },
     {
       "title": "GEXPO 2026 Enters Final Day as Calls Grow for a Made-in-Ghana Christmas Shop List",
       "link": "https://thehighstreetjournal.com/gexpo-2026-enters-final-day-as-calls-grow-for-a-made-in-ghana-christmas-shop-list/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T14:46:19.000Z",
       "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has reduced its policy rate from 14 per cent to 11 per cent, citing the need to realign the benchmark with prevailing market…"
-    },
-    {
-      "title": "State Closes Case in Akonta Mining Forest Reserve Trial as Key Witness Defends Plea Agreement",
-      "link": "https://thehighstreetjournal.com/state-closes-case-in-akonta-mining-forest-reserve-trial-as-key-witness-defends-plea-agreement/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T14:27:44.000Z",
-      "summary": "With the prosecution having closed its case, the trial now moves to a determination of whether the evidence presented by the State is sufficient to require the accused persons to enter a…"
     }
   ]
 };
