@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T20:46:20.828Z",
+  "updated": "2026-11-22T20:56:19.837Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "3 suspects remanded over alleged theft of two-year-old baby at Anloga",
+      "link": "https://www.myjoyonline.com/3-suspects-remanded-over-alleged-theft-of-two-year-old-baby-at-anloga/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T20:50:38.000Z",
+      "summary": "Three suspects identified as Godswill Gologa, aged 19, Emmanuel Tetteh, 24, and Promise Gada, 20, have been remanded into police custody by the Anloga District Magistrate Court for…",
+      "categories": [
+        "Crime",
+        "Anloga",
+        "baby theft"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Countries push back against COP31 final draft accused of abandoning fossil fuel commitments",
       "link": "https://www.myjoyonline.com/countries-push-back-against-cop31-final-draft-accused-of-abandoning-fossil-fuel-commitments/",
@@ -128,22 +141,6 @@ window.GDC_PAPERS = {
         "National",
         "Dr Yacouba Diarra",
         "EFEDCOM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
-      "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T18:22:34.000Z",
-      "summary": "The Executive Director of the ECOWAS Federation of Chambers of Mines (EFEDCOM), Ing. Dr Kenneth Ashigbey, has called on member Chambers to explore the establishment of a regional cyanide…",
-      "categories": [
-        "Business",
-        "Mining",
-        "National",
-        "cyanide",
-        "EFEDCOM",
-        "mining supply chains"
       ],
       "site": "https://www.myjoyonline.com/"
     },
