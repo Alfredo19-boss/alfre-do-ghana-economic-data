@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T22:02:11.459Z",
+  "updated": "2026-11-22T22:12:11.038Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PSG’s Doue to have surgery on ruptured ACL",
+      "link": "https://www.myjoyonline.com/psgs-doue-to-have-surgery-on-ruptured-acl/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:01:13.000Z",
+      "summary": "Paris Saint-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+      "categories": [
+        "Football",
+        "Desire Doue",
+        "PSG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Pochettino endures nightmare start as Man United lose to Liverpool",
       "link": "https://www.myjoyonline.com/pochettino-endures-nightmare-start-as-man-united-lose-to-liverpool/",
@@ -116,18 +129,6 @@ window.GDC_PAPERS = {
         "Kedzi-Havedzi",
         "Keta",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man regains erections, normal urination three weeks after Korle Bu penis reattachment surgery",
-      "link": "https://www.myjoyonline.com/man-regains-erections-normal-urination-three-weeks-after-korle-bu-penis-reattachment-surgery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:06:41.000Z",
-      "summary": "A man whose penis was severed in a domestic accident has regained the ability to urinate normally and is experiencing good erections three weeks after surgeons at the Korle Bu Teaching…",
-      "categories": [
-        "HP News 1",
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
