@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T09:25:48.735Z",
+  "updated": "2026-11-22T09:30:48.171Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Steinmeier’s Ghana Visit Opens Door For Manufacturing Partnerships As Local Industry Struggles",
+      "link": "https://thehighstreetjournal.com/steinmeiers-ghana-visit-opens-door-for-manufacturing-partnerships-as-local-industry-struggles/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T09:30:07.000Z",
+      "summary": "Ghana could use stronger industrial ties with Germany to attract technology, investment and technical skills as local manufacturers struggle with production costs and limited capacity."
+    },
     {
       "title": "Copyright now foundation of modern global economy – Bonsu",
       "link": "https://www.ghanabusinessnews.com/2026/11/22/copyright-now-foundation-of-modern-global-economy-bonsu/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T14:46:19.000Z",
       "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
-    },
-    {
-      "title": "MPC reduces policy rate to 11% from 14 percent",
-      "link": "https://www.myjoyonline.com/mpc-reduces-policy-rate-to-11-from-14-percent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has reduced its policy rate from 14 per cent to 11 per cent, citing the need to realign the benchmark with prevailing market…"
     }
   ]
 };
