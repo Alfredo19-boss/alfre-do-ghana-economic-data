@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T18:46:20.744Z",
+  "updated": "2026-11-22T19:36:20.324Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,00 if Black Challenge win trophy",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-12000-if-black-challenge-win-trophy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T19:33:19.000Z",
+      "summary": "Ghanaian entrepreneur Dr Mohammed Raii has fulfilled his promise of US$2,000 to each member of the Black Challenge following their historic qualification for the final of the Amputee…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mohammed Raii"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Port City FC and Heart of Lions share spoils in goalless draw",
       "link": "https://www.myjoyonline.com/port-city-fc-and-heart-of-lions-share-spoils-in-goalless-draw/",
@@ -144,21 +159,6 @@ window.GDC_PAPERS = {
         "2026/27 Ghana Premier League",
         "Dreams Fc",
         "FC Samartex 1996"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof. Francis Kwaw Andoh inducted as Principal of Enchi College of Education",
-      "link": "https://www.myjoyonline.com/prof-francis-kwaw-andoh-inducted-as-principal-of-enchi-college-of-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:20:03.000Z",
-      "summary": "Professor Francis Kwaw Andoh, an alumnus of Enchi College of Education, has been formally inducted as the new Principal of the institution in the Western North Region.",
-      "categories": [
-        "Education",
-        "Regional",
-        "Enchi College of Education",
-        "principal",
-        "Prof Francis Kwaw Andoh"
       ],
       "site": "https://www.myjoyonline.com/"
     },
