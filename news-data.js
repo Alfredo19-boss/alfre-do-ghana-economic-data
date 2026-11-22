@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T17:25:48.986Z",
+  "updated": "2026-11-22T17:35:49.160Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -41,6 +41,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T16:17:51.000Z",
       "summary": "The Chamber of Licensed Gold Buyers (CLGB) has called for increased investment in infrastructure, financing and formalisation of the artisanal and small-scale mining (ASM) sector to help…"
+    },
+    {
+      "title": "70% Local gold refining by 2027 : CLGB highlights key enablers",
+      "link": "https://www.myjoyonline.com/70-local-gold-refining-by-2027-clgb-highlights-key-enablers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:17:51.000Z",
+      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has underscored the importance of strategic investment in infrastructure, financing and sector formalisation to support Ghana’s ambition of…"
     },
     {
       "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T17:20:27.000Z",
       "summary": "Trading activity shifted towards the 2031-2034 maturity segment, which dominated turnover with a 49.70% share at a weighted-average yield of 14.97%."
-    },
-    {
-      "title": "BoG confidence surveys showed mixed sentiments",
-      "link": "https://www.myjoyonline.com/bog-confidence-surveys-showed-mixed-sentiments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T17:07:41.000Z",
-      "summary": "According to the Monetary Policy Committee (MPC) press release, consumer confidence weakened, reflecting higher ex-pump petroleum prices and transport fares, while business confidence…"
     }
   ]
 };

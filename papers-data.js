@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T17:26:19.303Z",
+  "updated": "2026-11-22T17:36:19.577Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -70,6 +70,7 @@ window.GDC_PAPERS = {
       "summary": "Bechem United claimed a hard-fought 1-0 victory over Asante Kotoko in Ghana Premier League Matchday 12, with Isaac Korankye scoring the decisive goal at the Nana Fosu Gyeabour Park.",
       "categories": [
         "Football",
+        "HP News 6",
         "HP Sports 1",
         "National",
         "Asante Kotoko",
