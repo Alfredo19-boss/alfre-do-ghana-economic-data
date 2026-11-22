@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T21:06:20.530Z",
+  "updated": "2026-11-22T21:16:21.131Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Keta police arrest two suspects over death of fisherman at Kedzi-Havedzi",
+      "link": "https://www.myjoyonline.com/keta-police-arrest-two-suspects-over-death-of-fisherman-at-kedzi-havedzi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:09:10.000Z",
+      "summary": "The Police in the Keta Municipality of the Volta Region have picked up two suspects in connection with the death of Clarkson Govor, popularly known as CK Govor, at Kedzi-Havedzi.",
+      "categories": [
+        "Crime",
+        "Fisherman",
+        "Kedzi-Havedzi",
+        "Keta",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man regains erections, normal urination three weeks after Korle Bu penis reattachment surgery",
+      "link": "https://www.myjoyonline.com/man-regains-erections-normal-urination-three-weeks-after-korle-bu-penis-reattachment-surgery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:06:41.000Z",
+      "summary": "A man whose penis was severed in a domestic accident has regained the ability to urinate normally and is experiencing good erections three weeks after surgeons at the Korle Bu Teaching…",
+      "categories": [
+        "HP News 1",
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Family seeks answers following death of woman in Keta",
       "link": "https://www.myjoyonline.com/family-seeks-answers-following-death-of-woman-in-keta/",
@@ -104,21 +131,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,00 if Black Challenge win trophy",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-12000-if-black-challenge-win-trophy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T19:33:19.000Z",
-      "summary": "Ghanaian entrepreneur Dr Mohammed Raii has fulfilled his promise of US$2,000 to each member of the Black Challenge following their historic qualification for the final of the Amputee…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Mohammed Raii"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Man who severed penis after injury while squatting on WC having 'good erections' 3 weeks after Korle Bu surgeons successfully reattached it",
       "link": "https://www.graphic.com.gh/news/general-news/man-who-severed-penis-after-injury-while-squatting-on-wc-having-good-erections-3-weeks-after-korle-bu-surgeons-successfully-reattached-it.html",
       "source": "Daily Graphic",
@@ -128,21 +140,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Port City FC and Heart of Lions share spoils in goalless draw",
-      "link": "https://www.myjoyonline.com/port-city-fc-and-heart-of-lions-share-spoils-in-goalless-draw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T18:41:15.000Z",
-      "summary": "Port City and Heart of Lions settled for a 0-0 draw at Port City’s home in the Ghana Premier League on Sunday, November 22.",
-      "categories": [
-        "Football",
-        "HP Sports 5",
-        "Ghana Premier League",
-        "Heart of Lions",
-        "Port city"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GTEC does not, and will never recruit staff for universities; GTEC is only facilitating - Prof Jinapor Abdulai to UTAG",
