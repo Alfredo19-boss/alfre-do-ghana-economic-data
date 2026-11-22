@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T20:56:19.837Z",
+  "updated": "2026-11-22T21:06:20.530Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Family seeks answers following death of woman in Keta",
+      "link": "https://www.myjoyonline.com/family-seeks-answers-following-death-of-woman-in-keta/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:00:53.000Z",
+      "summary": "The family of a 24-year-old woman, Rashida Viera, who died under circumstances surrounding an alleged assault by her boyfriend at Abor-Agbolete in the Keta Municipality of the Volta Region…",
+      "categories": [
+        "Crime",
+        "Assault",
+        "Keta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "3 suspects remanded over alleged theft of two-year-old baby at Anloga",
       "link": "https://www.myjoyonline.com/3-suspects-remanded-over-alleged-theft-of-two-year-old-baby-at-anloga/",
@@ -128,19 +141,6 @@ window.GDC_PAPERS = {
         "Ghana Premier League",
         "Heart of Lions",
         "Port city"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EFEDCOM elects Dr Yacouba Diarra as President",
-      "link": "https://www.myjoyonline.com/efedcom-elects-dr-yacouba-diarra-as-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T18:25:36.000Z",
-      "summary": "The ECOWAS Federation of Chambers of Mines (EFEDCOM) has elected Dr Yacouba Diarra as its new President. He has pledged to champion investment-friendly mining policies, strengthen regional…",
-      "categories": [
-        "National",
-        "Dr Yacouba Diarra",
-        "EFEDCOM"
       ],
       "site": "https://www.myjoyonline.com/"
     },
