@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T22:32:12.384Z",
+  "updated": "2026-11-22T22:52:11.534Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GAFM resolves regulatory status with GTEC, clarifies professional certification role",
+      "link": "https://www.myjoyonline.com/gafm-resolves-regulatory-status-with-gtec-clarifies-professional-certification-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:47:29.000Z",
+      "summary": "The Global Academy of Finance and Management (GAFM), USA, says it has resolved a regulatory discrepancy with the Ghana Tertiary Education Commission (GTEC) following engagements and the…",
+      "categories": [
+        "Education",
+        "National",
+        "Global academy of finance and management",
+        "GTEC",
+        "regulatory licence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Barcelona return top of La Liga with Villarreal win",
+      "link": "https://www.myjoyonline.com/barcelona-return-top-of-la-liga-with-villarreal-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:45:22.000Z",
+      "summary": "Barcelona scored three goals in 10 minutes to return to the top of La Liga with a victory over Villarreal at Spotify Nou Camp.",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Francis Amissah joins Martell’s Swift Academy in Accra",
+      "link": "https://www.myjoyonline.com/francis-amissah-joins-martells-swift-academy-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:40:09.000Z",
+      "summary": "Ghanaian public relations consultant Francis Amissah, popularly known in entertainment circles as Banks, is set to participate in the Accra edition of Martell’s Swift Academy, an initiative…",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "Franics Amissah",
+        "Swift Academy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ashanti NDC Communications Officer Kabore endorses Dr Sammy Ayeh for Deputy National Communications Officer role",
       "link": "https://www.myjoyonline.com/ashanti-ndc-communications-officer-kabore-endorses-dr-sammy-ayeh-for-deputy-national-communications-officer-role/",
@@ -87,46 +127,6 @@ window.GDC_PAPERS = {
         "Ghana Institute of Architects",
         "Kwame Agbodza",
         "Tony Asare"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-      "link": "https://www.myjoyonline.com/alcaraz-outplays-zverev-for-first-atp-finals-triumph/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:41:44.000Z",
-      "summary": "Carlos Alcaraz outplayed world number one Alexander Zverev to end his wait for his first ATP Finals title and complete a remarkable post-injury return.",
-      "categories": [
-        "Tennis",
-        "Alexander Zverev",
-        "ATP Finals",
-        "Carlos Alcaraz"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two teens arrested for alleged GH¢38,000 romance scam",
-      "link": "https://www.myjoyonline.com/two-teens-arrested-for-alleged-gh%c2%a238000-romance-scam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:30:23.000Z",
-      "summary": "The Assin Fosu District Court has remanded two teenagers from Ajumako-Besease into police custody for allegedly defrauding a Bibiani-based miner of GH₵38,477 through a WhatsApp and mobile…",
-      "categories": [
-        "Crime",
-        "Assin Fosu District Court",
-        "Romance scam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Retired Senior Military officer in court over alleged enlistment fraud",
-      "link": "https://www.myjoyonline.com/retired-senior-military-officer-in-court-over-alleged-enlistment-fraud/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:21:41.000Z",
-      "summary": "A retired senior military officer has appeared before the Accra Circuit Court, accused of defrauding a man of GH¢1 million under the pretext of facilitating the recruitment of 200 people…",
-      "categories": [
-        "Crime",
-        "Accra Circuit Court",
-        "Enlistment fraud"
       ],
       "site": "https://www.myjoyonline.com/"
     },
