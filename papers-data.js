@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:26:19.255Z",
+  "updated": "2026-11-22T16:36:19.416Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Visually impaired student graduates with a first-class degree after relying on friends’ support",
+      "link": "https://www.myjoyonline.com/visually-impaired-student-graduates-with-a-first-class-degree-after-relying-on-friends-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:28:08.000Z",
+      "summary": "Mariama Fatawu Yambakye, a visually impaired student who relied on her friends to access learning materials throughout her studies, has graduated with a first-class qualification from the…",
+      "categories": [
+        "Education",
+        "HP News 7",
+        "National",
+        "first class degree",
+        "Student",
+        "visually-impaired student"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC UK-Ireland Chapter elects new executives",
+      "link": "https://www.graphic.com.gh/news/politics/ndc-uk-ireland-chapter-elects-new-executives.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T16:25:44.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
       "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
@@ -145,23 +172,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
-      "link": "https://www.myjoyonline.com/customs-commissioner-rallies-brokers-to-close-gh%c2%a214-35bn-revenue-gap/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T14:55:29.000Z",
-      "summary": "Ghana’s customs brokers have been challenged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority…",
-      "categories": [
-        "Business",
-        "HP Business 1",
-        "Transport",
-        "CUBAG",
-        "Customs Commissioner",
-        "GRA",
-        "Nana Fredua Ofori-Atta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Korle Bu surgeons successfully reattach man's severed penis after he injured himself while squatting on WC",
       "link": "https://www.graphic.com.gh/news/general-news/korle-bu-surgeons-successfully-reattach-mans-severed-penis-after-he-injured-himself-while-squatting-on-wc.html",
       "source": "Daily Graphic",
@@ -184,7 +194,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GTEC freezes approval for new PhD accreditation programmes in Ghanaian universities pending audit",
+      "title": "GTEC freezes approval for all new PhD accreditation programmes in Ghanaian universities due to proliferation",
       "link": "https://www.graphic.com.gh/news/general-news/gtec-freezes-approval-for-all-new-phd-accreditation-programmes-in-ghanaian-universities.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T11:28:03.000Z",
@@ -213,17 +223,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ernest Ofori Sarpong inducted as First Chancellor of University of Media, Arts and Communication",
-      "link": "https://www.graphic.com.gh/news/education/ernest-ofori-sarpong-inducted-as-first-unimac-chancellor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T17:53:58.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
