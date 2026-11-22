@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:36:19.110Z",
+  "updated": "2026-11-22T10:41:19.521Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -33,6 +33,20 @@ window.GDC_PAPERS = {
         "affordable toilet",
         "Sanitation",
         "WashKing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UEW VC urges newly trained teachers to accept postings to deprived communities",
+      "link": "https://www.myjoyonline.com/uew-vc-urges-newly-trained-teachers-to-accept-postings-to-deprived-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:27:19.000Z",
+      "summary": "The University of Education, Winneba (UEW) has urged newly trained teachers from Nusrat Jahan College of Education to accept postings to rural and deprived communities to help address…",
+      "categories": [
+        "News",
+        "College of Education",
+        "Nusrat College of Education",
+        "UEW"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -129,19 +143,6 @@ window.GDC_PAPERS = {
         "Nkwanta",
         "Oti Chiefs",
         "President Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Opoku-Agyemang urges protection of children from hazardous work",
-      "link": "https://www.myjoyonline.com/opoku-agyemang-urges-protection-of-children-from-hazardous-work/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:04:01.000Z",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has called for collective and concerted efforts towards protecting children from exploitative labour in the nation’s fishing industry.",
-      "categories": [
-        "National",
-        "Children",
-        "Opoku-Agyemang"
       ],
       "site": "https://www.myjoyonline.com/"
     },
