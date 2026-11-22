@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:21:20.415Z",
+  "updated": "2026-11-22T10:26:20.188Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UEW warns newly trained teachers against sexual relationships with pupils",
+      "link": "https://www.myjoyonline.com/uew-warns-newly-trained-teachers-against-sexual-relationships-with-pupils/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:21:32.000Z",
+      "summary": "The University of Education, Winneba (UEW) has warned newly trained teachers against engaging in sexual relationships with pupils, describing the conduct as reprehensible and unacceptable.",
+      "categories": [
+        "News",
+        "Pupils",
+        "Teacher",
+        "trained teacher",
+        "UEW"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31 and the ghost of The Hague: Could climate negotiations collapse again, 26 years later?",
       "link": "https://www.myjoyonline.com/cop31-and-the-ghost-of-the-hague-could-climate-negotiations-collapse-again-26-years-later/",
@@ -129,21 +144,6 @@ window.GDC_PAPERS = {
         "NPP",
         "Okudzeto Ablakwa",
         "Presidential jet"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP 31: Africa expresses profound disappointment with outcomes, questions Presidency’s handling of negotiations",
-      "link": "https://www.myjoyonline.com/cop-31-africa-expresses-profound-disappointment-with-outcomes-questions-presidencys-handling-of-negotiations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T04:02:45.000Z",
-      "summary": "The African Group of Negotiators (AGN) has expressed profound disappointment with the outcomes of key negotiations at the 31st UN Climate Change Conference (COP31) in Antalya, Türkiye…",
-      "categories": [
-        "Africa",
-        "HP News 9",
-        "COP 31",
-        "Negotiations",
-        "Presidency"
       ],
       "site": "https://www.myjoyonline.com/"
     },
