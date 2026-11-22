@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T04:37:36.107Z",
+  "updated": "2026-11-22T04:47:35.209Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Tourism Ministry says Christmas events can boost Ghana’s December visitor appeal",
+      "link": "https://www.myjoyonline.com/tourism-ministry-says-christmas-events-can-boost-ghanas-december-visitor-appeal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T04:41:58.000Z",
+      "summary": "The Ministry of Tourism, Culture and Creative Arts says Christmas activities organised by churches and other institutions can strengthen Ghana’s appeal as a destination for visitors during…"
+    },
     {
       "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
       "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T12:09:00.000Z",
       "summary": "A high-level Ghanaian delegation led by Forestry Commission Chief Executive Dr. Hugh C. A. Brown held discussions with the European Commission's Directorates-General for International…"
-    },
-    {
-      "title": "Inside Deutsche Bank: What the leak means for the poor in Africa",
-      "link": "https://www.ghanabusinessnews.com/2026/11/18/inside-deutsche-bank-what-the-leak-means-for-the-poor-in-africa/",
-      "source": "Ghana Business News",
-      "published": "2026-11-18T12:05:55.000Z",
-      "summary": "The Deutsche Bank leak is not only about Donald Trump’s loans or Jeffrey Epstein’s yacht."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T04:38:07.213Z",
+  "updated": "2026-11-22T04:48:05.756Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Tourism Ministry says Christmas events can boost Ghana’s December visitor appeal",
+      "link": "https://www.myjoyonline.com/tourism-ministry-says-christmas-events-can-boost-ghanas-december-visitor-appeal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T04:41:58.000Z",
+      "summary": "The Ministry of Tourism, Culture and Creative Arts says Christmas activities organised by churches and other institutions can strengthen Ghana’s appeal as a destination for visitors during…",
+      "categories": [
+        "Economy",
+        "Events",
+        "National",
+        "Christmas",
+        "Tourism ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "One presidential jet, dishonest politicians, rented press and gullible citizens",
       "link": "https://www.myjoyonline.com/one-presidential-jet-dishonest-politicians-rented-press-and-gullible-citizens/",
       "source": "MyJoyOnline",
       "published": "2026-11-22T04:31:26.000Z",
       "summary": "Imagine this: in today’s commercial aviation, airlines are required to submit advance passenger information to authorities at the destination airport. If the President of Ghana were to be…",
       "categories": [
+        "HP News 5",
         "National",
         "Opinion",
         "Akufo-Addo",
@@ -124,19 +140,6 @@ window.GDC_PAPERS = {
         "Haruna Iddrisu",
         "Tamale",
         "Water Shortages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "All 16 regional best farmers to receive pick-up vehicles at 2026 Farmers’ Day",
-      "link": "https://www.myjoyonline.com/all-16-regional-best-farmers-to-receive-pick-up-vehicles-at-2026-farmers-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T23:07:18.000Z",
-      "summary": "All 16 regional best farmers will receive brand-new pick-up vehicles at this year’s National Farmers’ Day celebration, the Minister of Food and Agriculture, Eric Opoku, has announced. The…",
-      "categories": [
-        "National",
-        "Best farmers",
-        "pick up vehicles"
       ],
       "site": "https://www.myjoyonline.com/"
     },
