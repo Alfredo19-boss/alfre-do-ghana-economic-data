@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T21:42:10.733Z",
+  "updated": "2026-11-22T21:52:11.480Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "link": "https://www.myjoyonline.com/alcaraz-outplays-zverev-for-first-atp-finals-triumph/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:41:44.000Z",
+      "summary": "Carlos Alcaraz outplayed world number one Alexander Zverev to end his wait for his first ATP Finals title and complete a remarkable post-injury return.",
+      "categories": [
+        "Tennis",
+        "Alexander Zverev",
+        "ATP Finals",
+        "Carlos Alcaraz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Two teens arrested for alleged GH¢38,000 romance scam",
       "link": "https://www.myjoyonline.com/two-teens-arrested-for-alleged-gh%c2%a238000-romance-scam/",
@@ -112,22 +126,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Anloga",
         "baby theft"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Countries push back against COP31 final draft accused of abandoning fossil fuel commitments",
-      "link": "https://www.myjoyonline.com/countries-push-back-against-cop31-final-draft-accused-of-abandoning-fossil-fuel-commitments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T20:41:33.000Z",
-      "summary": "Climate talks in Antalya run more than 44 hours beyond scheduled closing time as the EU, Marshall Islands and Panama challenge a proposed deal that makes no explicit reference to fossil…",
-      "categories": [
-        "Africa",
-        "News",
-        "Technology",
-        "COP31",
-        "Turkey",
-        "UN"
       ],
       "site": "https://www.myjoyonline.com/"
     },
