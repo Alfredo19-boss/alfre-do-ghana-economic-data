@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:26:20.188Z",
+  "updated": "2026-11-22T10:31:19.989Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,26 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP31: New climate deal emerges after overnight negotiations in Turkey",
+      "link": "https://www.myjoyonline.com/cop31-new-climate-deal-emerges-after-overnight-negotiations-in-turkey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:24:43.000Z",
+      "summary": "COP31 negotiators in Antalya, Turkey, have presented a new climate deal after days of overnight talks, with the Australian and Turkish presidencies expressing confidence that nearly 200…",
+      "categories": [
+        "Africa",
+        "HP News 8",
+        "International",
+        "National",
+        "News",
+        "Politics",
+        "Antalya",
+        "COP31",
+        "Turkey",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UEW warns newly trained teachers against sexual relationships with pupils",
       "link": "https://www.myjoyonline.com/uew-warns-newly-trained-teachers-against-sexual-relationships-with-pupils/",
@@ -124,26 +144,6 @@ window.GDC_PAPERS = {
         "National",
         "Christmas",
         "Tourism ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One presidential jet, dishonest politicians, rented press and gullible citizens",
-      "link": "https://www.myjoyonline.com/one-presidential-jet-dishonest-politicians-rented-press-and-gullible-citizens/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T04:31:26.000Z",
-      "summary": "Imagine this: in today’s commercial aviation, airlines are required to submit advance passenger information to authorities at the destination airport. If the President of Ghana were to be…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Opinion",
-        "Akufo-Addo",
-        "John Mahama",
-        "Kwaku Antwi-Boasiako",
-        "NDC",
-        "NPP",
-        "Okudzeto Ablakwa",
-        "Presidential jet"
       ],
       "site": "https://www.myjoyonline.com/"
     },
