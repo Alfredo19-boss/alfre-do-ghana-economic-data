@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:11:19.704Z",
+  "updated": "2026-11-22T10:21:20.415Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP31 and the ghost of The Hague: Could climate negotiations collapse again, 26 years later?",
+      "link": "https://www.myjoyonline.com/cop31-and-the-ghost-of-the-hague-could-climate-negotiations-collapse-again-26-years-later/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:15:46.000Z",
+      "summary": "As COP31 negotiations stretch beyond their scheduled closing date, disagreements over fossil fuels, climate finance and the wording of the final agreement are bringing back memories of…",
+      "categories": [
+        "Africa",
+        "Health",
+        "International",
+        "National",
+        "News",
+        "COP31",
+        "The Hague",
+        "Turkey",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bagbin urges Africa to tell its own story, use technology ethically",
       "link": "https://www.myjoyonline.com/bagbin-urges-africa-to-tell-its-own-story-use-technology-ethically/",
@@ -125,23 +144,6 @@ window.GDC_PAPERS = {
         "COP 31",
         "Negotiations",
         "Presidency"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kisseman–Christian Village bridge to close for six months for reconstruction",
-      "link": "https://www.myjoyonline.com/kisseman-christian-village-bridge-to-close-for-six-months-for-reconstruction/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T03:58:53.000Z",
-      "summary": "he bridge linking Kisseman and Christian Village in Accra will be closed to traffic for six months from the second week of December to allow for its reconstruction and elevation under the…",
-      "categories": [
-        "HP News 2",
-        "Regional",
-        "Bridge",
-        "christian village",
-        "Flooding",
-        "GARID",
-        "Kisseman"
       ],
       "site": "https://www.myjoyonline.com/"
     },
