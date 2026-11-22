@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T18:16:20.958Z",
+  "updated": "2026-11-22T18:26:20.601Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
+      "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T18:22:34.000Z",
+      "summary": "The Executive Director of the ECOWAS Federation of Chambers of Mines (EFEDCOM), Ing. Dr Kenneth Ashigbey, has called on member Chambers to explore the establishment of a regional cyanide…",
+      "categories": [
+        "Business",
+        "Mining",
+        "National",
+        "cyanide",
+        "EFEDCOM",
+        "mining supply chains"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dr Zanetor Agyeman-Rawlings protests ‘disrespect’ at COP31 as summit president apologises",
       "link": "https://www.myjoyonline.com/dr-zanetor-agyeman-rawlings-protests-disrespect-at-cop31-as-summit-president-apologises/",
@@ -134,20 +150,6 @@ window.GDC_PAPERS = {
         "Ghana Premier League",
         "Isaac Korankye",
         "Stanley Menzo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Berekum Chelsea beat Young Apsotles to move up on league table",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-berekum-chelsea-beat-young-apsotles-to-move-up-on-league-table/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:04:03.000Z",
-      "summary": "Berekum Chelsea bounced back to winning ways in the Ghana Premier League following their 2-1 victory over Young Apostles on Sunday afternoon. The Berekum-based side claimed all three points…",
-      "categories": [
-        "Football",
-        "Berekum Chelsea",
-        "Ghana Premier League",
-        "Young Apostles"
       ],
       "site": "https://www.myjoyonline.com/"
     },

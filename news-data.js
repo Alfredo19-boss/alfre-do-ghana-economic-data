@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T18:15:49.903Z",
+  "updated": "2026-11-22T18:25:49.990Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
+      "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T18:22:34.000Z",
+      "summary": "The Executive Director of the ECOWAS Federation of Chambers of Mines (EFEDCOM), Ing. Dr Kenneth Ashigbey, has called on member Chambers to explore the establishment of a regional cyanide…"
+    },
     {
       "title": "GEXPO 2026 Puts Ghana’s Innovative Chocolate Flavours in the Spotlight",
       "link": "https://thehighstreetjournal.com/gexpo-2026-puts-ghanas-innovative-chocolate-flavours-in-the-spotlight/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T19:46:57.000Z",
       "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has inspected ongoing works on the 161kV Kumasi–Anwomaso (K1K2) transmission line, urging the technical team to…"
-    },
-    {
-      "title": "BoG to assess rural banks’ conversion progress before considering extensions",
-      "link": "https://www.myjoyonline.com/bog-to-assess-rural-banks-conversion-progress-before-considering-extensions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T18:39:58.000Z",
-      "summary": "The Bank of Ghana says it is open to considering extensions for rural banks that are unable to meet the December 2026 deadline for transitioning into community banks, as it continues to…"
     }
   ]
 };
