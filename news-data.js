@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T11:25:49.205Z",
+  "updated": "2026-11-22T11:35:49.515Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget & Citizens’ Wishlist: How the Budget Fared Against Public Expectations – CERPA’s Review",
+      "link": "https://thehighstreetjournal.com/2027-budget-citizens-wishlist-how-the-budget-fared-against-public-expectations-cerpas-review/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T11:30:03.000Z",
+      "summary": "CERPA's review finds the 2027 Budget addressed all 14 public expectations, with nine fully met, three partially addressed and two carrying caveats, but identifies gaps in household relief…"
+    },
     {
       "title": "GEXPO 2026 Proves Ghana Can Meet Its Cosmetic Needs Locally—From Head to Toe",
       "link": "https://thehighstreetjournal.com/gexpo-2026-proves-ghana-can-meet-its-cosmetic-needs-locally-from-head-to-toe/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T15:32:18.000Z",
       "summary": "The 2026 Ghana Export and Made in Ghana Fair (GEXPO 2026) is set to run from November 18 to 22 at the Black Star Square in Accra, with a focus on promoting locally manufactured products and…"
-    },
-    {
-      "title": "BoG reviews Women’s Development Bank application after receiving additional information",
-      "link": "https://www.myjoyonline.com/bog-reviews-womens-development-bank-application-after-receiving-additional-information/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:14:58.000Z",
-      "summary": "The Bank of Ghana (BoG) is reviewing an application for the establishment of the proposed Women’s Development Bank, following the submission of additional information requested from the…"
     }
   ]
 };

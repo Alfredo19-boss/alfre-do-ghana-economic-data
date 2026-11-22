@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T11:26:19.777Z",
+  "updated": "2026-11-22T11:36:20.120Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-22T10:50:20.000Z",
       "summary": "Seth Kwame Dzokoto, affectionately called Edziban, an outstanding personality in the media and political space, will be laid to rest on February 20, 2027, in Sekondi in the Western Region.",
       "categories": [
+        "HP News 5",
         "National",
         "Edziban",
         "Sekondi"
