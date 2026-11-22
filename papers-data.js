@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T09:31:18.925Z",
+  "updated": "2026-11-22T10:11:19.704Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bagbin urges Africa to tell its own story, use technology ethically",
+      "link": "https://www.myjoyonline.com/bagbin-urges-africa-to-tell-its-own-story-use-technology-ethically/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:05:48.000Z",
+      "summary": "Africa must take greater ownership of its narratives and build a stronger continental communication ecosystem, Mr Alban Bagbin, the Speaker of Ghana’s Parliament, told delegates at the 2026…",
+      "categories": [
+        "National",
+        "Africa",
+        "Bagbin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama calls on Oti Chiefs to help end Nkwanta conflicts",
+      "link": "https://www.myjoyonline.com/president-mahama-calls-on-oti-chiefs-to-help-end-nkwanta-conflicts/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:04:34.000Z",
+      "summary": "President John Dramani Mahama has called on the Oti Regional House of Chiefs to assist the government in resolving the recurring ethnic and chieftaincy conflicts in the Nkwanta area.",
+      "categories": [
+        "National",
+        "Covid-19",
+        "Nkwanta",
+        "Oti Chiefs",
+        "President Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Opoku-Agyemang urges protection of children from hazardous work",
+      "link": "https://www.myjoyonline.com/opoku-agyemang-urges-protection-of-children-from-hazardous-work/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:04:01.000Z",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has called for collective and concerted efforts towards protecting children from exploitative labour in the nation’s fishing industry.",
+      "categories": [
+        "National",
+        "Children",
+        "Opoku-Agyemang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "In Ghana, political principles fly economy until their owners enter government!",
       "link": "https://www.myjoyonline.com/in-ghana-political-principles-fly-economy-until-their-owners-enter-government/",
@@ -101,47 +142,6 @@ window.GDC_PAPERS = {
         "Flooding",
         "GARID",
         "Kisseman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof Nunoo calls for automated fisheries management to curb political interference",
-      "link": "https://www.myjoyonline.com/prof-nunoo-calls-for-automated-fisheries-management-to-curb-political-interference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T03:54:26.000Z",
-      "summary": "Professor of Fisheries Science at the University of Ghana, Francis Kofi Ewusie Nunoo, has called for greater automation in Ghana’s fisheries sector, arguing that the use of modern…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "22-year-old Ghanaian man dies after apartment fire in New York",
-      "link": "https://www.myjoyonline.com/22-year-old-ghanaian-man-dies-after-apartment-fire-in-new-york/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T03:37:39.000Z",
-      "summary": "A 22-year-old Ghanaian man, identified as Zaidan Harun, has died after an apartment fire in the Soundview neighbourhood of the Bronx, New York. The fire broke out shortly after 12:20 p.m…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Apartment fire",
-        "New York",
-        "westchester"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
-      "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T23:59:31.000Z",
-      "summary": "The African Agribusiness Consortium Limited (AAC), a subsidiary of the Jospong Group of Companies, has signed a memorandum of understanding with Türkiye-based ChitoGlobal Biotechnology to…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Jospong",
-        "shell based farm",
-        "shrimp"
       ],
       "site": "https://www.myjoyonline.com/"
     },
