@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T17:36:19.577Z",
+  "updated": "2026-11-22T17:46:19.621Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Profligate Hearts punished in 2-2 draw with Aduana",
+      "link": "https://www.myjoyonline.com/profligate-hearts-punished-in-2-2-draw-with-aduana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:43:06.000Z",
+      "summary": "Accra Hearts of Oak surrendered a two-goal lead to settle for a 2-2 draw with Aduana F.C. in the Ghana Premier League on Sunday. Hearts went into the game chasing top spot and got a…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Aduana F.C.",
+        "Ghana",
+        "Ghana Premier League",
+        "Hearts of Oak"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rent Control Department summons hostel operators over illegal fee hikes",
+      "link": "https://www.myjoyonline.com/rent-control-department-summons-hostel-operators-over-illegal-fee-hikes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:39:56.000Z",
+      "summary": "The Rent Control Department has summoned managers of some university-affiliated and private hostels over unauthorised rent increases, with some operators reportedly raising fees by as much…",
+      "categories": [
+        "National",
+        "Gizella Tetteh- Agbotui",
+        "rent control department"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2026/27 Ghana League: Dreams beat Samartex to record consecutive wins for first time this season",
       "link": "https://www.myjoyonline.com/2026-27-ghana-league-dreams-beat-samartex-to-record-consecutive-wins-for-first-time-this-season/",
@@ -109,34 +140,6 @@ window.GDC_PAPERS = {
         "Mahama",
         "Odwira Akyi Akwasidae Kese",
         "Tema Port"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026/2027 GPL: Medeama beat AshantiGold to stay top",
-      "link": "https://www.myjoyonline.com/2026-2027-gpl-medeama-beat-ashantigold-to-stay-top/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:59:24.000Z",
-      "summary": "Medeama SC made it three consecutive wins in the Ghana Premier League with a comfortable 2-0 victory over AshantiGold. After a goalless first half, the defending champions broke the…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Ghana Premier League",
-        "Medeama SC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gizella Tetteh-Agbotui condemns unfair hostel fee hikes, assures students of gov’t action",
-      "link": "https://www.myjoyonline.com/gizella-tetteh-agbotui-condemns-unfair-hostel-fee-hikes-assures-students-of-govt-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:51:36.000Z",
-      "summary": "Deputy Minister for Works and Housing, Gizella Tetteh-Agbotui, has condemned reported arbitrary increases in hostel fees by some operators, warning that students must not be made to bear…",
-      "categories": [
-        "National",
-        "Gizella Tetteh-Agbotui",
-        "Hostel",
-        "Rent"
       ],
       "site": "https://www.myjoyonline.com/"
     },
