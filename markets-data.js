@@ -1,5 +1,5 @@
 window.GDC_MARKETS = {
-  "updated": "2026-11-22T00:06:02.790Z",
+  "updated": "2026-11-22T00:16:02.686Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -4108,11 +4108,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 60108.75,
+        "value": 60167.41,
         "prev": 62987.266,
-        "change": -2878.52,
-        "pct": -4.57,
-        "at": "2026-11-22T00:05:57.000Z",
+        "change": -2819.86,
+        "pct": -4.48,
+        "at": "2026-11-22T00:15:58.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4384,7 +4384,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-22",
-            "value": 60108.75
+            "value": 60167.41
           }
         ]
       },
@@ -4393,11 +4393,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 1682.09,
+        "value": 1681.45,
         "prev": 1774.7491,
-        "change": -92.6591,
-        "pct": -5.22,
-        "at": "2026-11-22T00:05:55.000Z",
+        "change": -93.2991,
+        "pct": -5.26,
+        "at": "2026-11-22T00:15:56.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -4669,7 +4669,7 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-22",
-            "value": 1682.09
+            "value": 1681.45
           }
         ]
       }
@@ -7135,7 +7135,7 @@ window.GDC_MARKETS = {
         "prev": 1.3216,
         "change": -0.0134,
         "pct": -1.01,
-        "at": "2026-11-21T15:05:48.000Z",
+        "at": "2026-11-22T00:15:47.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -7387,6 +7387,10 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-21",
+            "value": 1.3082
+          },
+          {
+            "date": "2026-11-22",
             "value": 1.3082
           }
         ]
