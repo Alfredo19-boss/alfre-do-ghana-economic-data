@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T21:52:11.480Z",
+  "updated": "2026-11-22T22:02:11.459Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Pochettino endures nightmare start as Man United lose to Liverpool",
+      "link": "https://www.myjoyonline.com/pochettino-endures-nightmare-start-as-man-united-lose-to-liverpool/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:53:19.000Z",
+      "summary": "Mauricio Pochettino's reign as Manchester United head coach began in desperate fashion, as his team were thrashed by rivals Liverpool and remained in the Premier League relegation zone.",
+      "categories": [
+        "Football",
+        "Man United",
+        "Mauricio Pochettino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Institute of Architects proposes structured partnership to protect Ghana’s architectural heritage",
+      "link": "https://www.myjoyonline.com/ghana-institute-of-architects-proposes-structured-partnership-to-protect-ghanas-architectural-heritage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:51:44.000Z",
+      "summary": "The Ghana Institute of Architects (GIA) has proposed the introduction of a legislative instrument to strengthen the protection and preservation of Ghana’s architectural heritage as part of…",
+      "categories": [
+        "National",
+        "News",
+        "Ghana Institute of Architects",
+        "Kwame Agbodza",
+        "Tony Asare"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
       "link": "https://www.myjoyonline.com/alcaraz-outplays-zverev-for-first-atp-finals-triumph/",
@@ -100,32 +128,6 @@ window.GDC_PAPERS = {
       "categories": [
         "HP News 1",
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Family seeks answers following death of woman in Keta",
-      "link": "https://www.myjoyonline.com/family-seeks-answers-following-death-of-woman-in-keta/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:00:53.000Z",
-      "summary": "The family of a 24-year-old woman, Rashida Viera, who died under circumstances surrounding an alleged assault by her boyfriend at Abor-Agbolete in the Keta Municipality of the Volta Region…",
-      "categories": [
-        "Crime",
-        "Assault",
-        "Keta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "3 suspects remanded over alleged theft of two-year-old baby at Anloga",
-      "link": "https://www.myjoyonline.com/3-suspects-remanded-over-alleged-theft-of-two-year-old-baby-at-anloga/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T20:50:38.000Z",
-      "summary": "Three suspects identified as Godswill Gologa, aged 19, Emmanuel Tetteh, 24, and Promise Gada, 20, have been remanded into police custody by the Anloga District Magistrate Court for…",
-      "categories": [
-        "Crime",
-        "Anloga",
-        "baby theft"
       ],
       "site": "https://www.myjoyonline.com/"
     },
