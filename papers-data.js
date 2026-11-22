@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:06:19.937Z",
+  "updated": "2026-11-22T16:16:20.140Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Roads Minister Kwame Agbodza Inducted into Ghana Institute of Architects Hall of Fellows",
+      "link": "https://www.graphic.com.gh/news/general-news/roads-minister-kwame-agbodza-inducted-into-ghana-institute-of-architects-hall-of-fellows.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T16:14:58.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Accra Academy 2001 Year Group marks 25th anniversary; hands over renovated dining hall, kitchen complex",
       "link": "https://www.myjoyonline.com/accra-academy-2001-year-group-marks-25th-anniversary-hands-over-renovated-dining-hall-kitchen-complex/",
@@ -213,17 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/education/ernest-ofori-sarpong-inducted-as-first-unimac-chancellor.html",
       "source": "Daily Graphic",
       "published": "2026-11-21T17:53:58.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "KsTU matriculates over 9,000 students for 2026/2027 academic year",
-      "link": "https://www.graphic.com.gh/news/education/kstu-matriculates-over-9-000-students-for-2025-2026-academic-year.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T13:29:05.000Z",
       "summary": "",
       "categories": [
         "Education"
