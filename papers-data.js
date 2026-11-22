@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T19:56:20.977Z",
+  "updated": "2026-11-22T20:36:20.278Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+      "link": "https://www.myjoyonline.com/judge-approves-7-25bn-settlement-for-roundup-weedkiller-cancer-claims/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T20:30:33.000Z",
+      "summary": "A Missouri judge on Friday approved a $7.25bn (£5.5bn) settlement stemming from lawsuits ⁠alleging that Bayer's weedkiller Roundup causes cancer.",
+      "categories": [
+        "International",
+        "Roundup",
+        "Weedkiller"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,000 if Black Challenge win trophy",
       "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-120000-if-black-challenge-win-trophy/",
@@ -157,19 +170,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Ghana Premier League",
         "Hearts of Oak"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rent Control Department summons hostel operators over illegal fee hikes",
-      "link": "https://www.myjoyonline.com/rent-control-department-summons-hostel-operators-over-illegal-fee-hikes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:39:56.000Z",
-      "summary": "The Rent Control Department has summoned managers of some university-affiliated and private hostels over unauthorised rent increases, with some operators reportedly raising fees by as much…",
-      "categories": [
-        "National",
-        "Gizella Tetteh- Agbotui",
-        "rent control department"
       ],
       "site": "https://www.myjoyonline.com/"
     },
