@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T17:46:19.621Z",
+  "updated": "2026-11-22T18:06:21.945Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Korle Bu's Dr Ernestina Schandorf becomes West Africa's first Paediatric Neuro-Oncologist",
+      "link": "https://www.graphic.com.gh/news/general-news/korle-bus-dr-ernestina-schandorf-becomes-west-africas-first-paediatric-neuro-oncologist.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T17:55:44.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Profligate Hearts punished in 2-2 draw with Aduana",
       "link": "https://www.myjoyonline.com/profligate-hearts-punished-in-2-2-draw-with-aduana/",
@@ -214,17 +225,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/gtec-freezes-approval-for-all-new-phd-accreditation-programmes-in-ghanaian-universities.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T11:28:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa must reclaim global image by strengthening voice in global media - Former UN Under-Secretary-General Prof Gambari",
-      "link": "https://www.graphic.com.gh/news/general-news/former-un-deputy-chief-urges-africa-to-reclaim-its-global-image-and-strengthen-its-voice-in-global-media.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T09:05:47.000Z",
       "summary": "",
       "categories": [
         "General News"
