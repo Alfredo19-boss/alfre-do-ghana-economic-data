@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T21:32:10.868Z",
+  "updated": "2026-11-22T21:42:10.733Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two teens arrested for alleged GH¢38,000 romance scam",
+      "link": "https://www.myjoyonline.com/two-teens-arrested-for-alleged-gh%c2%a238000-romance-scam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:30:23.000Z",
+      "summary": "The Assin Fosu District Court has remanded two teenagers from Ajumako-Besease into police custody for allegedly defrauding a Bibiani-based miner of GH₵38,477 through a WhatsApp and mobile…",
+      "categories": [
+        "Crime",
+        "Assin Fosu District Court",
+        "Romance scam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Retired Senior Military officer in court over alleged enlistment fraud",
       "link": "https://www.myjoyonline.com/retired-senior-military-officer-in-court-over-alleged-enlistment-fraud/",
@@ -115,19 +128,6 @@ window.GDC_PAPERS = {
         "COP31",
         "Turkey",
         "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-      "link": "https://www.myjoyonline.com/uk-should-only-rejoin-eu-if-it-innovates-on-technology-blair-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T20:38:38.000Z",
-      "summary": "Former prime minister Sir Tony Blair has said Britain should rejoin the European Union (EU) only if it reforms and allows more technological innovation.",
-      "categories": [
-        "International",
-        "EU",
-        "Tony Blair"
       ],
       "site": "https://www.myjoyonline.com/"
     },
