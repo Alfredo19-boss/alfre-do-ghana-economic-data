@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T04:47:35.209Z",
+  "updated": "2026-11-22T05:07:35.090Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,34 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gold Prices Tumble 3.51% In One Day As Market Sell-Off Puts Ghana’s Export Earnings In Focus",
+      "link": "https://thehighstreetjournal.com/gold-prices-tumble-3-51-in-one-day-as-market-sell-off-puts-ghanas-export-earnings-in-focus/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T05:05:00.000Z",
+      "summary": "Gold's sustained decline, driven by US interest rate expectations and dollar strength, raises concerns over Ghana's export earnings and growing dependence on the precious metal."
+    },
+    {
+      "title": "Youth Unemployment Remains High Despite Improving Job Numbers in Ghana",
+      "link": "https://thehighstreetjournal.com/youth-unemployment-remains-high-despite-improving-job-numbers-in-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T05:03:00.000Z",
+      "summary": "Unemployment among people aged 15 to 24 stood at 32.4 per cent in 2025, more than twice the national average."
+    },
+    {
+      "title": "UniMAC Seeks Industry Partnerships to Turn Creative Talent into Businesses",
+      "link": "https://thehighstreetjournal.com/unimac-seeks-industry-partnerships-to-turn-creative-talent-into-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T05:02:00.000Z",
+      "summary": "The investiture ceremony of entrepreneur Mr Ernest Ofori Sarpong as the university’s first Chancellor has brought renewed attention to the commercial potential of Ghana’s creative…"
+    },
+    {
+      "title": "Custom for Customs: How Commissioner Aaron Kanor Is Rewriting the Revenue Story of GRA’s Customs Division",
+      "link": "https://thehighstreetjournal.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T05:01:00.000Z",
+      "summary": "Aaron Kanor’s appointment as a career Customs professional has strengthened revenue mobilisation, improved operational efficiency and boosted morale, reinforcing the case for specialist…"
+    },
     {
       "title": "Tourism Ministry says Christmas events can boost Ghana’s December visitor appeal",
       "link": "https://www.myjoyonline.com/tourism-ministry-says-christmas-events-can-boost-ghanas-december-visitor-appeal/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T13:36:00.000Z",
       "summary": "The initiative is led by Scania West Africa on behalf of Germany's Federal Ministry for Economic Cooperation and Development (BMZ), with implementation support from the Deutsche…"
-    },
-    {
-      "title": "Local organic fertiliser offers farmers a pathway to climate-resilient agriculture",
-      "link": "https://www.myjoyonline.com/local-organic-fertiliser-offers-farmers-a-pathway-to-climate-resilient-agriculture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:21:32.000Z",
-      "summary": "As changing weather patterns, declining soil fertility and rising input costs threaten agricultural livelihoods, farmers in Ashanti and the Northern Region are turning to Organic Farming…"
-    },
-    {
-      "title": "Ghana Energy Awards’ EPOP extends reach close to 16,000 students nationwide",
-      "link": "https://www.myjoyonline.com/ghana-energy-awards-epop-extends-reach-close-to-16000-students-nationwide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T13:16:09.000Z",
-      "summary": "The Ghana Energy Awards (GEA), through its flagship Energy Personality Outreach Programme (EPOP), has extended its reach to close to 16,000 students nationwide, following its latest…"
-    },
-    {
-      "title": "Mahama Pushes Phased Adoption of ECO as West African Currency Delays Persist",
-      "link": "https://thehighstreetjournal.com/mahama-pushes-phased-adoption-of-eco-as-west-african-currency-delays-persist/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T12:59:19.000Z",
-      "summary": "Mahama proposes gradual ECO rollout to bypass ECOWAS currency delays"
-    },
-    {
-      "title": "Ghana Seeks EU Investment to Boost Timber Industry After FLEGT Milestone",
-      "link": "https://thehighstreetjournal.com/ghana-seekseuinvestmentin-timber-industry/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T12:09:00.000Z",
-      "summary": "A high-level Ghanaian delegation led by Forestry Commission Chief Executive Dr. Hugh C. A. Brown held discussions with the European Commission's Directorates-General for International…"
     }
   ]
 };
