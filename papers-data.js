@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T12:46:20.173Z",
+  "updated": "2026-11-22T12:56:20.021Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,46 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "51% of young voters satisfied with 24-hour economy policy – Global InfoAnalytics poll",
+      "link": "https://www.myjoyonline.com/51-of-young-voters-satisfied-with-24-hour-economy-policy-global-infoanalytics-poll/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:51:27.000Z",
+      "summary": "More than half of young voters in Ghana have expressed satisfaction with the government’s 24-hour Economy policy, although the initiative has received weaker approval than three other…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "24-hour economy policy",
+        "Global InfoAnalytics poll",
+        "Government",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Illegal mining, destructive fishing threaten inland fisheries – Vice President",
+      "link": "https://www.myjoyonline.com/illegal-mining-destructive-fishing-threaten-inland-fisheries-vice-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:47:22.000Z",
+      "summary": "Vice-President Professor Naana Jane Opoku-Agyemang has called for urgent action to protect Ghana's inland fisheries, warning that illegal mining, destructive fishing practices and climate…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Fishing",
+        "Illegal mining",
+        "Vice President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Payroll without pipettes: Why you cannot build a first-world economy on 0.09% R&D",
       "link": "https://www.myjoyonline.com/payroll-without-pipettes-why-you-cannot-build-a-first-world-economy-on-0-09-rd/",
       "source": "MyJoyOnline",
       "published": "2026-11-22T12:40:46.000Z",
       "summary": "Read Section 3 of the 2027 Budget Statement and the ambition leaps off the page. Government promises a \"New Economy\" built on critical-minerals refining, biomanufacturing, nuclear baseload…",
       "categories": [
+        "HP News 9",
         "HP Opinion 1",
         "National",
         "Opinion",
@@ -103,41 +137,6 @@ window.GDC_PAPERS = {
         "News",
         "College of Education",
         "Nusrat College of Education",
-        "UEW"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: New climate deal emerges after overnight negotiations in Turkey",
-      "link": "https://www.myjoyonline.com/cop31-new-climate-deal-emerges-after-overnight-negotiations-in-turkey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:24:43.000Z",
-      "summary": "COP31 negotiators in Antalya, Turkey, have presented a new climate deal after days of overnight talks, with the Australian and Turkish presidencies expressing confidence that nearly 200…",
-      "categories": [
-        "Africa",
-        "HP News 8",
-        "International",
-        "National",
-        "News",
-        "Politics",
-        "Antalya",
-        "COP31",
-        "Turkey",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW warns newly trained teachers against sexual relationships with pupils",
-      "link": "https://www.myjoyonline.com/uew-warns-newly-trained-teachers-against-sexual-relationships-with-pupils/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:21:32.000Z",
-      "summary": "The University of Education, Winneba (UEW) has warned newly trained teachers against engaging in sexual relationships with pupils, describing the conduct as reprehensible and unacceptable.",
-      "categories": [
-        "News",
-        "Pupils",
-        "Teacher",
-        "trained teacher",
         "UEW"
       ],
       "site": "https://www.myjoyonline.com/"
