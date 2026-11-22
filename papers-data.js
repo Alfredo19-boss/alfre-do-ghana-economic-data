@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T17:06:19.067Z",
+  "updated": "2026-11-22T17:16:18.832Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Asante Kotoko suffer defeat against Bechem United on Stanley Menzo’s debut",
+      "link": "https://www.myjoyonline.com/asante-kotoko-suffer-defeat-against-bechem-united-on-stanley-menzos-debut/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:06:06.000Z",
+      "summary": "Bechem United claimed a hard-fought 1-0 victory over Asante Kotoko in Ghana Premier League Matchday 12, with Isaac Korankye scoring the decisive goal at the Nana Fosu Gyeabour Park.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Asante Kotoko",
+        "Ghana Premier League",
+        "Isaac Korankye",
+        "Stanley Menzo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Berekum Chelsea beat Young Apsotles to move up on league table",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-berekum-chelsea-beat-young-apsotles-to-move-up-on-league-table/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T17:04:03.000Z",
+      "summary": "Berekum Chelsea bounced back to winning ways in the Ghana Premier League following their 2-1 victory over Young Apostles on Sunday afternoon. The Berekum-based side claimed all three points…",
+      "categories": [
+        "Football",
+        "Berekum Chelsea",
+        "Ghana Premier League",
+        "Young Apostles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Asikuma Inland Port to ease Tema Port congestion and create jobs in Asuogyaman – Mahama",
       "link": "https://www.myjoyonline.com/asikuma-inland-port-to-ease-tema-port-congestion-and-create-jobs-in-asuogyaman-mahama/",
@@ -144,35 +174,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sir Knight Prosper Augustus Semevo",
-      "link": "https://www.myjoyonline.com/sir-knight-prosper-augustus-semevo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:13:43.000Z",
-      "summary": "CELEBRATION OF LIFE CHIEF MOURNERS Daasebre Nana Kweku Boateng Ill (Paramount Chief of New Juaben Traditional Area), Togbi Tsikata Aqbodzie Il (Dufia of Srogbe), Togbi Nyaho Tamakloe VI…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Prosper Augustus Semevo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra Academy 2001 Year Group marks 25th anniversary; hands over renovated dining hall, kitchen complex",
-      "link": "https://www.myjoyonline.com/accra-academy-2001-year-group-marks-25th-anniversary-hands-over-renovated-dining-hall-kitchen-complex/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T15:54:26.000Z",
-      "summary": "The Accra Academy 2001 Year Group, popularly known as BLEOO 2G1, has marked its 25th anniversary with the official handover and commissioning of a renovated Dining Hall and Kitchen Complex…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "Accra Academy",
-        "Accra Academy 2001 year group",
-        "Accra Academy 25th anniversary"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "New NDC Greater Accra Chairman pledges purposeful leadership",
