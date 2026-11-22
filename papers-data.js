@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T15:56:19.245Z",
+  "updated": "2026-11-22T16:06:19.937Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra Academy 2001 Year Group marks 25th anniversary; hands over renovated dining hall, kitchen complex",
+      "link": "https://www.myjoyonline.com/accra-academy-2001-year-group-marks-25th-anniversary-hands-over-renovated-dining-hall-kitchen-complex/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T15:54:26.000Z",
+      "summary": "The Accra Academy 2001 Year Group, popularly known as BLEOO 2G1, has marked its 25th anniversary with the official handover and commissioning of a renovated Dining Hall and Kitchen Complex…",
+      "categories": [
+        "Education",
+        "National",
+        "Accra Academy",
+        "Accra Academy 2001 year group",
+        "Accra Academy 25th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New NDC Greater Accra Chairman pledges purposeful leadership",
       "link": "https://www.graphic.com.gh/news/politics/new-ndc-greater-accra-chairman-pledges-purposeful-leadership.html",
@@ -135,20 +150,6 @@ window.GDC_PAPERS = {
         "National",
         "Military training",
         "NSS Personnel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTEC suspends new PhD admissions pending nationwide review of doctoral programmes",
-      "link": "https://www.myjoyonline.com/gtec-suspends-new-phd-admissions-pending-nationwide-review-of-doctoral-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T13:50:00.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has suspended new admissions into PhD programmes across tertiary institutions as it undertakes a nationwide audit of doctoral training…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
