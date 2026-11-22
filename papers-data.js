@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T21:16:21.131Z",
+  "updated": "2026-11-22T21:32:10.868Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Retired Senior Military officer in court over alleged enlistment fraud",
+      "link": "https://www.myjoyonline.com/retired-senior-military-officer-in-court-over-alleged-enlistment-fraud/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:21:41.000Z",
+      "summary": "A retired senior military officer has appeared before the Accra Circuit Court, accused of defrauding a man of GH¢1 million under the pretext of facilitating the recruitment of 200 people…",
+      "categories": [
+        "Crime",
+        "Accra Circuit Court",
+        "Enlistment fraud"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Woyome dares critics to prove that he took a bribe or engaged in corruption",
+      "link": "https://www.myjoyonline.com/woyome-dares-critics-to-prove-that-he-took-a-bribe-or-engaged-in-corruption/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T21:17:19.000Z",
+      "summary": "Alfred Agbesi Woyome, a contender for the National Democratic Congress (NDC) national chairmanship, has challenged anyone in the country to produce evidence that he has taken a bribe or…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Politics",
+        "Alfred Agbesi Woyome",
+        "Judgement Debt",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Keta police arrest two suspects over death of fisherman at Kedzi-Havedzi",
       "link": "https://www.myjoyonline.com/keta-police-arrest-two-suspects-over-death-of-fisherman-at-kedzi-havedzi/",
@@ -99,34 +128,6 @@ window.GDC_PAPERS = {
         "International",
         "EU",
         "Tony Blair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
-      "link": "https://www.myjoyonline.com/judge-approves-7-25bn-settlement-for-roundup-weedkiller-cancer-claims/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T20:30:33.000Z",
-      "summary": "A Missouri judge on Friday approved a $7.25bn (£5.5bn) settlement stemming from lawsuits ⁠alleging that Bayer's weedkiller Roundup causes cancer.",
-      "categories": [
-        "International",
-        "Roundup",
-        "Weedkiller"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,000 if Black Challenge win trophy",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-120000-if-black-challenge-win-trophy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T19:33:19.000Z",
-      "summary": "Ghanaian entrepreneur Dr Mohammed Raii has fulfilled his promise of US$2,000 to each member of the Black Challenge following their historic qualification for the final of the Amputee…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Mohammed Raii"
       ],
       "site": "https://www.myjoyonline.com/"
     },
