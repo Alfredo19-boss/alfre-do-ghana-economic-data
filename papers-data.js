@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T23:56:36.112Z",
+  "updated": "2026-11-22T00:06:35.362Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
+      "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T23:59:31.000Z",
+      "summary": "The African Agribusiness Consortium Limited (AAC), a subsidiary of the Jospong Group of Companies, has signed a memorandum of understanding with Türkiye-based ChitoGlobal Biotechnology to…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Jospong",
+        "shell based farm",
+        "shrimp"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Haruna Iddrisu announces €325m loan plan to address water shortages in three Northern cities",
       "link": "https://www.myjoyonline.com/haruna-iddrisu-announces-e325m-loan-plan-to-address-water-shortages-in-three-northern-cities/",
@@ -121,20 +136,6 @@ window.GDC_PAPERS = {
         "2027",
         "Ghana Shippers Authority",
         "Shipping Industry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.myjoyonline.com/fight-over-fossil-fuels-leaves-cop31-climate-talks-in-deadlock/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T20:18:54.000Z",
-      "summary": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock after running more than 36 hours into overtime with countries unable to agree on a new global climate deal.",
-      "categories": [
-        "International",
-        "COP31",
-        "fossil fuels",
-        "UN climate summit"
       ],
       "site": "https://www.myjoyonline.com/"
     },

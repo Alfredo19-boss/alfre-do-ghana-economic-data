@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-21T23:56:05.084Z",
+  "updated": "2026-11-22T00:06:05.024Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
+      "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T23:59:31.000Z",
+      "summary": "The African Agribusiness Consortium Limited (AAC), a subsidiary of the Jospong Group of Companies, has signed a memorandum of understanding with Türkiye-based ChitoGlobal Biotechnology to…"
+    },
     {
       "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
       "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-18T12:05:55.000Z",
       "summary": "The Deutsche Bank leak is not only about Donald Trump’s loans or Jeffrey Epstein’s yacht."
-    },
-    {
-      "title": "Bills Microcredit launches Bills Direct, allowing consumers to shop without down payments or collateral",
-      "link": "https://www.myjoyonline.com/bills-microcredit-launches-bills-direct-allowing-consumers-to-shop-without-down-payments-or-collateral/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T12:01:32.000Z",
-      "summary": "Bills Microcredit has introduced no-down-payment, no-collateral and no-account-needed consumer loans dubbed Bills Direct. According to the firm, customers can pick items at partner stores…"
     }
   ]
 };
