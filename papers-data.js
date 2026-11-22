@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T19:36:20.324Z",
+  "updated": "2026-11-22T19:56:20.977Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,000 if Black Challenge win trophy",
+      "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-120000-if-black-challenge-win-trophy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T19:33:19.000Z",
+      "summary": "Ghanaian entrepreneur Dr Mohammed Raii has fulfilled his promise of US$2,000 to each member of the Black Challenge following their historic qualification for the final of the Amputee…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mohammed Raii"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amputee World Cup: Dr Mohammed Raii delivers 30,000 bonus, promises further $120,00 if Black Challenge win trophy",
       "link": "https://www.myjoyonline.com/amputee-world-cup-dr-mohammed-raii-delivers-30000-bonus-promises-further-12000-if-black-challenge-win-trophy/",
       "source": "MyJoyOnline",
@@ -34,6 +49,17 @@ window.GDC_PAPERS = {
         "Mohammed Raii"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man who severed penis after injury while squatting on WC having 'good erections' 3 weeks after Korle Bu surgeons successfully reattached it",
+      "link": "https://www.graphic.com.gh/news/general-news/man-who-severed-penis-after-injury-while-squatting-on-wc-having-good-erections-3-weeks-after-korle-bu-surgeons-successfully-reattached-it.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T19:31:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Port City FC and Heart of Lions share spoils in goalless draw",
@@ -148,21 +174,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2026/27 Ghana League: Dreams beat Samartex to record consecutive wins for first time this season",
-      "link": "https://www.myjoyonline.com/2026-27-ghana-league-dreams-beat-samartex-to-record-consecutive-wins-for-first-time-this-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:20:39.000Z",
-      "summary": "Dreams FC recorded consecutive victories in the Ghana Premier League for the first time this season after beating FC Samartex 1996 2-0 at the Tuba AstroTurf on Sunday. The Still Believe…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026/27 Ghana Premier League",
-        "Dreams Fc",
-        "FC Samartex 1996"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-japan-relations-must-go-beyond-development-assistance-ambassador.html",
       "source": "Daily Graphic",
@@ -211,17 +222,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/korle-bu-surgeons-successfully-reattach-mans-severed-penis-after-he-injured-himself-while-squatting-on-wc.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T13:47:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama to opposition: Back the New Economy Programme even if it keeps you out of power",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-opposition-back-the-new-economy-programme-even-if-it-keeps-you-out-of-power.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T12:39:18.000Z",
       "summary": "",
       "categories": [
         "General News"
