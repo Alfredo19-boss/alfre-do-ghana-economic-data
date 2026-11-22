@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T16:36:19.416Z",
+  "updated": "2026-11-22T16:46:19.889Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-japan-relations-must-go-beyond-development-assistance-ambassador.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T16:41:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Visually impaired student graduates with a first-class degree after relying on friends’ help with notes",
+      "link": "https://www.myjoyonline.com/visually-impaired-student-graduates-with-a-first-class-degree-after-relying-on-friends-help-with-notes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T16:28:08.000Z",
+      "summary": "Mariama Fatawu Yambakye, a visually impaired student who relied on her friends to access learning materials throughout her studies, has graduated with a first-class qualification from the…",
+      "categories": [
+        "Education",
+        "HP News 7",
+        "National",
+        "first class degree",
+        "Student",
+        "visually-impaired student"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Visually impaired student graduates with a first-class degree after relying on friends’ support",
       "link": "https://www.myjoyonline.com/visually-impaired-student-graduates-with-a-first-class-degree-after-relying-on-friends-support/",
@@ -156,22 +183,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghanaian doctor makes history as West Africa’s first paediatric neuro-oncologist",
-      "link": "https://www.myjoyonline.com/ghanaian-doctor-makes-history-as-west-africas-first-paediatric-neuro-oncologist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T15:09:49.000Z",
-      "summary": "A Ghanaian doctor at the Korle Bu Teaching Hospital (KBTH), Dr Ernestina Nana Boatemaa Schandorf, has made history as West Africa’s first paediatric neuro-oncologist, marking a major…",
-      "categories": [
-        "Health",
-        "HP News 1",
-        "National",
-        "News",
-        "Korle Bu Teaching Hospital",
-        "Paediatric"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Korle Bu surgeons successfully reattach man's severed penis after he injured himself while squatting on WC",
       "link": "https://www.graphic.com.gh/news/general-news/korle-bu-surgeons-successfully-reattach-mans-severed-penis-after-he-injured-himself-while-squatting-on-wc.html",
       "source": "Daily Graphic",
@@ -209,17 +220,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/former-un-deputy-chief-urges-africa-to-reclaim-its-global-image-and-strengthen-its-voice-in-global-media.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T09:05:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UK and Ghana to deepen security partnership at 4th Security Dialogue in London next week",
-      "link": "https://www.graphic.com.gh/news/general-news/uk-and-ghana-to-deepen-security-partnership-at-fourth-security-dialogue-in-london.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T19:43:22.000Z",
       "summary": "",
       "categories": [
         "General News"

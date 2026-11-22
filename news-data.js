@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T16:35:50.110Z",
+  "updated": "2026-11-22T16:45:49.330Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s 500,000-Tonne Fish Supply Gap Puts Focus on Market Infrastructure",
+      "link": "https://thehighstreetjournal.com/ghanas-500000-tonne-fish-supply-gap-puts-focus-on-market-infrastructure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T16:41:36.000Z",
+      "summary": "Ghana’s annual fish supply deficit of about 500,000 metric tonnes is raising the stakes for investment in inland fisheries infrastructure, with Government planning dedicated fish markets in…"
+    },
+    {
+      "title": "Ghana’s Fastest-Growing Sectors Create Few Jobs As Investment Slows",
+      "link": "https://thehighstreetjournal.com/ghanas-fastest-growing-sectors-create-few-jobs-as-investment-slows/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T16:38:18.000Z",
+      "summary": "Information and communication recorded annual productivity growth of 23 per cent but employed just 0.4 per cent of the workforce, exposing an imbalance in the economy."
+    },
     {
       "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
       "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T17:07:41.000Z",
       "summary": "According to the Monetary Policy Committee (MPC) press release, consumer confidence weakened, reflecting higher ex-pump petroleum prices and transport fares, while business confidence…"
-    },
-    {
-      "title": "CIB Ghana Pushes Banks To Rethink SME Lending as Financing Gaps Persist",
-      "link": "https://thehighstreetjournal.com/cib-ghana-pushes-banks-to-rethink-sme-lending-as-financing-gaps-persist/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T17:07:00.000Z",
-      "summary": "CIB Ghana and GhISP are training bank officials to adopt cash-flow-based and inclusive lending approaches, addressing traditional credit assessment barriers that prevent viable Ghanaian…"
-    },
-    {
-      "title": "Deutsche Bank faces fresh scrutiny after leak reveals alleged failures",
-      "link": "https://www.ghanabusinessnews.com/2026/11/18/deutsche-bank-faces-fresh-scrutiny-after-leak-reveals-alleged-failures/",
-      "source": "Ghana Business News",
-      "published": "2026-11-18T16:53:38.000Z",
-      "summary": "More than 15 million internal documents reportedly offer insights into how Deutsche Bank handled warnings and problematic clients. Here is what international media outlets discovered while…"
     }
   ]
 };
