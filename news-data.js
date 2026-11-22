@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T07:45:50.064Z",
+  "updated": "2026-11-22T08:35:49.785Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEXPO 2026 Enters Final Day as Calls Grow for a Made-in-Ghana Christmas Shop List",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-enters-final-day-as-calls-grow-for-a-made-in-ghana-christmas-shop-list/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T08:30:35.000Z",
+      "summary": "GEXPO 2026 enters its final day at Black Star Square, urging a Made-in-Ghana Christmas while regional exhibitors seek nationwide distributors before closing."
+    },
     {
       "title": "Gold Prices Tumble 3.51% In One Day As Market Sell-Off Puts Ghana’s Export Earnings In Focus",
       "link": "https://thehighstreetjournal.com/gold-prices-tumble-3-51-in-one-day-as-market-sell-off-puts-ghanas-export-earnings-in-focus/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T14:27:44.000Z",
       "summary": "With the prosecution having closed its case, the trial now moves to a determination of whether the evidence presented by the State is sufficient to require the accused persons to enter a…"
-    },
-    {
-      "title": "Scania-Led Initiative Targets Women for Jobs in Ghana’s Mining Transport Sector",
-      "link": "https://thehighstreetjournal.com/scanialedinitiative-mining-jobs-for-women/",
-      "source": "The High Street Journal",
-      "published": "2026-11-18T13:36:00.000Z",
-      "summary": "The initiative is led by Scania West Africa on behalf of Germany's Federal Ministry for Economic Cooperation and Development (BMZ), with implementation support from the Deutsche…"
     }
   ]
 };
