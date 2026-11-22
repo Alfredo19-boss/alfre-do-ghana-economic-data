@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T12:06:19.355Z",
+  "updated": "2026-11-22T12:46:20.173Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Payroll without pipettes: Why you cannot build a first-world economy on 0.09% R&D",
+      "link": "https://www.myjoyonline.com/payroll-without-pipettes-why-you-cannot-build-a-first-world-economy-on-0-09-rd/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T12:40:46.000Z",
+      "summary": "Read Section 3 of the 2027 Budget Statement and the ambition leaps off the page. Government promises a \"New Economy\" built on critical-minerals refining, biomanufacturing, nuclear baseload…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Payroll",
+        "Pipettes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kwame Dzokoto of Edziban fame to be buried on February 20, 2027, in Sekondi",
       "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-buried-on-february-20-2027-in-sekondi/",
@@ -124,25 +139,6 @@ window.GDC_PAPERS = {
         "Teacher",
         "trained teacher",
         "UEW"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31 and the ghost of The Hague: Could climate negotiations collapse again, 26 years later?",
-      "link": "https://www.myjoyonline.com/cop31-and-the-ghost-of-the-hague-could-climate-negotiations-collapse-again-26-years-later/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T10:15:46.000Z",
-      "summary": "As COP31 negotiations stretch beyond their scheduled closing date, disagreements over fossil fuels, climate finance and the wording of the final agreement are bringing back memories of…",
-      "categories": [
-        "Africa",
-        "Health",
-        "International",
-        "National",
-        "News",
-        "COP31",
-        "The Hague",
-        "Turkey",
-        "UN"
       ],
       "site": "https://www.myjoyonline.com/"
     },
