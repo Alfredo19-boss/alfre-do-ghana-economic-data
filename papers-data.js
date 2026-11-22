@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T23:02:11.317Z",
+  "updated": "2026-11-22T23:12:11.270Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "link": "https://www.myjoyonline.com/miley-cyrus-marries-maxx-morando-in-california-ceremony/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:05:00.000Z",
+      "summary": "Miley Cyrus has married her partner of four years, Maxx Morando, during a ceremony in Palm Springs, California.",
+      "categories": [
+        "Movies",
+        "Music",
+        "Miley Cyrus"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
@@ -117,19 +130,6 @@ window.GDC_PAPERS = {
         "Football",
         "Collapse",
         "Leandro Paredes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PSG’s Doue to have surgery on ruptured ACL",
-      "link": "https://www.myjoyonline.com/psgs-doue-to-have-surgery-on-ruptured-acl/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:01:13.000Z",
-      "summary": "Paris Saint-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-      "categories": [
-        "Football",
-        "Desire Doue",
-        "PSG"
       ],
       "site": "https://www.myjoyonline.com/"
     },

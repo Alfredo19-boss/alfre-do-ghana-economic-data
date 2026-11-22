@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T23:01:40.847Z",
+  "updated": "2026-11-22T23:11:41.199Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:58:54.000Z",
+      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢4.25 billion."
+    },
     {
       "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
       "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T22:13:00.000Z",
       "summary": "Ghana must curb gold smuggling and expand its refinery infrastructure to meet the government’s 2028 target of refining all artisanal and small-scale mining (ASM) gold locally, GHEITI…"
-    },
-    {
-      "title": "GRIDCo pushes to complete 161kV Kumasi–Anwomaso project to improve power reliability",
-      "link": "https://www.myjoyonline.com/gridco-pushes-to-complete-161kv-kumasi-anwomaso-project-to-improve-power-reliability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T19:46:57.000Z",
-      "summary": "The Chief Executive of the Ghana Grid Company (GRIDCo), Ing. Frank Otchere, has inspected ongoing works on the 161kV Kumasi–Anwomaso (K1K2) transmission line, urging the technical team to…"
     }
   ]
 };
