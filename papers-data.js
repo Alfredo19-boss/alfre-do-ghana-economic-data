@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T00:06:35.362Z",
+  "updated": "2026-11-22T03:48:06.059Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "22-year-old Ghanaian man dies after apartment fire in New York",
+      "link": "https://www.myjoyonline.com/22-year-old-ghanaian-man-dies-after-apartment-fire-in-new-york/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T03:37:39.000Z",
+      "summary": "A 22-year-old Ghanaian man, identified as Zaidan Harun, has died after an apartment fire in the Soundview neighbourhood of the Bronx, New York. The fire broke out shortly after 12:20 p.m…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Apartment fire",
+        "New York",
+        "westchester"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
       "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
@@ -120,22 +135,6 @@ window.GDC_PAPERS = {
         "NDC",
         "Nii Lante Vanderpuye",
         "Pension scheme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
-      "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T21:12:58.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) says it will strengthen regulatory oversight and enforcement in 2027 to protect importers and exporters and address persistent challenges in the…",
-      "categories": [
-        "Economy",
-        "HP News 5",
-        "National",
-        "2027",
-        "Ghana Shippers Authority",
-        "Shipping Industry"
       ],
       "site": "https://www.myjoyonline.com/"
     },
