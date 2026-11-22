@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:41:19.521Z",
+  "updated": "2026-11-22T10:46:19.693Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -43,6 +43,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-22T10:27:19.000Z",
       "summary": "The University of Education, Winneba (UEW) has urged newly trained teachers from Nusrat Jahan College of Education to accept postings to rural and deprived communities to help address…",
       "categories": [
+        "Education",
         "News",
         "College of Education",
         "Nusrat College of Education",
