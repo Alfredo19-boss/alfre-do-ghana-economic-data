@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T10:31:19.989Z",
+  "updated": "2026-11-22T10:36:19.110Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Washking marks 10 years with over 1,000 sanitation installations",
+      "link": "https://www.myjoyonline.com/washking-marks-10-years-with-over-1000-sanitation-installations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:28:58.000Z",
+      "summary": "Washking Limited, a sanitation solutions company, has marked 10 years of operations, having delivered more than 1,000 sanitation installations and reached over 8,000 people.",
+      "categories": [
+        "National",
+        "News",
+        "Regional",
+        "affordable toilet",
+        "Sanitation",
+        "WashKing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UEW urges Nusrat Jahan College graduates to accept postings to deprived communities",
+      "link": "https://www.myjoyonline.com/uew-urges-nusrat-jahan-college-graduates-to-accept-postings-to-deprived-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T10:27:19.000Z",
+      "summary": "The University of Education, Winneba (UEW) has urged newly trained teachers from Nusrat Jahan College of Education to accept postings to rural and deprived communities to help address…",
+      "categories": [
+        "News",
+        "College of Education",
+        "Nusrat College of Education",
+        "UEW"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "COP31: New climate deal emerges after overnight negotiations in Turkey",
       "link": "https://www.myjoyonline.com/cop31-new-climate-deal-emerges-after-overnight-negotiations-in-turkey/",
@@ -112,38 +142,6 @@ window.GDC_PAPERS = {
         "National",
         "Children",
         "Opoku-Agyemang"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "In Ghana, political principles fly economy until their owners enter government!",
-      "link": "https://www.myjoyonline.com/in-ghana-political-principles-fly-economy-until-their-owners-enter-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T07:27:23.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, there lived two political parties that agreed on almost everything except who should enjoy the privileges they so passionately condemned…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Falcon 900EX",
-        "Jimmy Aglah",
-        "NDC",
-        "NPP",
-        "Presidential jet"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tourism Ministry says Christmas events can boost Ghana’s December visitor appeal",
-      "link": "https://www.myjoyonline.com/tourism-ministry-says-christmas-events-can-boost-ghanas-december-visitor-appeal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T04:41:58.000Z",
-      "summary": "The Ministry of Tourism, Culture and Creative Arts says Christmas activities organised by churches and other institutions can strengthen Ghana’s appeal as a destination for visitors during…",
-      "categories": [
-        "Economy",
-        "Events",
-        "National",
-        "Christmas",
-        "Tourism ministry"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T10:30:48.753Z",
+  "updated": "2026-11-22T10:35:48.507Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEXPO 2026 Proves Ghana Can Meet Its Cosmetic Needs Locally—From Head to Toe",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-proves-ghana-can-meet-its-cosmetic-needs-locally-from-head-to-toe/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T10:30:49.000Z",
+      "summary": "GEXPO 2026 shows Ghana’s cosmetic needs, hair care, skin products, shea butter blends, soaps, and perfumes, can be met locally with high-standard products."
+    },
     {
       "title": "Steinmeier’s Ghana Visit Opens Door For Manufacturing Partnerships As Local Industry Struggles",
       "link": "https://thehighstreetjournal.com/steinmeiers-ghana-visit-opens-door-for-manufacturing-partnerships-as-local-industry-struggles/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T15:14:58.000Z",
       "summary": "The Bank of Ghana (BoG) is reviewing an application for the establishment of the proposed Women’s Development Bank, following the submission of additional information requested from the…"
-    },
-    {
-      "title": "MPC cuts policy rate to 11% from 14 percent",
-      "link": "https://www.myjoyonline.com/bog-cuts-policy-rate-to-11-from-14-percent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T14:46:19.000Z",
-      "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana (BoG) has cut its Monetary Policy Rate by 300 basis points to 11 per cent, as improving economic conditions and declining market…"
     }
   ]
 };
