@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T22:12:11.038Z",
+  "updated": "2026-11-22T22:22:11.635Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "link": "https://www.myjoyonline.com/argentina-midfielder-paredes-collapses-during-tv-interview/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T22:14:15.000Z",
+      "summary": "World Cup-winning midfielder Leandro Paredes collapsed while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "categories": [
+        "Football",
+        "Collapse",
+        "Leandro Paredes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "PSG’s Doue to have surgery on ruptured ACL",
       "link": "https://www.myjoyonline.com/psgs-doue-to-have-surgery-on-ruptured-acl/",
@@ -114,21 +127,6 @@ window.GDC_PAPERS = {
         "Alfred Agbesi Woyome",
         "Judgement Debt",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Keta police arrest two suspects over death of fisherman at Kedzi-Havedzi",
-      "link": "https://www.myjoyonline.com/keta-police-arrest-two-suspects-over-death-of-fisherman-at-kedzi-havedzi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T21:09:10.000Z",
-      "summary": "The Police in the Keta Municipality of the Volta Region have picked up two suspects in connection with the death of Clarkson Govor, popularly known as CK Govor, at Kedzi-Havedzi.",
-      "categories": [
-        "Crime",
-        "Fisherman",
-        "Kedzi-Havedzi",
-        "Keta",
-        "Police"
       ],
       "site": "https://www.myjoyonline.com/"
     },
