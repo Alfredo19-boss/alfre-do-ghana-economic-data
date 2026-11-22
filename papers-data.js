@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T03:58:06.298Z",
+  "updated": "2026-11-22T04:08:05.830Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "COP 31: Africa expresses profound disappointment with outcomes, questions Presidency’s handling of negotiations",
+      "link": "https://www.myjoyonline.com/cop-31-africa-expresses-profound-disappointment-with-outcomes-questions-presidencys-handling-of-negotiations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T04:02:45.000Z",
+      "summary": "The African Group of Negotiators (AGN) has expressed profound disappointment with the outcomes of key negotiations at the 31st UN Climate Change Conference (COP31) in Antalya, Türkiye…",
+      "categories": [
+        "Africa",
+        "HP News 9",
+        "COP 31",
+        "Negotiations",
+        "Presidency"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kisseman–Christian Village bridge to close for six months for reconstruction",
+      "link": "https://www.myjoyonline.com/kisseman-christian-village-bridge-to-close-for-six-months-for-reconstruction/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T03:58:53.000Z",
+      "summary": "he bridge linking Kisseman and Christian Village in Accra will be closed to traffic for six months from the second week of December to allow for its reconstruction and elevation under the…",
+      "categories": [
+        "HP News 2",
+        "Regional",
+        "Bridge",
+        "christian village",
+        "Flooding",
+        "GARID",
+        "Kisseman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prof Nunoo calls for automated fisheries management to curb political interference",
       "link": "https://www.myjoyonline.com/prof-nunoo-calls-for-automated-fisheries-management-to-curb-political-interference/",
@@ -100,37 +132,6 @@ window.GDC_PAPERS = {
         "National Chairman",
         "NDC",
         "Vanderpuye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vanderpuye vows to end NPP dominance in Ashanti Region if elected NDC Chairman",
-      "link": "https://www.myjoyonline.com/vanderpuye-vows-to-end-npp-dominance-in-ashanti-region-if-elected-ndc-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T22:13:40.000Z",
-      "summary": "National Democratic Congress (NDC) National Chairmanship aspirant Edwin Nii Lante Vanderpuye has vowed to end the New Patriotic Party’s (NPP) dominance in the Ashanti Region, saying he…",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "NDC Chairman",
-        "NPP",
-        "Vanderpuye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Even if it keeps you out of power, support $10bn programme” – Mahama to Minority",
-      "link": "https://www.myjoyonline.com/even-if-it-keeps-you-out-of-power-support-10bn-programme-mahama-to-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T21:48:12.000Z",
-      "summary": "President John Dramani Mahama has urged the Minority in Parliament to support the government’s $10 billion New Economy programme, saying its success would benefit Ghana even if it prolongs…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Mahama",
-        "Minority",
-        "NDC",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
