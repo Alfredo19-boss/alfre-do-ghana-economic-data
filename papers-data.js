@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T18:36:21.276Z",
+  "updated": "2026-11-22T18:46:20.744Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Port City FC and Heart of Lions share spoils in goalless draw",
+      "link": "https://www.myjoyonline.com/port-city-fc-and-heart-of-lions-share-spoils-in-goalless-draw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T18:41:15.000Z",
+      "summary": "Port City and Heart of Lions settled for a 0-0 draw at Port City’s home in the Ghana Premier League on Sunday, November 22.",
+      "categories": [
+        "Football",
+        "HP Sports 5",
+        "Ghana Premier League",
+        "Heart of Lions",
+        "Port city"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "EFEDCOM elects Dr Yacouba Diarra as President",
       "link": "https://www.myjoyonline.com/efedcom-elects-dr-yacouba-diarra-as-president/",
@@ -63,6 +78,17 @@ window.GDC_PAPERS = {
         "UN"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTEC does not, and will never recruit staff for universities; GTEC is only facilitating - Prof Jinapor Abdulai to UTAG",
+      "link": "https://www.graphic.com.gh/news/education/gtec-does-not-and-will-never-recruit-staff-for-universities-gtec-is-only-facilitating-and-recognises-autonomy-of-prof-jinapor-abdulai-to-utag.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T18:00:09.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Korle Bu's Dr Ernestina Schandorf becomes West Africa's first Paediatric Neuro-Oncologist",
@@ -137,18 +163,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I wanted a 5% fare increment, but transport operators are strong negotiators – Transport Minister",
-      "link": "https://www.myjoyonline.com/i-wanted-a-5-fare-increment-but-transport-operators-are-strong-negotiators-transport-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:17:38.000Z",
-      "summary": "Transport Minister Joseph Bukari Nikpe has disclosed that he initially proposed a 5% increase in public transport fares but the negotiations with transport operators resulted in an 8%…",
-      "categories": [
-        "National",
-        "Transport fare"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-japan-relations-must-go-beyond-development-assistance-ambassador.html",
       "source": "Daily Graphic",
@@ -208,17 +222,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-opposition-back-the-new-economy-programme-even-if-it-keeps-you-out-of-power.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T12:39:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GTEC freezes approval for all new PhD accreditation programmes in Ghanaian universities due to proliferation",
-      "link": "https://www.graphic.com.gh/news/general-news/gtec-freezes-approval-for-all-new-phd-accreditation-programmes-in-ghanaian-universities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T11:28:03.000Z",
       "summary": "",
       "categories": [
         "General News"
