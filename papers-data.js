@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T18:06:21.945Z",
+  "updated": "2026-11-22T18:16:20.958Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dr Zanetor Agyeman-Rawlings protests ‘disrespect’ at COP31 as summit president apologises",
+      "link": "https://www.myjoyonline.com/dr-zanetor-agyeman-rawlings-protests-disrespect-at-cop31-as-summit-president-apologises/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T18:04:04.000Z",
+      "summary": "Ghana’s Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has protested what she described as disrespectful treatment at the closing plenary of COP31 after she…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "COP31",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Korle Bu's Dr Ernestina Schandorf becomes West Africa's first Paediatric Neuro-Oncologist",
       "link": "https://www.graphic.com.gh/news/general-news/korle-bus-dr-ernestina-schandorf-becomes-west-africas-first-paediatric-neuro-oncologist.html",
@@ -133,24 +148,6 @@ window.GDC_PAPERS = {
         "Berekum Chelsea",
         "Ghana Premier League",
         "Young Apostles"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asikuma Inland Port to ease Tema Port congestion and create jobs in Asuogyaman – Mahama",
-      "link": "https://www.myjoyonline.com/asikuma-inland-port-to-ease-tema-port-congestion-and-create-jobs-in-asuogyaman-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:01:36.000Z",
-      "summary": "President John Mahama says the construction of the Asikuma Inland Port will help ease congestion at the Tema Port while creating jobs and opening up economic opportunities for residents of…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Asikuma Inland Port",
-        "Asuogyaman",
-        "Mahama",
-        "Odwira Akyi Akwasidae Kese",
-        "Tema Port"
       ],
       "site": "https://www.myjoyonline.com/"
     },

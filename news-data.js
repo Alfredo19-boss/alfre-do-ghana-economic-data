@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T18:05:53.974Z",
+  "updated": "2026-11-22T18:15:49.903Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEXPO 2026 Puts Ghana’s Innovative Chocolate Flavours in the Spotlight",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-puts-ghanas-innovative-chocolate-flavours-in-the-spotlight/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T17:00:00.000Z",
+      "summary": "Chocolate infused with kelewele spices and chilli is among the unusual creations attracting visitors to the Ghana Expo (GEXPO) 2026 at the Black Star Square in Accra, as local producers…"
+    },
     {
       "title": "Ghana’s 500,000-Tonne Fish Supply Gap Puts Focus on Market Infrastructure",
       "link": "https://thehighstreetjournal.com/ghanas-500000-tonne-fish-supply-gap-puts-focus-on-market-infrastructure/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T18:39:58.000Z",
       "summary": "The Bank of Ghana says it is open to considering extensions for rural banks that are unable to meet the December 2026 deadline for transitioning into community banks, as it continues to…"
-    },
-    {
-      "title": "Secondary market turnover surges by 152% to GH¢6.86bn",
-      "link": "https://www.myjoyonline.com/secondary-market-turnover-surges-by-152-to-gh%c2%a26-86bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T17:20:27.000Z",
-      "summary": "Trading activity shifted towards the 2031-2034 maturity segment, which dominated turnover with a 49.70% share at a weighted-average yield of 14.97%."
     }
   ]
 };
