@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T18:26:20.601Z",
+  "updated": "2026-11-22T18:36:21.276Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "EFEDCOM elects Dr Yacouba Diarra as President",
+      "link": "https://www.myjoyonline.com/efedcom-elects-dr-yacouba-diarra-as-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T18:25:36.000Z",
+      "summary": "The ECOWAS Federation of Chambers of Mines (EFEDCOM) has elected Dr Yacouba Diarra as its new President. He has pledged to champion investment-friendly mining policies, strengthen regional…",
+      "categories": [
+        "National",
+        "Dr Yacouba Diarra",
+        "EFEDCOM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
       "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
@@ -132,24 +145,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Transport fare"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asante Kotoko suffer defeat against Bechem United on Stanley Menzo’s debut",
-      "link": "https://www.myjoyonline.com/asante-kotoko-suffer-defeat-against-bechem-united-on-stanley-menzos-debut/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T17:06:06.000Z",
-      "summary": "Bechem United claimed a hard-fought 1-0 victory over Asante Kotoko in Ghana Premier League Matchday 12, with Isaac Korankye scoring the decisive goal at the Nana Fosu Gyeabour Park.",
-      "categories": [
-        "Football",
-        "HP News 6",
-        "HP Sports 1",
-        "National",
-        "Asante Kotoko",
-        "Ghana Premier League",
-        "Isaac Korankye",
-        "Stanley Menzo"
       ],
       "site": "https://www.myjoyonline.com/"
     },
