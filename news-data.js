@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T13:05:49.588Z",
+  "updated": "2026-11-22T15:55:48.619Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
+      "link": "https://www.myjoyonline.com/customs-commissioner-rallies-brokers-to-close-gh%c2%a214-35bn-revenue-gap/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T14:55:29.000Z",
+      "summary": "Ghana’s customs brokers have been challenged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority…"
+    },
+    {
+      "title": "Newmont marks 20 years in Ghana with over $6bn investment, $3bn in state revenue",
+      "link": "https://www.myjoyonline.com/newmont-marks-20-years-in-ghana-with-over-6bn-investment-3bn-in-state-revenue/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T14:55:11.000Z",
+      "summary": "Newmont’s Ahafo South Mine has marked two decades of commercial gold production in Ghana, celebrating a 20-year partnership defined by over $6 billion in capital investments, more than $3…"
+    },
+    {
+      "title": "UNIDO Offers Feasibility Support for Ghana’s Afienya Industrial Park",
+      "link": "https://thehighstreetjournal.com/unido-offers-feasibility-support-to-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-11-22T14:36:46.000Z",
+      "summary": "The proposed studies are expected to guide infrastructure planning, investment decisions and the long-term sustainability of the project"
+    },
     {
       "title": "The 2027 Budget: The Strengths & Weaknesses of Ghana’s Next Year Economic Policy – CERPA’s Analysis",
       "link": "https://thehighstreetjournal.com/the-2027-budget-the-strengths-weaknesses-of-ghanas-next-year-economic-policy-cerpas-analysis/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-18T16:15:00.000Z",
       "summary": "Vice President Professor Jane Naana Opoku-Agyemang has urged MTN Ghana to improve network quality, expand digital access and strengthen cybersecurity as the telecommunications company…"
-    },
-    {
-      "title": "Every Ghanaian carries a GH¢23,000 share of national debt – Amin Adam",
-      "link": "https://www.myjoyonline.com/every-ghanaian-carries-a-gh%c2%a223000-share-of-national-debt-amin-adam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T16:02:51.000Z",
-      "summary": "Former Finance Minister and Ranking Member on Parliament's finance committee Dr Mohammed Amin Adam has put Ghana’s public debt burden at the equivalent of GH¢23,000 for every citizen…"
-    },
-    {
-      "title": "BoG delays non-interest banking framework rollout for further consultations",
-      "link": "https://www.myjoyonline.com/bog-delays-non-interest-banking-framework-rollout-for-further-consultations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:47:48.000Z",
-      "summary": "The Bank of Ghana (BoG) is delaying the introduction of its proposed non-interest banking framework as it undertakes further consultations and reviews experiences from Kenya and Malaysia…"
-    },
-    {
-      "title": "BoG says early bondholder repayments will not disrupt liquidity management",
-      "link": "https://www.myjoyonline.com/bog-says-early-bondholder-repayments-will-not-disrupt-liquidity-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T15:37:34.000Z",
-      "summary": "The Bank of Ghana (BoG) says it is prepared to manage the liquidity impact of early repayments to domestic bondholders, following concerns about the potential implications for the financial…"
     }
   ]
 };

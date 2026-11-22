@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T13:06:20.111Z",
+  "updated": "2026-11-22T15:56:19.245Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,125 +21,180 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "PURC assures Ghanaians of stable power and water supply in 2027",
-      "link": "https://www.myjoyonline.com/purc-assures-ghanaians-of-stable-power-and-water-supply-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T12:57:24.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has assured consumers of stable electricity and water supply in 2027, citing increased investment and stronger regulatory oversight.",
+      "title": "New NDC Greater Accra Chairman pledges purposeful leadership",
+      "link": "https://www.graphic.com.gh/news/politics/new-ndc-greater-accra-chairman-pledges-purposeful-leadership.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T15:48:40.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Power",
-        "PURC",
-        "Water"
+        "Politics"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Housing Minister pushes development bank to unlock housing finance",
-      "link": "https://www.myjoyonline.com/housing-minister-pushes-development-bank-to-unlock-housing-finance/",
+      "title": "NDC-USA elects new executives to steer chapter’s affairs",
+      "link": "https://www.myjoyonline.com/ndc-usa-elects-new-executives-to-steer-chapters-affairs/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T12:56:47.000Z",
-      "summary": "Ghana needs a dedicated development bank to provide affordable long-term financing for housing developers and support the delivery of affordable homes, Ahmed Ibrahim, Minister of Works…",
+      "published": "2026-11-22T15:45:59.000Z",
+      "summary": "The United States chapter of the National Democratic Congress (NDC-USA) has elected new executives to lead the organisation and strengthen its structures across the country.",
       "categories": [
-        "National",
-        "Bank",
-        "Development",
-        "Housing Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to construct Inland Fisheries Market in Accra in 2027 – Emelia Arthur",
-      "link": "https://www.myjoyonline.com/government-to-construct-inland-fisheries-market-in-accra-in-2027-emelia-arthur/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T12:52:42.000Z",
-      "summary": "The Minister for Fisheries and Aquaculture, Emelia Arthur, has announced plans to construct an Inland Fisheries Market in Accra next year, using funds allocated to the Ministry in the 2027…",
-      "categories": [
-        "HP News 3",
-        "National",
         "News",
-        "Accra",
-        "Emelia Arthur",
-        "Government",
-        "Inland Fisheries Market"
+        "Politics",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "51% of young voters satisfied with 24-hour economy policy – Global InfoAnalytics poll",
-      "link": "https://www.myjoyonline.com/51-of-young-voters-satisfied-with-24-hour-economy-policy-global-infoanalytics-poll/",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.myjoyonline.com/south-korea-education-minister-resigns-over-exam-cheating-scandal/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T12:51:27.000Z",
-      "summary": "More than half of young voters in Ghana have expressed satisfaction with the government’s 24-hour Economy policy, although the initiative has received weaker approval than three other…",
+      "published": "2026-11-22T15:35:24.000Z",
+      "summary": "South Korea's Education Minister Choi Kyo-jin has resigned over an exam cheating scandal that shocked the nation.",
+      "categories": [
+        "Education",
+        "International",
+        "News",
+        "Choi Kyo-jin",
+        "Exam",
+        "South Korea"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I would have stopped him if I disagreed – Housing Minister backs Rent Control Commissioner",
+      "link": "https://www.myjoyonline.com/i-would-have-stopped-him-if-i-disagreed-housing-minister-backs-rent-control-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T15:21:43.000Z",
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has defended the enforcement activities of Acting Rent Control Commissioner Frederick Opoku, insisting that he has the…",
       "categories": [
         "National",
         "News",
         "Top Story",
-        "24-hour economy policy",
-        "Global InfoAnalytics poll",
-        "Government",
-        "Mahama"
+        "Acting Rent Control Commissioner",
+        "Ahmed Inrahim"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Illegal mining, destructive fishing threaten inland fisheries – Vice President",
-      "link": "https://www.myjoyonline.com/illegal-mining-destructive-fishing-threaten-inland-fisheries-vice-president/",
+      "title": "Ghanaian doctor makes history as West Africa’s first paediatric neuro-oncologist",
+      "link": "https://www.myjoyonline.com/ghanaian-doctor-makes-history-as-west-africas-first-paediatric-neuro-oncologist/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T12:47:22.000Z",
-      "summary": "Vice-President Professor Naana Jane Opoku-Agyemang has called for urgent action to protect Ghana's inland fisheries, warning that illegal mining, destructive fishing practices and climate…",
+      "published": "2026-11-22T15:09:49.000Z",
+      "summary": "A Ghanaian doctor at the Korle Bu Teaching Hospital (KBTH), Dr Ernestina Nana Boatemaa Schandorf, has made history as West Africa’s first paediatric neuro-oncologist, marking a major…",
       "categories": [
+        "Health",
         "HP News 1",
         "National",
         "News",
-        "Fishing",
-        "Illegal mining",
-        "Vice President"
+        "Korle Bu Teaching Hospital",
+        "Paediatric"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Payroll without pipettes: Why you cannot build a first-world economy on 0.09% R&D",
-      "link": "https://www.myjoyonline.com/payroll-without-pipettes-why-you-cannot-build-a-first-world-economy-on-0-09-rd/",
+      "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
+      "link": "https://www.myjoyonline.com/customs-commissioner-rallies-brokers-to-close-gh%c2%a214-35bn-revenue-gap/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T12:40:46.000Z",
-      "summary": "Read Section 3 of the 2027 Budget Statement and the ambition leaps off the page. Government promises a \"New Economy\" built on critical-minerals refining, biomanufacturing, nuclear baseload…",
+      "published": "2026-11-22T14:55:29.000Z",
+      "summary": "Ghana’s customs brokers have been challenged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority…",
       "categories": [
-        "HP News 9",
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Payroll",
-        "Pipettes"
+        "Business",
+        "HP Business 1",
+        "Transport",
+        "CUBAG",
+        "Customs Commissioner",
+        "GRA",
+        "Nana Fredua Ofori-Atta"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kwame Dzokoto of Edziban fame to be buried on February 20, 2027, in Sekondi",
-      "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-buried-on-february-20-2027-in-sekondi/",
+      "title": "Newmont marks 20 years in Ghana with over $6bn investment, $3bn in state revenue",
+      "link": "https://www.myjoyonline.com/newmont-marks-20-years-in-ghana-with-over-6bn-investment-3bn-in-state-revenue/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T10:50:20.000Z",
-      "summary": "Seth Kwame Dzokoto, affectionately called Edziban, an outstanding personality in the media and political space, will be laid to rest on February 20, 2027, in Sekondi in the Western Region.",
+      "published": "2026-11-22T14:55:11.000Z",
+      "summary": "Newmont’s Ahafo South Mine has marked two decades of commercial gold production in Ghana, celebrating a 20-year partnership defined by over $6 billion in capital investments, more than $3…",
       "categories": [
-        "HP News 5",
+        "Business",
+        "HP Business 2",
+        "Mining",
         "National",
-        "Edziban",
-        "Sekondi"
+        "Investment",
+        "Newmont"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kwame Dzokoto of Edziban fame to be laid to rest on February 20, 2027, in Sekondi",
-      "link": "https://www.myjoyonline.com/kwame-dzokoto-of-edziban-fame-to-be-laid-to-rest-on-february-20-2027-in-sekondi/",
+      "title": "Military training for the first batch of 1,000 NSS personnel begins on November 30",
+      "link": "https://www.myjoyonline.com/military-training-for-the-first-batch-of-1000-nss-personnel-begins-on-november-30/",
       "source": "MyJoyOnline",
-      "published": "2026-11-22T10:50:20.000Z",
-      "summary": "Seth Kwame Dzokoto, affectionately called Edziban, an outstanding personality in the media and political space, will be laid to rest on February 20, 2027, in Sekondi in the Western Region.",
+      "published": "2026-11-22T14:26:57.000Z",
+      "summary": "The first batch of 1,000 National Service Personnel selected for a military training exercise will begin the programme on November 30, 2026, at the Battle Training Camp (BTC) in Bundase.",
       "categories": [
+        "HP News 4",
         "National",
-        "Edziban",
-        "Sekondi"
+        "Military training",
+        "NSS Personnel"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTEC suspends new PhD admissions pending nationwide review of doctoral programmes",
+      "link": "https://www.myjoyonline.com/gtec-suspends-new-phd-admissions-pending-nationwide-review-of-doctoral-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T13:50:00.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has suspended new admissions into PhD programmes across tertiary institutions as it undertakes a nationwide audit of doctoral training…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Korle Bu surgeons successfully reattach man's severed penis after he injured himself while squatting on WC",
+      "link": "https://www.graphic.com.gh/news/general-news/korle-bu-surgeons-successfully-reattach-mans-severed-penis-after-he-injured-himself-while-squatting-on-wc.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T13:47:34.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama to opposition: Back the New Economy Programme even if it keeps you out of power",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-opposition-back-the-new-economy-programme-even-if-it-keeps-you-out-of-power.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T12:39:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GTEC freezes approval for new PhD accreditation programmes in Ghanaian universities pending audit",
+      "link": "https://www.graphic.com.gh/news/general-news/gtec-freezes-approval-for-all-new-phd-accreditation-programmes-in-ghanaian-universities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T11:28:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Africa must reclaim global image by strengthening voice in global media - Former UN Under-Secretary-General Prof Gambari",
+      "link": "https://www.graphic.com.gh/news/general-news/former-un-deputy-chief-urges-africa-to-reclaim-its-global-image-and-strengthen-its-voice-in-global-media.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-22T09:05:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "UK and Ghana to deepen security partnership at 4th Security Dialogue in London next week",
@@ -171,61 +226,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Senior high schools still using firewood and charcoal in their kitchens urged to adopt LPG",
-      "link": "https://www.graphic.com.gh/news/general-news/npa-pushes-lpg-adoption-in-boarding-schools-to-replace-firewood-charcoal-over-health-concerns.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T12:22:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Accra: Obetsebi Lamptey to Pamprom road to reopen to traffic mid-December - GARID",
-      "link": "https://www.graphic.com.gh/news/general-news/obetsebi-lamptey-to-pamprom-stretch-to-reopen-mid-december-garid.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T11:24:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama calls on Oti Chiefs to help end Nkwanta conflicts",
-      "link": "https://www.graphic.com.gh/news/general-news/mahama-asks-oti-chiefs-to-help-resolve-nkwanta-conflicts.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T11:03:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama pledges consultation with Oti chiefs and youth before mining iron ore",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-pledges-consultation-with-oti-chiefs-and-youth-before-mining-iron-ore.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T11:00:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Teacher granted GH¢100,000 bail over alleged sale of unregistered drugs",
-      "link": "https://www.graphic.com.gh/news/general-news/teacher-granted-ghc100-000-bail-over-alleged-sale-of-unregistered-drugs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-21T09:47:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
