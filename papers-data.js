@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-21T23:16:35.381Z",
+  "updated": "2026-11-21T23:56:36.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Haruna Iddrisu announces €325m loan plan to address water shortages in three Northern cities",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-announces-e325m-loan-plan-to-address-water-shortages-in-three-northern-cities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T23:54:17.000Z",
+      "summary": "Education Minister and Tamale South MP, Haruna Iddrisu, says a €325 million loan agreement to support water infrastructure projects in Tamale, Damongo and Yendi will be laid before…",
+      "categories": [
+        "Regional",
+        "Damongo",
+        "Haruna Iddrisu",
+        "Tamale",
+        "Water Shortages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "All 16 regional best farmers to receive pick-up vehicles at 2026 Farmers’ Day",
       "link": "https://www.myjoyonline.com/all-16-regional-best-farmers-to-receive-pick-up-vehicles-at-2026-farmers-day/",
@@ -120,24 +135,6 @@ window.GDC_PAPERS = {
         "COP31",
         "fossil fuels",
         "UN climate summit"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee World Cup: Repeat for Ghana or revenge for Morocco?",
-      "link": "https://www.myjoyonline.com/amputee-world-cup-repeat-for-ghana-or-revenge-for-morocco/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T19:56:19.000Z",
-      "summary": "For Ghana, the opportunity is to crown an impressive campaign with a maiden world title, while Morocco will be seeking revenge for two painful defeats against their West African rivals.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "2026 Football World Cup",
-        "Amputee",
-        "Benaiah Elorm Dafeamekpor",
-        "Ghana",
-        "Morocco"
       ],
       "site": "https://www.myjoyonline.com/"
     },
