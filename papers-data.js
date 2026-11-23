@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:48:56.880Z",
+  "updated": "2026-11-23T14:58:57.776Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Zanetor, the Climate Summit and the Microphone that needed Resuscitation!",
+      "link": "https://www.myjoyonline.com/zanetor-the-climate-summit-and-the-microphone-that-needed-resuscitation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:55:44.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, the world's leaders assembled in Turkey to save a planet suffering from a dangerous fever. The wealthy nations arrived with elaborate…",
+      "categories": [
+        "Africa",
+        "Opinion",
+        "COP31",
+        "Dr Zanetor Agyeman-Rawlings",
+        "Republic of Uncommon Sense"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UTAG-UG opposes GTEC’s blanket suspension of approvals for new PhD programmes",
+      "link": "https://www.myjoyonline.com/utag-ug-opposes-gtecs-blanket-suspension-of-approvals-for-new-phd-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:40:37.000Z",
+      "summary": "The University of Ghana chapter of the University Teachers Association of Ghana (UTAG-UG) has criticised the Ghana Tertiary Education Commission’s (GTEC) decision to suspend approvals for…",
+      "categories": [
+        "Education",
+        "National",
+        "pricing dispute",
+        "Shops",
+        "Spare parts dealers",
+        "Suame Magazine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Suame Magazine artisans attack foreign spare-parts dealers, lock up shops over pricing dispute",
       "link": "https://www.myjoyonline.com/suame-magazine-artisans-attack-foreign-spare-parts-dealers-lock-up-shops-over-pricing-dispute/",
@@ -103,33 +134,6 @@ window.GDC_PAPERS = {
         "Canada",
         "Malik Abass",
         "Toronto murder suspect"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petroleum workers threaten nationwide strike over proposed changes to BOST’s depot mandate",
-      "link": "https://www.myjoyonline.com/petroleum-workers-threaten-nationwide-strike-over-proposed-changes-to-bosts-depot-mandate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:25:13.000Z",
-      "summary": "Petroleum workers have threatened a nationwide strike if Parliament passes the National Petroleum Authority (NPA) Bill, 2026, in its current form. The General Transport, Petroleum and…",
-      "categories": [
-        "Energy",
-        "National",
-        "BOST",
-        "Nationwide strike",
-        "petroleum workers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Kwesi Akomanyi",
-      "link": "https://www.myjoyonline.com/nana-kwesi-akomanyi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:24:42.000Z",
-      "summary": "Nana Kwesi Akomanyi",
-      "categories": [
-        "Obituary",
-        "Nana Kwesi Akomanyi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
