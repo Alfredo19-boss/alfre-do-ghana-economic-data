@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T11:48:56.148Z",
+  "updated": "2026-11-23T11:53:55.854Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CDD-Ghana’s John Osae-Kwapong blames lack of sanctions for persistent absenteeism among MPs",
+      "link": "https://www.myjoyonline.com/cdd-ghanas-john-osae-kwapong-blames-lack-of-sanctions-for-persistent-absenteeism-among-mps/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:51:37.000Z",
+      "summary": "A fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae-Kwapong, has attributed persistent absenteeism among Members of Parliament (MPs) to the failure to hold lawmakers…",
+      "categories": [
+        "National",
+        "CDD-Ghana Fellow",
+        "Parliamentary absenteeism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSU Chancellor calls for support for private universities to strengthen national development",
+      "link": "https://www.myjoyonline.com/csu-chancellor-calls-for-support-for-private-universities-to-strengthen-national-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:46:59.000Z",
+      "summary": "The Chancellor of Christian Service University (CSU), Most Rev. Prof. Emmanuel Kweku Asante, has called for stronger government and stakeholder support for private tertiary institutions…",
+      "categories": [
+        "Education",
+        "National",
+        "Christian Service University (CSU)",
+        "national development"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GPL: ‘We lost focus in the final minutes’ – Hearts of Oak’s Mohammed Hussein on draw with Aduana",
       "link": "https://www.myjoyonline.com/gpl-we-lost-focus-in-the-final-minutes-hearts-of-oaks-mohammed-hussein-on-draw-with-aduana/",
@@ -126,37 +153,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Global tech giants exploiting African journalism without fair compensation – CJID CEO",
-      "link": "https://www.myjoyonline.com/global-tech-giants-exploiting-african-journalism-without-fair-compensation-cjid-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:17:48.000Z",
-      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has accused global technology companies of profiting from African journalism…",
-      "categories": [
-        "Africa",
-        "Technology",
-        "CJID",
-        "fair compensation",
-        "Journalism",
-        "tech giants"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa risks losing control of its media future to foreign AI companies – CJID CEO warns",
-      "link": "https://www.myjoyonline.com/africa-risks-losing-control-of-its-media-future-to-foreign-ai-companies-cjid-ceo-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:13:49.000Z",
-      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has warned that Africa risks surrendering control of its information ecosystem…",
-      "categories": [
-        "Africa",
-        "Technology",
-        "AI",
-        "CJID",
-        "Media and development conference"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Government announces GH¢10m seed funding for UniMAC",
