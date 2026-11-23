@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:58:57.470Z",
+  "updated": "2026-11-23T17:04:00.201Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Greater Accra MMDCEs directed to clear, beautify roads ahead of Ghana’s 70th Independence celebrations",
+      "link": "https://www.myjoyonline.com/greater-accra-mmdces-directed-to-clear-beautify-roads-ahead-of-ghanas-70th-independence-celebrations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:01:32.000Z",
+      "summary": "The Greater Accra Regional Minister, Linda Ocloo, has directed all Metropolitan, Municipal and District Chief Executives (MMDCEs) to begin the immediate clearing and beautification of road…",
+      "categories": [
+        "National",
+        "News",
+        "70th Independence celebrations",
+        "Linda Ocloo",
+        "MMDCEs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gender Ministry to lead Ghana’s 2026 16 Days of Activism against gender-based violence",
       "link": "https://www.myjoyonline.com/gender-ministry-to-lead-ghanas-2026-16-days-of-activism-against-gender-based-violence/",
@@ -47,6 +62,19 @@ window.GDC_PAPERS = {
         "News",
         "BECE",
         "National Council of Parent-Teacher Associations (NCPTA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Give deserving prisoners sentence cuts for Christmas – Annoh-Dompreh urges Mahama",
+      "link": "https://www.myjoyonline.com/give-deserving-prisoners-sentence-cuts-for-christmas-annoh-dompreh-urges-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:54:00.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has appealed to President John Mahama to consider reducing the sentences of deserving inmates as a Christmas gesture to help ease overcrowding in…",
+      "categories": [
+        "Politics",
+        "Frank Annoh-Dompreh",
+        "Ghana Prison Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -106,34 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNCCI urges government to deepen private sector engagement in New Economy Agenda",
-      "link": "https://www.myjoyonline.com/gncci-urges-government-to-deepen-private-sector-engagement-in-new-economy-agenda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:26:56.000Z",
-      "summary": "The Ghana National Chamber of Commerce and Industry (GNCCI) has urged the government to deepen its engagement with the private sector in implementing its New Economy Agenda, insisting…",
-      "categories": [
-        "National",
-        "GNCCI",
-        "New Economy Agenda"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Education Minister warns AI could breed lazy learners, calls for digital education policy",
-      "link": "https://www.myjoyonline.com/education-minister-warns-ai-could-breed-lazy-learners-calls-for-digital-education-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:25:12.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, has cautioned against the misuse of artificial intelligence (AI) in schools, warning that excessive dependence on the technology could encourage…",
-      "categories": [
-        "Education",
-        "HP News 8",
-        "National",
-        "AI",
-        "Education Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
       "link": "https://ghanaiantimes.com.gh/igp-in-high-level-engagements-with-netherlands-police-to-strengthen-policing-partnerships/",
       "source": "Ghanaian Times",
@@ -151,6 +151,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T16:18:46.000Z",
       "summary": "Israel has called for stronger international cooperation to address growing security threats posed by armed groups and their state sponsors, warning that the challenge requires coordinated…",
       "categories": [
+        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
