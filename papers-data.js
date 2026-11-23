@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T23:34:08.643Z",
+  "updated": "2026-11-23T23:44:08.490Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Who should pay for student accommodation? – Universities demand national conversation",
+      "link": "https://www.myjoyonline.com/who-should-pay-for-student-accommodation-universities-demand-national-conversation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:42:00.000Z",
+      "summary": "The growing student accommodation crisis in Ghana’s public universities has sparked fresh calls for a national conversation about who should pay for decent student housing.",
+      "categories": [
+        "Education",
+        "Dr Cynthia Kpeglo-Freiku",
+        "Student accommodation struggles",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Brentford hit Everton for four as Tarkowski sees red",
       "link": "https://www.myjoyonline.com/brentford-hit-everton-for-four-as-tarkowski-sees-red/",
@@ -112,20 +126,6 @@ window.GDC_PAPERS = {
         "National",
         "mercury pollution",
         "US Experts"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Security summons Suame artisans over attacks on foreign traders",
-      "link": "https://www.myjoyonline.com/national-security-summons-suame-artisans-over-attacks-on-foreign-traders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:10:00.000Z",
-      "summary": "National Security has stepped in to address growing tensions at the Suame Industrial Enclave in Kumasi, inviting some local artisans for a meeting on Tuesday, November 24, following attacks…",
-      "categories": [
-        "Business",
-        "News",
-        "National Security",
-        "Suame"
       ],
       "site": "https://www.myjoyonline.com/"
     },
