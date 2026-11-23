@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:14:02.204Z",
+  "updated": "2026-11-23T16:19:01.583Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Israel calls for stronger international security cooperation",
+      "link": "https://ghanaiantimes.com.gh/israel-calls-for-stronger-international-security-cooperation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T16:18:46.000Z",
+      "summary": "Israel has called for stronger international cooperation to address growing security threats posed by armed groups and their state sponsors, warning that the challenge requires coordinated…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Medical Trust Fund moves Miguel to Euracare after Korle Bu’s GH¢77,561 ‘no bed’ delay",
+      "link": "https://www.myjoyonline.com/ghana-medical-trust-fund-moves-miguel-to-euracare-after-korle-bus-gh%c2%a277561-no-bed-delay/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:15:11.000Z",
+      "summary": "The Ghana Medical Trust Fund has taken over the case of five-year-old Miguel Ntsiful and referred him to Euracare Multi-Specialist Hospital after Korle Bu Teaching Hospital failed to secure…",
+      "categories": [
+        "Health",
+        "National",
+        "Euracare",
+        "Ghana Medical Trust Fund",
+        "Korle Bu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Archives shed light on Ghana US diplomatic ties",
       "link": "https://ghanaiantimes.com.gh/archives-shed-light-on-ghana-us-diplomatic-ties/",
@@ -144,20 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Green at UG (Legon), Blue at KNUST or the candidate with the most beautiful flyer?",
-      "link": "https://www.myjoyonline.com/green-at-ug-legon-blue-at-knust-or-the-candidate-with-the-most-beautiful-flyer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:13:59.000Z",
-      "summary": "When a candidate wins a Students' Representative Council (SRC) presidential election in our universities, the celebration sometimes extends beyond the university walls. Political actors…",
-      "categories": [
-        "Opinion",
-        "Student politics",
-        "TEIN",
-        "TESCON"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Education Ministry bans 'early' BECE writing: Offenders face 2-year exam suspension",
       "link": "https://www.graphic.com.gh/news/education/education-ministry-bans-early-bece-writing-offenders-face-2-year-exam-suspension.html",
       "source": "Daily Graphic",
@@ -223,18 +235,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T14:14:46.000Z",
       "summary": "The Ministry of Sports and Recreation has congratulated Ghana’s national amputee football team, the Black Challenge, on winning the 2026 Amputee Football World Cup in Mexico. In a press…",
       "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Challenge make history as Ghana Beat Morocco to win 2026 Amputee World Cup",
-      "link": "https://ghanaiantimes.com.gh/black-challenge-make-history-as-ghana-beat-morocco-to-win-2026-amputee-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:12:14.000Z",
-      "summary": "Ghana’s Black Challenge have etched their names into football history after being crowned champions of the 2026 Amputee Football World Cup. The Black Challenge secured a hard-fought 1-0…",
-      "categories": [
-        "Hot!",
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
