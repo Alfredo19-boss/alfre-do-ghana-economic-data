@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T17:18:59.953Z",
+  "updated": "2026-11-23T17:23:58.376Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,44 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Parliament’s disability caucus congratulates Black Challenge on World Cup triumph",
+      "link": "https://ghanaiantimes.com.gh/parliaments-disability-caucus-congratulates-black-challenge-on-world-cup-triumph/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:23:21.000Z",
+      "summary": "The Parliamentary Caucus on Persons with Disabilities has congratulated Ghana’s Black Challenge team following their victory at the 2026 Amputee Football World Cup in Mexico. In a press…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "COLA demands compensation for victims of beach demolitions",
+      "link": "https://ghanaiantimes.com.gh/cola-demands-compensation-for-victims-of-beach-demolitions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:20:17.000Z",
+      "summary": "The Coalition of La Associations (COLA) has demanded immediate and fair compensation for businesses and vendors affected by the demolition exercises at Laboma Beach Resort and La Pleasure…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Greater Accra Regional Minister urges public to report theft of street lights",
+      "link": "https://www.myjoyonline.com/greater-accra-regional-minister-urges-public-to-report-theft-of-street-lights/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:20:06.000Z",
+      "summary": "Greater Accra Regional Minister Linda Ocloo has urged residents to report incidents of street light theft in their communities, describing the practice as a major challenge to efforts to…",
+      "categories": [
+        "National",
+        "News",
+        "Greater Accra Regional Minister Linda Ocloo",
+        "Street lights"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Methodist Church demands accountability over alleged abuse of Obuasi students",
       "link": "https://ghanaiantimes.com.gh/methodist-church-demands-accountability-over-alleged-abuse-of-obuasi-students/",
@@ -193,23 +231,11 @@ window.GDC_PAPERS = {
       "summary": "The National Council of Parent-Teacher Associations (NCPTA) has called on education authorities to make room for exceptionally gifted pupils under the directive restricting students from…",
       "categories": [
         "Education",
+        "HP News 5",
         "National",
         "News",
         "BECE",
         "National Council of Parent-Teacher Associations (NCPTA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Give deserving prisoners sentence cuts for Christmas – Annoh-Dompreh urges Mahama",
-      "link": "https://www.myjoyonline.com/give-deserving-prisoners-sentence-cuts-for-christmas-annoh-dompreh-urges-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:54:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has appealed to President John Mahama to consider reducing the sentences of deserving inmates as a Christmas gesture to help ease overcrowding in…",
-      "categories": [
-        "Politics",
-        "Frank Annoh-Dompreh",
-        "Ghana Prison Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -220,30 +246,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T16:20:55.000Z",
       "summary": "The Inspector General of Police (IGP), Mr. Christian Tetteh Yohuno, has led a delegation of senior officers of the Ghana Police Service in high level engagements with the Netherlands Police…",
       "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Israel calls for stronger international security cooperation",
-      "link": "https://ghanaiantimes.com.gh/israel-calls-for-stronger-international-security-cooperation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T16:18:46.000Z",
-      "summary": "Israel has called for stronger international cooperation to address growing security threats posed by armed groups and their state sponsors, warning that the challenge requires coordinated…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Archives shed light on Ghana US diplomatic ties",
-      "link": "https://ghanaiantimes.com.gh/archives-shed-light-on-ghana-us-diplomatic-ties/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T16:11:49.000Z",
-      "summary": "Archival records are vital to documenting the history of Ghana’s diplomatic relations with the United States and preserving the experiences that have shaped the partnership between the two…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
