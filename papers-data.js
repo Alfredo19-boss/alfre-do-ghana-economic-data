@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T23:24:09.289Z",
+  "updated": "2026-11-23T23:34:08.643Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Brentford hit Everton for four as Tarkowski sees red",
+      "link": "https://www.myjoyonline.com/brentford-hit-everton-for-four-as-tarkowski-sees-red/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:24:00.000Z",
+      "summary": "Keane Lewis-Potter scored twice as Brentford swept 10-man Everton aside to move sixth in the Premier League.",
+      "categories": [
+        "Football",
+        "Brentford",
+        "Everton"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Morocco and Senegal await AFCON final verdict after court case",
       "link": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
@@ -113,19 +126,6 @@ window.GDC_PAPERS = {
         "News",
         "National Security",
         "Suame"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "link": "https://www.myjoyonline.com/nvidia-value-climbs-by-almost-1tn-and-tech-stocks-rally-after-jensen-huang-returns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:03:22.000Z",
-      "summary": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.",
-      "categories": [
-        "Technology",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
