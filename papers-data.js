@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:43:58.013Z",
+  "updated": "2026-11-23T13:53:56.373Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Judicial staff strike delayed prosecution of suspects linked to France cocaine seizure – NACOC",
+      "link": "https://www.myjoyonline.com/judicial-staff-strike-delayed-prosecution-of-suspects-linked-to-france-cocaine-seizure-nacoc/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:50:17.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) says the recent strike by judicial service staff delayed progress in the prosecution of individuals linked to the 3.9-tonne cocaine seizure in…",
+      "categories": [
+        "National",
+        "News",
+        "France cocaine case",
+        "Judicial staff strike",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘All the money we’ve spent will be in vain if NPP fails to regain power’ – Ablekuma West NPP Women’s organiser",
+      "link": "https://www.myjoyonline.com/all-the-money-weve-spent-will-be-in-vain-if-npp-fails-to-regain-power-ablekuma-west-npp-womens-organiser/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:37:36.000Z",
+      "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Politics",
+        "Ablekuma West",
+        "NPP",
+        "Power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘All the money we have spent will be in vain if NPP fails to regain power’ – NPP Organiser",
       "link": "https://www.myjoyonline.com/all-the-money-we-have-spent-will-be-in-vain-if-npp-fails-to-regain-power-npp-organiser/",
@@ -82,8 +113,8 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NACOC denies unlawful detention of suspect in France cocaine case",
-      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-case/",
+      "title": "NACOC denies unlawful detention of suspect in France cocaine seizure case",
+      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-seizure-case/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T13:03:46.000Z",
       "summary": "The Narcotics Control Commission (NACOC) has denied allegations that it is unlawfully detaining a suspect linked to the 3.9-tonne cocaine seizure in France, insisting that the individual…",
@@ -97,42 +128,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Assemblies of God leads Presbytery Executive to pay a courtesy call on Bank of Ghana Governor",
-      "link": "https://www.myjoyonline.com/assemblies-of-god-leads-presbytery-executive-to-pay-a-courtesy-call-on-bank-of-ghana-governor/",
+      "title": "NACOC denies unlawful detention of suspect in France cocaine case",
+      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-case/",
       "source": "MyJoyOnline",
-      "published": "2026-11-23T13:00:02.000Z",
-      "summary": "The General Superintendent of Assemblies of God, Ghana Rev. Stephen Yenusom Wengam, has led the Executive Presbytery of the church to pay a courtesy call on the Governor of the Bank of…",
+      "published": "2026-11-23T13:03:46.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) has denied allegations that it is unlawfully detaining a suspect linked to the 3.9-tonne cocaine seizure in France, insisting that the individual…",
       "categories": [
         "National",
-        "Assemblies of God",
-        "Presbytery Executive"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ato Forson outlines US$200m nuclear readiness programme, targets 2028 construction deal",
-      "link": "https://www.myjoyonline.com/ato-forson-outlines-us200m-nuclear-readiness-programme-targets-2028-construction-deal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:48:05.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has outlined the government's plans to develop Ghana's first state-owned nuclear power plant, describing the project as a major investment in…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Nuclear Power Project"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to lock up buildings violating fire safety regulations -Interior Minister",
-      "link": "https://www.myjoyonline.com/govt-to-lock-up-buildings-violating-fire-safety-regulations-interior-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:42:29.000Z",
-      "summary": "The government is stepping up enforcement of fire safety regulations, with the Minister for the Interior, Mohammed-Mubarak Muntaka, warning that buildings that fail to meet the required…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Fire Safety",
-        "Interior Minister"
+        "News",
+        "Top Story",
+        "France cocaine case",
+        "NACOC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
