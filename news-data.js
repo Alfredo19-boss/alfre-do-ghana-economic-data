@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T04:34:54.241Z",
+  "updated": "2026-11-23T04:54:52.444Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG pushes for cheaper cross-border payments at Singapore finance meetings",
+      "link": "https://www.myjoyonline.com/bog-pushes-for-cheaper-cross-border-payments-at-singapore-finance-meetings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:43:00.000Z",
+      "summary": "The Bank of Ghana (BoG) has called for a more targeted approach to improving cross-border payments in Africa, focusing on reducing costs and making transactions more reliable for businesses…"
+    },
     {
       "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
       "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T03:19:00.000Z",
       "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said."
-    },
-    {
-      "title": "‘You don’t just make promises’ – Steve Manteaw demands gold refining roadmap",
-      "link": "https://www.myjoyonline.com/you-dont-just-make-promises-steve-manteaw-demands-gold-refining-roadmap/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:33:00.000Z",
-      "summary": "The Co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, has called for a clear roadmap to deliver Ghana’s gold refining targets, saying promises…"
     }
   ]
 };

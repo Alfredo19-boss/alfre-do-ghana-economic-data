@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T04:35:25.359Z",
+  "updated": "2026-11-23T04:55:22.258Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Abena Osei-Asare calls for citizens’ support in fight against corruption",
+      "link": "https://www.myjoyonline.com/abena-osei-asare-calls-for-citizens-support-in-fight-against-corruption/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:48:36.000Z",
+      "summary": "The Chairperson of Parliament’s Public Accounts Committee and Member of Parliament for Atiwa East, Abena Osei-Asare, has called on Ghanaians to take greater responsibility in the fight…",
+      "categories": [
+        "National",
+        "Corruption"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG pushes for cheaper cross-border payments at Singapore finance meetings",
+      "link": "https://www.myjoyonline.com/bog-pushes-for-cheaper-cross-border-payments-at-singapore-finance-meetings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:43:00.000Z",
+      "summary": "The Bank of Ghana (BoG) has called for a more targeted approach to improving cross-border payments in Africa, focusing on reducing costs and making transactions more reliable for businesses…",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 3",
+        "National",
+        "Matilda Asante-Asiedu",
+        "Second Deputy Governor of the BoG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "David Quao elected NDC UK & Ireland chairman, pledges to unite chapter",
+      "link": "https://www.myjoyonline.com/david-quao-elected-ndc-uk-ireland-chairman-pledges-to-unite-chapter/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:31:00.000Z",
+      "summary": "David Quao has been elected Chairman of the National Democratic Congress (NDC) UK & Ireland Chapter, pledging to bridge divisions and serve all members after the party’s internal elections.",
+      "categories": [
+        "Politics",
+        "David Quao",
+        "NDC UK & Ireland"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
       "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
@@ -91,45 +131,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Football",
         "Africa Cup of Nations (Afcon)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
-      "link": "https://www.myjoyonline.com/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T03:16:00.000Z",
-      "summary": "World Health Organisation (WHO) chief Tedros Adhanom Ghebreyesus said on Sunday that heavy fighting ​near a hospital in Democratic Republic of ‌Congo's Ituri province disrupted Ebola…",
-      "categories": [
-        "Africa",
-        "Ebola",
-        "WHO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kate, Britain’s Princess of Wales, to feature in documentary about cancer recovery",
-      "link": "https://www.myjoyonline.com/kate-britains-princess-of-wales-to-feature-in-documentary-about-cancer-recovery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T03:05:00.000Z",
-      "summary": "Kate, Britain's Princess of Wales, will reflect on her experience with cancer and recovery in a documentary to ​be broadcast internationally this month, Kensington Palace said on ‌Saturday.",
-      "categories": [
-        "International",
-        "Kate",
-        "Princess of Wales"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
-      "link": "https://www.myjoyonline.com/us-vice-president-vance-declines-to-say-he-would-have-ordered-iran-strikes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:56:00.000Z",
-      "summary": "US Vice President JD Vance on ​Friday declined to say whether he would have authorised strikes on Iran to prevent the country from developing a nuclear weapon, ‌sidestepping President…",
-      "categories": [
-        "International",
-        "JD Vance",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
