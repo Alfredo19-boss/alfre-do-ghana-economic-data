@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:23:56.858Z",
+  "updated": "2026-11-23T15:33:57.858Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,7 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Courts not “forums for “vengeance against former employees” – Judge tells Lighthouse Chapel",
+      "title": "Courts not forums for “vengeance against former employees” – Judge tells Lighthouse Chapel",
       "link": "https://www.myjoyonline.com/courts-not-forums-for-vengeance-against-former-employees-judge-tells-lighthouse-chapel/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T15:21:28.000Z",
