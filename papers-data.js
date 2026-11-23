@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:38:57.045Z",
+  "updated": "2026-11-23T16:48:56.514Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two arrested over alleged sexual extortion in Accra, face up to 25 years in prison",
+      "link": "https://www.myjoyonline.com/two-arrested-over-alleged-sexual-extortion-in-accra-face-up-to-25-years-in-prison/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:43:42.000Z",
+      "summary": "The Cyber Security Authority (CSA), working with other security agencies, has arrested two 22-year-old men in separate cases of alleged sexual extortion involving a teenage girl and an…",
+      "categories": [
+        "Crime",
+        "Accra",
+        "Cybersecurity Authority",
+        "sexual extortion",
+        "Snapchat"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kwamena Bissah",
       "link": "https://www.myjoyonline.com/kwamena-bissah/",
@@ -152,23 +167,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UPSA’s FAF Awards to honour The Multimedia Group CEO Kwasi Twum",
-      "link": "https://www.myjoyonline.com/upsas-faf-awards-to-honour-the-multimedia-group-ceo-kwasi-twum/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:10:20.000Z",
-      "summary": "Founder of the Multimedia Group, Kwasi Twum, is set to be honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
-      "categories": [
-        "Education",
-        "HP News 7",
-        "National",
-        "FAF Awards",
-        "Kwasi Twum",
-        "The Multimedia Group",
-        "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Education Minister announces two-year BECE ban for JHS 1 and 2 students who write exams ahead of schedule",
