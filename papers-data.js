@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T12:53:55.294Z",
+  "updated": "2026-11-23T13:03:57.902Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Assemblies of God leads Presbytery Executive to pay a courtesy call on Bank of Ghana Governor",
+      "link": "https://www.myjoyonline.com/assemblies-of-god-leads-presbytery-executive-to-pay-a-courtesy-call-on-bank-of-ghana-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:00:02.000Z",
+      "summary": "The General Superintendent of Assemblies of God, Ghana Rev. Stephen Yenusom Wengam, has led the Executive Presbytery of the church to pay a courtesy call on the Governor of the Bank of…",
+      "categories": [
+        "National",
+        "Assemblies of God",
+        "Presbytery Executive"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ato Forson outlines US$200m nuclear readiness programme, targets 2028 construction deal",
       "link": "https://www.myjoyonline.com/ato-forson-outlines-us200m-nuclear-readiness-programme-targets-2028-construction-deal/",
@@ -123,19 +136,6 @@ window.GDC_PAPERS = {
         "MTN",
         "Professor Kumi-Boateng",
         "UMAT"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Endeavour Mining commits XOF 803m to health projects in three African countries",
-      "link": "https://www.myjoyonline.com/endeavour-mining-commits-xof-803m-to-health-projects-in-three-african-countries/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:58:26.000Z",
-      "summary": "Endeavour Mining has committed XOF 803 million to support health initiatives in Ghana's neighbouring countries, Côte d’Ivoire, Burkina Faso and Senegal, in 2027.",
-      "categories": [
-        "National",
-        "Africa",
-        "endeavour mining"
       ],
       "site": "https://www.myjoyonline.com/"
     },
