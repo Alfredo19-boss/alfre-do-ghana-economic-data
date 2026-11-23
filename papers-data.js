@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:05:22.190Z",
+  "updated": "2026-11-23T07:15:23.870Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MIIF mobilises GH¢9bn in royalties, beats annual target",
+      "link": "https://ghanaiantimes.com.gh/miif-mobilises-gh%c2%a29bn-in-royalties-beats-annual-target/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:14:20.000Z",
+      "summary": "THE Minerals Income Investment Fund (MIIF) has exceeded its 2026 mineral royalty mobilisation target of GH¢6.9 billion, collecting more than GH¢9 billion with two months remaining in the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Govt backs $250m bauxite deal • Ecobank strengthens presence in Awaso",
       "link": "https://ghanaiantimes.com.gh/govt-backs-250m-bauxite-deal-ecobank-strengthens-presence-in-awaso/",
@@ -98,18 +110,6 @@ window.GDC_PAPERS = {
       "summary": "GHANA’S economy has made considerable progress over the past 35 years, but the question is whether ordinary workers have benefited sufficiently from that progress. The latest findings by…",
       "categories": [
         "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Court grants teacher GH¢100,000 bail over sale of unregistered drugs",
-      "link": "https://ghanaiantimes.com.gh/court-grants-teacher-gh%c2%a2100000-bail-over-sale-of-unregistered-drugs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:23:49.000Z",
-      "summary": "AN Accra Circuit Court has granted GH¢100,000 bail with two sureties to a teacher arrested over the alleged sale of unregistered drugs. The Court directed that one of the sureties should be…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
