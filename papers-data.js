@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:13:59.237Z",
+  "updated": "2026-11-23T15:23:56.858Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Courts not “forums for “vengeance against former employees” – Judge tells Lighthouse Chapel",
+      "link": "https://www.myjoyonline.com/courts-not-forums-for-vengeance-against-former-employees-judge-tells-lighthouse-chapel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:21:28.000Z",
+      "summary": "High Court Judge, Justice Marie-Louise Simmons, says the courts are not forums for “vengeance against former employees”. She served this strong notice in a case involving the Lighthouse…",
+      "categories": [
+        "National",
+        "court",
+        "Lighthouse Chapel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Green at UG (Legon), Blue at KNUST or the candidate with the most beautiful flyer?",
+      "link": "https://www.myjoyonline.com/green-at-ug-legon-blue-at-knust-or-the-candidate-with-the-most-beautiful-flyer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:13:59.000Z",
+      "summary": "When a candidate wins a Students' Representative Council (SRC) presidential election in our universities, the celebration sometimes extends beyond the university walls. Political actors…",
+      "categories": [
+        "Opinion",
+        "Student politics",
+        "TEIN",
+        "TESCON"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
       "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
@@ -120,37 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UTAG-UG opposes GTEC’s blanket suspension of approvals for new PhD programmes",
-      "link": "https://www.myjoyonline.com/utag-ug-opposes-gtecs-blanket-suspension-of-approvals-for-new-phd-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:40:37.000Z",
-      "summary": "The University of Ghana chapter of the University Teachers Association of Ghana (UTAG-UG) has criticised the Ghana Tertiary Education Commission’s (GTEC) decision to suspend approvals for…",
-      "categories": [
-        "Education",
-        "National",
-        "pricing dispute",
-        "Shops",
-        "Spare parts dealers",
-        "Suame Magazine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suame Magazine artisans attack foreign spare-parts dealers, lock up shops over pricing dispute",
-      "link": "https://www.myjoyonline.com/suame-magazine-artisans-attack-foreign-spare-parts-dealers-lock-up-shops-over-pricing-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:40:37.000Z",
-      "summary": "Tension has erupted at Suame Magazine in Kumasi after some local artisans reportedly attacked foreign spare-parts dealers and locked up at least 10 shops over allegations of unfair…",
-      "categories": [
-        "Regional",
-        "pricing dispute",
-        "Shops",
-        "Spare parts dealers",
-        "Suame Magazine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Mubarik wins Golden Boot as Black Challenge conquer the World",
       "link": "https://ghanaiantimes.com.gh/mubarik-wins-golden-boot-as-black-challenge-conquer-the-world/",
       "source": "Ghanaian Times",
@@ -222,6 +218,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Govt to lease 50 buses to GPRTU and other unions",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-to-lease-50-buses-to-gprtu-and-other-unions.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T12:36:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Petroleum workers threaten nationwide strike over NPA Bill",
       "link": "https://www.graphic.com.gh/news/general-news/petroleum-workers-threaten-nationwide-strike-over-npa-bill.html",
       "source": "Daily Graphic",
@@ -281,17 +288,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fipag-calls-for-review-of-automated-fire-compliance-and-safety-system.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T08:42:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MIIF exceeds 2026 royalty target - Collects over GH¢9bn by October",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-exceeds-2026-royalty-target.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T08:30:16.000Z",
       "summary": "",
       "categories": [
         "General News"
