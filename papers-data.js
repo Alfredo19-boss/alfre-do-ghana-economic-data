@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T00:42:10.722Z",
+  "updated": "2026-11-23T03:05:23.675Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -95,6 +95,43 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Lock of former US President George Washington’s hair sells for $4,000",
+      "link": "https://www.myjoyonline.com/lock-of-former-us-president-george-washingtons-hair-sells-for-4000/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:25:00.000Z",
+      "summary": "A framed lock of hair from America's first president, George Washington, has been sold at auction for $4,000 (£3,058).",
+      "categories": [
+        "International",
+        "George Washington",
+        "Hair"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.myjoyonline.com/fbi-reportedly-investigating-apparent-hack-of-its-criminal-database/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:16:00.000Z",
+      "summary": "The FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue.",
+      "categories": [
+        "International",
+        "FBI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.myjoyonline.com/italian-jeweller-and-businessman-paolo-bulgari-dies-aged-89/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:05:00.000Z",
+      "summary": "Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, died in Rome at 89.",
+      "categories": [
+        "Fashion",
+        "Paolo Bulgari"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "link": "https://www.myjoyonline.com/miley-cyrus-marries-maxx-morando-in-california-ceremony/",
       "source": "MyJoyOnline",
@@ -104,53 +141,6 @@ window.GDC_PAPERS = {
         "Movies",
         "Music",
         "Miley Cyrus"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:58:54.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢4.25 billion.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 3",
-        "182-day",
-        "364-day",
-        "91-day",
-        "BoG",
-        "Interest rates",
-        "T-Bills"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russell Brand’s wife says she’ll honour prison rules after message row",
-      "link": "https://www.myjoyonline.com/russell-brands-wife-says-shell-honour-prison-rules-after-message-row/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:54:00.000Z",
-      "summary": "The wife of disgraced comedian Russell Brand says she will \"honour\" his prison's rules, a week after she read a message from her husband claiming his innocence.",
-      "categories": [
-        "International",
-        "Music",
-        "Russell Brand"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAFM resolves regulatory status with GTEC, clarifies professional certification role",
-      "link": "https://www.myjoyonline.com/gafm-resolves-regulatory-status-with-gtec-clarifies-professional-certification-role/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:47:29.000Z",
-      "summary": "The Global Academy of Finance and Management (GAFM), USA, says it has resolved a regulatory discrepancy with the Ghana Tertiary Education Commission (GTEC) following engagements and the…",
-      "categories": [
-        "Education",
-        "National",
-        "Global academy of finance and management",
-        "GTEC",
-        "regulatory licence"
       ],
       "site": "https://www.myjoyonline.com/"
     },
