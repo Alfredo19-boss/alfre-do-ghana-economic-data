@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T17:23:58.376Z",
+  "updated": "2026-11-23T17:33:58.493Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -123,6 +123,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T17:07:53.000Z",
       "summary": "The Ghana Union of Traders Associations (GUTA) in the Ashanti Region has thrown its support behind the closure of some shops owned by foreign nationals at Suame Magazine in Kumasi.",
       "categories": [
+        "HP News 1",
         "National",
         "Foreignes",
         "GUTA",
