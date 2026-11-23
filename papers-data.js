@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:18:57.591Z",
+  "updated": "2026-11-23T14:28:56.927Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,101 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One arrested, another wanted over Ghanaian teenager’s fatal shooting in Toronto",
+      "link": "https://www.myjoyonline.com/one-arrested-another-wanted-over-ghanaian-teenagers-fatal-shooting-in-toronto/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:25:47.000Z",
+      "summary": "Canadian police have arrested a 19-year-old man in connection with the fatal shooting of 18-year-old Ghanaian Malik Abass in Toronto, while a second suspect remains at large. The Toronto…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Canada",
+        "Malik Abass",
+        "Toronto murder suspect"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petroleum workers threaten nationwide strike over proposed changes to BOST’s depot mandate",
+      "link": "https://www.myjoyonline.com/petroleum-workers-threaten-nationwide-strike-over-proposed-changes-to-bosts-depot-mandate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:25:13.000Z",
+      "summary": "Petroleum workers have threatened a nationwide strike if Parliament passes the National Petroleum Authority (NPA) Bill, 2026, in its current form. The General Transport, Petroleum and…",
+      "categories": [
+        "Energy",
+        "National",
+        "BOST",
+        "Nationwide strike",
+        "petroleum workers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nana Kwesi Akomanyi",
+      "link": "https://www.myjoyonline.com/nana-kwesi-akomanyi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:24:42.000Z",
+      "summary": "Nana Kwesi Akomanyi",
+      "categories": [
+        "Obituary",
+        "Nana Kwesi Akomanyi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mubarik wins Golden Boot as Black Challenge conquer the World",
+      "link": "https://ghanaiantimes.com.gh/mubarik-wins-golden-boot-as-black-challenge-conquer-the-world/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:23:17.000Z",
+      "summary": "Ghana forward Mohammed Mubarik has been crowned the top scorer at the 2026 WAFF Amputee Football World Cup in Mexico. The prolific attacker finished the tournament with an impressive seven…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bagbin, Akpabio reaffirm Ghana-Nigeria solidarity in Abuja",
+      "link": "https://ghanaiantimes.com.gh/bagbin-akpabio-reaffirm-ghana-nigeria-solidarity-in-abuja/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:21:33.000Z",
+      "summary": "Ghana’s High Commissioner to Nigeria, H.E. Baba Sadiq Abdulai Abu, has accompanied the Speaker of Ghana’s Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, on a courtesy visit to the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Speaker Bagbin returns to Ghana after official visit to Nigeria",
+      "link": "https://ghanaiantimes.com.gh/speaker-bagbin-returns-to-ghana-after-official-visit-to-nigeria/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:19:10.000Z",
+      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has returned to Ghana after a successful official visit to Abuja, Nigeria. He was seen off at the airport by Ghana’s High…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The Inconvenient Truth: We are building Heaven for the few on the foundations of Hell for the many",
+      "link": "https://www.myjoyonline.com/the-inconvenient-truth-we-are-building-heaven-for-the-few-on-the-foundations-of-hell-for-the-many/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:17:27.000Z",
+      "summary": "Humanity has mastered the art of accumulation while quietly forgetting the arithmetic of conscience. The question is no longer whether we can create wealth, but whether we can create it…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Africa",
+        "Ghana",
+        "Ing. Prof. Douglas Boateng",
+        "The Inconvenient Truth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GNFS saves lives and properties as fire guts brothel at Asankragua market",
       "link": "https://ghanaiantimes.com.gh/gnfs-saves-lives-and-properties-as-fire-guts-brothel-at-asankragua-market/",
@@ -50,6 +145,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T14:12:20.000Z",
       "summary": "The Minister for Education, Haruna Iddrisu, has directed the Ghana Education Service (GES) to impose a two-year examination ban on pupils who attempt to sit the Basic Education Certificate…",
       "categories": [
+        "HP News 10",
         "National",
         "BECE",
         "Examination"
@@ -105,64 +201,6 @@ window.GDC_PAPERS = {
         "National",
         "GTEC",
         "PhD programme applications"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
-      "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:53:42.000Z",
-      "summary": "Fishmongers and other fisheries stakeholders in Elmina are calling for stricter enforcement of fishing regulations to clamp down on the use of artificial lights and harmful chemicals in…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Elmina",
-        "Fisherfolk"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mrs. Rita Linda Bucknor",
-      "link": "https://www.myjoyonline.com/mrs-rita-linda-bucknor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:53:23.000Z",
-      "summary": "Mrs. Rita Linda Bucknor",
-      "categories": [
-        "Obituary",
-        "Mrs. Rita Linda Bucknor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judicial staff strike delayed prosecution of suspects linked to France cocaine seizure – NACOC",
-      "link": "https://www.myjoyonline.com/judicial-staff-strike-delayed-prosecution-of-suspects-linked-to-france-cocaine-seizure-nacoc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:50:17.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) says the recent strike by judicial service staff delayed progress in the prosecution of individuals linked to the 3.9-tonne cocaine seizure in…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "News",
-        "France cocaine case",
-        "Judicial staff strike",
-        "NACOC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘All the money we’ve spent will be in vain if NPP fails to regain power’ – Ablekuma West NPP Women’s organiser",
-      "link": "https://www.myjoyonline.com/all-the-money-weve-spent-will-be-in-vain-if-npp-fails-to-regain-power-ablekuma-west-npp-womens-organiser/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:37:36.000Z",
-      "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Politics",
-        "Ablekuma West",
-        "NPP",
-        "Power"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -271,39 +309,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-23T07:51:56.000Z",
       "summary": "A 15-year-old Ghanaian boy who was killed in the US last month was remembered as a hard-working student with dreams of becoming a doctor, as his father, New York City’s mayor and civil…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former Italy police chief commits suicide amidst probe",
-      "link": "https://ghanaiantimes.com.gh/former-italy-police-chief-commits-suicide-amidst-probe/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:49:58.000Z",
-      "summary": "Former Italian police chief Gianni De Gennaro, under investigation for alleged efforts to obstruct a new probe into the 1992 killing of a top ​anti-mafia magistrate, has taken his own life…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "link": "https://ghanaiantimes.com.gh/nigeria-moves-to-end-jail-terms-for-attempted-suicide/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:48:36.000Z",
-      "summary": "Nigerian President Bola Tinubu has asked parliament to decriminalise attempted suicide, proposing medical support instead of prosecution for those who survive. The proposal seeks to shift…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "link": "https://ghanaiantimes.com.gh/russia-bound-ship-attacked-in-gulf-of-finland/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:47:06.000Z",
-      "summary": "A Russian cargo vessel bound for the country’s Baltic Kaliningrad territory has been hit by a drone attack in the eastern Gulf of Finland, Russian and Finnish authorities say. The ship –…",
       "categories": [
         "World"
       ],

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T14:18:26.814Z",
+  "updated": "2026-11-23T14:28:26.354Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "E-Waste Management Struggles to Keep Pace With Ghana’s Digital Expansion",
+      "link": "https://thehighstreetjournal.com/e-waste-management-struggles-to-keep-pace-with-ghanas-digital-expansion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T14:19:21.000Z",
+      "summary": "As investment in digital infrastructure, artificial intelligence and telecommunications accelerates, the country faces growing pressure to strengthen the collection and safe disposal of…"
+    },
     {
       "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
       "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T11:00:00.000Z",
       "summary": "The newly elected President of the Advertising Association of Ghana (AAG), Russel Eni, has vowed to intensify the fight against indiscriminate billboard mounting across the country. Under…"
-    },
-    {
-      "title": "Russell Kofi Eni elected President of AAG, takes over from Andrew Ackah",
-      "link": "https://www.myjoyonline.com/russell-kofi-eni-elected-new-president-of-aag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T10:55:28.000Z",
-      "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG), replacing Andrew Ackah who has been president since 2022. He was elected at the…"
     }
   ]
 };
