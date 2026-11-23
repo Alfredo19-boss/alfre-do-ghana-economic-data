@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T12:13:56.373Z",
+  "updated": "2026-11-23T12:43:56.974Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,68 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Deputy Interior Minister calls for stronger regional security coordination to avert conflicts",
+      "link": "https://www.myjoyonline.com/deputy-interior-minister-calls-for-stronger-regional-security-coordination-to-avert-conflicts/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:40:34.000Z",
+      "summary": "Deputy Minister for the Interior, Ebenezer Okletey Terlabi, has warned regional and local authorities against adopting a reactive approach to security, urging them to identify potential…",
+      "categories": [
+        "National",
+        "Conflicts",
+        "Deputy Interior Minister",
+        "regional security"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From national service to future leadership: Why mentorship matters more than ever",
+      "link": "https://www.myjoyonline.com/from-national-service-to-future-leadership-why-mentorship-matters-more-than-ever/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:36:29.000Z",
+      "summary": "Every year, thousands of talented graduates enter the workforce full of ambition, potential, and academic knowledge. Yet many quickly discover that success in the workplace requires much…",
+      "categories": [
+        "National",
+        "Opinion",
+        "future leadership",
+        "mentorship",
+        "National Service"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GISPA moves to strengthen industry collaboration and advocacy across Ghana’s digital sector",
+      "link": "https://www.myjoyonline.com/gispa-moves-to-strengthen-industry-collaboration-and-advocacy-across-ghanas-digital-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:35:22.000Z",
+      "summary": "The renewed direction was underscored at an industry networking reception in Accra, which brought together key players across the sector, including Mobile Network Operators (MNOs), Internet…",
+      "categories": [
+        "Business",
+        "Technology",
+        "Chamber of Telecommunications",
+        "GISPA",
+        "ISPS",
+        "Micheal K. K Nfodzo",
+        "Ministry of Cmmunication",
+        "MNOs",
+        "NCA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SkyTrain trial adjourned as Solomon Asamoah seeks new lawyer",
+      "link": "https://www.myjoyonline.com/skytrain-trial-adjourned-as-solomon-asamoah-seeks-new-lawyer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:32:43.000Z",
+      "summary": "The Accra High Court has granted Solomon Asamoah, the first accused in the $2 million SkyTrain case, additional time to secure a new lawyer following the withdrawal of his previous counsel…",
+      "categories": [
+        "National",
+        "new counsel",
+        "Skytrain",
+        "Solomon Asamoah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MTN donates computers to UMaT as student population grows",
       "link": "https://www.myjoyonline.com/mtn-donates-computers-to-umat-as-student-population-grows/",
@@ -74,67 +136,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Fire",
         "Northern Regional Coordinating Council offices"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
-      "link": "https://www.myjoyonline.com/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:52:14.000Z",
-      "summary": "The Head of the Revenue Assurance Department at the Ministry of Finance, Victor Kofi Baidoo, disclosed this at a meeting with members of the Ghana Institute of Freight Forwarders (GIFF) at…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Customs Division",
-        "GIFF",
-        "GRA",
-        "Ministry of Finance",
-        "Victor Kofi Baidoo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CDD-Ghana’s John Osae-Kwapong blames lack of sanctions for persistent absenteeism among MPs",
-      "link": "https://www.myjoyonline.com/cdd-ghanas-john-osae-kwapong-blames-lack-of-sanctions-for-persistent-absenteeism-among-mps/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:51:37.000Z",
-      "summary": "A fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae-Kwapong, has attributed persistent absenteeism among Members of Parliament (MPs) to the failure to hold lawmakers…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "CDD-Ghana Fellow",
-        "Parliamentary absenteeism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CSU Chancellor calls for support for private universities to strengthen national development",
-      "link": "https://www.myjoyonline.com/csu-chancellor-calls-for-support-for-private-universities-to-strengthen-national-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:46:59.000Z",
-      "summary": "The Chancellor of Christian Service University (CSU), Most Rev. Prof. Emmanuel Kweku Asante, has called for stronger government and stakeholder support for private tertiary institutions…",
-      "categories": [
-        "Education",
-        "National",
-        "Christian Service University (CSU)",
-        "national development"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL: ‘We lost focus in the final minutes’ – Hearts of Oak’s Mohammed Hussein on draw with Aduana",
-      "link": "https://www.myjoyonline.com/gpl-we-lost-focus-in-the-final-minutes-hearts-of-oaks-mohammed-hussein-on-draw-with-aduana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:45:43.000Z",
-      "summary": "The Phobians gave up a two-goal lead in the matchday 12 fixture to pick up one point after the game ended 2-2 at the University of Ghana Stadium.",
-      "categories": [
-        "Football",
-        "National",
-        "Aduana FC",
-        "Ghana Premier League",
-        "Hearts of Oak",
-        "Mohammed Hussein"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -194,6 +195,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "MIIF exceeds 2026 royalty target - Collects over GH¢9bn by October",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-exceeds-2026-royalty-target.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T08:30:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Govt cuts VAT, triples threshold to ease cost of doing business - Vice-President",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-cuts-vat-triples-threshold-to-ease-cost-of-doing-business-vice-president.html",
       "source": "Daily Graphic",
@@ -209,17 +221,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ug-hostel-fees-controversy-govt-backs-rent-control-bid-to-curb-high-charges.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T08:18:41.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt to create rice hubs",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-to-create-rice-hubs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T08:16:17.000Z",
       "summary": "",
       "categories": [
         "General News"

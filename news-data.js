@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T12:13:29.360Z",
+  "updated": "2026-11-23T12:43:26.293Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GISPA moves to strengthen industry collaboration and advocacy across Ghana’s digital sector",
+      "link": "https://www.myjoyonline.com/gispa-moves-to-strengthen-industry-collaboration-and-advocacy-across-ghanas-digital-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:35:22.000Z",
+      "summary": "The renewed direction was underscored at an industry networking reception in Accra, which brought together key players across the sector, including Mobile Network Operators (MNOs), Internet…"
+    },
     {
       "title": "CERPA Boss Calls for Policy Consistency to Deliver the 2027 Budget’s Production Agenda",
       "link": "https://thehighstreetjournal.com/cerpa-boss-calls-for-policy-consistency-to-deliver-the-2027-budgets-production-agenda/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T09:45:49.000Z",
       "summary": "The GRA has uncovered VAT infractions at almost all 14 shops inspected at Achimota Retail Centre, warning businesses to comply with invoicing, declaration and payment requirements."
-    },
-    {
-      "title": "BoG Triggers a Cost of Credit Ease with a 3 Percentage Points Cut in Policy Rate; MPR Now at 11%",
-      "link": "https://thehighstreetjournal.com/bog-triggers-a-cost-of-credit-ease-with-a-3-percentage-points-cut-in-policy-rate-mpr-now-at-11/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T08:25:37.000Z",
-      "summary": "The Bank of Ghana cut its policy rate by 300 basis points to 11%, supported by declining inflation, stronger economic activity and improved reserves, while introducing monetary reforms to…"
     }
   ]
 };
