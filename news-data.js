@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T14:28:26.354Z",
+  "updated": "2026-11-23T14:38:27.997Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Petroleum workers threaten nationwide strike over proposed changes to BOST’s depot mandate",
+      "link": "https://www.myjoyonline.com/petroleum-workers-threaten-nationwide-strike-over-proposed-changes-to-bosts-depot-mandate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:25:13.000Z",
+      "summary": "Petroleum workers have threatened a nationwide strike if Parliament passes the National Petroleum Authority (NPA) Bill, 2026, in its current form. The General Transport, Petroleum and…"
+    },
     {
       "title": "E-Waste Management Struggles to Keep Pace With Ghana’s Digital Expansion",
       "link": "https://thehighstreetjournal.com/e-waste-management-struggles-to-keep-pace-with-ghanas-digital-expansion/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-19T11:07:10.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has intensified its Value Added Tax (VAT) compliance checks on businesses and urged consumers to demand invoices for purchases to improve revenue…"
-    },
-    {
-      "title": "New AAG President, Russel Eni, pledges to tackle illegal billboards and raise professional standards",
-      "link": "https://www.myjoyonline.com/new-aag-president-russel-eni-pledges-to-tackle-illegal-billboards-and-raise-professional-standards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T11:00:00.000Z",
-      "summary": "The newly elected President of the Advertising Association of Ghana (AAG), Russel Eni, has vowed to intensify the fight against indiscriminate billboard mounting across the country. Under…"
     }
   ]
 };

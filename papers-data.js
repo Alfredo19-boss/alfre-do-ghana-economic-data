@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:28:56.927Z",
+  "updated": "2026-11-23T14:38:58.922Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,54 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "link": "https://www.myjoyonline.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:37:10.000Z",
+      "summary": "Nvidia’s board has reinstated Jensen Huang as chief executive, president and as a member of the board, the company said in an announcement Monday.",
+      "categories": [
+        "Technology",
+        "CEO",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "An Open Letter to Africa’s Heads of State: Africa is not poor; it is underprocessed",
+      "link": "https://www.myjoyonline.com/an-open-letter-to-africas-heads-of-state-africa-is-not-poor-it-is-underprocessed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:33:41.000Z",
+      "summary": "The decisions that will industrialise Africa are made not only in presidential offices, but in the boardrooms of state enterprises, development institutions and private companies…",
+      "categories": [
+        "Africa",
+        "Opinion",
+        "Economy",
+        "Ing. Prof. Douglas Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Are Ghanaian men ‘chisel’?",
+      "link": "https://www.myjoyonline.com/are-ghanaian-men-chisel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:32:51.000Z",
+      "summary": "SOME lovers see money as a means of showing power, love, worth and self-esteem. Others see it as a source of security.",
+      "categories": [
+        "Lifestyle",
+        "Ghanaian Men",
+        "Relationship"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "One arrested, another wanted over Ghanaian teenager’s fatal shooting in Toronto",
       "link": "https://www.myjoyonline.com/one-arrested-another-wanted-over-ghanaian-teenagers-fatal-shooting-in-toronto/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T14:25:47.000Z",
       "summary": "Canadian police have arrested a 19-year-old man in connection with the fatal shooting of 18-year-old Ghanaian Malik Abass in Toronto, while a second suspect remains at large. The Toronto…",
       "categories": [
+        "HP News 4",
         "HP News 5",
         "National",
         "News",
@@ -165,46 +207,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Mr. Frank Mackay Anim-Appiah",
-      "link": "https://www.myjoyonline.com/mr-frank-mackay-anim-appiah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:06:51.000Z",
-      "summary": "Okofrobour Baffour Kwame Asante II (Tapahene), Nana Attakora Boateng II (Amanya Krontinene), Okyeamepayin Kwame Amoah Gyamano, Abusaupanyin T.K Dzavor, Most Rev.Simon Kofi Appiah(Catholic…",
-      "categories": [
-        "Obituary",
-        "Mr. Frank Mackay Anim-Appiah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Break your necks, but don’t break Ghana again – NDC Ablekuma Women’s organiser fires NPP counterpart",
-      "link": "https://www.myjoyonline.com/break-your-necks-but-dont-break-ghana-again-ndc-ablekuma-womens-organiser-fires-npp-counterpart/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:04:09.000Z",
-      "summary": "The newly elected National Democratic Congress (NDC) Women’s Organiser for Ablekuma West, Marian Marie Addo, has criticised comments attributed to her New Patriotic Party (NPP) counterpart…",
-      "categories": [
-        "National",
-        "Politics",
-        "Ablekuma",
-        "NDC",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New directive limited to institutions seeking approval to introduce fresh PhD programmes – GTEC clarifies",
-      "link": "https://www.myjoyonline.com/new-directive-limited-to-institutions-seeking-approval-to-introduce-fresh-phd-programmes-gtec-clarifies/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:58:03.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has clarified that its directive suspending new applications from tertiary institutions seeking approval to run PhD programmes does not affect…",
-      "categories": [
-        "National",
-        "GTEC",
-        "PhD programme applications"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Petroleum workers threaten nationwide strike over NPA Bill",
       "link": "https://www.graphic.com.gh/news/general-news/petroleum-workers-threaten-nationwide-strike-over-npa-bill.html",
       "source": "Daily Graphic",
@@ -238,7 +240,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GAFM clarifies it is a professional certification body, not a degree- or diploma-awarding institution.",
+      "title": "GAFM clarifies it is a professional certification body, not a degree- or diploma-awarding institution",
       "link": "https://www.graphic.com.gh/news/general-news/gafm-is-not-a-university-degree-granting-or-diploma-granting-institution.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T10:50:23.000Z",
