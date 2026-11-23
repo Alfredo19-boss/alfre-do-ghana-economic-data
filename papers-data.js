@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:58:57.776Z",
+  "updated": "2026-11-23T15:03:57.563Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prez Mahama congratulates Black Challenge after Amputee World Cup win",
+      "link": "https://www.myjoyonline.com/prez-mahama-congratulates-black-challenge-after-amputee-world-cup-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:59:11.000Z",
+      "summary": "President of Ghana John Dramani Mahama has congratulated the Black Challenge following the 2026 Amputee World Cup triumph. Ghana defeated Morocco in the final of the competition in the…",
+      "categories": [
+        "Football",
+        "2026 World Amputee World Cup",
+        "Black Challenge",
+        "John Dramani Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Zanetor, the Climate Summit and the Microphone that needed Resuscitation!",
       "link": "https://www.myjoyonline.com/zanetor-the-climate-summit-and-the-microphone-that-needed-resuscitation/",
@@ -117,23 +131,6 @@ window.GDC_PAPERS = {
         "Lifestyle",
         "Ghanaian Men",
         "Relationship"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "One arrested, another wanted over Ghanaian teenager’s fatal shooting in Toronto",
-      "link": "https://www.myjoyonline.com/one-arrested-another-wanted-over-ghanaian-teenagers-fatal-shooting-in-toronto/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:25:47.000Z",
-      "summary": "Canadian police have arrested a 19-year-old man in connection with the fatal shooting of 18-year-old Ghanaian Malik Abass in Toronto, while a second suspect remains at large. The Toronto…",
-      "categories": [
-        "HP News 4",
-        "HP News 5",
-        "National",
-        "News",
-        "Canada",
-        "Malik Abass",
-        "Toronto murder suspect"
       ],
       "site": "https://www.myjoyonline.com/"
     },
