@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T05:15:21.394Z",
+  "updated": "2026-11-23T05:35:22.623Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana armwrestling referees earn world promotions",
+      "link": "https://www.myjoyonline.com/ghana-armwrestling-referees-earn-world-promotions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:25:01.000Z",
+      "summary": "Three Ghanaian referees have earned prestigious international promotions following their performances at the just-ended World Armwrestling Championship in India, marking another significant…",
+      "categories": [
+        "Other Sports",
+        "Sports",
+        "Ghana Armwrestling"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Plastic-choked beaches: Coastal livelihoods under threat",
       "link": "https://www.myjoyonline.com/plastic-choked-beaches-coastal-livelihoods-under-threat/",
@@ -108,21 +121,6 @@ window.GDC_PAPERS = {
         "Politics",
         "David Quao",
         "NDC UK & Ireland"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
-      "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:22:00.000Z",
-      "summary": "Commercial banks will pay less to borrow overnight from the Bank of Ghana after its latest policy rate cut. However, a narrower policy corridor could push short-term market rates higher…",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 2",
-        "National",
-        "Bank of Ghana (BoG)",
-        "MPC meeting"
       ],
       "site": "https://www.myjoyonline.com/"
     },
