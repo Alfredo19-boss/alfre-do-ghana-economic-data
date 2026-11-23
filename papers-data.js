@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:45:21.827Z",
+  "updated": "2026-11-23T07:55:21.918Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "ndonesia factory fire kills 3, 36 missing",
+      "link": "https://ghanaiantimes.com.gh/ndonesia-factory-fire-kills-3-36-missing/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:54:02.000Z",
+      "summary": "A fire at a sweets factory in Indonesia has killed at least three people and 36 others are missing. At least 15 people were rescued from the Fonusa Agung Mulia factory in Banten province…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghanaian boy killed in US ‘deserves better’ – New York Mayor",
+      "link": "https://ghanaiantimes.com.gh/ghanaian-boy-killed-in-us-deserves-better-new-york-mayor/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:51:56.000Z",
+      "summary": "A 15-year-old Ghanaian boy who was killed in the US last month was remembered as a hard-working student with dreams of becoming a doctor, as his father, New York City’s mayor and civil…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Former Italy police chief commits suicide amidst probe",
+      "link": "https://ghanaiantimes.com.gh/former-italy-police-chief-commits-suicide-amidst-probe/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:49:58.000Z",
+      "summary": "Former Italian police chief Gianni De Gennaro, under investigation for alleged efforts to obstruct a new probe into the 1992 killing of a top ​anti-mafia magistrate, has taken his own life…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "link": "https://ghanaiantimes.com.gh/nigeria-moves-to-end-jail-terms-for-attempted-suicide/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:48:36.000Z",
+      "summary": "Nigerian President Bola Tinubu has asked parliament to decriminalise attempted suicide, proposing medical support instead of prosecution for those who survive. The proposal seeks to shift…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://ghanaiantimes.com.gh/russia-bound-ship-attacked-in-gulf-of-finland/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:47:06.000Z",
+      "summary": "A Russian cargo vessel bound for the country’s Baltic Kaliningrad territory has been hit by a drone attack in the eastern Gulf of Finland, Russian and Finnish authorities say. The ship –…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GPL: Vision FC claim vital points to sink Debibi United",
       "link": "https://ghanaiantimes.com.gh/gpl-vision-fc-claim-vital-points-to-sink-debibi-united/",
@@ -48,28 +103,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-23T07:37:04.000Z",
       "summary": "Attention of tennis enthusiasts will turn to the clay courts of the Accra Lawn Tennis Club in Accra where the 24th edition of the Accra Seniors Tennis Open Championship kicks off with over…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "New NSA boss Prof. Sarpong pays working visits to 3 regions",
-      "link": "https://ghanaiantimes.com.gh/new-nsa-boss-prof-sarpong-pays-working-visits-to-3-regions/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:35:31.000Z",
-      "summary": "The Director-General of the National Sports Authority (NSA), Prof. Emmanuel Sarpong, is undertaking official working visits to three regions of the country, notably the Bono, Bono East and…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MoSR seeks Facility Manager for Borteyman Sports Complex",
-      "link": "https://ghanaiantimes.com.gh/mosr-seeks-facility-manager-for-borteyman-sports-complex/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:33:46.000Z",
-      "summary": "THE Minister of Sports and Recreation, Mr Kofi Adams, has indicated that the requisite procurement process to engage a qualified manager to manage the Borteyman Sports Complex has…",
       "categories": [
         "Sports"
       ],
@@ -110,39 +143,6 @@ window.GDC_PAPERS = {
         "UN"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JL Properties ranks 55th at Ghana Club 100 Awards",
-      "link": "https://ghanaiantimes.com.gh/jl-properties-ranks-55th-at-ghana-club-100-awards/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:29:28.000Z",
-      "summary": "JL Properties, an indigenous real estate development company, has been ranked 55th in the latest Ghana Club 100 list. The ranking was announced at the Ghana Club 100 Awards held in Accra…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GSE market capitalisation falls to GH¢258.83bn …as equities record mixed performance",
-      "link": "https://ghanaiantimes.com.gh/gse-market-capitalisation-falls-to-gh%c2%a2258-83bn-as-equities-record-mixed-performance/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:26:44.000Z",
-      "summary": "THE Ghana Stock Exchange (GSE) recorded a marginal decline in market capitalisation during the week ended November 20, 2026, as losses in some major equities outweighed gains in selected…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Alex Apau Dadey wins African Entrepreneur of the Year award",
-      "link": "https://ghanaiantimes.com.gh/alex-apau-dadey-wins-african-entrepreneur-of-the-year-award/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:24:23.000Z",
-      "summary": "GHANAIAN businessman and Executive Chairman of the KGL Group of Companies, Alex Apau Dadey, has been named Entrepreneur of the Year at the 14th All Africa Business Leaders Awards (AABLA)…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Court remands teenagers in GH¢38,477 WhatsApp romance scam",
