@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T03:44:51.229Z",
+  "updated": "2026-11-23T03:54:51.902Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
+      "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:42:00.000Z",
+      "summary": "The US Securities and Exchange Commission is probing Nvidia's accounting practices, two people briefed on the matter said, adding to the legal woes facing the scandal-hit chip giant."
+    },
     {
       "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
       "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T00:05:30.000Z",
       "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
-    },
-    {
-      "title": "LBMA certification key to adding Ghanaian gold to bank reserves – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T23:43:00.000Z",
-      "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken…"
     }
   ]
 };

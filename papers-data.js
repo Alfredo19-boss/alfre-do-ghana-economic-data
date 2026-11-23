@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:45:22.112Z",
+  "updated": "2026-11-23T03:55:22.914Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
+      "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:42:00.000Z",
+      "summary": "The US Securities and Exchange Commission is probing Nvidia's accounting practices, two people briefed on the matter said, adding to the legal woes facing the scandal-hit chip giant.",
+      "categories": [
+        "Technology",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.myjoyonline.com/democrats-win-largest-house-majority-since-1992-after-flipping-north-carolina-seat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:33:00.000Z",
+      "summary": "The Democratic Party has won the largest majority in the US House of Representatives since 1992, after Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North…",
+      "categories": [
+        "International",
+        "Democrats",
+        "US Senate"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Seattle airport operator ‘outraged’ over ICE arrest of two passengers",
       "link": "https://www.myjoyonline.com/seattle-airport-operator-outraged-over-ice-arrest-of-two-passengers/",
@@ -69,6 +94,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "A resurgent ‘Hunger Games’ goes big at the box office, despite competition of ‘Grand Theft Auto VI’",
+      "link": "https://www.myjoyonline.com/a-resurgent-hunger-games-goes-big-at-the-box-office-despite-competition-of-grand-theft-auto-vi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T00:18:00.000Z",
+      "summary": "Fourteen years and six movies in, “The Hunger Games” movie franchise rediscovered its box-office might, as “Sunrise on the Reaping” debuted with $120 million in North American theatres over…",
+      "categories": [
+        "Movies",
+        "GTA 6",
+        "Hunger Games"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Melania Trump gives a peek inside her marriage, motherhood and more in new series",
       "link": "https://www.myjoyonline.com/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series/",
       "source": "MyJoyOnline",
@@ -96,45 +134,6 @@ window.GDC_PAPERS = {
         "Ministry of Finance",
         "Sinking Fund",
         "UNDP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump to welcome investors at gala for his plunging meme coin",
-      "link": "https://www.myjoyonline.com/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:55:00.000Z",
-      "summary": "US President Donald Trump will headline his third meme coin gala on ‌Sunday night at his country club outside Washington, DC, for top token holders, whose tokens were once worth about $75…",
-      "categories": [
-        "International",
-        "Donald Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fela never recovered from his mother’s death – Femi Kuti",
-      "link": "https://www.myjoyonline.com/fela-never-recovered-from-his-mothers-death-femi-kuti/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:46:00.000Z",
-      "summary": "Afrobeat legend Femi Kuti has said that his late father, Afrobeat pioneer Fela Anikulapo-Kuti, never fully recovered from the death of his mother, Funmilayo Ransome-Kuti, before his own…",
-      "categories": [
-        "Music",
-        "Fela Kuti",
-        "Femi Kuti"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FIP Bronze S2 Accra: Ghana takes major step in Padel development with historic tournament",
-      "link": "https://www.myjoyonline.com/fip-bronze-s2-accra-ghana-takes-major-step-in-padel-development-with-historic-tournament/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:45:00.000Z",
-      "summary": "Ghana made history on Sunday as the first International Padel Federation Bronze tournament in the country successfully concluded at the S2 Sport Club in Spintex, Accra. The FIP Bronze S2…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Adamu Benin Abdul Karim",
-        "FIP Bronze S2 Accra"
       ],
       "site": "https://www.myjoyonline.com/"
     },
