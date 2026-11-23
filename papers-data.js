@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T04:05:24.234Z",
+  "updated": "2026-11-23T04:15:21.732Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Challenge conquer the world as Ghana beat Morocco to claim historic title",
+      "link": "https://www.myjoyonline.com/black-challenge-conquer-the-world-as-ghana-beat-morocco-to-claim-historic-title/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:00:00.000Z",
+      "summary": "Ghana’s Black Challenge are world champions after defeating Morocco 1–0 on Sunday to win their first World Amputee Football World Cup title.",
+      "categories": [
+        "Football",
+        "National",
+        "Black Challenge",
+        "Ghana",
+        "Morocco",
+        "World Amputee Football World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Six venues chosen for Africa Cup of Nations finals",
+      "link": "https://www.myjoyonline.com/six-venues-chosen-for-africa-cup-of-nations-finals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T03:25:00.000Z",
+      "summary": "Six venues have been chosen to host matches at next year's Africa Cup of Nations finals, co-hosted by Kenya, Tanzania and Uganda.",
+      "categories": [
+        "Africa",
+        "Football",
+        "Africa Cup of Nations (Afcon)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
       "link": "https://www.myjoyonline.com/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts/",
@@ -93,42 +122,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "ICE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices fall amid equity selloff, though Iran war attacks limit losses",
-      "link": "https://www.myjoyonline.com/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:10:00.000Z",
-      "summary": "Oil prices fell on Monday as the selloff in the wider financial markets amid concerns about the ability of the AI sector to ​boost economic growth spilled over into commodities, though the…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
-      "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T00:36:18.000Z",
-      "summary": "The UK-based firm said that although the reactivated Dollar Sinking Fund will likely cover around US$1.2 billion in Eurobond repayments, the remaining US$3.9 billion owed to multilateral…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "bilateral creditors",
-        "BoG",
-        "Cedi",
-        "commercial creditors",
-        "Debt",
-        "Dollar",
-        "Eurobond",
-        "Fitch Solutions",
-        "Multilateral creditors",
-        "Sinking Fund"
       ],
       "site": "https://www.myjoyonline.com/"
     },
