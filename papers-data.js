@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:24:03.477Z",
+  "updated": "2026-11-23T16:28:59.765Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: The CEO’s role in strengthening organisational culture",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-organisational-culture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:27:19.000Z",
+      "summary": "Organisational culture is one of the most powerful influences on business performance. It shapes how people work, make decisions, treat customers, manage conflict and respond to challenges…",
+      "categories": [
+        "Opinion",
+        "CEOs",
+        "Culture",
+        "Daily Insight"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNCCI urges government to deepen private sector engagement in New Economy Agenda",
+      "link": "https://www.myjoyonline.com/gncci-urges-government-to-deepen-private-sector-engagement-in-new-economy-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:26:56.000Z",
+      "summary": "The Ghana National Chamber of Commerce and Industry (GNCCI) has urged the government to deepen its engagement with the private sector in implementing its New Economy Agenda, insisting…",
+      "categories": [
+        "National",
+        "GNCCI",
+        "New Economy Agenda"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister warns AI could breed lazy learners, calls for digital education policy",
+      "link": "https://www.myjoyonline.com/education-minister-warns-ai-could-breed-lazy-learners-calls-for-digital-education-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:25:12.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, has cautioned against the misuse of artificial intelligence (AI) in schools, warning that excessive dependence on the technology could encourage…",
+      "categories": [
+        "Education",
+        "HP News 8",
+        "National",
+        "AI",
+        "Education Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
       "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
@@ -80,6 +122,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Medical Trust Fund has taken over the case of five-year-old Miguel Ntsiful and referred him to Euracare Multi-Specialist Hospital after Korle Bu Teaching Hospital failed to secure…",
       "categories": [
         "Health",
+        "HP News 2",
         "National",
         "Euracare",
         "Ghana Medical Trust Fund",
@@ -124,49 +167,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Legal reforms"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AG identifies gap between Ghana’s minimum marriage age and age of sexual consent",
-      "link": "https://www.myjoyonline.com/ag-identifies-gap-between-ghanas-minimum-marriage-age-and-age-of-sexual-consent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:52:31.000Z",
-      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine has identified a legal disparity between Ghana’s minimum age of marriage and the age of sexual consent, saying proposed amendments…",
-      "categories": [
-        "National",
-        "Attorney General",
-        "minimum marriage",
-        "sexual consent"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cassava Processor innovator wins GH¢300,000 MTN Pitch",
-      "link": "https://www.myjoyonline.com/cassava-processor-innovator-wins-gh%c2%a2300000-mtn-pitch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:50:00.000Z",
-      "summary": "A young social innovator has won the maiden MTN National Business Pitch Competition for using locally made machines to solve cassava waste challenges. Theophilus Aboagye, CEO of Age…",
-      "categories": [
-        "Photo Story",
-        "Angela Mensah Poku",
-        "MTN",
-        "National Business Pitch"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AG urges Parliament to pass revised Intestate Succession Bill after 40 years of PNDCL 111",
-      "link": "https://www.myjoyonline.com/ag-urges-parliament-to-pass-revised-intestate-succession-bill-after-40-years-of-pndcl-111/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:45:14.000Z",
-      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine has urged Parliament to expedite the passage of the revised Intestate Succession Bill, saying the existing law needs to be updated…",
-      "categories": [
-        "National",
-        "AG",
-        "Intestate Succession Bill",
-        "Parliament",
-        "PNDCL"
       ],
       "site": "https://www.myjoyonline.com/"
     },
