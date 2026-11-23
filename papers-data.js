@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T04:15:21.732Z",
+  "updated": "2026-11-23T04:25:21.529Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,15 +24,29 @@ window.GDC_PAPERS = {
       "title": "Black Challenge conquer the world as Ghana beat Morocco to claim historic title",
       "link": "https://www.myjoyonline.com/black-challenge-conquer-the-world-as-ghana-beat-morocco-to-claim-historic-title/",
       "source": "MyJoyOnline",
-      "published": "2026-11-23T04:00:00.000Z",
+      "published": "2026-11-23T03:51:00.000Z",
       "summary": "Ghana’s Black Challenge are world champions after defeating Morocco 1–0 on Sunday to win their first World Amputee Football World Cup title.",
       "categories": [
         "Football",
         "National",
+        "Top Story",
         "Black Challenge",
         "Ghana",
         "Morocco",
         "World Amputee Football World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Death toll from Nigeria boat accident rises to 24",
+      "link": "https://www.myjoyonline.com/death-toll-from-nigeria-boat-accident-rises-to-24/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T03:33:00.000Z",
+      "summary": "At least 24 people died when a crowded ​boat carrying people to a funeral in ‌southern Nigeria capsized on Friday, the National Emergency Management Agency (NEMA) said.",
+      "categories": [
+        "Africa",
+        "Boat accident",
+        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -110,18 +124,6 @@ window.GDC_PAPERS = {
         "International",
         "Democrats",
         "US Senate"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Seattle airport operator ‘outraged’ over ICE arrest of two passengers",
-      "link": "https://www.myjoyonline.com/seattle-airport-operator-outraged-over-ice-arrest-of-two-passengers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:22:00.000Z",
-      "summary": "US immigration authorities faced criticism after Immigration and Customs Enforcement (ICE) officers arrested two passengers as they were boarding a flight in Seattle.",
-      "categories": [
-        "International",
-        "ICE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
