@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T23:44:08.490Z",
+  "updated": "2026-11-23T23:49:07.742Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -103,6 +103,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Haruna backs GTEC’s nationwide audit of PhD programmes",
+      "link": "https://www.myjoyonline.com/haruna-backs-gtecs-nationwide-audit-of-phd-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:34:00.000Z",
+      "summary": "Education Minister Haruna Iddrisu has thrown his weight behind the Ghana Tertiary Education Commission’s (GTEC) nationwide assessment of PhD programmes, insisting that the exercise is…",
+      "categories": [
+        "Education",
+        "News",
+        "GTEC",
+        "Haruna",
+        "PHD"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Amputee Football: Kofi Adams pledges $10K bonus for each Black Challenge player after World Cup triumph",
       "link": "https://www.myjoyonline.com/amputee-football-kofi-adams-pledges-10k-bonus-for-each-black-challenge-player-after-world-cup-triumph/",
       "source": "MyJoyOnline",
@@ -113,19 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "2026 Amputee Football World Cup",
         "Kofi Adams"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US experts join Ghana’s fight against mercury pollution in rivers",
-      "link": "https://www.myjoyonline.com/us-experts-join-ghanas-fight-against-mercury-pollution-in-rivers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:18:03.000Z",
-      "summary": "A team of United States scientists visited Ghana to support efforts to tackle mercury pollution linked to illegal small-scale gold mining and strengthen freshwater protection.",
-      "categories": [
-        "National",
-        "mercury pollution",
-        "US Experts"
       ],
       "site": "https://www.myjoyonline.com/"
     },
