@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:05:23.675Z",
+  "updated": "2026-11-23T03:15:25.313Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -77,6 +77,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "FIFA to confirm UK as host for 2035 Women’s World Cup",
+      "link": "https://www.myjoyonline.com/fifa-to-confirm-uk-as-host-for-2035-womens-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:37:00.000Z",
+      "summary": "FIFA is set to confirm on Monday that the United Kingdom will host the first football World Cup since 1966.",
+      "categories": [
+        "Football",
+        "UK",
+        "Women's World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
       "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
       "source": "MyJoyOnline",
@@ -128,19 +141,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Fashion",
         "Paolo Bulgari"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "link": "https://www.myjoyonline.com/miley-cyrus-marries-maxx-morando-in-california-ceremony/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:05:00.000Z",
-      "summary": "Miley Cyrus has married her partner of four years, Maxx Morando, during a ceremony in Palm Springs, California.",
-      "categories": [
-        "Movies",
-        "Music",
-        "Miley Cyrus"
       ],
       "site": "https://www.myjoyonline.com/"
     },
