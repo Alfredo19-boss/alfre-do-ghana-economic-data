@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:43:58.139Z",
+  "updated": "2026-11-23T15:53:56.804Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AG identifies gap between Ghana’s minimum marriage age and age of sexual consent",
+      "link": "https://www.myjoyonline.com/ag-identifies-gap-between-ghanas-minimum-marriage-age-and-age-of-sexual-consent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:52:31.000Z",
+      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine has identified a legal disparity between Ghana’s minimum age of marriage and the age of sexual consent, saying proposed amendments…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cassava Processor innovator wins GH¢300,000 MTN Pitch",
+      "link": "https://www.myjoyonline.com/cassava-processor-innovator-wins-gh%c2%a2300000-mtn-pitch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:50:00.000Z",
+      "summary": "A young social innovator has won the maiden MTN National Business Pitch Competition for using locally made machines to solve cassava waste challenges. Theophilus Aboagye, CEO of Age…",
+      "categories": [
+        "Photo Story",
+        "Angela Mensah Poku",
+        "MTN",
+        "National Business Pitch"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AG urges Parliament to pass revised Intestate Succession Bill after 40 years of PNDCL 111",
+      "link": "https://www.myjoyonline.com/ag-urges-parliament-to-pass-revised-intestate-succession-bill-after-40-years-of-pndcl-111/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:45:14.000Z",
+      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine has urged Parliament to expedite the passage of the revised Intestate Succession Bill, saying the existing law needs to be updated…",
+      "categories": [
+        "National",
+        "AG",
+        "Intestate Succession Bill",
+        "Parliament",
+        "PNDCL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Education Minister announces two-year BECE ban for JHS 1 and 2 students who write exams ahead of schedule",
       "link": "https://ghanaiantimes.com.gh/education-minister-announces-two-year-bece-ban-for-jhs-1-and-2-students-who-write-exams-ahead-of-schedule/",
@@ -102,49 +142,6 @@ window.GDC_PAPERS = {
         "Deception",
         "Money politics",
         "Nhyiaeso MP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Building A Nation of Good Citizens: Kofi A. Tawiah Foundation champions sustainable character education in schools",
-      "link": "https://www.myjoyonline.com/building-a-nation-of-good-citizens-kofi-a-tawiah-foundation-champions-sustainable-character-education-in-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:08:35.000Z",
-      "summary": "At a time when concerns about declining social values, examination malpractice, corruption, indiscipline and ethical leadership continue to feature prominently in Ghana’s national…",
-      "categories": [
-        "Education",
-        "Kofi A. Tawiah Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Think before you connect: One careless click could compromise your digital security",
-      "link": "https://www.myjoyonline.com/think-before-you-connect-one-careless-click-could-compromise-your-digital-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:02:59.000Z",
-      "summary": "The free Wi-Fi network, public charging station or unfamiliar mobile application that makes life easier could also expose users to cybercriminals. The Ontario Provincial Police (OPP) is…",
-      "categories": [
-        "HP Opinion 4",
-        "National",
-        "Opinion",
-        "Technology",
-        "digital security",
-        "Stephen Armah Quaye",
-        "Wi-Fi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prez Mahama congratulates Black Challenge after Amputee World Cup win",
-      "link": "https://www.myjoyonline.com/prez-mahama-congratulates-black-challenge-after-amputee-world-cup-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:59:11.000Z",
-      "summary": "President of Ghana John Dramani Mahama has congratulated the Black Challenge following the 2026 Amputee World Cup triumph. Ghana defeated Morocco in the final of the competition in the…",
-      "categories": [
-        "Football",
-        "2026 World Amputee World Cup",
-        "Black Challenge",
-        "John Dramani Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
