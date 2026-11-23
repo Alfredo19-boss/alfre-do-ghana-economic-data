@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T05:05:21.969Z",
+  "updated": "2026-11-23T05:15:21.394Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Plastic-choked beaches: Coastal livelihoods under threat",
+      "link": "https://www.myjoyonline.com/plastic-choked-beaches-coastal-livelihoods-under-threat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:05:38.000Z",
+      "summary": "Towering drifts of crushed water sachets, bleached single-use grocery bags, tangled heaps of monofilament fishing nets, and sun-faded plastic bottles stretch along the seashore as far as…",
+      "categories": [
+        "National",
+        "Plastic-choked beaches"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Efya makes first public appearance after marriage",
       "link": "https://www.myjoyonline.com/efya-makes-first-public-appearance-after-marriage/",
@@ -111,22 +123,6 @@ window.GDC_PAPERS = {
         "National",
         "Bank of Ghana (BoG)",
         "MPC meeting"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government opens GH¢28.8bn early buyback offer for DDEP bondholders today",
-      "link": "https://www.myjoyonline.com/government-opens-gh%c2%a228-8bn-early-buyback-offer-for-ddep-bondholders-today/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:09:00.000Z",
-      "summary": "Government is opening a voluntary offer today, November 23, to buy back up to GH¢28.8 billion in Domestic Debt Exchange Programme (DDEP) bonds ahead of their February 2027 maturity.",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 1",
-        "HP News 3",
-        "National",
-        "bondholders",
-        "Domestic Debt Exchange Programme (DDEP)"
       ],
       "site": "https://www.myjoyonline.com/"
     },

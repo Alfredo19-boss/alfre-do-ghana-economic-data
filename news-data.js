@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T05:04:51.660Z",
+  "updated": "2026-11-23T05:14:52.976Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEXPO 2026: Do You Want to Try Chocolate with Chilli, How About with Kelewele?",
+      "link": "https://thehighstreetjournal.com/gexpo-2026-do-you-want-to-try-chocolate-with-chilli-how-about-with-kelewele/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:05:00.000Z",
+      "summary": "GEXPO 2026 showcases innovative Ghanaian cocoa—featuring multi-flavor lines, kelewele and chilli chocolates, a chocolate fountain, and creative cocoa treats at Black Star Square."
+    },
     {
       "title": "Gold Price Rebounds on Sunday Evening, With COMEX Futures Up About 2.8%: What Does the Week Hold?",
       "link": "https://thehighstreetjournal.com/gold-price-rebounds-on-sunday-evening-with-comex-futures-up-about-2-8-what-does-the-week-hold/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:01:00.000Z",
       "summary": "Ghana recorded US$30.42 billion in exports by October 2026, with gold contributing nearly 69%, raising questions about export diversification despite a US$13 billion trade surplus."
-    },
-    {
-      "title": "Patricia Sappor Takes Charge of CXP Ghana as Customer Experience Gains Business Importance",
-      "link": "https://thehighstreetjournal.com/patricia-sappor-takes-charge-of-cxp-ghana-as-customer-experience-gains-business-importance/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:00:00.000Z",
-      "summary": "Veteran banker Patricia Sappor has been appointed CXP Ghana Council Chair, bringing 33 years of experience to efforts to strengthen customer-centred business practices."
     }
   ]
 };
