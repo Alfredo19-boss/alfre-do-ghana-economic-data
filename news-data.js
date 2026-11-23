@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T12:03:25.937Z",
+  "updated": "2026-11-23T12:13:29.360Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "CERPA Boss Calls for Policy Consistency to Deliver the 2027 Budget’s Production Agenda",
+      "link": "https://thehighstreetjournal.com/cerpa-boss-calls-for-policy-consistency-to-deliver-the-2027-budgets-production-agenda/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T12:04:45.000Z",
+      "summary": "Ebenezer Amankwah-Minkah commends Government’s fiscal discipline and urges a balanced financing mix that keeps credit flowing to the private sector"
+    },
     {
       "title": "Volta Lake Weeds Could Become New Source of Organic Fertiliser for Farmers",
       "link": "https://thehighstreetjournal.com/volta-lake-weeds-could-become-new-source-of-organic-fertiliser-for-farmers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T08:25:37.000Z",
       "summary": "The Bank of Ghana cut its policy rate by 300 basis points to 11%, supported by declining inflation, stronger economic activity and improved reserves, while introducing monetary reforms to…"
-    },
-    {
-      "title": "Absa employees promote financial inclusion through Makola Market outreach",
-      "link": "https://www.myjoyonline.com/absa-employees-promote-financial-inclusion-through-makola-market-outreach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T07:24:38.000Z",
-      "summary": "Over 100 women traders at Makola Market have benefited from a financial literacy outreach led by Absa Bank Ghana employees as part of the bank's Colleague Volunteerism programme, a key…"
     }
   ]
 };
