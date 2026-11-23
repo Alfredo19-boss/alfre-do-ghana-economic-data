@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:15:25.313Z",
+  "updated": "2026-11-23T03:25:22.968Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -63,6 +63,31 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Trump to welcome investors at gala for his plunging meme coin",
+      "link": "https://www.myjoyonline.com/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:55:00.000Z",
+      "summary": "US President Donald Trump will headline his third meme coin gala on ‌Sunday night at his country club outside Washington, DC, for top token holders, whose tokens were once worth about $75…",
+      "categories": [
+        "International",
+        "Donald Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fela never recovered from his mother’s death – Femi Kuti",
+      "link": "https://www.myjoyonline.com/fela-never-recovered-from-his-mothers-death-femi-kuti/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:46:00.000Z",
+      "summary": "Afrobeat legend Femi Kuti has said that his late father, Afrobeat pioneer Fela Anikulapo-Kuti, never fully recovered from the death of his mother, Funmilayo Ransome-Kuti, before his own…",
+      "categories": [
+        "Music",
+        "Fela Kuti",
+        "Femi Kuti"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "FIP Bronze S2 Accra: Ghana takes major step in Padel development with historic tournament",
       "link": "https://www.myjoyonline.com/fip-bronze-s2-accra-ghana-takes-major-step-in-padel-development-with-historic-tournament/",
       "source": "MyJoyOnline",
@@ -117,30 +142,6 @@ window.GDC_PAPERS = {
         "International",
         "George Washington",
         "Hair"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.myjoyonline.com/fbi-reportedly-investigating-apparent-hack-of-its-criminal-database/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:16:00.000Z",
-      "summary": "The FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue.",
-      "categories": [
-        "International",
-        "FBI"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "link": "https://www.myjoyonline.com/italian-jeweller-and-businessman-paolo-bulgari-dies-aged-89/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:05:00.000Z",
-      "summary": "Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, died in Rome at 89.",
-      "categories": [
-        "Fashion",
-        "Paolo Bulgari"
       ],
       "site": "https://www.myjoyonline.com/"
     },
