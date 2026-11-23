@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T06:54:52.265Z",
+  "updated": "2026-11-23T07:04:51.618Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 2/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Rising shipping costs could push up prices of goods in Ghana – Expert",
+      "link": "https://www.ghanabusinessnews.com/2026/11/23/rising-shipping-costs-could-push-up-prices-of-goods-in-ghana-expert/",
+      "source": "Ghana Business News",
+      "published": "2026-11-23T07:04:13.000Z",
+      "summary": "Dr Evans Ago Tetteh, Alternate Permanent Representative of Ghana to the International Maritime Organization (GNA), has said that increases in international shipping and freight costs can…"
+    },
     {
       "title": "Africa pushes for fairer global tax rules ahead of Nairobi negotiations",
       "link": "https://www.ghanabusinessnews.com/2026/11/23/africa-pushes-for-fairer-global-tax-rules-ahead-of-nairobi-negotiations/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T05:08:00.000Z",
       "summary": "Chief of Staff Julius Debrah has urged Chinese businesses and institutions to manufacture in Ghana, work with local suppliers and share technology and skills to support the country’s…"
-    },
-    {
-      "title": "GEXPO 2026 ENTERS DAY TWO WITH OVER 400 EXHIBITORS SHOWCASING MADE-IN-GHANA PRODUCTS",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-enters-day-two-with-over-400-exhibitors-showcasing-made-in-ghana-products/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:05:00.000Z",
-      "summary": "From indigenous jewellery, garments and shea products to pharmaceuticals, food and arts, the fair is showcasing Ghanaian enterprise and opening doors to wider market opportunities."
     }
   ]
 };

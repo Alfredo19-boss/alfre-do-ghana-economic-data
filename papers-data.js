@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T06:55:23.386Z",
+  "updated": "2026-11-23T07:05:22.190Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Govt backs $250m bauxite deal • Ecobank strengthens presence in Awaso",
+      "link": "https://ghanaiantimes.com.gh/govt-backs-250m-bauxite-deal-ecobank-strengthens-presence-in-awaso/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:05:04.000Z",
+      "summary": "THE government has thrown its weight behind a $250 million financing arrangement to expand operations at Ghana Bauxite Company (GBC) Limited, in a move expected to boost production, create…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Productivity rises, but workers’ earnings lag — GSS report reveals",
+      "link": "https://ghanaiantimes.com.gh/productivity-rises-but-workers-earnings-lag-gss-report-reveals/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:56:57.000Z",
+      "summary": "THE number of employed people in Ghana has more than doubled over the past 35 years, rising from six million in 1992 to 13.3 million in 2025, but the majority of workers remain in the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Newmont urged to deepen local content, environmental protection",
       "link": "https://ghanaiantimes.com.gh/newmont-urged-to-deepen-local-content-environmental-protection/",
@@ -103,18 +127,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GCTU fresher dies in motorcycle accident days after matriculation",
-      "link": "https://ghanaiantimes.com.gh/gctu-fresher-dies-in-motorcycle-accident-days-after-matriculation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:10:51.000Z",
-      "summary": "A PROMISING Level 100 student of the Ghana Communication Technology University (GCTU), Philipa Acquah, who emerged as the university’s Best Entrant for 2026, has died in a motorcycle…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana, UK target terrorism, cybercrime and fraud at London security talks",
       "link": "https://www.myjoyonline.com/ghana-uk-target-terrorism-cybercrime-and-fraud-at-london-security-talks/",
       "source": "MyJoyOnline",
@@ -126,17 +138,6 @@ window.GDC_PAPERS = {
         "Terrorism"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three suspects remanded over alleged stealing of 2-year-old baby at Anloga",
-      "link": "https://ghanaiantimes.com.gh/three-suspects-remanded-over-alleged-stealing-of-2-year-old-baby-at-anloga/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:06:58.000Z",
-      "summary": "THREE suspects identified as Godswill Gologa, aged 19, Emmanuel Tetteh, 24, and Promise Gada, 20, have been remanded into police custody by the Anloga District Magistrate Court for…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
