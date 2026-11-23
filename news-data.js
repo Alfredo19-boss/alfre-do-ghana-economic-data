@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T04:24:50.869Z",
+  "updated": "2026-11-23T04:34:54.241Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
+      "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:22:00.000Z",
+      "summary": "Commercial banks will pay less to borrow overnight from the Bank of Ghana after its latest policy rate cut. However, a narrower policy corridor could push short-term market rates higher…"
+    },
+    {
+      "title": "Government opens GH¢28.8bn early buyback offer for DDEP bondholders today",
+      "link": "https://www.myjoyonline.com/government-opens-gh%c2%a228-8bn-early-buyback-offer-for-ddep-bondholders-today/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:09:00.000Z",
+      "summary": "Government is opening a voluntary offer today, November 23, to buy back up to GH¢28.8 billion in Domestic Debt Exchange Programme (DDEP) bonds ahead of their February 2027 maturity."
+    },
     {
       "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
       "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T00:33:00.000Z",
       "summary": "The Co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, has called for a clear roadmap to deliver Ghana’s gold refining targets, saying promises…"
-    },
-    {
-      "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:06:00.000Z",
-      "summary": "The government’s 2027 Budget targets 100% local refining of artisanal and small-scale mining (ASM) gold by 2028. But Dr Ken Ashigbey says local refining alone will not secure premium prices…"
-    },
-    {
-      "title": "Banks NPL declined to 13.1% in October 2026",
-      "link": "https://www.myjoyonline.com/banks-npl-declined-to-13-1-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T00:05:30.000Z",
-      "summary": "The Non-Performing Loan (NPL) ratio in the banking industry declined to 13.1% in October 2026 from 19.5% over the same period the previous year. According to the Bank of Ghana, this was…"
     }
   ]
 };

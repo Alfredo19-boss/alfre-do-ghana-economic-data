@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T04:25:21.529Z",
+  "updated": "2026-11-23T04:35:25.359Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
+      "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:22:00.000Z",
+      "summary": "Commercial banks will pay less to borrow overnight from the Bank of Ghana after its latest policy rate cut. However, a narrower policy corridor could push short-term market rates higher…",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 2",
+        "National",
+        "Bank of Ghana (BoG)",
+        "MPC meeting"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government opens GH¢28.8bn early buyback offer for DDEP bondholders today",
+      "link": "https://www.myjoyonline.com/government-opens-gh%c2%a228-8bn-early-buyback-offer-for-ddep-bondholders-today/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:09:00.000Z",
+      "summary": "Government is opening a voluntary offer today, November 23, to buy back up to GH¢28.8 billion in Domestic Debt Exchange Programme (DDEP) bonds ahead of their February 2027 maturity.",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 1",
+        "HP News 3",
+        "National",
+        "bondholders",
+        "Domestic Debt Exchange Programme (DDEP)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Black Challenge conquer the world as Ghana beat Morocco to claim historic title",
       "link": "https://www.myjoyonline.com/black-challenge-conquer-the-world-as-ghana-beat-morocco-to-claim-historic-title/",
@@ -99,31 +130,6 @@ window.GDC_PAPERS = {
         "International",
         "JD Vance",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
-      "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:42:00.000Z",
-      "summary": "The US Securities and Exchange Commission is probing Nvidia's accounting practices, two people briefed on the matter said, adding to the legal woes facing the scandal-hit chip giant.",
-      "categories": [
-        "Technology",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "link": "https://www.myjoyonline.com/democrats-win-largest-house-majority-since-1992-after-flipping-north-carolina-seat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:33:00.000Z",
-      "summary": "The Democratic Party has won the largest majority in the US House of Representatives since 1992, after Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North…",
-      "categories": [
-        "International",
-        "Democrats",
-        "US Senate"
       ],
       "site": "https://www.myjoyonline.com/"
     },
