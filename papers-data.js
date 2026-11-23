@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-22T23:32:11.880Z",
+  "updated": "2026-11-23T00:12:10.746Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
+      "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:59:46.000Z",
+      "summary": "According to the highlights, sustaining monthly Sinking Fund transfers (7% of non-oil tax revenue), lengthening the domestic maturity profile and keeping debt near the 45% of Gross Domestic…",
+      "categories": [
+        "Business",
+        "Economy",
+        "DDEP",
+        "DSA",
+        "KPMG",
+        "Ministry of Finance",
+        "Sinking Fund",
+        "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
       "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
@@ -118,22 +136,6 @@ window.GDC_PAPERS = {
         "Music",
         "Franics Amissah",
         "Swift Academy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ashanti NDC Communications Officer Kabore endorses Dr Sammy Ayeh for Deputy National Communications Officer role",
-      "link": "https://www.myjoyonline.com/ashanti-ndc-communications-officer-kabore-endorses-dr-sammy-ayeh-for-deputy-national-communications-officer-role/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:25:41.000Z",
-      "summary": "The newly elected Ashanti Regional Communications Officer of the National Democratic Congress (NDC), Mahmud Kabore, has endorsed Dr Sammy Ayeh for the position of Deputy National…",
-      "categories": [
-        "National",
-        "Politics",
-        "Deputy National Communications Officer",
-        "Dr Sammy Ayeh",
-        "Kabore",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },

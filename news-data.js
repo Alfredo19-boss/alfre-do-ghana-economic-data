@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-22T23:31:40.981Z",
+  "updated": "2026-11-23T00:11:41.084Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
+      "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:59:46.000Z",
+      "summary": "According to the highlights, sustaining monthly Sinking Fund transfers (7% of non-oil tax revenue), lengthening the domestic maturity profile and keeping debt near the 45% of Gross Domestic…"
+    },
     {
       "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
       "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T22:53:00.000Z",
       "summary": "Ghana could earn more from gold exports and access mainstream markets if it backs its local refining drive with LBMA certification, Dr Steven Manteaw said."
-    },
-    {
-      "title": "‘It is doable’ – Steven Manteaw backs 100% local gold refining target",
-      "link": "https://www.myjoyonline.com/it-is-doable-steven-manteaw-backs-100-local-gold-refining-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T22:35:00.000Z",
-      "summary": "The co-chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Steven Manteaw, says Ghana can achieve its target of refining all artisanal and small-scale mining (ASM)…"
     }
   ]
 };
