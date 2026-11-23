@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:13:58.142Z",
+  "updated": "2026-11-23T13:33:57.484Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Tension at Suame Magazine as local artisans lock up shops of foreign dealers",
+      "link": "https://www.myjoyonline.com/tension-at-suame-magazine-as-local-artisans-lock-up-shops-of-foreign-dealers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:30:34.000Z",
+      "summary": "Tension is mounting at Suame industrial enclave in the Ashanti Region after local artisans reportedly attacked some foreign spare-parts dealers over allegations of unfair competition and…",
+      "categories": [
+        "National",
+        "Foreigers",
+        "Suame Magazine",
+        "Tension"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Aburi Girls 2001 year group honours Dr Rosemary Akolaa and 16 other former teachers",
+      "link": "https://www.myjoyonline.com/aburi-girls-2001-year-group-honours-dr-rosemary-akolaa-and-16-other-former-teachers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:29:48.000Z",
+      "summary": "The 2001 year group of the Aburi Old Girls Association (AOGA) has honoured 17 former teachers of Aburi Girls Senior High School in recognition of their contributions to the education and…",
+      "categories": [
+        "Education",
+        "National",
+        "Aburi Girls Old Girls' Assocition",
+        "Aburi Girls Senior High School",
+        "Dr Rosemary Anderson Akolaa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Man arrested in Kwahu Kotoso for allegedly killing 10-year-old son",
       "link": "https://www.myjoyonline.com/man-arrested-in-kwahu-kotoso-for-allegedly-killing-10-year-old-son/",
       "source": "MyJoyOnline",
@@ -28,6 +57,9 @@ window.GDC_PAPERS = {
       "summary": "A man in his 30s, identified only as Noah, has been arrested by the police following the alleged killing of a 10-year-old child at Kotoso in the Kwahu area of the Eastern Region.",
       "categories": [
         "Crime",
+        "HP News 3",
+        "National",
+        "News",
         "Kwahu Kotoso",
         "Son"
       ],
@@ -42,6 +74,7 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "News",
+        "Top Story",
         "France cocaine case",
         "NACOC"
       ],
@@ -67,7 +100,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T12:48:05.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson has outlined the government's plans to develop Ghana's first state-owned nuclear power plant, describing the project as a major investment in…",
       "categories": [
-        "HP News 3",
         "National",
         "Ato Forson",
         "Nuclear Power Project"
@@ -99,40 +131,6 @@ window.GDC_PAPERS = {
         "Conflicts",
         "Deputy Interior Minister",
         "regional security"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From national service to future leadership: Why mentorship matters more than ever",
-      "link": "https://www.myjoyonline.com/from-national-service-to-future-leadership-why-mentorship-matters-more-than-ever/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:36:29.000Z",
-      "summary": "Every year, thousands of talented graduates enter the workforce full of ambition, potential, and academic knowledge. Yet many quickly discover that success in the workplace requires much…",
-      "categories": [
-        "National",
-        "Opinion",
-        "future leadership",
-        "mentorship",
-        "National Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GISPA moves to strengthen industry collaboration and advocacy across Ghana’s digital sector",
-      "link": "https://www.myjoyonline.com/gispa-moves-to-strengthen-industry-collaboration-and-advocacy-across-ghanas-digital-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:35:22.000Z",
-      "summary": "The renewed direction was underscored at an industry networking reception in Accra, which brought together key players across the sector, including Mobile Network Operators (MNOs), Internet…",
-      "categories": [
-        "Business",
-        "Technology",
-        "Chamber of Telecommunications",
-        "GISPA",
-        "ISPS",
-        "Micheal K. K Nfodzo",
-        "Ministry of Cmmunication",
-        "MNOs",
-        "NCA"
       ],
       "site": "https://www.myjoyonline.com/"
     },

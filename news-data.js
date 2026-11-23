@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T13:13:27.227Z",
+  "updated": "2026-11-23T13:33:26.908Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "UniMAC’s Graduate Surge Puts Ghana’s Creative Jobs Challenge in Focus",
+      "link": "https://thehighstreetjournal.com/unimacs-graduate-surge-puts-ghanas-creative-jobs-challenge-in-focus/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T13:30:00.000Z",
+      "summary": "The 57.6 per cent increase in graduates raises questions about how industry partnerships, investment and innovation can turn Ghana’s growing creative talent into jobs and economic…"
+    },
     {
       "title": "GISPA moves to strengthen industry collaboration and advocacy across Ghana’s digital sector",
       "link": "https://www.myjoyonline.com/gispa-moves-to-strengthen-industry-collaboration-and-advocacy-across-ghanas-digital-sector/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T10:30:38.000Z",
       "summary": "Ghana’s public debt rose by GH¢128 billion to GH¢759.3 billion in October 2026, driven largely by a 37.6% surge in domestic borrowing, despite a slight decline in external debt in dollar…"
-    },
-    {
-      "title": "GRA Flags VAT Infractions At Almost All 14 Shops Inspected At Achimota Retail Centre",
-      "link": "https://thehighstreetjournal.com/gra-flags-vat-infractions-at-almost-all-14-shops-inspected-at-achimota-retail-centre/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T09:45:49.000Z",
-      "summary": "The GRA has uncovered VAT infractions at almost all 14 shops inspected at Achimota Retail Centre, warning businesses to comply with invoicing, declaration and payment requirements."
     }
   ]
 };
