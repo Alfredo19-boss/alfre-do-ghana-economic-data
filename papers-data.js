@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T06:45:22.198Z",
+  "updated": "2026-11-23T06:55:23.386Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Newmont urged to deepen local content, environmental protection",
+      "link": "https://ghanaiantimes.com.gh/newmont-urged-to-deepen-local-content-environmental-protection/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:50:42.000Z",
+      "summary": "NEWMONT Ghana Gold Limited has been urged to deepen its investment in local businesses and strengthen environmental protection as it marks 20 years of commercial gold production at its…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "When official messages confuse rather than inform: Is Ghana facing a communication problem?",
+      "link": "https://ghanaiantimes.com.gh/when-official-messages-confuse-rather-than-inform-is-ghana-facing-a-communication-problem/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:46:41.000Z",
+      "summary": "WHAT is the value of an official announcement if the people for whom it is intended cannot understand it? Should citizens struggle to interpret government directives, hospital instructions…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
       "link": "https://ghanaiantimes.com.gh/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
@@ -281,30 +304,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ablakwa elected Chair of Nordic-African Foreign Ministers for 2027",
-      "link": "https://ghanaiantimes.com.gh/ablakwa-elected-chair-of-nordic-african-foreign-ministers-for-2027/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T15:53:18.000Z",
-      "summary": "Ghana’s Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has been elected Chair of the Nordic-African Foreign Ministers’ Meeting for 2027. He is expected to succeed Norway’s Foreign…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to face Turkey in WAFF Amputee Football World Cup semi-final",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-face-turkey-in-waff-amputee-football-world-cup-semi-final/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T15:33:25.000Z",
-      "summary": "Ghana’s National Amputee Football Team, the Black Challenge, will face Turkey in the semi-final of the WAFF Amputee Football World Cup 2026 in Mexico. The highly anticipated encounter is…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };

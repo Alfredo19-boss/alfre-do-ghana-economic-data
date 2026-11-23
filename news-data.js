@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T06:44:53.494Z",
+  "updated": "2026-11-23T06:54:52.265Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 1/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Africa pushes for fairer global tax rules ahead of Nairobi negotiations",
+      "link": "https://www.ghanabusinessnews.com/2026/11/23/africa-pushes-for-fairer-global-tax-rules-ahead-of-nairobi-negotiations/",
+      "source": "Ghana Business News",
+      "published": "2026-11-23T06:52:49.000Z",
+      "summary": "African countries must secure stronger taxing rights and a greater voice in shaping global tax rules as negotiations advance on a new United Nations Framework Convention on International…"
+    },
     {
       "title": "Bank of Ghana policy rate cut brings single-digit lending rates closer – Economist",
       "link": "https://www.ghanabusinessnews.com/2026/11/23/bank-of-ghana-policy-rate-cut-brings-single-digit-lending-rates-closer-economist/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:05:00.000Z",
       "summary": "From indigenous jewellery, garments and shea products to pharmaceuticals, food and arts, the fair is showcasing Ghanaian enterprise and opening doors to wider market opportunities."
-    },
-    {
-      "title": "GEXPO 2026 Opens With 500 Businesses Targeting New Markets",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-opens-with-500-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:05:00.000Z",
-      "summary": "The five-day GEXPO 2026, organised by Accra Market and Expo Limited under the auspices of the Ministry of Trade, Agribusiness and Industry and the Ghana Export Promotion Authority (GEPA)…"
     }
   ]
 };
