@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:55:22.914Z",
+  "updated": "2026-11-23T04:05:24.234Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
+      "link": "https://www.myjoyonline.com/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T03:16:00.000Z",
+      "summary": "World Health Organisation (WHO) chief Tedros Adhanom Ghebreyesus said on Sunday that heavy fighting ​near a hospital in Democratic Republic of ‌Congo's Ituri province disrupted Ebola…",
+      "categories": [
+        "Africa",
+        "Ebola",
+        "WHO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kate, Britain’s Princess of Wales, to feature in documentary about cancer recovery",
+      "link": "https://www.myjoyonline.com/kate-britains-princess-of-wales-to-feature-in-documentary-about-cancer-recovery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T03:05:00.000Z",
+      "summary": "Kate, Britain's Princess of Wales, will reflect on her experience with cancer and recovery in a documentary to ​be broadcast internationally this month, Kensington Palace said on ‌Saturday.",
+      "categories": [
+        "International",
+        "Kate",
+        "Princess of Wales"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
+      "link": "https://www.myjoyonline.com/us-vice-president-vance-declines-to-say-he-would-have-ordered-iran-strikes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:56:00.000Z",
+      "summary": "US Vice President JD Vance on ​Friday declined to say whether he would have authorised strikes on Iran to prevent the country from developing a nuclear weapon, ‌sidestepping President…",
+      "categories": [
+        "International",
+        "JD Vance",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
       "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
@@ -90,50 +129,6 @@ window.GDC_PAPERS = {
         "Fitch Solutions",
         "Multilateral creditors",
         "Sinking Fund"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A resurgent ‘Hunger Games’ goes big at the box office, despite competition of ‘Grand Theft Auto VI’",
-      "link": "https://www.myjoyonline.com/a-resurgent-hunger-games-goes-big-at-the-box-office-despite-competition-of-grand-theft-auto-vi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T00:18:00.000Z",
-      "summary": "Fourteen years and six movies in, “The Hunger Games” movie franchise rediscovered its box-office might, as “Sunrise on the Reaping” debuted with $120 million in North American theatres over…",
-      "categories": [
-        "Movies",
-        "GTA 6",
-        "Hunger Games"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Melania Trump gives a peek inside her marriage, motherhood and more in new series",
-      "link": "https://www.myjoyonline.com/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T00:07:00.000Z",
-      "summary": "Melania Trump is back on screens on Friday with another behind-the-scenes look at her life before and after she became first lady, discussing her marriage to President Donald Trump, her…",
-      "categories": [
-        "International",
-        "Melania Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
-      "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:59:46.000Z",
-      "summary": "According to the highlights, sustaining monthly Sinking Fund transfers (7% of non-oil tax revenue), lengthening the domestic maturity profile and keeping debt near the 45% of Gross Domestic…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "DDEP",
-        "DSA",
-        "KPMG",
-        "Ministry of Finance",
-        "Sinking Fund",
-        "UNDP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
