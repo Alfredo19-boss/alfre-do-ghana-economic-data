@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T00:12:10.746Z",
+  "updated": "2026-11-23T00:32:10.882Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,20 @@ window.GDC_PAPERS = {
         "Ministry of Finance",
         "Sinking Fund",
         "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FIP Bronze S2 Accra: Ghana takes major step in Padel development with historic tournament",
+      "link": "https://www.myjoyonline.com/fip-bronze-s2-accra-ghana-takes-major-step-in-padel-development-with-historic-tournament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-22T23:45:00.000Z",
+      "summary": "Ghana made history on Sunday as the first International Padel Federation Bronze tournament in the country successfully concluded at the S2 Sport Club in Spintex, Accra. The FIP Bronze S2…",
+      "categories": [
+        "Other Sports",
+        "Sports",
+        "Adamu Benin Abdul Karim",
+        "FIP Bronze S2 Accra"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -122,20 +136,6 @@ window.GDC_PAPERS = {
       "summary": "Barcelona scored three goals in 10 minutes to return to the top of La Liga with a victory over Villarreal at Spotify Nou Camp.",
       "categories": [
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Francis Amissah joins Martell’s Swift Academy in Accra",
-      "link": "https://www.myjoyonline.com/francis-amissah-joins-martells-swift-academy-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:40:09.000Z",
-      "summary": "Ghanaian public relations consultant Francis Amissah, popularly known in entertainment circles as Banks, is set to participate in the Accra edition of Martell’s Swift Academy, an initiative…",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "Franics Amissah",
-        "Swift Academy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
