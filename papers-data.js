@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:58:57.334Z",
+  "updated": "2026-11-23T14:08:59.808Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mr. Frank Mackay Anim-Appiah",
+      "link": "https://www.myjoyonline.com/mr-frank-mackay-anim-appiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:06:51.000Z",
+      "summary": "Okofrobour Baffour Kwame Asante II (Tapahene), Nana Attakora Boateng II (Amanya Krontinene), Okyeamepayin Kwame Amoah Gyamano, Abusaupanyin T.K Dzavor, Most Rev.Simon Kofi Appiah(Catholic…",
+      "categories": [
+        "Obituary",
+        "Mr. Frank Mackay Anim-Appiah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Break your necks, but don’t break Ghana again – NDC Ablekuma Women’s organiser fires NPP counterpart",
+      "link": "https://www.myjoyonline.com/break-your-necks-but-dont-break-ghana-again-ndc-ablekuma-womens-organiser-fires-npp-counterpart/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:04:09.000Z",
+      "summary": "The newly elected National Democratic Congress (NDC) Women’s Organiser for Ablekuma West, Marian Marie Addo, has criticised comments attributed to her New Patriotic Party (NPP) counterpart…",
+      "categories": [
+        "National",
+        "Politics",
+        "Ablekuma",
+        "NDC",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New directive limited to institutions seeking approval to introduce fresh PhD programmes – GTEC clarifies",
+      "link": "https://www.myjoyonline.com/new-directive-limited-to-institutions-seeking-approval-to-introduce-fresh-phd-programmes-gtec-clarifies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:58:03.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has clarified that its directive suspending new applications from tertiary institutions seeking approval to run PhD programmes does not affect…",
+      "categories": [
+        "National",
+        "GTEC",
+        "PhD programme applications"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
       "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
@@ -94,53 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Tension at Suame Magazine as local artisans lock up shops of foreign dealers",
-      "link": "https://www.myjoyonline.com/tension-at-suame-magazine-as-local-artisans-lock-up-shops-of-foreign-dealers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:30:34.000Z",
-      "summary": "Tension is mounting at Suame industrial enclave in the Ashanti Region after local artisans reportedly attacked some foreign spare-parts dealers over allegations of unfair competition and…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Foreigers",
-        "Suame Magazine",
-        "Tension"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Aburi Girls 2001 year group honours Dr Rosemary Akolaa and 16 other former teachers",
-      "link": "https://www.myjoyonline.com/aburi-girls-2001-year-group-honours-dr-rosemary-akolaa-and-16-other-former-teachers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:29:48.000Z",
-      "summary": "The 2001 year group of the Aburi Old Girls Association (AOGA) has honoured 17 former teachers of Aburi Girls Senior High School in recognition of their contributions to the education and…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "Aburi Girls Old Girls' Assocition",
-        "Aburi Girls Senior High School",
-        "Dr Rosemary Anderson Akolaa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man arrested in Kwahu Kotoso for allegedly killing 10-year-old son",
-      "link": "https://www.myjoyonline.com/man-arrested-in-kwahu-kotoso-for-allegedly-killing-10-year-old-son/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:07:10.000Z",
-      "summary": "A man in his 30s, identified only as Noah, has been arrested by the police following the alleged killing of a 10-year-old child at Kotoso in the Kwahu area of the Eastern Region.",
-      "categories": [
-        "Crime",
-        "HP News 7",
-        "National",
-        "News",
-        "Kwahu Kotoso",
-        "Son"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Petroleum workers threaten nationwide strike over NPA Bill",
       "link": "https://www.graphic.com.gh/news/general-news/petroleum-workers-threaten-nationwide-strike-over-npa-bill.html",
       "source": "Daily Graphic",
@@ -167,6 +160,17 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/dvla-opens-applications-for-2027-dv-trade-plates.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T10:53:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GAFM clarifies it is a professional certification body, not a degree- or diploma-awarding institution.",
+      "link": "https://www.graphic.com.gh/news/general-news/gafm-is-not-a-university-degree-granting-or-diploma-granting-institution.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T10:50:23.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -211,17 +215,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-cuts-vat-triples-threshold-to-ease-cost-of-doing-business-vice-president.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T08:22:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UG hostel fees controversy: Govt backs Rent Control bid to curb high charges",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ug-hostel-fees-controversy-govt-backs-rent-control-bid-to-curb-high-charges.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T08:18:41.000Z",
       "summary": "",
       "categories": [
         "General News"
