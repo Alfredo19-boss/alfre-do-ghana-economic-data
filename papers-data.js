@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:33:57.858Z",
+  "updated": "2026-11-23T15:43:58.139Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Education Minister announces two-year BECE ban for JHS 1 and 2 students who write exams ahead of schedule",
+      "link": "https://ghanaiantimes.com.gh/education-minister-announces-two-year-bece-ban-for-jhs-1-and-2-students-who-write-exams-ahead-of-schedule/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T15:42:09.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, has announced a two-year ban for students in Junior High School (JHS) 1 and 2 who attempt to write the Basic Education Certificate Examination…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gifted students should be exempted from BECE age restriction – IFEST",
+      "link": "https://www.myjoyonline.com/gifted-students-should-be-exempted-from-bece-age-restriction-ifest/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:41:00.000Z",
+      "summary": "The Institute for Education Studies (IFEST) has called on the Ministry of Education to make exceptions for exceptionally gifted students under its directive restricting early participation…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "BECE",
+        "Gifted students",
+        "IFEST"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Courts not forums for “vengeance against former employees” – Judge tells Lighthouse Chapel",
       "link": "https://www.myjoyonline.com/courts-not-forums-for-vengeance-against-former-employees-judge-tells-lighthouse-chapel/",
@@ -130,21 +158,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Zanetor, the Climate Summit and the Microphone that needed Resuscitation!",
-      "link": "https://www.myjoyonline.com/zanetor-the-climate-summit-and-the-microphone-that-needed-resuscitation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:55:44.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, the world's leaders assembled in Turkey to save a planet suffering from a dangerous fever. The wealthy nations arrived with elaborate…",
-      "categories": [
-        "Africa",
-        "Opinion",
-        "COP31",
-        "Dr Zanetor Agyeman-Rawlings",
-        "Republic of Uncommon Sense"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mubarik wins Golden Boot as Black Challenge conquer the World",
@@ -300,17 +313,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-23T07:54:02.000Z",
       "summary": "A fire at a sweets factory in Indonesia has killed at least three people and 36 others are missing. At least 15 people were rescued from the Fonusa Agung Mulia factory in Banten province…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghanaian boy killed in US ‘deserves better’ – New York Mayor",
-      "link": "https://ghanaiantimes.com.gh/ghanaian-boy-killed-in-us-deserves-better-new-york-mayor/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:51:56.000Z",
-      "summary": "A 15-year-old Ghanaian boy who was killed in the US last month was remembered as a hard-working student with dreams of becoming a doctor, as his father, New York City’s mayor and civil…",
       "categories": [
         "World"
       ],
