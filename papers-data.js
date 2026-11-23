@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T06:25:21.643Z",
+  "updated": "2026-11-23T06:45:22.198Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
+      "link": "https://ghanaiantimes.com.gh/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:44:40.000Z",
+      "summary": "NINE months in, a career Customs officer is proving that the best person to lead Customs is one who has lived it. There is an old saying in the corridors of the Customs Division: the job…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Speaker urges Africa to take ownership of its narrative",
+      "link": "https://ghanaiantimes.com.gh/speaker-urges-africa-to-take-ownership-of-its-narrative/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:38:02.000Z",
+      "summary": "THE Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin, has urged governments, legislatures and communication professionals to regard responsible communication as a democratic…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Economic growth must benefit workers",
+      "link": "https://ghanaiantimes.com.gh/economic-growth-must-benefit-workers/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:36:06.000Z",
+      "summary": "GHANA’S economy has made considerable progress over the past 35 years, but the question is whether ordinary workers have benefited sufficiently from that progress. The latest findings by…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Court grants teacher GH¢100,000 bail over sale of unregistered drugs",
       "link": "https://ghanaiantimes.com.gh/court-grants-teacher-gh%c2%a2100000-bail-over-sale-of-unregistered-drugs/",
@@ -269,42 +303,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Firefighters save three bedrooms as fire guts apartment at La Nkwantanang",
-      "link": "https://ghanaiantimes.com.gh/firefighters-save-three-bedrooms-as-fire-guts-apartment-at-la-nkwantanang/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T15:28:50.000Z",
-      "summary": "Firefighters from the Madina Fire Station have contained a domestic fire outbreak near the Jehovah’s Witnesses Kingdom Hall at Madina, La Nkwantanang. The crew swiftly brought the fire…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Courts to resume sitting as JUSAG, SSAJUG suspend strike",
-      "link": "https://ghanaiantimes.com.gh/courts-to-resume-sitting-as-jusag-ssajug-suspend-strike/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T15:20:15.000Z",
-      "summary": "The Judicial Service of Ghana has announced that courts across the country will resume normal sittings on Tuesday, November 10, 2026, following the suspension of the industrial action by…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Norway deepen partnership with new support for startups, fintechs and green cement",
-      "link": "https://ghanaiantimes.com.gh/ghana-norway-deepen-partnership-with-new-support-for-startups-fintechs-and-green-cement/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T15:15:50.000Z",
-      "summary": "Ghana’s Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, has held a fruitful meeting with Norway’s Minister for International Development, H.E. Åsmund Grøver Aukrust, on the sidelines…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }

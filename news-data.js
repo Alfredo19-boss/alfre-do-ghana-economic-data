@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T06:24:51.070Z",
+  "updated": "2026-11-23T06:44:53.494Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bank of Ghana policy rate cut brings single-digit lending rates closer – Economist",
+      "link": "https://www.ghanabusinessnews.com/2026/11/23/bank-of-ghana-policy-rate-cut-brings-single-digit-lending-rates-closer-economist/",
+      "source": "Ghana Business News",
+      "published": "2026-11-23T06:44:13.000Z",
+      "summary": "Ghana has moved closer to a single-digit lending rate regime following the Bank of Ghana's decision to reduce its policy rate from 14 per cent to 11 per cent, Professor Godfred Alufar…"
+    },
     {
       "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
       "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:05:00.000Z",
       "summary": "The five-day GEXPO 2026, organised by Accra Market and Expo Limited under the auspices of the Ministry of Trade, Agribusiness and Industry and the Ghana Export Promotion Authority (GEPA)…"
-    },
-    {
-      "title": "Ghana Woos U.S. Virgin Islands Investors, Pitches as West Africa’s Manufacturing Hub and Gateway to Africa",
-      "link": "https://thehighstreetjournal.com/ghana-woos-u-s-virgin-islands-investors-pitches-as-west-africas-manufacturing-hub-and-gateway-to-africa/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:03:00.000Z",
-      "summary": "Ghana is courting Virgin Islands investors to establish businesses and access Africa's 1.4 billion-person market, while exploring US market access and maritime partnerships for local…"
     }
   ]
 };
