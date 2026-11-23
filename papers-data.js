@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:35:22.322Z",
+  "updated": "2026-11-23T03:45:22.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Seattle airport operator ‘outraged’ over ICE arrest of two passengers",
+      "link": "https://www.myjoyonline.com/seattle-airport-operator-outraged-over-ice-arrest-of-two-passengers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:22:00.000Z",
+      "summary": "US immigration authorities faced criticism after Immigration and Customs Enforcement (ICE) officers arrested two passengers as they were boarding a flight in Seattle.",
+      "categories": [
+        "International",
+        "ICE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Oil prices fall amid equity selloff, though Iran war attacks limit losses",
       "link": "https://www.myjoyonline.com/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses/",
@@ -123,19 +135,6 @@ window.GDC_PAPERS = {
         "Sports",
         "Adamu Benin Abdul Karim",
         "FIP Bronze S2 Accra"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FIFA to confirm UK as host for 2035 Women’s World Cup",
-      "link": "https://www.myjoyonline.com/fifa-to-confirm-uk-as-host-for-2035-womens-world-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:37:00.000Z",
-      "summary": "FIFA is set to confirm on Monday that the United Kingdom will host the first football World Cup since 1966.",
-      "categories": [
-        "Football",
-        "UK",
-        "Women's World Cup"
       ],
       "site": "https://www.myjoyonline.com/"
     },
