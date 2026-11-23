@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:33:57.484Z",
+  "updated": "2026-11-23T13:43:58.013Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘All the money we have spent will be in vain if NPP fails to regain power’ – NPP Organiser",
+      "link": "https://www.myjoyonline.com/all-the-money-we-have-spent-will-be-in-vain-if-npp-fails-to-regain-power-npp-organiser/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:37:36.000Z",
+      "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
+      "categories": [
+        "National",
+        "Politics",
+        "Ablekuma West",
+        "NPP",
+        "Power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Tension at Suame Magazine as local artisans lock up shops of foreign dealers",
       "link": "https://www.myjoyonline.com/tension-at-suame-magazine-as-local-artisans-lock-up-shops-of-foreign-dealers/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T13:30:34.000Z",
       "summary": "Tension is mounting at Suame industrial enclave in the Ashanti Region after local artisans reportedly attacked some foreign spare-parts dealers over allegations of unfair competition and…",
       "categories": [
+        "HP News 1",
         "National",
         "Foreigers",
         "Suame Magazine",
@@ -57,7 +73,7 @@ window.GDC_PAPERS = {
       "summary": "A man in his 30s, identified only as Noah, has been arrested by the police following the alleged killing of a 10-year-old child at Kotoso in the Kwahu area of the Eastern Region.",
       "categories": [
         "Crime",
-        "HP News 3",
+        "HP News 7",
         "National",
         "News",
         "Kwahu Kotoso",
@@ -117,20 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "Fire Safety",
         "Interior Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deputy Interior Minister calls for stronger regional security coordination to avert conflicts",
-      "link": "https://www.myjoyonline.com/deputy-interior-minister-calls-for-stronger-regional-security-coordination-to-avert-conflicts/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:40:34.000Z",
-      "summary": "Deputy Minister for the Interior, Ebenezer Okletey Terlabi, has warned regional and local authorities against adopting a reactive approach to security, urging them to identify potential…",
-      "categories": [
-        "National",
-        "Conflicts",
-        "Deputy Interior Minister",
-        "regional security"
       ],
       "site": "https://www.myjoyonline.com/"
     },
