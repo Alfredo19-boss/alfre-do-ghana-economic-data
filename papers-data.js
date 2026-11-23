@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:03:57.902Z",
+  "updated": "2026-11-23T13:13:58.142Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Man arrested in Kwahu Kotoso for allegedly killing 10-year-old son",
+      "link": "https://www.myjoyonline.com/man-arrested-in-kwahu-kotoso-for-allegedly-killing-10-year-old-son/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:07:10.000Z",
+      "summary": "A man in his 30s, identified only as Noah, has been arrested by the police following the alleged killing of a 10-year-old child at Kotoso in the Kwahu area of the Eastern Region.",
+      "categories": [
+        "Crime",
+        "Kwahu Kotoso",
+        "Son"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC denies unlawful detention of suspect in France cocaine case",
+      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:03:46.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) has denied allegations that it is unlawfully detaining a suspect linked to the 3.9-tonne cocaine seizure in France, insisting that the individual…",
+      "categories": [
+        "National",
+        "News",
+        "France cocaine case",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Assemblies of God leads Presbytery Executive to pay a courtesy call on Bank of Ghana Governor",
       "link": "https://www.myjoyonline.com/assemblies-of-god-leads-presbytery-executive-to-pay-a-courtesy-call-on-bank-of-ghana-governor/",
@@ -106,36 +133,6 @@ window.GDC_PAPERS = {
         "Ministry of Cmmunication",
         "MNOs",
         "NCA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SkyTrain trial adjourned as Solomon Asamoah seeks new lawyer",
-      "link": "https://www.myjoyonline.com/skytrain-trial-adjourned-as-solomon-asamoah-seeks-new-lawyer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:32:43.000Z",
-      "summary": "The Accra High Court has granted Solomon Asamoah, the first accused in the $2 million SkyTrain case, additional time to secure a new lawyer following the withdrawal of his previous counsel…",
-      "categories": [
-        "National",
-        "new counsel",
-        "Skytrain",
-        "Solomon Asamoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN donates computers to UMaT as student population grows",
-      "link": "https://www.myjoyonline.com/mtn-donates-computers-to-umat-as-student-population-grows/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:58:34.000Z",
-      "summary": "The University of Mines and Technology (UMaT), Tarkwa, is seeking to improve access to computer facilities after admitting more than 5,000 new students this academic year. Vice Chancellor…",
-      "categories": [
-        "Business",
-        "Telecom",
-        "David Woasey",
-        "MTN",
-        "Professor Kumi-Boateng",
-        "UMAT"
       ],
       "site": "https://www.myjoyonline.com/"
     },
