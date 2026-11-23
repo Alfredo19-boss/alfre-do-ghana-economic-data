@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T06:15:22.014Z",
+  "updated": "2026-11-23T06:25:21.643Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Court grants teacher GH¢100,000 bail over sale of unregistered drugs",
+      "link": "https://ghanaiantimes.com.gh/court-grants-teacher-gh%c2%a2100000-bail-over-sale-of-unregistered-drugs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:23:49.000Z",
+      "summary": "AN Accra Circuit Court has granted GH¢100,000 bail with two sureties to a teacher arrested over the alleged sale of unregistered drugs. The Court directed that one of the sureties should be…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
+      "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T06:16:00.000Z",
+      "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…",
+      "categories": [
+        "Banking and Finance",
+        "Kwamina Asomaning",
+        "Stanbic Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GCTU fresher dies in motorcycle accident days after matriculation",
       "link": "https://ghanaiantimes.com.gh/gctu-fresher-dies-in-motorcycle-accident-days-after-matriculation/",
@@ -132,18 +157,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Plastic-choked beaches"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Efya makes first public appearance after marriage",
-      "link": "https://www.myjoyonline.com/efya-makes-first-public-appearance-after-marriage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:53:00.000Z",
-      "summary": "Ghanaian songstress Efya made her first public appearance since marrying Nigerian musician Tomi Thomas, gracing the 5th anniversary celebration of Shapes By Nelson last Tuesday.",
-      "categories": [
-        "Music",
-        "Efya"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -289,18 +302,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-20T15:15:50.000Z",
       "summary": "Ghana’s Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, has held a fruitful meeting with Norway’s Minister for International Development, H.E. Åsmund Grøver Aukrust, on the sidelines…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Accra High Court restrains CLOGSAG from holding congress",
-      "link": "https://ghanaiantimes.com.gh/accra-high-court-restrains-clogsag-from-holding-congress/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T14:41:17.000Z",
-      "summary": "THE High Court in Accra has granted an interim injunction against the Quadrenial National Congress of the Civil and Local Government Staff Association ofGhana (CLOGSAG). It remains in for…",
       "categories": [
         "Hot!",
         "News"

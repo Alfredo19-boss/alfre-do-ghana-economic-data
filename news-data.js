@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T06:14:51.686Z",
+  "updated": "2026-11-23T06:24:51.070Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
+      "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T06:16:00.000Z",
+      "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…"
+    },
     {
       "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
       "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:03:00.000Z",
       "summary": "Ghana is courting Virgin Islands investors to establish businesses and access Africa's 1.4 billion-person market, while exploring US market access and maritime partnerships for local…"
-    },
-    {
-      "title": "Ghana Can Turn Its High-Quality Silica Into Solar Gold—Dr. Donkor Pushes for Local Panel Manufacturing",
-      "link": "https://thehighstreetjournal.com/ghana-can-turn-its-high-quality-silica-into-solar-gold-dr-donkor-pushes-for-local-panel-manufacturing/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:02:00.000Z",
-      "summary": "Dr. Kwabena Donkor urges Ghana to leverage its high-quality silica deposits to manufacture solar panels locally, supported by technology transfer, private investment, tax incentives…"
     }
   ]
 };
