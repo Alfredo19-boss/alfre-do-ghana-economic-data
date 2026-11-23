@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T17:09:03.790Z",
+  "updated": "2026-11-23T17:18:59.953Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,79 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Methodist Church demands accountability over alleged abuse of Obuasi students",
+      "link": "https://ghanaiantimes.com.gh/methodist-church-demands-accountability-over-alleged-abuse-of-obuasi-students/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:18:34.000Z",
+      "summary": "The Methodist Church Ghana has called for a thorough, independent and transparent investigation into allegations of sexual abuse involving about 19 female students of the Obuasi Senior High…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nursing, Midwifery Council inducts over 33,000 nurses, midwives",
+      "link": "https://ghanaiantimes.com.gh/nursing-midwifery-council-inducts-over-33000-nurses-midwives-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:17:15.000Z",
+      "summary": "The Nursing and Midwifery Council (N&MC) of Ghana has inducted the first batch of 33,698 newly qualified nurse assistants, nurses, midwives and post-basic specialist nurses in Accra. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Korean alumni associations hold joint general assembly in Accra",
+      "link": "https://ghanaiantimes.com.gh/korean-alumni-associations-hold-joint-general-assembly-in-accra/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:14:28.000Z",
+      "summary": "The Embassy of Korea, the Korea International Cooperation Agency (KOICA) and the Korea Foundation for International Healthcare (KOFIH) Alumni Associations in Ghana have held their 2026…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "USA, Mexico, Costa Rica and Jamaica to co-host inaugural 48-team 2031 FIFA Women’s World Cup",
+      "link": "https://www.myjoyonline.com/usa-mexico-costa-rica-and-jamaica-to-co-host-inaugural-48-team-2031-fifa-womens-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:14:07.000Z",
+      "summary": "FIFA’s Member Associations (MAs) convened virtually at an Extraordinary Congress today and appointed the United States, Mexico, Costa Rica and Jamaica as the hosts of the FIFA Women’s World…",
+      "categories": [
+        "Football",
+        "Fifa Women's World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tayui calls for equal opportunities for women in oil and gas",
+      "link": "https://ghanaiantimes.com.gh/tayui-calls-for-equal-opportunities-for-women-in-oil-and-gas/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:12:08.000Z",
+      "summary": "Chief Executive Officer of Cybele Energy Limited, Beatrice Jones-Mensah Tayui, has called for greater opportunities for women in the oil and gas industry, saying access to funding remains a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "National security restores calm at Suame Magazine as GUTA backs closure of foreigners’ shops",
+      "link": "https://www.myjoyonline.com/national-security-restores-calm-at-suame-magazine-as-guta-backs-closure-of-foreigners-shops/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:07:53.000Z",
+      "summary": "The Ghana Union of Traders Associations (GUTA) in the Ashanti Region has thrown its support behind the closure of some shops owned by foreign nationals at Suame Magazine in Kumasi.",
+      "categories": [
+        "National",
+        "Foreignes",
+        "GUTA",
+        "shop",
+        "Suame Magazine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US DFC commits $14.5bn to investments across Africa",
       "link": "https://ghanaiantimes.com.gh/us-dfc-commits-14-5bn-to-investments-across-africa/",
@@ -141,35 +214,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fire safety critical to success of 24-hour economy – Chief Fire Officer",
-      "link": "https://www.myjoyonline.com/fire-safety-critical-to-success-of-24-hour-economy-chief-fire-officer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:53:52.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has urged businesses and industries to strengthen fire prevention measures to protect investments and support Ghana's proposed 24-hour economy.",
-      "categories": [
-        "National",
-        "24-hour economy",
-        "Daniella Mawusi Ntow-Sapong",
-        "Fire Safety"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two arrested over alleged sexual extortion in Accra, face up to 25 years in prison",
-      "link": "https://www.myjoyonline.com/two-arrested-over-alleged-sexual-extortion-in-accra-face-up-to-25-years-in-prison/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:43:42.000Z",
-      "summary": "The Cyber Security Authority (CSA), working with other security agencies, has arrested two 22-year-old men in separate cases of alleged sexual extortion involving a teenage girl and an…",
-      "categories": [
-        "Crime",
-        "Accra",
-        "Cybersecurity Authority",
-        "sexual extortion",
-        "Snapchat"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
       "link": "https://ghanaiantimes.com.gh/igp-in-high-level-engagements-with-netherlands-police-to-strengthen-policing-partnerships/",
       "source": "Ghanaian Times",
@@ -199,17 +243,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T16:11:49.000Z",
       "summary": "Archival records are vital to documenting the history of Ghana’s diplomatic relations with the United States and preserving the experiences that have shaped the partnership between the two…",
       "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Education Minister announces two-year BECE ban for JHS 1 and 2 students who write exams ahead of schedule",
-      "link": "https://ghanaiantimes.com.gh/education-minister-announces-two-year-bece-ban-for-jhs-1-and-2-students-who-write-exams-ahead-of-schedule/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T15:42:09.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, has announced a two-year ban for students in Junior High School (JHS) 1 and 2 who attempt to write the Basic Education Certificate Examination…",
-      "categories": [
         "Hot!",
         "News"
       ],
@@ -225,42 +258,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mubarik wins Golden Boot as Black Challenge conquer the World",
-      "link": "https://ghanaiantimes.com.gh/mubarik-wins-golden-boot-as-black-challenge-conquer-the-world/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:23:17.000Z",
-      "summary": "Ghana forward Mohammed Mubarik has been crowned the top scorer at the 2026 WAFF Amputee Football World Cup in Mexico. The prolific attacker finished the tournament with an impressive seven…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bagbin, Akpabio reaffirm Ghana-Nigeria solidarity in Abuja",
-      "link": "https://ghanaiantimes.com.gh/bagbin-akpabio-reaffirm-ghana-nigeria-solidarity-in-abuja/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:21:33.000Z",
-      "summary": "Ghana’s High Commissioner to Nigeria, H.E. Baba Sadiq Abdulai Abu, has accompanied the Speaker of Ghana’s Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, on a courtesy visit to the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Speaker Bagbin returns to Ghana after official visit to Nigeria",
-      "link": "https://ghanaiantimes.com.gh/speaker-bagbin-returns-to-ghana-after-official-visit-to-nigeria/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:19:10.000Z",
-      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has returned to Ghana after a successful official visit to Abuja, Nigeria. He was seen off at the airport by Ghana’s High…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Govt to lease 50 buses to GPRTU and other unions",
