@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T06:05:22.821Z",
+  "updated": "2026-11-23T06:15:22.014Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GCTU fresher dies in motorcycle accident days after matriculation",
+      "link": "https://ghanaiantimes.com.gh/gctu-fresher-dies-in-motorcycle-accident-days-after-matriculation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:10:51.000Z",
+      "summary": "A PROMISING Level 100 student of the Ghana Communication Technology University (GCTU), Philipa Acquah, who emerged as the university’s Best Entrant for 2026, has died in a motorcycle…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, UK target terrorism, cybercrime and fraud at London security talks",
+      "link": "https://www.myjoyonline.com/ghana-uk-target-terrorism-cybercrime-and-fraud-at-london-security-talks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T06:07:51.000Z",
+      "summary": "Ghana and the United Kingdom will seek to strengthen cooperation on terrorism, cybercrime, fraud and other shared threats at the fourth UK-Ghana Security Dialogue, scheduled to begin in…",
+      "categories": [
+        "National",
+        "Cybercrime",
+        "Terrorism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Three suspects remanded over alleged stealing of 2-year-old baby at Anloga",
+      "link": "https://ghanaiantimes.com.gh/three-suspects-remanded-over-alleged-stealing-of-2-year-old-baby-at-anloga/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T06:06:58.000Z",
+      "summary": "THREE suspects identified as Godswill Gologa, aged 19, Emmanuel Tetteh, 24, and Promise Gada, 20, have been remanded into police custody by the Anloga District Magistrate Court for…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
       "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
@@ -108,20 +144,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Music",
         "Efya"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Art against antimicrobial resistance: How Techiman is using creativity to fight drug resistance",
-      "link": "https://www.myjoyonline.com/art-against-antimicrobial-resistance-how-techiman-is-using-creativity-to-fight-drug-resistance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:52:24.000Z",
-      "summary": "The Techiman Public Library has been transformed into a vibrant canvas of hope and health this week, as Art Against AMR Ghana brings together students, traders, health workers, and…",
-      "categories": [
-        "Regional",
-        "fight drug",
-        "Techiman",
-        "World AMR Awareness Week 2026"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -279,18 +301,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-20T14:41:17.000Z",
       "summary": "THE High Court in Accra has granted an interim injunction against the Quadrenial National Congress of the Civil and Local Government Staff Association ofGhana (CLOGSAG). It remains in for…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Brain tumour patients priced out of MRI scans • GH¢3,000 cost delays diagnosis, treatment • Neurosurgeon warns of widespread underdiagnosis",
-      "link": "https://ghanaiantimes.com.gh/brain-tumour-patients-priced-out-of-mri-scans-gh%c2%a23000-cost-delays-diagnosis-treatment-neurosurgeon-warns-of-widespread-underdiagnosis/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T06:08:00.000Z",
-      "summary": "The high cost of Magnetic Resonance Imaging (MRI) scans, together with expensive treatment, is preventing some patients with pineal region tumours from accessing timely diagnosis and care…",
       "categories": [
         "Hot!",
         "News"
