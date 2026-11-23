@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:48:56.514Z",
+  "updated": "2026-11-23T16:53:56.200Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -134,6 +134,7 @@ window.GDC_PAPERS = {
       "summary": "Government has set ambitious targets for local mineral processing. The real test will be whether the programme creates decent jobs, strengthens Ghanaian businesses and delivers measurable…",
       "categories": [
         "Opinion",
+        "Top Story",
         "Ghana",
         "Mining communities",
         "US$1.5 bn critical minerals plan",
@@ -149,7 +150,6 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Medical Trust Fund has taken over the case of five-year-old Miguel Ntsiful and referred him to Euracare Multi-Specialist Hospital after Korle Bu Teaching Hospital failed to secure…",
       "categories": [
         "Health",
-        "HP News 2",
         "National",
         "Euracare",
         "Ghana Medical Trust Fund",
