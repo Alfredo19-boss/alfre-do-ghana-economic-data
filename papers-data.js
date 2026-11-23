@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T05:35:22.623Z",
+  "updated": "2026-11-23T05:55:22.219Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES recruitment portal set to open today after technical delay",
+      "link": "https://www.myjoyonline.com/ges-recruitment-portal-set-to-open-today-after-technical-delay/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:35:00.000Z",
+      "summary": "The Ghana Education Service (GES) recruitment portal is expected to open today, Monday, November 23, after technical difficulties delayed its scheduled launch.",
+      "categories": [
+        "Education",
+        "Ghana Education Service (GES)",
+        "recruitment portal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From selling fried yam to GCB: Naa Abeka Nunoo shares her journey",
+      "link": "https://www.myjoyonline.com/from-selling-fried-yam-to-gcb-naa-abeka-nunoo-shares-her-journey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:28:00.000Z",
+      "summary": "Digital marketing and public relations professional Naa Abeka Nunoo has shared how selling fried yam after secondary school became the starting point of a career that would eventually take…",
+      "categories": [
+        "Features",
+        "Naa Abeka Nunoo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana armwrestling referees earn world promotions",
       "link": "https://www.myjoyonline.com/ghana-armwrestling-referees-earn-world-promotions/",
@@ -93,34 +118,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Corruption"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG pushes for cheaper cross-border payments at Singapore finance meetings",
-      "link": "https://www.myjoyonline.com/bog-pushes-for-cheaper-cross-border-payments-at-singapore-finance-meetings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:43:00.000Z",
-      "summary": "The Bank of Ghana (BoG) has called for a more targeted approach to improving cross-border payments in Africa, focusing on reducing costs and making transactions more reliable for businesses…",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 3",
-        "National",
-        "Matilda Asante-Asiedu",
-        "Second Deputy Governor of the BoG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "David Quao elected NDC UK & Ireland chairman, pledges to unite chapter",
-      "link": "https://www.myjoyonline.com/david-quao-elected-ndc-uk-ireland-chairman-pledges-to-unite-chapter/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:31:00.000Z",
-      "summary": "David Quao has been elected Chairman of the National Democratic Congress (NDC) UK & Ireland Chapter, pledging to bridge divisions and serve all members after the party’s internal elections.",
-      "categories": [
-        "Politics",
-        "David Quao",
-        "NDC UK & Ireland"
       ],
       "site": "https://www.myjoyonline.com/"
     },
