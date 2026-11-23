@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:58:57.562Z",
+  "updated": "2026-11-23T16:14:02.204Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Archives shed light on Ghana US diplomatic ties",
+      "link": "https://ghanaiantimes.com.gh/archives-shed-light-on-ghana-us-diplomatic-ties/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T16:11:49.000Z",
+      "summary": "Archival records are vital to documenting the history of Ghana’s diplomatic relations with the United States and preserving the experiences that have shaped the partnership between the two…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UPSA’s FAF Awards to honour The Multimedia Group CEO Kwasi Twum",
+      "link": "https://www.myjoyonline.com/upsas-faf-awards-to-honour-the-multimedia-group-ceo-kwasi-twum/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:10:20.000Z",
+      "summary": "Founder of the Multimedia Group, Kwasi Twum, is set to be honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
+      "categories": [
+        "Education",
+        "National",
+        "FAF Awards",
+        "Kwasi Twum",
+        "The Multimedia Group",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Legal reforms meaningless without access to lawyers – AG",
       "link": "https://www.myjoyonline.com/legal-reforms-meaningless-without-access-to-lawyers-ag/",
@@ -127,21 +154,6 @@ window.GDC_PAPERS = {
         "Student politics",
         "TEIN",
         "TESCON"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
-      "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:09:42.000Z",
-      "summary": "Nutrifoods Ghana Limited, a joint venture between Olam International and Sanyo Foods and a leading manufacturer of Snacks and Culinary products in Ghana’s fast-moving consumer goods (FMCG)…",
-      "categories": [
-        "Business",
-        "News",
-        "2026 HR Professionals Summit & Awards",
-        "Ghana",
-        "Nutrifoods Ghana Limited"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -303,17 +315,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ndonesia factory fire kills 3, 36 missing",
-      "link": "https://ghanaiantimes.com.gh/ndonesia-factory-fire-kills-3-36-missing/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:54:02.000Z",
-      "summary": "A fire at a sweets factory in Indonesia has killed at least three people and 36 others are missing. At least 15 people were rescued from the Fonusa Agung Mulia factory in Banten province…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
