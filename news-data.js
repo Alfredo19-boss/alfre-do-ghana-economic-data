@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T13:53:26.587Z",
+  "updated": "2026-11-23T13:58:26.503Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
+      "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:53:42.000Z",
+      "summary": "Fishmongers and other fisheries stakeholders in Elmina are calling for stricter enforcement of fishing regulations to clamp down on the use of artificial lights and harmful chemicals in…"
+    },
     {
       "title": "UniMAC’s Graduate Surge Puts Ghana’s Creative Jobs Challenge in Focus",
       "link": "https://thehighstreetjournal.com/unimacs-graduate-surge-puts-ghanas-creative-jobs-challenge-in-focus/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T10:55:28.000Z",
       "summary": "Russell Kofi Eni has been elected as the new President of the Advertising Association of Ghana (AAG), replacing Andrew Ackah who has been president since 2022. He was elected at the…"
-    },
-    {
-      "title": "Ghana’s Public Debt Surges by GHC 128Bn in 1 Yr to Hit GHC 759Bn as Domestic Borrowing Soars",
-      "link": "https://thehighstreetjournal.com/ghanas-public-debt-surges-by-ghc-128bn-in-1-yr-to-hit-ghc-759bn-as-domestic-borrowing-soars/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T10:30:38.000Z",
-      "summary": "Ghana’s public debt rose by GH¢128 billion to GH¢759.3 billion in October 2026, driven largely by a 37.6% surge in domestic borrowing, despite a slight decline in external debt in dollar…"
     }
   ]
 };

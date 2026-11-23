@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T13:53:56.373Z",
+  "updated": "2026-11-23T13:58:57.334Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,39 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
+      "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:53:42.000Z",
+      "summary": "Fishmongers and other fisheries stakeholders in Elmina are calling for stricter enforcement of fishing regulations to clamp down on the use of artificial lights and harmful chemicals in…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Elmina",
+        "Fisherfolk"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mrs. Rita Linda Bucknor",
+      "link": "https://www.myjoyonline.com/mrs-rita-linda-bucknor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T13:53:23.000Z",
+      "summary": "Mrs. Rita Linda Bucknor",
+      "categories": [
+        "Obituary",
+        "Mrs. Rita Linda Bucknor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Judicial staff strike delayed prosecution of suspects linked to France cocaine seizure – NACOC",
       "link": "https://www.myjoyonline.com/judicial-staff-strike-delayed-prosecution-of-suspects-linked-to-france-cocaine-seizure-nacoc/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T13:50:17.000Z",
       "summary": "The Narcotics Control Commission (NACOC) says the recent strike by judicial service staff delayed progress in the prosecution of individuals linked to the 3.9-tonne cocaine seizure in…",
       "categories": [
+        "HP News 6",
         "National",
         "News",
         "France cocaine case",
@@ -42,7 +69,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T13:37:36.000Z",
       "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
       "categories": [
-        "HP News 5",
+        "HP News 2",
         "National",
         "Politics",
         "Ablekuma West",
@@ -89,6 +116,7 @@ window.GDC_PAPERS = {
       "summary": "The 2001 year group of the Aburi Old Girls Association (AOGA) has honoured 17 former teachers of Aburi Girls Senior High School in recognition of their contributions to the education and…",
       "categories": [
         "Education",
+        "HP News 9",
         "National",
         "Aburi Girls Old Girls' Assocition",
         "Aburi Girls Senior High School",
@@ -109,36 +137,6 @@ window.GDC_PAPERS = {
         "News",
         "Kwahu Kotoso",
         "Son"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC denies unlawful detention of suspect in France cocaine seizure case",
-      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-seizure-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:03:46.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has denied allegations that it is unlawfully detaining a suspect linked to the 3.9-tonne cocaine seizure in France, insisting that the individual…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "France cocaine case",
-        "NACOC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC denies unlawful detention of suspect in France cocaine case",
-      "link": "https://www.myjoyonline.com/nacoc-denies-unlawful-detention-of-suspect-in-france-cocaine-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:03:46.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has denied allegations that it is unlawfully detaining a suspect linked to the 3.9-tonne cocaine seizure in France, insisting that the individual…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "France cocaine case",
-        "NACOC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
