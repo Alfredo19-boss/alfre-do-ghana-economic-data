@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:28:59.765Z",
+  "updated": "2026-11-23T16:38:57.045Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kwamena Bissah",
+      "link": "https://www.myjoyonline.com/kwamena-bissah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:36:12.000Z",
+      "summary": "FUNERAL ARRANGEMENT Lying in State/Wake-Keeping: Friday, 11th December 2026 at Huniso Market Square Burial Service: Saturday, 12th December 2026, at Huniso Church of Christ Burial…",
+      "categories": [
+        "Obituary",
+        "Kwamena Bissah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: The CEO’s role in strengthening organisational culture",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-organisational-culture/",
@@ -155,18 +167,6 @@ window.GDC_PAPERS = {
         "Kwasi Twum",
         "The Multimedia Group",
         "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Legal reforms meaningless without access to lawyers – AG",
-      "link": "https://www.myjoyonline.com/legal-reforms-meaningless-without-access-to-lawyers-ag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:57:22.000Z",
-      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine says Ghana’s legal reforms will have limited impact if vulnerable people cannot afford legal representation to enforce their…",
-      "categories": [
-        "National",
-        "Legal reforms"
       ],
       "site": "https://www.myjoyonline.com/"
     },
