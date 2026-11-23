@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:35:22.444Z",
+  "updated": "2026-11-23T07:45:21.827Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,50 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GPL: Vision FC claim vital points to sink Debibi United",
+      "link": "https://ghanaiantimes.com.gh/gpl-vision-fc-claim-vital-points-to-sink-debibi-united/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:41:43.000Z",
+      "summary": "VISION FC returned to winning ways in the Ghana Premier League (GPL) with a hard-fought 2-1 victory over Debibi United at the Nii Adjei Kraku II Sports Complex in Tema New Town on Saturday…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "23 named for Black Queens’ FIFA Women’s World Cup playoffs",
+      "link": "https://ghanaiantimes.com.gh/23-named-for-black-queens-fifa-womens-world-cup-playoffs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:40:31.000Z",
+      "summary": "THE Black Queens Head Coach, Kim Lars Björkegren, has named a strong 23-player squad for the FIFA Women’s World Cup playoff tournament to be played in Morocco. Captain Portia Boakye…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tennis: 24th Accra Seniors Open Championship kicks off today",
+      "link": "https://ghanaiantimes.com.gh/tennis-24th-accra-seniors-open-championship-kicks-off-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:37:04.000Z",
+      "summary": "Attention of tennis enthusiasts will turn to the clay courts of the Accra Lawn Tennis Club in Accra where the 24th edition of the Accra Seniors Tennis Open Championship kicks off with over…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "New NSA boss Prof. Sarpong pays working visits to 3 regions",
+      "link": "https://ghanaiantimes.com.gh/new-nsa-boss-prof-sarpong-pays-working-visits-to-3-regions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:35:31.000Z",
+      "summary": "The Director-General of the National Sports Authority (NSA), Prof. Emmanuel Sarpong, is undertaking official working visits to three regions of the country, notably the Bono, Bono East and…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "MoSR seeks Facility Manager for Borteyman Sports Complex",
       "link": "https://ghanaiantimes.com.gh/mosr-seeks-facility-manager-for-borteyman-sports-complex/",
       "source": "Ghanaian Times",
@@ -30,6 +74,42 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Sports Ministry congratulates Black Challenge on amputee football World Cup victory",
+      "link": "https://www.myjoyonline.com/sports-ministry-congratulates-black-challenge-on-amputee-football-world-cup-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T07:33:00.000Z",
+      "summary": "The Ministry of Sports and Recreation has congratulated the Black Challenge on winning the 2026 Amputee Football World Cup in Mexico.",
+      "categories": [
+        "HP News 1",
+        "HP Sports 2",
+        "National",
+        "Sports",
+        "2026 World Amputee World Cup",
+        "Black Challenge",
+        "Football"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Thousands travel to COP. One Ghanaian journalist follows the negotiations from home",
+      "link": "https://www.myjoyonline.com/thousands-travel-to-cop-one-ghanaian-journalist-follows-the-negotiations-from-home/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T07:31:40.000Z",
+      "summary": "For about seven years, Mahmud Mohammed-Nurudeen has followed the United Nations climate conferences from Ghana, examining the documents, decisions and political arguments that shape the…",
+      "categories": [
+        "Africa",
+        "Features",
+        "National",
+        "News",
+        "Politics",
+        "Climate change",
+        "COP",
+        "Food security",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "JL Properties ranks 55th at Ghana Club 100 Awards",
@@ -65,30 +145,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Embrace AI, sustainable practices to cut costs — Veep",
-      "link": "https://ghanaiantimes.com.gh/embrace-ai-sustainable-practices-to-cut-costs-veep/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:21:21.000Z",
-      "summary": "THE Vice-President, Professor Naana Jane Opoku-Agyemang, has tasked businesses to adopt artificial intelligence (AI) and sustainable production practices to cut operational costs, improve…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "$10bn economic plan needs all hands on deck • Pres Mahama calls on opposition to join drive",
-      "link": "https://ghanaiantimes.com.gh/10bn-economic-plan-needs-all-hands-on-deck-pres-mahama-calls-on-opposition-to-join-drive/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:17:38.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has called on the political opposition to support government’s US$10 billion New Economy programme. The President said the programme was national in character…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Court remands teenagers in GH¢38,477 WhatsApp romance scam",
       "link": "https://www.graphic.com.gh/news/general-news/court-remands-teenagers-in-ghc38-477-whatsapp-romance-scam.html",
       "source": "Daily Graphic",
@@ -100,18 +156,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "MIIF mobilises GH¢9bn in royalties, beats annual target",
-      "link": "https://ghanaiantimes.com.gh/miif-mobilises-gh%c2%a29bn-in-royalties-beats-annual-target/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:14:20.000Z",
-      "summary": "THE Minerals Income Investment Fund (MIIF) has exceeded its 2026 mineral royalty mobilisation target of GH¢6.9 billion, collecting more than GH¢9 billion with two months remaining in the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "\"Valuable lady\": COP31 President apologises to Ghana’s Environment Minister after plenary disruption",
       "link": "https://www.graphic.com.gh/news/general-news/valuable-lady-cop31-president-apologises-to-ghanas-environment-minister-after-plenary-disruption.html",
       "source": "Daily Graphic",
@@ -121,18 +165,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt backs $250m bauxite deal • Ecobank strengthens presence in Awaso",
-      "link": "https://ghanaiantimes.com.gh/govt-backs-250m-bauxite-deal-ecobank-strengthens-presence-in-awaso/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:05:04.000Z",
-      "summary": "THE government has thrown its weight behind a $250 million financing arrangement to expand operations at Ghana Bauxite Company (GBC) Limited, in a move expected to boost production, create…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
@@ -215,31 +247,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Features",
         "Naa Abeka Nunoo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana armwrestling referees earn world promotions",
-      "link": "https://www.myjoyonline.com/ghana-armwrestling-referees-earn-world-promotions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:25:01.000Z",
-      "summary": "Three Ghanaian referees have earned prestigious international promotions following their performances at the just-ended World Armwrestling Championship in India, marking another significant…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Ghana Armwrestling"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Plastic-choked beaches: Coastal livelihoods under threat",
-      "link": "https://www.myjoyonline.com/plastic-choked-beaches-coastal-livelihoods-under-threat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:05:38.000Z",
-      "summary": "Towering drifts of crushed water sachets, bleached single-use grocery bags, tangled heaps of monofilament fishing nets, and sun-faded plastic bottles stretch along the seashore as far as…",
-      "categories": [
-        "National",
-        "Plastic-choked beaches"
       ],
       "site": "https://www.myjoyonline.com/"
     },
