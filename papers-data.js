@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:53:56.804Z",
+  "updated": "2026-11-23T15:58:57.562Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Legal reforms meaningless without access to lawyers – AG",
+      "link": "https://www.myjoyonline.com/legal-reforms-meaningless-without-access-to-lawyers-ag/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:57:22.000Z",
+      "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine says Ghana’s legal reforms will have limited impact if vulnerable people cannot afford legal representation to enforce their…",
+      "categories": [
+        "National",
+        "Legal reforms"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "AG identifies gap between Ghana’s minimum marriage age and age of sexual consent",
       "link": "https://www.myjoyonline.com/ag-identifies-gap-between-ghanas-minimum-marriage-age-and-age-of-sexual-consent/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T15:52:31.000Z",
       "summary": "Attorney-General and Minister for Justice Dr Dominic Ayine has identified a legal disparity between Ghana’s minimum age of marriage and the age of sexual consent, saying proposed amendments…",
       "categories": [
-        "News"
+        "National",
+        "Attorney General",
+        "minimum marriage",
+        "sexual consent"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -127,21 +142,6 @@ window.GDC_PAPERS = {
         "2026 HR Professionals Summit & Awards",
         "Ghana",
         "Nutrifoods Ghana Limited"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Era of money politics, deception coming to an end – Nhyiaeso MP",
-      "link": "https://www.myjoyonline.com/era-of-money-politics-deception-coming-to-an-end-nhyiaeso-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:08:46.000Z",
-      "summary": "The Member of Parliament for Nhyiaeso, Dr Stephen Amoah, is predicting a revolution in Ghana’s electioneering dispensation which would see voters move beyond materialistic inducements.",
-      "categories": [
-        "News",
-        "Politics",
-        "Deception",
-        "Money politics",
-        "Nhyiaeso MP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
