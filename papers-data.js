@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T17:04:00.201Z",
+  "updated": "2026-11-23T17:09:03.790Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,57 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "US DFC commits $14.5bn to investments across Africa",
+      "link": "https://ghanaiantimes.com.gh/us-dfc-commits-14-5bn-to-investments-across-africa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T17:07:38.000Z",
+      "summary": "The United States International Development Finance Corporation (DFC) has reaffirmed its commitment to expanding investments across Africa, with more than US$14.5 billion in investment…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gov’t to boost waterfront, cultural & eco-tourism in Asuogyaman; area targeted as key destination under $1bn investment drive",
+      "link": "https://www.myjoyonline.com/govt-to-boost-waterfront-cultural-eco-tourism-in-asuogyaman-area-targeted-as-key-destination-under-1bn-investment-drive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:05:55.000Z",
+      "summary": "President John Mahama says government intends to position the Asuogyaman District in the Eastern Region as a key destination for waterfront tourism, eco-tourism, cultural heritage…",
+      "categories": [
+        "National",
+        "Asuogyaman",
+        "cultural & eco-tourism",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "El Niño could worsen dust pollution, raise respiratory health risks – GMet",
+      "link": "https://www.myjoyonline.com/el-nino-could-worsen-dust-pollution-raise-respiratory-health-risks-gmet/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T17:04:37.000Z",
+      "summary": "Expected El Niño conditions early next year could prolong dry spells, worsen dust pollution and increase respiratory health risks in Ghana, the Ghana Meteorological Agency (GMet) has warned.",
+      "categories": [
+        "National",
+        "Dust pollution",
+        "El Niño",
+        "Ghana Meteorological Agency",
+        "respiratory health risks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama extends condolences to South Africa over Mlambo-Ngcuka's passing",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-extends-condolences-to-south-africa-over-mlambo-ngcukas-passing.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T17:01:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Greater Accra MMDCEs directed to clear, beautify roads ahead of Ghana’s 70th Independence celebrations",
       "link": "https://www.myjoyonline.com/greater-accra-mmdces-directed-to-clear-beautify-roads-ahead-of-ghanas-70th-independence-celebrations/",
       "source": "MyJoyOnline",
@@ -34,6 +85,17 @@ window.GDC_PAPERS = {
         "MMDCEs"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akwamu peace praised: President Mahama celebrates Odeneho Kwafo Akoto III",
+      "link": "https://www.graphic.com.gh/news/general-news/akwamu-peace-praised-president-mahama-celebrates-odeneho-kwafo-akoto-iii.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T16:54:53.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Gender Ministry to lead Ghana’s 2026 16 Days of Activism against gender-based violence",
@@ -104,32 +166,6 @@ window.GDC_PAPERS = {
         "Cybersecurity Authority",
         "sexual extortion",
         "Snapchat"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwamena Bissah",
-      "link": "https://www.myjoyonline.com/kwamena-bissah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:36:12.000Z",
-      "summary": "FUNERAL ARRANGEMENT Lying in State/Wake-Keeping: Friday, 11th December 2026 at Huniso Market Square Burial Service: Saturday, 12th December 2026, at Huniso Church of Christ Burial…",
-      "categories": [
-        "Obituary",
-        "Kwamena Bissah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: The CEO’s role in strengthening organisational culture",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-strengthening-organisational-culture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:27:19.000Z",
-      "summary": "Organisational culture is one of the most powerful influences on business performance. It shapes how people work, make decisions, treat customers, manage conflict and respond to challenges…",
-      "categories": [
-        "Opinion",
-        "CEOs",
-        "Culture",
-        "Daily Insight"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -227,18 +263,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GNFS saves lives and properties as fire guts brothel at Asankragua market",
-      "link": "https://ghanaiantimes.com.gh/gnfs-saves-lives-and-properties-as-fire-guts-brothel-at-asankragua-market/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:16:25.000Z",
-      "summary": "Firefighters from the Asankragua Fire Station acted swiftly to bring under control a commercial fire that broke out at the Asankragua Market on Thursday, November 19, 2026. The fire, which…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Govt to lease 50 buses to GPRTU and other unions",
       "link": "https://www.graphic.com.gh/news/general-news/govt-to-lease-50-buses-to-gprtu-and-other-unions.html",
       "source": "Daily Graphic",
@@ -287,28 +311,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/gafm-is-not-a-university-degree-granting-or-diploma-granting-institution.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T10:50:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "link": "https://www.graphic.com.gh/news/health/can-ai-spot-breast-cancer-earlier-nhs-launches-worlds-largest-trial-to-find-out.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T10:20:31.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "FIPAG calls for review of Automated Fire Compliance and Safety System",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fipag-calls-for-review-of-automated-fire-compliance-and-safety-system.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T08:42:52.000Z",
       "summary": "",
       "categories": [
         "General News"
