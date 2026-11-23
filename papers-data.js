@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T12:43:56.974Z",
+  "updated": "2026-11-23T12:53:55.294Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ato Forson outlines US$200m nuclear readiness programme, targets 2028 construction deal",
+      "link": "https://www.myjoyonline.com/ato-forson-outlines-us200m-nuclear-readiness-programme-targets-2028-construction-deal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:48:05.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has outlined the government's plans to develop Ghana's first state-owned nuclear power plant, describing the project as a major investment in…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Ato Forson",
+        "Nuclear Power Project"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t to lock up buildings violating fire safety regulations -Interior Minister",
+      "link": "https://www.myjoyonline.com/govt-to-lock-up-buildings-violating-fire-safety-regulations-interior-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T12:42:29.000Z",
+      "summary": "The government is stepping up enforcement of fire safety regulations, with the Minister for the Interior, Mohammed-Mubarak Muntaka, warning that buildings that fail to meet the required…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Fire Safety",
+        "Interior Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Deputy Interior Minister calls for stronger regional security coordination to avert conflicts",
       "link": "https://www.myjoyonline.com/deputy-interior-minister-calls-for-stronger-regional-security-coordination-to-avert-conflicts/",
@@ -108,34 +136,6 @@ window.GDC_PAPERS = {
         "National",
         "Africa",
         "endeavour mining"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama mourns former South African Deputy President Phumzile Mlambo-Ngcuka",
-      "link": "https://www.myjoyonline.com/mahama-mourns-former-south-african-deputy-president-phumzile-mlambo-ngcuka/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:57:18.000Z",
-      "summary": "President John Dramani Mahama has paid tribute to former South African Deputy President Dr Phumzile Mlambo-Ngcuka following her death, describing her as an influential African leader whose…",
-      "categories": [
-        "National",
-        "Mahama",
-        "Phumzile Mlambo-Ngcuka",
-        "South African Deputy President"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire destroys offices of Northern Regional Minister and Chief Director in Tamale",
-      "link": "https://www.myjoyonline.com/fire-destroys-offices-of-northern-regional-minister-and-chief-director-in-tamale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:56:17.000Z",
-      "summary": "Fire has gutted parts of the Northern Regional Coordinating Council (NRCC) in Tamale, including the offices of the Northern Regional Minister and the Chief Director.",
-      "categories": [
-        "National",
-        "Regional",
-        "Fire",
-        "Northern Regional Coordinating Council offices"
       ],
       "site": "https://www.myjoyonline.com/"
     },
