@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:38:58.922Z",
+  "updated": "2026-11-23T14:48:56.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Suame Magazine artisans attack foreign spare-parts dealers, lock up shops over pricing dispute",
+      "link": "https://www.myjoyonline.com/suame-magazine-artisans-attack-foreign-spare-parts-dealers-lock-up-shops-over-pricing-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:40:37.000Z",
+      "summary": "Tension has erupted at Suame Magazine in Kumasi after some local artisans reportedly attacked foreign spare-parts dealers and locked up at least 10 shops over allegations of unfair…",
+      "categories": [
+        "Regional",
+        "pricing dispute",
+        "Shops",
+        "Spare parts dealers",
+        "Suame Magazine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CAF announces Coca-Cola as official sponsor for AFCON 2027 and 2028",
+      "link": "https://www.myjoyonline.com/caf-announces-coca-cola-as-official-sponsor-for-afcon-2027-and-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:40:06.000Z",
+      "summary": "The agreement was signed in Johannesburg, South Africa today, Monday, 23 November 2026, by CAF President Dr Patrice Motsepe and Luis Felipe Avellar, President of Coca-Cola’s Africa…",
+      "categories": [
+        "Football",
+        "Afcon 2027",
+        "Coca-Cola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nvidia board reinstates Jensen Huang as CEO",
       "link": "https://www.myjoyonline.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
@@ -142,22 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "The Inconvenient Truth: We are building Heaven for the few on the foundations of Hell for the many",
-      "link": "https://www.myjoyonline.com/the-inconvenient-truth-we-are-building-heaven-for-the-few-on-the-foundations-of-hell-for-the-many/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:17:27.000Z",
-      "summary": "Humanity has mastered the art of accumulation while quietly forgetting the arithmetic of conscience. The question is no longer whether we can create wealth, but whether we can create it…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Africa",
-        "Ghana",
-        "Ing. Prof. Douglas Boateng",
-        "The Inconvenient Truth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GNFS saves lives and properties as fire guts brothel at Asankragua market",
       "link": "https://ghanaiantimes.com.gh/gnfs-saves-lives-and-properties-as-fire-guts-brothel-at-asankragua-market/",
       "source": "Ghanaian Times",
@@ -179,20 +191,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Early BECE candidates to face two-year examination ban – Education Minister",
-      "link": "https://www.myjoyonline.com/early-bece-candidates-to-face-two-year-examination-ban-education-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:12:20.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, has directed the Ghana Education Service (GES) to impose a two-year examination ban on pupils who attempt to sit the Basic Education Certificate…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "BECE",
-        "Examination"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Black Challenge make history as Ghana Beat Morocco to win 2026 Amputee World Cup",

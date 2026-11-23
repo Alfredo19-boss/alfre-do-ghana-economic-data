@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T14:38:27.997Z",
+  "updated": "2026-11-23T14:48:26.710Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -454,6 +454,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-21T15:00:00.000Z",
       "summary": "GEXPO 2026 revives Ghana’s trade exhibition culture, bringing together over 500 exhibitors and renewing calls for an annual platform to promote local products and businesses."
+    },
+    {
+      "title": "Land compensation disputes are delaying infrastructure projects, Ghana Institution of Surveyors warns",
+      "link": "https://www.myjoyonline.com/land-compensation-disputes-are-delaying-infrastructure-projects-ghana-institution-of-surveyors-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-21T14:28:21.000Z",
+      "summary": "President of the Ghana Institution of Surveyors (GhIS), Emmanuel Kofi Cobbold, has warned that failure to adequately compensate landowners whose properties are acquired for public projects…"
     },
     {
       "title": "Deloitte Backs New Economy Programme, Flags Implementation Challenges",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T11:42:35.000Z",
       "summary": "GES PRO Daniel Fenyi has criticised UGEL's GH¢8,000 annual hostel fee, urging universities to expand virtual and flexible learning to reduce accommodation costs and improve access to…"
-    },
-    {
-      "title": "Ghana Revenue Authority intensifies VAT compliance checks",
-      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-revenue-authority-intensifies-vat-compliance-checks/",
-      "source": "Ghana Business News",
-      "published": "2026-11-19T11:07:10.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has intensified its Value Added Tax (VAT) compliance checks on businesses and urged consumers to demand invoices for purchases to improve revenue…"
     }
   ]
 };
