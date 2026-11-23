@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T05:54:52.534Z",
+  "updated": "2026-11-23T06:04:52.867Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
+      "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:57:35.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) is prioritising tighter oversight of shipping charges, stronger enforcement, and faster complaint resolution in 2027 as it works to deliver on its…"
+    },
     {
       "title": "GEXPO 2026: Do You Want to Try Chocolate with Chilli, How About with Kelewele?",
       "link": "https://thehighstreetjournal.com/gexpo-2026-do-you-want-to-try-chocolate-with-chilli-how-about-with-kelewele/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:02:00.000Z",
       "summary": "Dr. Kwabena Donkor urges Ghana to leverage its high-quality silica deposits to manufacture solar panels locally, supported by technology transfer, private investment, tax incentives…"
-    },
-    {
-      "title": "Ghana’s US$30.4bn Export Earnings Raise Questions Over Gold Dependence as Trade Surplus Hits US$13bn",
-      "link": "https://thehighstreetjournal.com/ghanas-us30-4bn-export-earnings-raise-questions-over-gold-dependence-as-trade-surplus-hits-us13bn/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:01:00.000Z",
-      "summary": "Ghana recorded US$30.42 billion in exports by October 2026, with gold contributing nearly 69%, raising questions about export diversification despite a US$13 billion trade surplus."
     }
   ]
 };

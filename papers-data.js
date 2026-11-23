@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T05:55:22.219Z",
+  "updated": "2026-11-23T06:05:22.821Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,34 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
+      "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:57:35.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) is prioritising tighter oversight of shipping charges, stronger enforcement, and faster complaint resolution in 2027 as it works to deliver on its…",
+      "categories": [
+        "Economy",
+        "National",
+        "Dr Ransford Gyampo",
+        "Ghana Shippers’ Authority (GSA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kpebu challenges NACOC over suspects’ two-month detention in cocaine case",
+      "link": "https://www.myjoyonline.com/kpebu-challenges-nacoc-over-suspects-two-month-detention-in-cocaine-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T05:44:00.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has accused the Narcotics Control Commission (NACOC) of violating the rights of suspects held in connection with a 3.9-tonne cocaine seizure in…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Martin Kpebu",
+        "NACOC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GES recruitment portal set to open today after technical delay",
       "link": "https://www.myjoyonline.com/ges-recruitment-portal-set-to-open-today-after-technical-delay/",
       "source": "MyJoyOnline",
@@ -28,6 +56,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Education Service (GES) recruitment portal is expected to open today, Monday, November 23, after technical difficulties delayed its scheduled launch.",
       "categories": [
         "Education",
+        "HP News 5",
         "Ghana Education Service (GES)",
         "recruitment portal"
       ],
@@ -93,31 +122,6 @@ window.GDC_PAPERS = {
         "fight drug",
         "Techiman",
         "World AMR Awareness Week 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President urges protection of children from hazardous work",
-      "link": "https://www.myjoyonline.com/vice-president-urges-protection-of-children-from-hazardous-work/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:51:43.000Z",
-      "summary": "President Professor Jane Naana Opoku-Agyemang has called for collective and concerted efforts towards protecting children from exploitative labour in the nation’s fishing industry.",
-      "categories": [
-        "National",
-        "Children",
-        "Vice President"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abena Osei-Asare calls for citizens’ support in fight against corruption",
-      "link": "https://www.myjoyonline.com/abena-osei-asare-calls-for-citizens-support-in-fight-against-corruption/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:48:36.000Z",
-      "summary": "The Chairperson of Parliament’s Public Accounts Committee and Member of Parliament for Atiwa East, Abena Osei-Asare, has called on Ghanaians to take greater responsibility in the fight…",
-      "categories": [
-        "National",
-        "Corruption"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -287,18 +291,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-20T06:08:00.000Z",
       "summary": "The high cost of Magnetic Resonance Imaging (MRI) scans, together with expensive treatment, is preventing some patients with pineal region tumours from accessing timely diagnosis and care…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "6.13m Ghanaians still practise open defecation — World Vision",
-      "link": "https://ghanaiantimes.com.gh/6-13m-ghanaians-still-practise-open-defecation-world-vision/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-20T06:00:56.000Z",
-      "summary": "An estimated 6.13 million Ghanaians, representing 17.8 per cent of the population, still practise open defecation as of 2024 despite efforts by the government and development partners to…",
       "categories": [
         "Hot!",
         "News"
