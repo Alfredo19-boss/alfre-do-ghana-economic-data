@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T11:53:55.854Z",
+  "updated": "2026-11-23T12:03:55.694Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,87 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "MTN donates computers to UMaT as student population grows",
+      "link": "https://www.myjoyonline.com/mtn-donates-computers-to-umat-as-student-population-grows/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:58:34.000Z",
+      "summary": "The University of Mines and Technology (UMaT), Tarkwa, is seeking to improve access to computer facilities after admitting more than 5,000 new students this academic year. Vice Chancellor…",
+      "categories": [
+        "Business",
+        "Telecom",
+        "David Woasey",
+        "MTN",
+        "Professor Kumi-Boateng",
+        "UMAT"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Endeavour Mining commits XOF 803m to health projects in three African countries",
+      "link": "https://www.myjoyonline.com/endeavour-mining-commits-xof-803m-to-health-projects-in-three-african-countries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:58:26.000Z",
+      "summary": "Endeavour Mining has committed XOF 803 million to support health initiatives in Ghana's neighbouring countries, Côte d’Ivoire, Burkina Faso and Senegal, in 2027.",
+      "categories": [
+        "National",
+        "Africa",
+        "endeavour mining"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama mourns former South African Deputy President Phumzile Mlambo-Ngcuka",
+      "link": "https://www.myjoyonline.com/mahama-mourns-former-south-african-deputy-president-phumzile-mlambo-ngcuka/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:57:18.000Z",
+      "summary": "President John Dramani Mahama has paid tribute to former South African Deputy President Dr Phumzile Mlambo-Ngcuka following her death, describing her as an influential African leader whose…",
+      "categories": [
+        "National",
+        "Mahama",
+        "Phumzile Mlambo-Ngcuka",
+        "South African Deputy President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire destroys offices of Northern Regional Minister and Chief Director in Tamale",
+      "link": "https://www.myjoyonline.com/fire-destroys-offices-of-northern-regional-minister-and-chief-director-in-tamale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:56:17.000Z",
+      "summary": "Fire has gutted parts of the Northern Regional Coordinating Council (NRCC) in Tamale, including the offices of the Northern Regional Minister and the Chief Director.",
+      "categories": [
+        "National",
+        "Regional",
+        "Fire",
+        "Northern Regional Coordinating Council offices"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
+      "link": "https://www.myjoyonline.com/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:52:14.000Z",
+      "summary": "The Head of the Revenue Assurance Department at the Ministry of Finance, Victor Kofi Baidoo, disclosed this at a meeting with members of the Ghana Institute of Freight Forwarders (GIFF) at…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Customs Division",
+        "GIFF",
+        "GRA",
+        "Ministry of Finance",
+        "Victor Kofi Baidoo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "CDD-Ghana’s John Osae-Kwapong blames lack of sanctions for persistent absenteeism among MPs",
       "link": "https://www.myjoyonline.com/cdd-ghanas-john-osae-kwapong-blames-lack-of-sanctions-for-persistent-absenteeism-among-mps/",
       "source": "MyJoyOnline",
       "published": "2026-11-23T11:51:37.000Z",
       "summary": "A fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae-Kwapong, has attributed persistent absenteeism among Members of Parliament (MPs) to the failure to hold lawmakers…",
       "categories": [
+        "HP News 4",
         "National",
         "CDD-Ghana Fellow",
         "Parliamentary absenteeism"
@@ -60,86 +135,6 @@ window.GDC_PAPERS = {
         "Ghana Premier League",
         "Hearts of Oak",
         "Mohammed Hussein"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "OB: A different kind of GJA/P.A.V. Ansah Journalist of the Year awardee",
-      "link": "https://www.myjoyonline.com/ob-a-different-kind-of-gja-p-a-v-ansah-journalist-of-the-year-awardee/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:45:34.000Z",
-      "summary": "When the name was mentioned at La Palm Royal Beach Hotel on the night of Saturday, November 7, 2026, it did not belong to a reporter fresh from a galamsey pit or a war zone.",
-      "categories": [
-        "National",
-        "News",
-        "Opinion",
-        "GJA",
-        "OB",
-        "Philip Osei Bonsu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ Pious Kojo Backah named Media Personality of the Year at the 6th Chamber Business Awards",
-      "link": "https://www.myjoyonline.com/joynews-pious-kojo-backah-named-media-personality-of-the-year-at-the-6th-chamber-business-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:36:59.000Z",
-      "summary": "JoyNews journalist Pious Kojo Backah has been named Media Personality of the Year at the 6th Chamber Business Awards organised by the Ghana National Chamber of Commerce and Industry…",
-      "categories": [
-        "Business",
-        "Events",
-        "National",
-        "Radio & TV",
-        "6th Chamber awards",
-        "JoyNews",
-        "Pious Kojo Backah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nuclear power will drive industry, create jobs and secure Ghana’s future — Ato Forson",
-      "link": "https://www.myjoyonline.com/nuclear-power-will-drive-industry-create-jobs-and-secure-ghanas-future-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:32:45.000Z",
-      "summary": "In a video message on the government’s New Economy agenda, Dr. Forson outlined plans for a fully state-owned nuclear power plant, describing the initiative as a long-term investment in…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Dr Ato Forson",
-        "Ministry of Finance",
-        "new economy",
-        "nuclear power"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adentan High Court convicts Ghana Christian University president, Council chair of contempt; orders reinstatement of vice president",
-      "link": "https://www.myjoyonline.com/adentan-high-court-convicts-ghana-christian-university-president-council-chair-of-contempt-orders-reinstatement-of-vice-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:23:41.000Z",
-      "summary": "The Adentan High Court has found the President of Ghana Christian University College, Rev. Dr James Yamoah, and the Chairman of the University Council, Professor Samuel K. Offei, guilty of…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "News",
-        "Ghana Christian University",
-        "High Court"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Governments weaponising misinformation laws to silence journalists and critics – CJID CEO",
-      "link": "https://www.myjoyonline.com/governments-weaponising-misinformation-laws-to-silence-journalists-and-critics-cjid-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:21:23.000Z",
-      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has warned that laws introduced to combat misinformation are increasingly…",
-      "categories": [
-        "Africa",
-        "CJID",
-        "Critics",
-        "Journalists",
-        "Misinformation"
       ],
       "site": "https://www.myjoyonline.com/"
     },

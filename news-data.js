@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T11:53:24.110Z",
+  "updated": "2026-11-23T12:03:25.937Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Volta Lake Weeds Could Become New Source of Organic Fertiliser for Farmers",
+      "link": "https://thehighstreetjournal.com/volta-lake-weeds-could-become-new-source-of-organic-fertiliser-for-farmers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T12:01:00.000Z",
+      "summary": "Research into converting Volta Lake weeds into organic fertiliser could create agricultural value from costly vegetation removal while supporting local compost production and reducing…"
+    },
+    {
+      "title": "MTN donates computers to UMaT as student population grows",
+      "link": "https://www.myjoyonline.com/mtn-donates-computers-to-umat-as-student-population-grows/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:58:34.000Z",
+      "summary": "The University of Mines and Technology (UMaT), Tarkwa, is seeking to improve access to computer facilities after admitting more than 5,000 new students this academic year. Vice Chancellor…"
+    },
+    {
+      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
+      "link": "https://www.myjoyonline.com/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:52:14.000Z",
+      "summary": "The Head of the Revenue Assurance Department at the Ministry of Finance, Victor Kofi Baidoo, disclosed this at a meeting with members of the Ghana Institute of Freight Forwarders (GIFF) at…"
+    },
     {
       "title": "Ghana Hubs Network Develops 5 Year Strategy to Strengthen Start-up Support",
       "link": "https://thehighstreetjournal.com/ghana-hubs-networks-5-year-strategy/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T07:24:38.000Z",
       "summary": "Over 100 women traders at Makola Market have benefited from a financial literacy outreach led by Absa Bank Ghana employees as part of the bank's Colleague Volunteerism programme, a key…"
-    },
-    {
-      "title": "Ghana urges developed nations to honour climate finance commitments",
-      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-urges-developed-nations-to-honour-climate-finance-commitments/",
-      "source": "Ghana Business News",
-      "published": "2026-11-19T07:18:49.000Z",
-      "summary": "Ghana has urged developed countries to honour their climate finance commitments, warning that continued delays could undermine Africa’s confidence in international climate negotiations."
-    },
-    {
-      "title": "ADB announces GH¢1.4m ultimate prizes for 2026 National Best Farmer and Fisher",
-      "link": "https://www.myjoyonline.com/adb-announces-gh%c2%a21-4m-ultimate-prizes-for-2026-national-best-farmer-and-fisher/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T07:18:31.000Z",
-      "summary": "Agricultural Development Bank PLC (ADB) has reaffirmed its longstanding commitment to Ghana’s agricultural transformation with the announcement of its headline sponsorship package for the…"
-    },
-    {
-      "title": "Gov’t must improve spending efficiency, prioritise jobs in 2027 budget – ISSER",
-      "link": "https://www.myjoyonline.com/govt-must-improve-spending-efficiency-prioritise-jobs-in-2027-budget-isser/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T07:05:47.000Z",
-      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to strengthen oversight of public expenditure and prioritise investments in sectors capable of…"
     }
   ]
 };
