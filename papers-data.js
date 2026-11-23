@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:25:21.339Z",
+  "updated": "2026-11-23T07:35:22.444Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MoSR seeks Facility Manager for Borteyman Sports Complex",
+      "link": "https://ghanaiantimes.com.gh/mosr-seeks-facility-manager-for-borteyman-sports-complex/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:33:46.000Z",
+      "summary": "THE Minister of Sports and Recreation, Mr Kofi Adams, has indicated that the requisite procurement process to engage a qualified manager to manage the Borteyman Sports Complex has…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "JL Properties ranks 55th at Ghana Club 100 Awards",
+      "link": "https://ghanaiantimes.com.gh/jl-properties-ranks-55th-at-ghana-club-100-awards/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:29:28.000Z",
+      "summary": "JL Properties, an indigenous real estate development company, has been ranked 55th in the latest Ghana Club 100 list. The ranking was announced at the Ghana Club 100 Awards held in Accra…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GSE market capitalisation falls to GH¢258.83bn …as equities record mixed performance",
+      "link": "https://ghanaiantimes.com.gh/gse-market-capitalisation-falls-to-gh%c2%a2258-83bn-as-equities-record-mixed-performance/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:26:44.000Z",
+      "summary": "THE Ghana Stock Exchange (GSE) recorded a marginal decline in market capitalisation during the week ended November 20, 2026, as losses in some major equities outweighed gains in selected…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Alex Apau Dadey wins African Entrepreneur of the Year award",
       "link": "https://ghanaiantimes.com.gh/alex-apau-dadey-wins-african-entrepreneur-of-the-year-award/",
@@ -102,41 +135,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Productivity rises, but workers’ earnings lag — GSS report reveals",
-      "link": "https://ghanaiantimes.com.gh/productivity-rises-but-workers-earnings-lag-gss-report-reveals/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:56:57.000Z",
-      "summary": "THE number of employed people in Ghana has more than doubled over the past 35 years, rising from six million in 1992 to 13.3 million in 2025, but the majority of workers remain in the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Newmont urged to deepen local content, environmental protection",
-      "link": "https://ghanaiantimes.com.gh/newmont-urged-to-deepen-local-content-environmental-protection/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:50:42.000Z",
-      "summary": "NEWMONT Ghana Gold Limited has been urged to deepen its investment in local businesses and strengthen environmental protection as it marks 20 years of commercial gold production at its…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "When official messages confuse rather than inform: Is Ghana facing a communication problem?",
-      "link": "https://ghanaiantimes.com.gh/when-official-messages-confuse-rather-than-inform-is-ghana-facing-a-communication-problem/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:46:41.000Z",
-      "summary": "WHAT is the value of an official announcement if the people for whom it is intended cannot understand it? Should citizens struggle to interpret government directives, hospital instructions…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
       "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
       "source": "MyJoyOnline",
@@ -145,6 +143,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Banking and Finance",
         "Business",
+        "HP News 6",
         "National",
         "Kwamina Asomaning",
         "Stanbic Bank"
@@ -158,6 +157,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-23T06:07:51.000Z",
       "summary": "Ghana and the United Kingdom will seek to strengthen cooperation on terrorism, cybercrime, fraud and other shared threats at the fourth UK-Ghana Security Dialogue, scheduled to begin in…",
       "categories": [
+        "HP News 4",
         "National",
         "Cybercrime",
         "Terrorism"
