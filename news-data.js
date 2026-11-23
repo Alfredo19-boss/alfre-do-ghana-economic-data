@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T16:18:30.202Z",
+  "updated": "2026-11-23T16:23:33.054Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
+      "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:21:14.000Z",
+      "summary": "Ghana could generate nearly US$68 million from the sale of forest carbon credits after securing international verification for its efforts to reduce deforestation and forest degradation…"
+    },
     {
       "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
       "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T12:04:00.000Z",
       "summary": "Six major Accra flood-control interventions under the GARID Project are awaiting financial authorisation from the Ministry of Finance before contracts can be awarded and construction works…"
-    },
-    {
-      "title": "EY commends 2027 Budget but says its value depends on disciplined execution, measurable outcomes",
-      "link": "https://www.myjoyonline.com/ey-commends-2027-budget-but-says-its-value-depends-on-disciplined-execution-measurable-outcomes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:02:11.000Z",
-      "summary": "Commenting on the 2027 Budget, the Country Managing Partner, Emmanuel Adekhalor, said the ambition is clear, but delivery will be the ultimate test."
     }
   ]
 };

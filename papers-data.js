@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:19:01.583Z",
+  "updated": "2026-11-23T16:24:03.477Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,32 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
+      "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:21:14.000Z",
+      "summary": "Ghana could generate nearly US$68 million from the sale of forest carbon credits after securing international verification for its efforts to reduce deforestation and forest degradation…",
+      "categories": [
+        "Economy",
+        "National",
+        "carbon credits",
+        "Forestry Commission",
+        "REDD+"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
+      "link": "https://ghanaiantimes.com.gh/igp-in-high-level-engagements-with-netherlands-police-to-strengthen-policing-partnerships/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T16:20:55.000Z",
+      "summary": "The Inspector General of Police (IGP), Mr. Christian Tetteh Yohuno, has led a delegation of senior officers of the Ghana Police Service in high level engagements with the Netherlands Police…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Israel calls for stronger international security cooperation",
       "link": "https://ghanaiantimes.com.gh/israel-calls-for-stronger-international-security-cooperation/",
       "source": "Ghanaian Times",
@@ -30,6 +56,21 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana’s US$1.5 bn critical minerals plan: Will benefits reach young people, mining communities?",
+      "link": "https://www.myjoyonline.com/ghanas-us1-5-bn-critical-minerals-plan-will-benefits-reach-young-people-mining-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:18:24.000Z",
+      "summary": "Government has set ambitious targets for local mineral processing. The real test will be whether the programme creates decent jobs, strengthens Ghanaian businesses and delivers measurable…",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "Mining communities",
+        "US$1.5 bn critical minerals plan",
+        "Young people"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Medical Trust Fund moves Miguel to Euracare after Korle Bu’s GH¢77,561 ‘no bed’ delay",
@@ -65,6 +106,7 @@ window.GDC_PAPERS = {
       "summary": "Founder of the Multimedia Group, Kwasi Twum, is set to be honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
       "categories": [
         "Education",
+        "HP News 7",
         "National",
         "FAF Awards",
         "Kwasi Twum",
@@ -141,35 +183,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gifted students should be exempted from BECE age restriction – IFEST",
-      "link": "https://www.myjoyonline.com/gifted-students-should-be-exempted-from-bece-age-restriction-ifest/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:41:00.000Z",
-      "summary": "The Institute for Education Studies (IFEST) has called on the Ministry of Education to make exceptions for exceptionally gifted students under its directive restricting early participation…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "BECE",
-        "Gifted students",
-        "IFEST"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Courts not forums for “vengeance against former employees” – Judge tells Lighthouse Chapel",
-      "link": "https://www.myjoyonline.com/courts-not-forums-for-vengeance-against-former-employees-judge-tells-lighthouse-chapel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:21:28.000Z",
-      "summary": "High Court Judge, Justice Marie-Louise Simmons, says the courts are not forums for “vengeance against former employees”. She served this strong notice in a case involving the Lighthouse…",
-      "categories": [
-        "National",
-        "court",
-        "Lighthouse Chapel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Education Ministry bans 'early' BECE writing: Offenders face 2-year exam suspension",
       "link": "https://www.graphic.com.gh/news/education/education-ministry-bans-early-bece-writing-offenders-face-2-year-exam-suspension.html",
       "source": "Daily Graphic",
@@ -225,17 +238,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ministry of sports congratulates Black Challenge on winning 2026 Amputee football World Cup",
-      "link": "https://ghanaiantimes.com.gh/ministry-of-sports-congratulates-black-challenge-on-winning-2026-amputee-football-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T14:14:46.000Z",
-      "summary": "The Ministry of Sports and Recreation has congratulated Ghana’s national amputee football team, the Black Challenge, on winning the 2026 Amputee Football World Cup in Mexico. In a press…",
-      "categories": [
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
