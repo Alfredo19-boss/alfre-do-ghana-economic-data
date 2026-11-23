@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T04:54:52.444Z",
+  "updated": "2026-11-23T05:04:51.660Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,62 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gold Price Rebounds on Sunday Evening, With COMEX Futures Up About 2.8%: What Does the Week Hold?",
+      "link": "https://thehighstreetjournal.com/gold-price-rebounds-on-sunday-evening-with-comex-futures-up-about-2-8-what-does-the-week-hold/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:03:00.000Z",
+      "summary": "Gold rebounded on Sunday evening, with COMEX December futures up 2.83% to $3,614.90 after last week's steep fall. US inflation data could decide whether the gains last, with Ghana's…"
+    },
+    {
+      "title": "Gold Price Should Be Giving Managers of the Economy a Headache",
+      "link": "https://thehighstreetjournal.com/gold-price-should-be-giving-managers-of-the-economy-a-headache/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:02:00.000Z",
+      "summary": "Gold’s sharpest weekly decline in months raises fresh concerns over Ghana’s export earnings, foreign exchange buffers and cedi stability."
+    },
+    {
+      "title": "PK Amoabeng Foundation Donates Books to Schools in Bid to Promote Reading & Entrepreneurship",
+      "link": "https://thehighstreetjournal.com/pk-amoabeng-foundation-donates-to-schools/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:01:00.000Z",
+      "summary": "The PK Amoabeng Foundation has donated books and educational materials to two senior high schools and a public library in Frafraha as part of efforts to promote literacy and encourage young…"
+    },
+    {
+      "title": "T-Bills Record Marginal 1.8% Oversubscription A Week After Budget Reading Amid Yield Drop",
+      "link": "https://thehighstreetjournal.com/t-bills-record-marginal-1-8-oversubscription-a-week-after-budget-reading-amid-yield-drop/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "Ghana’s T-Bills auction recorded marginal 1.86% oversubscription a week after the 2027 Budget presentation, but government accepted only GH¢3.45 billion against its GH¢4.25 billion target…"
+    },
+    {
+      "title": "Ghana’s 500,000-Tonne Fish Supply Gap Puts Focus on Market Infrastructure",
+      "link": "https://thehighstreetjournal.com/ghanas-500000-tonne-fish-supply-gap-puts-focus-on-market-infrastructure-2/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "Ghana plans fish markets in Accra and Dambai as authorities seek to improve preservation, reduce post-harvest losses and address an annual domestic fish supply deficit of 500,000 metric…"
+    },
+    {
+      "title": "Ghana’s Fintech Industry Faces Data Integration Challenge in Expanding Business Credit",
+      "link": "https://thehighstreetjournal.com/ghanas-fintech-industry-faces-data-integration-challenge-in-expanding-business-credit/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "Fragmented financial data is limiting Ghana’s ability to translate digital transactions into business credit, prompting calls for stronger integration among banks, mobile money operators…"
+    },
+    {
+      "title": "Accra-Kumasi Expressway Could Open Ghana to Wider Sahel Markets, Deloitte Says",
+      "link": "https://thehighstreetjournal.com/accra-kumasi-expressway-could-open-ghana-to-wider-sahel-markets-deloitte-says/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "Deloitte says integrating the Accra-Kumasi Expressway into regional transport corridors could expand Ghana’s access to Sahelian markets, strengthen logistics competitiveness and unlock…"
+    },
+    {
+      "title": "GH¢8,050 Hostel Bill Exposes Ghana’s University Access Gap",
+      "link": "https://thehighstreetjournal.com/gh%c2%a28050-hostel-bill-exposes-ghanas-university-access-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "Rising hostel fees at the University of Ghana expose the gap between affordable university admission and students’ ability to secure safe, accessible accommodation."
+    },
     {
       "title": "BoG pushes for cheaper cross-border payments at Singapore finance meetings",
       "link": "https://www.myjoyonline.com/bog-pushes-for-cheaper-cross-border-payments-at-singapore-finance-meetings/",
@@ -90,13 +146,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T17:00:00.000Z",
       "summary": "Chocolate infused with kelewele spices and chilli is among the unusual creations attracting visitors to the Ghana Expo (GEXPO) 2026 at the Black Star Square in Accra, as local producers…"
-    },
-    {
-      "title": "Ghana’s 500,000-Tonne Fish Supply Gap Puts Focus on Market Infrastructure",
-      "link": "https://thehighstreetjournal.com/ghanas-500000-tonne-fish-supply-gap-puts-focus-on-market-infrastructure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T16:41:36.000Z",
-      "summary": "Ghana’s annual fish supply deficit of about 500,000 metric tonnes is raising the stakes for investment in inland fisheries infrastructure, with Government planning dedicated fish markets in…"
     },
     {
       "title": "Ghana’s Fastest-Growing Sectors Create Few Jobs As Investment Slows",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T05:00:00.000Z",
       "summary": "Veteran banker Patricia Sappor has been appointed CXP Ghana Council Chair, bringing 33 years of experience to efforts to strengthen customer-centred business practices."
-    },
-    {
-      "title": "10% Community Equity Demand Could Reshape Ghana’s Mining Investment Landscape",
-      "link": "https://thehighstreetjournal.com/10-community-equity-demand-could-reshape-ghanas-mining-investment-landscape/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T05:00:00.000Z",
-      "summary": "WPN's proposed 10% community equity stake and 2% revenue share could introduce new regulatory obligations and raise concerns over mining investment returns and Ghana's competitiveness."
-    },
-    {
-      "title": "Banking trailblazer Bishop Patricia Sappor named Chair of CXP Ghana Council",
-      "link": "https://www.myjoyonline.com/banking-trailblazer-bishop-patricia-sappor-named-chair-of-cxp-ghana-council/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:59:00.000Z",
-      "summary": "Customer Experience Professionals Ghana (CXP Ghana) has appointed veteran banker and customer service pioneer Bishop Patricia Sappor as Chair of its Council."
-    },
-    {
-      "title": "GoldBod looks beyond 2 refineries to expand local gold processing – Dr Manteaw",
-      "link": "https://www.myjoyonline.com/goldbod-looks-beyond-2-refineries-to-expand-local-gold-processing-dr-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:50:18.000Z",
-      "summary": "The Ghana Gold Board intends to work with more refineries and is considering building its own facility to expand local gold processing, Dr Steven Manteaw has said."
-    },
-    {
-      "title": "Government must show how it will deliver gold refining target – Manteaw",
-      "link": "https://www.myjoyonline.com/government-must-show-how-it-will-deliver-gold-refining-target-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T04:30:00.000Z",
-      "summary": "Dr Steven Manteaw has urged the government to explain how it will deliver its gold refining targets, saying the ambition is achievable but the implementation roadmap remains unclear."
-    },
-    {
-      "title": "94.6% of ASM Gold purchased in October was locally refined – GoldBod",
-      "link": "https://www.myjoyonline.com/94-6-of-asm-gold-purchased-in-october-was-locally-refined-goldbod/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:50:26.000Z",
-      "summary": "The Media Relations Officer of Ghana Gold Board (GoldBod), Prince Kwame Minkah, says the institution is making significant headway in its drive to keep more of the value generated from the…"
-    },
-    {
-      "title": "Emirates boss says fuel, not demand, squeezing airline profits",
-      "link": "https://www.myjoyonline.com/emirates-boss-says-fuel-not-demand-squeezing-airline-profits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:44:00.000Z",
-      "summary": "Emirates, the Middle East's largest airline, is seeing strong demand on routes to China, Russia, and Africa, but is feeling the squeeze from high fuel prices linked to the Iran war, its…"
-    },
-    {
-      "title": "Large-Scale mines to supply gold for Ghana refinery’s certification drive – Ken Ashigbey",
-      "link": "https://www.myjoyonline.com/large-scale-mines-to-supply-gold-for-ghana-refinerys-certification-drive-ken-ashigbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T03:19:00.000Z",
-      "summary": "The Royal Ghana Gold Refinery is receiving feedstock from large-scale mines as part of its bid to secure LBMA certification, Dr Ken Ashigbey said."
     }
   ]
 };

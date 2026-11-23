@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T04:55:22.258Z",
+  "updated": "2026-11-23T05:05:21.969Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Efya makes first public appearance after marriage",
+      "link": "https://www.myjoyonline.com/efya-makes-first-public-appearance-after-marriage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:53:00.000Z",
+      "summary": "Ghanaian songstress Efya made her first public appearance since marrying Nigerian musician Tomi Thomas, gracing the 5th anniversary celebration of Shapes By Nelson last Tuesday.",
+      "categories": [
+        "Music",
+        "Efya"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Art against antimicrobial resistance: How Techiman is using creativity to fight drug resistance",
+      "link": "https://www.myjoyonline.com/art-against-antimicrobial-resistance-how-techiman-is-using-creativity-to-fight-drug-resistance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:52:24.000Z",
+      "summary": "The Techiman Public Library has been transformed into a vibrant canvas of hope and health this week, as Art Against AMR Ghana brings together students, traders, health workers, and…",
+      "categories": [
+        "Regional",
+        "fight drug",
+        "Techiman",
+        "World AMR Awareness Week 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vice President urges protection of children from hazardous work",
+      "link": "https://www.myjoyonline.com/vice-president-urges-protection-of-children-from-hazardous-work/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T04:51:43.000Z",
+      "summary": "President Professor Jane Naana Opoku-Agyemang has called for collective and concerted efforts towards protecting children from exploitative labour in the nation’s fishing industry.",
+      "categories": [
+        "National",
+        "Children",
+        "Vice President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Abena Osei-Asare calls for citizens’ support in fight against corruption",
       "link": "https://www.myjoyonline.com/abena-osei-asare-calls-for-citizens-support-in-fight-against-corruption/",
@@ -88,49 +127,6 @@ window.GDC_PAPERS = {
         "National",
         "bondholders",
         "Domestic Debt Exchange Programme (DDEP)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Challenge conquer the world as Ghana beat Morocco to claim historic title",
-      "link": "https://www.myjoyonline.com/black-challenge-conquer-the-world-as-ghana-beat-morocco-to-claim-historic-title/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T03:51:00.000Z",
-      "summary": "Ghana’s Black Challenge are world champions after defeating Morocco 1–0 on Sunday to win their first World Amputee Football World Cup title.",
-      "categories": [
-        "Football",
-        "National",
-        "Top Story",
-        "Black Challenge",
-        "Ghana",
-        "Morocco",
-        "World Amputee Football World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Death toll from Nigeria boat accident rises to 24",
-      "link": "https://www.myjoyonline.com/death-toll-from-nigeria-boat-accident-rises-to-24/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T03:33:00.000Z",
-      "summary": "At least 24 people died when a crowded ​boat carrying people to a funeral in ‌southern Nigeria capsized on Friday, the National Emergency Management Agency (NEMA) said.",
-      "categories": [
-        "Africa",
-        "Boat accident",
-        "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Six venues chosen for Africa Cup of Nations finals",
-      "link": "https://www.myjoyonline.com/six-venues-chosen-for-africa-cup-of-nations-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T03:25:00.000Z",
-      "summary": "Six venues have been chosen to host matches at next year's Africa Cup of Nations finals, co-hosted by Kenya, Tanzania and Uganda.",
-      "categories": [
-        "Africa",
-        "Football",
-        "Africa Cup of Nations (Afcon)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
