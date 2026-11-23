@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T03:25:22.968Z",
+  "updated": "2026-11-23T03:35:22.322Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Oil prices fall amid equity selloff, though Iran war attacks limit losses",
+      "link": "https://www.myjoyonline.com/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T02:10:00.000Z",
+      "summary": "Oil prices fell on Monday as the selloff in the wider financial markets amid concerns about the ability of the AI sector to ​boost economic growth spilled over into commodities, though the…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
       "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
@@ -40,6 +53,18 @@ window.GDC_PAPERS = {
         "Fitch Solutions",
         "Multilateral creditors",
         "Sinking Fund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Melania Trump gives a peek inside her marriage, motherhood and more in new series",
+      "link": "https://www.myjoyonline.com/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T00:07:00.000Z",
+      "summary": "Melania Trump is back on screens on Friday with another behind-the-scenes look at her life before and after she became first lady, discussing her marriage to President Donald Trump, her…",
+      "categories": [
+        "International",
+        "Melania Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,37 +136,6 @@ window.GDC_PAPERS = {
         "Football",
         "UK",
         "Women's World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
-      "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:26:44.000Z",
-      "summary": "Also, earnings are below output per worker. In 2025, the average worker produced GH₵15,197 in value added and earned GH₵9,388. In industry, output per worker was GH₵30,588 and earnings were…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 4",
-        "Capital per worker",
-        "earnings",
-        "GSS",
-        "Job quality",
-        "Productivity"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lock of former US President George Washington’s hair sells for $4,000",
-      "link": "https://www.myjoyonline.com/lock-of-former-us-president-george-washingtons-hair-sells-for-4000/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:25:00.000Z",
-      "summary": "A framed lock of hair from America's first president, George Washington, has been sold at auction for $4,000 (£3,058).",
-      "categories": [
-        "International",
-        "George Washington",
-        "Hair"
       ],
       "site": "https://www.myjoyonline.com/"
     },
