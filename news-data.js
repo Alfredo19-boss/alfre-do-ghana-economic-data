@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T07:54:51.761Z",
+  "updated": "2026-11-23T11:48:25.626Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,62 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Hubs Network Develops 5 Year Strategy to Strengthen Start-up Support",
+      "link": "https://thehighstreetjournal.com/ghana-hubs-networks-5-year-strategy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T11:45:00.000Z",
+      "summary": "The initiative is being implemented under the Private Sector and Innovation Promotion in Ghana (PSInno) programme, commissioned by Germany's Federal Ministry for Economic Cooperation and…"
+    },
+    {
+      "title": "JoyNews’ Pious Kojo Backah named Media Personality of the Year at the 6th Chamber Business Awards",
+      "link": "https://www.myjoyonline.com/joynews-pious-kojo-backah-named-media-personality-of-the-year-at-the-6th-chamber-business-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:36:59.000Z",
+      "summary": "JoyNews journalist Pious Kojo Backah has been named Media Personality of the Year at the 6th Chamber Business Awards organised by the Ghana National Chamber of Commerce and Industry…"
+    },
+    {
+      "title": "Nuclear power will drive industry, create jobs and secure Ghana’s future — Ato Forson",
+      "link": "https://www.myjoyonline.com/nuclear-power-will-drive-industry-create-jobs-and-secure-ghanas-future-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:32:45.000Z",
+      "summary": "In a video message on the government’s New Economy agenda, Dr. Forson outlined plans for a fully state-owned nuclear power plant, describing the initiative as a long-term investment in…"
+    },
+    {
+      "title": "Boankra Inland Port 85% complete — Prof Gyampo",
+      "link": "https://www.myjoyonline.com/boankra-inland-port-85-complete-prof-gyampo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T10:24:12.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Shippers’ Authority (GSA) Prof. Ransford Gyampo has announced that the Boankra Integrated Logistics Terminal (BILT), popularly known as the Boankra…"
+    },
+    {
+      "title": "GSA launches digital platform to fight Non-Tariff Barriers",
+      "link": "https://www.myjoyonline.com/gsa-launches-digital-platform-to-fight-non-tariff-barriers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T10:15:29.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) has developed a digital Non-Tariff Barriers (NTB) Reporting and Resolution Platform in collaboration with the Ministry of Trade, Agribusiness and…"
+    },
+    {
+      "title": "GSA caps container charge at GH¢ GH¢720",
+      "link": "https://www.myjoyonline.com/gsa-caps-container-charge-at-gh%c2%a2-gh%c2%a2720/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T09:45:36.000Z",
+      "summary": "The Ghana Shippers’ Authority (GSA) has capped the Container Administrative Charge (CAC) at GH¢720 per Twenty-Foot Container, after studies showed Ghanaian shippers were paying three times…"
+    },
+    {
+      "title": "Ghana Could Be Making Significant Debt-Service Savings in the GH¢28.58bn Bond Buyback",
+      "link": "https://thehighstreetjournal.com/ghana-could-be-making-significant-debt-service-savings-in-the-gh%c2%a228-58bn-bond-buyback/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T09:30:00.000Z",
+      "summary": "Ghana could reduce future debt-service obligations through a voluntary GH¢28.58 billion bond buyback, purchasing bonds at a discount. Actual savings will depend on investor participation…"
+    },
+    {
+      "title": "Ghana’s Cheaper Credit Push Now Depends on Commercial Banks",
+      "link": "https://thehighstreetjournal.com/ghanas-cheaper-credit-push-now-depends-on-commercial-banks/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T09:08:29.000Z",
+      "summary": "Ghana's lower policy rate has increased expectations for cheaper business financing, but commercial banks must translate the monetary easing into affordable loans and expanded credit for…"
+    },
     {
       "title": "Rising shipping costs could push up prices of goods in Ghana – Expert",
       "link": "https://www.ghanabusinessnews.com/2026/11/23/rising-shipping-costs-could-push-up-prices-of-goods-in-ghana-expert/",
@@ -1014,62 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T07:05:47.000Z",
       "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to strengthen oversight of public expenditure and prioritise investments in sectors capable of…"
-    },
-    {
-      "title": "Mobile money transactions hit GH¢4.9tn in first 10 months – BoG",
-      "link": "https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a24-9tn-in-first-10-months-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T07:02:00.000Z",
-      "summary": "Mobile money transactions totalled GH¢4.9 trillion between January and October 2026, according to the Bank of Ghana (BoG)’s latest Economic and Financial Data."
-    },
-    {
-      "title": "Minerals Commission, CalBank sign GH¢1bn financing partnership to empower indigenous businesses in mining sector",
-      "link": "https://www.myjoyonline.com/minerals-commission-calbank-sign-gh%c2%a21bn-financing-partnership-to-empower-indigenous-businesses-in-mining-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T06:58:19.000Z",
-      "summary": "The Minerals Commission and CalBank have signed a Memorandum of Understanding (MoU) aimed at strengthening indigenous participation and expanding access to financing opportunities across…"
-    },
-    {
-      "title": "Trade Minister urges industries to add one more shift to operations to advance 24-hour economy",
-      "link": "https://www.myjoyonline.com/trade-minister-urges-industries-to-add-one-more-shift-to-operations-to-advance-24-hour-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T06:49:51.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has challenged Ghanaian businesses to expand their operations by introducing additional shifts to make the…"
-    },
-    {
-      "title": "Ghana’s cannabis industry featured at international hemp expo in Japan",
-      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghanas-cannabis-industry-featured-at-international-hemp-expo-in-japan/",
-      "source": "Ghana Business News",
-      "published": "2026-11-19T06:46:03.000Z",
-      "summary": "Ghana’s emerging industrial hemp and regulated medical cannabis sectors featured in international discussions at the Japan International Hemp Expo (JIHE) 2026 in Tokyo."
-    },
-    {
-      "title": "Mahama urges Ghanaian businesses to take advantage of $10bn New Economy Programme",
-      "link": "https://www.myjoyonline.com/mahama-urges-ghanaian-businesses-to-take-advantage-of-10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T06:39:37.000Z",
-      "summary": "President John Dramani Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s $10 billion New Economy Programme, warning against allowing foreign…"
-    },
-    {
-      "title": "Ghana government urged to leverage UNESCO kente honour for tourism",
-      "link": "https://www.ghanabusinessnews.com/2026/11/19/ghana-government-urged-to-leverage-unesco-kente-honour-for-tourism/",
-      "source": "Ghana Business News",
-      "published": "2026-11-19T06:36:16.000Z",
-      "summary": "Mr Joel Degue, Tourism Developer, Promoter and Consultant has urged the government to leverage Kente’s (Kete in Ewe) UNESCO recognition to drive tourism and economic gains, saying Ghana is…"
-    },
-    {
-      "title": "Mahama demands faster port clearance to cut business costs",
-      "link": "https://www.myjoyonline.com/mahama-demands-faster-port-clearance-to-cut-business-costs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:23:05.000Z",
-      "summary": "President John Dramani Mahama has tasked the Ministers of Trade and Industry and Transport to tackle delays at the country’s ports, saying inefficiencies in the movement of goods are…"
-    },
-    {
-      "title": "Manufacture in Ghana, share technology – Julius Debrah urges Chinese firms",
-      "link": "https://www.myjoyonline.com/manufacture-in-ghana-share-technology-julius-debrah-urges-chinese-firms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T05:08:00.000Z",
-      "summary": "Chief of Staff Julius Debrah has urged Chinese businesses and institutions to manufacture in Ghana, work with local suppliers and share technology and skills to support the country’s…"
     }
   ]
 };

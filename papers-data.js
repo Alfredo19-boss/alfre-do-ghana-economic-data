@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:55:21.918Z",
+  "updated": "2026-11-23T11:48:56.148Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,221 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GPL: ‘We lost focus in the final minutes’ – Hearts of Oak’s Mohammed Hussein on draw with Aduana",
+      "link": "https://www.myjoyonline.com/gpl-we-lost-focus-in-the-final-minutes-hearts-of-oaks-mohammed-hussein-on-draw-with-aduana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:45:43.000Z",
+      "summary": "The Phobians gave up a two-goal lead in the matchday 12 fixture to pick up one point after the game ended 2-2 at the University of Ghana Stadium.",
+      "categories": [
+        "Football",
+        "National",
+        "Aduana FC",
+        "Ghana Premier League",
+        "Hearts of Oak",
+        "Mohammed Hussein"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "OB: A different kind of GJA/P.A.V. Ansah Journalist of the Year awardee",
+      "link": "https://www.myjoyonline.com/ob-a-different-kind-of-gja-p-a-v-ansah-journalist-of-the-year-awardee/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:45:34.000Z",
+      "summary": "When the name was mentioned at La Palm Royal Beach Hotel on the night of Saturday, November 7, 2026, it did not belong to a reporter fresh from a galamsey pit or a war zone.",
+      "categories": [
+        "National",
+        "News",
+        "Opinion",
+        "GJA",
+        "OB",
+        "Philip Osei Bonsu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "JoyNews’ Pious Kojo Backah named Media Personality of the Year at the 6th Chamber Business Awards",
+      "link": "https://www.myjoyonline.com/joynews-pious-kojo-backah-named-media-personality-of-the-year-at-the-6th-chamber-business-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:36:59.000Z",
+      "summary": "JoyNews journalist Pious Kojo Backah has been named Media Personality of the Year at the 6th Chamber Business Awards organised by the Ghana National Chamber of Commerce and Industry…",
+      "categories": [
+        "Business",
+        "Events",
+        "National",
+        "Radio & TV",
+        "6th Chamber awards",
+        "JoyNews",
+        "Pious Kojo Backah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nuclear power will drive industry, create jobs and secure Ghana’s future — Ato Forson",
+      "link": "https://www.myjoyonline.com/nuclear-power-will-drive-industry-create-jobs-and-secure-ghanas-future-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:32:45.000Z",
+      "summary": "In a video message on the government’s New Economy agenda, Dr. Forson outlined plans for a fully state-owned nuclear power plant, describing the initiative as a long-term investment in…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Dr Ato Forson",
+        "Ministry of Finance",
+        "new economy",
+        "nuclear power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adentan High Court convicts Ghana Christian University president, Council chair of contempt; orders reinstatement of vice president",
+      "link": "https://www.myjoyonline.com/adentan-high-court-convicts-ghana-christian-university-president-council-chair-of-contempt-orders-reinstatement-of-vice-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:23:41.000Z",
+      "summary": "The Adentan High Court has found the President of Ghana Christian University College, Rev. Dr James Yamoah, and the Chairman of the University Council, Professor Samuel K. Offei, guilty of…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "News",
+        "Ghana Christian University",
+        "High Court"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Governments weaponising misinformation laws to silence journalists and critics – CJID CEO",
+      "link": "https://www.myjoyonline.com/governments-weaponising-misinformation-laws-to-silence-journalists-and-critics-cjid-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:21:23.000Z",
+      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has warned that laws introduced to combat misinformation are increasingly…",
+      "categories": [
+        "Africa",
+        "CJID",
+        "Critics",
+        "Journalists",
+        "Misinformation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petroleum workers threaten nationwide strike over NPA Bill",
+      "link": "https://www.graphic.com.gh/news/general-news/petroleum-workers-threaten-nationwide-strike-over-npa-bill.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T11:17:56.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Global tech giants exploiting African journalism without fair compensation – CJID CEO",
+      "link": "https://www.myjoyonline.com/global-tech-giants-exploiting-african-journalism-without-fair-compensation-cjid-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:17:48.000Z",
+      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has accused global technology companies of profiting from African journalism…",
+      "categories": [
+        "Africa",
+        "Technology",
+        "CJID",
+        "fair compensation",
+        "Journalism",
+        "tech giants"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa risks losing control of its media future to foreign AI companies – CJID CEO warns",
+      "link": "https://www.myjoyonline.com/africa-risks-losing-control-of-its-media-future-to-foreign-ai-companies-cjid-ceo-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T11:13:49.000Z",
+      "summary": "The Chief Executive Officer of the Centre for Journalism Innovation and Development (CJID), Dapo Olorunyomi, has warned that Africa risks surrendering control of its information ecosystem…",
+      "categories": [
+        "Africa",
+        "Technology",
+        "AI",
+        "CJID",
+        "Media and development conference"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government announces GH¢10m seed funding for UniMAC",
+      "link": "https://www.graphic.com.gh/news/education/government-announces-ghc10m-seed-funding-for-unimac.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T11:01:37.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "See requirements for applying for DVLA 2027 DV trade plates as applications open",
+      "link": "https://www.graphic.com.gh/news/general-news/dvla-opens-applications-for-2027-dv-trade-plates.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T10:53:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "link": "https://www.graphic.com.gh/news/health/can-ai-spot-breast-cancer-earlier-nhs-launches-worlds-largest-trial-to-find-out.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T10:20:31.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "FIPAG calls for review of Automated Fire Compliance and Safety System",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fipag-calls-for-review-of-automated-fire-compliance-and-safety-system.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T08:42:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt cuts VAT, triples threshold to ease cost of doing business - Vice-President",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-cuts-vat-triples-threshold-to-ease-cost-of-doing-business-vice-president.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T08:22:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UG hostel fees controversy: Govt backs Rent Control bid to curb high charges",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ug-hostel-fees-controversy-govt-backs-rent-control-bid-to-curb-high-charges.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T08:18:41.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt to create rice hubs",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-to-create-rice-hubs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T08:16:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "ndonesia factory fire kills 3, 36 missing",
       "link": "https://ghanaiantimes.com.gh/ndonesia-factory-fire-kills-3-36-missing/",
@@ -107,214 +322,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Sports Ministry congratulates Black Challenge on amputee football World Cup victory",
-      "link": "https://www.myjoyonline.com/sports-ministry-congratulates-black-challenge-on-amputee-football-world-cup-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T07:33:00.000Z",
-      "summary": "The Ministry of Sports and Recreation has congratulated the Black Challenge on winning the 2026 Amputee Football World Cup in Mexico.",
-      "categories": [
-        "HP News 1",
-        "HP Sports 2",
-        "National",
-        "Sports",
-        "2026 World Amputee World Cup",
-        "Black Challenge",
-        "Football"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thousands travel to COP. One Ghanaian journalist follows the negotiations from home",
-      "link": "https://www.myjoyonline.com/thousands-travel-to-cop-one-ghanaian-journalist-follows-the-negotiations-from-home/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T07:31:40.000Z",
-      "summary": "For about seven years, Mahmud Mohammed-Nurudeen has followed the United Nations climate conferences from Ghana, examining the documents, decisions and political arguments that shape the…",
-      "categories": [
-        "Africa",
-        "Features",
-        "National",
-        "News",
-        "Politics",
-        "Climate change",
-        "COP",
-        "Food security",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court remands teenagers in GH¢38,477 WhatsApp romance scam",
-      "link": "https://www.graphic.com.gh/news/general-news/court-remands-teenagers-in-ghc38-477-whatsapp-romance-scam.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T07:17:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "\"Valuable lady\": COP31 President apologises to Ghana’s Environment Minister after plenary disruption",
-      "link": "https://www.graphic.com.gh/news/general-news/valuable-lady-cop31-president-apologises-to-ghanas-environment-minister-after-plenary-disruption.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T07:10:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
-      "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T06:16:00.000Z",
-      "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP News 6",
-        "National",
-        "Kwamina Asomaning",
-        "Stanbic Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, UK target terrorism, cybercrime and fraud at London security talks",
-      "link": "https://www.myjoyonline.com/ghana-uk-target-terrorism-cybercrime-and-fraud-at-london-security-talks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T06:07:51.000Z",
-      "summary": "Ghana and the United Kingdom will seek to strengthen cooperation on terrorism, cybercrime, fraud and other shared threats at the fourth UK-Ghana Security Dialogue, scheduled to begin in…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Cybercrime",
-        "Terrorism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
-      "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:57:35.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) is prioritising tighter oversight of shipping charges, stronger enforcement, and faster complaint resolution in 2027 as it works to deliver on its…",
-      "categories": [
-        "Economy",
-        "National",
-        "Dr Ransford Gyampo",
-        "Ghana Shippers’ Authority (GSA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kpebu challenges NACOC over suspects’ two-month detention in cocaine case",
-      "link": "https://www.myjoyonline.com/kpebu-challenges-nacoc-over-suspects-two-month-detention-in-cocaine-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:44:00.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has accused the Narcotics Control Commission (NACOC) of violating the rights of suspects held in connection with a 3.9-tonne cocaine seizure in…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Martin Kpebu",
-        "NACOC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES recruitment portal set to open today after technical delay",
-      "link": "https://www.myjoyonline.com/ges-recruitment-portal-set-to-open-today-after-technical-delay/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:35:00.000Z",
-      "summary": "The Ghana Education Service (GES) recruitment portal is expected to open today, Monday, November 23, after technical difficulties delayed its scheduled launch.",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "Ghana Education Service (GES)",
-        "recruitment portal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From selling fried yam to GCB: Naa Abeka Nunoo shares her journey",
-      "link": "https://www.myjoyonline.com/from-selling-fried-yam-to-gcb-naa-abeka-nunoo-shares-her-journey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:28:00.000Z",
-      "summary": "Digital marketing and public relations professional Naa Abeka Nunoo has shared how selling fried yam after secondary school became the starting point of a career that would eventually take…",
-      "categories": [
-        "Features",
-        "Naa Abeka Nunoo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man who severed penis after injury while squatting on WC having 'good erections' 3 weeks after Korle Bu surgeons successfully reattached it",
-      "link": "https://www.graphic.com.gh/news/general-news/man-who-severed-penis-after-injury-while-squatting-on-wc-having-good-erections-3-weeks-after-korle-bu-surgeons-successfully-reattached-it.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T19:31:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GTEC does not, and will never recruit staff for universities; GTEC is only facilitating - Prof Jinapor Abdulai to UTAG",
-      "link": "https://www.graphic.com.gh/news/education/gtec-does-not-and-will-never-recruit-staff-for-universities-gtec-is-only-facilitating-and-recognises-autonomy-of-prof-jinapor-abdulai-to-utag.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T18:00:09.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Korle Bu's Dr Ernestina Schandorf becomes West Africa's first Paediatric Neuro-Oncologist",
-      "link": "https://www.graphic.com.gh/news/general-news/korle-bus-dr-ernestina-schandorf-becomes-west-africas-first-paediatric-neuro-oncologist.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T17:55:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana-Japan relations must go beyond development assistance — Ambassador",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-japan-relations-must-go-beyond-development-assistance-ambassador.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T16:41:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC UK-Ireland Chapter elects new executives",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-uk-ireland-chapter-elects-new-executives.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T16:25:44.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Roads Minister Kwame Agbodza Inducted into Ghana Institute of Architects Hall of Fellows",
-      "link": "https://www.graphic.com.gh/news/general-news/roads-minister-kwame-agbodza-inducted-into-ghana-institute-of-architects-hall-of-fellows.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T16:14:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
