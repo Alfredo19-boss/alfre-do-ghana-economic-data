@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T07:15:23.870Z",
+  "updated": "2026-11-23T07:25:21.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,52 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Alex Apau Dadey wins African Entrepreneur of the Year award",
+      "link": "https://ghanaiantimes.com.gh/alex-apau-dadey-wins-african-entrepreneur-of-the-year-award/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:24:23.000Z",
+      "summary": "GHANAIAN businessman and Executive Chairman of the KGL Group of Companies, Alex Apau Dadey, has been named Entrepreneur of the Year at the 14th All Africa Business Leaders Awards (AABLA)…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Embrace AI, sustainable practices to cut costs — Veep",
+      "link": "https://ghanaiantimes.com.gh/embrace-ai-sustainable-practices-to-cut-costs-veep/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:21:21.000Z",
+      "summary": "THE Vice-President, Professor Naana Jane Opoku-Agyemang, has tasked businesses to adopt artificial intelligence (AI) and sustainable production practices to cut operational costs, improve…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "$10bn economic plan needs all hands on deck • Pres Mahama calls on opposition to join drive",
+      "link": "https://ghanaiantimes.com.gh/10bn-economic-plan-needs-all-hands-on-deck-pres-mahama-calls-on-opposition-to-join-drive/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T07:17:38.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has called on the political opposition to support government’s US$10 billion New Economy programme. The President said the programme was national in character…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Court remands teenagers in GH¢38,477 WhatsApp romance scam",
+      "link": "https://www.graphic.com.gh/news/general-news/court-remands-teenagers-in-ghc38-477-whatsapp-romance-scam.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T07:17:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "MIIF mobilises GH¢9bn in royalties, beats annual target",
       "link": "https://ghanaiantimes.com.gh/miif-mobilises-gh%c2%a29bn-in-royalties-beats-annual-target/",
       "source": "Ghanaian Times",
@@ -31,6 +77,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "\"Valuable lady\": COP31 President apologises to Ghana’s Environment Minister after plenary disruption",
+      "link": "https://www.graphic.com.gh/news/general-news/valuable-lady-cop31-president-apologises-to-ghanas-environment-minister-after-plenary-disruption.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T07:10:09.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Govt backs $250m bauxite deal • Ecobank strengthens presence in Awaso",
@@ -80,40 +137,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
-      "link": "https://ghanaiantimes.com.gh/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:44:40.000Z",
-      "summary": "NINE months in, a career Customs officer is proving that the best person to lead Customs is one who has lived it. There is an old saying in the corridors of the Customs Division: the job…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Speaker urges Africa to take ownership of its narrative",
-      "link": "https://ghanaiantimes.com.gh/speaker-urges-africa-to-take-ownership-of-its-narrative/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:38:02.000Z",
-      "summary": "THE Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin, has urged governments, legislatures and communication professionals to regard responsible communication as a democratic…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Economic growth must benefit workers",
-      "link": "https://ghanaiantimes.com.gh/economic-growth-must-benefit-workers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T06:36:06.000Z",
-      "summary": "GHANA’S economy has made considerable progress over the past 35 years, but the question is whether ordinary workers have benefited sufficiently from that progress. The latest findings by…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
       "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
       "source": "MyJoyOnline",
@@ -121,6 +144,8 @@ window.GDC_PAPERS = {
       "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…",
       "categories": [
         "Banking and Finance",
+        "Business",
+        "National",
         "Kwamina Asomaning",
         "Stanbic Bank"
       ],
@@ -278,28 +303,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/roads-minister-kwame-agbodza-inducted-into-ghana-institute-of-architects-hall-of-fellows.html",
       "source": "Daily Graphic",
       "published": "2026-11-22T16:14:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "New NDC Greater Accra Chairman pledges purposeful leadership",
-      "link": "https://www.graphic.com.gh/news/politics/new-ndc-greater-accra-chairman-pledges-purposeful-leadership.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T15:48:40.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Korle Bu surgeons successfully reattach man's severed penis after he injured himself while squatting on WC",
-      "link": "https://www.graphic.com.gh/news/general-news/korle-bu-surgeons-successfully-reattach-mans-severed-penis-after-he-injured-himself-while-squatting-on-wc.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-22T13:47:34.000Z",
       "summary": "",
       "categories": [
         "General News"
