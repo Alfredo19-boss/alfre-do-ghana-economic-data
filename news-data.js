@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T15:03:27.297Z",
+  "updated": "2026-11-23T15:13:29.161Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
+      "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:09:42.000Z",
+      "summary": "Nutrifoods Ghana Limited, a joint venture between Olam International and Sanyo Foods and a leading manufacturer of Snacks and Culinary products in Ghana’s fast-moving consumer goods (FMCG)…"
+    },
     {
       "title": "Petroleum workers threaten nationwide strike over proposed changes to BOST’s depot mandate",
       "link": "https://www.myjoyonline.com/petroleum-workers-threaten-nationwide-strike-over-proposed-changes-to-bosts-depot-mandate/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T12:02:11.000Z",
       "summary": "Commenting on the 2027 Budget, the Country Managing Partner, Emmanuel Adekhalor, said the ambition is clear, but delivery will be the ultimate test."
-    },
-    {
-      "title": "GES PRO Questions GH¢8,000 UGEL Hostel Fee, Calls for Shift to Flexible University Education",
-      "link": "https://thehighstreetjournal.com/ges-pro-questions-gh%c2%a28000-ugel-hostel-fee-calls-for-shift-to-flexible-university-education/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T11:42:35.000Z",
-      "summary": "GES PRO Daniel Fenyi has criticised UGEL's GH¢8,000 annual hostel fee, urging universities to expand virtual and flexible learning to reduce accommodation costs and improve access to…"
     }
   ]
 };

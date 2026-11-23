@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T15:03:57.563Z",
+  "updated": "2026-11-23T15:13:59.237Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,65 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
+      "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:09:42.000Z",
+      "summary": "Nutrifoods Ghana Limited, a joint venture between Olam International and Sanyo Foods and a leading manufacturer of Snacks and Culinary products in Ghana’s fast-moving consumer goods (FMCG)…",
+      "categories": [
+        "Business",
+        "News",
+        "2026 HR Professionals Summit & Awards",
+        "Ghana",
+        "Nutrifoods Ghana Limited"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Era of money politics, deception coming to an end – Nhyiaeso MP",
+      "link": "https://www.myjoyonline.com/era-of-money-politics-deception-coming-to-an-end-nhyiaeso-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:08:46.000Z",
+      "summary": "The Member of Parliament for Nhyiaeso, Dr Stephen Amoah, is predicting a revolution in Ghana’s electioneering dispensation which would see voters move beyond materialistic inducements.",
+      "categories": [
+        "News",
+        "Politics",
+        "Deception",
+        "Money politics",
+        "Nhyiaeso MP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Building A Nation of Good Citizens: Kofi A. Tawiah Foundation champions sustainable character education in schools",
+      "link": "https://www.myjoyonline.com/building-a-nation-of-good-citizens-kofi-a-tawiah-foundation-champions-sustainable-character-education-in-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:08:35.000Z",
+      "summary": "At a time when concerns about declining social values, examination malpractice, corruption, indiscipline and ethical leadership continue to feature prominently in Ghana’s national…",
+      "categories": [
+        "Education",
+        "Kofi A. Tawiah Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Think before you connect: One careless click could compromise your digital security",
+      "link": "https://www.myjoyonline.com/think-before-you-connect-one-careless-click-could-compromise-your-digital-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T15:02:59.000Z",
+      "summary": "The free Wi-Fi network, public charging station or unfamiliar mobile application that makes life easier could also expose users to cybercriminals. The Ontario Provincial Police (OPP) is…",
+      "categories": [
+        "HP Opinion 4",
+        "National",
+        "Opinion",
+        "Technology",
+        "digital security",
+        "Stephen Armah Quaye",
+        "Wi-Fi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Prez Mahama congratulates Black Challenge after Amputee World Cup win",
       "link": "https://www.myjoyonline.com/prez-mahama-congratulates-black-challenge-after-amputee-world-cup-win/",
       "source": "MyJoyOnline",
@@ -33,6 +92,17 @@ window.GDC_PAPERS = {
         "John Dramani Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Ministry bans 'early' BECE writing: Offenders face 2-year exam suspension",
+      "link": "https://www.graphic.com.gh/news/education/education-ministry-bans-early-bece-writing-offenders-face-2-year-exam-suspension.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T14:56:24.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Zanetor, the Climate Summit and the Microphone that needed Resuscitation!",
@@ -77,60 +147,6 @@ window.GDC_PAPERS = {
         "Shops",
         "Spare parts dealers",
         "Suame Magazine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CAF announces Coca-Cola as official sponsor for AFCON 2027 and 2028",
-      "link": "https://www.myjoyonline.com/caf-announces-coca-cola-as-official-sponsor-for-afcon-2027-and-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:40:06.000Z",
-      "summary": "The agreement was signed in Johannesburg, South Africa today, Monday, 23 November 2026, by CAF President Dr Patrice Motsepe and Luis Felipe Avellar, President of Coca-Cola’s Africa…",
-      "categories": [
-        "Football",
-        "Afcon 2027",
-        "Coca-Cola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia board reinstates Jensen Huang as CEO",
-      "link": "https://www.myjoyonline.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:37:10.000Z",
-      "summary": "Nvidia’s board has reinstated Jensen Huang as chief executive, president and as a member of the board, the company said in an announcement Monday.",
-      "categories": [
-        "Technology",
-        "CEO",
-        "Jensen Huang",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "An Open Letter to Africa’s Heads of State: Africa is not poor; it is underprocessed",
-      "link": "https://www.myjoyonline.com/an-open-letter-to-africas-heads-of-state-africa-is-not-poor-it-is-underprocessed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:33:41.000Z",
-      "summary": "The decisions that will industrialise Africa are made not only in presidential offices, but in the boardrooms of state enterprises, development institutions and private companies…",
-      "categories": [
-        "Africa",
-        "Opinion",
-        "Economy",
-        "Ing. Prof. Douglas Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Are Ghanaian men ‘chisel’?",
-      "link": "https://www.myjoyonline.com/are-ghanaian-men-chisel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:32:51.000Z",
-      "summary": "SOME lovers see money as a means of showing power, love, worth and self-esteem. Others see it as a source of security.",
-      "categories": [
-        "Lifestyle",
-        "Ghanaian Men",
-        "Relationship"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -276,17 +292,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-exceeds-2026-royalty-target.html",
       "source": "Daily Graphic",
       "published": "2026-11-23T08:30:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt cuts VAT, triples threshold to ease cost of doing business - Vice-President",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-cuts-vat-triples-threshold-to-ease-cost-of-doing-business-vice-president.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T08:22:52.000Z",
       "summary": "",
       "categories": [
         "General News"
