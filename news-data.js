@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T17:33:27.385Z",
+  "updated": "2026-11-23T23:23:38.281Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,41 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "National Security summons Suame artisans over attacks on foreign traders",
+      "link": "https://www.myjoyonline.com/national-security-summons-suame-artisans-over-attacks-on-foreign-traders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:10:00.000Z",
+      "summary": "National Security has stepped in to address growing tensions at the Suame Industrial Enclave in Kumasi, inviting some local artisans for a meeting on Tuesday, November 24, following attacks…"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "link": "https://www.myjoyonline.com/nvidia-value-climbs-by-almost-1tn-and-tech-stocks-rally-after-jensen-huang-returns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:03:22.000Z",
+      "summary": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect."
+    },
+    {
+      "title": "Newmont Commits US$15m to Ghana’s Tree for Life Initiative",
+      "link": "https://thehighstreetjournal.com/newmont-commits-us15m-to-ghanas-tree-for-life-initiative/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T18:22:18.000Z",
+      "summary": "Newmont Ghana has committed US$15 million to Ghana's Tree for Life initiative, supporting environmental restoration beyond its mining areas while facing calls to deepen local contractor…"
+    },
+    {
+      "title": "Ghanaian Businesses Must Adopt AI With Safeguards to Drive Growth, Vice-President Says",
+      "link": "https://thehighstreetjournal.com/ghanaian-businesses-must-adopt-ai-with-safeguards-to-drive-growth-vice-president-says/",
+      "source": "The High Street Journal",
+      "published": "2026-11-23T18:17:25.000Z",
+      "summary": "Vice-President Jane Naana Opoku-Agyemang has urged Ghanaian businesses to adopt AI responsibly, calling for stronger government-industry collaboration on skills development, data…"
+    },
+    {
+      "title": "GNCCI urges government to deepen private sector engagement in New Economy Agenda",
+      "link": "https://www.myjoyonline.com/gncci-urges-government-to-deepen-private-sector-engagement-in-new-economy-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:26:56.000Z",
+      "summary": "The Ghana National Chamber of Commerce and Industry (GNCCI) has urged the government to deepen its engagement with the private sector in implementing its New Economy Agenda, insisting…"
+    },
     {
       "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
       "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
@@ -1035,41 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-19T13:10:39.000Z",
       "summary": "Experiences from China and Norway highlight the potential fiscal implications of the transition as Ghana assesses the future of its downstream petroleum industry."
-    },
-    {
-      "title": "Finance Ministry defends 2025 spending cuts as necessary to restore fiscal discipline",
-      "link": "https://www.myjoyonline.com/finance-ministry-defends-2025-spending-cuts-as-necessary-to-restore-fiscal-discipline/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:10:37.000Z",
-      "summary": "The Ministry of Finance has defended the government’s sharp expenditure cuts in 2025, describing them as necessary to restore fiscal discipline after what it says was an overheated economy…"
-    },
-    {
-      "title": "PwC expresses cautious optimism about New Economy programme; fiscal credibility depends on how government finances itself",
-      "link": "https://www.myjoyonline.com/pwc-expresses-cautious-optimism-about-new-economy-programme-fiscal-credibility-depends-on-how-government-finances-itself/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T13:07:44.000Z",
-      "summary": "In its commentary on the 2027 Budget, the accounting, auditing and consulting firm said a smaller surplus gives the government room to spend more, but it will not necessarily raise…"
-    },
-    {
-      "title": "Producer inflation rises to 5.2% in October 2026",
-      "link": "https://www.myjoyonline.com/producer-inflation-rises-to-5-2-in-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:47:16.000Z",
-      "summary": "According to the Ghana Statistical Service, the increase was led by the Mining and Quarrying sub-sector."
-    },
-    {
-      "title": "BoG deepens students’ understanding of central banking through MPC observership",
-      "link": "https://www.myjoyonline.com/bog-deepens-students-understanding-of-central-banking-through-mpc-observership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T12:20:54.000Z",
-      "summary": "The exercise formed part of the third edition of the Monetary Policy Committee (MPC) Educational Observership Programme."
-    },
-    {
-      "title": "Accra Flood Control Projects Stall as Government Awaits Financial Clearance",
-      "link": "https://thehighstreetjournal.com/accra-flood-control-projects-stall-as-government-awaits-financial-clearance/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T12:04:00.000Z",
-      "summary": "Six major Accra flood-control interventions under the GARID Project are awaiting financial authorisation from the Ministry of Finance before contracts can be awarded and construction works…"
     }
   ]
 };

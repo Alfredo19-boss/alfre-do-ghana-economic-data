@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T17:33:58.493Z",
+  "updated": "2026-11-23T23:24:09.289Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,137 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Morocco and Senegal await AFCON final verdict after court case",
+      "link": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:15:00.000Z",
+      "summary": "Everyone knows a football match should take 90 minutes, but the 2025 Africa Cup of Nations (AFCON) final has been playing out for 10 months.",
+      "categories": [
+        "Football",
+        "AFCON",
+        "Morocco",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fury reveals schizophrenia diagnosis",
+      "link": "https://www.myjoyonline.com/fury-reveals-schizophrenia-diagnosis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:03:00.000Z",
+      "summary": "Tyson Fury says he was diagnosed with schizophrenia soon after his world title win over Wladimir Klitschko in 2015.",
+      "categories": [
+        "Boxing",
+        "Schizophrenia",
+        "Tyson Fury"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Raya to miss Dortmund game but injury ‘not serious’",
+      "link": "https://www.myjoyonline.com/raya-to-miss-dortmund-game-but-injury-not-serious/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:54:07.000Z",
+      "summary": "Arsenal goalkeeper David Raya's shoulder injury \"doesn't look too serious\", but he will miss Tuesday's Champions League against Borussia Dortmund, says Mikel Arteta.",
+      "categories": [
+        "Football",
+        "Arsenal",
+        "David Raya",
+        "Dortmund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "De Bruyne’s feelings for Man City will ‘never change’",
+      "link": "https://www.myjoyonline.com/de-bruynes-feelings-for-man-city-will-never-change/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:42:24.000Z",
+      "summary": "Kevin de Bruyne says his feelings for Manchester City will \"never change\" even if the club are stripped of their titles after being found guilty of breaching the Premier League's financial…",
+      "categories": [
+        "Football",
+        "Kevin de Bruyne",
+        "Man City",
+        "Napoli"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amputee Football: Kofi Adams pledges $10K bonus for each Black Challenge player after World Cup triumph",
+      "link": "https://www.myjoyonline.com/amputee-football-kofi-adams-pledges-10k-bonus-for-each-black-challenge-player-after-world-cup-triumph/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:29:00.000Z",
+      "summary": "Minister for Sports and Recreation Kofi Adams has pledged an additional US$10,000 bonus for each player on Ghana’s Black Challenge squad after their triumph at the 2026 Amputee Football…",
+      "categories": [
+        "Football",
+        "National",
+        "2026 Amputee Football World Cup",
+        "Kofi Adams"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US experts join Ghana’s fight against mercury pollution in rivers",
+      "link": "https://www.myjoyonline.com/us-experts-join-ghanas-fight-against-mercury-pollution-in-rivers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:18:03.000Z",
+      "summary": "A team of United States scientists visited Ghana to support efforts to tackle mercury pollution linked to illegal small-scale gold mining and strengthen freshwater protection.",
+      "categories": [
+        "National",
+        "mercury pollution",
+        "US Experts"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Security summons Suame artisans over attacks on foreign traders",
+      "link": "https://www.myjoyonline.com/national-security-summons-suame-artisans-over-attacks-on-foreign-traders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:10:00.000Z",
+      "summary": "National Security has stepped in to address growing tensions at the Suame Industrial Enclave in Kumasi, inviting some local artisans for a meeting on Tuesday, November 24, following attacks…",
+      "categories": [
+        "Business",
+        "News",
+        "National Security",
+        "Suame"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "link": "https://www.myjoyonline.com/nvidia-value-climbs-by-almost-1tn-and-tech-stocks-rally-after-jensen-huang-returns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T22:03:22.000Z",
+      "summary": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.",
+      "categories": [
+        "Technology",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Presidency directs Ministers to ensure handover of CEOs past retirement age",
+      "link": "https://www.graphic.com.gh/news/general-news/presidency-directs-ministers-to-ensure-handover-of-ceos-past-retirement-age.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T21:10:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GES postpones opening of Teacher Recruitment Portal",
+      "link": "https://www.graphic.com.gh/news/education/ges-postpones-opening-of-teacher-recruitment-portal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-23T20:33:27.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Parliament’s disability caucus congratulates Black Challenge on World Cup triumph",
       "link": "https://ghanaiantimes.com.gh/parliaments-disability-caucus-congratulates-black-challenge-on-world-cup-triumph/",
@@ -43,20 +174,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Greater Accra Regional Minister urges public to report theft of street lights",
-      "link": "https://www.myjoyonline.com/greater-accra-regional-minister-urges-public-to-report-theft-of-street-lights/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:20:06.000Z",
-      "summary": "Greater Accra Regional Minister Linda Ocloo has urged residents to report incidents of street light theft in their communities, describing the practice as a major challenge to efforts to…",
-      "categories": [
-        "National",
-        "News",
-        "Greater Accra Regional Minister Linda Ocloo",
-        "Street lights"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Methodist Church demands accountability over alleged abuse of Obuasi students",
@@ -93,18 +210,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "USA, Mexico, Costa Rica and Jamaica to co-host inaugural 48-team 2031 FIFA Women’s World Cup",
-      "link": "https://www.myjoyonline.com/usa-mexico-costa-rica-and-jamaica-to-co-host-inaugural-48-team-2031-fifa-womens-world-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:14:07.000Z",
-      "summary": "FIFA’s Member Associations (MAs) convened virtually at an Extraordinary Congress today and appointed the United States, Mexico, Costa Rica and Jamaica as the hosts of the FIFA Women’s World…",
-      "categories": [
-        "Football",
-        "Fifa Women's World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Tayui calls for equal opportunities for women in oil and gas",
       "link": "https://ghanaiantimes.com.gh/tayui-calls-for-equal-opportunities-for-women-in-oil-and-gas/",
       "source": "Ghanaian Times",
@@ -115,22 +220,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "National security restores calm at Suame Magazine as GUTA backs closure of foreigners’ shops",
-      "link": "https://www.myjoyonline.com/national-security-restores-calm-at-suame-magazine-as-guta-backs-closure-of-foreigners-shops/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:07:53.000Z",
-      "summary": "The Ghana Union of Traders Associations (GUTA) in the Ashanti Region has thrown its support behind the closure of some shops owned by foreign nationals at Suame Magazine in Kumasi.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Foreignes",
-        "GUTA",
-        "shop",
-        "Suame Magazine"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "US DFC commits $14.5bn to investments across Africa",
@@ -144,35 +233,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gov’t to boost waterfront, cultural & eco-tourism in Asuogyaman; area targeted as key destination under $1bn investment drive",
-      "link": "https://www.myjoyonline.com/govt-to-boost-waterfront-cultural-eco-tourism-in-asuogyaman-area-targeted-as-key-destination-under-1bn-investment-drive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:05:55.000Z",
-      "summary": "President John Mahama says government intends to position the Asuogyaman District in the Eastern Region as a key destination for waterfront tourism, eco-tourism, cultural heritage…",
-      "categories": [
-        "National",
-        "Asuogyaman",
-        "cultural & eco-tourism",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "El Niño could worsen dust pollution, raise respiratory health risks – GMet",
-      "link": "https://www.myjoyonline.com/el-nino-could-worsen-dust-pollution-raise-respiratory-health-risks-gmet/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:04:37.000Z",
-      "summary": "Expected El Niño conditions early next year could prolong dry spells, worsen dust pollution and increase respiratory health risks in Ghana, the Ghana Meteorological Agency (GMet) has warned.",
-      "categories": [
-        "National",
-        "Dust pollution",
-        "El Niño",
-        "Ghana Meteorological Agency",
-        "respiratory health risks"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama extends condolences to South Africa over Mlambo-Ngcuka's passing",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-extends-condolences-to-south-africa-over-mlambo-ngcukas-passing.html",
       "source": "Daily Graphic",
@@ -184,21 +244,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Greater Accra MMDCEs directed to clear, beautify roads ahead of Ghana’s 70th Independence celebrations",
-      "link": "https://www.myjoyonline.com/greater-accra-mmdces-directed-to-clear-beautify-roads-ahead-of-ghanas-70th-independence-celebrations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T17:01:32.000Z",
-      "summary": "The Greater Accra Regional Minister, Linda Ocloo, has directed all Metropolitan, Municipal and District Chief Executives (MMDCEs) to begin the immediate clearing and beautification of road…",
-      "categories": [
-        "National",
-        "News",
-        "70th Independence celebrations",
-        "Linda Ocloo",
-        "MMDCEs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Akwamu peace praised: President Mahama celebrates Odeneho Kwafo Akoto III",
       "link": "https://www.graphic.com.gh/news/general-news/akwamu-peace-praised-president-mahama-celebrates-odeneho-kwafo-akoto-iii.html",
       "source": "Daily Graphic",
@@ -208,37 +253,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Gender Ministry to lead Ghana’s 2026 16 Days of Activism against gender-based violence",
-      "link": "https://www.myjoyonline.com/gender-ministry-to-lead-ghanas-2026-16-days-of-activism-against-gender-based-violence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:54:19.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection will lead Ghana’s observance of the 2026 16 Days of Activism against Gender-Based Violence from November 25 to December 10, with a…",
-      "categories": [
-        "National",
-        "16 days of activism",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Ministry",
-        "Gender-Based Violence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BECE directive must make room for exceptionally talented pupils – NCPTA",
-      "link": "https://www.myjoyonline.com/bece-directive-must-make-room-for-exceptionally-talented-pupils-ncpta/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:54:04.000Z",
-      "summary": "The National Council of Parent-Teacher Associations (NCPTA) has called on education authorities to make room for exceptionally gifted pupils under the directive restricting students from…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "News",
-        "BECE",
-        "National Council of Parent-Teacher Associations (NCPTA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
@@ -292,28 +306,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "See requirements for applying for DVLA 2027 DV trade plates as applications open",
-      "link": "https://www.graphic.com.gh/news/general-news/dvla-opens-applications-for-2027-dv-trade-plates.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T10:53:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GAFM clarifies it is a professional certification body, not a degree- or diploma-awarding institution",
-      "link": "https://www.graphic.com.gh/news/general-news/gafm-is-not-a-university-degree-granting-or-diploma-granting-institution.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T10:50:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
