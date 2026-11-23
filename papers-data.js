@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T14:08:59.808Z",
+  "updated": "2026-11-23T14:18:57.591Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,54 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GNFS saves lives and properties as fire guts brothel at Asankragua market",
+      "link": "https://ghanaiantimes.com.gh/gnfs-saves-lives-and-properties-as-fire-guts-brothel-at-asankragua-market/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:16:25.000Z",
+      "summary": "Firefighters from the Asankragua Fire Station acted swiftly to bring under control a commercial fire that broke out at the Asankragua Market on Thursday, November 19, 2026. The fire, which…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ministry of sports congratulates Black Challenge on winning 2026 Amputee football World Cup",
+      "link": "https://ghanaiantimes.com.gh/ministry-of-sports-congratulates-black-challenge-on-winning-2026-amputee-football-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:14:46.000Z",
+      "summary": "The Ministry of Sports and Recreation has congratulated Ghana’s national amputee football team, the Black Challenge, on winning the 2026 Amputee Football World Cup in Mexico. In a press…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Early BECE candidates to face two-year examination ban – Education Minister",
+      "link": "https://www.myjoyonline.com/early-bece-candidates-to-face-two-year-examination-ban-education-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T14:12:20.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, has directed the Ghana Education Service (GES) to impose a two-year examination ban on pupils who attempt to sit the Basic Education Certificate…",
+      "categories": [
+        "National",
+        "BECE",
+        "Examination"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Challenge make history as Ghana Beat Morocco to win 2026 Amputee World Cup",
+      "link": "https://ghanaiantimes.com.gh/black-challenge-make-history-as-ghana-beat-morocco-to-win-2026-amputee-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-23T14:12:14.000Z",
+      "summary": "Ghana’s Black Challenge have etched their names into football history after being crowned champions of the 2026 Amputee Football World Cup. The Black Challenge secured a hard-fought 1-0…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Mr. Frank Mackay Anim-Appiah",
       "link": "https://www.myjoyonline.com/mr-frank-mackay-anim-appiah/",
@@ -110,21 +158,6 @@ window.GDC_PAPERS = {
       "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
       "categories": [
         "HP News 2",
-        "National",
-        "Politics",
-        "Ablekuma West",
-        "NPP",
-        "Power"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘All the money we have spent will be in vain if NPP fails to regain power’ – NPP Organiser",
-      "link": "https://www.myjoyonline.com/all-the-money-we-have-spent-will-be-in-vain-if-npp-fails-to-regain-power-npp-organiser/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:37:36.000Z",
-      "summary": "The New Patriotic Party’s (NPP) Women’s Organiser for Ablekuma West, Hannah Kuukua Armoo, says the party must return to power in 2028, warning that the money and effort invested by some…",
-      "categories": [
         "National",
         "Politics",
         "Ablekuma West",
@@ -273,39 +306,6 @@ window.GDC_PAPERS = {
       "summary": "A Russian cargo vessel bound for the country’s Baltic Kaliningrad territory has been hit by a drone attack in the eastern Gulf of Finland, Russian and Finnish authorities say. The ship –…",
       "categories": [
         "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GPL: Vision FC claim vital points to sink Debibi United",
-      "link": "https://ghanaiantimes.com.gh/gpl-vision-fc-claim-vital-points-to-sink-debibi-united/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:41:43.000Z",
-      "summary": "VISION FC returned to winning ways in the Ghana Premier League (GPL) with a hard-fought 2-1 victory over Debibi United at the Nii Adjei Kraku II Sports Complex in Tema New Town on Saturday…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "23 named for Black Queens’ FIFA Women’s World Cup playoffs",
-      "link": "https://ghanaiantimes.com.gh/23-named-for-black-queens-fifa-womens-world-cup-playoffs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:40:31.000Z",
-      "summary": "THE Black Queens Head Coach, Kim Lars Björkegren, has named a strong 23-player squad for the FIFA Women’s World Cup playoff tournament to be played in Morocco. Captain Portia Boakye…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tennis: 24th Accra Seniors Open Championship kicks off today",
-      "link": "https://ghanaiantimes.com.gh/tennis-24th-accra-seniors-open-championship-kicks-off-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T07:37:04.000Z",
-      "summary": "Attention of tennis enthusiasts will turn to the clay courts of the Accra Lawn Tennis Club in Accra where the 24th edition of the Accra Seniors Tennis Open Championship kicks off with over…",
-      "categories": [
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
