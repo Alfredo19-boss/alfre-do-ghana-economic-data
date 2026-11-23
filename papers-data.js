@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T00:32:10.882Z",
+  "updated": "2026-11-23T00:42:10.722Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
+      "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T00:36:18.000Z",
+      "summary": "The UK-based firm said that although the reactivated Dollar Sinking Fund will likely cover around US$1.2 billion in Eurobond repayments, the remaining US$3.9 billion owed to multilateral…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "bilateral creditors",
+        "BoG",
+        "Cedi",
+        "commercial creditors",
+        "Debt",
+        "Dollar",
+        "Eurobond",
+        "Fitch Solutions",
+        "Multilateral creditors",
+        "Sinking Fund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
       "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
       "source": "MyJoyOnline",
@@ -29,6 +52,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Economy",
+        "HP Business 1",
         "DDEP",
         "DSA",
         "KPMG",
@@ -61,6 +85,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Economy",
+        "HP Business 4",
         "Capital per worker",
         "earnings",
         "GSS",
@@ -91,6 +116,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Banking and Finance",
         "Business",
+        "HP Business 3",
         "182-day",
         "364-day",
         "91-day",
@@ -125,17 +151,6 @@ window.GDC_PAPERS = {
         "Global academy of finance and management",
         "GTEC",
         "regulatory licence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Barcelona return top of La Liga with Villarreal win",
-      "link": "https://www.myjoyonline.com/barcelona-return-top-of-la-liga-with-villarreal-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:45:22.000Z",
-      "summary": "Barcelona scored three goals in 10 minutes to return to the top of La Liga with a victory over Villarreal at Spotify Nou Camp.",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },

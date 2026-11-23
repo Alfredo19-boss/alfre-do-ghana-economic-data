@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-23T00:31:40.966Z",
+  "updated": "2026-11-23T00:41:40.324Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
+      "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T00:36:18.000Z",
+      "summary": "The UK-based firm said that although the reactivated Dollar Sinking Fund will likely cover around US$1.2 billion in Eurobond repayments, the remaining US$3.9 billion owed to multilateral…"
+    },
     {
       "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
       "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-18T23:43:00.000Z",
       "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken…"
-    },
-    {
-      "title": "LBMA certification could unlock higher gold export values for Ghana – Manteaw",
-      "link": "https://www.myjoyonline.com/lbma-certification-could-unlock-higher-gold-export-values-for-ghana-manteaw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-18T22:53:00.000Z",
-      "summary": "Ghana could earn more from gold exports and access mainstream markets if it backs its local refining drive with LBMA certification, Dr Steven Manteaw said."
     }
   ]
 };
