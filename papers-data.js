@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T16:53:56.200Z",
+  "updated": "2026-11-23T16:58:57.470Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gender Ministry to lead Ghana’s 2026 16 Days of Activism against gender-based violence",
+      "link": "https://www.myjoyonline.com/gender-ministry-to-lead-ghanas-2026-16-days-of-activism-against-gender-based-violence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:54:19.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection will lead Ghana’s observance of the 2026 16 Days of Activism against Gender-Based Violence from November 25 to December 10, with a…",
+      "categories": [
+        "National",
+        "16 days of activism",
+        "Dr Agnes Naa Momo Lartey",
+        "Gender Ministry",
+        "Gender-Based Violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BECE directive must make room for exceptionally talented pupils – NCPTA",
+      "link": "https://www.myjoyonline.com/bece-directive-must-make-room-for-exceptionally-talented-pupils-ncpta/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:54:04.000Z",
+      "summary": "The National Council of Parent-Teacher Associations (NCPTA) has called on education authorities to make room for exceptionally gifted pupils under the directive restricting students from…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "BECE",
+        "National Council of Parent-Teacher Associations (NCPTA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire safety critical to success of 24-hour economy – Chief Fire Officer",
+      "link": "https://www.myjoyonline.com/fire-safety-critical-to-success-of-24-hour-economy-chief-fire-officer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T16:53:52.000Z",
+      "summary": "The Ghana National Fire Service (GNFS) has urged businesses and industries to strengthen fire prevention measures to protect investments and support Ghana's proposed 24-hour economy.",
+      "categories": [
+        "National",
+        "24-hour economy",
+        "Daniella Mawusi Ntow-Sapong",
+        "Fire Safety"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Two arrested over alleged sexual extortion in Accra, face up to 25 years in prison",
       "link": "https://www.myjoyonline.com/two-arrested-over-alleged-sexual-extortion-in-accra-face-up-to-25-years-in-prison/",
@@ -90,21 +134,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
-      "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:21:14.000Z",
-      "summary": "Ghana could generate nearly US$68 million from the sale of forest carbon credits after securing international verification for its efforts to reduce deforestation and forest degradation…",
-      "categories": [
-        "Economy",
-        "National",
-        "carbon credits",
-        "Forestry Commission",
-        "REDD+"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
       "link": "https://ghanaiantimes.com.gh/igp-in-high-level-engagements-with-netherlands-police-to-strengthen-policing-partnerships/",
       "source": "Ghanaian Times",
@@ -125,37 +154,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s US$1.5 bn critical minerals plan: Will benefits reach young people, mining communities?",
-      "link": "https://www.myjoyonline.com/ghanas-us1-5-bn-critical-minerals-plan-will-benefits-reach-young-people-mining-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:18:24.000Z",
-      "summary": "Government has set ambitious targets for local mineral processing. The real test will be whether the programme creates decent jobs, strengthens Ghanaian businesses and delivers measurable…",
-      "categories": [
-        "Opinion",
-        "Top Story",
-        "Ghana",
-        "Mining communities",
-        "US$1.5 bn critical minerals plan",
-        "Young people"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Medical Trust Fund moves Miguel to Euracare after Korle Bu’s GH¢77,561 ‘no bed’ delay",
-      "link": "https://www.myjoyonline.com/ghana-medical-trust-fund-moves-miguel-to-euracare-after-korle-bus-gh%c2%a277561-no-bed-delay/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:15:11.000Z",
-      "summary": "The Ghana Medical Trust Fund has taken over the case of five-year-old Miguel Ntsiful and referred him to Euracare Multi-Specialist Hospital after Korle Bu Teaching Hospital failed to secure…",
-      "categories": [
-        "Health",
-        "National",
-        "Euracare",
-        "Ghana Medical Trust Fund",
-        "Korle Bu"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Archives shed light on Ghana US diplomatic ties",
