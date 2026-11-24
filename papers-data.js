@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:55:08.952Z",
+  "updated": "2026-11-24T12:05:09.604Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
+      "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:57:27.000Z",
+      "summary": "Sabine Dall’Omo, Chief Executive Officer of Siemens Sub-Saharan Africa, says the perception of Africa as a conflict-prone region and a difficult market to access remains a major obstacle to…",
+      "categories": [
+        "Africa",
+        "Business",
+        "HP Business 3",
+        "HP News 8",
+        "National",
+        "GABS 2026",
+        "Sabine Dall’Omo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Linda Ocloo: Greater Accra Minister urges communities to fund minor streetlight repairs",
+      "link": "https://www.graphic.com.gh/news/general-news/linda-ocloo-greater-accra-minister-urges-communities-to-fund-minor-streetlight-repairs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T11:56:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Aayalolo contra-flow system to be extended to Tema – Rita Sowah",
+      "link": "https://www.myjoyonline.com/aayalolo-contra-flow-system-to-be-extended-to-tema-rita-sowah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:53:56.000Z",
+      "summary": "The government is preparing to extend the Aayalolo bus contra-flow system to Tema as part of efforts to improve public transport and reduce traffic congestion during peak commuting periods.",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Aayalolo contra-flow",
+        "Rita Sowah",
+        "Tema"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gov’t set to introduce AI, robotics and coding at basic school level",
       "link": "https://www.myjoyonline.com/govt-set-to-introduce-ai-robotics-and-coding-at-basic-school-level/",
@@ -114,22 +158,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana hosts 6th German-African Business Summit to deepen trade and investment ties",
-      "link": "https://www.myjoyonline.com/ghana-hosts-6th-german-african-business-summit-to-deepen-trade-and-investment-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:31:24.000Z",
-      "summary": "Ghana is hosting the 6th German-African Business Summit (GABS 2026), bringing together business leaders, policymakers, investors and industry experts from Germany and across Africa to…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "HP News 3",
-        "National",
-        "6th German-Africaan Business Summit",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama urges Germany, EU to sustain support for Sahel fight against violent extremism",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-germany-eu-to-sustain-support-for-sahel-fight-against-violent-extremism.html",
       "source": "Daily Graphic",
@@ -139,21 +167,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ablakwa gives assaulted Ghanaian domestic worker in Iraq GH¢50,000, promises scholarship",
-      "link": "https://www.myjoyonline.com/ablakwa-gives-assaulted-ghanaian-domestic-worker-in-iraq-gh%c2%a250000-promises-scholarship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:18:12.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has donated GH¢50,000 to Stephanie Nkrumah, the Ghanaian woman who was allegedly subjected to a violent assault by her employer in Iraq, and…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Ablakwa",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana protests to Iraq over assault on domestic worker in viral video; Ablakwa gives survivor GH¢50,000, considers recruitment ban",
@@ -304,17 +317,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-us-virgin-islands-offers-firms-1-customs-duty-arrangement.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T08:06:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Engineering must be synonymous with trust, quality, reliability - Works, Housing Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-engineering-must-be-synonymous-with-trust-quality-reliability-works-housing-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:03:15.000Z",
       "summary": "",
       "categories": [
         "General News"

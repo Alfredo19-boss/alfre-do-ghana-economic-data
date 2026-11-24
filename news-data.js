@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T11:54:38.632Z",
+  "updated": "2026-11-24T12:04:39.415Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
+      "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:57:27.000Z",
+      "summary": "Sabine Dall’Omo, Chief Executive Officer of Siemens Sub-Saharan Africa, says the perception of Africa as a conflict-prone region and a difficult market to access remains a major obstacle to…"
+    },
     {
       "title": "We are optimistic about securing an extension for Tarkwa Mine Lease come April 2027 – Gold Fields",
       "link": "https://www.myjoyonline.com/we-are-optimistic-about-securing-an-extension-for-tarkwa-mine-lease-come-april-2027-gold-fields/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T04:33:00.000Z",
       "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December."
-    },
-    {
-      "title": "Doormaster unveils over 500 door designs, offers up to 30% discount at Luv FM Habitat Fair",
-      "link": "https://www.myjoyonline.com/doormaster-unveils-over-500-door-designs-offers-30-discount-at-luv-fm-habitat-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:30:07.000Z",
-      "summary": "Door solutions company, Doormaster, has unveiled an extensive range of more than 500 door designs with high durability to sever homes, offices and other accommodations."
     }
   ]
 };
