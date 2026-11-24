@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T00:54:09.877Z",
+  "updated": "2026-11-24T01:04:11.227Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -74,6 +74,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Secondary education must transform to prepare 330 million young Africans for work — Report",
+      "link": "https://www.myjoyonline.com/secondary-education-must-transform-to-prepare-330-million-young-africans-for-work-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:48:00.000Z",
+      "summary": "Secondary education systems across Africa must undergo fundamental transformation to equip a surging youth population with practical skills for work, livelihoods, and lifelong learning, a…",
+      "categories": [
+        "News",
+        "Ghana",
+        "Mastercard"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Who should pay for student accommodation? – Universities demand national conversation",
       "link": "https://www.myjoyonline.com/who-should-pay-for-student-accommodation-universities-demand-national-conversation/",
       "source": "MyJoyOnline",
@@ -111,20 +124,6 @@ window.GDC_PAPERS = {
         "Books",
         "Ghana",
         "Law"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Morocco and Senegal await AFCON final verdict after court case",
-      "link": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:15:00.000Z",
-      "summary": "Everyone knows a football match should take 90 minutes, but the 2025 Africa Cup of Nations (AFCON) final has been playing out for 10 months.",
-      "categories": [
-        "Football",
-        "AFCON",
-        "Morocco",
-        "Senegal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
