@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T13:35:11.101Z",
+  "updated": "2026-11-24T13:50:10.624Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,73 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sickle cell: Grenada university develops medical care card to support patients during crises",
+      "link": "https://www.myjoyonline.com/sickle-cell-grenada-university-develops-medical-care-card-to-support-patients-during-crises/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:43:26.000Z",
+      "summary": "The initiative seeks to help healthcare workers access vital patient information quickly, as sub-Saharan Africa accounts for nearly 80% of global births with the disease.",
+      "categories": [
+        "Health",
+        "News",
+        "Sickle Cell",
+        "St. George’s University",
+        "WHO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP31: CDKN and BTS place climate knowledge and institutional partnerships at the centre of engagement",
+      "link": "https://www.myjoyonline.com/cop31-cdkn-and-bts-place-climate-knowledge-and-institutional-partnerships-at-the-centre-of-engagement/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:41:50.000Z",
+      "summary": "The role of young people in shaping global climate policy is receiving renewed attention at COP31, as the conference seeks to move youth participation beyond symbolic representation towards…",
+      "categories": [
+        "Opinion",
+        "BTS",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Insight for CEOs: Developing the next generation of leaders",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-developing-the-next-generation-of-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:40:51.000Z",
+      "summary": "The long-term strength of an organisation depends on its ability to develop leaders who can take responsibility for its future. CEOs who focus only on current performance without preparing…",
+      "categories": [
+        "Features",
+        "Opinion",
+        "CEOs",
+        "Daily Insight"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pastor Kojo Oteng honours veteran gospel musician Rev. Mary Ghansah at ‘Sacred’ album recording",
+      "link": "https://www.myjoyonline.com/pastor-kojo-oteng-honours-veteran-gospel-musician-rev-mary-ghansah-at-sacred-album-recording/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:37:56.000Z",
+      "summary": "Gospel musician Pastor Kojo Oteng has honoured veteran gospel singer and ordained minister Rev. Mary Ghansah with a special plaque in recognition of her contribution to Ghanaian gospel…",
+      "categories": [
+        "Movies",
+        "National",
+        "Mary Ghansah",
+        "Pastor Kojo Oteng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Premature WASSCE and BECE writing now attracts 2-year ban – GES",
+      "link": "https://www.graphic.com.gh/news/general-news/premature-wassce-and-bece-writing-now-attracts-2-year-ban---ges.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T13:31:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Helmet requirement for Pragyia was an error; the law will be corrected – NRSA boss",
       "link": "https://www.myjoyonline.com/helmet-requirement-for-pragyia-was-an-error-the-law-will-be-corrected-nrsa-boss/",
@@ -89,51 +156,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Christian men’s groups urge emotional openness, gender respect, and youth mentorship on International Men’s Day",
-      "link": "https://www.myjoyonline.com/christian-mens-groups-urge-emotional-openness-gender-respect-and-youth-mentorship-on-international-mens-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:17:33.000Z",
-      "summary": "Christian men’s groups in Ghana have called for a shift in traditional expectations surrounding masculinity, urging men to share responsibilities with women, seek help when overwhelmed, and…",
-      "categories": [
-        "National",
-        "Christian men’s groups",
-        "International Men’s Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Africa and Europe need each other’ – German President",
-      "link": "https://www.myjoyonline.com/africa-and-europe-need-each-other-german-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:15:13.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has called for stronger cooperation between Africa and Europe, saying the two continents need each other to address shared global challenges and…",
-      "categories": [
-        "Africa",
-        "National",
-        "News",
-        "Africa-German Relations",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pragyia riders, passengers risk up to 8 months in jail for riding without helmets",
-      "link": "https://www.myjoyonline.com/pragyia-riders-passengers-risk-up-to-8-months-in-jail-for-riding-without-helmets/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:13:38.000Z",
-      "summary": "Commercial tricycle riders, popularly known as Pragyia riders and their passengers risk prosecution, fines and possible imprisonment up to eight months for failing to wear protective and…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Passengers",
-        "pragyia",
-        "pragyia riders",
-        "Road Traffic Regulations"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "BECE two-year ban: Schools, intermediaries must also be held accountable for premature registration",
       "link": "https://www.graphic.com.gh/news/general-news/gnacops-wants-school-officials-intermediaries-held-accountable-over-bece-two-year-ban.html",
       "source": "Daily Graphic",
@@ -143,21 +165,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "German President urges faster implementation of African Continental Free Trade Area",
-      "link": "https://www.myjoyonline.com/german-president-urges-faster-implementation-of-african-continental-free-trade-area/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:09:59.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to accelerate the implementation of the African Continental Free Trade Area (AfCFTA), describing the agreement as a…",
-      "categories": [
-        "Africa",
-        "National",
-        "AfCFTA",
-        "GABS 2026",
-        "German-African Business Summit"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "I don't want cheap scholarship: Rent Commissioner rejects UG's master's offer",
@@ -208,17 +215,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-protests-to-iraq-over-assault-on-domestic-worker-in-viral-video-ablakwa-gives-survivor-ghc50-000-considers-recruitment-ban.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T10:56:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt supports GBC-Ecobank bauxite value chain development deal",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-supports-gbc-ecobank-bauxite-value-chain-development-deal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:42:15.000Z",
       "summary": "",
       "categories": [
         "General News"
