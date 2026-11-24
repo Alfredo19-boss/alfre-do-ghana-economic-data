@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:45:09.233Z",
+  "updated": "2026-11-24T11:55:08.952Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t set to introduce AI, robotics and coding at basic school level",
+      "link": "https://www.myjoyonline.com/govt-set-to-introduce-ai-robotics-and-coding-at-basic-school-level/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:48:40.000Z",
+      "summary": "The government is set to introduce robotics, coding, artificial intelligence and electronics into the curriculum for learners from Kindergarten to Primary Six as part of efforts to prepare…",
+      "categories": [
+        "Education",
+        "HP News 4",
+        "National",
+        "Artificial Intelligence",
+        "basic school level",
+        "Haruna Iddrisu",
+        "robotics and coding"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Irish politicians seek clarity over health service chief’s dismissal",
+      "link": "https://www.myjoyonline.com/irish-politicians-seek-clarity-over-health-service-chiefs-dismissal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:48:22.000Z",
+      "summary": "Opposition leaders in the Republic of Ireland have called for greater clarity following the removal of HSE (Health Service Executive) Chief Executive Anne O'Connor from her position.",
+      "categories": [
+        "International",
+        "Health Service",
+        "Ireland",
+        "Politicians"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "link": "https://www.myjoyonline.com/king-charles-and-elton-john-pay-tribute-to-australian-music-legend-molly-meldrum/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:48:00.000Z",
+      "summary": "King Charles and Elton John have paid tribute to Australian music industry legend Molly Meldrum, who died aged 83 after a long illness.",
+      "categories": [
+        "International",
+        "Australia",
+        "Elton John",
+        "King Charles",
+        "Molly Meldrum"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Discarded clothes choke Ghana’s coastline as Upcycle It Ghana turns textile waste into new products",
       "link": "https://www.myjoyonline.com/discarded-clothes-choke-ghanas-coastline-as-upcycle-it-ghana-turns-textile-waste-into-new-products/",
@@ -110,34 +156,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Video: Dear Prez Mahama, where are the promised stadiums?",
-      "link": "https://www.myjoyonline.com/video-dear-prez-mahama-where-are-the-promised-stadiums/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:08:40.000Z",
-      "summary": "President Mahama promised Ghanaians ready funds to build new stadiums for the country as part of their manifesto message for the elections.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "President Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana considers ban on domestic worker recruitment to Iraq after assault on Ghanaian woman",
-      "link": "https://www.myjoyonline.com/ghana-considers-ban-on-domestic-worker-recruitment-to-iraq-after-assault-on-ghanaian-woman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:04:27.000Z",
-      "summary": "The Government of Ghana is considering imposing a moratorium on the recruitment of domestic workers to Iraq following the violent assault on Ghanaian national Stephanie Nkrumah by her…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Ghana",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana protests to Iraq over assault on domestic worker in viral video; Ablakwa gives survivor GH¢50,000, considers recruitment ban",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-protests-to-iraq-over-assault-on-domestic-worker-in-viral-video-ablakwa-gives-survivor-ghc50-000-considers-recruitment-ban.html",
       "source": "Daily Graphic",
@@ -147,23 +165,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rent Commissioner says UG SRC President isn’t fit for the role and must be removed",
-      "link": "https://www.myjoyonline.com/rent-commissioner-says-ug-src-president-isnt-fit-for-the-role-and-must-be-removed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T10:54:15.000Z",
-      "summary": "The Acting Rent Commissioner, Frederick Opoku, has urged University of Ghana students to remove their SRC President, Abraham Kofi Amudzegbe, from office, accusing him of mishandling the…",
-      "categories": [
-        "Education",
-        "HP News 1",
-        "National",
-        "News",
-        "Frederick Opoku",
-        "hostel fee dispute",
-        "UG SRC"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Govt supports GBC-Ecobank bauxite value chain development deal",
