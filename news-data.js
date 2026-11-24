@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T10:14:39.423Z",
+  "updated": "2026-11-24T10:44:39.680Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Food Prices to Rise 10.3% in 2026 as El Niño Threatens Harvests, World Bank Warns",
+      "link": "https://thehighstreetjournal.com/food-prices-torise-10-3-in2026-el-nino/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T10:43:50.000Z",
+      "summary": "The risks come as food inflation remains elevated in many economies. About 33% of countries analysed recorded food inflation above 5%"
+    },
+    {
+      "title": "Nvidia’s Huang Faces Uncertain Second Act as CEO, Harvard Professor Says",
+      "link": "https://thehighstreetjournal.com/nvidias-huang-faces-uncertain-second-act/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T10:41:41.000Z",
+      "summary": "Nvidia reinstated Huang as president and chief executive officer on Nov. 23, following a unanimous board vote"
+    },
+    {
+      "title": "PFAG Welcomes US$1bn Pwalugu Dam Allocation, Calls for Implementation",
+      "link": "https://thehighstreetjournal.com/pfag-welcomes-us1bn-pwalugu-dam-allocation-calls-for-implementation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T10:40:02.000Z",
+      "summary": "PFAG has welcomed government's US$1 billion Pwalugu Dam allocation, describing it as vital for irrigation, food security and climate resilience, while demanding stakeholder participation…"
+    },
     {
       "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
       "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T00:50:00.000Z",
       "summary": "Anthropic has become one of the world's most valuable public companies after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion)."
-    },
-    {
-      "title": "Brighton Anthropic founder to become billionaire",
-      "link": "https://www.myjoyonline.com/brighton-anthropic-founder-to-become-billionaire/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:39:00.000Z",
-      "summary": "A man from Brighton who helped to set up the AI company Anthropic, which made its stock market debut on Thursday, is set to become a billionaire."
-    },
-    {
-      "title": "Goldfields wins overall CSR company at Ghana Club 100",
-      "link": "https://www.myjoyonline.com/goldfields-wins-overall-csr-company-at-ghana-club-100/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T22:03:34.000Z",
-      "summary": "The company was also ranked in the top three on the Club 100 rankings, following MTN Ghana and Newmont, respectively."
-    },
-    {
-      "title": "OmniBSIC Bank named Marketing-Oriented Bank of the Year at CIMG Awards",
-      "link": "https://gna.org.gh/2026/11/omnibsic-bank-named-marketing-oriented-bank-of-the-year-at-cimg-awards/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-19T21:22:11.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };

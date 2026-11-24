@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T10:15:09.144Z",
+  "updated": "2026-11-24T10:45:09.703Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.myjoyonline.com/dr-congo-says-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T10:39:13.000Z",
+      "summary": "The Democratic Republic of Congo says it is searching for one of its aircraft, after rebels said they had shot down a warplane in the east.",
+      "categories": [
+        "Africa",
+        "Aircraft",
+        "DR Congo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
       "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
@@ -302,22 +315,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "German President Steinmeier to open major German-African Business Summit in Accra today",
-      "link": "https://www.myjoyonline.com/german-president-steinmeier-to-open-major-german-african-business-summit-in-accra-today/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T07:46:00.000Z",
-      "summary": "German President Frank-Walter Steinmeier is expected to officially open the sixth German-African Business Summit (GABS 2026) today, alongside President John Dramani Mahama. The three-day…",
-      "categories": [
-        "Business",
-        "Comp. Business",
-        "Economy",
-        "HP Business 1",
-        "Frank-Walter Steinmeier",
-        "German-African Business Summit"
-      ],
-      "site": "https://www.myjoyonline.com/"
     }
   ]
 };
