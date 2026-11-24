@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T00:44:09.068Z",
+  "updated": "2026-11-24T00:54:09.877Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+      "link": "https://www.myjoyonline.com/us-rapper-don-toliver-postpones-two-arena-shows-after-manchester-evacuation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:44:00.000Z",
+      "summary": "US rapper Don Toliver has postponed two London shows this week after his Manchester concert on Sunday was evacuated when an \"unknown substance\" was released into the crowd.",
+      "categories": [
+        "International",
+        "Music",
+        "Don Toliver",
+        "Machester evacuation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
       "link": "https://www.myjoyonline.com/prominent-zimbabwean-preacher-arrested-on-sexual-assault-allegations/",
@@ -111,19 +125,6 @@ window.GDC_PAPERS = {
         "AFCON",
         "Morocco",
         "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fury reveals schizophrenia diagnosis",
-      "link": "https://www.myjoyonline.com/fury-reveals-schizophrenia-diagnosis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:03:00.000Z",
-      "summary": "Tyson Fury says he was diagnosed with schizophrenia soon after his world title win over Wladimir Klitschko in 2015.",
-      "categories": [
-        "Boxing",
-        "Schizophrenia",
-        "Tyson Fury"
       ],
       "site": "https://www.myjoyonline.com/"
     },
