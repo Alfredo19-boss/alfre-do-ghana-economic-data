@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T23:26:51.483Z",
+  "updated": "2026-11-24T23:46:51.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP chairman arrested over alleged theft of Nkoko Nkitinkiti birds – Agric Minister claims",
+      "link": "https://www.myjoyonline.com/npp-chairman-arrested-over-alleged-theft-of-nkoko-nkitinkiti-birds-agric-minister-claims/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T22:49:00.000Z",
+      "summary": "The Minister of Food and Agriculture, Eric Opoku, has disclosed that the New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo was arrested over the alleged theft of birds…",
+      "categories": [
+        "News",
+        "Agric",
+        "Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bellingham stunner helps Real Madrid see off PSV",
       "link": "https://www.myjoyonline.com/bellingham-stunner-helps-real-madrid-see-off-psv/",
@@ -129,20 +142,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Achimota Circuit Court",
         "Stabbing a friefighter"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales’s Norfolk home",
-      "link": "https://www.myjoyonline.com/two-arrested-on-suspicion-of-burglary-at-prince-and-princess-of-waless-norfolk-home-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:11:52.000Z",
-      "summary": "Two men have been arrested on suspicion of burglary and trespass at the Prince and Princess of Wales's country home on the Sandringham estate, police say.",
-      "categories": [
-        "News",
-        "Prince",
-        "Princess",
-        "Wales"
       ],
       "site": "https://www.myjoyonline.com/"
     },
