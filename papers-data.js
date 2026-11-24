@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T04:59:08.826Z",
+  "updated": "2026-11-24T05:09:09.372Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Premature BECE candidates face two-year ban from re-sitting exam",
+      "link": "https://www.myjoyonline.com/premature-bece-candidates-face-two-year-ban-from-re-sitting-exam/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:02:00.000Z",
+      "summary": "Form One and Two students who register early for the Basic Education Certificate Examination (BECE) will be barred from re-sitting the exam for two years, Mr Haruna Iddrisu, Minister of…",
+      "categories": [
+        "Education",
+        "BECE",
+        "Haruna Iddrisu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Some student hostel fees too high, out of order – GREDA boss agrees with Rent Control",
+      "link": "https://www.myjoyonline.com/some-student-hostel-fees-too-high-out-of-order-greda-boss-agrees-with-rent-control/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:01:00.000Z",
+      "summary": "The Executive Director of the Ghana Real Estate Developers Association (GREDA), Samuel Amegayibor, has admitted that some student hostel charges in Ghana are excessive and cannot be…",
+      "categories": [
+        "National",
+        "News",
+        "Accomodation",
+        "Ghana",
+        "GREDA",
+        "hostel fee",
+        "Student"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UGEL hostel dispute: No free pass for investors – Rent Commissioner declares",
+      "link": "https://www.myjoyonline.com/ugel-hostel-dispute-no-free-pass-for-investors-rent-commissioner-declares/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:58:52.000Z",
+      "summary": "The Acting Rent Commissioner, Frederick Opoku, has warned private hostel operators and university-linked accommodation providers that investment in student housing does not place them…",
+      "categories": [
+        "News",
+        "Accomodation",
+        "Rent",
+        "Student",
+        "UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "CAS to release Senegal Africa Cup of Nations title appeal decision today",
       "link": "https://www.myjoyonline.com/cas-to-release-senegal-africa-cup-of-nations-title-appeal-decision-today/",
@@ -92,50 +137,6 @@ window.GDC_PAPERS = {
         "Hostel",
         "NUGS",
         "Student"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
-      "link": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:21:00.000Z",
-      "summary": "Tullow Oil has lowered its 2026 free cash flow forecast after reaching an agreement with the Government of Ghana to settle two long-running tax disputes involving claims totalling $387…",
-      "categories": [
-        "Energy",
-        "HP Business 2",
-        "HP News 6",
-        "National",
-        "Ghana Revenue Authority (GRA)",
-        "Tullow oil"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria’s SEC approves Dangote refinery’s IPO share distribution plan, sources say",
-      "link": "https://www.myjoyonline.com/nigerias-sec-approves-dangote-refinerys-ipo-share-distribution-plan-sources-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:18:00.000Z",
-      "summary": "Nigeria's Securities and Exchange Commission on Monday approved Dangote Refinery's plan to allocate shares in its heavily oversubscribed initial public offering, which closed last month…",
-      "categories": [
-        "Africa",
-        "Dangote Refinery",
-        "IPO",
-        "Nigeria",
-        "Reuters"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra Mall to celebrate kids’ talent with Talent Showcase",
-      "link": "https://www.myjoyonline.com/accra-mall-to-celebrate-kids-talent-with-talent-showcase/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:10:00.000Z",
-      "summary": "This November, Accra Mall will spotlight young talent with its Kids' Talent Showcase on November 28, as part of its Family Fun programme.",
-      "categories": [
-        "Events",
-        "Accra Mall",
-        "Talent Showcase"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T04:58:38.912Z",
+  "updated": "2026-11-24T05:08:38.623Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,55 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "More Hours, Same Inefficiencies: The Challenge Facing Ghana’s 24-Hour Economy",
+      "link": "https://thehighstreetjournal.com/more-hours-same-inefficiencies-the-challenge-facing-ghanas-24-hour-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:05:00.000Z",
+      "summary": "Ghana’s 24-Hour Economy can boost production and jobs, but success depends on higher productivity, fair worker compensation, efficient operations and measurable economic gains."
+    },
+    {
+      "title": "CSOs Question Gaps in Gov’t’s US$2.2bn Energy Investment Plan",
+      "link": "https://thehighstreetjournal.com/csos-question-gaps-in-govts-us2-2bn-energy-investment-plan/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:03:00.000Z",
+      "summary": "The Ghana CSOs Alliance questions gaps in government's US$2.2 billion energy investment plan, calling for alignment with Mission 300 commitments, transparency and stronger accountability."
+    },
+    {
+      "title": "GNCCI: Private Sector Must Turn Economic Stability into Growth",
+      "link": "https://thehighstreetjournal.com/private-sector-investment-key-to-sustaining-ghanas-economic-recovery-gncci/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:02:00.000Z",
+      "summary": "GNCCI says private sector investment will be crucial to sustaining Ghana's economic recovery, urging businesses to convert improved macroeconomic stability into production, jobs, exports…"
+    },
+    {
+      "title": "Ghana’s Climate Leadership Must Translate into Domestic Energy Reforms—NRGI",
+      "link": "https://thehighstreetjournal.com/ghanas-climate-leadership-must-translate-into-domestic-energy-reforms-nrgi/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:01:00.000Z",
+      "summary": "NRGI says Ghana must reduce oil revenue dependence, redefine GNPC’s role and ensure its climate leadership delivers affordable energy, jobs and cleaner air."
+    },
+    {
+      "title": "Newmont’s Ghana Spending Tops US$1bn as Company Retains Top Corporate Ranking",
+      "link": "https://thehighstreetjournal.com/newmonts-ghana-spending-tops-us1bn-as-company-retains-top-corporate-ranking/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:00:00.000Z",
+      "summary": "Newmont contributed over US$1 billion in taxes and royalties and spent US$900 million on procurement, reinforcing its economic footprint in Ghana."
+    },
+    {
+      "title": "“I Am Honored to Return”: Jensen Huang Reinstated as Nvidia CEO",
+      "link": "https://thehighstreetjournal.com/jensen-huang-reinstated-as-nvidia-ceo/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:00:00.000Z",
+      "summary": "I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution"
+    },
+    {
+      "title": "Global Aid Transparency Stalls as AI Exposes Gaps in Development Funding Data",
+      "link": "https://thehighstreetjournal.com/global-aid-transparency-stalls/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T05:00:00.000Z",
+      "summary": "The average transparency score among 33 development organisations assessed in the 2026 Aid Transparency Index fell slightly to 62.1 out of 100 from 62.7 in 2024"
+    },
     {
       "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
       "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T15:01:51.000Z",
       "summary": "The manganese mine at Nsuta, in Ghana's Western Region, has been shipping ore since 1916. More than a century later, the rock still leaves the country the way it comes out of the ground…"
-    },
-    {
-      "title": "KGL Group boss calls for more African businesses to scale into global corporations",
-      "link": "https://www.myjoyonline.com/kgl-group-boss-calls-for-more-african-businesses-to-scale-into-global-corporations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:54:37.000Z",
-      "summary": "KGL Group Executive Chairman Alex Apau Dadey has called for deliberate efforts to build large, globally competitive and trans-generational African businesses, arguing that their growth is…"
-    },
-    {
-      "title": "Housing Minister calls for dedicated housing bank to tackle Ghana’s widening housing deficit",
-      "link": "https://www.myjoyonline.com/housing-minister-calls-for-dedicated-housing-bank-to-tackle-ghanas-widening-housing-deficit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:50:13.000Z",
-      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has called for the establishment of a dedicated housing development bank to improve access to long-term financing for…"
-    },
-    {
-      "title": "Bolt steps up ride-hailing safety education in Ghana ahead of festive season",
-      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-ahead-of-festive-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:48:54.000Z",
-      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…"
-    },
-    {
-      "title": "Bolt steps up ride-hailing safety education in Ghana, highlights Audio Recording feature ahead of festive season",
-      "link": "https://www.myjoyonline.com/bolt-steps-up-ride-hailing-safety-education-in-ghana-highlights-audio-recording-feature-ahead-of-festive-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:48:54.000Z",
-      "summary": "Ride-hailing company Bolt has intensified its safety education campaign in Ghana, highlighting driver vetting, passenger verification and shared responsibility between drivers and…"
-    },
-    {
-      "title": "British Entrepreneur Rio Kavanagh targets financing and quality gaps in Ghana’s agricultural exports",
-      "link": "https://www.myjoyonline.com/british-entrepreneur-rio-kavanagh-targets-financing-and-quality-gaps-in-ghanas-agricultural-exports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:37:37.000Z",
-      "summary": "Finding an overseas buyer does not always settle the hardest part of an agricultural export deal. A supplier still has to assemble the goods, preserve their quality and cover the interval…"
-    },
-    {
-      "title": "Ghana Heading Towards a Historic Single-Digit Policy Rate Subject to Global Conditions – Economist Projects",
-      "link": "https://thehighstreetjournal.com/ghana-heading-towards-a-historic-single-digit-policy-rate-subject-to-global-conditions-economist-projects/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T14:35:00.000Z",
-      "summary": "Dr. Theo Acheampong projects Ghana could achieve historic single-digit borrowing rates if global conditions improve, following the Bank of Ghana's 300-basis-point policy rate cut to 11%…"
-    },
-    {
-      "title": "Newmont tops Ghana Club 100 as President Mahama urges businesses to tap into $10bn New Economy programme",
-      "link": "https://www.myjoyonline.com/newmont-tops-ghana-club-100-as-president-mahama-urges-businesses-to-tap-into-10bn-new-economy-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:33:28.000Z",
-      "summary": "President John Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s US$10 billion New Economy Programme, which seeks to transform the economy through…"
     }
   ]
 };
