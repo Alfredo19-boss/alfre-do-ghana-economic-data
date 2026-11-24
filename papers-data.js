@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T02:39:09.492Z",
+  "updated": "2026-11-24T02:49:08.620Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,7 +24,7 @@ window.GDC_PAPERS = {
       "title": "High financing costs blocking private sector investment in student hostels – GREDA",
       "link": "https://www.myjoyonline.com/high-financing-costs-blocking-private-sector-investment-in-student-hostels-greda/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T02:32:53.000Z",
+      "published": "2026-11-24T02:41:53.000Z",
       "summary": "Private investment could help ease Ghana’s growing shortage of student accommodation, but developers need access to affordable long-term financing, secure land and a predictable regulatory…",
       "categories": [
         "News",
