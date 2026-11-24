@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T23:59:08.473Z",
+  "updated": "2026-11-24T00:09:09.809Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -44,6 +44,20 @@ window.GDC_PAPERS = {
         "Football",
         "Brentford",
         "Everton"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian law deserves to be taught in Ghanaian voices — State Attorney launches two textbooks at UBIDS",
+      "link": "https://www.myjoyonline.com/ghanaian-law-deserves-to-be-taught-in-ghanaian-voices-state-attorney-launches-two-textbooks-at-ubids/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:22:00.000Z",
+      "summary": "Legal education in Ghana has received a significant boost after a State Attorney and part-time law lecturer, Joanna Fynn-Wils Pipson, launched two landmark legal textbooks at the University…",
+      "categories": [
+        "News",
+        "Books",
+        "Ghana",
+        "Law"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -113,21 +127,6 @@ window.GDC_PAPERS = {
         "Kevin de Bruyne",
         "Man City",
         "Napoli"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haruna backs GTEC’s nationwide audit of PhD programmes",
-      "link": "https://www.myjoyonline.com/haruna-backs-gtecs-nationwide-audit-of-phd-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:34:00.000Z",
-      "summary": "Education Minister Haruna Iddrisu has thrown his weight behind the Ghana Tertiary Education Commission’s (GTEC) nationwide assessment of PhD programmes, insisting that the exercise is…",
-      "categories": [
-        "Education",
-        "News",
-        "GTEC",
-        "Haruna",
-        "PHD"
       ],
       "site": "https://www.myjoyonline.com/"
     },
