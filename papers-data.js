@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T02:09:12.863Z",
+  "updated": "2026-11-24T02:39:09.492Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "High financing costs blocking private sector investment in student hostels – GREDA",
+      "link": "https://www.myjoyonline.com/high-financing-costs-blocking-private-sector-investment-in-student-hostels-greda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:32:53.000Z",
+      "summary": "Private investment could help ease Ghana’s growing shortage of student accommodation, but developers need access to affordable long-term financing, secure land and a predictable regulatory…",
+      "categories": [
+        "News",
+        "accommodation",
+        "fee hike",
+        "Ghana",
+        "student hostel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Commercial loans behind UG hostel fee hikes – Vice Chancellors Ghana",
       "link": "https://www.myjoyonline.com/commercial-loans-behind-ug-hostel-fee-hikes-vice-chancellors-ghana/",
@@ -119,19 +134,6 @@ window.GDC_PAPERS = {
         "Sexual Assault",
         "Uebert Angel",
         "Zimbabwean preacher"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.myjoyonline.com/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:25:00.000Z",
-      "summary": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.",
-      "categories": [
-        "Technology",
-        "Megaspeed",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
