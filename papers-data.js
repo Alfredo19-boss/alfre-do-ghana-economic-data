@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T04:39:09.062Z",
+  "updated": "2026-11-24T04:59:08.826Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CAS to release Senegal Africa Cup of Nations title appeal decision today",
+      "link": "https://www.myjoyonline.com/cas-to-release-senegal-africa-cup-of-nations-title-appeal-decision-today/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:53:00.000Z",
+      "summary": "The Court of Arbitration for Sport (CAS) will release its decision on Tuesday, November 24, on Senegal's appeal against being stripped of this year's Africa Cup of Nations title, the court…",
+      "categories": [
+        "Africa",
+        "Football",
+        "AFCON",
+        "CAS",
+        "Morocco",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GREDA proposes star-rating system for student hostels to address exorbitant fees",
+      "link": "https://www.myjoyonline.com/greda-proposes-star-rating-system-for-student-hostels-to-address-exorbitant-fees/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:48:00.000Z",
+      "summary": "The Ghana Real Estate Developers Association (GREDA) has proposed a star-rating system for student hostels to enable students assess the quality of accommodation facilities before paying…",
+      "categories": [
+        "News",
+        "GREDA",
+        "hostel fee",
+        "Student"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey threatens Sunyani’s water supply as PURC raises concerns over Tano River pollution",
+      "link": "https://www.myjoyonline.com/galamsey-threatens-sunyanis-water-supply-as-purc-raises-concerns-over-tano-river-pollution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:44:00.000Z",
+      "summary": "The Public Utilities Regulatory Commission (PURC) has raised concerns about rising illegal mining along the upper stretches of the Tano River, warning that the situation could worsen water…",
+      "categories": [
+        "Regional",
+        "Dr Shafic Suleman",
+        "Galamsey",
+        "PURC Executive Secretary",
+        "Sunyani",
+        "Tano River pollution"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
       "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
@@ -90,44 +136,6 @@ window.GDC_PAPERS = {
         "Events",
         "Accra Mall",
         "Talent Showcase"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The missing half of risk management: Why Ghana’s commodity businesses must embrace hedging",
-      "link": "https://www.myjoyonline.com/the-missing-half-of-risk-management-why-ghanas-commodity-businesses-must-embrace-hedging/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:02:05.000Z",
-      "summary": "Ghanaian businesses have become fluent in the language of currency risk, tracking the cedi daily as large firms make FX hedging standard practice. Yet when they raise commodity price…",
-      "categories": [
-        "Opinion",
-        "Forex hedging"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Customer experience must have a seat at the table’ – Marketing expert",
-      "link": "https://www.myjoyonline.com/customer-experience-must-have-a-seat-at-the-table-marketing-expert/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:51:00.000Z",
-      "summary": "Head of Brand and Marketing at Stanbic Bank Ghana, Chidinma Braye-Yankey, has urged businesses to give customers a stronger voice in corporate decision-making, stressing that customer…",
-      "categories": [
-        "Banking and Finance",
-        "Chidinma Braye-Yankey",
-        "Customer Experience"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pluralistic ignorance and the need to unlearn, learn, and relearn in Supply Chain Management",
-      "link": "https://www.myjoyonline.com/pluralistic-ignorance-and-the-need-to-unlearn-learn-and-relearn-in-supply-chain-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:42:00.000Z",
-      "summary": "Pluralistic ignorance occurs when people privately question or reject a group norm but mistakenly believe that most others support it (Mendes, Lopez-Valeiras & Lunkes, 2017). Because each…",
-      "categories": [
-        "Opinion",
-        "Pluralistic ignorance",
-        "Supply chain management"
       ],
       "site": "https://www.myjoyonline.com/"
     },
