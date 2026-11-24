@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T12:14:40.488Z",
+  "updated": "2026-11-24T12:24:40.457Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bond market: Turnover declines by 16% to GH¢5.72bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-16-to-gh%c2%a25-72bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:17:01.000Z",
+      "summary": "Trading activity was concentrated in the 2027-2030 maturity segment, which accounted for 65.35% of total turnover at a weighted-average yield of 12.41%."
+    },
     {
       "title": "Cedi weakens marginally against US dollar, going for GH¢12.45 at forex bureaus, GH¢11.85 in interbank market",
       "link": "https://www.myjoyonline.com/cedi-weakens-marginally-against-us-dollar-going-for-gh%c2%a212-45-at-forex-bureaus-gh%c2%a211-85-in-interbank-market/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:00:00.000Z",
       "summary": "The Government Statistician wants dedicated budget allocations for data production across MDAs to reduce donor dependence, strengthen evidence-based policymaking and ensure sustainable…"
-    },
-    {
-      "title": "Ghana’s 2027 Budget: From Macroeconomic Stability to Prioritising Public Investment",
-      "link": "https://thehighstreetjournal.com/ghanas-2027-budget-from-macroeconomic-stability-to-prioritising-public-investment/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:00:00.000Z",
-      "summary": "Ghana’s 2027 Budget prioritises public investment, but sustainable financing, debt management and effective execution will determine its economic impact."
     }
   ]
 };

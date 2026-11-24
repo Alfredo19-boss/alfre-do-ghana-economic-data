@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:15:10.815Z",
+  "updated": "2026-11-24T12:25:11.419Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,78 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Iraq assault survivor Stephanie Nkrumah to receive scholarship, GH¢50,000 support",
+      "link": "https://www.myjoyonline.com/iraq-assault-survivor-stephanie-nkrumah-to-receive-scholarship-gh%c2%a250000-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:19:48.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has pledged to sponsor Stephanie Nkrumah's return to formal education following her ordeal in Iraq, where she was subjected to a violent and…",
+      "categories": [
+        "National",
+        "Foreign Minister",
+        "Ghanaian",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yendi MP wants schools held responsible for early BECE candidates",
+      "link": "https://www.myjoyonline.com/yendi-mp-wants-schools-held-responsible-for-early-bece-candidates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:18:47.000Z",
+      "summary": "The Member of Parliament for Yendi, Alhassan Abdul-Fatawu, has called on the government to hold schools and educational authorities accountable for presenting pupils to sit the Basic…",
+      "categories": [
+        "Education",
+        "National",
+        "BECE ban",
+        "institutions",
+        "Yendi MP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bond market: Turnover declines by 16% to GH¢5.72bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-16-to-gh%c2%a25-72bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:17:01.000Z",
+      "summary": "Trading activity was concentrated in the 2027-2030 maturity segment, which accounted for 65.35% of total turnover at a weighted-average yield of 12.41%.",
+      "categories": [
+        "Business",
+        "Stocks",
+        "Bond market",
+        "DDEP",
+        "GSE",
+        "turnover",
+        "YTM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kumasi Metropolitan Assembly plans digital tax collection from night and weekend traders",
+      "link": "https://www.myjoyonline.com/kumasi-metropolitan-assembly-plans-digital-tax-collection-from-night-and-weekend-traders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:15:17.000Z",
+      "summary": "The Kumasi Metropolitan Assembly (KMA) is preparing to intensify revenue mobilisation among businesses operating at night and traders who use the Central Business District (CBD) during…",
+      "categories": [
+        "National",
+        "Central Business District",
+        "KMA",
+        "night traders"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man jailed four years for assaulting firefighter at Yvonne Okoro’s residence",
+      "link": "https://www.myjoyonline.com/man-jailed-four-years-for-assaulting-firefighter-at-yvonne-okoros-residence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:12:29.000Z",
+      "summary": "The Achimota Circuit Court has sentenced Sampson Azumah to four years’ imprisonment with hard labour for assaulting a firefighter who responded to an emergency at the residence of actress…",
+      "categories": [
+        "National",
+        "Yvonne Okoro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ablakwa confirms return of Ghanaian woman assaulted by employer in Iraq",
       "link": "https://www.myjoyonline.com/ablakwa-confirms-return-of-ghanaian-woman-assaulted-by-employer-in-iraq/",
@@ -42,6 +114,7 @@ window.GDC_PAPERS = {
       "summary": "A Lecturer in Political Marketing at the University of Education, Winneba (UEW), Dr Bernard Tutu-Boahene, has questioned the rationale behind restricting academically advanced pupils from…",
       "categories": [
         "Education",
+        "HP News 9",
         "National",
         "BECE",
         "Dr Bernard Tutu-Boahene",
@@ -70,56 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PURC resolves 91% of 1,300 consumer complaints in Bono Region",
-      "link": "https://www.myjoyonline.com/purc-resolves-91-of-1300-consumer-complaints-in-bono-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:06:18.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has resolved 91 percent of approximately 1,300 consumer complaints received in the Bono Region, as part of efforts to improve electricity…",
-      "categories": [
-        "National",
-        "Regional",
-        "Bono Region",
-        "consumer",
-        "PURC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Africa must turn German investment into industrial growth, shared prosperity – Mahama",
-      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-turn-german-investment-into-industrial-growth-shared-prosperity-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:05:49.000Z",
-      "summary": "President John Dramani Mahama has called on African countries to leverage German investment, innovation and technical expertise to accelerate industrialisation and create shared economic…",
-      "categories": [
-        "Africa",
-        "Business",
-        "HP Business 4",
-        "HP News 7",
-        "National",
-        "Africa-German Relations",
-        "GABS 2026",
-        "John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
-      "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:57:27.000Z",
-      "summary": "Sabine Dall’Omo, Chief Executive Officer of Siemens Sub-Saharan Africa, says the perception of Africa as a conflict-prone region and a difficult market to access remains a major obstacle to…",
-      "categories": [
-        "Africa",
-        "Business",
-        "HP Business 3",
-        "HP News 8",
-        "National",
-        "GABS 2026",
-        "Sabine Dall’Omo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Linda Ocloo: Greater Accra Minister urges communities to fund minor streetlight repairs",
       "link": "https://www.graphic.com.gh/news/general-news/linda-ocloo-greater-accra-minister-urges-communities-to-fund-minor-streetlight-repairs.html",
       "source": "Daily Graphic",
@@ -129,39 +152,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Aayalolo contra-flow system to be extended to Tema – Rita Sowah",
-      "link": "https://www.myjoyonline.com/aayalolo-contra-flow-system-to-be-extended-to-tema-rita-sowah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:53:56.000Z",
-      "summary": "The government is preparing to extend the Aayalolo bus contra-flow system to Tema as part of efforts to improve public transport and reduce traffic congestion during peak commuting periods.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Aayalolo contra-flow",
-        "Rita Sowah",
-        "Tema"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t set to introduce AI, robotics and coding at basic school level",
-      "link": "https://www.myjoyonline.com/govt-set-to-introduce-ai-robotics-and-coding-at-basic-school-level/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:48:40.000Z",
-      "summary": "The government is set to introduce robotics, coding, artificial intelligence and electronics into the curriculum for learners from Kindergarten to Primary Six as part of efforts to prepare…",
-      "categories": [
-        "Education",
-        "HP News 4",
-        "National",
-        "Artificial Intelligence",
-        "basic school level",
-        "Haruna Iddrisu",
-        "robotics and coding"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama urges Germany, EU to sustain support for Sahel fight against violent extremism",
