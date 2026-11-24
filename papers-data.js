@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T02:04:09.819Z",
+  "updated": "2026-11-24T02:09:12.863Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Commercial loans behind UG hostel fee hikes – Vice Chancellors Ghana",
+      "link": "https://www.myjoyonline.com/commercial-loans-behind-ug-hostel-fee-hikes-vice-chancellors-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:01:45.000Z",
+      "summary": "The rising cost of student accommodation in Ghana’s public universities requires a national funding arrangement involving government, university authorities, students and private investors…",
+      "categories": [
+        "News",
+        "Ghana",
+        "Hostel accomodation",
+        "Legon",
+        "UG",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kick Nation Select depart Ghana for Surf Cup International in Spain",
       "link": "https://www.myjoyonline.com/kick-nation-select-depart-ghana-for-surf-cup-international-in-spain/",
@@ -116,18 +132,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Megaspeed",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gisèle Pelicot ‘humiliated’ after nude photos sent to media to promote book",
-      "link": "https://www.myjoyonline.com/gisele-pelicot-humiliated-after-nude-photos-sent-to-media-to-promote-book/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:17:00.000Z",
-      "summary": "Gisèle Pelicot has said she has been \"once again humiliated\" after nude images of her were sent to the media to promote a book about coercive control.",
-      "categories": [
-        "International",
-        "Gisèle Pelicot"
       ],
       "site": "https://www.myjoyonline.com/"
     },
