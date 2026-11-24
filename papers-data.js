@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T08:25:09.173Z",
+  "updated": "2026-11-24T08:35:09.030Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Qualikeeper wins Qualcomm’s $75,000 social impact grant",
+      "link": "https://ghanaiantimes.com.gh/qualikeeper-wins-qualcomms-75000-social-impact-grant/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:34:47.000Z",
+      "summary": "QUALIKEEPER Investments Ltd. has been named the winner of the 2026 Qualcomm for Good Social Impact Fund for developing an affordable artificial intelligence and Internet of Things (AIoT)…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ratify Heath Goldfields lease to boost investor confidence — MD",
+      "link": "https://ghanaiantimes.com.gh/ratify-heath-goldfields-lease-to-boost-investor-confidence-md/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:32:06.000Z",
+      "summary": "THE Managing Director of Heath Goldfields Ltd (HGL), Mr Patrick Appiah Mensah, has called for the expeditious Parliamentary ratification of the company’s mining lease to sustain investor…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minister directs MMDAs to beautify public spaces ahead of 70th Independence anniversary",
+      "link": "https://ghanaiantimes.com.gh/minister-directs-mmdas-to-beautify-public-spaces-ahead-of-70th-independence-anniversary/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:29:12.000Z",
+      "summary": "THE Greater Accra Regional Minister, Linda Obenewaa Akweley Ocloo, has directed all Metropolitan, Municipal and District Assemblies (MMDAs) to clean and beautify public spaces, principal…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GETFund supports 4 Volta schools with books",
       "link": "https://ghanaiantimes.com.gh/getfund-supports-4-volta-schools-with-books/",
@@ -89,39 +123,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "UK to host 2035 Women’s World Cup- FIFA",
-      "link": "https://ghanaiantimes.com.gh/uk-to-host-2035-womens-world-cup-fifa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T07:55:41.000Z",
-      "summary": "England, Northern Ireland, Scotland and Wales will jointly host the 2035 Women’s World Cup, FIFA has confirmed. It will be the first time a football World Cup has been held in the United…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Alcaraz claims ATP Finals title",
-      "link": "https://ghanaiantimes.com.gh/alcaraz-claims-atp-finals-title/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T07:50:43.000Z",
-      "summary": "SEVEN-time Grand Slam champion, Carlos Alcaraz, powered past world number one, Alexander Zverev, 6-2, 7-6 (9-7) on Sunday to win his maiden ATP Finals title. The Spaniard, who returned at…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "CAS verdict on Senegal’s AFCON 2025 title appeal today",
-      "link": "https://ghanaiantimes.com.gh/cas-verdict-on-senegals-afcon-2025-title-appeal-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T07:48:05.000Z",
-      "summary": "THE Court of Arbitration for Sport (CAS) will release its decision on Senegal’s appeal against being stripped of this year’s Africa Cup of Nations (AFCON) title today. Senegal are…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Snapchat blackmail: Law student arrested for extorting 16-year-old",
       "link": "https://www.graphic.com.gh/news/general-news/snapchat-blackmail-law-student-arrested-for-extorting-16-year-old.html",
       "source": "Daily Graphic",
@@ -158,6 +159,22 @@ window.GDC_PAPERS = {
         "Ghana",
         "Kofi Adams",
         "National Paralympic Committee of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Africa advocates stronger trade and industrial ties with Ghana",
+      "link": "https://www.myjoyonline.com/south-africa-advocates-stronger-trade-and-industrial-ties-with-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T07:09:00.000Z",
+      "summary": "South Africa is seeking stronger trade and industrial ties with Ghana, calling for the removal of regulatory obstacles that make it difficult for businesses in both countries to access each…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 3",
+        "International",
+        "Investments",
+        "Ghana South Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -234,21 +251,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-24T05:26:00.000Z",
       "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…",
       "categories": [
-        "Mining",
-        "National",
-        "Elliot Twum",
-        "Gold Fields"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gold Fields eyes $7.5bn investment in Tarkwa Mine as lease expiry looms",
-      "link": "https://www.myjoyonline.com/gold-fields-eyes-7-5bn-investment-in-tarkwa-mine-as-lease-expiry-looms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:18:00.000Z",
-      "summary": "Gold Fields Ghana Limited is planning a $7.5 billion investment in its Tarkwa Mine over the next two decades as it seeks to renew its mining leases, which expire in April 2027.",
-      "categories": [
-        "HP Business 2",
         "Mining",
         "National",
         "Elliot Twum",
