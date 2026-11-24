@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T12:44:40.401Z",
+  "updated": "2026-11-24T12:54:40.788Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Open up your trade routes – German President tells Africa",
+      "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:44:55.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to intensify economic reforms and remove barriers to trade to unlock the continent's economic potential and…"
+    },
     {
       "title": "Bond market: Turnover declines by 16% to GH¢5.72bn",
       "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-16-to-gh%c2%a25-72bn/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:00:00.000Z",
       "summary": "MobileMoney Fintech LTD placed fifth in the 2026 Ghana Club 100 on its first entry, months after separating from MTN Ghana, which ranked second."
-    },
-    {
-      "title": "Government Statistician Calls for Dedicated Data Budget Across MDAs",
-      "link": "https://thehighstreetjournal.com/government-statistician-calls-for-dedicated-data-budget-across-mdas/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:00:00.000Z",
-      "summary": "The Government Statistician wants dedicated budget allocations for data production across MDAs to reduce donor dependence, strengthen evidence-based policymaking and ensure sustainable…"
     }
   ]
 };

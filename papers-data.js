@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:45:10.342Z",
+  "updated": "2026-11-24T12:55:11.012Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,26 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Open up your trade routes – German President tells Africa",
+      "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:44:55.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to intensify economic reforms and remove barriers to trade to unlock the continent's economic potential and…",
+      "categories": [
+        "Africa",
+        "Business",
+        "HP Business 1",
+        "HP Business 5",
+        "HP News 4",
+        "National",
+        "News",
+        "Dr Frank Walter",
+        "GABS 2026",
+        "Germany-Africa Business Summit"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GES warns parents; says 2-year exam ban for early BECE, WASSCE candidates will be enforced",
       "link": "https://www.myjoyonline.com/ges-warns-parents-says-2-year-exam-ban-for-early-bece-wassce-candidates-will-be-enforced/",
@@ -144,21 +164,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Yendi MP wants schools held responsible for early BECE candidates",
-      "link": "https://www.myjoyonline.com/yendi-mp-wants-schools-held-responsible-for-early-bece-candidates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:18:47.000Z",
-      "summary": "The Member of Parliament for Yendi, Alhassan Abdul-Fatawu, has called on the government to hold schools and educational authorities accountable for presenting pupils to sit the Basic…",
-      "categories": [
-        "Education",
-        "National",
-        "BECE ban",
-        "institutions",
-        "Yendi MP"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Linda Ocloo: Greater Accra Minister urges communities to fund minor streetlight repairs",
