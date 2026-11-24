@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T22:06:21.314Z",
+  "updated": "2026-11-24T22:16:21.210Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.myjoyonline.com/huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:38:00.000Z",
+      "summary": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US, AP…"
+    },
     {
       "title": "GSE Appoints Darpaah to Lead Fixed Income Market Expansion",
       "link": "https://thehighstreetjournal.com/gse-appoints-darpaah-to-lead-fixed-income-market-expansion/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T17:09:28.000Z",
       "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, says the government’s New Economy agenda will accelerate industrialisation, attract investment…"
-    },
-    {
-      "title": "Two nanny goats, a new hope: Kusaug women seek a path to economic independence",
-      "link": "https://www.myjoyonline.com/two-nanny-goats-a-new-hope-kusaug-women-seek-a-path-to-economic-independence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T15:23:06.000Z",
-      "summary": "For Rita, a mother of six from Bazua in the Kusaug Traditional Area of the Upper East Region, receiving two nanny goats could open a new opportunity to support her children. She is among 15…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T22:06:51.651Z",
+  "updated": "2026-11-24T22:16:51.931Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.myjoyonline.com/us-attorney-general-dodges-questions-about-nvidia-investigation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:46:00.000Z",
+      "summary": "US Attorney General Todd Blanche has backed Nvidia as a \"good corporate citizen\" while refusing to comment on whether the AI chipmaker was under federal investigation.",
+      "categories": [
+        "International",
+        "Law",
+        "Nvidia",
+        "US",
+        "US Attorney"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.myjoyonline.com/huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:38:00.000Z",
+      "summary": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US, AP…",
+      "categories": [
+        "International",
+        "Technology",
+        "Huawei"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "link": "https://www.myjoyonline.com/dr-congo-says-military-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
@@ -101,37 +129,6 @@ window.GDC_PAPERS = {
         "Ark Foundation",
         "International Labour Organisation",
         "workplace harassment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAPHTO warns of heightened yellow fever, meningitis risks as Ghana enters dry season",
-      "link": "https://www.myjoyonline.com/gaphto-warns-of-heightened-yellow-fever-meningitis-risks-as-ghana-enters-dry-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:02:44.000Z",
-      "summary": "The Ghana Association of Public Health Technical Officers (GAPHTO) is urging Ghanaians to heighten their vigilance against yellow fever and cerebrospinal meningitis as the country enters…",
-      "categories": [
-        "Health",
-        "National",
-        "News",
-        "Dry Season",
-        "Ghana Association of Public Health Technical Officers (GAPHTO)",
-        "Meningitis",
-        "Yellow Fever"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Togbe Afede XIV backs Mahama government’s efforts to fight illegal mining",
-      "link": "https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:02:02.000Z",
-      "summary": "The President of the Asogli State Council and Former National House of Chiefs President, Togbe Afede XIV, has endorsed the Mahama administration’s efforts to tackle illegal mining…",
-      "categories": [
-        "National",
-        "Illegal mining",
-        "Mahama",
-        "Togbe Afede"
       ],
       "site": "https://www.myjoyonline.com/"
     },
