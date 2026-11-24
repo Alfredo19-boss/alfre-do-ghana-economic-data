@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T01:59:09.358Z",
+  "updated": "2026-11-24T02:04:09.819Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kick Nation Select depart Ghana for Surf Cup International in Spain",
+      "link": "https://www.myjoyonline.com/kick-nation-select-depart-ghana-for-surf-cup-international-in-spain/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T01:57:41.000Z",
+      "summary": "Ghanaian youth football side Kick Nation Select have departed the country for Spain to compete in the 2026 Surf Cup International.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Haruna Iddrisu",
+        "Kick nation select",
+        "Kick Nation Sports Agency",
+        "Surf international cup",
+        "Wunam Haruna"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Herbal medicine under threat from chemical spraying, land destruction",
       "link": "https://www.myjoyonline.com/herbal-medicine-under-threat-from-chemical-spraying-land-destruction/",
@@ -111,23 +128,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Gisèle Pelicot"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria’s president says he is also hit by water and power cuts plaguing country",
-      "link": "https://www.myjoyonline.com/nigerias-president-says-he-is-also-hit-by-water-and-power-cuts-plaguing-country/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:01:52.000Z",
-      "summary": "Nigeria's President Bola Tinubu says the presidential villa suffers from cuts in electricity and water - issues that are all too common for the country's ordinary citizens.",
-      "categories": [
-        "Africa",
-        "International",
-        "Energy",
-        "Nigeria",
-        "Power",
-        "Tinubu",
-        "Water"
       ],
       "site": "https://www.myjoyonline.com/"
     },
