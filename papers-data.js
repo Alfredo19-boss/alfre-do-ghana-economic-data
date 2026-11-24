@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T20:56:52.063Z",
+  "updated": "2026-11-24T21:06:51.206Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Togbe Afede XIV backs Mahama government’s efforts to fight illegal mining",
+      "link": "https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:02:02.000Z",
+      "summary": "The President of the Asogli State Council and Former National House of Chiefs President, Togbe Afede XIV, has endorsed the Mahama administration’s efforts to tackle illegal mining…",
+      "categories": [
+        "National",
+        "Illegal mining",
+        "Mahama",
+        "Togbe Afede"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Economic Fighters League questions Parliament’s 2027 budget demands amid public hardship",
+      "link": "https://www.myjoyonline.com/economic-fighters-league-questions-parliaments-2027-budget-demands-amid-public-hardship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T20:53:07.000Z",
+      "summary": "The Leader of the Economic Fighters League, Ernesto Yeboah, says the financial difficulties facing ordinary Ghanaians must be considered in assessing Parliament’s proposed budget allocation…",
+      "categories": [
+        "National",
+        "News",
+        "Ernesto Yeboah",
+        "Parliament",
+        "Public hardship"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Greater Accra Regional Minister urges communities to contribute towards streetlight repairs",
       "link": "https://www.myjoyonline.com/greater-accra-regional-minister-urges-communities-to-contribute-towards-streetlight-repairs/",
@@ -103,39 +132,6 @@ window.GDC_PAPERS = {
         "CLOGSAG",
         "Phillip Gariba",
         "Samuel Nana Antwi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament must receive full budgetary request to strengthen oversight – ACEPA",
-      "link": "https://www.myjoyonline.com/parliament-must-receive-full-budgetary-request-to-strengthen-oversight-acepa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:41:27.000Z",
-      "summary": "The Executive Director of the Africa Centre for Parliamentary Affairs (ACEPA), Dr Rasheed Draman, says Parliament must receive the full budgetary allocation it requests to effectively carry…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "ACEPA",
-        "Dr Rasheed Draman",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Yankazia residents depend on unsafe water sources as community appeals for urgent intervention",
-      "link": "https://www.myjoyonline.com/yankazia-residents-depend-on-unsafe-water-sources-as-community-appeals-for-urgent-intervention/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:39:27.000Z",
-      "summary": "More than 1,000 residents of Yankazia in the Saboba District of the Northern Region are struggling to access safe drinking water, with some forced to rely on unsafe sources shared with…",
-      "categories": [
-        "Health",
-        "HP News 8",
-        "Regional",
-        "Animals",
-        "Northern region",
-        "unsafe water",
-        "Yankazia"
       ],
       "site": "https://www.myjoyonline.com/"
     },

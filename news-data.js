@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T20:56:21.079Z",
+  "updated": "2026-11-24T21:06:24.746Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GSE Appoints Darpaah to Lead Fixed Income Market Expansion",
+      "link": "https://thehighstreetjournal.com/gse-appoints-darpaah-to-lead-fixed-income-market-expansion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T20:57:54.000Z",
+      "summary": "The GSE appoints Kojo Darpaah to lead efforts to expand the fixed income market and attract more corporate issuers."
+    },
     {
       "title": "German president calls for more investment at Africa business summit in Accra",
       "link": "https://www.ghanabusinessnews.com/2026/11/24/german-president-calls-for-more-investment-at-africa-business-summit-in-accra/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T15:23:06.000Z",
       "summary": "For Rita, a mother of six from Bazua in the Kusaug Traditional Area of the Upper East Region, receiving two nanny goats could open a new opportunity to support her children. She is among 15…"
-    },
-    {
-      "title": "Inside Deutsche Bank – Painful lessons dressed in suit",
-      "link": "https://www.ghanabusinessnews.com/2026/11/20/inside-deutsche-bank-painful-lessons-dressed-in-suit/",
-      "source": "Ghana Business News",
-      "published": "2026-11-20T14:14:24.000Z",
-      "summary": "There is a law that doesn't proclaim its existence. It doesn't storm newsrooms in the middle of the night, doesn't come with boots on and doesn't come shouting. It comes silently, inside an…"
     }
   ]
 };
