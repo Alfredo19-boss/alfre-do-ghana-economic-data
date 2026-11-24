@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T03:29:09.320Z",
+  "updated": "2026-11-24T03:39:09.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -50,6 +50,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "UG accommodation crisis reflects wider problems across public universities – Dr Kpeglo-Freiku",
+      "link": "https://www.myjoyonline.com/ug-accommodation-crisis-reflects-wider-problems-across-public-universities-dr-kpeglo-freiku/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:58:00.000Z",
+      "summary": "The accommodation crisis at the University of Ghana reflects deeper challenges confronting public universities across the country, Dr Cynthia Kpeglo-Freiku, Executive Secretary of Vice…",
+      "categories": [
+        "Education",
+        "Dr Cynthia Kpeglo-Freiku",
+        "University of Ghana (UG)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "High financing costs blocking private sector investment in student hostels – GREDA",
       "link": "https://www.myjoyonline.com/high-financing-costs-blocking-private-sector-investment-in-student-hostels-greda/",
       "source": "MyJoyOnline",
@@ -61,6 +74,32 @@ window.GDC_PAPERS = {
         "fee hike",
         "Ghana",
         "student hostel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "University housing crisis only part of wider hardship facing students – Dr Kpeglo-Freiku",
+      "link": "https://www.myjoyonline.com/university-housing-crisis-only-part-of-wider-hardship-facing-students-dr-kpeglo-freiku/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:40:00.000Z",
+      "summary": "Dr Cynthia Kpeglo-Freiku, Executive Secretary of Vice Chancellors Ghana, says the growing accommodation crisis in public universities is only one part of the wider economic hardship…",
+      "categories": [
+        "Education",
+        "Dr Cynthia Kpeglo-Freiku",
+        "Executive Secretary of Vice Chancellors Ghana",
+        "University accommodation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil holds near three-month low as rising supply offsets Hormuz threat",
+      "link": "https://www.myjoyonline.com/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:23:00.000Z",
+      "summary": "Oil prices eased Tuesday, hovering near a three-month low amid concerns about rising crude supply and a potential market surplus, while risk to shipping through the Strait of Hormuz…",
+      "categories": [
+        "International",
+        "Oil prices"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -87,53 +126,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Technology",
         "Meta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Commercial loans behind UG hostel fee hikes – Vice Chancellors Ghana",
-      "link": "https://www.myjoyonline.com/commercial-loans-behind-ug-hostel-fee-hikes-vice-chancellors-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:01:45.000Z",
-      "summary": "The rising cost of student accommodation in Ghana’s public universities requires a national funding arrangement involving government, university authorities, students and private investors…",
-      "categories": [
-        "News",
-        "Ghana",
-        "Hostel accomodation",
-        "Legon",
-        "UG",
-        "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kick Nation Select depart Ghana for Surf Cup International in Spain",
-      "link": "https://www.myjoyonline.com/kick-nation-select-depart-ghana-for-surf-cup-international-in-spain/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T01:57:41.000Z",
-      "summary": "Ghanaian youth football side Kick Nation Select have departed the country for Spain to compete in the 2026 Surf Cup International.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Haruna Iddrisu",
-        "Kick nation select",
-        "Kick Nation Sports Agency",
-        "Surf international cup",
-        "Wunam Haruna"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Herbal medicine under threat from chemical spraying, land destruction",
-      "link": "https://www.myjoyonline.com/herbal-medicine-under-threat-from-chemical-spraying-land-destruction/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T01:19:16.000Z",
-      "summary": "Mr Joshua Appiah-Kubi of Poget Herbal has expressed concern over the negative impact of indiscriminate chemical spraying by farmers and the activities of illegal miners on medicinal plants…",
-      "categories": [
-        "Health",
-        "News",
-        "herbs",
-        "Medicine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
