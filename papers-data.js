@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T08:35:09.030Z",
+  "updated": "2026-11-24T08:45:09.210Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
+      "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T08:38:50.000Z",
+      "summary": "Tullow Oil has reached an agreement with Government of Ghana to settle outstanding tax liabilities from two international arbitration cases, pending parliamentary approval.",
+      "categories": [
+        "Energy",
+        "National",
+        "Tullow Oil Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fred Bortey Kyeremeh writes: After the IMF, Ghana’s hardest test starts now",
+      "link": "https://www.myjoyonline.com/fred-bortey-kyeremeh-writes-after-the-imf-ghanas-hardest-test-starts-now/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T08:37:30.000Z",
+      "summary": "Ghana has stabilised faster than anyone expected. The 2027 Budget now turns from survival to jobs. History says this is exactly the moment the country tends to relapse. It does not have to…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "Fred Bortey Kyeremeh",
+        "Ghana",
+        "IMF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Qualikeeper wins Qualcomm’s $75,000 social impact grant",
       "link": "https://ghanaiantimes.com.gh/qualikeeper-wins-qualcomms-75000-social-impact-grant/",
@@ -205,7 +234,7 @@ window.GDC_PAPERS = {
       "summary": "Ghana defeated Morocco 1-0 in Sunday’s final to lift the trophy and become world champions, with an own goal in the second half proving decisive.",
       "categories": [
         "Football",
-        "HP News 2",
+        "HP News 10",
         "HP Sports 2",
         "National",
         "News",
@@ -227,34 +256,6 @@ window.GDC_PAPERS = {
         "ADB",
         "Edward Ato Sarpong",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GREDA boss explains why private hostels cost more than traditional halls",
-      "link": "https://www.myjoyonline.com/greda-boss-explains-why-private-hostels-cost-more-than-traditional-halls/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:33:40.000Z",
-      "summary": "The cost of operating privately financed student hostels cannot be fairly compared with charges at traditional university halls, which were mostly built decades ago and no longer carry the…",
-      "categories": [
-        "News",
-        "Accomodation",
-        "GREDA",
-        "hostel fee"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gold Fields defends Ghana operations, says 74% of every dollar generated stays in country",
-      "link": "https://www.myjoyonline.com/gold-fields-defends-ghana-operations-says-74-of-every-dollar-generated-stays-in-country/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:26:00.000Z",
-      "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…",
-      "categories": [
-        "Mining",
-        "National",
-        "Elliot Twum",
-        "Gold Fields"
       ],
       "site": "https://www.myjoyonline.com/"
     },

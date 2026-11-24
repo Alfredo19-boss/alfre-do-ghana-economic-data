@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T08:34:38.831Z",
+  "updated": "2026-11-24T08:44:38.616Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
+      "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T08:38:50.000Z",
+      "summary": "Tullow Oil has reached an agreement with Government of Ghana to settle outstanding tax liabilities from two international arbitration cases, pending parliamentary approval."
+    },
     {
       "title": "Govt’s GHS85Bn Domestic Borrowing Target for 2027 Could Choke Private Sector Credit Recovery – Deloitte",
       "link": "https://thehighstreetjournal.com/govts-ghs85bn-domestic-borrowing-target-for-2027-could-choke-private-sector-credit-recovery-deloitte/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T20:06:12.000Z",
       "summary": "The Bank of Ghana (BoG) has issued a public alert warning citizens against engaging with 19 digital credit applications operating in the country without the requisite licence or…"
-    },
-    {
-      "title": "Driving Change: German Development Cooperation and partners launch partnership to increase employment opportunities for women in Ghana’s heavy transport and mining sectors",
-      "link": "https://www.myjoyonline.com/driving-change-german-development-cooperation-and-partners-launch-partnership-to-increase-employment-opportunities-for-women-in-ghanas-heavy-transport-and-mining-sectors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:00:37.000Z",
-      "summary": "The German Development Cooperation and Scania West Africa have joined hands to improve professional opportunities and employability of women in Ghana’s heavy transport sector with a…"
     }
   ]
 };
