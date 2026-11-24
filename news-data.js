@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T13:49:41.867Z",
+  "updated": "2026-11-24T13:59:39.133Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Reference Rate Could Fall Below 10% After BoG Rate Cut",
+      "link": "https://thehighstreetjournal.com/ghana-reference-rate-could-fall-below-10-after-bog-rate-cut/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T13:50:36.000Z",
+      "summary": "Ghana's banking industry expects the reference rate to fall below 10% following the central bank's latest policy cut, potentially easing borrowing costs for businesses and individuals."
+    },
     {
       "title": "Nissan Africa delegation commends Japan Motors’ investment in modern service facilities",
       "link": "https://www.myjoyonline.com/nissan-africa-delegation-commends-japan-motors-investment-in-modern-service-facilities/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:02:00.000Z",
       "summary": "Ghana’s no-new-taxes pledge hinges on stronger revenue collection, reduced leakages, fair enforcement and disciplined spending to finance development without accumulating arrears or debt."
-    },
-    {
-      "title": "DStv Price Cuts Trigger Subscriber Comeback as MultiChoice Reports Massive Uptake",
-      "link": "https://thehighstreetjournal.com/dstv-price-cuts-trigger-subscriber-comeback-as-multichoice-reports-massive-uptake/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:01:00.000Z",
-      "summary": "MultiChoice Ghana reports a surge in uptake and returning subscribers following DStv price cuts, but withholds figures on the scale of the recovery."
     }
   ]
 };

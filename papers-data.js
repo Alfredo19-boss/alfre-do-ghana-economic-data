@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T13:50:10.624Z",
+  "updated": "2026-11-24T14:00:10.503Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Tricycle operators welcome NRSA admission of error in Pragyia helmet regulation",
+      "link": "https://www.myjoyonline.com/tricycle-operators-welcome-nrsa-admission-of-error-in-pragyia-helmet-regulation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:55:35.000Z",
+      "summary": "The National Union of Tricycle Operators of Ghana has welcomed an admission by the National Road Safety Authority (NRSA) that the regulation requiring commercial tricycle operators…",
+      "categories": [
+        "National",
+        "News",
+        "NRSA",
+        "Pragyia helmet regulation",
+        "tricycle operators"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TUC warns workers against outdated SSNIT records",
+      "link": "https://www.graphic.com.gh/news/general-news/tuc-warns-workers-against-outdated-ssnit-records.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T13:54:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Sickle cell: Grenada university develops medical care card to support patients during crises",
       "link": "https://www.myjoyonline.com/sickle-cell-grenada-university-develops-medical-care-card-to-support-patients-during-crises/",
@@ -142,20 +168,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "CSOs demand transparency over ECG private-sector reforms",
-      "link": "https://www.myjoyonline.com/csos-demand-transparency-over-ecg-private-sector-reforms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:18:37.000Z",
-      "summary": "Civil society organisations monitoring Ghana's energy sector are demanding greater transparency in the planned private-sector reforms of the Electricity Company of Ghana (ECG), insisting…",
-      "categories": [
-        "National",
-        "CSOs",
-        "ECG",
-        "Investment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "BECE two-year ban: Schools, intermediaries must also be held accountable for premature registration",
       "link": "https://www.graphic.com.gh/news/general-news/gnacops-wants-school-officials-intermediaries-held-accountable-over-bece-two-year-ban.html",
       "source": "Daily Graphic",
@@ -204,17 +216,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-germany-eu-to-sustain-support-for-sahel-fight-against-violent-extremism.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T11:28:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana protests to Iraq over assault on domestic worker in viral video; Ablakwa gives survivor GH¢50,000, considers recruitment ban",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-protests-to-iraq-over-assault-on-domestic-worker-in-viral-video-ablakwa-gives-survivor-ghc50-000-considers-recruitment-ban.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T10:56:59.000Z",
       "summary": "",
       "categories": [
         "General News"
