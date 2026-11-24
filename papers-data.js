@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T21:06:51.206Z",
+  "updated": "2026-11-24T21:16:51.567Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ark Foundation urges Ghana to ratify ILO convention to tackle workplace harassment",
+      "link": "https://www.myjoyonline.com/ark-foundation-urges-ghana-to-ratify-ilo-convention-to-tackle-workplace-harassment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:04:53.000Z",
+      "summary": "The Ark Foundation, Ghana, has called on the government and Parliament to urgently ratify and domesticate the International Labour Organisation’s (ILO) Convention 190 to strengthen…",
+      "categories": [
+        "National",
+        "Ark Foundation",
+        "International Labour Organisation",
+        "workplace harassment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GAPHTO warns of heightened yellow fever, meningitis risks as Ghana enters dry season",
+      "link": "https://www.myjoyonline.com/gaphto-warns-of-heightened-yellow-fever-meningitis-risks-as-ghana-enters-dry-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:02:44.000Z",
+      "summary": "The Ghana Association of Public Health Technical Officers (GAPHTO) is urging Ghanaians to heighten their vigilance against yellow fever and cerebrospinal meningitis as the country enters…",
+      "categories": [
+        "Health",
+        "National",
+        "News",
+        "Dry Season",
+        "Ghana Association of Public Health Technical Officers (GAPHTO)",
+        "Meningitis",
+        "Yellow Fever"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Togbe Afede XIV backs Mahama government’s efforts to fight illegal mining",
       "link": "https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/",
@@ -103,35 +134,6 @@ window.GDC_PAPERS = {
         "Events",
         "National",
         "Say Cheers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
-      "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:47:38.000Z",
-      "summary": "The Kantanka Group is exploring a partnership with the Kwame Nkrumah Memorial Park under a proposed initiative to promote Ghanaian-owned businesses and advance discussions on economic…",
-      "categories": [
-        "Economy",
-        "Events",
-        "Ghanaian owned enterprises",
-        "Kantanka group",
-        "Nkrumah Memorial park"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CLOGSAG elects Phillip Gariba as Executive Secretary, appoints new National President",
-      "link": "https://www.myjoyonline.com/clogsag-elects-phillip-gariba-as-executive-secretary-appoints-new-national-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:47:27.000Z",
-      "summary": "The Civil and Local Government Staff Association of Ghana (CLOGSAG) has appointed Phillip Gariba as its substantive Executive Secretary and elected Samuel Nana Antwi as National President…",
-      "categories": [
-        "National",
-        "CLOGSAG",
-        "Phillip Gariba",
-        "Samuel Nana Antwi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
