@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:15:09.660Z",
+  "updated": "2026-11-24T11:25:09.214Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa gives assaulted Ghanaian domestic worker in Iraq GH¢50,000, promises scholarship",
+      "link": "https://www.myjoyonline.com/ablakwa-gives-assaulted-ghanaian-domestic-worker-in-iraq-gh%c2%a250000-promises-scholarship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:18:12.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has donated GH¢50,000 to Stephanie Nkrumah, the Ghanaian woman who was allegedly subjected to a violent assault by her employer in Iraq, and…",
+      "categories": [
+        "National",
+        "News",
+        "Ablakwa",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Video: Dear Prez Mahama, where are the promised stadiums?",
       "link": "https://www.myjoyonline.com/video-dear-prez-mahama-where-are-the-promised-stadiums/",
@@ -41,6 +55,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-24T11:04:27.000Z",
       "summary": "The Government of Ghana is considering imposing a moratorium on the recruitment of domestic workers to Iraq following the violent assault on Ghanaian national Stephanie Nkrumah by her…",
       "categories": [
+        "HP News 2",
         "National",
         "Ghana",
         "Iraq"
@@ -138,19 +153,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
-      "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T09:01:22.000Z",
-      "summary": "Chartered Institute of Bankers, Ghana (CIB Ghana) has called for stronger professional and ethical standards across the banking industry as artificial intelligence (AI), virtual assets and…",
+      "title": "Govt supports GBC-Ecobank bauxite value chain development deal",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-supports-gbc-ecobank-bauxite-value-chain-development-deal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:42:15.000Z",
+      "summary": "",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "CIB",
-        "Dr. Ellen Ohene-Afoakwa",
-        "FCIB"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "1,414 Graduate from UniMAC",
@@ -301,17 +312,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gender-ministry-unfpa-work-on-national-kayayei-management-framework.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T08:00:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Customs mobilises GH¢53.19bn in 10 months",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-customs-mobilises-ghc53-19bn-in-10-months.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T07:57:49.000Z",
       "summary": "",
       "categories": [
         "General News"
