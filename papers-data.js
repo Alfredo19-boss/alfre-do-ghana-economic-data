@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T21:16:51.567Z",
+  "updated": "2026-11-24T21:36:51.740Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hunter remanded for allegedly shooting charcoal producer",
+      "link": "https://www.myjoyonline.com/hunter-remanded-for-allegedly-shooting-charcoal-producer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:11:00.000Z",
+      "summary": "The Nkawie Circuit Court has remanded a hunter into police custody for allegedly shooting a charcoal producer in a forest in the Atwima Nwabiagya South Municipality of the Ashanti Region.",
+      "categories": [
+        "Crime",
+        "Charcoal producer",
+        "Hunter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ark Foundation urges Ghana to ratify ILO convention to tackle workplace harassment",
       "link": "https://www.myjoyonline.com/ark-foundation-urges-ghana-to-ratify-ilo-convention-to-tackle-workplace-harassment/",
@@ -66,6 +79,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Your brain is exhausted from too many unfinished tasks. Five simple steps can help",
+      "link": "https://www.myjoyonline.com/your-brain-is-exhausted-from-too-many-unfinished-tasks-five-simple-steps-can-help/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:02:00.000Z",
+      "summary": "Finding it hard to switch off at the end of the working day? You may be suffering from the 'Zeigarnik effect'. These tips can help you let go.",
+      "categories": [
+        "Lifestyle",
+        "brain",
+        "Health"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Economic Fighters League questions Parliament’s 2027 budget demands amid public hardship",
       "link": "https://www.myjoyonline.com/economic-fighters-league-questions-parliaments-2027-budget-demands-amid-public-hardship/",
       "source": "MyJoyOnline",
@@ -106,34 +132,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "Ernesto Yeboah",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African football is powerful source of pride – Coca-Cola explains reason for CAF partnership",
-      "link": "https://www.myjoyonline.com/african-football-is-powerful-source-of-pride-coca-cola-explains-reason-for-caf-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T20:11:20.000Z",
-      "summary": "Coca-Cola Africa operating unit President Luis Felipe Avellar says African football's ability to unite people and inspire communities across the continent is a major reason behind the…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Afcon 2027",
-        "CAF",
-        "Coca-Cola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A Night to Remember: Say Cheers celebrates 25 years",
-      "link": "https://www.myjoyonline.com/a-night-to-remember-say-cheers-celebrates-25-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:56:20.000Z",
-      "summary": "There are evenings that are carefully planned, and then there are evenings that linger in the memory long after the last glass has been cleared. For Say Cheers, Ghana’s leading purveyors of…",
-      "categories": [
-        "Events",
-        "National",
-        "Say Cheers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
