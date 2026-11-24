@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:25:09.214Z",
+  "updated": "2026-11-24T11:35:09.101Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "President Mahama urges Germany, EU to sustain support for Sahel fight against violent extremism",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-germany-eu-to-sustain-support-for-sahel-fight-against-violent-extremism.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T11:28:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Ablakwa gives assaulted Ghanaian domestic worker in Iraq GH¢50,000, promises scholarship",
       "link": "https://www.myjoyonline.com/ablakwa-gives-assaulted-ghanaian-domestic-worker-in-iraq-gh%c2%a250000-promises-scholarship/",
       "source": "MyJoyOnline",
@@ -29,6 +40,7 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "News",
+        "Top Story",
         "Ablakwa",
         "Iraq"
       ],
@@ -81,9 +93,9 @@ window.GDC_PAPERS = {
       "summary": "The Acting Rent Commissioner, Frederick Opoku, has urged University of Ghana students to remove their SRC President, Abraham Kofi Amudzegbe, from office, accusing him of mishandling the…",
       "categories": [
         "Education",
+        "HP News 1",
         "National",
         "News",
-        "Top Story",
         "Frederick Opoku",
         "hostel fee dispute",
         "UG SRC"
@@ -301,17 +313,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-engineering-must-be-synonymous-with-trust-quality-reliability-works-housing-minister.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T08:03:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Gender Ministry, UNFPA work on National Kayayei Management Framework",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gender-ministry-unfpa-work-on-national-kayayei-management-framework.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:00:14.000Z",
       "summary": "",
       "categories": [
         "General News"

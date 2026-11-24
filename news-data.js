@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T11:24:39.278Z",
+  "updated": "2026-11-24T11:34:38.752Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana hosts 6th German-African Business Summit to deepen trade and investment ties",
+      "link": "https://www.myjoyonline.com/ghana-hosts-6th-german-african-business-summit-to-deepen-trade-and-investment-ties/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:31:24.000Z",
+      "summary": "Ghana is hosting the 6th German-African Business Summit (GABS 2026), bringing together business leaders, policymakers, investors and industry experts from Germany and across Africa to…"
+    },
+    {
+      "title": "MTN Foundation Targets SME Growth, Jobs with 160 Businesses in Three Regions",
+      "link": "https://thehighstreetjournal.com/mtn-foundation-targets-sme-growth-jobs-with-160-businesses-in-three-regions/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T11:27:35.000Z",
+      "summary": "MTN Ghana Foundation has enrolled 160 SMEs across three regions in a programme offering training, mentorship, funding access and digital support to drive business growth and employment."
+    },
     {
       "title": "Food Prices to Rise 10.3% in 2026 as El Niño Threatens Harvests, World Bank Warns",
       "link": "https://thehighstreetjournal.com/food-prices-torise-10-3-in2026-el-nino/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T02:41:00.000Z",
       "summary": "The Ghana Revenue Authority (GRA) is using lifestyle audits to check whether taxpayers’ declared incomes match their vehicle purchases and imported goods."
-    },
-    {
-      "title": "Businesses could face higher tax costs despite no new taxes in 2027 Budget – Deloitte warns",
-      "link": "https://www.myjoyonline.com/businesses-could-face-higher-tax-costs-despite-no-new-taxes-in-2027-budget-deloitte-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:19:08.000Z",
-      "summary": "In its analysis of the 2027 Budget Statement of the Government of Ghana, the professional services firm said that while the government did not introduce any new headline taxes or increase…"
-    },
-    {
-      "title": "Anthropic becomes one of world’s most valuable public companies in stock market debut",
-      "link": "https://www.myjoyonline.com/anthropic-becomes-one-of-worlds-most-valuable-public-companies-in-stock-market-debut/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T00:50:00.000Z",
-      "summary": "Anthropic has become one of the world's most valuable public companies after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion)."
     }
   ]
 };
