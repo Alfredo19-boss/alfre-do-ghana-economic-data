@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T19:56:51.205Z",
+  "updated": "2026-11-24T20:06:53.486Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "A Night to Remember: Say Cheers celebrates 25 years",
+      "link": "https://www.myjoyonline.com/a-night-to-remember-say-cheers-celebrates-25-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:56:20.000Z",
+      "summary": "There are evenings that are carefully planned, and then there are evenings that linger in the memory long after the last glass has been cleared. For Say Cheers, Ghana’s leading purveyors of…",
+      "categories": [
+        "Events",
+        "National",
+        "Say Cheers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
       "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
@@ -124,21 +137,6 @@ window.GDC_PAPERS = {
         "Education Ministry",
         "Premature BECE registration",
         "two-year ban"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Beyond The Trophies: How the National Tourism Awards is championing excellence and shaping the future of tourism in Ghana",
-      "link": "https://www.myjoyonline.com/beyond-the-trophies-how-the-national-tourism-awards-is-championing-excellence-and-shaping-the-future-of-tourism-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:23:35.000Z",
-      "summary": "Tourism is more than the movement of people from one destination to another. It is an experience shaped by the quality of hospitality, the richness of culture, the beauty of destinations…",
-      "categories": [
-        "Features",
-        "National",
-        "Ghana",
-        "National Tourism Awards",
-        "Tourism"
       ],
       "site": "https://www.myjoyonline.com/"
     },
