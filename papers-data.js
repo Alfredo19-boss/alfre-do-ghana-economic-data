@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T00:34:09.693Z",
+  "updated": "2026-11-24T00:44:09.068Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "link": "https://www.myjoyonline.com/prominent-zimbabwean-preacher-arrested-on-sexual-assault-allegations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:32:00.000Z",
+      "summary": "A well-known Zimbabwean preacher has been arrested on indecent assault and sodomy allegations, local police said.",
+      "categories": [
+        "Africa",
+        "Sexual Assault",
+        "Uebert Angel",
+        "Zimbabwean preacher"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "link": "https://www.myjoyonline.com/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal/",
@@ -110,20 +124,6 @@ window.GDC_PAPERS = {
         "Boxing",
         "Schizophrenia",
         "Tyson Fury"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rent Control considers easing six-month rent advance restriction",
-      "link": "https://www.myjoyonline.com/rent-control-considers-easing-six-month-rent-advance-restriction/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:02:00.000Z",
-      "summary": "Landlords in Ghana could be allowed to collect up to 12 months’ rent in advance under a proposed amendment to the country’s rent law, a move that has already drawn opposition from tenant…",
-      "categories": [
-        "News",
-        "advance",
-        "Rent",
-        "Rent Control"
       ],
       "site": "https://www.myjoyonline.com/"
     },
