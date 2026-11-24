@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:35:09.101Z",
+  "updated": "2026-11-24T11:45:09.233Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,69 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Discarded clothes choke Ghana’s coastline as Upcycle It Ghana turns textile waste into new products",
+      "link": "https://www.myjoyonline.com/discarded-clothes-choke-ghanas-coastline-as-upcycle-it-ghana-turns-textile-waste-into-new-products/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:38:32.000Z",
+      "summary": "Fishermen along Ghana’s coast are increasingly finding discarded clothes tangled in their fishing nets, adding to the challenges they face in their search for fish. What should be a routine…",
+      "categories": [
+        "Features",
+        "National",
+        "Coastline",
+        "Discarded clothes",
+        "Ghana",
+        "Upcycle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We are optimistic about securing an extension for Tarkwa Mine Lease come April 2027 – Gold Fields",
+      "link": "https://www.myjoyonline.com/we-are-optimistic-about-securing-an-extension-for-tarkwa-mine-lease-come-april-2027-gold-fields/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:38:06.000Z",
+      "summary": "According to the mining giant, it has submitted the necessary documents to the government and believes the mining firm will get a positive response from the government.",
+      "categories": [
+        "Business",
+        "Mining",
+        "Eliot Twum",
+        "Gold Fields",
+        "mining lease",
+        "Ministry of Lands and Natural resources",
+        "Tarkwa Mine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "link": "https://www.myjoyonline.com/california-democrat-to-resign-from-congress-after-evidence-of-sexual-misconduct/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:35:59.000Z",
+      "summary": "US Representative Jimmy Gomez has said he will resign from Congress after an ethics committee said it found credible evidence that he engaged in sexual misconduct, according to CBS News.",
+      "categories": [
+        "International",
+        "California",
+        "Jimmy Gomez",
+        "sexual misconduct"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana hosts 6th German-African Business Summit to deepen trade and investment ties",
+      "link": "https://www.myjoyonline.com/ghana-hosts-6th-german-african-business-summit-to-deepen-trade-and-investment-ties/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:31:24.000Z",
+      "summary": "Ghana is hosting the 6th German-African Business Summit (GABS 2026), bringing together business leaders, policymakers, investors and industry experts from Germany and across Africa to…",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "HP News 3",
+        "National",
+        "6th German-Africaan Business Summit",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama urges Germany, EU to sustain support for Sahel fight against violent extremism",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-germany-eu-to-sustain-support-for-sahel-fight-against-violent-extremism.html",
@@ -99,68 +162,6 @@ window.GDC_PAPERS = {
         "Frederick Opoku",
         "hostel fee dispute",
         "UG SRC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.myjoyonline.com/nato-chief-vows-defence-against-space-threat-after-russian-nuclear-satellite-reports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T10:50:04.000Z",
-      "summary": "Nato chief Mark Rutte has said the alliance will defend against any threats in space after reports that Russia was preparing to launch a nuclear-armed satellite.",
-      "categories": [
-        "International",
-        "Nato",
-        "nuclear satellite",
-        "Russian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.myjoyonline.com/dr-congo-says-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T10:39:13.000Z",
-      "summary": "The Democratic Republic of Congo says it is searching for one of its aircraft, after rebels said they had shot down a warplane in the east.",
-      "categories": [
-        "Africa",
-        "Aircraft",
-        "DR Congo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
-      "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T10:01:57.000Z",
-      "summary": "Ghana’s Ministry of Trade, Agribusiness and Industry has developed a proposed Business Regulatory Reform Bill aimed at reducing regulatory bottlenecks and making it easier for businesses to…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "Investments",
-        "Agribusiness",
-        "Gabs",
-        "Ministry of Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fixing the details will stop the slump – Kotoko coach",
-      "link": "https://www.myjoyonline.com/fixing-the-details-will-stop-the-slump-kotoko-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T09:51:21.000Z",
-      "summary": "Asante Kotoko coach Stanley Menzo has said the club’s poor form is not attributable to one player, but rather to collective mistakes. Kotoko are winless in five league games, having drawn…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Asante Kotoko",
-        "Ghana",
-        "Ghana Premier League",
-        "Stanley Menzo"
       ],
       "site": "https://www.myjoyonline.com/"
     },

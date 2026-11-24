@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T11:34:38.752Z",
+  "updated": "2026-11-24T11:44:38.955Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "We are optimistic about securing an extension for Tarkwa Mine Lease come April 2027 – Gold Fields",
+      "link": "https://www.myjoyonline.com/we-are-optimistic-about-securing-an-extension-for-tarkwa-mine-lease-come-april-2027-gold-fields/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:38:06.000Z",
+      "summary": "According to the mining giant, it has submitted the necessary documents to the government and believes the mining firm will get a positive response from the government."
+    },
     {
       "title": "Ghana hosts 6th German-African Business Summit to deepen trade and investment ties",
       "link": "https://www.myjoyonline.com/ghana-hosts-6th-german-african-business-summit-to-deepen-trade-and-investment-ties/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T04:30:07.000Z",
       "summary": "Door solutions company, Doormaster, has unveiled an extensive range of more than 500 door designs with high durability to sever homes, offices and other accommodations."
-    },
-    {
-      "title": "GRA conducting lifestyle audits to ensure tax compliance – Commissioner-General",
-      "link": "https://www.myjoyonline.com/gra-conducting-lifestyle-audits-to-ensure-tax-compliance-commissioner-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T02:41:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) is using lifestyle audits to check whether taxpayers’ declared incomes match their vehicle purchases and imported goods."
     }
   ]
 };
