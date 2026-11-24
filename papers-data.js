@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T21:46:51.597Z",
+  "updated": "2026-11-24T21:56:51.833Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales’s Norfolk home",
+      "link": "https://www.myjoyonline.com/two-arrested-on-suspicion-of-burglary-at-prince-and-princess-of-waless-norfolk-home-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:46:52.000Z",
+      "summary": "Two men have been arrested on suspicion of burglary and trespass at the Prince and Princess of Wales's country home on the Sandringham estate, police say.",
+      "categories": [
+        "News",
+        "Prince",
+        "Princess",
+        "Wales"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Hunter remanded for allegedly shooting charcoal producer",
       "link": "https://www.myjoyonline.com/hunter-remanded-for-allegedly-shooting-charcoal-producer/",
@@ -118,20 +132,6 @@ window.GDC_PAPERS = {
         "Ernesto Yeboah",
         "Parliament",
         "Public hardship"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Greater Accra Regional Minister urges communities to contribute towards streetlight repairs",
-      "link": "https://www.myjoyonline.com/greater-accra-regional-minister-urges-communities-to-contribute-towards-streetlight-repairs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T20:51:18.000Z",
-      "summary": "The Greater Accra Regional Minister, Linda Ocloo, has urged communities across the region to take a proactive role in maintaining streetlights by contributing towards the repair of minor…",
-      "categories": [
-        "National",
-        "News",
-        "Greater Accra Regional Minister",
-        "Streetlight"
       ],
       "site": "https://www.myjoyonline.com/"
     },
