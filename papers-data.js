@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T03:19:09.458Z",
+  "updated": "2026-11-24T03:29:09.320Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Hostel investors may take 30 years to recover costs – GREDA",
+      "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:19:26.000Z",
+      "summary": "Private developers investing in student accommodation may spend up to 30 years repaying the loans used to construct hostels, the Executive Director of the Ghana Real Estate Developers…",
+      "categories": [
+        "National",
+        "News",
+        "Accomodation",
+        "Hostel",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GREDA boss explains why private hostels cost more than traditional halls",
       "link": "https://www.myjoyonline.com/greda-boss-explains-why-private-hostels-cost-more-than-traditional-halls/",
       "source": "MyJoyOnline",
@@ -31,21 +46,6 @@ window.GDC_PAPERS = {
         "Accomodation",
         "GREDA",
         "hostel fee"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hostel investors may take 30 years to recover costs – GREDA",
-      "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:48:26.000Z",
-      "summary": "Private developers investing in student accommodation may spend up to 30 years repaying the loans used to construct hostels, the Executive Director of the Ghana Real Estate Developers…",
-      "categories": [
-        "National",
-        "News",
-        "Accomodation",
-        "Hostel",
-        "University of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -61,6 +61,32 @@ window.GDC_PAPERS = {
         "fee hike",
         "Ghana",
         "student hostel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tech giants to face billions of dollars in fines under Australian internet safety bill",
+      "link": "https://www.myjoyonline.com/tech-giants-to-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:15:00.000Z",
+      "summary": "Tech firms, including Google and Meta, will face fines of up to 5% of their global revenue for breaching Australia's internet safety bill, Communications Minister Anika Wells said on…",
+      "categories": [
+        "Technology",
+        "Australia",
+        "Google",
+        "Meta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Meta pauses Class C share issuance amid shareholder lawsuit",
+      "link": "https://www.myjoyonline.com/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:07:00.000Z",
+      "summary": "Meta Platforms said on Monday it will not issue its planned Class C shares ​while it faces shareholder litigation challenging the ‌company's proposed recapitalization, delaying a share sale…",
+      "categories": [
+        "Technology",
+        "Meta"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -108,33 +134,6 @@ window.GDC_PAPERS = {
         "News",
         "herbs",
         "Medicine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "link": "https://www.myjoyonline.com/flights-cancelled-in-belgium-due-to-cost-of-living-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:52:00.000Z",
-      "summary": "Hundreds of flights have been cancelled and public transport severely disrupted across Belgium as a result of a strike against planned austerity measures.",
-      "categories": [
-        "International",
-        "Belgium",
-        "flights cancellations"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dad who discovered daughter’s murder on Facebook feels ignored by South African police",
-      "link": "https://www.myjoyonline.com/dad-who-discovered-daughters-murder-on-facebook-feels-ignored-by-south-african-police/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:45:00.000Z",
-      "summary": "Tuku Nkosiyaphantsi found out his daughter had been killed from a post on Facebook.",
-      "categories": [
-        "Africa",
-        "International",
-        "Facebook",
-        "South Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
