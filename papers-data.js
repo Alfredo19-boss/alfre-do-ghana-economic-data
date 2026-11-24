@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T01:29:10.981Z",
+  "updated": "2026-11-24T01:59:09.358Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -31,6 +31,19 @@ window.GDC_PAPERS = {
         "News",
         "herbs",
         "Medicine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "link": "https://www.myjoyonline.com/flights-cancelled-in-belgium-due-to-cost-of-living-strike/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:52:00.000Z",
+      "summary": "Hundreds of flights have been cancelled and public transport severely disrupted across Belgium as a result of a strike against planned austerity measures.",
+      "categories": [
+        "International",
+        "Belgium",
+        "flights cancellations"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -115,19 +128,6 @@ window.GDC_PAPERS = {
         "Power",
         "Tinubu",
         "Water"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Secondary education must transform to prepare 330 million young Africans for work — Report",
-      "link": "https://www.myjoyonline.com/secondary-education-must-transform-to-prepare-330-million-young-africans-for-work-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:48:00.000Z",
-      "summary": "Secondary education systems across Africa must undergo fundamental transformation to equip a surging youth population with practical skills for work, livelihoods, and lifelong learning, a…",
-      "categories": [
-        "News",
-        "Ghana",
-        "Mastercard"
       ],
       "site": "https://www.myjoyonline.com/"
     },
