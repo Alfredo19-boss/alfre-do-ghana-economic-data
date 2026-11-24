@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T09:05:09.845Z",
+  "updated": "2026-11-24T09:15:10.315Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
+      "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T09:01:22.000Z",
+      "summary": "Chartered Institute of Bankers, Ghana (CIB Ghana) has called for stronger professional and ethical standards across the banking industry as artificial intelligence (AI), virtual assets and…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "CIB",
+        "Dr. Ellen Ohene-Afoakwa",
+        "FCIB"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
       "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
@@ -234,25 +249,6 @@ window.GDC_PAPERS = {
         "International",
         "Investments",
         "Ghana South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana to establish garment factories in four regions, targeting 80,000 jobs",
-      "link": "https://www.myjoyonline.com/ghana-to-establish-garment-factories-in-four-regions-targeting-80000-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T06:47:00.000Z",
-      "summary": "The Minister of Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says the government is planning to establish garment factories in four regions, with the initiative expected to…",
-      "categories": [
-        "Business",
-        "Comp. Business",
-        "Economy",
-        "HP Business 1",
-        "National",
-        "Agribusiness and Industry",
-        "Elizabeth Ofosu-Adjare",
-        "Ghana to establish garment factories",
-        "Minister of Trade"
       ],
       "site": "https://www.myjoyonline.com/"
     },
