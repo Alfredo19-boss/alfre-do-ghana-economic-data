@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-23T23:49:07.742Z",
+  "updated": "2026-11-23T23:59:08.473Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -75,6 +75,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Rent Control considers easing six-month rent advance restriction",
+      "link": "https://www.myjoyonline.com/rent-control-considers-easing-six-month-rent-advance-restriction/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T23:02:00.000Z",
+      "summary": "Landlords in Ghana could be allowed to collect up to 12 months’ rent in advance under a proposed amendment to the country’s rent law, a move that has already drawn opposition from tenant…",
+      "categories": [
+        "News",
+        "advance",
+        "Rent",
+        "Rent Control"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Raya to miss Dortmund game but injury ‘not serious’",
       "link": "https://www.myjoyonline.com/raya-to-miss-dortmund-game-but-injury-not-serious/",
       "source": "MyJoyOnline",
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "GTEC",
         "Haruna",
         "PHD"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amputee Football: Kofi Adams pledges $10K bonus for each Black Challenge player after World Cup triumph",
-      "link": "https://www.myjoyonline.com/amputee-football-kofi-adams-pledges-10k-bonus-for-each-black-challenge-player-after-world-cup-triumph/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:29:00.000Z",
-      "summary": "Minister for Sports and Recreation Kofi Adams has pledged an additional US$10,000 bonus for each player on Ghana’s Black Challenge squad after their triumph at the 2026 Amputee Football…",
-      "categories": [
-        "Football",
-        "National",
-        "2026 Amputee Football World Cup",
-        "Kofi Adams"
       ],
       "site": "https://www.myjoyonline.com/"
     },
