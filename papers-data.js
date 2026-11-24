@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T04:09:08.451Z",
+  "updated": "2026-11-24T04:19:09.268Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accra Mall to celebrate kids’ talent with Talent Showcase",
+      "link": "https://www.myjoyonline.com/accra-mall-to-celebrate-kids-talent-with-talent-showcase/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:10:00.000Z",
+      "summary": "This November, Accra Mall will spotlight young talent with its Kids' Talent Showcase on November 28, as part of its Family Fun programme.",
+      "categories": [
+        "Events",
+        "Accra Mall",
+        "Talent Showcase"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The missing half of risk management: Why Ghana’s commodity businesses must embrace hedging",
       "link": "https://www.myjoyonline.com/the-missing-half-of-risk-management-why-ghanas-commodity-businesses-must-embrace-hedging/",
@@ -110,20 +123,6 @@ window.GDC_PAPERS = {
         "Education",
         "Dr Cynthia Kpeglo-Freiku",
         "University accommodation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GREDA boss explains why private hostels cost more than traditional halls",
-      "link": "https://www.myjoyonline.com/greda-boss-explains-why-private-hostels-cost-more-than-traditional-halls/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:13:40.000Z",
-      "summary": "The cost of operating privately financed student hostels cannot be fairly compared with charges at traditional university halls, which were mostly built decades ago and no longer carry the…",
-      "categories": [
-        "News",
-        "Accomodation",
-        "GREDA",
-        "hostel fee"
       ],
       "site": "https://www.myjoyonline.com/"
     },
