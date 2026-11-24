@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T01:14:09.642Z",
+  "updated": "2026-11-24T01:29:10.981Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Herbal medicine under threat from chemical spraying, land destruction",
+      "link": "https://www.myjoyonline.com/herbal-medicine-under-threat-from-chemical-spraying-land-destruction/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T01:19:16.000Z",
+      "summary": "Mr Joshua Appiah-Kubi of Poget Herbal has expressed concern over the negative impact of indiscriminate chemical spraying by farmers and the activities of illegal miners on medicinal plants…",
+      "categories": [
+        "Health",
+        "News",
+        "herbs",
+        "Medicine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dad who discovered daughter’s murder on Facebook feels ignored by South African police",
       "link": "https://www.myjoyonline.com/dad-who-discovered-daughters-murder-on-facebook-feels-ignored-by-south-african-police/",
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "News",
         "Ghana",
         "Mastercard"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Who should pay for student accommodation? – Universities demand national conversation",
-      "link": "https://www.myjoyonline.com/who-should-pay-for-student-accommodation-universities-demand-national-conversation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:42:00.000Z",
-      "summary": "The growing student accommodation crisis in Ghana’s public universities has sparked fresh calls for a national conversation about who should pay for decent student housing.",
-      "categories": [
-        "Education",
-        "Dr Cynthia Kpeglo-Freiku",
-        "Student accommodation struggles",
-        "University of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
