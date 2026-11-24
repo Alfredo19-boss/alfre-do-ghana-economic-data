@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T02:49:08.620Z",
+  "updated": "2026-11-24T02:59:08.445Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hostel investors may take 30 years to recover costs – GREDA",
+      "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T02:48:26.000Z",
+      "summary": "Private developers investing in student accommodation may spend up to 30 years repaying the loans used to construct hostels, the Executive Director of the Ghana Real Estate Developers…",
+      "categories": [
+        "National",
+        "News",
+        "Accomodation",
+        "Hostel",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "High financing costs blocking private sector investment in student hostels – GREDA",
       "link": "https://www.myjoyonline.com/high-financing-costs-blocking-private-sector-investment-in-student-hostels-greda/",
@@ -120,20 +135,6 @@ window.GDC_PAPERS = {
         "Music",
         "Don Toliver",
         "Machester evacuation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "link": "https://www.myjoyonline.com/prominent-zimbabwean-preacher-arrested-on-sexual-assault-allegations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:32:00.000Z",
-      "summary": "A well-known Zimbabwean preacher has been arrested on indecent assault and sodomy allegations, local police said.",
-      "categories": [
-        "Africa",
-        "Sexual Assault",
-        "Uebert Angel",
-        "Zimbabwean preacher"
       ],
       "site": "https://www.myjoyonline.com/"
     },
