@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T14:10:12.228Z",
+  "updated": "2026-11-24T19:56:51.205Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,19 +21,277 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Tricycle operators welcome NRSA admission of error in Pragyia helmet regulation",
-      "link": "https://www.myjoyonline.com/tricycle-operators-welcome-nrsa-admission-of-error-in-pragyia-helmet-regulation/",
+      "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
+      "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T13:55:35.000Z",
-      "summary": "The National Union of Tricycle Operators of Ghana has welcomed an admission by the National Road Safety Authority (NRSA) that the regulation requiring commercial tricycle operators…",
+      "published": "2026-11-24T19:47:38.000Z",
+      "summary": "The Kantanka Group is exploring a partnership with the Kwame Nkrumah Memorial Park under a proposed initiative to promote Ghanaian-owned businesses and advance discussions on economic…",
       "categories": [
-        "National",
-        "News",
-        "NRSA",
-        "Pragyia helmet regulation",
-        "tricycle operators"
+        "Economy",
+        "Events",
+        "Ghanaian owned enterprises",
+        "Kantanka group",
+        "Nkrumah Memorial park"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CLOGSAG elects Phillip Gariba as Executive Secretary, appoints new National President",
+      "link": "https://www.myjoyonline.com/clogsag-elects-phillip-gariba-as-executive-secretary-appoints-new-national-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:47:27.000Z",
+      "summary": "The Civil and Local Government Staff Association of Ghana (CLOGSAG) has appointed Phillip Gariba as its substantive Executive Secretary and elected Samuel Nana Antwi as National President…",
+      "categories": [
+        "National",
+        "CLOGSAG",
+        "Phillip Gariba",
+        "Samuel Nana Antwi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament must receive full budgetary request to strengthen oversight – ACEPA",
+      "link": "https://www.myjoyonline.com/parliament-must-receive-full-budgetary-request-to-strengthen-oversight-acepa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:41:27.000Z",
+      "summary": "The Executive Director of the Africa Centre for Parliamentary Affairs (ACEPA), Dr Rasheed Draman, says Parliament must receive the full budgetary allocation it requests to effectively carry…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "ACEPA",
+        "Dr Rasheed Draman",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yankazia residents depend on unsafe water sources as community appeals for urgent intervention",
+      "link": "https://www.myjoyonline.com/yankazia-residents-depend-on-unsafe-water-sources-as-community-appeals-for-urgent-intervention/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:39:27.000Z",
+      "summary": "More than 1,000 residents of Yankazia in the Saboba District of the Northern Region are struggling to access safe drinking water, with some forced to rely on unsafe sources shared with…",
+      "categories": [
+        "Health",
+        "HP News 8",
+        "Regional",
+        "Animals",
+        "Northern region",
+        "unsafe water",
+        "Yankazia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Give us the land, I will build the stadium” – Samson Deen’s US$10m Disability Sport vision",
+      "link": "https://www.myjoyonline.com/give-us-the-land-i-will-build-the-stadium-samson-deens-us10m-disability-sport-vision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:36:48.000Z",
+      "summary": "African Paralympic Committee president Samson Deen has proposed the construction of a US$10 million stadium dedicated to disability sport at the Borteyman Sports Complex in Accra. Deen is…",
+      "categories": [
+        "Football",
+        "Other Sports",
+        "Sports",
+        "African Paralympic Committee",
+        "Borteyman Sports Complex",
+        "Samson Deen"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMA deploys 200 safety guards to strengthen inland waterway enforcement",
+      "link": "https://www.myjoyonline.com/gma-deploys-200-safety-guards-to-strengthen-inland-waterway-enforcement/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:25:34.000Z",
+      "summary": "Ghana Maritime Authority (GMA) has deployed 200 trained safety guards across inland water transport communities to strengthen enforcement and improve safety on the country’s waterways.",
+      "categories": [
+        "National",
+        "Ghana Maritime Authority",
+        "Inland waterways",
+        "Safety guards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Premature BECE registration: 5,000 candidates affected annually as Education Ministry defends two-year ban",
+      "link": "https://www.myjoyonline.com/premature-bece-registration-5000-candidates-affected-annually-as-education-ministry-defends-two-year-ban/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:25:18.000Z",
+      "summary": "The Ministry of Education has defended its directive restricting Junior High School (JHS) 1 and 2 students from registering prematurely for the Basic Education Certificate Examination…",
+      "categories": [
+        "Education",
+        "National",
+        "Education Ministry",
+        "Premature BECE registration",
+        "two-year ban"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Beyond The Trophies: How the National Tourism Awards is championing excellence and shaping the future of tourism in Ghana",
+      "link": "https://www.myjoyonline.com/beyond-the-trophies-how-the-national-tourism-awards-is-championing-excellence-and-shaping-the-future-of-tourism-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:23:35.000Z",
+      "summary": "Tourism is more than the movement of people from one destination to another. It is an experience shaped by the quality of hospitality, the richness of culture, the beauty of destinations…",
+      "categories": [
+        "Features",
+        "National",
+        "Ghana",
+        "National Tourism Awards",
+        "Tourism"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Budget cuts: Parliament may lose technical experts, Speaker Bagbin warns",
+      "link": "https://www.graphic.com.gh/news/general-news/budget-cuts-parliament-may-lose-technical-experts-speaker-bagbin-warns.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T18:00:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GAPHTO warns of yellow fever, meningitis risks as dry season sets in",
+      "link": "https://www.graphic.com.gh/news/health/gaphto-warns-of-yellow-fever-meningitis-risks-as-dry-season-sets-in.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T17:21:21.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Morocco protests CAS ruling, vows to appeal Senegal AFCON decision",
+      "link": "https://ghanaiantimes.com.gh/morocco-protests-cas-ruling-vows-to-appeal-senegal-afcon-decision/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T16:41:35.000Z",
+      "summary": "The Royal Moroccan Football Federation (FRMF) has reacted to the Court of Arbitration for Sport (CAS) ruling on the AFCON 2025 final, expressing surprise and protesting the decision. In an…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Star Honours: Four distinguished Ghanaians to be honoured at Rhythms On Da Runway",
+      "link": "https://ghanaiantimes.com.gh/black-star-honours-four-distinguished-ghanaians-to-be-honoured-at-rhythms-on-da-runway/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T16:38:52.000Z",
+      "summary": "Organisers of Rhythms On Da Runway will honour four distinguished Ghanaians for their remarkable contribution to the promotion and projection of the country. The honour, dubbed “Black Star…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "HFFG urges dedicated malaria budget line in 2027 spending plan",
+      "link": "https://www.graphic.com.gh/news/health/hffg-urges-dedicated-malaria-budget-line-in-2027-spending-plan.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T16:34:09.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GMA, Oceana Ghana push for enforcement of 12-nautical-mile inshore exclusion zone",
+      "link": "https://www.graphic.com.gh/news/general-news/gma-oceana-ghana-push-for-enforcement-of-12-nautical-mile-inshore-exclusion-zone.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T16:27:04.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "CAS declares Senegal rightful AFCON 2025 champions",
+      "link": "https://ghanaiantimes.com.gh/cas-declares-senegal-rightful-afcon-2025-champions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T15:04:22.000Z",
+      "summary": "The Court of Arbitration for Sport (CAS) has upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (CAF) and the Royal Moroccan…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Germany backs Africa’s push for stronger UN voice — President Steinmeier",
+      "link": "https://www.graphic.com.gh/news/general-news/germany-backs-africas-push-for-stronger-un-voice-president-steinmeier.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T15:00:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama pays courtesy visit to veteran photographer Dr Chris Hesse",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-pays-courtesy-visit-to-veteran-photographer-dr-chris-hesse/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T14:55:35.000Z",
+      "summary": "President John Dramani Mahama has paid a courtesy visit to veteran Ghanaian photographer and filmmaker, Dr Chris Hesse, in recognition of his invaluable contribution to the preservation of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GES enforces two-year ban on candidates who sit for BECE, WASSCE ahead of schedule",
+      "link": "https://ghanaiantimes.com.gh/ges-enforces-two-year-ban-on-candidates-who-sit-for-bece-wassce-ahead-of-schedule/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T14:51:46.000Z",
+      "summary": "The Ghana Education Service (GES) has announced strict enforcement of a two-year ban on candidates who sit for the Basic Education Certificate Examination (BECE) and the West African Senior…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Foreign Minister meets lady assaulted in Iraq in viral video; Government demands justice",
+      "link": "https://ghanaiantimes.com.gh/foreign-minister-meets-lady-assaulted-in-iraq-in-viral-video-government-demands-justice/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T14:46:43.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, on Monday, November 23, 2026, received Stephanie Nkrumah, the young lady seen in a distressing viral video being physically…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Presidency directs ministers to enforce retirement age for public institution CEOs",
+      "link": "https://ghanaiantimes.com.gh/presidency-directs-ministers-to-enforce-retirement-age-for-public-institution-ceos/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T14:43:22.000Z",
+      "summary": "The Presidency has directed all Ministers of State to ensure that Chief Executives of public institutions and state-owned enterprises who have attained the compulsory retirement age of 60…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, Germany reaffirm strategic partnership",
+      "link": "https://ghanaiantimes.com.gh/ghana-germany-reaffirm-strategic-partnership/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T14:40:19.000Z",
+      "summary": "The Minister for Foreign Affairs, Hon. Samuel Okudzeto Ablakwa (MP), on Monday, November 23, 2026, received the Minister for Federal and European Affairs and Media of North…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "TUC warns workers against outdated SSNIT records",
@@ -47,62 +305,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Sickle cell: Grenada university develops medical care card to support patients during crises",
-      "link": "https://www.myjoyonline.com/sickle-cell-grenada-university-develops-medical-care-card-to-support-patients-during-crises/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:43:26.000Z",
-      "summary": "The initiative seeks to help healthcare workers access vital patient information quickly, as sub-Saharan Africa accounts for nearly 80% of global births with the disease.",
-      "categories": [
-        "Health",
-        "News",
-        "Sickle Cell",
-        "St. George’s University",
-        "WHO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: CDKN and BTS place climate knowledge and institutional partnerships at the centre of engagement",
-      "link": "https://www.myjoyonline.com/cop31-cdkn-and-bts-place-climate-knowledge-and-institutional-partnerships-at-the-centre-of-engagement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:41:50.000Z",
-      "summary": "The role of young people in shaping global climate policy is receiving renewed attention at COP31, as the conference seeks to move youth participation beyond symbolic representation towards…",
-      "categories": [
-        "Opinion",
-        "BTS",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Developing the next generation of leaders",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-developing-the-next-generation-of-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:40:51.000Z",
-      "summary": "The long-term strength of an organisation depends on its ability to develop leaders who can take responsibility for its future. CEOs who focus only on current performance without preparing…",
-      "categories": [
-        "Features",
-        "Opinion",
-        "CEOs",
-        "Daily Insight"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pastor Kojo Oteng honours veteran gospel musician Rev. Mary Ghansah at ‘Sacred’ album recording",
-      "link": "https://www.myjoyonline.com/pastor-kojo-oteng-honours-veteran-gospel-musician-rev-mary-ghansah-at-sacred-album-recording/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:37:56.000Z",
-      "summary": "Gospel musician Pastor Kojo Oteng has honoured veteran gospel singer and ordained minister Rev. Mary Ghansah with a special plaque in recognition of her contribution to Ghanaian gospel…",
-      "categories": [
-        "Movies",
-        "National",
-        "Mary Ghansah",
-        "Pastor Kojo Oteng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Premature WASSCE and BECE writing now attracts 2-year ban – GES",
       "link": "https://www.graphic.com.gh/news/general-news/premature-wassce-and-bece-writing-now-attracts-2-year-ban---ges.html",
       "source": "Daily Graphic",
@@ -114,21 +316,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Helmet requirement for Pragyia was an error; the law will be corrected – NRSA boss",
-      "link": "https://www.myjoyonline.com/helmet-requirement-for-pragyia-was-an-error-the-law-will-be-corrected-nrsa-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:29:04.000Z",
-      "summary": "The Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, says the regulation requiring commercial tricycle operators, popularly known as pragyia riders, to wear…",
-      "categories": [
-        "National",
-        "News",
-        "Abraham Amaliba",
-        "NRSA boss",
-        "pragyia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Man jailed 48 months for stabbing fire officer at Adjiringanor",
       "link": "https://www.graphic.com.gh/news/general-news/man-jailed-48-months-for-stabbing-fire-officer-at-adjiringanor.html",
       "source": "Daily Graphic",
@@ -138,178 +325,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nissan Africa delegation commends Japan Motors’ investment in modern service facilities",
-      "link": "https://www.myjoyonline.com/nissan-africa-delegation-commends-japan-motors-investment-in-modern-service-facilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:22:00.000Z",
-      "summary": "A high-level delegation from Nissan Motor Corporation, led by its Managing Director for Africa, Mohammed Abdel Samad, visited Japan Motors Trading Company Ltd. (JMTC), toured the company's…",
-      "categories": [
-        "Economy",
-        "Japan Motors",
-        "Nissan Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama urges German firms to use Ghana as gateway to Africa’s $3.5tn market",
-      "link": "https://www.myjoyonline.com/mahama-urges-german-firms-to-use-ghana-as-gateway-to-africas-3-5tn-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:20:44.000Z",
-      "summary": "President John Dramani Mahama has urged German companies to consider Ghana as a strategic entry point into the African market, which he says offers significant investment and production…",
-      "categories": [
-        "Africa",
-        "National",
-        "GABS 2026",
-        "German-African Business Summit",
-        "Ghana German"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BECE two-year ban: Schools, intermediaries must also be held accountable for premature registration",
-      "link": "https://www.graphic.com.gh/news/general-news/gnacops-wants-school-officials-intermediaries-held-accountable-over-bece-two-year-ban.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T13:11:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "I don't want cheap scholarship: Rent Commissioner rejects UG's master's offer",
-      "link": "https://www.graphic.com.gh/news/education/i-dont-want-cheap-scholarship-rent-commissioner-rejects-ugs-masters-offer.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T12:27:35.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Supreme Court to rule on Asamoah’s appeal in SkyTrain case",
-      "link": "https://www.graphic.com.gh/news/general-news/supreme-court-to-rule-on-asamoahs-appeal-in-skytrain-case.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T12:19:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Linda Ocloo: Greater Accra Minister urges communities to fund minor streetlight repairs",
-      "link": "https://www.graphic.com.gh/news/general-news/linda-ocloo-greater-accra-minister-urges-communities-to-fund-minor-streetlight-repairs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T11:56:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama urges Germany, EU to sustain support for Sahel fight against violent extremism",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-urges-germany-eu-to-sustain-support-for-sahel-fight-against-violent-extremism.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T11:28:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Qualikeeper wins Qualcomm’s $75,000 social impact grant",
-      "link": "https://ghanaiantimes.com.gh/qualikeeper-wins-qualcomms-75000-social-impact-grant/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:34:47.000Z",
-      "summary": "QUALIKEEPER Investments Ltd. has been named the winner of the 2026 Qualcomm for Good Social Impact Fund for developing an affordable artificial intelligence and Internet of Things (AIoT)…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ratify Heath Goldfields lease to boost investor confidence — MD",
-      "link": "https://ghanaiantimes.com.gh/ratify-heath-goldfields-lease-to-boost-investor-confidence-md/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:32:06.000Z",
-      "summary": "THE Managing Director of Heath Goldfields Ltd (HGL), Mr Patrick Appiah Mensah, has called for the expeditious Parliamentary ratification of the company’s mining lease to sustain investor…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minister directs MMDAs to beautify public spaces ahead of 70th Independence anniversary",
-      "link": "https://ghanaiantimes.com.gh/minister-directs-mmdas-to-beautify-public-spaces-ahead-of-70th-independence-anniversary/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:29:12.000Z",
-      "summary": "THE Greater Accra Regional Minister, Linda Obenewaa Akweley Ocloo, has directed all Metropolitan, Municipal and District Assemblies (MMDAs) to clean and beautify public spaces, principal…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GETFund supports 4 Volta schools with books",
-      "link": "https://ghanaiantimes.com.gh/getfund-supports-4-volta-schools-with-books/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:25:05.000Z",
-      "summary": "GHANA Education Trust Fund (GETFund) has donated educational materials to four schools in the Volta Region, in the latest effort to close the gaps in education funding. The items included…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Furniture shortage hits basic schools in Karaga",
-      "link": "https://ghanaiantimes.com.gh/furniture-shortage-hits-basic-schools-in-karaga/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:22:53.000Z",
-      "summary": "AT least 4,085 school desks are needed to address a furniture shortage in basic schools in the Karaga Municipality of the Northern Region, a study has revealed. The shortage, as a result…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ayesu, Amponsah-Mensah shine at 5th Head of State Invitational Golf Tournament",
-      "link": "https://ghanaiantimes.com.gh/ayesu-amponsah-mensah-shine-at-5th-head-of-state-invitational-golf-tournament/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:20:26.000Z",
-      "summary": "Achimota club’s Philip Ayesu won the fifth edition of the Head of State Invitational Golf Tournament, played at the lush Achimota Golf Club in Accra. The prestigious competition attracted…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "SWAG announces nominees for 51st SWAG Awards",
-      "link": "https://ghanaiantimes.com.gh/swag-announces-nominees-for-51st-swag-awards/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:18:26.000Z",
-      "summary": "The Sports Writers Association of Ghana (SWAG) has announced nominees for the 51st edition of its flagship SWAG Awards. This year’s event is scheduled to take place at the GNAT Hall-Accra…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man United contract talks on hold -Fernandes",
-      "link": "https://ghanaiantimes.com.gh/man-united-contract-talks-on-hold-fernandes/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T08:07:45.000Z",
-      "summary": "Manchester United captain Bruno Fernandes says the club has offered him a new contract, but discussions have ⁠been put on ⁠hold as the team focuses on turning around their poor form. “Yeah…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };

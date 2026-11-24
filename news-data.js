@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T14:09:41.393Z",
+  "updated": "2026-11-24T19:56:21.131Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,118 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
+      "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:47:38.000Z",
+      "summary": "The Kantanka Group is exploring a partnership with the Kwame Nkrumah Memorial Park under a proposed initiative to promote Ghanaian-owned businesses and advance discussions on economic…"
+    },
+    {
+      "title": "GSE appoints Kojo Darpaah as head of GFIM",
+      "link": "https://www.myjoyonline.com/gse-appoints-kojo-darpaah-as-head-of-gfim/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T19:19:23.000Z",
+      "summary": "His career has encompassed trading, treasury management and strategic leadership, positioning him as a financial market professional with deep expertise in market development and…"
+    },
+    {
+      "title": "Trade Minister pushes stronger trade and investment ties with Germany",
+      "link": "https://www.myjoyonline.com/trade-minister-pushes-stronger-trade-and-investment-ties-with-germany/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T18:49:25.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger trade and investment partnerships between Ghana and Germany, with emphasis on industrial…"
+    },
+    {
+      "title": "CSA calls for real-time communication platform to strengthen Ghana’s digital finance security",
+      "link": "https://www.myjoyonline.com/csa-calls-for-real-time-communication-platform-to-strengthen-ghanas-digital-finance-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T18:27:46.000Z",
+      "summary": "The Head of Cybersecurity Technology Standards at Ghana’s Cyber Security Authority (CSA), Jake France, has called for a real-time communications platform to enable banks, telecommunications…"
+    },
+    {
+      "title": "MTN Ghana Supports SMEs with GH¢30,000 Each Ahead of Business Pitch Competition",
+      "link": "https://thehighstreetjournal.com/mtn-ghana-supports-smes-with-gh%c2%a230000-each-ahead-of-business-pitch-competition/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T17:16:06.000Z",
+      "summary": "MTN Ghana says it has supported nine businesses with GH¢30,000 each and expanded SME development programmes, as five finalists compete for GH¢300,000 in its national business pitch…"
+    },
+    {
+      "title": "GRA uncovers widespread tax infractions at Circle market, cracks down on mobile phone dealers",
+      "link": "https://www.myjoyonline.com/gra-uncovers-widespread-tax-infractions-at-circle-market-cracks-down-on-mobile-phone-dealers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T17:14:25.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread tax infractions among many businesses operating in the Kwame Nkrumah Circle enclave. The findings prompted officers of the GRA…"
+    },
+    {
+      "title": "Gold Fields Backs Inclusive Sports Development After Black Challenge World Triumph",
+      "link": "https://thehighstreetjournal.com/gold-fields-backs-inclusive-sports-devt/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T17:14:10.000Z",
+      "summary": "The triumph comes amid Gold Fields' renewed two-year, $5 million sponsorship agreement with the Ghana Football Association (GFA)"
+    },
+    {
+      "title": "BoG Cautions Banks Against Compromising Ethics in Pursuit of Technological Innovation",
+      "link": "https://thehighstreetjournal.com/bog-cautions-banks-against-compromising-ethics-in-pursuit-of-technological-innovation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T15:53:00.000Z",
+      "summary": "The Bank of Ghana has cautioned banks against compromising ethical standards in adopting emerging technologies, as CIB Ghana pushes stronger professional capacity, accountability and…"
+    },
+    {
+      "title": "Agribusiness Chamber Demands Full Breakdown of GH¢30Bn Agric Allocation Before Parliamentary Approval",
+      "link": "https://thehighstreetjournal.com/agribusiness-chamber-demands-full-breakdown-of-gh%c2%a230bn-agric-allocation-before-parliamentary-approval/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T15:30:00.000Z",
+      "summary": "The Chamber of Agribusiness Ghana has urged Parliament to stay approval of the GH¢30 billion 2027 agricultural allocation until the Finance Ministry itemises expenditure, citing seven…"
+    },
+    {
+      "title": "Finance Minister urges DDEP bondholders to participate in voluntary buyback programme",
+      "link": "https://www.myjoyonline.com/finance-minister-urges-ddep-bondholders-to-participate-in-voluntary-buyback-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T15:24:52.000Z",
+      "summary": "The auction is scheduled to close tomorrow, Wednesday, November 25, at 3 pm Greenwich Meridian Time (GMT). Interested bondholders should contact an active Primary Dealer to participate."
+    },
+    {
+      "title": "Mahama calls for mutually beneficial Germany-Africa economic partnership",
+      "link": "https://www.myjoyonline.com/mahama-calls-for-mutually-beneficial-germany-africa-economic-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T15:03:44.000Z",
+      "summary": "President John Dramani Mahama has called for a stronger economic partnership between Germany and African countries, urging both sides to prioritise trade, investment, technology transfer…"
+    },
+    {
+      "title": "GCB Bank ranked highest among banks in Ghana Club 100, places fourth overall",
+      "link": "https://www.myjoyonline.com/gcb-bank-ranked-highest-among-banks-in-ghana-club-100-places-fourth-overall/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T15:03:11.000Z",
+      "summary": "GCB Bank PLC has been ranked fourth among Ghana’s top 100 companies at the 2026 Ghana Club 100 Awards, emerging as the highest-ranked bank in the country. The achievement places the Bank…"
+    },
+    {
+      "title": "GCB recognised as SME Bank of the Year at 6th GNCCI Business Awards",
+      "link": "https://www.myjoyonline.com/gcb-recognised-as-sme-bank-of-the-year-at-6th-gncci-business-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T14:40:13.000Z",
+      "summary": "GCB Bank PLC has been named SME Bank of the Year at the 6th Ghana National Chamber of Commerce and Industry (GNCCI) Business Awards, in recognition of its contribution to the growth and…"
+    },
+    {
+      "title": "Compact with Africa 2.0 to Drive 36,000 Garment Jobs in Ghana",
+      "link": "https://thehighstreetjournal.com/compact-with-africa-2-0-to-drive-36000-garment-jobs-in-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T14:30:00.000Z",
+      "summary": "The Compact with Africa 2.0 pilot will address investment bottlenecks, strengthen trade infrastructure, and support garment manufacturing as Ghana pursues its industrialisation and…"
+    },
+    {
+      "title": "GABS 2026: Germany urges Africa to prioritise value addition in critical minerals",
+      "link": "https://www.myjoyonline.com/gabs-2026-germany-urges-africa-to-prioritise-value-addition-in-critical-minerals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T14:13:27.000Z",
+      "summary": "Germany is urging African countries to leverage technology, innovation and strategic partnerships to develop local value chains in critical minerals and unlock greater economic benefits…"
+    },
+    {
+      "title": "Latex Foam donates GH¢30,000 to support needy but brilliant students at University of Ghana",
+      "link": "https://www.myjoyonline.com/latex-foam-donates-gh%c2%a230000-to-support-needy-but-brilliant-students-at-university-of-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T14:06:00.000Z",
+      "summary": "Latex Foam has donated GH¢30,000 to the University of Ghana to support brilliant but needy students, as part of efforts to improve access to tertiary education for financially disadvantaged…"
+    },
     {
       "title": "World Bank Pushes AI, Aid Transparency to Help Governments Track Development Funding",
       "link": "https://thehighstreetjournal.com/world-bank-pushes-ai-aid-transparency/",
@@ -958,118 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-20T13:44:09.000Z",
       "summary": "The Bank of Ghana (BoG) has reduced its Monetary Policy Rate (MPR) from 14 to 11 per cent, aligning the benchmark rate with prevailing money market conditions."
-    },
-    {
-      "title": "COP31 draft drops fossil fuel language, retains carbon capture as 1.5°C limit comes under threat",
-      "link": "https://www.myjoyonline.com/cop31-draft-drops-fossil-fuel-language-retains-carbon-capture-as-1-5c-limit-comes-under-threat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:41:21.000Z",
-      "summary": "A revised draft agreement at COP31 has removed references to fossil fuels, including an earlier proposal for countries to accelerate the transition away from coal, oil and gas, drawing…"
-    },
-    {
-      "title": "GRA Turns To Compliance and Technology To Boost Revenue In 2027",
-      "link": "https://thehighstreetjournal.com/gra-turns-to-compliance-and-technology-to-boost-revenue-in-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T12:38:00.000Z",
-      "summary": "The Ghana Revenue Authority says improved compliance, technology adoption, and efforts to close revenue leakages will drive domestic revenue mobilisation under the existing tax framework."
-    },
-    {
-      "title": "Ghanaian workers’ productivity triples in 34 years, but salaries not commensurate with increased output – GSS",
-      "link": "https://www.myjoyonline.com/ghanas-workers-productivity-nearly-triples-in-34-years-but-wages-lag-behind-gss-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:22:13.000Z",
-      "summary": "Ghana has recorded a substantial improvement in labour productivity over the past three and a half decades, although workers are yet to see a corresponding increase in their earnings. Data…"
-    },
-    {
-      "title": "Custom for Customs: How Commissioner Aaron Kanor is rewriting the revenue story of GRA’s Customs Division",
-      "link": "https://www.myjoyonline.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T12:05:12.000Z",
-      "summary": "There is an old saying in the corridors of the Customs Division: the job cannot be learnt from a briefing note. Valuation, classification, transit acquittals, warehousing, the rhythm of a…"
-    },
-    {
-      "title": "PURC Targets Stable Power, Water Supply In 2027 As Utility Investments Rise",
-      "link": "https://thehighstreetjournal.com/purc-targets-stable-power-water-supply-in-2027-as-utility-investments-rise/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T12:02:00.000Z",
-      "summary": "PURC is targeting stable electricity and water supply in 2027 as investments reduce ECG and GWCL operational losses, although revenue shortfalls and distribution inefficiencies remain…"
-    },
-    {
-      "title": "MIIF visits Zijin Golden Ridge Mine to gain insight into mining operations",
-      "link": "https://www.myjoyonline.com/miif-visits-zijin-golden-ridge-mine-to-gain-insight-into-mining-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:51:59.000Z",
-      "summary": "Speaking during the visit, the Chief Executive Officer of MIIF, Justina Nelson, who was accompanied by some members of executive and senior management of the Fund, expressed appreciation to…"
-    },
-    {
-      "title": "We’ll do everything within our power to make ‘New Economy’ succeed – Ato Forson",
-      "link": "https://www.myjoyonline.com/well-do-everything-within-our-power-to-make-new-economy-succeed-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T11:38:19.000Z",
-      "summary": "In a social media post marking one week since he presented the 2027 Budget, Dr Forson described the commitment as a “solemn pledge” to the people of Ghana."
-    },
-    {
-      "title": "Ghana Ready to Adopt ECO Currency as ECOWAS Targets July 2027 Launch",
-      "link": "https://thehighstreetjournal.com/ghana-ready-to-adopt-eco-currency-as-ecowas-targets-july-2027-launch/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T11:17:14.000Z",
-      "summary": "Ghana says it is ready to adopt the proposed ECOWAS ECO currency, as regional authorities target July 2027 for phased implementation to reduce payment costs and deepen trade integration."
-    },
-    {
-      "title": "MIIF Mobilises GH¢9bn in Mineral Royalties, Exceeding 2026 Target by GH¢2.1bn",
-      "link": "https://thehighstreetjournal.com/miif-mobilises-gh%c2%a29bn-in-mineral-royalties-exceeding-2026-target-by-gh%c2%a22-1bn/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T10:24:25.000Z",
-      "summary": "MIIF has mobilised GH¢9 billion in mineral royalties, surpassing its 2026 target by GH¢2.1 billion, as Ghana seeks to convert growing mining revenues into domestic industrial investment."
-    },
-    {
-      "title": "MTN Group reaffirms long-term investment commitment to Ghana",
-      "link": "https://www.myjoyonline.com/mtn-group-reaffirms-long-term-investment-commitment-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T09:27:58.000Z",
-      "summary": "The Board Chairman of MTN Group, Mcebisi Jonas, has reaffirmed the telecommunications and fintech giant's commitment to continued investment in Ghana, describing the country as a key market…"
-    },
-    {
-      "title": "Gold Crashes Below US$3,550 As Strong Dollar And Fed Rate Hike Expectations Weigh",
-      "link": "https://thehighstreetjournal.com/gold-crashes-below-us3550-as-strong-dollar-and-fed-rate-hike-expectations-weigh/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T09:06:52.000Z",
-      "summary": "Gold extends weekly losses as a stronger US dollar and expectations of higher interest rates trigger a broad sell-off across precious metals."
-    },
-    {
-      "title": "15 shops at Accra Mall fail GRA VAT compliance checks",
-      "link": "https://www.myjoyonline.com/15-shops-at-accra-mall-fail-gra-vat-compliance-checks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T08:41:14.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered significant VAT compliance breaches following an inspection of 20 shops at the Accra Mall, with only five found to be compliant. The…"
-    },
-    {
-      "title": "KGL Group’s Alex Apau Dadey named Entrepreneur of the Year at AABLA",
-      "link": "https://www.myjoyonline.com/kgl-groups-alex-apau-dadey-named-entrepreneur-of-the-year-at-aabla/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T07:47:00.000Z",
-      "summary": "Ghanaian business executive Alex Apau Dadey has been named Entrepreneur of the Year at the 14th edition of the All Africa Business Leaders Awards (AABLA), held at the Sandton Convention…"
-    },
-    {
-      "title": "German Bundesbank expects inflation to rise sharply at turn of year",
-      "link": "https://www.ghanabusinessnews.com/2026/11/20/german-bundesbank-expects-inflation-to-rise-sharply-at-turn-of-year/",
-      "source": "Ghana Business News",
-      "published": "2026-11-20T06:57:37.000Z",
-      "summary": "Inflation could remain near its current level through the end of the year, with the fuel tax cut still keeping a lid on prices, the central bank said in its monthly report released on…"
-    },
-    {
-      "title": "Grow More, but Grow Better: Minister Tells Rice Farmers to Fix Quality",
-      "link": "https://thehighstreetjournal.com/grow-more-but-grow-better-minister-tells-rice-farmers-to-fix-quality/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:05:00.000Z",
-      "summary": "The Trade Minister urges farmers and processors to invest in modern equipment and improve grain quality as consumer preference for imported rice challenges local market growth."
-    },
-    {
-      "title": "GEA Supports 29,000 New Businesses, Facilitates 45,814 Jobs",
-      "link": "https://thehighstreetjournal.com/gea-supports-29000-new-businesses-facilitates-45814-jobs/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:03:00.000Z",
-      "summary": "GEA says its support helped establish 29,000 businesses and create 45,814 jobs, while a new US Virgin Islands partnership seeks wider markets for Ghanaian MSMEs."
     }
   ]
 };
