@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T10:05:09.473Z",
+  "updated": "2026-11-24T10:15:09.144Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
+      "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T10:01:57.000Z",
+      "summary": "Ghana’s Ministry of Trade, Agribusiness and Industry has developed a proposed Business Regulatory Reform Bill aimed at reducing regulatory bottlenecks and making it easier for businesses to…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Investments",
+        "Agribusiness",
+        "Gabs",
+        "Ministry of Trade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fixing the details will stop the slump – Kotoko coach",
       "link": "https://www.myjoyonline.com/fixing-the-details-will-stop-the-slump-kotoko-coach/",
@@ -83,6 +100,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "1,414 Graduate from UniMAC",
+      "link": "https://www.graphic.com.gh/news/general-news/ghaan-news-1-414-graduate-from-unimac.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:35:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Qualikeeper wins Qualcomm’s $75,000 social impact grant",
       "link": "https://ghanaiantimes.com.gh/qualikeeper-wins-qualcomms-75000-social-impact-grant/",
       "source": "Ghanaian Times",
@@ -92,6 +120,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "$1bn Pharmaceutical hub to be sited at Asuogyaman - President",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-1bn-pharmaceutical-hub-to-be-sited-at-asuogyaman-president.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:32:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ratify Heath Goldfields lease to boost investor confidence — MD",
@@ -175,6 +214,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "NPA urges SHS kitchens to switch from firewood to LPG",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-npa-urges-shs-kitchens-to-switch-from-firewood-to-lpg.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:10:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Today’s front pages: Tuesday, November 24, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-24-2026/",
       "source": "MyJoyOnline",
@@ -199,10 +249,54 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Snapchat blackmail: Law student arrested for extorting 16-year-old",
-      "link": "https://www.graphic.com.gh/news/general-news/snapchat-blackmail-law-student-arrested-for-extorting-16-year-old.html",
+      "title": "US Virgin Islands offers firms 1% customs duty arrangement",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-us-virgin-islands-offers-firms-1-customs-duty-arrangement.html",
       "source": "Daily Graphic",
-      "published": "2026-11-24T07:47:51.000Z",
+      "published": "2026-11-24T08:06:09.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Engineering must be synonymous with trust, quality, reliability - Works, Housing Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-engineering-must-be-synonymous-with-trust-quality-reliability-works-housing-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:03:15.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Gender Ministry, UNFPA work on National Kayayei Management Framework",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gender-ministry-unfpa-work-on-national-kayayei-management-framework.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T08:00:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Customs mobilises GH¢53.19bn in 10 months",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-customs-mobilises-ghc53-19bn-in-10-months.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T07:57:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Newmont’s Ahafo South 20th milestone should mark partnership standard - Lands Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-newmonts-ahafo-south-20th-milestone-should-mark-partnership-standard-lands-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T07:52:37.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -224,101 +318,6 @@ window.GDC_PAPERS = {
         "German-African Business Summit"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Domestic sockets not suitable for electric vehicle charging - Energy Commission",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-domestic-sockets-not-suitable-for-electric-vehicle-charging-energy-commission.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T07:18:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Black Challenge to arrive in Ghana on Thursday with historic World Cup trophy",
-      "link": "https://www.myjoyonline.com/black-challenge-to-arrive-in-ghana-on-thursday-with-historic-world-cup-trophy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T07:15:25.000Z",
-      "summary": "The National Paralympic Committee of Ghana (NPC Ghana) confirmed the team’s return following their historic triumph in Mexico, where they defeated Morocco 1-0 in Sunday’s final in San Juan…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "Sports",
-        "Benaiah Elorm Dafeamekpor",
-        "Ghana",
-        "Kofi Adams",
-        "National Paralympic Committee of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Presidency directs Ministers to ensure handover of CEOs past retirement age",
-      "link": "https://www.graphic.com.gh/news/general-news/presidency-directs-ministers-to-ensure-handover-of-ceos-past-retirement-age.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T21:10:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES postpones opening of Teacher Recruitment Portal",
-      "link": "https://www.graphic.com.gh/news/education/ges-postpones-opening-of-teacher-recruitment-portal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T20:33:27.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama extends condolences to South Africa over Mlambo-Ngcuka's passing",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-extends-condolences-to-south-africa-over-mlambo-ngcukas-passing.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T17:01:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Akwamu peace praised: President Mahama celebrates Odeneho Kwafo Akoto III",
-      "link": "https://www.graphic.com.gh/news/general-news/akwamu-peace-praised-president-mahama-celebrates-odeneho-kwafo-akoto-iii.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T16:54:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Ministry bans 'early' BECE writing: Offenders face 2-year exam suspension",
-      "link": "https://www.graphic.com.gh/news/education/education-ministry-bans-early-bece-writing-offenders-face-2-year-exam-suspension.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T14:56:24.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt to lease 50 buses to GPRTU and other unions",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-to-lease-50-buses-to-gprtu-and-other-unions.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T12:36:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };

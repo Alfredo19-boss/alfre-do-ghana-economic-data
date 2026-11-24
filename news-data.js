@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T10:04:38.450Z",
+  "updated": "2026-11-24T10:14:39.423Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
+      "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T10:01:57.000Z",
+      "summary": "Ghana’s Ministry of Trade, Agribusiness and Industry has developed a proposed Business Regulatory Reform Bill aimed at reducing regulatory bottlenecks and making it easier for businesses to…"
+    },
     {
       "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
       "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana News Agency",
       "published": "2026-11-19T21:22:11.000Z",
       "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "Africa’s ‘basic’ payments tier swells to 19 as Liberia, five others join AfricaNenda ranking",
-      "link": "https://www.myjoyonline.com/africas-basic-payments-tier-swells-to-19-as-liberia-five-others-join-africanenda-ranking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:26:51.000Z",
-      "summary": "The number of African instant payment systems rated at the entry level of a continental inclusion ranking rose to 19 this year from 15, as new systems in Liberia, Burundi and Guinea went…"
     }
   ]
 };
