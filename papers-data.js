@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T03:59:09.642Z",
+  "updated": "2026-11-24T04:09:08.451Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The missing half of risk management: Why Ghana’s commodity businesses must embrace hedging",
+      "link": "https://www.myjoyonline.com/the-missing-half-of-risk-management-why-ghanas-commodity-businesses-must-embrace-hedging/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:02:05.000Z",
+      "summary": "Ghanaian businesses have become fluent in the language of currency risk, tracking the cedi daily as large firms make FX hedging standard practice. Yet when they raise commodity price…",
+      "categories": [
+        "Opinion",
+        "Forex hedging"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Customer experience must have a seat at the table’ – Marketing expert",
+      "link": "https://www.myjoyonline.com/customer-experience-must-have-a-seat-at-the-table-marketing-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:51:00.000Z",
+      "summary": "Head of Brand and Marketing at Stanbic Bank Ghana, Chidinma Braye-Yankey, has urged businesses to give customers a stronger voice in corporate decision-making, stressing that customer…",
+      "categories": [
+        "Banking and Finance",
+        "Chidinma Braye-Yankey",
+        "Customer Experience"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Pluralistic ignorance and the need to unlearn, learn, and relearn in Supply Chain Management",
       "link": "https://www.myjoyonline.com/pluralistic-ignorance-and-the-need-to-unlearn-learn-and-relearn-in-supply-chain-management/",
@@ -99,34 +124,6 @@ window.GDC_PAPERS = {
         "Accomodation",
         "GREDA",
         "hostel fee"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UG accommodation crisis reflects wider problems across public universities – Dr Kpeglo-Freiku",
-      "link": "https://www.myjoyonline.com/ug-accommodation-crisis-reflects-wider-problems-across-public-universities-dr-kpeglo-freiku/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:58:00.000Z",
-      "summary": "The accommodation crisis at the University of Ghana reflects deeper challenges confronting public universities across the country, Dr Cynthia Kpeglo-Freiku, Executive Secretary of Vice…",
-      "categories": [
-        "Education",
-        "Dr Cynthia Kpeglo-Freiku",
-        "University of Ghana (UG)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "High financing costs blocking private sector investment in student hostels – GREDA",
-      "link": "https://www.myjoyonline.com/high-financing-costs-blocking-private-sector-investment-in-student-hostels-greda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:41:53.000Z",
-      "summary": "Private investment could help ease Ghana’s growing shortage of student accommodation, but developers need access to affordable long-term financing, secure land and a predictable regulatory…",
-      "categories": [
-        "News",
-        "accommodation",
-        "fee hike",
-        "Ghana",
-        "student hostel"
       ],
       "site": "https://www.myjoyonline.com/"
     },

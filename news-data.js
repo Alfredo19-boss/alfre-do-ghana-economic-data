@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T03:58:38.703Z",
+  "updated": "2026-11-24T04:08:37.748Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘Customer experience must have a seat at the table’ – Marketing expert",
+      "link": "https://www.myjoyonline.com/customer-experience-must-have-a-seat-at-the-table-marketing-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:51:00.000Z",
+      "summary": "Head of Brand and Marketing at Stanbic Bank Ghana, Chidinma Braye-Yankey, has urged businesses to give customers a stronger voice in corporate decision-making, stressing that customer…"
+    },
     {
       "title": "National Security summons Suame artisans over attacks on foreign traders",
       "link": "https://www.myjoyonline.com/national-security-summons-suame-artisans-over-attacks-on-foreign-traders/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T14:08:30.000Z",
       "summary": "Minority MPs have taken their assessment of Ghana’s economy to the Techiman Central Market and lorry terminals, saying early interactions with traders and transport operators raise…"
-    },
-    {
-      "title": "EV Adoption Could Threaten Ghana’s Petroleum Revenue As NPA Commissions Study",
-      "link": "https://thehighstreetjournal.com/ev-adoption-could-threaten-ghanas-petroleum-revenue-as-npa-commissions-study/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T13:10:39.000Z",
-      "summary": "Experiences from China and Norway highlight the potential fiscal implications of the transition as Ghana assesses the future of its downstream petroleum industry."
     }
   ]
 };
