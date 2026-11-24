@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T12:04:39.415Z",
+  "updated": "2026-11-24T12:14:40.488Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Cedi weakens marginally against US dollar, going for GH¢12.45 at forex bureaus, GH¢11.85 in interbank market",
+      "link": "https://www.myjoyonline.com/cedi-weakens-marginally-against-us-dollar-going-for-gh%c2%a212-45-at-forex-bureaus-gh%c2%a211-85-in-interbank-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:06:23.000Z",
+      "summary": "Contrary to expectations, the cedi closed marginally weaker against the US dollar, as anticipated forex supply from the GoldBod fell short of expectations."
+    },
+    {
+      "title": "GABS 2026: Africa must turn German investment into industrial growth, shared prosperity – Mahama",
+      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-turn-german-investment-into-industrial-growth-shared-prosperity-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:05:49.000Z",
+      "summary": "President John Dramani Mahama has called on African countries to leverage German investment, innovation and technical expertise to accelerate industrialisation and create shared economic…"
+    },
     {
       "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
       "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:00:00.000Z",
       "summary": "Ghana’s 2027 Budget prioritises public investment, but sustainable financing, debt management and effective execution will determine its economic impact."
-    },
-    {
-      "title": "‘The last two months are also very strong months’ — GRA confident of tax target",
-      "link": "https://www.myjoyonline.com/the-last-two-months-are-also-very-strong-months-gra-confident-of-tax-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:51:00.000Z",
-      "summary": "Ghana Revenue Authority (GRA) Commissioner General Anthony Kwasi Sarpong says strong collections in the final two months of the year will help the authority achieve its GH¢237 billion…"
-    },
-    {
-      "title": "GRA targets GH¢237bn in non-oil tax revenue, confident of meeting year-end goal",
-      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2237bn-in-non-oil-tax-revenue-confident-of-meeting-year-end-goal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T04:33:00.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) says it is on course to meet its GH¢237 billion non-oil tax revenue target by the end of December."
     }
   ]
 };

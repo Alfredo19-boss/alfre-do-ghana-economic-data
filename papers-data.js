@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:05:09.604Z",
+  "updated": "2026-11-24T12:15:10.815Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,88 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa confirms return of Ghanaian woman assaulted by employer in Iraq",
+      "link": "https://www.myjoyonline.com/ablakwa-confirms-return-of-ghanaian-woman-assaulted-by-employer-in-iraq/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:10:25.000Z",
+      "summary": "The Government of Ghana has located a Ghanaian woman who featured in a viral video showing her being subjected to a violent and dehumanising assault by her employer in Iraq.",
+      "categories": [
+        "National",
+        "Compatriot",
+        "Ghana",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Academically advanced pupils should be allowed to sit BECE early– Dr Tutu-Boahene",
+      "link": "https://www.myjoyonline.com/academically-advanced-pupils-should-be-allowed-to-sit-bece-early-dr-tutu-boahene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:08:51.000Z",
+      "summary": "A Lecturer in Political Marketing at the University of Education, Winneba (UEW), Dr Bernard Tutu-Boahene, has questioned the rationale behind restricting academically advanced pupils from…",
+      "categories": [
+        "Education",
+        "National",
+        "BECE",
+        "Dr Bernard Tutu-Boahene",
+        "Haruna Iddrisu",
+        "minister for education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cedi weakens marginally against US dollar, going for GH¢12.45 at forex bureaus, GH¢11.85 in interbank market",
+      "link": "https://www.myjoyonline.com/cedi-weakens-marginally-against-us-dollar-going-for-gh%c2%a212-45-at-forex-bureaus-gh%c2%a211-85-in-interbank-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:06:23.000Z",
+      "summary": "Contrary to expectations, the cedi closed marginally weaker against the US dollar, as anticipated forex supply from the GoldBod fell short of expectations.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "Cedi",
+        "Databank Research",
+        "Dollar",
+        "Euro",
+        "Goldbod",
+        "Pound"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PURC resolves 91% of 1,300 consumer complaints in Bono Region",
+      "link": "https://www.myjoyonline.com/purc-resolves-91-of-1300-consumer-complaints-in-bono-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:06:18.000Z",
+      "summary": "The Public Utilities Regulatory Commission (PURC) has resolved 91 percent of approximately 1,300 consumer complaints received in the Bono Region, as part of efforts to improve electricity…",
+      "categories": [
+        "National",
+        "Regional",
+        "Bono Region",
+        "consumer",
+        "PURC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GABS 2026: Africa must turn German investment into industrial growth, shared prosperity – Mahama",
+      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-turn-german-investment-into-industrial-growth-shared-prosperity-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:05:49.000Z",
+      "summary": "President John Dramani Mahama has called on African countries to leverage German investment, innovation and technical expertise to accelerate industrialisation and create shared economic…",
+      "categories": [
+        "Africa",
+        "Business",
+        "HP Business 4",
+        "HP News 7",
+        "National",
+        "Africa-German Relations",
+        "GABS 2026",
+        "John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
       "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
@@ -78,82 +160,6 @@ window.GDC_PAPERS = {
         "basic school level",
         "Haruna Iddrisu",
         "robotics and coding"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Irish politicians seek clarity over health service chief’s dismissal",
-      "link": "https://www.myjoyonline.com/irish-politicians-seek-clarity-over-health-service-chiefs-dismissal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:48:22.000Z",
-      "summary": "Opposition leaders in the Republic of Ireland have called for greater clarity following the removal of HSE (Health Service Executive) Chief Executive Anne O'Connor from her position.",
-      "categories": [
-        "International",
-        "Health Service",
-        "Ireland",
-        "Politicians"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "link": "https://www.myjoyonline.com/king-charles-and-elton-john-pay-tribute-to-australian-music-legend-molly-meldrum/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:48:00.000Z",
-      "summary": "King Charles and Elton John have paid tribute to Australian music industry legend Molly Meldrum, who died aged 83 after a long illness.",
-      "categories": [
-        "International",
-        "Australia",
-        "Elton John",
-        "King Charles",
-        "Molly Meldrum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Discarded clothes choke Ghana’s coastline as Upcycle It Ghana turns textile waste into new products",
-      "link": "https://www.myjoyonline.com/discarded-clothes-choke-ghanas-coastline-as-upcycle-it-ghana-turns-textile-waste-into-new-products/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:38:32.000Z",
-      "summary": "Fishermen along Ghana’s coast are increasingly finding discarded clothes tangled in their fishing nets, adding to the challenges they face in their search for fish. What should be a routine…",
-      "categories": [
-        "Features",
-        "National",
-        "Coastline",
-        "Discarded clothes",
-        "Ghana",
-        "Upcycle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We are optimistic about securing an extension for Tarkwa Mine Lease come April 2027 – Gold Fields",
-      "link": "https://www.myjoyonline.com/we-are-optimistic-about-securing-an-extension-for-tarkwa-mine-lease-come-april-2027-gold-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:38:06.000Z",
-      "summary": "According to the mining giant, it has submitted the necessary documents to the government and believes the mining firm will get a positive response from the government.",
-      "categories": [
-        "Business",
-        "Mining",
-        "Eliot Twum",
-        "Gold Fields",
-        "mining lease",
-        "Ministry of Lands and Natural resources",
-        "Tarkwa Mine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
-      "link": "https://www.myjoyonline.com/california-democrat-to-resign-from-congress-after-evidence-of-sexual-misconduct/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:35:59.000Z",
-      "summary": "US Representative Jimmy Gomez has said he will resign from Congress after an ethics committee said it found credible evidence that he engaged in sexual misconduct, according to CBS News.",
-      "categories": [
-        "International",
-        "California",
-        "Jimmy Gomez",
-        "sexual misconduct"
       ],
       "site": "https://www.myjoyonline.com/"
     },
