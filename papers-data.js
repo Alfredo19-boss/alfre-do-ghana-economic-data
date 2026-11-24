@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T02:59:08.445Z",
+  "updated": "2026-11-24T03:19:09.458Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GREDA boss explains why private hostels cost more than traditional halls",
+      "link": "https://www.myjoyonline.com/greda-boss-explains-why-private-hostels-cost-more-than-traditional-halls/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:13:40.000Z",
+      "summary": "The cost of operating privately financed student hostels cannot be fairly compared with charges at traditional university halls, which were mostly built decades ago and no longer carry the…",
+      "categories": [
+        "News",
+        "Accomodation",
+        "GREDA",
+        "hostel fee"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Hostel investors may take 30 years to recover costs – GREDA",
       "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
@@ -121,20 +135,6 @@ window.GDC_PAPERS = {
         "International",
         "Facebook",
         "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
-      "link": "https://www.myjoyonline.com/us-rapper-don-toliver-postpones-two-arena-shows-after-manchester-evacuation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T00:44:00.000Z",
-      "summary": "US rapper Don Toliver has postponed two London shows this week after his Manchester concert on Sunday was evacuated when an \"unknown substance\" was released into the crowd.",
-      "categories": [
-        "International",
-        "Music",
-        "Don Toliver",
-        "Machester evacuation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
