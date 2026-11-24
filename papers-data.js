@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:55:11.012Z",
+  "updated": "2026-11-24T13:05:11.109Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,37 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Caleb Yirenkyi injury ‘awkward to assess’- Coventry manager Frank Lampard",
+      "link": "https://www.myjoyonline.com/caleb-yirenkyi-injury-awkward-to-assess-coventry-manager-frank-lampard/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:53:00.000Z",
+      "summary": "The 21-year-old started for the Black Stars in the 2-0 win over Somalia in the 2027 AFCON qualifier but was not involved in the return fixture.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Caleb Yirenkyi",
+        "Frank Lampard",
+        "Ruth Akoto-Donkor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa offers new investment opportunities amid global economic uncertainty – German President",
+      "link": "https://www.myjoyonline.com/africa-offers-new-investment-opportunities-amid-global-economic-uncertainty-german-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:51:10.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has urged German businesses to explore investment opportunities in Africa amid growing uncertainty in traditional export markets.",
+      "categories": [
+        "Africa",
+        "National",
+        "News",
+        "Dr Frank Walter",
+        "GABS 2026",
+        "Germany"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Open up your trade routes – German President tells Africa",
       "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
       "source": "MyJoyOnline",
@@ -30,7 +61,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Business",
         "HP Business 1",
-        "HP Business 5",
         "HP News 4",
         "National",
         "News",
@@ -123,34 +153,6 @@ window.GDC_PAPERS = {
         "Cocoa",
         "quality cocoa",
         "traceability"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fortune Spread celebrates World Children’s Day with over 700 pupils at La Bawaleshie Primary School",
-      "link": "https://www.myjoyonline.com/fortune-spread-celebrates-world-childrens-day-with-over-700-pupils-at-la-bawaleshie-primary-school/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:21:41.000Z",
-      "summary": "Wilmar Africa's Fortune Spread brings smiles, nourishment and learning to pupils through a memorable World Children's Day celebration.",
-      "categories": [
-        "National",
-        "Fortune spread",
-        "La Bawaleshie Primary School",
-        "World Children's Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Iraq assault survivor Stephanie Nkrumah to receive scholarship, GH¢50,000 support",
-      "link": "https://www.myjoyonline.com/iraq-assault-survivor-stephanie-nkrumah-to-receive-scholarship-gh%c2%a250000-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:19:48.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has pledged to sponsor Stephanie Nkrumah's return to formal education following her ordeal in Iraq, where she was subjected to a violent and…",
-      "categories": [
-        "National",
-        "Foreign Minister",
-        "Ghanaian",
-        "Iraq"
       ],
       "site": "https://www.myjoyonline.com/"
     },
