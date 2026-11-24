@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T20:36:51.246Z",
+  "updated": "2026-11-24T20:56:52.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Greater Accra Regional Minister urges communities to contribute towards streetlight repairs",
+      "link": "https://www.myjoyonline.com/greater-accra-regional-minister-urges-communities-to-contribute-towards-streetlight-repairs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T20:51:18.000Z",
+      "summary": "The Greater Accra Regional Minister, Linda Ocloo, has urged communities across the region to take a proactive role in maintaining streetlights by contributing towards the repair of minor…",
+      "categories": [
+        "National",
+        "News",
+        "Greater Accra Regional Minister",
+        "Streetlight"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Parliament must justify 2027 budget request before demanding full allocation – Ernesto Yeboah",
       "link": "https://www.myjoyonline.com/parliament-must-justify-2027-budget-request-before-demanding-full-allocation-ernesto-yeboah/",
@@ -122,22 +136,6 @@ window.GDC_PAPERS = {
         "Northern region",
         "unsafe water",
         "Yankazia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Give us the land, I will build the stadium” – Samson Deen’s US$10m Disability Sport vision",
-      "link": "https://www.myjoyonline.com/give-us-the-land-i-will-build-the-stadium-samson-deens-us10m-disability-sport-vision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:36:48.000Z",
-      "summary": "African Paralympic Committee president Samson Deen has proposed the construction of a US$10 million stadium dedicated to disability sport at the Borteyman Sports Complex in Accra. Deen is…",
-      "categories": [
-        "Football",
-        "Other Sports",
-        "Sports",
-        "African Paralympic Committee",
-        "Borteyman Sports Complex",
-        "Samson Deen"
       ],
       "site": "https://www.myjoyonline.com/"
     },
