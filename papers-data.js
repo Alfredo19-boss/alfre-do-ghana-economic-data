@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T04:19:09.268Z",
+  "updated": "2026-11-24T04:29:09.212Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nigeria’s SEC approves Dangote refinery’s IPO share distribution plan, sources say",
+      "link": "https://www.myjoyonline.com/nigerias-sec-approves-dangote-refinerys-ipo-share-distribution-plan-sources-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:18:00.000Z",
+      "summary": "Nigeria's Securities and Exchange Commission on Monday approved Dangote Refinery's plan to allocate shares in its heavily oversubscribed initial public offering, which closed last month…",
+      "categories": [
+        "Africa",
+        "Dangote Refinery",
+        "IPO",
+        "Nigeria",
+        "Reuters"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accra Mall to celebrate kids’ talent with Talent Showcase",
       "link": "https://www.myjoyonline.com/accra-mall-to-celebrate-kids-talent-with-talent-showcase/",
@@ -110,19 +125,6 @@ window.GDC_PAPERS = {
         "Accomodation",
         "Hostel",
         "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Let’s look at the issues realistically’ – Dr Kpeglo-Freiku on university housing crisis",
-      "link": "https://www.myjoyonline.com/lets-look-at-the-issues-realistically-dr-kpeglo-freiku-on-university-housing-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:15:00.000Z",
-      "summary": "The Executive Secretary of Vice Chancellors Ghana has called for a realistic, objective national discussion on the growing accommodation crisis in public universities, insisting the problem…",
-      "categories": [
-        "Education",
-        "Dr Cynthia Kpeglo-Freiku",
-        "University accommodation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
