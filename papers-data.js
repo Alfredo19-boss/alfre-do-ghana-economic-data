@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T20:26:51.318Z",
+  "updated": "2026-11-24T20:36:51.246Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Parliament must justify 2027 budget request before demanding full allocation – Ernesto Yeboah",
+      "link": "https://www.myjoyonline.com/parliament-must-justify-2027-budget-request-before-demanding-full-allocation-ernesto-yeboah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T20:26:24.000Z",
+      "summary": "The Leader of the Economic Fighters League, Ernesto Yeboah, has called for a detailed examination of Parliament’s 2027 budget request before any conclusion is drawn about the adequacy of…",
+      "categories": [
+        "National",
+        "News",
+        "2027 Budget",
+        "Ernesto Yeboah",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "African football is powerful source of pride – Coca-Cola explains reason for CAF partnership",
       "link": "https://www.myjoyonline.com/african-football-is-powerful-source-of-pride-coca-cola-explains-reason-for-caf-partnership/",
@@ -123,20 +138,6 @@ window.GDC_PAPERS = {
         "African Paralympic Committee",
         "Borteyman Sports Complex",
         "Samson Deen"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GMA deploys 200 safety guards to strengthen inland waterway enforcement",
-      "link": "https://www.myjoyonline.com/gma-deploys-200-safety-guards-to-strengthen-inland-waterway-enforcement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:25:34.000Z",
-      "summary": "Ghana Maritime Authority (GMA) has deployed 200 trained safety guards across inland water transport communities to strengthen enforcement and improve safety on the country’s waterways.",
-      "categories": [
-        "National",
-        "Ghana Maritime Authority",
-        "Inland waterways",
-        "Safety guards"
       ],
       "site": "https://www.myjoyonline.com/"
     },
