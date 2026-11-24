@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T21:36:51.740Z",
+  "updated": "2026-11-24T21:46:51.597Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,21 @@ window.GDC_PAPERS = {
         "Crime",
         "Charcoal producer",
         "Hunter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Avengers: Doomsday to The Debut: 12 of the best films to watch this December",
+      "link": "https://www.myjoyonline.com/avengers-doomsday-to-the-debut-12-of-the-best-films-to-watch-this-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:06:00.000Z",
+      "summary": "From Marvel's latest superhero jamboree to an Oscar-tipped role for Julianne Moore, here are the films to watch at the cinema and stream at home this month.",
+      "categories": [
+        "Movies",
+        "Avengers",
+        "Doomsday",
+        "film",
+        "The Debut"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -117,21 +132,6 @@ window.GDC_PAPERS = {
         "News",
         "Greater Accra Regional Minister",
         "Streetlight"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament must justify 2027 budget request before demanding full allocation – Ernesto Yeboah",
-      "link": "https://www.myjoyonline.com/parliament-must-justify-2027-budget-request-before-demanding-full-allocation-ernesto-yeboah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T20:26:24.000Z",
-      "summary": "The Leader of the Economic Fighters League, Ernesto Yeboah, has called for a detailed examination of Parliament’s 2027 budget request before any conclusion is drawn about the adequacy of…",
-      "categories": [
-        "National",
-        "News",
-        "2027 Budget",
-        "Ernesto Yeboah",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
