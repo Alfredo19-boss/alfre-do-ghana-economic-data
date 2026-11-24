@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T22:16:51.931Z",
+  "updated": "2026-11-24T22:26:52.198Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Busted! GTEC's audit catches public business institution in Ghana offering admission for 'unaccredited' Public Health PhD programme",
+      "link": "https://www.graphic.com.gh/news/general-news/busted-gtecs-audit-catches-public-business-institution-in-ghana-offering-admission-to-students-to-pursue-unaccredited-public-health-phd-programme.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T22:22:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Cherki rescues point for Man City against Napoli",
+      "link": "https://www.myjoyonline.com/cherki-rescues-point-for-man-city-against-napoli/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T22:17:29.000Z",
+      "summary": "Rayan Cherki rescued a late point but Manchester City's poor run of form continued as they were held to a draw at home in the Champions League by Napoli.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Cherki",
+        "Manchester City",
+        "Napoli"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "link": "https://www.myjoyonline.com/nigerian-monarch-92-suspended-after-sexual-assault-claims/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T22:04:00.000Z",
+      "summary": "One of Nigeria's best-known monarchs, the Emir of Daura, has been suspended from all official engagements and travel following allegations of sexual assault by a Polish tourist.",
+      "categories": [
+        "Africa",
+        "International",
+        "Monarch",
+        "Nigeria",
+        "Sexual Assault"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US attorney general dodges questions about Nvidia investigation",
       "link": "https://www.myjoyonline.com/us-attorney-general-dodges-questions-about-nvidia-investigation/",
@@ -100,35 +141,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Charcoal producer",
         "Hunter"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Avengers: Doomsday to The Debut: 12 of the best films to watch this December",
-      "link": "https://www.myjoyonline.com/avengers-doomsday-to-the-debut-12-of-the-best-films-to-watch-this-december/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:06:00.000Z",
-      "summary": "From Marvel's latest superhero jamboree to an Oscar-tipped role for Julianne Moore, here are the films to watch at the cinema and stream at home this month.",
-      "categories": [
-        "Movies",
-        "Avengers",
-        "Doomsday",
-        "film",
-        "The Debut"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ark Foundation urges Ghana to ratify ILO convention to tackle workplace harassment",
-      "link": "https://www.myjoyonline.com/ark-foundation-urges-ghana-to-ratify-ilo-convention-to-tackle-workplace-harassment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:04:53.000Z",
-      "summary": "The Ark Foundation, Ghana, has called on the government and Parliament to urgently ratify and domesticate the International Labour Organisation’s (ILO) Convention 190 to strengthen…",
-      "categories": [
-        "National",
-        "Ark Foundation",
-        "International Labour Organisation",
-        "workplace harassment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -299,17 +311,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/premature-wassce-and-bece-writing-now-attracts-2-year-ban---ges.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T13:31:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Man jailed 48 months for stabbing fire officer at Adjiringanor",
-      "link": "https://www.graphic.com.gh/news/general-news/man-jailed-48-months-for-stabbing-fire-officer-at-adjiringanor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T13:26:03.000Z",
       "summary": "",
       "categories": [
         "General News"
