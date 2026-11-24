@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T22:36:51.987Z",
+  "updated": "2026-11-24T23:26:51.483Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bellingham stunner helps Real Madrid see off PSV",
+      "link": "https://www.myjoyonline.com/bellingham-stunner-helps-real-madrid-see-off-psv/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T22:27:58.000Z",
+      "summary": "Jude Bellingham came off the bench to score a stunning goal as Real Madrid came from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Bellingham",
+        "PSV",
+        "Real Madrid"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Busted! GTEC's audit catches public business school in Ghana offering admission for 'unaccredited' Public Health PhD programme",
       "link": "https://www.graphic.com.gh/news/general-news/busted-gtecs-audit-catches-public-business-institution-in-ghana-offering-admission-to-students-to-pursue-unaccredited-public-health-phd-programme.html",
@@ -128,19 +143,6 @@ window.GDC_PAPERS = {
         "Prince",
         "Princess",
         "Wales"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hunter remanded for allegedly shooting charcoal producer",
-      "link": "https://www.myjoyonline.com/hunter-remanded-for-allegedly-shooting-charcoal-producer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:11:00.000Z",
-      "summary": "The Nkawie Circuit Court has remanded a hunter into police custody for allegedly shooting a charcoal producer in a forest in the Atwima Nwabiagya South Municipality of the Ashanti Region.",
-      "categories": [
-        "Crime",
-        "Charcoal producer",
-        "Hunter"
       ],
       "site": "https://www.myjoyonline.com/"
     },
