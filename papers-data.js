@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T20:06:53.486Z",
+  "updated": "2026-11-24T20:16:51.984Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "African football is powerful source of pride – Coca-Cola explains reason for CAF partnership",
+      "link": "https://www.myjoyonline.com/african-football-is-powerful-source-of-pride-coca-cola-explains-reason-for-caf-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T20:11:20.000Z",
+      "summary": "Coca-Cola Africa operating unit President Luis Felipe Avellar says African football's ability to unite people and inspire communities across the continent is a major reason behind the…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Afcon 2027",
+        "CAF",
+        "Coca-Cola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "A Night to Remember: Say Cheers celebrates 25 years",
       "link": "https://www.myjoyonline.com/a-night-to-remember-say-cheers-celebrates-25-years/",
@@ -122,21 +137,6 @@ window.GDC_PAPERS = {
         "Ghana Maritime Authority",
         "Inland waterways",
         "Safety guards"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Premature BECE registration: 5,000 candidates affected annually as Education Ministry defends two-year ban",
-      "link": "https://www.myjoyonline.com/premature-bece-registration-5000-candidates-affected-annually-as-education-ministry-defends-two-year-ban/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:25:18.000Z",
-      "summary": "The Ministry of Education has defended its directive restricting Junior High School (JHS) 1 and 2 students from registering prematurely for the Basic Education Certificate Examination…",
-      "categories": [
-        "Education",
-        "National",
-        "Education Ministry",
-        "Premature BECE registration",
-        "two-year ban"
       ],
       "site": "https://www.myjoyonline.com/"
     },

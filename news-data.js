@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T20:06:22.563Z",
+  "updated": "2026-11-24T20:16:20.490Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana is open for business – Mahama",
+      "link": "https://www.ghanabusinessnews.com/2026/11/24/ghana-is-open-for-business-mahama/",
+      "source": "Ghana Business News",
+      "published": "2026-11-24T20:08:23.000Z",
+      "summary": "President John Mahama today boldly declared that Ghana is open for business and investments that create jobs."
+    },
     {
       "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
       "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T14:04:36.000Z",
       "summary": "Exploring how businesses can measure, value and account for their environmental impact, and why recognising nature’s contribution matters for financial reporting and economic development."
-    },
-    {
-      "title": "Bank of Ghana realigns policy stance, ends 2026 with 11% policy rate",
-      "link": "https://www.ghanabusinessnews.com/2026/11/20/bank-of-ghana-realigns-policy-stance-ends-2026-with-11-policy-rate/",
-      "source": "Ghana Business News",
-      "published": "2026-11-20T13:44:09.000Z",
-      "summary": "The Bank of Ghana (BoG) has reduced its Monetary Policy Rate (MPR) from 14 to 11 per cent, aligning the benchmark rate with prevailing money market conditions."
     }
   ]
 };
