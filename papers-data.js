@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T01:04:11.227Z",
+  "updated": "2026-11-24T01:14:09.642Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dad who discovered daughter’s murder on Facebook feels ignored by South African police",
+      "link": "https://www.myjoyonline.com/dad-who-discovered-daughters-murder-on-facebook-feels-ignored-by-south-african-police/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:45:00.000Z",
+      "summary": "Tuku Nkosiyaphantsi found out his daughter had been killed from a post on Facebook.",
+      "categories": [
+        "Africa",
+        "International",
+        "Facebook",
+        "South Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
       "link": "https://www.myjoyonline.com/us-rapper-don-toliver-postpones-two-arena-shows-after-manchester-evacuation/",
@@ -74,6 +88,23 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Nigeria’s president says he is also hit by water and power cuts plaguing country",
+      "link": "https://www.myjoyonline.com/nigerias-president-says-he-is-also-hit-by-water-and-power-cuts-plaguing-country/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:01:52.000Z",
+      "summary": "Nigeria's President Bola Tinubu says the presidential villa suffers from cuts in electricity and water - issues that are all too common for the country's ordinary citizens.",
+      "categories": [
+        "Africa",
+        "International",
+        "Energy",
+        "Nigeria",
+        "Power",
+        "Tinubu",
+        "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Secondary education must transform to prepare 330 million young Africans for work — Report",
       "link": "https://www.myjoyonline.com/secondary-education-must-transform-to-prepare-330-million-young-africans-for-work-report/",
       "source": "MyJoyOnline",
@@ -97,33 +128,6 @@ window.GDC_PAPERS = {
         "Dr Cynthia Kpeglo-Freiku",
         "Student accommodation struggles",
         "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Brentford hit Everton for four as Tarkowski sees red",
-      "link": "https://www.myjoyonline.com/brentford-hit-everton-for-four-as-tarkowski-sees-red/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:24:00.000Z",
-      "summary": "Keane Lewis-Potter scored twice as Brentford swept 10-man Everton aside to move sixth in the Premier League.",
-      "categories": [
-        "Football",
-        "Brentford",
-        "Everton"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian law deserves to be taught in Ghanaian voices — State Attorney launches two textbooks at UBIDS",
-      "link": "https://www.myjoyonline.com/ghanaian-law-deserves-to-be-taught-in-ghanaian-voices-state-attorney-launches-two-textbooks-at-ubids/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T23:22:00.000Z",
-      "summary": "Legal education in Ghana has received a significant boost after a State Attorney and part-time law lecturer, Joanna Fynn-Wils Pipson, launched two landmark legal textbooks at the University…",
-      "categories": [
-        "News",
-        "Books",
-        "Ghana",
-        "Law"
       ],
       "site": "https://www.myjoyonline.com/"
     },
