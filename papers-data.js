@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T00:09:09.809Z",
+  "updated": "2026-11-24T00:24:10.450Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gisèle Pelicot ‘humiliated’ after nude photos sent to media to promote book",
+      "link": "https://www.myjoyonline.com/gisele-pelicot-humiliated-after-nude-photos-sent-to-media-to-promote-book/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:17:00.000Z",
+      "summary": "Gisèle Pelicot has said she has been \"once again humiliated\" after nude images of her were sent to the media to promote a book about coercive control.",
+      "categories": [
+        "International",
+        "Gisèle Pelicot"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Who should pay for student accommodation? – Universities demand national conversation",
       "link": "https://www.myjoyonline.com/who-should-pay-for-student-accommodation-universities-demand-national-conversation/",
@@ -113,20 +125,6 @@ window.GDC_PAPERS = {
         "Arsenal",
         "David Raya",
         "Dortmund"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "De Bruyne’s feelings for Man City will ‘never change’",
-      "link": "https://www.myjoyonline.com/de-bruynes-feelings-for-man-city-will-never-change/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:42:24.000Z",
-      "summary": "Kevin de Bruyne says his feelings for Manchester City will \"never change\" even if the club are stripped of their titles after being found guilty of breaching the Premier League's financial…",
-      "categories": [
-        "Football",
-        "Kevin de Bruyne",
-        "Man City",
-        "Napoli"
       ],
       "site": "https://www.myjoyonline.com/"
     },
