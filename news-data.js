@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T04:28:38.750Z",
+  "updated": "2026-11-24T04:38:38.769Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
+      "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:34:08.000Z",
+      "summary": "The Ghana Association of Banks (GAB) expects a significant reduction in lending rates in the coming months after the Bank of Ghana slashed its policy rate by 300 basis points."
+    },
+    {
+      "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
+      "link": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:21:00.000Z",
+      "summary": "Tullow Oil has lowered its 2026 free cash flow forecast after reaching an agreement with the Government of Ghana to settle two long-running tax disputes involving claims totalling $387…"
+    },
     {
       "title": "‘Customer experience must have a seat at the table’ – Marketing expert",
       "link": "https://www.myjoyonline.com/customer-experience-must-have-a-seat-at-the-table-marketing-expert/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T14:33:28.000Z",
       "summary": "President John Mahama has urged Ghanaian businesses to position themselves to benefit from the government’s US$10 billion New Economy Programme, which seeks to transform the economy through…"
-    },
-    {
-      "title": "Rice quality must match production levels in Ghana’s self-sufficiency drive – Trade Minister",
-      "link": "https://www.myjoyonline.com/rice-quality-must-match-production-levels-in-ghanas-self-sufficiency-drive-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:32:53.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called on players in Ghana’s rice value chain to prioritise quality alongside increased production as the…"
-    },
-    {
-      "title": "Minority MPs question government’s economic claims after Techiman market tour",
-      "link": "https://www.myjoyonline.com/minority-mps-question-governments-economic-claims-after-techiman-market-tour/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T14:08:30.000Z",
-      "summary": "Minority MPs have taken their assessment of Ghana’s economy to the Techiman Central Market and lorry terminals, saying early interactions with traders and transport operators raise…"
     }
   ]
 };

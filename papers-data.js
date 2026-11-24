@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T04:29:09.212Z",
+  "updated": "2026-11-24T04:39:09.062Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
+      "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:34:08.000Z",
+      "summary": "The Ghana Association of Banks (GAB) expects a significant reduction in lending rates in the coming months after the Bank of Ghana slashed its policy rate by 300 basis points.",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 1",
+        "National",
+        "Ghana Association of Bankers (GAB)",
+        "Lending rate"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hostel fees traumatising students, parents – NUGS",
+      "link": "https://www.myjoyonline.com/hostel-fees-traumatising-students-parents-nugs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:28:44.000Z",
+      "summary": "The National Union of Ghana Students (NUGS) has called for urgent government intervention in the rising cost of student accommodation, warning that hostel charges are putting severe…",
+      "categories": [
+        "News",
+        "Hostel",
+        "NUGS",
+        "Student"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
+      "link": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T04:21:00.000Z",
+      "summary": "Tullow Oil has lowered its 2026 free cash flow forecast after reaching an agreement with the Government of Ghana to settle two long-running tax disputes involving claims totalling $387…",
+      "categories": [
+        "Energy",
+        "HP Business 2",
+        "HP News 6",
+        "National",
+        "Ghana Revenue Authority (GRA)",
+        "Tullow oil"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nigeria’s SEC approves Dangote refinery’s IPO share distribution plan, sources say",
       "link": "https://www.myjoyonline.com/nigerias-sec-approves-dangote-refinerys-ipo-share-distribution-plan-sources-say/",
@@ -83,48 +128,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Pluralistic ignorance",
         "Supply chain management"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US lawmakers criticise Nvidia’s decision to reinstate Huang as CEO",
-      "link": "https://www.myjoyonline.com/us-lawmakers-criticise-nvidias-decision-to-reinstate-huang-as-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:33:00.000Z",
-      "summary": "US lawmakers from both parties sharply criticised Nvidia's decision to reinstate Jensen Huang as CEO, saying Congress should tighten restrictions on China's ‌access to the company's…",
-      "categories": [
-        "International",
-        "Jensen Huang",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump administration sued over removal of slavery exhibit in Philadelphia",
-      "link": "https://www.myjoyonline.com/trump-administration-sued-over-removal-of-slavery-exhibit-in-philadelphia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:24:00.000Z",
-      "summary": "Advocacy groups sued US President Donald Trump's administration on Monday over the removal of ​a slavery exhibit in Philadelphia, arguing that it ‌was an instance of selective removal of…",
-      "categories": [
-        "International",
-        "Philadelphia",
-        "slavery exhibit",
-        "Trump administration"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hostel investors may take 30 years to recover costs – GREDA",
-      "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:19:26.000Z",
-      "summary": "Private developers investing in student accommodation may spend up to 30 years repaying the loans used to construct hostels, the Executive Director of the Ghana Real Estate Developers…",
-      "categories": [
-        "National",
-        "News",
-        "Accomodation",
-        "Hostel",
-        "University of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
