@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T13:05:11.109Z",
+  "updated": "2026-11-24T13:15:10.915Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,80 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "German President urges faster implementation of African Continental Free Trade Area",
+      "link": "https://www.myjoyonline.com/german-president-urges-faster-implementation-of-african-continental-free-trade-area/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:09:59.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to accelerate the implementation of the African Continental Free Trade Area (AfCFTA), describing the agreement as a…",
+      "categories": [
+        "Africa",
+        "National",
+        "AfCFTA",
+        "GABS 2026",
+        "German-African Business Summit"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "German President backs Africa’s call for stronger representation at UN",
+      "link": "https://www.myjoyonline.com/german-president-backs-africas-call-for-stronger-representation-at-un/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:09:13.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has backed calls for Africa to have a stronger voice in the United Nations, saying the continent deserves greater representation in shaping the…",
+      "categories": [
+        "National",
+        "GABS 2026",
+        "German",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NTC to release 2026 GTLE 2 results on November 25",
+      "link": "https://www.myjoyonline.com/ntc-to-release-2026-gtle-2-results-on-november-25/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:07:47.000Z",
+      "summary": "The National Teaching Council (NTC) will release the results of the 2026 Ghana Teacher Licensure Examination 2 (GTLE 2) on Wednesday, November 25.",
+      "categories": [
+        "Education",
+        "National",
+        "2026 GTLE 2",
+        "NTC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Some students engage in promiscuous and illegal acts to pay costly hostel fees – NUGS President",
+      "link": "https://www.myjoyonline.com/some-students-engage-in-promiscuous-and-illegal-acts-to-pay-costly-hostel-fees-nugs-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:07:24.000Z",
+      "summary": "The President of the National Union of Ghana Students (NUGS), Rashid Ibrahim, has raised concerns about the financial difficulties confronting tertiary students, saying some are compelled…",
+      "categories": [
+        "Education",
+        "HP News 3",
+        "National",
+        "Hostel",
+        "NUGS President",
+        "Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Binduri MP distributes 1,500 desks to basic schools, promises 500 more",
+      "link": "https://www.myjoyonline.com/binduri-mp-distributes-1500-desks-to-basic-schools-promises-500-more/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:05:11.000Z",
+      "summary": "The Member of Parliament for Binduri, Issifu Mahamoud, has distributed 1,500 mono desks to basic schools across the constituency as part of efforts to address a longstanding shortage of…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Basic Schools",
+        "Binduri MP",
+        "Desks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Caleb Yirenkyi injury ‘awkward to assess’- Coventry manager Frank Lampard",
       "link": "https://www.myjoyonline.com/caleb-yirenkyi-injury-awkward-to-assess-coventry-manager-frank-lampard/",
@@ -71,67 +145,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GES warns parents; says 2-year exam ban for early BECE, WASSCE candidates will be enforced",
-      "link": "https://www.myjoyonline.com/ges-warns-parents-says-2-year-exam-ban-for-early-bece-wassce-candidates-will-be-enforced/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:37:35.000Z",
-      "summary": "The Ghana Education Service (GES) has announced a two-year examination ban for candidates who sit the Basic Education Certificate Examination (BECE) or the West African Senior School…",
-      "categories": [
-        "Education",
-        "National",
-        "ban",
-        "BECE",
-        "WASSCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The exam hall is teaching Ghana the wrong lesson",
-      "link": "https://www.myjoyonline.com/the-exam-hall-is-teaching-ghana-the-wrong-lesson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:34:42.000Z",
-      "summary": "Every year, more than 600,000 Ghanaian children sit the BECE. In 2025 the figure was 603,328 candidates from 20,395 schools. Few of them know that their grades are not purely a measure of…",
-      "categories": [
-        "Opinion",
-        "BECE",
-        "Exam hall"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mayweather gives JoySports’ Nathaniel Attoh glowing endorsement in Ghana",
-      "link": "https://www.myjoyonline.com/mayweather-gives-joysports-nathaniel-attoh-glowing-endorsement-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:33:24.000Z",
-      "summary": "American boxing legend Floyd Mayweather Jr has praised JoySports broadcaster and ring announcer Nathaniel Attoh for his skills following their interactions during the former world…",
-      "categories": [
-        "Boxing",
-        "Sports",
-        "Floyd Mayweather",
-        "Ghana boxing",
-        "Haruna Mubarak",
-        "JoySports",
-        "Legacy Rise Sports",
-        "Nathaniel Attoh",
-        "Sharaf Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Mahama urges fellow African leaders to strengthen policy consistency, accountability to attract investment",
-      "link": "https://www.myjoyonline.com/gabs-2026-mahama-urges-fellow-african-leaders-to-strengthen-policy-consistency-accountability-to-attract-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:28:14.000Z",
-      "summary": "President John Dramani Mahama has urged his fellow African leaders to strengthen policy consistency, institutional reforms and accountability to make the continent more attractive to…",
-      "categories": [
-        "Africa",
-        "National",
-        "Africa-German Relations",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "I don't want cheap scholarship: Rent Commissioner rejects UG's master's offer",
       "link": "https://www.graphic.com.gh/news/education/i-dont-want-cheap-scholarship-rent-commissioner-rejects-ugs-masters-offer.html",
       "source": "Daily Graphic",
@@ -141,20 +154,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Beyond compliance: Turning cocoa traceability into a global competitive advantage for Ghana",
-      "link": "https://www.myjoyonline.com/beyond-compliance-turning-cocoa-traceability-into-a-global-competitive-advantage-for-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:26:55.000Z",
-      "summary": "For decades, Ghana's cocoa has enjoyed international recognition for its quality, consistency and reliability. These attributes have sustained our commercial relationships and earned…",
-      "categories": [
-        "Opinion",
-        "Cocoa",
-        "quality cocoa",
-        "traceability"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Supreme Court to rule on Asamoah’s appeal in SkyTrain case",
