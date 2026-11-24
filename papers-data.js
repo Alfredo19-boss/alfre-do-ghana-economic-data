@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T03:39:09.063Z",
+  "updated": "2026-11-24T03:49:08.990Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Trump administration sued over removal of slavery exhibit in Philadelphia",
+      "link": "https://www.myjoyonline.com/trump-administration-sued-over-removal-of-slavery-exhibit-in-philadelphia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:24:00.000Z",
+      "summary": "Advocacy groups sued US President Donald Trump's administration on Monday over the removal of ​a slavery exhibit in Philadelphia, arguing that it ‌was an instance of selective removal of…",
+      "categories": [
+        "International",
+        "Philadelphia",
+        "slavery exhibit",
+        "Trump administration"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Hostel investors may take 30 years to recover costs – GREDA",
       "link": "https://www.myjoyonline.com/hostel-investors-may-take-30-years-to-recover-costs-greda/",
       "source": "MyJoyOnline",
@@ -32,6 +46,19 @@ window.GDC_PAPERS = {
         "Accomodation",
         "Hostel",
         "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Let’s look at the issues realistically’ – Dr Kpeglo-Freiku on university housing crisis",
+      "link": "https://www.myjoyonline.com/lets-look-at-the-issues-realistically-dr-kpeglo-freiku-on-university-housing-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:15:00.000Z",
+      "summary": "The Executive Secretary of Vice Chancellors Ghana has called for a realistic, objective national discussion on the growing accommodation crisis in public universities, insisting the problem…",
+      "categories": [
+        "Education",
+        "Dr Cynthia Kpeglo-Freiku",
+        "University accommodation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -100,32 +127,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Oil prices"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tech giants to face billions of dollars in fines under Australian internet safety bill",
-      "link": "https://www.myjoyonline.com/tech-giants-to-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:15:00.000Z",
-      "summary": "Tech firms, including Google and Meta, will face fines of up to 5% of their global revenue for breaching Australia's internet safety bill, Communications Minister Anika Wells said on…",
-      "categories": [
-        "Technology",
-        "Australia",
-        "Google",
-        "Meta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Meta pauses Class C share issuance amid shareholder lawsuit",
-      "link": "https://www.myjoyonline.com/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:07:00.000Z",
-      "summary": "Meta Platforms said on Monday it will not issue its planned Class C shares ​while it faces shareholder litigation challenging the ‌company's proposed recapitalization, delaying a share sale…",
-      "categories": [
-        "Technology",
-        "Meta"
       ],
       "site": "https://www.myjoyonline.com/"
     },
