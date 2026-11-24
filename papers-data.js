@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T13:25:11.430Z",
+  "updated": "2026-11-24T13:35:11.101Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Helmet requirement for Pragyia was an error; the law will be corrected – NRSA boss",
+      "link": "https://www.myjoyonline.com/helmet-requirement-for-pragyia-was-an-error-the-law-will-be-corrected-nrsa-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:29:04.000Z",
+      "summary": "The Director-General of the National Road Safety Authority (NRSA), Abraham Amaliba, says the regulation requiring commercial tricycle operators, popularly known as pragyia riders, to wear…",
+      "categories": [
+        "National",
+        "News",
+        "Abraham Amaliba",
+        "NRSA boss",
+        "pragyia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man jailed 48 months for stabbing fire officer at Adjiringanor",
+      "link": "https://www.graphic.com.gh/news/general-news/man-jailed-48-months-for-stabbing-fire-officer-at-adjiringanor.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T13:26:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nissan Africa delegation commends Japan Motors’ investment in modern service facilities",
+      "link": "https://www.myjoyonline.com/nissan-africa-delegation-commends-japan-motors-investment-in-modern-service-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:22:00.000Z",
+      "summary": "A high-level delegation from Nissan Motor Corporation, led by its Managing Director for Africa, Mohammed Abdel Samad, visited Japan Motors Trading Company Ltd. (JMTC), toured the company's…",
+      "categories": [
+        "Economy",
+        "Japan Motors",
+        "Nissan Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama urges German firms to use Ghana as gateway to Africa’s $3.5tn market",
       "link": "https://www.myjoyonline.com/mahama-urges-german-firms-to-use-ghana-as-gateway-to-africas-3-5tn-market/",
@@ -121,34 +160,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "German President backs Africa’s call for stronger representation at UN",
-      "link": "https://www.myjoyonline.com/german-president-backs-africas-call-for-stronger-representation-at-un/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:09:13.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has backed calls for Africa to have a stronger voice in the United Nations, saying the continent deserves greater representation in shaping the…",
-      "categories": [
-        "National",
-        "GABS 2026",
-        "German",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NTC to release 2026 GTLE 2 results on November 25",
-      "link": "https://www.myjoyonline.com/ntc-to-release-2026-gtle-2-results-on-november-25/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:07:47.000Z",
-      "summary": "The National Teaching Council (NTC) will release the results of the 2026 Ghana Teacher Licensure Examination 2 (GTLE 2) on Wednesday, November 25.",
-      "categories": [
-        "Education",
-        "National",
-        "2026 GTLE 2",
-        "NTC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "I don't want cheap scholarship: Rent Commissioner rejects UG's master's offer",
       "link": "https://www.graphic.com.gh/news/education/i-dont-want-cheap-scholarship-rent-commissioner-rejects-ugs-masters-offer.html",
       "source": "Daily Graphic",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-supports-gbc-ecobank-bauxite-value-chain-development-deal.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T08:42:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "1,414 Graduate from UniMAC",
-      "link": "https://www.graphic.com.gh/news/general-news/ghaan-news-1-414-graduate-from-unimac.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:35:52.000Z",
       "summary": "",
       "categories": [
         "General News"

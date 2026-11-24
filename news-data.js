@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T13:24:40.889Z",
+  "updated": "2026-11-24T13:34:41.079Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Nissan Africa delegation commends Japan Motors’ investment in modern service facilities",
+      "link": "https://www.myjoyonline.com/nissan-africa-delegation-commends-japan-motors-investment-in-modern-service-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:22:00.000Z",
+      "summary": "A high-level delegation from Nissan Motor Corporation, led by its Managing Director for Africa, Mohammed Abdel Samad, visited Japan Motors Trading Company Ltd. (JMTC), toured the company's…"
+    },
     {
       "title": "Open up your trade routes – German President tells Africa",
       "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:01:00.000Z",
       "summary": "MultiChoice Ghana reports a surge in uptake and returning subscribers following DStv price cuts, but withholds figures on the scale of the recovery."
-    },
-    {
-      "title": "MobileMoney Fintech Places Fifth in Ghana Club 100 on Debut",
-      "link": "https://thehighstreetjournal.com/mobilemoney-fintech-places-fifth-in-ghana-club-100-on-debut/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:00:00.000Z",
-      "summary": "MobileMoney Fintech LTD placed fifth in the 2026 Ghana Club 100 on its first entry, months after separating from MTN Ghana, which ranked second."
     }
   ]
 };
