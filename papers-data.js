@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T09:15:10.315Z",
+  "updated": "2026-11-24T10:05:09.473Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fixing the details will stop the slump – Kotoko coach",
+      "link": "https://www.myjoyonline.com/fixing-the-details-will-stop-the-slump-kotoko-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T09:51:21.000Z",
+      "summary": "Asante Kotoko coach Stanley Menzo has said the club’s poor form is not attributable to one player, but rather to collective mistakes. Kotoko are winless in five league games, having drawn…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Asante Kotoko",
+        "Ghana",
+        "Ghana Premier League",
+        "Stanley Menzo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
       "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
@@ -233,22 +251,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Kofi Adams",
         "National Paralympic Committee of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Africa advocates stronger trade and industrial ties with Ghana",
-      "link": "https://www.myjoyonline.com/south-africa-advocates-stronger-trade-and-industrial-ties-with-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T07:09:00.000Z",
-      "summary": "South Africa is seeking stronger trade and industrial ties with Ghana, calling for the removal of regulatory obstacles that make it difficult for businesses in both countries to access each…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 3",
-        "International",
-        "Investments",
-        "Ghana South Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
