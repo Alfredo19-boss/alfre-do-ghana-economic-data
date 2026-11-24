@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T10:45:09.703Z",
+  "updated": "2026-11-24T10:55:09.409Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.myjoyonline.com/nato-chief-vows-defence-against-space-threat-after-russian-nuclear-satellite-reports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T10:50:04.000Z",
+      "summary": "Nato chief Mark Rutte has said the alliance will defend against any threats in space after reports that Russia was preparing to launch a nuclear-armed satellite.",
+      "categories": [
+        "International",
+        "Nato",
+        "nuclear satellite",
+        "Russian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
       "link": "https://www.myjoyonline.com/dr-congo-says-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
@@ -236,19 +250,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Tuesday, November 24, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-24-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T08:09:14.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Man United contract talks on hold -Fernandes",
