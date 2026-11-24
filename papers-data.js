@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:35:10.484Z",
+  "updated": "2026-11-24T12:45:10.342Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES warns parents; says 2-year exam ban for early BECE, WASSCE candidates will be enforced",
+      "link": "https://www.myjoyonline.com/ges-warns-parents-says-2-year-exam-ban-for-early-bece-wassce-candidates-will-be-enforced/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:37:35.000Z",
+      "summary": "The Ghana Education Service (GES) has announced a two-year examination ban for candidates who sit the Basic Education Certificate Examination (BECE) or the West African Senior School…",
+      "categories": [
+        "Education",
+        "National",
+        "ban",
+        "BECE",
+        "WASSCE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The exam hall is teaching Ghana the wrong lesson",
+      "link": "https://www.myjoyonline.com/the-exam-hall-is-teaching-ghana-the-wrong-lesson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:34:42.000Z",
+      "summary": "Every year, more than 600,000 Ghanaian children sit the BECE. In 2025 the figure was 603,328 candidates from 20,395 schools. Few of them know that their grades are not purely a measure of…",
+      "categories": [
+        "Opinion",
+        "BECE",
+        "Exam hall"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mayweather gives JoySports’ Nathaniel Attoh glowing endorsement in Ghana",
+      "link": "https://www.myjoyonline.com/mayweather-gives-joysports-nathaniel-attoh-glowing-endorsement-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:33:24.000Z",
+      "summary": "American boxing legend Floyd Mayweather Jr has praised JoySports broadcaster and ring announcer Nathaniel Attoh for his skills following their interactions during the former world…",
+      "categories": [
+        "Boxing",
+        "Sports",
+        "Floyd Mayweather",
+        "Ghana boxing",
+        "Haruna Mubarak",
+        "JoySports",
+        "Legacy Rise Sports",
+        "Nathaniel Attoh",
+        "Sharaf Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GABS 2026: Mahama urges fellow African leaders to strengthen policy consistency, accountability to attract investment",
       "link": "https://www.myjoyonline.com/gabs-2026-mahama-urges-fellow-african-leaders-to-strengthen-policy-consistency-accountability-to-attract-investment/",
@@ -110,50 +157,6 @@ window.GDC_PAPERS = {
         "BECE ban",
         "institutions",
         "Yendi MP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bond market: Turnover declines by 16% to GH¢5.72bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-16-to-gh%c2%a25-72bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:17:01.000Z",
-      "summary": "Trading activity was concentrated in the 2027-2030 maturity segment, which accounted for 65.35% of total turnover at a weighted-average yield of 12.41%.",
-      "categories": [
-        "Business",
-        "Stocks",
-        "Bond market",
-        "DDEP",
-        "GSE",
-        "turnover",
-        "YTM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kumasi Metropolitan Assembly plans digital tax collection from night and weekend traders",
-      "link": "https://www.myjoyonline.com/kumasi-metropolitan-assembly-plans-digital-tax-collection-from-night-and-weekend-traders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:15:17.000Z",
-      "summary": "The Kumasi Metropolitan Assembly (KMA) is preparing to intensify revenue mobilisation among businesses operating at night and traders who use the Central Business District (CBD) during…",
-      "categories": [
-        "National",
-        "Central Business District",
-        "KMA",
-        "night traders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "21-year-old man jailed for 4 years for assaulting firefighter at Yvonne Okoro’s residence",
-      "link": "https://www.myjoyonline.com/21-year-old-man-jailed-for-4-years-for-assaulting-firefighter-at-yvonne-okoros-residence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:12:29.000Z",
-      "summary": "The Achimota Circuit Court has sentenced Sampson Azumah to four years’ imprisonment with hard labour for assaulting a firefighter who responded to an emergency at the residence of actress…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Yvonne Okoro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
