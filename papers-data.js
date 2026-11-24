@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T03:49:08.990Z",
+  "updated": "2026-11-24T03:59:09.642Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Pluralistic ignorance and the need to unlearn, learn, and relearn in Supply Chain Management",
+      "link": "https://www.myjoyonline.com/pluralistic-ignorance-and-the-need-to-unlearn-learn-and-relearn-in-supply-chain-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:42:00.000Z",
+      "summary": "Pluralistic ignorance occurs when people privately question or reject a group norm but mistakenly believe that most others support it (Mendes, Lopez-Valeiras & Lunkes, 2017). Because each…",
+      "categories": [
+        "Opinion",
+        "Pluralistic ignorance",
+        "Supply chain management"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US lawmakers criticise Nvidia’s decision to reinstate Huang as CEO",
+      "link": "https://www.myjoyonline.com/us-lawmakers-criticise-nvidias-decision-to-reinstate-huang-as-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T03:33:00.000Z",
+      "summary": "US lawmakers from both parties sharply criticised Nvidia's decision to reinstate Jensen Huang as CEO, saying Congress should tighten restrictions on China's ‌access to the company's…",
+      "categories": [
+        "International",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Trump administration sued over removal of slavery exhibit in Philadelphia",
       "link": "https://www.myjoyonline.com/trump-administration-sued-over-removal-of-slavery-exhibit-in-philadelphia/",
@@ -101,32 +127,6 @@ window.GDC_PAPERS = {
         "fee hike",
         "Ghana",
         "student hostel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "University housing crisis only part of wider hardship facing students – Dr Kpeglo-Freiku",
-      "link": "https://www.myjoyonline.com/university-housing-crisis-only-part-of-wider-hardship-facing-students-dr-kpeglo-freiku/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:40:00.000Z",
-      "summary": "Dr Cynthia Kpeglo-Freiku, Executive Secretary of Vice Chancellors Ghana, says the growing accommodation crisis in public universities is only one part of the wider economic hardship…",
-      "categories": [
-        "Education",
-        "Dr Cynthia Kpeglo-Freiku",
-        "Executive Secretary of Vice Chancellors Ghana",
-        "University accommodation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil holds near three-month low as rising supply offsets Hormuz threat",
-      "link": "https://www.myjoyonline.com/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T02:23:00.000Z",
-      "summary": "Oil prices eased Tuesday, hovering near a three-month low amid concerns about rising crude supply and a potential market surplus, while risk to shipping through the Strait of Hormuz…",
-      "categories": [
-        "International",
-        "Oil prices"
       ],
       "site": "https://www.myjoyonline.com/"
     },
