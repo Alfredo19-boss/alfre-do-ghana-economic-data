@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T20:16:20.490Z",
+  "updated": "2026-11-24T20:26:23.551Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "German president calls for more investment at Africa business summit in Accra",
+      "link": "https://www.ghanabusinessnews.com/2026/11/24/german-president-calls-for-more-investment-at-africa-business-summit-in-accra/",
+      "source": "Ghana Business News",
+      "published": "2026-11-24T20:17:20.000Z",
+      "summary": "German President Frank-Walter Steinmeier on Tuesday called on the German business community to become more involved in Africa, as he opened an economic forum in Accra with Ghana's President…"
+    },
     {
       "title": "Ghana is open for business – Mahama",
       "link": "https://www.ghanabusinessnews.com/2026/11/24/ghana-is-open-for-business-mahama/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-20T14:14:24.000Z",
       "summary": "There is a law that doesn't proclaim its existence. It doesn't storm newsrooms in the middle of the night, doesn't come with boots on and doesn't come shouting. It comes silently, inside an…"
-    },
-    {
-      "title": "THE ECOLOGICAL INVOICE: Should Businesses Account For The Cost Of Nature?",
-      "link": "https://thehighstreetjournal.com/the-ecological-invoice-should-businesses-account-for-the-cost-of-nature/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T14:04:36.000Z",
-      "summary": "Exploring how businesses can measure, value and account for their environmental impact, and why recognising nature’s contribution matters for financial reporting and economic development."
     }
   ]
 };
