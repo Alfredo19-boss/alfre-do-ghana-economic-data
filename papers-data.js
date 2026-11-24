@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T12:25:11.419Z",
+  "updated": "2026-11-24T12:35:10.484Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,59 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GABS 2026: Mahama urges fellow African leaders to strengthen policy consistency, accountability to attract investment",
+      "link": "https://www.myjoyonline.com/gabs-2026-mahama-urges-fellow-african-leaders-to-strengthen-policy-consistency-accountability-to-attract-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:28:14.000Z",
+      "summary": "President John Dramani Mahama has urged his fellow African leaders to strengthen policy consistency, institutional reforms and accountability to make the continent more attractive to…",
+      "categories": [
+        "Africa",
+        "National",
+        "Africa-German Relations",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I don't want cheap scholarship: Rent Commissioner rejects UG's master's offer",
+      "link": "https://www.graphic.com.gh/news/education/i-dont-want-cheap-scholarship-rent-commissioner-rejects-ugs-masters-offer.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T12:27:35.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Beyond compliance: Turning cocoa traceability into a global competitive advantage for Ghana",
+      "link": "https://www.myjoyonline.com/beyond-compliance-turning-cocoa-traceability-into-a-global-competitive-advantage-for-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:26:55.000Z",
+      "summary": "For decades, Ghana's cocoa has enjoyed international recognition for its quality, consistency and reliability. These attributes have sustained our commercial relationships and earned…",
+      "categories": [
+        "Opinion",
+        "Cocoa",
+        "quality cocoa",
+        "traceability"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fortune Spread celebrates World Children’s Day with over 700 pupils at La Bawaleshie Primary School",
+      "link": "https://www.myjoyonline.com/fortune-spread-celebrates-world-childrens-day-with-over-700-pupils-at-la-bawaleshie-primary-school/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T12:21:41.000Z",
+      "summary": "Wilmar Africa's Fortune Spread brings smiles, nourishment and learning to pupils through a memorable World Children's Day celebration.",
+      "categories": [
+        "National",
+        "Fortune spread",
+        "La Bawaleshie Primary School",
+        "World Children's Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Iraq assault survivor Stephanie Nkrumah to receive scholarship, GH¢50,000 support",
       "link": "https://www.myjoyonline.com/iraq-assault-survivor-stephanie-nkrumah-to-receive-scholarship-gh%c2%a250000-support/",
       "source": "MyJoyOnline",
@@ -33,6 +86,17 @@ window.GDC_PAPERS = {
         "Iraq"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Supreme Court to rule on Asamoah’s appeal in SkyTrain case",
+      "link": "https://www.graphic.com.gh/news/general-news/supreme-court-to-rule-on-asamoahs-appeal-in-skytrain-case.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T12:19:12.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Yendi MP wants schools held responsible for early BECE candidates",
@@ -81,64 +145,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Man jailed four years for assaulting firefighter at Yvonne Okoro’s residence",
-      "link": "https://www.myjoyonline.com/man-jailed-four-years-for-assaulting-firefighter-at-yvonne-okoros-residence/",
+      "title": "21-year-old man jailed for 4 years for assaulting firefighter at Yvonne Okoro’s residence",
+      "link": "https://www.myjoyonline.com/21-year-old-man-jailed-for-4-years-for-assaulting-firefighter-at-yvonne-okoros-residence/",
       "source": "MyJoyOnline",
       "published": "2026-11-24T12:12:29.000Z",
       "summary": "The Achimota Circuit Court has sentenced Sampson Azumah to four years’ imprisonment with hard labour for assaulting a firefighter who responded to an emergency at the residence of actress…",
       "categories": [
+        "HP News 2",
         "National",
         "Yvonne Okoro"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa confirms return of Ghanaian woman assaulted by employer in Iraq",
-      "link": "https://www.myjoyonline.com/ablakwa-confirms-return-of-ghanaian-woman-assaulted-by-employer-in-iraq/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:10:25.000Z",
-      "summary": "The Government of Ghana has located a Ghanaian woman who featured in a viral video showing her being subjected to a violent and dehumanising assault by her employer in Iraq.",
-      "categories": [
-        "National",
-        "Compatriot",
-        "Ghana",
-        "Iraq"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Academically advanced pupils should be allowed to sit BECE early– Dr Tutu-Boahene",
-      "link": "https://www.myjoyonline.com/academically-advanced-pupils-should-be-allowed-to-sit-bece-early-dr-tutu-boahene/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:08:51.000Z",
-      "summary": "A Lecturer in Political Marketing at the University of Education, Winneba (UEW), Dr Bernard Tutu-Boahene, has questioned the rationale behind restricting academically advanced pupils from…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "BECE",
-        "Dr Bernard Tutu-Boahene",
-        "Haruna Iddrisu",
-        "minister for education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedi weakens marginally against US dollar, going for GH¢12.45 at forex bureaus, GH¢11.85 in interbank market",
-      "link": "https://www.myjoyonline.com/cedi-weakens-marginally-against-us-dollar-going-for-gh%c2%a212-45-at-forex-bureaus-gh%c2%a211-85-in-interbank-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:06:23.000Z",
-      "summary": "Contrary to expectations, the cedi closed marginally weaker against the US dollar, as anticipated forex supply from the GoldBod fell short of expectations.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "BoG",
-        "Cedi",
-        "Databank Research",
-        "Dollar",
-        "Euro",
-        "Goldbod",
-        "Pound"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -287,17 +302,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NPA urges SHS kitchens to switch from firewood to LPG",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-npa-urges-shs-kitchens-to-switch-from-firewood-to-lpg.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:10:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Man United contract talks on hold -Fernandes",
       "link": "https://ghanaiantimes.com.gh/man-united-contract-talks-on-hold-fernandes/",
       "source": "Ghanaian Times",
@@ -307,17 +311,6 @@ window.GDC_PAPERS = {
         "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US Virgin Islands offers firms 1% customs duty arrangement",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-us-virgin-islands-offers-firms-1-customs-duty-arrangement.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:06:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
