@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T22:26:52.198Z",
+  "updated": "2026-11-24T22:36:51.987Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,7 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Busted! GTEC's audit catches public business institution in Ghana offering admission for 'unaccredited' Public Health PhD programme",
+      "title": "Busted! GTEC's audit catches public business school in Ghana offering admission for 'unaccredited' Public Health PhD programme",
       "link": "https://www.graphic.com.gh/news/general-news/busted-gtecs-audit-catches-public-business-institution-in-ghana-offering-admission-to-students-to-pursue-unaccredited-public-health-phd-programme.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T22:22:10.000Z",
