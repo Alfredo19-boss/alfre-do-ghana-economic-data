@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T13:15:10.915Z",
+  "updated": "2026-11-24T13:25:11.430Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,91 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama urges German firms to use Ghana as gateway to Africa’s $3.5tn market",
+      "link": "https://www.myjoyonline.com/mahama-urges-german-firms-to-use-ghana-as-gateway-to-africas-3-5tn-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:20:44.000Z",
+      "summary": "President John Dramani Mahama has urged German companies to consider Ghana as a strategic entry point into the African market, which he says offers significant investment and production…",
+      "categories": [
+        "Africa",
+        "National",
+        "GABS 2026",
+        "German-African Business Summit",
+        "Ghana German"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSOs demand transparency over ECG private-sector reforms",
+      "link": "https://www.myjoyonline.com/csos-demand-transparency-over-ecg-private-sector-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:18:37.000Z",
+      "summary": "Civil society organisations monitoring Ghana's energy sector are demanding greater transparency in the planned private-sector reforms of the Electricity Company of Ghana (ECG), insisting…",
+      "categories": [
+        "National",
+        "CSOs",
+        "ECG",
+        "Investment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Christian men’s groups urge emotional openness, gender respect, and youth mentorship on International Men’s Day",
+      "link": "https://www.myjoyonline.com/christian-mens-groups-urge-emotional-openness-gender-respect-and-youth-mentorship-on-international-mens-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:17:33.000Z",
+      "summary": "Christian men’s groups in Ghana have called for a shift in traditional expectations surrounding masculinity, urging men to share responsibilities with women, seek help when overwhelmed, and…",
+      "categories": [
+        "National",
+        "Christian men’s groups",
+        "International Men’s Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Africa and Europe need each other’ – German President",
+      "link": "https://www.myjoyonline.com/africa-and-europe-need-each-other-german-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:15:13.000Z",
+      "summary": "German President Dr Frank-Walter Steinmeier has called for stronger cooperation between Africa and Europe, saying the two continents need each other to address shared global challenges and…",
+      "categories": [
+        "Africa",
+        "National",
+        "News",
+        "Africa-German Relations",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pragyia riders, passengers risk up to 8 months in jail for riding without helmets",
+      "link": "https://www.myjoyonline.com/pragyia-riders-passengers-risk-up-to-8-months-in-jail-for-riding-without-helmets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T13:13:38.000Z",
+      "summary": "Commercial tricycle riders, popularly known as Pragyia riders and their passengers risk prosecution, fines and possible imprisonment up to eight months for failing to wear protective and…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Passengers",
+        "pragyia",
+        "pragyia riders",
+        "Road Traffic Regulations"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BECE two-year ban: Schools, intermediaries must also be held accountable for premature registration",
+      "link": "https://www.graphic.com.gh/news/general-news/gnacops-wants-school-officials-intermediaries-held-accountable-over-bece-two-year-ban.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T13:11:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "German President urges faster implementation of African Continental Free Trade Area",
       "link": "https://www.myjoyonline.com/german-president-urges-faster-implementation-of-african-continental-free-trade-area/",
@@ -60,87 +145,6 @@ window.GDC_PAPERS = {
         "National",
         "2026 GTLE 2",
         "NTC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Some students engage in promiscuous and illegal acts to pay costly hostel fees – NUGS President",
-      "link": "https://www.myjoyonline.com/some-students-engage-in-promiscuous-and-illegal-acts-to-pay-costly-hostel-fees-nugs-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:07:24.000Z",
-      "summary": "The President of the National Union of Ghana Students (NUGS), Rashid Ibrahim, has raised concerns about the financial difficulties confronting tertiary students, saying some are compelled…",
-      "categories": [
-        "Education",
-        "HP News 3",
-        "National",
-        "Hostel",
-        "NUGS President",
-        "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Binduri MP distributes 1,500 desks to basic schools, promises 500 more",
-      "link": "https://www.myjoyonline.com/binduri-mp-distributes-1500-desks-to-basic-schools-promises-500-more/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:05:11.000Z",
-      "summary": "The Member of Parliament for Binduri, Issifu Mahamoud, has distributed 1,500 mono desks to basic schools across the constituency as part of efforts to address a longstanding shortage of…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Basic Schools",
-        "Binduri MP",
-        "Desks"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Caleb Yirenkyi injury ‘awkward to assess’- Coventry manager Frank Lampard",
-      "link": "https://www.myjoyonline.com/caleb-yirenkyi-injury-awkward-to-assess-coventry-manager-frank-lampard/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:53:00.000Z",
-      "summary": "The 21-year-old started for the Black Stars in the 2-0 win over Somalia in the 2027 AFCON qualifier but was not involved in the return fixture.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Caleb Yirenkyi",
-        "Frank Lampard",
-        "Ruth Akoto-Donkor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa offers new investment opportunities amid global economic uncertainty – German President",
-      "link": "https://www.myjoyonline.com/africa-offers-new-investment-opportunities-amid-global-economic-uncertainty-german-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:51:10.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has urged German businesses to explore investment opportunities in Africa amid growing uncertainty in traditional export markets.",
-      "categories": [
-        "Africa",
-        "National",
-        "News",
-        "Dr Frank Walter",
-        "GABS 2026",
-        "Germany"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Open up your trade routes – German President tells Africa",
-      "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:44:55.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to intensify economic reforms and remove barriers to trade to unlock the continent's economic potential and…",
-      "categories": [
-        "Africa",
-        "Business",
-        "HP Business 1",
-        "HP News 4",
-        "National",
-        "News",
-        "Dr Frank Walter",
-        "GABS 2026",
-        "Germany-Africa Business Summit"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -231,17 +235,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "$1bn Pharmaceutical hub to be sited at Asuogyaman - President",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-1bn-pharmaceutical-hub-to-be-sited-at-asuogyaman-president.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T08:32:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ratify Heath Goldfields lease to boost investor confidence — MD",
