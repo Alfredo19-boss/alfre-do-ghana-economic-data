@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T00:24:10.450Z",
+  "updated": "2026-11-24T00:34:09.693Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.myjoyonline.com/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T00:25:00.000Z",
+      "summary": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.",
+      "categories": [
+        "Technology",
+        "Megaspeed",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gisèle Pelicot ‘humiliated’ after nude photos sent to media to promote book",
       "link": "https://www.myjoyonline.com/gisele-pelicot-humiliated-after-nude-photos-sent-to-media-to-promote-book/",
@@ -111,20 +124,6 @@ window.GDC_PAPERS = {
         "advance",
         "Rent",
         "Rent Control"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Raya to miss Dortmund game but injury ‘not serious’",
-      "link": "https://www.myjoyonline.com/raya-to-miss-dortmund-game-but-injury-not-serious/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:54:07.000Z",
-      "summary": "Arsenal goalkeeper David Raya's shoulder injury \"doesn't look too serious\", but he will miss Tuesday's Champions League against Borussia Dortmund, says Mikel Arteta.",
-      "categories": [
-        "Football",
-        "Arsenal",
-        "David Raya",
-        "Dortmund"
       ],
       "site": "https://www.myjoyonline.com/"
     },
