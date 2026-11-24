@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T05:09:09.372Z",
+  "updated": "2026-11-24T08:25:09.173Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,122 +21,238 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Premature BECE candidates face two-year ban from re-sitting exam",
-      "link": "https://www.myjoyonline.com/premature-bece-candidates-face-two-year-ban-from-re-sitting-exam/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:02:00.000Z",
-      "summary": "Form One and Two students who register early for the Basic Education Certificate Examination (BECE) will be barred from re-sitting the exam for two years, Mr Haruna Iddrisu, Minister of…",
+      "title": "GETFund supports 4 Volta schools with books",
+      "link": "https://ghanaiantimes.com.gh/getfund-supports-4-volta-schools-with-books/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:25:05.000Z",
+      "summary": "GHANA Education Trust Fund (GETFund) has donated educational materials to four schools in the Volta Region, in the latest effort to close the gaps in education funding. The items included…",
       "categories": [
-        "Education",
-        "BECE",
-        "Haruna Iddrisu"
+        "News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Some student hostel fees too high, out of order – GREDA boss agrees with Rent Control",
-      "link": "https://www.myjoyonline.com/some-student-hostel-fees-too-high-out-of-order-greda-boss-agrees-with-rent-control/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:01:00.000Z",
-      "summary": "The Executive Director of the Ghana Real Estate Developers Association (GREDA), Samuel Amegayibor, has admitted that some student hostel charges in Ghana are excessive and cannot be…",
+      "title": "Furniture shortage hits basic schools in Karaga",
+      "link": "https://ghanaiantimes.com.gh/furniture-shortage-hits-basic-schools-in-karaga/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:22:53.000Z",
+      "summary": "AT least 4,085 school desks are needed to address a furniture shortage in basic schools in the Karaga Municipality of the Northern Region, a study has revealed. The shortage, as a result…",
       "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ayesu, Amponsah-Mensah shine at 5th Head of State Invitational Golf Tournament",
+      "link": "https://ghanaiantimes.com.gh/ayesu-amponsah-mensah-shine-at-5th-head-of-state-invitational-golf-tournament/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:20:26.000Z",
+      "summary": "Achimota club’s Philip Ayesu won the fifth edition of the Head of State Invitational Golf Tournament, played at the lush Achimota Golf Club in Accra. The prestigious competition attracted…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "SWAG announces nominees for 51st SWAG Awards",
+      "link": "https://ghanaiantimes.com.gh/swag-announces-nominees-for-51st-swag-awards/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:18:26.000Z",
+      "summary": "The Sports Writers Association of Ghana (SWAG) has announced nominees for the 51st edition of its flagship SWAG Awards. This year’s event is scheduled to take place at the GNAT Hall-Accra…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Tuesday, November 24, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-24-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T08:09:14.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "HP News 2",
         "National",
-        "News",
-        "Accomodation",
-        "Ghana",
-        "GREDA",
-        "hostel fee",
-        "Student"
+        "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UGEL hostel dispute: No free pass for investors – Rent Commissioner declares",
-      "link": "https://www.myjoyonline.com/ugel-hostel-dispute-no-free-pass-for-investors-rent-commissioner-declares/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:58:52.000Z",
-      "summary": "The Acting Rent Commissioner, Frederick Opoku, has warned private hostel operators and university-linked accommodation providers that investment in student housing does not place them…",
+      "title": "Man United contract talks on hold -Fernandes",
+      "link": "https://ghanaiantimes.com.gh/man-united-contract-talks-on-hold-fernandes/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T08:07:45.000Z",
+      "summary": "Manchester United captain Bruno Fernandes says the club has offered him a new contract, but discussions have ⁠been put on ⁠hold as the team focuses on turning around their poor form. “Yeah…",
       "categories": [
-        "News",
-        "Accomodation",
-        "Rent",
-        "Student",
-        "UG"
+        "Foriegn"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "CAS to release Senegal Africa Cup of Nations title appeal decision today",
-      "link": "https://www.myjoyonline.com/cas-to-release-senegal-africa-cup-of-nations-title-appeal-decision-today/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:53:00.000Z",
-      "summary": "The Court of Arbitration for Sport (CAS) will release its decision on Tuesday, November 24, on Senegal's appeal against being stripped of this year's Africa Cup of Nations title, the court…",
+      "title": "UK to host 2035 Women’s World Cup- FIFA",
+      "link": "https://ghanaiantimes.com.gh/uk-to-host-2035-womens-world-cup-fifa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T07:55:41.000Z",
+      "summary": "England, Northern Ireland, Scotland and Wales will jointly host the 2035 Women’s World Cup, FIFA has confirmed. It will be the first time a football World Cup has been held in the United…",
       "categories": [
-        "Africa",
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Alcaraz claims ATP Finals title",
+      "link": "https://ghanaiantimes.com.gh/alcaraz-claims-atp-finals-title/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T07:50:43.000Z",
+      "summary": "SEVEN-time Grand Slam champion, Carlos Alcaraz, powered past world number one, Alexander Zverev, 6-2, 7-6 (9-7) on Sunday to win his maiden ATP Finals title. The Spaniard, who returned at…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CAS verdict on Senegal’s AFCON 2025 title appeal today",
+      "link": "https://ghanaiantimes.com.gh/cas-verdict-on-senegals-afcon-2025-title-appeal-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-24T07:48:05.000Z",
+      "summary": "THE Court of Arbitration for Sport (CAS) will release its decision on Senegal’s appeal against being stripped of this year’s Africa Cup of Nations (AFCON) title today. Senegal are…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Snapchat blackmail: Law student arrested for extorting 16-year-old",
+      "link": "https://www.graphic.com.gh/news/general-news/snapchat-blackmail-law-student-arrested-for-extorting-16-year-old.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T07:47:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Domestic sockets not suitable for electric vehicle charging - Energy Commission",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-domestic-sockets-not-suitable-for-electric-vehicle-charging-energy-commission.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T07:18:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Black Challenge to arrive in Ghana on Thursday with historic World Cup trophy",
+      "link": "https://www.myjoyonline.com/black-challenge-to-arrive-in-ghana-on-thursday-with-historic-world-cup-trophy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T07:15:25.000Z",
+      "summary": "The National Paralympic Committee of Ghana (NPC Ghana) confirmed the team’s return following their historic triumph in Mexico, where they defeated Morocco 1-0 in Sunday’s final in San Juan…",
+      "categories": [
         "Football",
-        "AFCON",
-        "CAS",
-        "Morocco",
-        "Senegal"
+        "HP Sports 1",
+        "National",
+        "Sports",
+        "Benaiah Elorm Dafeamekpor",
+        "Ghana",
+        "Kofi Adams",
+        "National Paralympic Committee of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GREDA proposes star-rating system for student hostels to address exorbitant fees",
-      "link": "https://www.myjoyonline.com/greda-proposes-star-rating-system-for-student-hostels-to-address-exorbitant-fees/",
+      "title": "Ghana to establish garment factories in four regions, targeting 80,000 jobs",
+      "link": "https://www.myjoyonline.com/ghana-to-establish-garment-factories-in-four-regions-targeting-80000-jobs/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T04:48:00.000Z",
-      "summary": "The Ghana Real Estate Developers Association (GREDA) has proposed a star-rating system for student hostels to enable students assess the quality of accommodation facilities before paying…",
+      "published": "2026-11-24T06:47:00.000Z",
+      "summary": "The Minister of Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says the government is planning to establish garment factories in four regions, with the initiative expected to…",
       "categories": [
-        "News",
-        "GREDA",
-        "hostel fee",
-        "Student"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey threatens Sunyani’s water supply as PURC raises concerns over Tano River pollution",
-      "link": "https://www.myjoyonline.com/galamsey-threatens-sunyanis-water-supply-as-purc-raises-concerns-over-tano-river-pollution/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:44:00.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has raised concerns about rising illegal mining along the upper stretches of the Tano River, warning that the situation could worsen water…",
-      "categories": [
-        "Regional",
-        "Dr Shafic Suleman",
-        "Galamsey",
-        "PURC Executive Secretary",
-        "Sunyani",
-        "Tano River pollution"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
-      "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:34:08.000Z",
-      "summary": "The Ghana Association of Banks (GAB) expects a significant reduction in lending rates in the coming months after the Bank of Ghana slashed its policy rate by 300 basis points.",
-      "categories": [
-        "Banking and Finance",
+        "Business",
+        "Comp. Business",
+        "Economy",
         "HP Business 1",
         "National",
-        "Ghana Association of Bankers (GAB)",
-        "Lending rate"
+        "Agribusiness and Industry",
+        "Elizabeth Ofosu-Adjare",
+        "Ghana to establish garment factories",
+        "Minister of Trade"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Hostel fees traumatising students, parents – NUGS",
-      "link": "https://www.myjoyonline.com/hostel-fees-traumatising-students-parents-nugs/",
+      "title": "Kofi Adams pledges $10,000 bonus for each Black Challenge player after Amputee World Cup triumph",
+      "link": "https://www.myjoyonline.com/kofi-adams-pledges-10000-bonus-for-each-black-challenge-player-after-amputee-world-cup-triumph/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T04:28:44.000Z",
-      "summary": "The National Union of Ghana Students (NUGS) has called for urgent government intervention in the rising cost of student accommodation, warning that hostel charges are putting severe…",
+      "published": "2026-11-24T05:51:29.000Z",
+      "summary": "Ghana defeated Morocco 1-0 in Sunday’s final to lift the trophy and become world champions, with an own goal in the second half proving decisive.",
+      "categories": [
+        "Football",
+        "HP News 2",
+        "HP Sports 2",
+        "National",
+        "News",
+        "2026 Amputee Football World Cup",
+        "Black Challenge",
+        "Kofi Adams",
+        "Ministry of Sports and Recreation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Banks poised to drive New Economy, says ADB MD",
+      "link": "https://www.myjoyonline.com/banks-poised-to-drive-new-economy-says-adb-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:37:00.000Z",
+      "summary": "The Managing Director of Agricultural Development Bank PLC (ADB), Edward Ato Sarpong, has highlighted the critical role of Ghana’s banking sector in driving the country’s new economy.",
+      "categories": [
+        "Banking and Finance",
+        "ADB",
+        "Edward Ato Sarpong",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GREDA boss explains why private hostels cost more than traditional halls",
+      "link": "https://www.myjoyonline.com/greda-boss-explains-why-private-hostels-cost-more-than-traditional-halls/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:33:40.000Z",
+      "summary": "The cost of operating privately financed student hostels cannot be fairly compared with charges at traditional university halls, which were mostly built decades ago and no longer carry the…",
       "categories": [
         "News",
-        "Hostel",
-        "NUGS",
-        "Student"
+        "Accomodation",
+        "GREDA",
+        "hostel fee"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gold Fields defends Ghana operations, says 74% of every dollar generated stays in country",
+      "link": "https://www.myjoyonline.com/gold-fields-defends-ghana-operations-says-74-of-every-dollar-generated-stays-in-country/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:26:00.000Z",
+      "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…",
+      "categories": [
+        "Mining",
+        "National",
+        "Elliot Twum",
+        "Gold Fields"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gold Fields eyes $7.5bn investment in Tarkwa Mine as lease expiry looms",
+      "link": "https://www.myjoyonline.com/gold-fields-eyes-7-5bn-investment-in-tarkwa-mine-as-lease-expiry-looms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:18:00.000Z",
+      "summary": "Gold Fields Ghana Limited is planning a $7.5 billion investment in its Tarkwa Mine over the next two decades as it seeks to renew its mining leases, which expire in April 2027.",
+      "categories": [
+        "HP Business 2",
+        "Mining",
+        "National",
+        "Elliot Twum",
+        "Gold Fields"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -163,87 +279,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Parliament’s disability caucus congratulates Black Challenge on World Cup triumph",
-      "link": "https://ghanaiantimes.com.gh/parliaments-disability-caucus-congratulates-black-challenge-on-world-cup-triumph/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:23:21.000Z",
-      "summary": "The Parliamentary Caucus on Persons with Disabilities has congratulated Ghana’s Black Challenge team following their victory at the 2026 Amputee Football World Cup in Mexico. In a press…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "COLA demands compensation for victims of beach demolitions",
-      "link": "https://ghanaiantimes.com.gh/cola-demands-compensation-for-victims-of-beach-demolitions/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:20:17.000Z",
-      "summary": "The Coalition of La Associations (COLA) has demanded immediate and fair compensation for businesses and vendors affected by the demolition exercises at Laboma Beach Resort and La Pleasure…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Methodist Church demands accountability over alleged abuse of Obuasi students",
-      "link": "https://ghanaiantimes.com.gh/methodist-church-demands-accountability-over-alleged-abuse-of-obuasi-students/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:18:34.000Z",
-      "summary": "The Methodist Church Ghana has called for a thorough, independent and transparent investigation into allegations of sexual abuse involving about 19 female students of the Obuasi Senior High…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nursing, Midwifery Council inducts over 33,000 nurses, midwives",
-      "link": "https://ghanaiantimes.com.gh/nursing-midwifery-council-inducts-over-33000-nurses-midwives-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:17:15.000Z",
-      "summary": "The Nursing and Midwifery Council (N&MC) of Ghana has inducted the first batch of 33,698 newly qualified nurse assistants, nurses, midwives and post-basic specialist nurses in Accra. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Korean alumni associations hold joint general assembly in Accra",
-      "link": "https://ghanaiantimes.com.gh/korean-alumni-associations-hold-joint-general-assembly-in-accra/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:14:28.000Z",
-      "summary": "The Embassy of Korea, the Korea International Cooperation Agency (KOICA) and the Korea Foundation for International Healthcare (KOFIH) Alumni Associations in Ghana have held their 2026…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tayui calls for equal opportunities for women in oil and gas",
-      "link": "https://ghanaiantimes.com.gh/tayui-calls-for-equal-opportunities-for-women-in-oil-and-gas/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:12:08.000Z",
-      "summary": "Chief Executive Officer of Cybele Energy Limited, Beatrice Jones-Mensah Tayui, has called for greater opportunities for women in the oil and gas industry, saying access to funding remains a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US DFC commits $14.5bn to investments across Africa",
-      "link": "https://ghanaiantimes.com.gh/us-dfc-commits-14-5bn-to-investments-across-africa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T17:07:38.000Z",
-      "summary": "The United States International Development Finance Corporation (DFC) has reaffirmed its commitment to expanding investments across Africa, with more than US$14.5 billion in investment…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "President Mahama extends condolences to South Africa over Mlambo-Ngcuka's passing",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-extends-condolences-to-south-africa-over-mlambo-ngcukas-passing.html",
       "source": "Daily Graphic",
@@ -266,17 +301,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "IGP in high level engagements with Netherlands Police to strengthen policing partnerships",
-      "link": "https://ghanaiantimes.com.gh/igp-in-high-level-engagements-with-netherlands-police-to-strengthen-policing-partnerships/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-23T16:20:55.000Z",
-      "summary": "The Inspector General of Police (IGP), Mr. Christian Tetteh Yohuno, has led a delegation of senior officers of the Ghana Police Service in high level engagements with the Netherlands Police…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Education Ministry bans 'early' BECE writing: Offenders face 2-year exam suspension",
       "link": "https://www.graphic.com.gh/news/education/education-ministry-bans-early-bece-writing-offenders-face-2-year-exam-suspension.html",
       "source": "Daily Graphic",
@@ -295,28 +319,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Petroleum workers threaten nationwide strike over NPA Bill",
-      "link": "https://www.graphic.com.gh/news/general-news/petroleum-workers-threaten-nationwide-strike-over-npa-bill.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T11:17:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government announces GH¢10m seed funding for UniMAC",
-      "link": "https://www.graphic.com.gh/news/education/government-announces-ghc10m-seed-funding-for-unimac.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-23T11:01:37.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     }

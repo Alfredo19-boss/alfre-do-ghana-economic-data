@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T05:08:38.623Z",
+  "updated": "2026-11-24T08:24:39.337Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,83 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "Govt’s GHS85Bn Domestic Borrowing Target for 2027 Could Choke Private Sector Credit Recovery – Deloitte",
+      "link": "https://thehighstreetjournal.com/govts-ghs85bn-domestic-borrowing-target-for-2027-could-choke-private-sector-credit-recovery-deloitte/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T08:00:00.000Z",
+      "summary": "Deloitte warns Ghana’s planned GHS85 billion domestic borrowing in 2027 could crowd out private sector lending, reverse declining interest rates and undermine credit recovery, urging…"
+    },
+    {
+      "title": "US Pushes Mercury-Free Mining Technologies as Ghana Seeks Safer Gold Production",
+      "link": "https://thehighstreetjournal.com/us-pushes-mercury-free-mining-technologies-as-ghana-seeks-safer-gold-production/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T08:00:00.000Z",
+      "summary": "American experts are promoting commercially viable alternatives to mercury-based gold processing as Ghana seeks to reduce the environmental damage associated with small-scale mining."
+    },
+    {
+      "title": "South Africa advocates stronger trade and industrial ties with Ghana",
+      "link": "https://www.myjoyonline.com/south-africa-advocates-stronger-trade-and-industrial-ties-with-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T07:09:00.000Z",
+      "summary": "South Africa is seeking stronger trade and industrial ties with Ghana, calling for the removal of regulatory obstacles that make it difficult for businesses in both countries to access each…"
+    },
+    {
+      "title": "Fintech firms urged to develop financing solutions for informal businesses",
+      "link": "https://www.ghanabusinessnews.com/2026/11/24/fintech-firms-urged-to-develop-financing-solutions-for-informal-businesses/",
+      "source": "Ghana Business News",
+      "published": "2026-11-24T07:02:09.000Z",
+      "summary": "Mr Shaibu Haruna, Chief Executive Officer of Mobile Money Fintech Limited (MMFL), has urged fintech companies to develop financial products to improve access to credit for informal…"
+    },
+    {
+      "title": "NALAG calls for payment of end-of-service benefits from Consolidated Fund",
+      "link": "https://www.ghanabusinessnews.com/2026/11/24/nalag-calls-for-payment-of-end-of-service-benefits-from-consolidated-fund/",
+      "source": "Ghana Business News",
+      "published": "2026-11-24T06:47:36.000Z",
+      "summary": "The Ashanti Regional branch of the National Association of Local Authorities of Ghana (NALAG) has called on the Government to pay assembly members' end-of-service benefits from the…"
+    },
+    {
+      "title": "Ghana to establish garment factories in four regions, targeting 80,000 jobs",
+      "link": "https://www.myjoyonline.com/ghana-to-establish-garment-factories-in-four-regions-targeting-80000-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T06:47:00.000Z",
+      "summary": "The Minister of Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says the government is planning to establish garment factories in four regions, with the initiative expected to…"
+    },
+    {
+      "title": "Minister commends Newmont for $15m support to reclaim mining lands",
+      "link": "https://www.ghanabusinessnews.com/2026/11/24/minister-commends-newmont-for-15m-support-to-reclaim-mining-lands/",
+      "source": "Ghana Business News",
+      "published": "2026-11-24T06:41:20.000Z",
+      "summary": "Mr Yusif Sulemana, Deputy Minister for Lands and Natural Resources, has commended Newmont Ghana for committing $15 million to the government’s Tree for Life initiative to restore degraded…"
+    },
+    {
+      "title": "High Court Orders GRA, EOCO to Pay GH¢3.7m to Melcom Whistleblower",
+      "link": "https://thehighstreetjournal.com/high-court-orders-gra-eoco-to-pay-gh%c2%a23-7m-to-melcom-whistleblower/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T06:39:17.000Z",
+      "summary": "The High Court has ordered GRA and EOCO to pay a Melcom whistleblower GH¢3.75 million, affirming rewards for disclosures contributing to tax recoveries."
+    },
+    {
+      "title": "Banks poised to drive New Economy, says ADB MD",
+      "link": "https://www.myjoyonline.com/banks-poised-to-drive-new-economy-says-adb-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:37:00.000Z",
+      "summary": "The Managing Director of Agricultural Development Bank PLC (ADB), Edward Ato Sarpong, has highlighted the critical role of Ghana’s banking sector in driving the country’s new economy."
+    },
+    {
+      "title": "Gold Fields defends Ghana operations, says 74% of every dollar generated stays in country",
+      "link": "https://www.myjoyonline.com/gold-fields-defends-ghana-operations-says-74-of-every-dollar-generated-stays-in-country/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:26:00.000Z",
+      "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…"
+    },
+    {
+      "title": "Gold Fields eyes $7.5bn investment in Tarkwa Mine as lease expiry looms",
+      "link": "https://www.myjoyonline.com/gold-fields-eyes-7-5bn-investment-in-tarkwa-mine-as-lease-expiry-looms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T05:18:00.000Z",
+      "summary": "Gold Fields Ghana Limited is planning a $7.5 billion investment in its Tarkwa Mine over the next two decades as it seeks to renew its mining leases, which expire in April 2027."
+    },
+    {
       "title": "More Hours, Same Inefficiencies: The Challenge Facing Ghana’s 24-Hour Economy",
       "link": "https://thehighstreetjournal.com/more-hours-same-inefficiencies-the-challenge-facing-ghanas-24-hour-economy/",
       "source": "The High Street Journal",
@@ -29,7 +106,7 @@ window.GDC_NEWS = {
       "summary": "Ghana’s 24-Hour Economy can boost production and jobs, but success depends on higher productivity, fair worker compensation, efficient operations and measurable economic gains."
     },
     {
-      "title": "CSOs Question Gaps in Gov’t’s US$2.2bn Energy Investment Plan",
+      "title": "CSOs Question Gaps in Government’s US$2.2bn Energy Investment Plan",
       "link": "https://thehighstreetjournal.com/csos-question-gaps-in-govts-us2-2bn-energy-investment-plan/",
       "source": "The High Street Journal",
       "published": "2026-11-24T05:03:00.000Z",
@@ -286,6 +363,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T06:16:00.000Z",
       "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…"
+    },
+    {
+      "title": "Parliament’s Select Committee on Agriculture and Cocoa Affairs holds engagement on sustainable fisheries",
+      "link": "https://www.myjoyonline.com/parliaments-select-committee-on-agriculture-and-cocoa-affairs-holds-engagement-on-sustainable-fisheries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-23T06:02:00.000Z",
+      "summary": "Member of Parliament for Dome-Kwabenya, Elikplim Akurugu, participated in a four-day information-sharing engagement aimed at strengthening transparency, accountability and sustainability in…"
     },
     {
       "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
@@ -986,90 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T20:00:37.000Z",
       "summary": "The German Development Cooperation and Scania West Africa have joined hands to improve professional opportunities and employability of women in Ghana’s heavy transport sector with a…"
-    },
-    {
-      "title": "We will be heavy on compliance to achieve 2027 tax target – GRA Boss",
-      "link": "https://www.myjoyonline.com/we-will-be-heavy-on-compliance-to-achieve-2027-tax-target-gra-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:57:31.000Z",
-      "summary": "Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has revealed that the Authority plans to place greater emphasis on compliance to help achieve its tax…"
-    },
-    {
-      "title": "West Africa leans towards three-country plan for regional payment system, Liberia central bank chief says",
-      "link": "https://www.myjoyonline.com/west-africa-leans-towards-three-country-plan-for-regional-payment-system-liberia-central-bank-chief-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:30:39.000Z",
-      "summary": "West African central banks are leaning towards splitting the hosting of the region's planned payment and settlement system among three institutions so that no single economy dominates it…"
-    },
-    {
-      "title": "120,000 jobs from palm oil project within 2 years sounds unrealistic – Stephen Amoah",
-      "link": "https://www.myjoyonline.com/120000-jobs-from-palm-oil-project-within-2-years-sounds-unrealistic-stephen-amoah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T19:06:42.000Z",
-      "summary": "Member of Parliament for Nhyaieso and former Deputy Finance Minister, Dr Stephen Amoah, has questioned the government's claim that its palm oil project has created 120,000 jobs within two…"
-    },
-    {
-      "title": "Ghana Club 100 Expands Recognition as GIPA Introduces New Investment Awards",
-      "link": "https://thehighstreetjournal.com/ghana-club-100-expands-recognition-as-gipa-introduces-new-investment-awards/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T18:54:36.000Z",
-      "summary": "The Ghana Investment Promotion Authority (GIPA) is expanding the scope of its Ghana Club 100 programme with five new award categories aimed at recognising institutions and individuals…"
-    },
-    {
-      "title": "GSE Borehole Project to Improve Water Access for 1,350 pupils at Agbogba Schools",
-      "link": "https://thehighstreetjournal.com/gse-borehole-project-to-improve-water-access-for-1350-pupils-at-agbogba-schools/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T17:23:58.000Z",
-      "summary": "The Ghana Stock Exchange has provided a borehole for 1,350 pupils at Agbogba schools to improve water access, hygiene and sanitation."
-    },
-    {
-      "title": "“We can’t even make light soup” – Bryan Acheampong says Nkoko Nkitinkiti has failed",
-      "link": "https://www.myjoyonline.com/we-cant-even-make-light-soup-bryan-acheampong-says-nkoko-nkitinkiti-has-failed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T17:00:45.000Z",
-      "summary": "Former Agriculture Minister Bryan Acheampong has criticised the government’s flagship Nkoko Nkitinkiti poultry programme, saying its output after two years is too small to make a meaningful…"
-    },
-    {
-      "title": "Stakeholders Call for Stronger Cybersecurity Measures to Protect Ghana’s Digital Finance Ecosystem",
-      "link": "https://thehighstreetjournal.com/stakeholders-call-for-stronger-cybersecurity-measures-to-protect-ghanas-digital-finance-ecosystem/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T16:00:00.000Z",
-      "summary": "Stakeholders have called for stronger cybersecurity, regulatory oversight and consumer education to combat digital financial fraud, protect customer confidence and safeguard Ghana’s…"
-    },
-    {
-      "title": "CEMSE questions continued funding of fuel marking programme amid new quality assurance technologies",
-      "link": "https://www.myjoyonline.com/cemse-questions-continued-funding-of-fuel-marking-programme-amid-new-quality-assurance-technologies/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:51:30.000Z",
-      "summary": "The Center for Environmental Management and Sustainable Energy (CEMSE) has called on the National Petroleum Authority (NPA) to review the continued funding of Ghana’s fuel marking…"
-    },
-    {
-      "title": "Pure Lube wins 2026 GreenTech Innovation Challenge",
-      "link": "https://gna.org.gh/2026/11/pure-lube-wins-2026-greentech-innovation-challenge/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-19T15:26:00.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "GCB Bank backs 11th EMY Africa Awards, participates in pre-event gathering",
-      "link": "https://www.myjoyonline.com/gcb-bank-backs-11th-emy-africa-awards-participates-in-pre-event-gathering/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:23:44.000Z",
-      "summary": "GCB Bank has partnered the 11th edition of the EMY Africa Awards as part of efforts to recognise individuals whose contributions have influenced business, governance, entertainment and…"
-    },
-    {
-      "title": "ISSER Questions Public Spending Efficiency, Urges 2027 Budget to Prioritise Job Creation",
-      "link": "https://thehighstreetjournal.com/isser-questions-public-spending-efficiency-urges-2027-budget-to-prioritise-job-creation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-19T15:12:00.000Z",
-      "summary": "ISSER has urged government to improve public spending efficiency, strengthen procurement accountability and prioritise manufacturing, agriculture and agribusiness to deliver sustainable…"
-    },
-    {
-      "title": "Ghana’s mineral wealth: From extraction to local refining. The 2030 ambition",
-      "link": "https://www.myjoyonline.com/ghanas-mineral-wealth-from-extraction-to-local-refining-the-2030-ambition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T15:01:51.000Z",
-      "summary": "The manganese mine at Nsuta, in Ghana's Western Region, has been shipping ore since 1916. More than a century later, the rock still leaves the country the way it comes out of the ground…"
     }
   ]
 };
