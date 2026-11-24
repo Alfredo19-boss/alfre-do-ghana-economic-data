@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T13:59:39.133Z",
+  "updated": "2026-11-24T14:09:41.393Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "World Bank Pushes AI, Aid Transparency to Help Governments Track Development Funding",
+      "link": "https://thehighstreetjournal.com/world-bank-pushes-ai-aid-transparency/",
+      "source": "The High Street Journal",
+      "published": "2026-11-24T13:59:31.000Z",
+      "summary": "The bank says governments need better access to connected financing data showing how much donors commit and spend, which institutions receive the funds and where projects are implemented"
+    },
     {
       "title": "Ghana Reference Rate Could Fall Below 10% After BoG Rate Cut",
       "link": "https://thehighstreetjournal.com/ghana-reference-rate-could-fall-below-10-after-bog-rate-cut/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-20T05:03:00.000Z",
       "summary": "GEA says its support helped establish 29,000 businesses and create 45,814 jobs, while a new US Virgin Islands partnership seeks wider markets for Ghanaian MSMEs."
-    },
-    {
-      "title": "Can Ghana Keep its No-New-Taxes Pledge Without Cutting Promised Projects?",
-      "link": "https://thehighstreetjournal.com/can-ghana-keep-its-no-new-taxes-pledge-without-cutting-promised-projects/",
-      "source": "The High Street Journal",
-      "published": "2026-11-20T05:02:00.000Z",
-      "summary": "Ghana’s no-new-taxes pledge hinges on stronger revenue collection, reduced leakages, fair enforcement and disciplined spending to finance development without accumulating arrears or debt."
     }
   ]
 };
