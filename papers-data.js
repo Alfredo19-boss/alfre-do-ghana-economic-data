@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T11:05:08.952Z",
+  "updated": "2026-11-24T11:15:09.660Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Video: Dear Prez Mahama, where are the promised stadiums?",
+      "link": "https://www.myjoyonline.com/video-dear-prez-mahama-where-are-the-promised-stadiums/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:08:40.000Z",
+      "summary": "President Mahama promised Ghanaians ready funds to build new stadiums for the country as part of their manifesto message for the elections.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "President Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana considers ban on domestic worker recruitment to Iraq after assault on Ghanaian woman",
+      "link": "https://www.myjoyonline.com/ghana-considers-ban-on-domestic-worker-recruitment-to-iraq-after-assault-on-ghanaian-woman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T11:04:27.000Z",
+      "summary": "The Government of Ghana is considering imposing a moratorium on the recruitment of domestic workers to Iraq following the violent assault on Ghanaian national Stephanie Nkrumah by her…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Iraq"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana protests to Iraq over assault on domestic worker in viral video; Ablakwa gives survivor GH¢50,000, considers recruitment ban",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-protests-to-iraq-over-assault-on-domestic-worker-in-viral-video-ablakwa-gives-survivor-ghc50-000-considers-recruitment-ban.html",
@@ -122,35 +149,6 @@ window.GDC_PAPERS = {
         "CIB",
         "Dr. Ellen Ohene-Afoakwa",
         "FCIB"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
-      "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T08:38:50.000Z",
-      "summary": "Tullow Oil has reached an agreement with Government of Ghana to settle outstanding tax liabilities from two international arbitration cases, pending parliamentary approval.",
-      "categories": [
-        "Energy",
-        "National",
-        "Tullow Oil Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fred Bortey Kyeremeh writes: After the IMF, Ghana’s hardest test starts now",
-      "link": "https://www.myjoyonline.com/fred-bortey-kyeremeh-writes-after-the-imf-ghanas-hardest-test-starts-now/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T08:37:30.000Z",
-      "summary": "Ghana has stabilised faster than anyone expected. The 2027 Budget now turns from survival to jobs. History says this is exactly the moment the country tends to relapse. It does not have to…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "Fred Bortey Kyeremeh",
-        "Ghana",
-        "IMF"
       ],
       "site": "https://www.myjoyonline.com/"
     },
