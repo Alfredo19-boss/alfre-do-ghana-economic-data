@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T08:55:08.661Z",
+  "updated": "2026-11-24T09:05:09.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -177,6 +177,22 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "German President Steinmeier to open major German-African Business Summit in Accra today",
+      "link": "https://www.myjoyonline.com/german-president-steinmeier-to-open-major-german-african-business-summit-in-accra-today/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T07:46:00.000Z",
+      "summary": "German President Frank-Walter Steinmeier is expected to officially open the sixth German-African Business Summit (GABS 2026) today, alongside President John Dramani Mahama. The three-day…",
+      "categories": [
+        "Business",
+        "Comp. Business",
+        "Economy",
+        "HP Business 1",
+        "Frank-Walter Steinmeier",
+        "German-African Business Summit"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Domestic sockets not suitable for electric vehicle charging - Energy Commission",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-domestic-sockets-not-suitable-for-electric-vehicle-charging-energy-commission.html",
       "source": "Daily Graphic",
@@ -237,25 +253,6 @@ window.GDC_PAPERS = {
         "Elizabeth Ofosu-Adjare",
         "Ghana to establish garment factories",
         "Minister of Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kofi Adams pledges $10,000 bonus for each Black Challenge player after Amputee World Cup triumph",
-      "link": "https://www.myjoyonline.com/kofi-adams-pledges-10000-bonus-for-each-black-challenge-player-after-amputee-world-cup-triumph/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:51:29.000Z",
-      "summary": "Ghana defeated Morocco 1-0 in Sunday’s final to lift the trophy and become world champions, with an own goal in the second half proving decisive.",
-      "categories": [
-        "Football",
-        "HP News 10",
-        "HP Sports 2",
-        "National",
-        "News",
-        "2026 Amputee Football World Cup",
-        "Black Challenge",
-        "Kofi Adams",
-        "Ministry of Sports and Recreation"
       ],
       "site": "https://www.myjoyonline.com/"
     },

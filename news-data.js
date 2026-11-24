@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-24T08:54:38.673Z",
+  "updated": "2026-11-24T09:04:39.219Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
+      "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T09:01:22.000Z",
+      "summary": "Chartered Institute of Bankers, Ghana (CIB Ghana) has called for stronger professional and ethical standards across the banking industry as artificial intelligence (AI), virtual assets and…"
+    },
     {
       "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
       "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
@@ -41,6 +48,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T08:00:00.000Z",
       "summary": "American experts are promoting commercially viable alternatives to mercury-based gold processing as Ghana seeks to reduce the environmental damage associated with small-scale mining."
+    },
+    {
+      "title": "German President Steinmeier to open major German-African Business Summit in Accra today",
+      "link": "https://www.myjoyonline.com/german-president-steinmeier-to-open-major-german-african-business-summit-in-accra-today/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T07:46:00.000Z",
+      "summary": "German President Frank-Walter Steinmeier is expected to officially open the sixth German-African Business Summit (GABS 2026) today, alongside President John Dramani Mahama. The three-day…"
     },
     {
       "title": "South Africa advocates stronger trade and industrial ties with Ghana",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-19T20:26:51.000Z",
       "summary": "The number of African instant payment systems rated at the entry level of a continental inclusion ranking rose to 19 this year from 15, as new systems in Liberia, Burundi and Guinea went…"
-    },
-    {
-      "title": "Cross-border real-time VAT to generate at least GH¢2.5bn in first year, GRA projects",
-      "link": "https://www.myjoyonline.com/cross-border-real-time-vat-to-generate-at-least-gh%c2%a22-5bn-in-first-year-gra-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:22:02.000Z",
-      "summary": "The full implementation of the real-time Value Added Tax (VAT) system will begin in January next year, with the Ghana Revenue Authority (GRA) expecting to generate more than GH¢2.5 billion…"
-    },
-    {
-      "title": "BoG blacklists Cedi Trust, SikaPadi, 17 other loan apps over privacy violations",
-      "link": "https://www.myjoyonline.com/bog-blacklists-cedi-trust-sikapadi-17-other-loan-apps-over-privacy-violations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-19T20:06:12.000Z",
-      "summary": "The Bank of Ghana (BoG) has issued a public alert warning citizens against engaging with 19 digital credit applications operating in the country without the requisite licence or…"
     }
   ]
 };
