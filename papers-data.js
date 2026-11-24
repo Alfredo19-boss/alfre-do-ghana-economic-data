@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T21:56:51.833Z",
+  "updated": "2026-11-24T22:06:51.651Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,10 +21,38 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.myjoyonline.com/dr-congo-says-military-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:22:59.000Z",
+      "summary": "The Democratic Republic of Congo military says it is searching for one of its aircraft, after rebels said they had shot down a warplane in the east.",
+      "categories": [
+        "Africa",
+        "International",
+        "DR Congo",
+        "Military",
+        "Rebel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man jailed for 48 months for stabbing firefighter",
+      "link": "https://www.myjoyonline.com/man-jailed-for-48-months-for-stabbing-firefighter/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T21:22:00.000Z",
+      "summary": "The Achimota Circuit Court has sentenced a 21-year-old unemployed man to 48 months' imprisonment for stabbing a firefighter during a firefighting operation at Adjiringanor in Accra.",
+      "categories": [
+        "Crime",
+        "Achimota Circuit Court",
+        "Stabbing a friefighter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales’s Norfolk home",
       "link": "https://www.myjoyonline.com/two-arrested-on-suspicion-of-burglary-at-prince-and-princess-of-waless-norfolk-home-2/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T21:46:52.000Z",
+      "published": "2026-11-24T21:11:52.000Z",
       "summary": "Two men have been arrested on suspicion of burglary and trespass at the Prince and Princess of Wales's country home on the Sandringham estate, police say.",
       "categories": [
         "News",
@@ -104,34 +132,6 @@ window.GDC_PAPERS = {
         "Illegal mining",
         "Mahama",
         "Togbe Afede"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Your brain is exhausted from too many unfinished tasks. Five simple steps can help",
-      "link": "https://www.myjoyonline.com/your-brain-is-exhausted-from-too-many-unfinished-tasks-five-simple-steps-can-help/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:02:00.000Z",
-      "summary": "Finding it hard to switch off at the end of the working day? You may be suffering from the 'Zeigarnik effect'. These tips can help you let go.",
-      "categories": [
-        "Lifestyle",
-        "brain",
-        "Health"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Economic Fighters League questions Parliament’s 2027 budget demands amid public hardship",
-      "link": "https://www.myjoyonline.com/economic-fighters-league-questions-parliaments-2027-budget-demands-amid-public-hardship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T20:53:07.000Z",
-      "summary": "The Leader of the Economic Fighters League, Ernesto Yeboah, says the financial difficulties facing ordinary Ghanaians must be considered in assessing Parliament’s proposed budget allocation…",
-      "categories": [
-        "National",
-        "News",
-        "Ernesto Yeboah",
-        "Parliament",
-        "Public hardship"
       ],
       "site": "https://www.myjoyonline.com/"
     },
