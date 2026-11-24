@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T10:55:09.409Z",
+  "updated": "2026-11-24T11:05:08.952Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana protests to Iraq over assault on domestic worker in viral video; Ablakwa gives survivor GH¢50,000, considers recruitment ban",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-protests-to-iraq-over-assault-on-domestic-worker-in-viral-video-ablakwa-gives-survivor-ghc50-000-considers-recruitment-ban.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-24T10:56:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Rent Commissioner says UG SRC President isn’t fit for the role and must be removed",
+      "link": "https://www.myjoyonline.com/rent-commissioner-says-ug-src-president-isnt-fit-for-the-role-and-must-be-removed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T10:54:15.000Z",
+      "summary": "The Acting Rent Commissioner, Frederick Opoku, has urged University of Ghana students to remove their SRC President, Abraham Kofi Amudzegbe, from office, accusing him of mishandling the…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Top Story",
+        "Frederick Opoku",
+        "hostel fee dispute",
+        "UG SRC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "link": "https://www.myjoyonline.com/nato-chief-vows-defence-against-space-threat-after-russian-nuclear-satellite-reports/",
@@ -171,20 +199,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Akosua Brefowaa joins NPP parliamentary race in Anyaa-Sowutuom",
-      "link": "https://www.myjoyonline.com/akosua-brefowaa-joins-npp-parliamentary-race-in-anyaa-sowutuom/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T08:32:00.000Z",
-      "summary": "Legal practitioner, public health expert and businesswoman Akosua Brefowaa Owusu-Ansah has officially declared her intention to contest the New Patriotic Party (NPP) parliamentary primaries…",
-      "categories": [
-        "Politics",
-        "Akosua Brefowaa",
-        "Anyaa Sowutuom",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Minister directs MMDAs to beautify public spaces ahead of 70th Independence anniversary",
       "link": "https://ghanaiantimes.com.gh/minister-directs-mmdas-to-beautify-public-spaces-ahead-of-70th-independence-anniversary/",
       "source": "Ghanaian Times",
@@ -300,17 +314,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-customs-mobilises-ghc53-19bn-in-10-months.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T07:57:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Newmont’s Ahafo South 20th milestone should mark partnership standard - Lands Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-newmonts-ahafo-south-20th-milestone-should-mark-partnership-standard-lands-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T07:52:37.000Z",
       "summary": "",
       "categories": [
         "General News"
