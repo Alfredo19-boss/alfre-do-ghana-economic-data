@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T08:45:09.210Z",
+  "updated": "2026-11-24T08:55:08.661Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -70,6 +70,20 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Akosua Brefowaa joins NPP parliamentary race in Anyaa-Sowutuom",
+      "link": "https://www.myjoyonline.com/akosua-brefowaa-joins-npp-parliamentary-race-in-anyaa-sowutuom/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T08:32:00.000Z",
+      "summary": "Legal practitioner, public health expert and businesswoman Akosua Brefowaa Owusu-Ansah has officially declared her intention to contest the New Patriotic Party (NPP) parliamentary primaries…",
+      "categories": [
+        "Politics",
+        "Akosua Brefowaa",
+        "Anyaa Sowutuom",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Minister directs MMDAs to beautify public spaces ahead of 70th Independence anniversary",
@@ -242,20 +256,6 @@ window.GDC_PAPERS = {
         "Black Challenge",
         "Kofi Adams",
         "Ministry of Sports and Recreation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Banks poised to drive New Economy, says ADB MD",
-      "link": "https://www.myjoyonline.com/banks-poised-to-drive-new-economy-says-adb-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:37:00.000Z",
-      "summary": "The Managing Director of Agricultural Development Bank PLC (ADB), Edward Ato Sarpong, has highlighted the critical role of Ghana’s banking sector in driving the country’s new economy.",
-      "categories": [
-        "Banking and Finance",
-        "ADB",
-        "Edward Ato Sarpong",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
