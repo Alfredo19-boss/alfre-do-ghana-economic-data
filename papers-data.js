@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:12:51.507Z",
+  "updated": "2026-11-25T05:22:52.053Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,33 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NHIA CEO hails students’ brilliance as Afia Kobi Ampem Girls’ SHS triumphs in Middle Belt quiz competition",
+      "link": "https://www.myjoyonline.com/nhia-ceo-hails-students-brilliance-as-afia-kobi-ampem-girls-shs-triumphs-in-middle-belt-quiz-competition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:18:58.000Z",
+      "summary": "Afia Kobi Ampem Girls Senior High School has won the Middle Belt edition of the National Health Insurance Authority (NHIA) Inter-School Quiz Competition, cementing its place as one of the…",
+      "categories": [
+        "News",
+        "Afia Kobi",
+        "NHIA",
+        "Quiz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Newmont credits 99% Ghanaian workforce for Ahafo success, pledges deeper local leadership",
+      "link": "https://www.myjoyonline.com/newmont-credits-99-ghanaian-workforce-for-ahafo-success-pledges-deeper-local-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:12:05.000Z",
+      "summary": "Newmont Corporation has credited its predominantly Ghanaian workforce, which accounts for approximately 99 per cent of its more than 11,000 employees, with powering two decades of…",
+      "categories": [
+        "News",
+        "Gold",
+        "Newmont"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Sissala East MP Bataglia vows to fix Tumu Municipal Hospital",
       "link": "https://www.myjoyonline.com/sissala-east-mp-bataglia-vows-to-fix-tumu-municipal-hospital/",
       "source": "MyJoyOnline",
@@ -31,6 +58,20 @@ window.GDC_PAPERS = {
         "News",
         "Hospital",
         "Tumu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Madagascar backs Morocco’s autonomy plan for Western Sahara",
+      "link": "https://www.myjoyonline.com/madagascar-backs-moroccos-autonomy-plan-for-western-sahara/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:53:00.000Z",
+      "summary": "Madagascar has reaffirmed its support for Morocco’s territorial integrity and its proposed autonomy plan for Western Sahara, strengthening diplomatic ties between the two African nations.",
+      "categories": [
+        "Africa",
+        "Madagascar",
+        "Morocco",
+        "Western Sahara"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -88,47 +129,6 @@ window.GDC_PAPERS = {
         "Movies",
         "Nollywood",
         "Pete Edochie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UG, KNUST and UCC could secure new PhD programme approvals despite freeze – GTEC",
-      "link": "https://www.myjoyonline.com/ug-knust-and-ucc-could-secure-new-phd-programme-approvals-despite-freeze-gtec/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:18:02.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has indicated that some well-established universities could still secure approval for new PhD programmes despite a nationwide freeze on new…",
-      "categories": [
-        "Education",
-        "Ghana Tertiary Education Commission (GTEC)",
-        "KNUST",
-        "University of Cape Coast (UCC)",
-        "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "HIV infections could rise from historic lows starting next year, UN says",
-      "link": "https://www.myjoyonline.com/hiv-infections-could-rise-from-historic-lows-starting-next-year-un-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:52:00.000Z",
-      "summary": "The head of the UN agency for AIDS warned on Tuesday ‌that new HIV infections could begin rising from historic lows next year due to funding cuts and anti-rights campaigns, just as the…",
-      "categories": [
-        "Africa",
-        "HIV AIDS",
-        "United Nations (UN)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "5G mirage: Sam George blasts Akufo-Addo gov’t over zero signal two years after launch",
-      "link": "https://www.myjoyonline.com/5g-mirage-sam-george-blasts-akufo-addo-govt-over-zero-signal-two-years-after-launch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:45:32.000Z",
-      "summary": "Nearly two years after Ghana staged a high-profile launch of its fifth-generation (5G) mobile technology, consumers are still waiting to experience the service, the Minister for…",
-      "categories": [
-        "Technology",
-        "5G",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
