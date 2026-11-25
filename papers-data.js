@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T04:12:54.259Z",
+  "updated": "2026-11-25T04:22:51.682Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UG, KNUST and UCC could secure new PhD programme approvals despite freeze – GTEC",
+      "link": "https://www.myjoyonline.com/ug-knust-and-ucc-could-secure-new-phd-programme-approvals-despite-freeze-gtec/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:18:02.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has indicated that some well-established universities could still secure approval for new PhD programmes despite a nationwide freeze on new…",
+      "categories": [
+        "Education",
+        "Ghana Tertiary Education Commission (GTEC)",
+        "KNUST",
+        "University of Cape Coast (UCC)",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "HIV infections could rise from historic lows starting next year, UN says",
+      "link": "https://www.myjoyonline.com/hiv-infections-could-rise-from-historic-lows-starting-next-year-un-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:52:00.000Z",
+      "summary": "The head of the UN agency for AIDS warned on Tuesday ‌that new HIV infections could begin rising from historic lows next year due to funding cuts and anti-rights campaigns, just as the…",
+      "categories": [
+        "Africa",
+        "HIV AIDS",
+        "United Nations (UN)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "5G mirage: Sam George blasts Akufo-Addo gov’t over zero signal two years after launch",
       "link": "https://www.myjoyonline.com/5g-mirage-sam-george-blasts-akufo-addo-govt-over-zero-signal-two-years-after-launch/",
@@ -80,6 +108,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-25T03:31:56.000Z",
       "summary": "Ghana is expected to join the league of countries with operational 5G networks before the end of this year, with consumers expected to start accessing the service in early 2027.",
       "categories": [
+        "HP News 2",
         "Technology",
         "5G"
       ],
@@ -93,35 +122,9 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Tertiary Education Commission (GTEC) has assured tertiary institutions that its nationwide freeze on new PhD programmes will last no longer than a month.",
       "categories": [
         "Education",
+        "HP News 4",
         "Ghana Tertiary Education Commission (GTEC)",
         "Prof Augustine Ocloo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PhD Suspension: GTEC apologises for anxiety over freeze on new academic programmes",
-      "link": "https://www.myjoyonline.com/phd-suspension-gtec-apologises-for-anxiety-over-freeze-on-new-academic-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:10:00.000Z",
-      "summary": "The Deputy Director-General of the Ghana Tertiary Education Commission (GTEC), Prof. Augustine Ocloo, has apologised for the anxiety caused by the Commission’s directive freezing the…",
-      "categories": [
-        "Education",
-        "Ghana Tertiary Education Commission (GTEC)",
-        "Prof Augustine Ocloo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FDA targets WHO Listed Authority status as it marks 30th anniversary",
-      "link": "https://www.myjoyonline.com/fda-targets-who-listed-authority-status-as-it-marks-30th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:09:17.000Z",
-      "summary": "The Food and Drugs Authority (FDA) is working towards attaining World Health Organisation (WHO) Listed Authority status as part of efforts to strengthen Ghana’s position in global health…",
-      "categories": [
-        "National",
-        "FDA",
-        "listed authority",
-        "WHO"
       ],
       "site": "https://www.myjoyonline.com/"
     },
