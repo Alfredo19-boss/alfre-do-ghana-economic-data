@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:49:01.593Z",
+  "updated": "2026-11-25T17:58:59.678Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES to open teacher recruitment portal at 8pm; applications close December 2",
+      "link": "https://www.myjoyonline.com/ges-to-open-teacher-recruitment-portal-at-8pm-applications-close-december-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:50:43.000Z",
+      "summary": "The Ghana Education Service (GES) will open its teacher recruitment portal at 8:00 p.m. on Wednesday, November 25, 2026, inviting qualified graduates to apply for teaching positions across…",
+      "categories": [
+        "Education",
+        "National",
+        "Applications",
+        "GES",
+        "Teacher recruitment portal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nkoko Nkitinkiti: I took 59 poultry birds in protest, not to steal – Nadowli-Kaleo NPP Chairman",
       "link": "https://www.myjoyonline.com/nkoko-nkitinkiti-i-took-59-poultry-birds-in-protest-not-to-steal-nadowli-kaleo-npp-chairman/",
@@ -134,21 +149,6 @@ window.GDC_PAPERS = {
         "Nadowli-Kaleo",
         "Nkoko Nkitinkiti birds",
         "NPP Chairman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Food and Agriculture Ministry provides vehicles, motorcycles and GH¢1.6m for 42nd Farmers’ Day celebrations",
-      "link": "https://www.myjoyonline.com/food-and-agriculture-ministry-provides-vehicles-motorcycles-and-gh%c2%a21-6m-for-42nd-farmers-day-celebrations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:11:13.000Z",
-      "summary": "The Ministry of Food and Agriculture has presented 16 double-cabin pickup vehicles, 16 motorcycles and GH¢1.6 million to support the organisation of the 42nd National Farmers’ Day…",
-      "categories": [
-        "National",
-        "Farmers’ Day celebrations",
-        "Ministry of Food and Agriculture",
-        "Motorcycles",
-        "Vehicles"
       ],
       "site": "https://www.myjoyonline.com/"
     },
