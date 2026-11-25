@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T06:12:52.078Z",
+  "updated": "2026-11-25T06:32:53.128Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -127,6 +127,18 @@ window.GDC_PAPERS = {
         "Newmont"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SC to rule on Asamoah’s bid to quash GIIF SkyTrain Trial",
+      "link": "https://ghanaiantimes.com.gh/sc-to-rule-on-asamoahs-bid-to-quash-giif-skytrain-trial/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T00:57:00.000Z",
+      "summary": "THE Supreme Court is expected to rule on an application by former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Mr Solomon Asamoah, seeking to quash…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Busted! GTEC's audit catches public business school in Ghana offering admission for 'unaccredited' Public Health PhD programme",
@@ -272,18 +284,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-24T14:43:22.000Z",
       "summary": "The Presidency has directed all Ministers of State to ensure that Chief Executives of public institutions and state-owned enterprises who have attained the compulsory retirement age of 60…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Germany reaffirm strategic partnership",
-      "link": "https://ghanaiantimes.com.gh/ghana-germany-reaffirm-strategic-partnership/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T14:40:19.000Z",
-      "summary": "The Minister for Foreign Affairs, Hon. Samuel Okudzeto Ablakwa (MP), on Monday, November 23, 2026, received the Minister for Federal and European Affairs and Media of North…",
       "categories": [
         "Hot!",
         "News"
