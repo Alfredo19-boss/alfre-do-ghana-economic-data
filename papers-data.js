@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T04:22:51.682Z",
+  "updated": "2026-11-25T04:32:51.919Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Veteran actor Pete Edochie dies at 79",
+      "link": "https://www.myjoyonline.com/veteran-actor-pete-edochie-dies-at-79/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:25:02.000Z",
+      "summary": "Veteran Nigerian actor and broadcaster Chief Pete Edochie died at 79.",
+      "categories": [
+        "Africa",
+        "HP News 10",
+        "Movies",
+        "Nollywood",
+        "Pete Edochie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UG, KNUST and UCC could secure new PhD programme approvals despite freeze – GTEC",
       "link": "https://www.myjoyonline.com/ug-knust-and-ucc-could-secure-new-phd-programme-approvals-despite-freeze-gtec/",
@@ -111,20 +126,6 @@ window.GDC_PAPERS = {
         "HP News 2",
         "Technology",
         "5G"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTEC says nationwide freeze on new PhD programmes will not last beyond a month",
-      "link": "https://www.myjoyonline.com/gtec-says-nationwide-freeze-on-new-phd-programmes-will-not-last-beyond-a-month/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:29:00.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has assured tertiary institutions that its nationwide freeze on new PhD programmes will last no longer than a month.",
-      "categories": [
-        "Education",
-        "HP News 4",
-        "Ghana Tertiary Education Commission (GTEC)",
-        "Prof Augustine Ocloo"
       ],
       "site": "https://www.myjoyonline.com/"
     },
