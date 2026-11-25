@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:52:52.018Z",
+  "updated": "2026-11-25T06:12:52.078Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mamprugu Moagduri Assembly empowers 76 persons with disabilities, introduces ‘Differently Able’ label",
+      "link": "https://www.myjoyonline.com/mamprugu-moagduri-assembly-empowers-76-persons-with-disabilities-introduces-differently-able-label/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T06:08:51.000Z",
+      "summary": "The Mamprugu Moagduri District Assembly has empowered 76 persons living with disabilities with various items and financial support to improve their livelihoods, expand their businesses and…",
+      "categories": [
+        "News",
+        "able",
+        "Assembly",
+        "Disabilities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GTEC right to freeze PhD accreditations, but acted too late – Eduwatch",
       "link": "https://www.myjoyonline.com/gtec-right-to-freeze-phd-accreditations-but-acted-too-late-eduwatch/",
       "source": "MyJoyOnline",
@@ -28,6 +42,7 @@ window.GDC_PAPERS = {
       "summary": "The Executive Director of Africa Education Watch (Eduwatch), Kofi Asare, has endorsed the Ghana Tertiary Education Commission’s (GTEC) decision to suspend the processing of fresh…",
       "categories": [
         "Education",
+        "HP News 1",
         "News",
         "GTEC",
         "University"
@@ -67,7 +82,6 @@ window.GDC_PAPERS = {
       "summary": "Former Director-General of the Ghana Education Service (GES), Prof Kwasi Opoku Amankwah, has thrown his weight behind the decision by the Ghana Tertiary Education Commission (GTEC) to…",
       "categories": [
         "Education",
-        "HP News 1",
         "News",
         "GTEC",
         "PHD"
@@ -111,20 +125,6 @@ window.GDC_PAPERS = {
         "News",
         "Gold",
         "Newmont"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sissala East MP Bataglia vows to fix Tumu Municipal Hospital",
-      "link": "https://www.myjoyonline.com/sissala-east-mp-bataglia-vows-to-fix-tumu-municipal-hospital/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T05:06:21.000Z",
-      "summary": "It was not a rally. It was not a campaign stop. It was Sissala East asking, plainly, for what it needs to survive — and the people in power answering, live, with no place to hide. From…",
-      "categories": [
-        "Health",
-        "News",
-        "Hospital",
-        "Tumu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
