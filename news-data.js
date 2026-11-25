@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T18:28:31.202Z",
+  "updated": "2026-11-25T18:38:29.820Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -31,6 +31,13 @@ window.GDC_NEWS = {
     {
       "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
       "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:23:07.000Z",
+      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
+    },
+    {
+      "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
+      "link": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
       "source": "MyJoyOnline",
       "published": "2026-11-25T18:23:07.000Z",
       "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T12:00:32.000Z",
       "summary": "CERPA identifies six strengths and six weaknesses in the 2027 Budget, praising its industrialisation and employment ambitions while warning of execution gaps, inadequate household relief…"
-    },
-    {
-      "title": "2027 Budget & Citizens’ Wishlist: How the Budget Fared Against Public Expectations – CERPA’s Review",
-      "link": "https://thehighstreetjournal.com/2027-budget-citizens-wishlist-how-the-budget-fared-against-public-expectations-cerpas-review/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T11:30:03.000Z",
-      "summary": "CERPA's review finds the 2027 Budget addressed all 14 public expectations, with nine fully met, three partially addressed and two carrying caveats, but identifies gaps in household relief…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:29:02.031Z",
+  "updated": "2026-11-25T18:38:59.796Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
+      "link": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:23:07.000Z",
+      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…",
+      "categories": [
+        "Business",
+        "Economy",
+        "bus",
+        "GIHOC",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
       "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
@@ -141,21 +156,6 @@ window.GDC_PAPERS = {
         "Applications",
         "GES",
         "Teacher recruitment portal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkoko Nkitinkiti: I took 59 poultry birds in protest, not to steal – Nadowli-Kaleo NPP Chairman",
-      "link": "https://www.myjoyonline.com/nkoko-nkitinkiti-i-took-59-poultry-birds-in-protest-not-to-steal-nadowli-kaleo-npp-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:45:16.000Z",
-      "summary": "The New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo, Joseph Kontomah, has denied being arrested over the alleged theft of poultry birds under the government’s Nkoko…",
-      "categories": [
-        "Politics",
-        "Joseph Kontomah",
-        "Nadowli-Kaleo",
-        "Nkoko Nkitinkiti",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
