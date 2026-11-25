@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T18:18:31.328Z",
+  "updated": "2026-11-25T18:28:31.202Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MTN Ghana Turns Millions of Daily Phone Calls Into New Advertising Market With Audio Ads",
+      "link": "https://thehighstreetjournal.com/mtn-ghana-turns-millions-of-daily-phone-calls-into-new-advertising-market-with-audio-ads/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T18:27:00.000Z",
+      "summary": "MTN Ghana's Audio Ads platform creates a new advertising channel for businesses, monetising call connection time while rewarding subscribers and expanding opportunities in the country's…"
+    },
+    {
+      "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
+      "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:23:07.000Z",
+      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
+    },
     {
       "title": "GRA Seals 48 Phone Shops at Circle Over Tax Non-Compliance as 18 Settle Arrears",
       "link": "https://thehighstreetjournal.com/gra-seals-48-phone-shops-at-circle-over-tax-non-compliance-as-18-settle-arrears/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T11:30:03.000Z",
       "summary": "CERPA's review finds the 2027 Budget addressed all 14 public expectations, with nine fully met, three partially addressed and two carrying caveats, but identifies gaps in household relief…"
-    },
-    {
-      "title": "GEXPO 2026 Proves Ghana Can Meet Its Cosmetic Needs Locally—From Head to Toe",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-proves-ghana-can-meet-its-cosmetic-needs-locally-from-head-to-toe/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T10:30:49.000Z",
-      "summary": "GEXPO 2026 shows Ghana’s cosmetic needs, hair care, skin products, shea butter blends, soaps, and perfumes, can be met locally with high-standard products."
-    },
-    {
-      "title": "Steinmeier’s Ghana Visit Opens Door For Manufacturing Partnerships As Local Industry Struggles",
-      "link": "https://thehighstreetjournal.com/steinmeiers-ghana-visit-opens-door-for-manufacturing-partnerships-as-local-industry-struggles/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T09:30:07.000Z",
-      "summary": "Ghana could use stronger industrial ties with Germany to attract technology, investment and technical skills as local manufacturers struggle with production costs and limited capacity."
     }
   ]
 };

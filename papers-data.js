@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:19:01.876Z",
+  "updated": "2026-11-25T18:29:02.031Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
+      "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:23:07.000Z",
+      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…",
+      "categories": [
+        "Business",
+        "Economy",
+        "bus",
+        "GIHOC",
+        "West Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Civil servants and GES staff: Check your 2027 salary payment dates",
+      "link": "https://www.graphic.com.gh/news/general-news/civil-servants-and-ges-staff-check-your-2027-salary-payment-dates.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T18:19:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Who will shape the new global order? Africa, India and the global south gather in Cape Town",
       "link": "https://www.myjoyonline.com/who-will-shape-the-new-global-order-africa-india-and-the-global-south-gather-in-cape-town/",
@@ -134,21 +160,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Failure to address DACF inequalities could worsen poverty – Ghana Developing Communities Association",
-      "link": "https://www.myjoyonline.com/failure-to-address-dacf-inequalities-could-worsen-poverty-gdca/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:44:03.000Z",
-      "summary": "The Technical Advisor for Policy and Governance at the Ghana Developing Communities Association (GDCA), Evita Emma Dunee, has warned that failure to address inequalities in the…",
-      "categories": [
-        "National",
-        "News",
-        "DACF",
-        "Evita Emma Dunee",
-        "poverty"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "One dead, five soldiers injured in Circle Railway demolition clash",
       "link": "https://www.graphic.com.gh/news/general-news/one-dead-five-soldiers-injured-in-circle-railway-demolition-clash.html",
       "source": "Daily Graphic",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/devices-may-be-confiscated-kessbens-family-bans-bloggers-and-content-creators-from-funeral.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T14:07:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "SkyTrain trial to proceed as Supreme Court rules against former GIIF CEO Solomon Asamoah",
-      "link": "https://www.graphic.com.gh/news/general-news/skytrain-trial-to-proceed-as-supreme-court-rules-against-former-giif-ceo-solomon-asamoah.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T13:39:24.000Z",
       "summary": "",
       "categories": [
         "General News"
