@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:22:51.817Z",
+  "updated": "2026-11-25T07:32:52.447Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "OASL revenue hits GH¢405.3m, targets GH¢630m in 2027",
+      "link": "https://ghanaiantimes.com.gh/oasl-revenue-hits-gh%c2%a2405-3m-targets-gh%c2%a2630m-in-2027/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:28:40.000Z",
+      "summary": "THE Office of the Administrator of Stool Lands (OASL) has more than doubled its revenue mobilisation, collecting GH¢405.3 million as of September 2026, compared with GH¢189.5 million…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Make Ghana your African gateway – Pres Mahama urges German investors",
       "link": "https://ghanaiantimes.com.gh/make-ghana-your-african-gateway-pres-mahama-urges-german-investors/",
@@ -109,17 +121,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Protecting kayayei is a national responsibility",
-      "link": "https://ghanaiantimes.com.gh/protecting-kayayei-is-a-national-responsibility/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:43:20.000Z",
-      "summary": "THE sight of young women carrying heavy loads in markets and business districts across the country has become so familiar that many people hardly give it a second thought. Yet behind the…",
-      "categories": [
-        "Editorial"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -220,15 +221,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Stanbic-Asantehene Invitational Golf Tournament strengthens relationships and excellence through sport",
-      "link": "https://www.myjoyonline.com/stanbic-asantehene-invitational-golf-tournament-strengthens-relationships-and-excellence-through-sport/",
+      "title": "Adjei-Mensah Korsah questions government’s housing delivery, cites gaps in Saglemi and rent-to-own targets",
+      "link": "https://www.myjoyonline.com/adjei-mensah-korsah-questions-governments-housing-delivery-cites-gaps-in-saglemi-and-rent-to-own-targets/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T05:13:00.000Z",
-      "summary": "The 2026 Stanbic-Asantehene Invitational Golf Tournament brought together golfers, business leaders and distinguished guests at the Kumasi Royal Golf Club for two days of sporting…",
+      "published": "2026-11-25T05:18:00.000Z",
+      "summary": "Former Minister for Local Government and Rural Reorganisation, Martin Adjei-Mensah Korsah, has questioned the government's progress on housing commitments, arguing that the 2027 Budget…",
       "categories": [
         "National",
-        "Other Sports",
-        "Stanbic-Asantehene Invitational Golf Tournament"
+        "Adjei-Mensah Korsah",
+        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
