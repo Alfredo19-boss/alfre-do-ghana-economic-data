@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:14:00.853Z",
+  "updated": "2026-11-25T17:18:59.554Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nadowli-Kaleo NPP chairman denies stealing Nkoko Nkitinkiti birds, challenges Agric Minister’s account",
+      "link": "https://www.myjoyonline.com/nadowli-kaleo-npp-chairman-denies-stealing-nkoko-nkitinkiti-birds-challenges-agric-ministers-account/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:13:07.000Z",
+      "summary": "The New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo, Joseph Kontomah, has denied being arrested for stealing birds under the government's Nkoko Nkitinkiti programme…",
+      "categories": [
+        "National",
+        "Politics",
+        "Nadowli-Kaleo",
+        "Nkoko Nkitinkiti birds",
+        "NPP Chairman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Food and Agriculture Ministry provides vehicles, motorcycles and GH¢1.6m for 42nd Farmers’ Day celebrations",
       "link": "https://www.myjoyonline.com/food-and-agriculture-ministry-provides-vehicles-motorcycles-and-gh%c2%a21-6m-for-42nd-farmers-day-celebrations/",
@@ -123,20 +138,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bono East Police Command honours 3 fallen heroes on Memorial Day",
-      "link": "https://www.myjoyonline.com/bono-east-police-command-honours-3-fallen-heroes-on-memorial-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:29:22.000Z",
-      "summary": "The Bono East Regional Police Command has held a solemn ceremony to commemorate Police Memorial Day, posthumously honouring three officers who lost their lives in the line of duty.",
-      "categories": [
-        "Regional",
-        "3 fallen heroes",
-        "Bono East Police Command",
-        "Police Memorial Day"
       ],
       "site": "https://www.myjoyonline.com/"
     },

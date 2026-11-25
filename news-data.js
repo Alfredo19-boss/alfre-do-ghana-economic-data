@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T17:13:29.084Z",
+  "updated": "2026-11-25T17:18:28.760Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
+      "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:16:46.000Z",
+      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she…"
+    },
     {
       "title": "GH¢30.7m NSA hire-purchase funds diverted to company – Witness",
       "link": "https://www.ghanabusinessnews.com/2026/11/25/gh%c2%a230-7m-nsa-hire-purchase-funds-diverted-to-company-witness/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T08:30:35.000Z",
       "summary": "GEXPO 2026 enters its final day at Black Star Square, urging a Made-in-Ghana Christmas while regional exhibitors seek nationwide distributors before closing."
-    },
-    {
-      "title": "Gold Prices Tumble 3.51% In One Day As Market Sell-Off Puts Ghana’s Export Earnings In Focus",
-      "link": "https://thehighstreetjournal.com/gold-prices-tumble-3-51-in-one-day-as-market-sell-off-puts-ghanas-export-earnings-in-focus/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T05:05:00.000Z",
-      "summary": "Gold's sustained decline, driven by US interest rate expectations and dollar strength, raises concerns over Ghana's export earnings and growing dependence on the precious metal."
     }
   ]
 };
