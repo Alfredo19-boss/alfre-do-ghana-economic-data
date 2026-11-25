@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:58:59.505Z",
+  "updated": "2026-11-25T16:09:03.414Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "15 NPP-USA Chairs demand e-voting safeguards before elections",
+      "link": "https://www.graphic.com.gh/news/politics/15-npp-usa-chairs-demand-e-voting-safeguards-before-elections.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T16:01:47.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "GABS 2026 connects African start-ups with established businesses",
       "link": "https://www.myjoyonline.com/gabs-2026-connects-african-start-ups-with-established-businesses/",
@@ -275,17 +286,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/stool-land-revenue-hits-ghc405-3m-in-2026-more-than-doubling-2025-total.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T11:48:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "55% drop in police deaths: President Mahama says zero fatalities is the target",
-      "link": "https://www.graphic.com.gh/news/general-news/55-drop-in-police-deaths-president-mahama-says-zero-fatalities-is-the-target.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T11:26:25.000Z",
       "summary": "",
       "categories": [
         "General News"
