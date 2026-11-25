@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:12:52.334Z",
+  "updated": "2026-11-25T07:22:51.817Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Make Ghana your African gateway – Pres Mahama urges German investors",
+      "link": "https://ghanaiantimes.com.gh/make-ghana-your-african-gateway-pres-mahama-urges-german-investors/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:21:06.000Z",
+      "summary": "PRESIDENT John Dramani Mahama has invited German investors to make Ghana their strategic gateway to the African market, citing the country’s improving economic conditions and the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Wisconsin graduates 1,454 students",
+      "link": "https://ghanaiantimes.com.gh/wisconsin-graduates-1454-students/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:18:14.000Z",
+      "summary": "The President of Wisconsin International University College, Ghana, Dr Lawrence A. Kannae, has disclosed that the university’s annual graduate output has risen from fewer than 600 a decade…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ghana news We’ll protest assault on Ghanaian woman in Iraq - Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-well-protest-assault-on-ghanaian-woman-in-iraq-ablakwa.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T07:17:53.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Bolt urges drivers, riders to use safety features",
       "link": "https://ghanaiantimes.com.gh/bolt-urges-drivers-riders-to-use-safety-features/",
@@ -86,29 +120,6 @@ window.GDC_PAPERS = {
       "summary": "THE sight of young women carrying heavy loads in markets and business districts across the country has become so familiar that many people hardly give it a second thought. Yet behind the…",
       "categories": [
         "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Report bullying, intimidation, harassment… schoolchildren urged",
-      "link": "https://ghanaiantimes.com.gh/report-bullying-intimidation-harassment-schoolchildren-urged/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:41:47.000Z",
-      "summary": "SCHOOLCHILDREN have been urged to report acts of bullying, intimidation and harassment, as such conduct could go beyond childhood misbehaviour and constitute criminal offences. The…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana protests to Iraq over assault on Ghanaian domestic worker",
-      "link": "https://ghanaiantimes.com.gh/ghana-protests-to-iraq-over-assault-on-ghanaian-domestic-worker/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:36:29.000Z",
-      "summary": "THE Government has formally protested to Iraqi authorities over the assault of a Ghanaian domestic worker, Stephanie Nkrumah, by her employer, and demanded appropriate action against those…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -292,17 +303,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/tuc-warns-workers-against-outdated-ssnit-records.html",
       "source": "Daily Graphic",
       "published": "2026-11-24T13:54:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Premature WASSCE and BECE writing now attracts 2-year ban – GES",
-      "link": "https://www.graphic.com.gh/news/general-news/premature-wassce-and-bece-writing-now-attracts-2-year-ban---ges.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-24T13:31:27.000Z",
       "summary": "",
       "categories": [
         "General News"
