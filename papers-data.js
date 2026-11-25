@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T06:52:51.502Z",
+  "updated": "2026-11-25T07:02:51.884Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana targets diaspora capital to drive investment, create jobs",
+      "link": "https://ghanaiantimes.com.gh/ghana-targets-diaspora-capital-to-drive-investment-create-jobs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:00:56.000Z",
+      "summary": "GHANA has turned to its global diaspora for capital, skills and business partnerships to expand local industries and create jobs. The new drive to involve the global diaspora for capital…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Born without a visa, but required to have one to explore the world: The paradox of sovereignty, human mobility and global inequality",
+      "link": "https://ghanaiantimes.com.gh/born-without-a-visa-but-required-to-have-one-to-explore-the-world-the-paradox-of-sovereignty-human-mobility-and-global-inequality/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:58:31.000Z",
+      "summary": "I have often wondered why a human being needs permission, in the form of a visa, to travel to another part of the world. Why should someone who wishes to study, work, attend a conference…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana’s next energy challenge: Building a financially sustainable power sector",
       "link": "https://ghanaiantimes.com.gh/ghanas-next-energy-challenge-building-a-financially-sustainable-power-sector/",
@@ -230,30 +253,6 @@ window.GDC_PAPERS = {
         "Health"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Morocco protests CAS ruling, vows to appeal Senegal AFCON decision",
-      "link": "https://ghanaiantimes.com.gh/morocco-protests-cas-ruling-vows-to-appeal-senegal-afcon-decision/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T16:41:35.000Z",
-      "summary": "The Royal Moroccan Football Federation (FRMF) has reacted to the Court of Arbitration for Sport (CAS) ruling on the AFCON 2025 final, expressing surprise and protesting the decision. In an…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Star Honours: Four distinguished Ghanaians to be honoured at Rhythms On Da Runway",
-      "link": "https://ghanaiantimes.com.gh/black-star-honours-four-distinguished-ghanaians-to-be-honoured-at-rhythms-on-da-runway/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T16:38:52.000Z",
-      "summary": "Organisers of Rhythms On Da Runway will honour four distinguished Ghanaians for their remarkable contribution to the promotion and projection of the country. The honour, dubbed “Black Star…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "HFFG urges dedicated malaria budget line in 2027 spending plan",
