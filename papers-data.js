@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T16:59:03.450Z",
+  "updated": "2026-11-25T17:09:02.922Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,56 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana secures UN Tourism Executive Council Chairmanship for 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-secures-un-tourism-executive-council-chairmanship-for-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T17:07:05.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Photos: Headquarters of Women’s Development Bank",
+      "link": "https://www.myjoyonline.com/photos-headquarters-of-womens-development-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:03:38.000Z",
+      "summary": "The Women's Development Bank has commenced recruitment of its management and staff as the government steps up preparations to operationalise the institution by the end of March 2027.",
+      "categories": [
+        "Photo Story",
+        "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trabuom Queenmother raises alarm over teenage pregnancies, commissions new classroom block",
+      "link": "https://www.myjoyonline.com/trabuom-queenmother-raises-alarm-over-teenage-pregnancies-commissions-new-classroom-block/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:03:26.000Z",
+      "summary": "Queenmother of Trabuom, Nana Akua Nkrumah Adasa, has expressed concern over the rising cases of teenage pregnancy in the Atwima Kwanwoma District.",
+      "categories": [
+        "Regional",
+        "classroom block",
+        "teenage pregnancies",
+        "Trabuom Queenmother"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nana Konadu Yiadom I: A letter to my fellow Queen Mothers II",
+      "link": "https://www.myjoyonline.com/nana-konadu-yiadom-i-a-letter-to-my-fellow-queen-mothers-ii/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:01:40.000Z",
+      "summary": "Nananom, my sisters. I write this letter not as someone standing outside our institution looking in, but as one of us. I write as a woman freshly enstooled and still learning what this…",
+      "categories": [
+        "Opinion",
+        "Letter",
+        "Queen mothers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian award-winning artiste M Jay set to release single ‘Ngolo Kante’",
       "link": "https://www.myjoyonline.com/ghanaian-award-winning-artiste-m-jay-set-to-release-single-ngolo-kante/",
@@ -86,51 +136,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Abudu Fuseini Gbene",
         "Sissala West DCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PRESEC alumnus Dzomeku Calvin emerges UniMAC valedictorian with 3.99 CGPA",
-      "link": "https://www.myjoyonline.com/presec-alumnus-dzomeku-calvin-emerges-unimac-valedictorian-with-3-99-cgpa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:11:40.000Z",
-      "summary": "A former student of Presbyterian Boys’ Senior High School (PRESEC-Legon), Dzomeku Calvin, has emerged valedictorian of the University of Media, Arts and Communication (UniMAC), graduating…",
-      "categories": [
-        "Education",
-        "Calvin Dzomeku",
-        "Presec",
-        "UNIMAC",
-        "Valedictorian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Raising multilingual children in Ghana: Why our languages are not a burden",
-      "link": "https://www.myjoyonline.com/raising-multilingual-children-in-ghana-why-our-languages-are-not-a-burden/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:09:54.000Z",
-      "summary": "I grew up learning Ga at home, English at school and Twi from the community, i.e., at church, among friends, at school. I did not grow up confused. I grew up connected to my family, my…",
-      "categories": [
-        "Opinion",
-        "Ghana",
-        "Languages",
-        "multilingual children"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Today’s children know their rights’ – Haruna Iddrisu backs ban on corporal punishment",
-      "link": "https://www.myjoyonline.com/todays-children-know-their-rights-haruna-iddrisu-backs-ban-on-corporal-punishment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:06:26.000Z",
-      "summary": "Education Minister Haruna Iddrisu has defended Ghana’s 2017 ban on corporal punishment in schools, saying children today are more aware of their rights and must be disciplined through…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "Children",
-        "Corporal Punishment",
-        "Haruna Iddrisu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -277,17 +282,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/police-to-get-60-more-armoured-vehicles-tasers-as-president-mahama-announces-new-protection-measures.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T12:14:43.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Stool Land revenue hits GH¢405.3m in 2026, more than doubling 2025 total",
-      "link": "https://www.graphic.com.gh/news/general-news/stool-land-revenue-hits-ghc405-3m-in-2026-more-than-doubling-2025-total.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T11:48:04.000Z",
       "summary": "",
       "categories": [
         "General News"
