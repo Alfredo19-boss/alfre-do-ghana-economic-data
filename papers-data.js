@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T16:09:03.414Z",
+  "updated": "2026-11-25T16:19:01.037Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PRESEC alumnus Dzomeku Calvin emerges UniMAC valedictorian with 3.99 CGPA",
+      "link": "https://www.myjoyonline.com/presec-alumnus-dzomeku-calvin-emerges-unimac-valedictorian-with-3-99-cgpa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:11:40.000Z",
+      "summary": "A former student of Presbyterian Boys’ Senior High School (PRESEC-Legon), Dzomeku Calvin, has emerged valedictorian of the University of Media, Arts and Communication (UniMAC), graduating…",
+      "categories": [
+        "Education",
+        "Calvin Dzomeku",
+        "Presec",
+        "UNIMAC",
+        "Valedictorian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Raising multilingual children in Ghana: Why our languages are not a burden",
+      "link": "https://www.myjoyonline.com/raising-multilingual-children-in-ghana-why-our-languages-are-not-a-burden/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:09:54.000Z",
+      "summary": "I grew up learning Ga at home, English at school and Twi from the community, i.e., at church, among friends, at school. I did not grow up confused. I grew up connected to my family, my…",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "Languages",
+        "multilingual children"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Today’s children know their rights’ – Haruna Iddrisu backs ban on corporal punishment",
+      "link": "https://www.myjoyonline.com/todays-children-know-their-rights-haruna-iddrisu-backs-ban-on-corporal-punishment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:06:26.000Z",
+      "summary": "Education Minister Haruna Iddrisu has defended Ghana’s 2017 ban on corporal punishment in schools, saying children today are more aware of their rights and must be disciplined through…",
+      "categories": [
+        "Education",
+        "National",
+        "Children",
+        "Corporal Punishment",
+        "Haruna Iddrisu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "15 NPP-USA Chairs demand e-voting safeguards before elections",
       "link": "https://www.graphic.com.gh/news/politics/15-npp-usa-chairs-demand-e-voting-safeguards-before-elections.html",
@@ -95,51 +139,6 @@ window.GDC_PAPERS = {
         "News",
         "Anthonio Asinyo",
         "National Democratic Congress"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama, IGP join NACOC to honour fallen police officers at Memorial Day ceremony",
-      "link": "https://www.myjoyonline.com/mahama-igp-join-nacoc-to-honour-fallen-police-officers-at-memorial-day-ceremony/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:32:00.000Z",
-      "summary": "President John Mahama and Inspector-General of Police (IGP) Christian Tetteh Yohuno joined officials of the Narcotics Control Commission (NACOC) to honour nine police officers who died in…",
-      "categories": [
-        "National",
-        "fallen police officers",
-        "Memorial Day ceremony",
-        "Narcotics Control Commission"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sierra Leonean mayor backs ECOWAS single currency, calls for easier cross-border trade",
-      "link": "https://www.myjoyonline.com/sierra-leonean-mayor-backs-ecowas-single-currency-calls-for-easier-cross-border-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:31:36.000Z",
-      "summary": "Sierra Leon's Freetown Mayor Yvonne Aki-Sawyerr has backed efforts towards introducing a common currency within the Economic Community of West African States (ECOWAS), arguing that it could…",
-      "categories": [
-        "Africa",
-        "National",
-        "Eco currency",
-        "ECOWAS",
-        "Sierra Leon",
-        "West Africa",
-        "Yvonne Aki-Sawyerr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Sierra Leone’s Aki-Sawyerr calls for stronger African market integration to boost intra-African trade",
-      "link": "https://www.myjoyonline.com/gabs-2026-sierra-leones-aki-sawyerr-calls-for-stronger-african-market-integration-to-boost-intra-african-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:28:45.000Z",
-      "summary": "Freetown Mayor of Sierra Leon, Yvonne Aki-Sawyerr, is calling for stronger integration of African markets to facilitate trade among countries and unlock the continent's economic potential.",
-      "categories": [
-        "Africa",
-        "National",
-        "GABS 2026",
-        "Yvonne Aki-Sawyerr"
       ],
       "site": "https://www.myjoyonline.com/"
     },
