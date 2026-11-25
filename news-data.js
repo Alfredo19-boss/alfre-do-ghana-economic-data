@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T08:57:21.251Z",
+  "updated": "2026-11-25T13:53:30.745Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,76 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "French Ambassador praises Ghana’s economic progress",
+      "link": "https://www.myjoyonline.com/french-ambassador-praises-ghanas-economic-progress/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T13:27:37.000Z",
+      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has commended the country’s economic progress, congratulating Finance Minister Dr Cassiel Ato Forson on the economy’s performance. The…"
+    },
+    {
+      "title": "2027 Budget: Chamber of Agribusiness Raises 8 Key Agric-Related Issues for Parliamentary Scrutiny",
+      "link": "https://thehighstreetjournal.com/2027-budget-chamber-of-agribusiness-raises-8-key-agric-related-issues-for-parliamentary-scrutiny/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T13:15:25.000Z",
+      "summary": "The Chamber of Agribusiness Ghana has urged Parliament to scrutinise eight critical gaps in the 2027 agricultural budget, warning that unclear funding, irrigation cuts, climate preparedness…"
+    },
+    {
+      "title": "Women’s Development Bank begins recruitment ahead of March 2027 take-off",
+      "link": "https://www.myjoyonline.com/womens-development-bank-begins-recruitment-ahead-of-march-2027-take-off/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T13:11:43.000Z",
+      "summary": "The Women's Development Bank has commenced recruitment of its management and staff as the government steps up preparations to operationalise the institution by the end of March 2027…"
+    },
+    {
+      "title": "Ga Mantse Pushes Financial Institutions To Invest In Underserved Communities",
+      "link": "https://thehighstreetjournal.com/ga-mantse-pushes-financial-institutions-to-invest-in-underserved-communities/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T12:45:00.000Z",
+      "summary": "The Ga Mantse has urged Opportunity International to expand targeted financing for underserved groups, support local employment and strengthen economic opportunities for vulnerable…"
+    },
+    {
+      "title": "AI cannot fix Ghana’s weather forecasting gaps without reliable data – SIGA boss",
+      "link": "https://www.myjoyonline.com/ai-cannot-fix-ghanas-weather-forecasting-gaps-without-reliable-data-siga-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T12:10:17.000Z",
+      "summary": "Ghana's growing reliance on artificial intelligence (AI) in weather forecasting will not deliver accurate predictions without reliable observation systems and quality data, Director-General…"
+    },
+    {
+      "title": "Motorists Could Get Early Christmas Fuel Relief as StarOil Urges NPA to Cut Price Floor Ahead of Time",
+      "link": "https://thehighstreetjournal.com/motorists-could-get-early-christmas-fuel-relief-as-staroil-urges-npa-to-cut-price-floor-ahead-of-time/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T12:02:00.000Z",
+      "summary": "StarOil Ghana is urging the NPA to lower the GH¢13.69 petrol price floor before December 1, potentially enabling cheaper fuel and offering motorists, households and businesses additional…"
+    },
+    {
+      "title": "Redundancy Packages in Ghana: What Does the Law Require Employers to Pay Affected Workers?",
+      "link": "https://thehighstreetjournal.com/redundancy-packages-in-ghana-what-does-the-law-require-employers-to-pay-affected-workers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T11:57:46.000Z",
+      "summary": "When businesses restructure, merge, introduce new technology, or experience financial difficulties, one of the consequences may be the loss of jobs. For affected workers, the immediate…"
+    },
+    {
+      "title": "Ghana’s Jubilee crude gains as shipping costs fall and Chinese demand picks up",
+      "link": "https://www.myjoyonline.com/ghanas-jubilee-crude-gains-as-shipping-costs-fall-and-chinese-demand-picks-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T11:18:43.000Z",
+      "summary": "Ghana’s Jubilee crude regained ground as lower tanker rates made West African supplies more competitive in Asia and Chinese refiners showed renewed buying interest, according to Argus…"
+    },
+    {
+      "title": "ORE Group wins Residential Property Development Company of the Year as it advances Accra’s first ocean-view tower",
+      "link": "https://www.myjoyonline.com/ore-group-wins-residential-property-development-company-of-the-year-as-it-advances-accras-first-ocean-view-tower/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T09:35:19.000Z",
+      "summary": "Oriental Royal Estates Group has been named Residential Property Development Company of the Year at the 2026 National Customers' Choice Awards Ghana, capping a defining year of rapid…"
+    },
+    {
+      "title": "BoG urges financial institutions to invest in carbon markets",
+      "link": "https://www.myjoyonline.com/bog-urges-financial-institutions-to-invest-in-carbon-markets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T09:27:58.000Z",
+      "summary": "The Bank of Ghana (BoG) is urging financial institutions to deepen their investment in carbon markets to unlock new revenue opportunities, attract foreign capital and support Ghana’s green…"
+    },
     {
       "title": "The power of Africa",
       "link": "https://www.ghanabusinessnews.com/2026/11/25/the-power-of-africa/",
@@ -1000,76 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T04:41:58.000Z",
       "summary": "The Ministry of Tourism, Culture and Creative Arts says Christmas activities organised by churches and other institutions can strengthen Ghana’s appeal as a destination for visitors during…"
-    },
-    {
-      "title": "Jospong subsidiary partners Turkish firm to test shrimp-shell-based farm products in Ghana",
-      "link": "https://www.myjoyonline.com/jospong-subsidiary-partners-turkish-firm-to-test-shrimp-shell-based-farm-products-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T23:59:31.000Z",
-      "summary": "The African Agribusiness Consortium Limited (AAC), a subsidiary of the Jospong Group of Companies, has signed a memorandum of understanding with Türkiye-based ChitoGlobal Biotechnology to…"
-    },
-    {
-      "title": "Ghana Shippers Authority to tighten regulatory oversight of shipping industry in 2027",
-      "link": "https://www.myjoyonline.com/ghana-shippers-authority-to-tighten-regulatory-oversight-of-shipping-industry-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T21:12:58.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) says it will strengthen regulatory oversight and enforcement in 2027 to protect importers and exporters and address persistent challenges in the…"
-    },
-    {
-      "title": "Ghana’s Productivity Pains Are Not Reaching Workers’ Pockets, GSS Report Finds",
-      "link": "https://thehighstreetjournal.com/ghanas-productivity-pains-are-not-reaching-workers-pockets-gss-report-finds/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T16:00:00.000Z",
-      "summary": "Ghana’s labour productivity has increased 178% since 1991, but workers’ earnings remain below 2019 levels, highlighting the disconnect between economic output and wage growth."
-    },
-    {
-      "title": "GEXPO 2026 Revives Memories of Classic Trade Fairs as Calls Grow for Annual Exhibition",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-revives-memories-of-classic-trade-fairs-as-calls-grow-for-annual-exhibition/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T15:00:00.000Z",
-      "summary": "GEXPO 2026 revives Ghana’s trade exhibition culture, bringing together over 500 exhibitors and renewing calls for an annual platform to promote local products and businesses."
-    },
-    {
-      "title": "Land compensation disputes are delaying infrastructure projects, Ghana Institution of Surveyors warns",
-      "link": "https://www.myjoyonline.com/land-compensation-disputes-are-delaying-infrastructure-projects-ghana-institution-of-surveyors-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T14:28:21.000Z",
-      "summary": "President of the Ghana Institution of Surveyors (GhIS), Emmanuel Kofi Cobbold, has warned that failure to adequately compensate landowners whose properties are acquired for public projects…"
-    },
-    {
-      "title": "Deloitte Backs New Economy Programme, Flags Implementation Challenges",
-      "link": "https://thehighstreetjournal.com/deloitte-backs-new-economy-programme-flags-implementation-challenges/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T12:30:00.000Z",
-      "summary": "Deloitte backs Ghana’s US$10 billion New Economy Programme but warns that infrastructure, financing, coordination and implementation gaps could undermine its 2030 growth and job targets."
-    },
-    {
-      "title": "Compassion Business Challenge Backs 15 Young Entrepreneurs with Startup Grants",
-      "link": "https://thehighstreetjournal.com/compassion-business-challenge-backs-15-young-entrepreneurs-with-startup-grants/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T10:30:00.000Z",
-      "summary": "Fifteen young entrepreneurs receive GH¢210,000 in startup grants under the Compassion Business Challenge, alongside mentorship, training and business development support to strengthen their…"
-    },
-    {
-      "title": "Bold Flavors, Fine Craft, and High-Level Backing Energize GEXPO 2026 in Accra",
-      "link": "https://thehighstreetjournal.com/bold-flavors-fine-craft-and-high-level-backing-energize-gexpo-2026-in-accra/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T09:31:53.000Z",
-      "summary": "GEXPO 2026 showcases Ghanaian enterprise, from innovative cocoa products and local beverages to quality apparel, natural beauty products and contemporary crafts, attracting strong…"
-    },
-    {
-      "title": "Brisk Buying Expected at GEXPO as the Weekend Kicks In",
-      "link": "https://thehighstreetjournal.com/brisk-buying-expected-at-gexpo-as-the-weekend-kicks-in/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T09:20:39.000Z",
-      "summary": "GEXPO 2026 at Black Star Square—running until Sunday evening—evokes classic La Trade Fair and INDUTECH energy, showcasing international-standard Made-in-Ghana goods and inspiring…"
-    },
-    {
-      "title": "Beyond the Injunction: CLOGSAG’s Leadership Disputes and the Cost to Its Members",
-      "link": "https://thehighstreetjournal.com/beyond-the-injunction-clogsags-leadership-disputes-and-the-cost-to-its-members/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T08:00:00.000Z",
-      "summary": "CLOGSAG’s national congress has been halted by a court injunction for the second time in four years, raising concerns over recurring leadership disputes and internal governance."
     }
   ]
 };
