@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:58:58.640Z",
+  "updated": "2026-11-25T19:08:59.839Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Africa is importing financial regulations that weren’t designed for its reality",
+      "link": "https://www.myjoyonline.com/africa-is-importing-financial-regulations-that-werent-designed-for-its-reality/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:58:47.000Z",
+      "summary": "African fintech builders have spent the last decade engineering around the continent’s actual economic terrain: mobile money, informal retail, fragmented payment rails, and expensive…",
+      "categories": [
+        "Opinion",
+        "Africa",
+        "financial regulations",
+        "Fintech"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire guts building near Maker’s House Chapel hours after Timber Market blaze",
+      "link": "https://www.myjoyonline.com/fire-guts-building-near-makers-house-chapel-hours-after-timber-market-blaze/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:57:50.000Z",
+      "summary": "A building near Maker’s House Chapel International and the Ghana Atomic Energy Commission (GAEC) at Dome Pillar 2 has been gutted by fire, marking another reported fire incident in Accra on…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Fire",
+        "Maker's House"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama to hand over 3 newly acquired aircraft to Ghana Air Force",
       "link": "https://www.myjoyonline.com/mahama-to-hand-over-3-newly-acquired-aircraft-to-ghana-air-force/",
@@ -122,20 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Who will shape the new global order? Africa, India and the global south gather in Cape Town",
-      "link": "https://www.myjoyonline.com/who-will-shape-the-new-global-order-africa-india-and-the-global-south-gather-in-cape-town/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:15:53.000Z",
-      "summary": "As the old global order gives way to one not yet defined, the Thabo Mbeki Foundation and the Observer Research Foundation (ORF) will convene the fourth Cape Town Conversation on 23–24…",
-      "categories": [
-        "Opinion",
-        "Africa",
-        "Cape Town",
-        "India"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Education Ministry, MTN to launch hotline for reporting abuse in schools",
       "link": "https://www.graphic.com.gh/news/education/education-ministry-mtn-to-launch-hotline-for-reporting-abuse-in-schools.html",
       "source": "Daily Graphic",
@@ -145,20 +159,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sam George challenges GMet to improve forecast accuracy and rebuild public confidence",
-      "link": "https://www.myjoyonline.com/sam-george-challenges-gmet-to-improve-forecast-accuracy-and-rebuild-public-confidence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:14:41.000Z",
-      "summary": "Communications Minister Sam George has challenged the Ghana Meteorological Agency (GMet) to improve the accuracy of its weather forecasts and rebuild public confidence in its services…",
-      "categories": [
-        "National",
-        "Forecast",
-        "GMet",
-        "Sam George"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "One dead, five soldiers injured in Circle Railway demolition clash",

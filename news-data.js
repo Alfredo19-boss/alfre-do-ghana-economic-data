@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T18:58:27.758Z",
+  "updated": "2026-11-25T19:08:29.882Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana, UK Deepen Security Cooperation With New Cybercrime And Fraud Agreements",
+      "link": "https://thehighstreetjournal.com/ghana-uk-deepen-security-cooperation-with-new-cybercrime-and-fraud-agreements/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T19:00:00.000Z",
+      "summary": "Ghana and UK strengthen cross-border efforts as cybercrime losses rise and fraud networks expand."
+    },
     {
       "title": "Bolt urges shared responsibility for road safety, calls on drivers and passengers to use safety features",
       "link": "https://www.myjoyonline.com/bolt-urges-shared-responsibility-for-road-safety-calls-on-drivers-and-passengers-to-use-safety-features/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T14:55:11.000Z",
       "summary": "Newmont’s Ahafo South Mine has marked two decades of commercial gold production in Ghana, celebrating a 20-year partnership defined by over $6 billion in capital investments, more than $3…"
-    },
-    {
-      "title": "UNIDO Offers Feasibility Support for Ghana’s Afienya Industrial Park",
-      "link": "https://thehighstreetjournal.com/unido-offers-feasibility-support-to-ghana/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T14:36:46.000Z",
-      "summary": "The proposed studies are expected to guide infrastructure planning, investment decisions and the long-term sustainability of the project"
     }
   ]
 };
