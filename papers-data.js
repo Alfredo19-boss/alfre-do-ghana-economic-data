@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T01:36:53.063Z",
+  "updated": "2026-11-25T03:22:52.837Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,88 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "FDA targets WHO Listed Authority status as it marks 30th anniversary",
+      "link": "https://www.myjoyonline.com/fda-targets-who-listed-authority-status-as-it-marks-30th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:09:17.000Z",
+      "summary": "The Food and Drugs Authority (FDA) is working towards attaining World Health Organisation (WHO) Listed Authority status as part of efforts to strengthen Ghana’s position in global health…",
+      "categories": [
+        "National",
+        "FDA",
+        "listed authority",
+        "WHO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government assures Food and Drugs Authority of technical independence and support",
+      "link": "https://www.myjoyonline.com/government-assures-food-and-drugs-authority-of-technical-independence-and-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:03:11.000Z",
+      "summary": "The government has assured the Food and Drugs Authority (FDA) of its commitment to protecting the institution’s technical independence, saying its regulatory decisions must remain free from…",
+      "categories": [
+        "National",
+        "Food and Drugs Authority",
+        "technical independence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Years of investment at risk as GTEC freezes PhD programme accreditation – UTAG-UG",
+      "link": "https://www.myjoyonline.com/years-of-investment-at-risk-as-gtec-freezes-phd-programme-accreditation-utag-ug/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:33:00.000Z",
+      "summary": "Dr Jerry Joe Harrison argues that suspending accreditation for new PhD programmes could undermine universities' efforts to build local expertise, reduce dependence on foreign training, and…",
+      "categories": [
+        "Education",
+        "Ghana Tertiary Education Commission (GTEC)",
+        "UTAG-UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yoro red card overturned, but refs’ chief Webb backs decision",
+      "link": "https://www.myjoyonline.com/yoro-red-card-overturned-but-refs-chief-webb-backs-decision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:15:00.000Z",
+      "summary": "Manchester United defender Leny Yoro has had the red card shown to him at Anfield overturned by the Football Association - even though referees' chief Howard Webb has backed the decision to…",
+      "categories": [
+        "Football",
+        "News",
+        "Howard Webb",
+        "Leny Yoro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bayern hold ‘constructive’ talks over Musiala’s health",
+      "link": "https://www.myjoyonline.com/bayern-hold-constructive-talks-over-musialas-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:04:00.000Z",
+      "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and are not interested in the comments made regarding his contract, the club's sporting director Max Eberl insisted.",
+      "categories": [
+        "Football",
+        "Bayern Munich",
+        "Jamal Musiala"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Qualified but unemployed: who is responsible?",
+      "link": "https://www.myjoyonline.com/qualified-but-unemployed-who-is-responsible/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T01:37:09.000Z",
+      "summary": "According to the Ghana Statistical Service, unemployment among young people aged 15 to 35 averaged 21.9% during the first three quarters of 2025, compared with a national rate of 12.8%…",
+      "categories": [
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "GSS",
+        "Ministry of Employment",
+        "World Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Did the 2027 Budget pass the 5 tests?",
       "link": "https://www.myjoyonline.com/did-the-2027-budget-pass-the-5-tests/",
@@ -40,41 +122,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PhD scandal: GTEC catches public institution in accreditation breach",
-      "link": "https://www.myjoyonline.com/phd-scandal-gtec-catches-public-institution-in-accreditation-breach/",
+      "title": "From Ghanaian theatre rehearsals to Hollywood: Tandoh-Adote breaks new ground",
+      "link": "https://www.myjoyonline.com/from-ghanaian-theatre-rehearsals-to-hollywood-tandoh-adote-breaks-new-ground/",
       "source": "MyJoyOnline",
-      "published": "2026-11-24T23:34:40.000Z",
-      "summary": "A nationwide review of doctoral programmes has uncovered a public institution specialising in business that admitted students into a Doctor of Philosophy (PhD) programme in Public Health…",
+      "published": "2026-11-25T01:04:00.000Z",
+      "summary": "Ghanaian actor Andrew Tandoh-Adote is taking on a new challenge in international filmmaking, having secured an appointment as acting coach on The Neighbor, an upcoming thriller being…",
       "categories": [
-        "Education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP chairman arrested over alleged theft of Nkoko Nkitinkiti birds – Agric Minister claims",
-      "link": "https://www.myjoyonline.com/npp-chairman-arrested-over-alleged-theft-of-nkoko-nkitinkiti-birds-agric-minister-claims/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T22:49:00.000Z",
-      "summary": "The Minister of Food and Agriculture, Eric Opoku, has disclosed that the New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo was arrested over the alleged theft of birds…",
-      "categories": [
-        "News",
-        "Agric",
-        "Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bellingham stunner helps Real Madrid see off PSV",
-      "link": "https://www.myjoyonline.com/bellingham-stunner-helps-real-madrid-see-off-psv/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T22:27:58.000Z",
-      "summary": "Jude Bellingham came off the bench to score a stunning goal as Real Madrid came from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Bellingham",
-        "PSV",
-        "Real Madrid"
+        "Movies",
+        "Acting",
+        "Andrew Tandoh-Adote"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -88,64 +144,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Cherki rescues point for Man City against Napoli",
-      "link": "https://www.myjoyonline.com/cherki-rescues-point-for-man-city-against-napoli/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T22:17:29.000Z",
-      "summary": "Rayan Cherki rescued a late point but Manchester City's poor run of form continued as they were held to a draw at home in the Champions League by Napoli.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Cherki",
-        "Manchester City",
-        "Napoli"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "https://www.myjoyonline.com/nigerian-monarch-92-suspended-after-sexual-assault-claims/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T22:04:00.000Z",
-      "summary": "One of Nigeria's best-known monarchs, the Emir of Daura, has been suspended from all official engagements and travel following allegations of sexual assault by a Polish tourist.",
-      "categories": [
-        "Africa",
-        "International",
-        "Monarch",
-        "Nigeria",
-        "Sexual Assault"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.myjoyonline.com/us-attorney-general-dodges-questions-about-nvidia-investigation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:46:00.000Z",
-      "summary": "US Attorney General Todd Blanche has backed Nvidia as a \"good corporate citizen\" while refusing to comment on whether the AI chipmaker was under federal investigation.",
-      "categories": [
-        "International",
-        "Law",
-        "Nvidia",
-        "US",
-        "US Attorney"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.myjoyonline.com/huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:38:00.000Z",
-      "summary": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US, AP…",
-      "categories": [
-        "International",
-        "Technology",
-        "Huawei"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Budget cuts: Parliament may lose technical experts, Speaker Bagbin warns",
