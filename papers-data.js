@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:48:59.582Z",
+  "updated": "2026-11-25T18:58:58.640Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama to hand over 3 newly acquired aircraft to Ghana Air Force",
+      "link": "https://www.myjoyonline.com/mahama-to-hand-over-3-newly-acquired-aircraft-to-ghana-air-force/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:48:06.000Z",
+      "summary": "President John Mahama is expected to officially hand over three newly acquired aircraft to the Ghana Air Force at a ceremony at the Air Force Base in Accra on Thursday, November 26, 2026.",
+      "categories": [
+        "National",
+        "Ghana Air Force",
+        "New aircraft",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana wins bid to chair UN Tourism Executive Council for 2027",
       "link": "https://www.myjoyonline.com/ghana-wins-bid-to-chair-un-tourism-executive-council-for-2027/",
@@ -143,20 +157,6 @@ window.GDC_PAPERS = {
         "Forecast",
         "GMet",
         "Sam George"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana and South Africa seek stronger trade ties through standards harmonisation",
-      "link": "https://www.myjoyonline.com/ghana-and-south-africa-seek-stronger-trade-ties-through-standards-harmonisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:07:55.000Z",
-      "summary": "Ghana and South Africa are seeking to strengthen bilateral trade and investment relations, with both countries committing to address differences in product standards that continue to hinder…",
-      "categories": [
-        "National",
-        "Ghana",
-        "South Africa",
-        "stronger trade ties"
       ],
       "site": "https://www.myjoyonline.com/"
     },
