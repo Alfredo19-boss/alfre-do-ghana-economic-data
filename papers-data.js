@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T14:54:02.249Z",
+  "updated": "2026-11-25T15:03:31.205Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Germany can become Africa’s preferred business partner if it adapts to local needs – German Industry and Commerce in Ghana",
+      "link": "https://www.myjoyonline.com/germany-can-become-africas-preferred-business-partner-if-it-adapts-to-local-needs-german-industry-and-commerce-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:00:45.000Z",
+      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, says Germany can strengthen its position as a preferred business partner for African countries if its companies…",
+      "categories": [
+        "Africa",
+        "National",
+        "News",
+        "Africa trade",
+        "Dr Michael Blank",
+        "GABS 2026",
+        "Germany"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "link": "https://www.myjoyonline.com/third-of-young-brits-have-never-had-sex-but-many-are-sexting-and-watching-porn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:00:17.000Z",
+      "summary": "British people, particularly teens and young adults, are having less or no sex compared to past generations, but lots are watching porn and sexting, a major study reveals.",
+      "categories": [
+        "International",
+        "British",
+        "Sex",
+        "Young"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
       "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
@@ -111,38 +142,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "New Economy will depend on financing and implementation of 8 pillars – KPMG",
-      "link": "https://www.myjoyonline.com/new-economy-will-depend-on-financing-and-implementation-of-8-pillars-kpmg/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:02:57.000Z",
-      "summary": "According to the firm, the government should prioritise the conditions that allow these investments to deliver lasting benefits, while managing fiscal and execution risks.",
-      "categories": [
-        "News",
-        "Big Push",
-        "fiscal risks",
-        "GDP",
-        "KPMG",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Young people cannot uphold integrity when powerful individuals escape accountability – CDD-Ghana",
-      "link": "https://www.myjoyonline.com/young-people-cannot-uphold-integrity-when-powerful-individuals-escape-accountability-cdd-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:49:10.000Z",
-      "summary": "The Ghana Centre for Democratic Development (CDD-Ghana) has called for stronger accountability institutions, effective law enforcement and greater transparency in public financial…",
-      "categories": [
-        "National",
-        "News",
-        "CDD-Ghana",
-        "Dr Kojo Pumpuni Asante",
-        "Integrity",
-        "Young people"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "SkyTrain trial to proceed as Supreme Court rules against former GIIF CEO Solomon Asamoah",
