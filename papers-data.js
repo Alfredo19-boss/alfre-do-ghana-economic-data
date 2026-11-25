@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:29:01.485Z",
+  "updated": "2026-11-25T17:39:00.569Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Irregular DACF releases delay district development projects – GDCA",
+      "link": "https://www.myjoyonline.com/irregular-dacf-releases-delay-district-development-projects-gdca/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:30:31.000Z",
+      "summary": "The Technical Advisor for Policy and Governance at the Ghana Developing Communities Association (GDCA), Evita Emma Dunee, says irregularities and delays in the release of the District…",
+      "categories": [
+        "National",
+        "News",
+        "DACF",
+        "Evita Emma Dunee",
+        "GDCA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Afenyo-Markin questions presidential aircraft spending as teacher, nurse recruitment delays persist",
+      "link": "https://www.myjoyonline.com/afenyo-markin-questions-presidential-aircraft-spending-as-teacher-nurse-recruitment-delays-persist/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:29:36.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the government's priorities, criticising delays in recruiting teachers and nurses despite the acquisition of a presidential aircraft.",
+      "categories": [
+        "National",
+        "Politics",
+        "Presidential jet",
+        "Recruitment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority asks government to enforce Ghanaian-only retail trade restrictions after Suame clashes",
+      "link": "https://www.myjoyonline.com/minority-asks-government-to-enforce-ghanaian-only-retail-trade-restrictions-after-suame-clashes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:26:48.000Z",
+      "summary": "The Ministry of Food and Agriculture has presented 16 double-cabin pickup vehicles, 16 motorcycles and GH¢1.6 million to support the organisation of the 42nd National Farmers’ Day…",
+      "categories": [
+        "National",
+        "Ghanaian traders",
+        "Minority",
+        "retail trade law",
+        "Suame violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
       "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
@@ -101,48 +145,6 @@ window.GDC_PAPERS = {
         "classroom block",
         "teenage pregnancies",
         "Trabuom Queenmother"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Konadu Yiadom I: A letter to my fellow Queen Mothers II",
-      "link": "https://www.myjoyonline.com/nana-konadu-yiadom-i-a-letter-to-my-fellow-queen-mothers-ii/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:01:40.000Z",
-      "summary": "Nananom, my sisters. I write this letter not as someone standing outside our institution looking in, but as one of us. I write as a woman freshly enstooled and still learning what this…",
-      "categories": [
-        "Opinion",
-        "Letter",
-        "Queen mothers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian award-winning artiste M Jay set to release single ‘Ngolo Kante’",
-      "link": "https://www.myjoyonline.com/ghanaian-award-winning-artiste-m-jay-set-to-release-single-ngolo-kante/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:51:48.000Z",
-      "summary": "Ghanaian award-winning artiste M Jay is preparing to release a new single, 'Ngolo Kante!', a motivational Afrobeat-dancehall record built around perseverance, self-belief and staying…",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "M Jay",
-        "Ngolo Kante"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Multidimensional Poverty Index to inform next DACF formula – Local Gov’t Ministry",
-      "link": "https://www.myjoyonline.com/multidimensional-poverty-index-to-inform-next-dacf-formula-local-govt-ministry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:51:39.000Z",
-      "summary": "The Local Government Ministry says data from the Ghana Statistical Service’s Multidimensional Poverty Index will be considered in determining the next District Assemblies Common Fund (DACF)…",
-      "categories": [
-        "National",
-        "News",
-        "DACF formula",
-        "Multidimensional Poverty Index",
-        "Pln. Samuel Seth Passah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
