@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T03:32:51.945Z",
+  "updated": "2026-11-25T03:42:52.374Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama to launch 5G network before year-end – Sam George",
+      "link": "https://www.myjoyonline.com/mahama-to-launch-5g-network-before-year-end-sam-george/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:31:56.000Z",
+      "summary": "Ghana is expected to join the league of countries with operational 5G networks before the end of this year, with consumers expected to start accessing the service in early 2027.",
+      "categories": [
+        "Technology",
+        "5G"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "FDA targets WHO Listed Authority status as it marks 30th anniversary",
       "link": "https://www.myjoyonline.com/fda-targets-who-listed-authority-status-as-it-marks-30th-anniversary/",
@@ -111,19 +123,6 @@ window.GDC_PAPERS = {
         "News",
         "Howard Webb",
         "Leny Yoro"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bayern hold ‘constructive’ talks over Musiala’s health",
-      "link": "https://www.myjoyonline.com/bayern-hold-constructive-talks-over-musialas-health/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:04:00.000Z",
-      "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and are not interested in the comments made regarding his contract, the club's sporting director Max Eberl insisted.",
-      "categories": [
-        "Football",
-        "Bayern Munich",
-        "Jamal Musiala"
       ],
       "site": "https://www.myjoyonline.com/"
     },
