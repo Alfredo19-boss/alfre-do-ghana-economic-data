@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:18:59.554Z",
+  "updated": "2026-11-25T17:29:01.485Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
+      "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:16:46.000Z",
+      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Diarra Dimé-Labille",
+        "France’s Ambassador to Ghana",
+        "Ghana's economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Nadowli-Kaleo NPP chairman denies stealing Nkoko Nkitinkiti birds, challenges Agric Minister’s account",
       "link": "https://www.myjoyonline.com/nadowli-kaleo-npp-chairman-denies-stealing-nkoko-nkitinkiti-birds-challenges-agric-ministers-account/",
       "source": "MyJoyOnline",
       "published": "2026-11-25T17:13:07.000Z",
       "summary": "The New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo, Joseph Kontomah, has denied being arrested for stealing birds under the government's Nkoko Nkitinkiti programme…",
       "categories": [
+        "HP News 3",
         "National",
         "Politics",
         "Nadowli-Kaleo",
@@ -126,18 +143,6 @@ window.GDC_PAPERS = {
         "DACF formula",
         "Multidimensional Poverty Index",
         "Pln. Samuel Seth Passah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: A testament to Africa’s leadership, unity and resolve in the fight for climate justice",
-      "link": "https://www.myjoyonline.com/cop31-a-testament-to-africas-leadership-unity-and-resolve-in-the-fight-for-climate-justice/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:51:22.000Z",
-      "summary": "For a farmer battling worsening droughts and the coastal community threatened by rising seas, the outcomes of international climate negotiations carry consequences far beyond conference…",
-      "categories": [
-        "National",
-        "COP31"
       ],
       "site": "https://www.myjoyonline.com/"
     },
