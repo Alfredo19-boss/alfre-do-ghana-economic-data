@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:08:34.577Z",
+  "updated": "2026-11-25T15:19:02.027Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Language barriers, import duties hindering Africa’s trade potential – Sierra Leone Mayor",
+      "link": "https://www.myjoyonline.com/language-barriers-import-duties-hindering-africas-trade-potential-sierra-leone-mayor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:13:20.000Z",
+      "summary": "The mayor of Freetown in Sierra Leon, Yvonne Aki-Sawyerr, says language differences, import duties and divergent policies among African countries continue to hinder the continent's ability…",
+      "categories": [
+        "Africa",
+        "National",
+        "Sierra Leon",
+        "Yvonne Aki-Sawyerr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "PAG's Dr Kpikpi pledges to end food imports within four years",
       "link": "https://www.graphic.com.gh/news/politics/pags-dr-kpikpi-pledges-to-end-food-imports-within-four-years.html",
@@ -128,18 +142,6 @@ window.GDC_PAPERS = {
         "DACF allocations",
         "Ghana Developing Communities Association (GDCA)",
         "Philip Gmabi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sterling given suspended sentence for dangerous driving",
-      "link": "https://www.myjoyonline.com/sterling-given-suspended-sentence-for-dangerous-driving/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:24:50.000Z",
-      "summary": "The 31-year-old, from Berkshire, who later crashed into a metal gate during rush hour, gave no reaction as he was handed a 12-month jail term, suspended for 18 months, at Basingstoke…",
-      "categories": [
-        "Football",
-        "Raheem Sterling"
       ],
       "site": "https://www.myjoyonline.com/"
     },
