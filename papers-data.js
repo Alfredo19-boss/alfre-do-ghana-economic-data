@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:39:00.637Z",
+  "updated": "2026-11-25T15:49:00.628Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,60 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GABS 2026: Ghanaian skills and resources, German technology could drive industrial growth",
+      "link": "https://www.myjoyonline.com/gabs-2026-ghanaian-skills-and-resources-german-technology-could-drive-industrial-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:42:51.000Z",
+      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, says combining German technology and expertise with Ghanaian skills, local knowledge and natural resources could…",
+      "categories": [
+        "National",
+        "Germany",
+        "Ghana",
+        "resurces",
+        "Skills"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GABS 2026: German firms encouraged to establish local production facilities in Ghana",
+      "link": "https://www.myjoyonline.com/gabs-2026-german-firms-encouraged-to-establish-local-production-facilities-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:42:30.000Z",
+      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has called on German companies to establish local production facilities in Ghana to help reduce the country's…",
+      "categories": [
+        "National",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "German investors want predictable tax and regulatory environment in Ghana – Dr Blank",
+      "link": "https://www.myjoyonline.com/german-investors-want-predictable-tax-and-regulatory-environment-in-ghana-dr-blank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:39:56.000Z",
+      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has urged the government to reduce regulatory and tax-related uncertainties to make the country more attractive to…",
+      "categories": [
+        "National",
+        "Dr Michael Blank",
+        "GABS 2026",
+        "Trade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC deputy youth organiser aspirant Asinyo targets 2028 electoral gains with data-driven agenda",
+      "link": "https://www.myjoyonline.com/ndc-deputy-youth-organiser-aspirant-asinyo-targets-2028-electoral-gains-with-data-driven-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:37:25.000Z",
+      "summary": "National Democratic Congress (NDC) National Deputy Youth Organiser aspirant, Anthonio Edem Asinyo, has pledged to leverage his expertise and work with other party executives to consolidate…",
+      "categories": [
+        "News",
+        "Anthonio Asinyo",
+        "National Democratic Congress"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama, IGP join NACOC to honour fallen police officers at Memorial Day ceremony",
       "link": "https://www.myjoyonline.com/mahama-igp-join-nacoc-to-honour-fallen-police-officers-at-memorial-day-ceremony/",
@@ -81,22 +135,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "One person dead, five military personnel injured as Circle demolition turns violent – Regional Minister",
-      "link": "https://www.myjoyonline.com/one-person-dead-five-military-personnel-injured-as-circle-demolition-turns-violent-regional-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:20:27.000Z",
-      "summary": "Greater Accra Regional Minister Linda Obenewaa Akweley Ocloo has confirmed that one person has died after a clash between military personnel and some individuals during a demolition…",
-      "categories": [
-        "National",
-        "Regional",
-        "Top Story",
-        "Circle demolition",
-        "Linda Ocloo",
-        "Military personnel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Firefighters battle blaze at Accra Timber Market (VIDEO)",
       "link": "https://www.graphic.com.gh/news/general-news/firefighters-battle-blaze-at-accra-timber-market-video.html",
       "source": "Daily Graphic",
@@ -108,20 +146,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Language barriers, import duties hindering Africa’s trade potential – Sierra Leone Mayor",
-      "link": "https://www.myjoyonline.com/language-barriers-import-duties-hindering-africas-trade-potential-sierra-leone-mayor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:13:20.000Z",
-      "summary": "The mayor of Freetown in Sierra Leon, Yvonne Aki-Sawyerr, says language differences, import duties and divergent policies among African countries continue to hinder the continent's ability…",
-      "categories": [
-        "Africa",
-        "National",
-        "Sierra Leon",
-        "Yvonne Aki-Sawyerr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "PAG's Dr Kpikpi pledges to end food imports within four years",
       "link": "https://www.graphic.com.gh/news/politics/pags-dr-kpikpi-pledges-to-end-food-imports-within-four-years.html",
       "source": "Daily Graphic",
@@ -131,34 +155,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "German companies urged to combine local production with skills training in Ghana and Africa",
-      "link": "https://www.myjoyonline.com/german-companies-urged-to-combine-local-production-with-skills-training-in-ghana-and-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:04:31.000Z",
-      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has urged German companies seeking investment opportunities in Africa to prioritise skills development and training…",
-      "categories": [
-        "Africa",
-        "National",
-        "News",
-        "Dr Michael Blank",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GDCA calls for transparent DACF allocation, timely releases and accountability",
-      "link": "https://www.myjoyonline.com/gdca-calls-for-transparent-dacf-allocation-timely-releases-and-accountability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:01:46.000Z",
-      "summary": "The Ghana Developing Communities Association (GDCA) has called for greater transparency in the allocation and release of the District Assemblies Common Fund (DACF), alongside stronger…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana Developing Communities Association (GDCA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Devices may be confiscated': Kessben's family bans bloggers and content creators from funeral",

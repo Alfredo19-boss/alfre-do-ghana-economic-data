@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T15:38:29.211Z",
+  "updated": "2026-11-25T15:48:30.554Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GH¢30.7m NSA hire-purchase funds diverted to company – Witness",
+      "link": "https://www.ghanabusinessnews.com/2026/11/25/gh%c2%a230-7m-nsa-hire-purchase-funds-diverted-to-company-witness/",
+      "source": "Ghana Business News",
+      "published": "2026-11-25T15:42:20.000Z",
+      "summary": "A police investigator has told an Accra High Court that investigations into an alleged GH¢30.7 million National Service Authority (NSA) hire-purchase scheme, traced the funds through two…"
+    },
     {
       "title": "Chief urges government to strengthen power of traditional rulers",
       "link": "https://www.ghanabusinessnews.com/2026/11/25/chief-urges-government-to-strengthen-power-of-traditional-rulers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T05:05:00.000Z",
       "summary": "Gold's sustained decline, driven by US interest rate expectations and dollar strength, raises concerns over Ghana's export earnings and growing dependence on the precious metal."
-    },
-    {
-      "title": "Youth Unemployment Remains High Despite Improving Job Numbers in Ghana",
-      "link": "https://thehighstreetjournal.com/youth-unemployment-remains-high-despite-improving-job-numbers-in-ghana/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T05:03:00.000Z",
-      "summary": "Unemployment among people aged 15 to 24 stood at 32.4 per cent in 2025, more than twice the national average."
     }
   ]
 };
