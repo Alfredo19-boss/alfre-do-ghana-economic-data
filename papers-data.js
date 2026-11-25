@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T23:46:51.063Z",
+  "updated": "2026-11-24T23:56:51.864Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PhD scandal: GTEC catches public institution in accreditation breach",
+      "link": "https://www.myjoyonline.com/phd-scandal-gtec-catches-public-institution-in-accreditation-breach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-24T23:34:40.000Z",
+      "summary": "A nationwide review of doctoral programmes has uncovered a public institution specialising in business that admitted students into a Doctor of Philosophy (PhD) programme in Public Health…",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPP chairman arrested over alleged theft of Nkoko Nkitinkiti birds – Agric Minister claims",
       "link": "https://www.myjoyonline.com/npp-chairman-arrested-over-alleged-theft-of-nkoko-nkitinkiti-birds-agric-minister-claims/",
@@ -129,19 +140,6 @@ window.GDC_PAPERS = {
         "DR Congo",
         "Military",
         "Rebel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man jailed for 48 months for stabbing firefighter",
-      "link": "https://www.myjoyonline.com/man-jailed-for-48-months-for-stabbing-firefighter/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:22:00.000Z",
-      "summary": "The Achimota Circuit Court has sentenced a 21-year-old unemployed man to 48 months' imprisonment for stabbing a firefighter during a firefighting operation at Adjiringanor in Accra.",
-      "categories": [
-        "Crime",
-        "Achimota Circuit Court",
-        "Stabbing a friefighter"
       ],
       "site": "https://www.myjoyonline.com/"
     },
