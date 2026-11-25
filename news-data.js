@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T14:43:29.399Z",
+  "updated": "2026-11-25T14:48:31.024Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
+      "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:40:21.000Z",
+      "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…"
+    },
     {
       "title": "MTN awards GH¢300,000 to agritech firm to expand agricultural processing",
       "link": "https://www.myjoyonline.com/mtn-awards-gh%c2%a2300000-to-agritech-firm-to-expand-agricultural-processing/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T05:02:00.000Z",
       "summary": "The investiture ceremony of entrepreneur Mr Ernest Ofori Sarpong as the university’s first Chancellor has brought renewed attention to the commercial potential of Ghana’s creative…"
-    },
-    {
-      "title": "Custom for Customs: How Commissioner Aaron Kanor Is Rewriting the Revenue Story of GRA’s Customs Division",
-      "link": "https://thehighstreetjournal.com/custom-for-customs-how-commissioner-aaron-kanor-is-rewriting-the-revenue-story-of-gras-customs-division/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T05:01:00.000Z",
-      "summary": "Aaron Kanor’s appointment as a career Customs professional has strengthened revenue mobilisation, improved operational efficiency and boosted morale, reinforcing the case for specialist…"
     }
   ]
 };
