@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:09:00.173Z",
+  "updated": "2026-11-25T18:19:01.876Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,74 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Who will shape the new global order? Africa, India and the global south gather in Cape Town",
+      "link": "https://www.myjoyonline.com/who-will-shape-the-new-global-order-africa-india-and-the-global-south-gather-in-cape-town/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:15:53.000Z",
+      "summary": "As the old global order gives way to one not yet defined, the Thabo Mbeki Foundation and the Observer Research Foundation (ORF) will convene the fourth Cape Town Conversation on 23–24…",
+      "categories": [
+        "Opinion",
+        "Africa",
+        "Cape Town",
+        "India"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Ministry, MTN to launch hotline for reporting abuse in schools",
+      "link": "https://www.graphic.com.gh/news/education/education-ministry-mtn-to-launch-hotline-for-reporting-abuse-in-schools.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T18:15:00.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sam George challenges GMet to improve forecast accuracy and rebuild public confidence",
+      "link": "https://www.myjoyonline.com/sam-george-challenges-gmet-to-improve-forecast-accuracy-and-rebuild-public-confidence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:14:41.000Z",
+      "summary": "Communications Minister Sam George has challenged the Ghana Meteorological Agency (GMet) to improve the accuracy of its weather forecasts and rebuild public confidence in its services…",
+      "categories": [
+        "National",
+        "Forecast",
+        "GMet",
+        "Sam George"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana and South Africa seek stronger trade ties through standards harmonisation",
+      "link": "https://www.myjoyonline.com/ghana-and-south-africa-seek-stronger-trade-ties-through-standards-harmonisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:07:55.000Z",
+      "summary": "Ghana and South Africa are seeking to strengthen bilateral trade and investment relations, with both countries committing to address differences in product standards that continue to hinder…",
+      "categories": [
+        "National",
+        "Ghana",
+        "South Africa",
+        "stronger trade ties"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hohoe MP backs higher DACF allocation but calls for flexible spending guidelines",
+      "link": "https://www.myjoyonline.com/hohoe-mp-backs-higher-dacf-allocation-but-calls-for-flexible-spending-guidelines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:07:49.000Z",
+      "summary": "A Member of Parliament's Finance Committee and Hohoe MP Thomas Worlanyo Tsekpor, has backed calls for an increase in the District Assemblies Common Fund (DACF) allocation beyond the…",
+      "categories": [
+        "National",
+        "News",
+        "DACF allocation",
+        "Hohoe MP",
+        "Thomas Worlanyo Tsekpor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "DACF formula not cast in stone, subject to annual review – Prof. Lord Mensah",
       "link": "https://www.myjoyonline.com/dacf-formula-not-cast-in-stone-subject-to-annual-review-prof-lord-mensah/",
@@ -90,66 +158,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Irregular DACF releases delay district development projects – GDCA",
-      "link": "https://www.myjoyonline.com/irregular-dacf-releases-delay-district-development-projects-gdca/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:30:31.000Z",
-      "summary": "The Technical Advisor for Policy and Governance at the Ghana Developing Communities Association (GDCA), Evita Emma Dunee, says irregularities and delays in the release of the District…",
-      "categories": [
-        "National",
-        "News",
-        "DACF",
-        "Evita Emma Dunee",
-        "GDCA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afenyo-Markin questions presidential aircraft spending as teacher, nurse recruitment delays persist",
-      "link": "https://www.myjoyonline.com/afenyo-markin-questions-presidential-aircraft-spending-as-teacher-nurse-recruitment-delays-persist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:29:36.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the government's priorities, criticising delays in recruiting teachers and nurses despite the acquisition of a presidential aircraft.",
-      "categories": [
-        "National",
-        "Politics",
-        "Presidential jet",
-        "Recruitment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority asks government to enforce Ghanaian-only retail trade restrictions after Suame clashes",
-      "link": "https://www.myjoyonline.com/minority-asks-government-to-enforce-ghanaian-only-retail-trade-restrictions-after-suame-clashes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:26:48.000Z",
-      "summary": "The Ministry of Food and Agriculture has presented 16 double-cabin pickup vehicles, 16 motorcycles and GH¢1.6 million to support the organisation of the 42nd National Farmers’ Day…",
-      "categories": [
-        "National",
-        "Ghanaian traders",
-        "Minority",
-        "retail trade law",
-        "Suame violence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
-      "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:16:46.000Z",
-      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Diarra Dimé-Labille",
-        "France’s Ambassador to Ghana",
-        "Ghana's economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana secures UN Tourism Executive Council Chairmanship for 2027",
@@ -288,17 +296,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Government workers to receive November salaries on Friday",
-      "link": "https://www.graphic.com.gh/news/general-news/government-workers-to-receive-november-salaries-on-friday-after-cagd-delay.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T12:16:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Old Abuscodians inaugurate new executives",

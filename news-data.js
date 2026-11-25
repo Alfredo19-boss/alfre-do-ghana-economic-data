@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T18:08:30.217Z",
+  "updated": "2026-11-25T18:18:31.328Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -55,6 +55,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T14:40:21.000Z",
       "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…"
+    },
+    {
+      "title": "New Economy will depend on financing and implementation of 8 pillars – KPMG",
+      "link": "https://www.myjoyonline.com/new-economy-will-depend-on-financing-and-implementation-of-8-pillars-kpmg/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:02:57.000Z",
+      "summary": "According to the firm, the government should prioritise the conditions that allow these investments to deliver lasting benefits, while managing fiscal and execution risks."
     },
     {
       "title": "MTN awards GH¢300,000 to agritech firm to expand agricultural processing",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T09:30:07.000Z",
       "summary": "Ghana could use stronger industrial ties with Germany to attract technology, investment and technical skills as local manufacturers struggle with production costs and limited capacity."
-    },
-    {
-      "title": "Copyright now foundation of modern global economy – Bonsu",
-      "link": "https://www.ghanabusinessnews.com/2026/11/22/copyright-now-foundation-of-modern-global-economy-bonsu/",
-      "source": "Ghana Business News",
-      "published": "2026-11-22T09:25:16.000Z",
-      "summary": "Mr William Akwetey Bonsu, the Head and Administrator of the Ghana Copyright Office, has urged law students to recognize copyright law as a foundational pillar of the modern global economy…"
     }
   ]
 };
