@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:19:02.027Z",
+  "updated": "2026-11-25T15:23:59.447Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One person dead, five military personnel injured as Circle demolition turns violent – Regional Minister",
+      "link": "https://www.myjoyonline.com/one-person-dead-five-military-personnel-injured-as-circle-demolition-turns-violent-regional-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:20:27.000Z",
+      "summary": "Greater Accra Regional Minister Linda Obenewaa Akweley Ocloo has confirmed that one person has died after a clash between military personnel and some individuals during a demolition…",
+      "categories": [
+        "National",
+        "Regional",
+        "Circle demolition",
+        "Linda Ocloo",
+        "Military personnel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Language barriers, import duties hindering Africa’s trade potential – Sierra Leone Mayor",
       "link": "https://www.myjoyonline.com/language-barriers-import-duties-hindering-africas-trade-potential-sierra-leone-mayor/",
@@ -128,20 +143,6 @@ window.GDC_PAPERS = {
         "Banking and Finance",
         "HP Business 5",
         "World Bank Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GDCA calls for reforms to Ghana’s DACF sharing formula to support poorer districts",
-      "link": "https://www.myjoyonline.com/gdca-calls-for-reforms-to-ghanas-dacf-sharing-formula-to-support-poorer-districts/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:37:28.000Z",
-      "summary": "The Ghana Developing Communities Association (GDCA) has called for reforms to the District Assemblies Common Fund (DACF) sharing formula to ensure poorer and more deprived districts receive…",
-      "categories": [
-        "News",
-        "DACF allocations",
-        "Ghana Developing Communities Association (GDCA)",
-        "Philip Gmabi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
