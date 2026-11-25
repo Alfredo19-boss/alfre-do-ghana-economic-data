@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:09:02.922Z",
+  "updated": "2026-11-25T17:14:00.853Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Food and Agriculture Ministry provides vehicles, motorcycles and GH¢1.6m for 42nd Farmers’ Day celebrations",
+      "link": "https://www.myjoyonline.com/food-and-agriculture-ministry-provides-vehicles-motorcycles-and-gh%c2%a21-6m-for-42nd-farmers-day-celebrations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:11:13.000Z",
+      "summary": "The Ministry of Food and Agriculture has presented 16 double-cabin pickup vehicles, 16 motorcycles and GH¢1.6 million to support the organisation of the 42nd National Farmers’ Day…",
+      "categories": [
+        "National",
+        "Farmers’ Day celebrations",
+        "Ministry of Food and Agriculture",
+        "Motorcycles",
+        "Vehicles"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana secures UN Tourism Executive Council Chairmanship for 2027",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-secures-un-tourism-executive-council-chairmanship-for-2027.html",
@@ -122,20 +137,6 @@ window.GDC_PAPERS = {
         "3 fallen heroes",
         "Bono East Police Command",
         "Police Memorial Day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sissala West residents demand roads, offices and mechanisation centre as DCE outlines 2027 plans",
-      "link": "https://www.myjoyonline.com/sissala-west-residents-demand-roads-offices-and-mechanisation-centre-as-dce-outlines-2027-plans/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T16:28:16.000Z",
-      "summary": "The District Chief Executive (DCE) for Sissala West, Abudu Fuseini Gbene, has accounted for funds received by the Assembly in 2025 and 2026 and outlined development plans for 2027 during a…",
-      "categories": [
-        "HP News 6",
-        "Regional",
-        "Abudu Fuseini Gbene",
-        "Sissala West DCE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
