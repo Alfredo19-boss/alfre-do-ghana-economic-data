@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:39:00.569Z",
+  "updated": "2026-11-25T17:49:01.593Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nkoko Nkitinkiti: I took 59 poultry birds in protest, not to steal – Nadowli-Kaleo NPP Chairman",
+      "link": "https://www.myjoyonline.com/nkoko-nkitinkiti-i-took-59-poultry-birds-in-protest-not-to-steal-nadowli-kaleo-npp-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:45:16.000Z",
+      "summary": "The New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo, Joseph Kontomah, has denied being arrested over the alleged theft of poultry birds under the government’s Nkoko…",
+      "categories": [
+        "Politics",
+        "Joseph Kontomah",
+        "Nadowli-Kaleo",
+        "Nkoko Nkitinkiti",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Failure to address DACF inequalities could worsen poverty – Ghana Developing Communities Association",
+      "link": "https://www.myjoyonline.com/failure-to-address-dacf-inequalities-could-worsen-poverty-gdca/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:44:03.000Z",
+      "summary": "The Technical Advisor for Policy and Governance at the Ghana Developing Communities Association (GDCA), Evita Emma Dunee, has warned that failure to address inequalities in the…",
+      "categories": [
+        "National",
+        "News",
+        "DACF",
+        "Evita Emma Dunee",
+        "poverty"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "One dead, five soldiers injured in Circle Railway demolition clash",
+      "link": "https://www.graphic.com.gh/news/general-news/one-dead-five-soldiers-injured-in-circle-railway-demolition-clash.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T17:39:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Irregular DACF releases delay district development projects – GDCA",
       "link": "https://www.myjoyonline.com/irregular-dacf-releases-delay-district-development-projects-gdca/",
@@ -121,32 +162,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Photos: Headquarters of Women’s Development Bank",
-      "link": "https://www.myjoyonline.com/photos-headquarters-of-womens-development-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:03:38.000Z",
-      "summary": "The Women's Development Bank has commenced recruitment of its management and staff as the government steps up preparations to operationalise the institution by the end of March 2027.",
-      "categories": [
-        "Photo Story",
-        "women's development bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trabuom Queenmother raises alarm over teenage pregnancies, commissions new classroom block",
-      "link": "https://www.myjoyonline.com/trabuom-queenmother-raises-alarm-over-teenage-pregnancies-commissions-new-classroom-block/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:03:26.000Z",
-      "summary": "Queenmother of Trabuom, Nana Akua Nkrumah Adasa, has expressed concern over the rising cases of teenage pregnancy in the Atwima Kwanwoma District.",
-      "categories": [
-        "Regional",
-        "classroom block",
-        "teenage pregnancies",
-        "Trabuom Queenmother"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "15 NPP-USA Chairs demand e-voting safeguards before elections",
@@ -280,17 +295,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/government-workers-to-receive-november-salaries-on-friday-after-cagd-delay.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T12:16:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police to get 60 more armoured vehicles, tasers as President Mahama announces new protection measures",
-      "link": "https://www.graphic.com.gh/news/general-news/police-to-get-60-more-armoured-vehicles-tasers-as-president-mahama-announces-new-protection-measures.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T12:14:43.000Z",
       "summary": "",
       "categories": [
         "General News"
