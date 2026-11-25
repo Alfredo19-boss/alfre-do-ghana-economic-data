@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:32:51.987Z",
+  "updated": "2026-11-25T05:42:51.514Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "“Water comes before roads”: PURC boss urges government to replicate Big Push agenda in water sector",
+      "link": "https://www.myjoyonline.com/water-comes-before-roads-purc-boss-urges-government-to-replicate-big-push-agenda-in-water-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:32:54.000Z",
+      "summary": "The Executive Secretary of the Public Utilities Regulatory Commission (PURC), Dr Shafic Suleman, has made an impassioned case for a major national investment in Ghana's water sector…",
+      "categories": [
+        "News",
+        "PURC",
+        "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘We need quality PhDs’ – Former GES boss backs GTEC freeze",
       "link": "https://www.myjoyonline.com/we-need-quality-phds-former-ges-boss-backs-gtec-freeze/",
       "source": "MyJoyOnline",
@@ -28,6 +41,7 @@ window.GDC_PAPERS = {
       "summary": "Former Director-General of the Ghana Education Service (GES), Prof Kwasi Opoku Amankwah, has thrown his weight behind the decision by the Ghana Tertiary Education Commission (GTEC) to…",
       "categories": [
         "Education",
+        "HP News 1",
         "News",
         "GTEC",
         "PHD"
@@ -45,6 +59,19 @@ window.GDC_PAPERS = {
         "Afia Kobi",
         "NHIA",
         "Quiz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stanbic-Asantehene Invitational Golf Tournament strengthens relationships and excellence through sport",
+      "link": "https://www.myjoyonline.com/stanbic-asantehene-invitational-golf-tournament-strengthens-relationships-and-excellence-through-sport/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:13:00.000Z",
+      "summary": "The 2026 Stanbic-Asantehene Invitational Golf Tournament brought together golfers, business leaders and distinguished guests at the Kumasi Royal Golf Club for two days of sporting…",
+      "categories": [
+        "National",
+        "Other Sports",
+        "Stanbic-Asantehene Invitational Golf Tournament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -101,33 +128,6 @@ window.GDC_PAPERS = {
         "Madagascar",
         "Morocco",
         "Western Sahara"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Farmers are crying, food is rotting – Annoh-Dompreh demands action",
-      "link": "https://www.myjoyonline.com/farmers-are-crying-food-is-rotting-annoh-dompreh-demands-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:44:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has raised alarm over the plight of Ghanaian farmers, warning that food is rotting on farms while producers struggle to find buyers for their harvest.",
-      "categories": [
-        "Politics",
-        "Farmers",
-        "Food",
-        "Frank Annoh-Dompreh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkrumah Circle phone dealer arrested over alleged GH¢1,000 MoMo bribe to GRA official",
-      "link": "https://www.myjoyonline.com/nkrumah-circle-phone-dealer-arrested-over-alleged-gh%c2%a21000-momo-bribe-to-gra-official/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:35:44.000Z",
-      "summary": "Police arrested a mobile phone dealer at Kwame Nkrumah Circle in Accra on Tuesday afternoon for allegedly attempting to bribe a Ghana Revenue Authority (GRA) official with GH¢1,000 via…",
-      "categories": [
-        "Crime",
-        "Bribery",
-        "Ghana Revenue Authority (GRA)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
