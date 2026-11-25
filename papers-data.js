@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:02:51.884Z",
+  "updated": "2026-11-25T07:12:52.334Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bolt urges drivers, riders to use safety features",
+      "link": "https://ghanaiantimes.com.gh/bolt-urges-drivers-riders-to-use-safety-features/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:06:26.000Z",
+      "summary": "RIDERS and drivers of the Bolt ride-hailing service have been urged to make effective use of the safety features on the app to protect themselves before, during and after trips. The Senior…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana targets diaspora capital to drive investment, create jobs",
       "link": "https://ghanaiantimes.com.gh/ghana-targets-diaspora-capital-to-drive-investment-create-jobs/",
@@ -208,18 +220,6 @@ window.GDC_PAPERS = {
         "Stanbic-Asantehene Invitational Golf Tournament"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SC to rule on Asamoah’s bid to quash GIIF SkyTrain Trial",
-      "link": "https://ghanaiantimes.com.gh/sc-to-rule-on-asamoahs-bid-to-quash-giif-skytrain-trial/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T00:57:00.000Z",
-      "summary": "THE Supreme Court is expected to rule on an application by former Chief Executive Officer of the Ghana Infrastructure Investment Fund (GIIF), Mr Solomon Asamoah, seeking to quash…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Busted! GTEC's audit catches public business school in Ghana offering admission for 'unaccredited' Public Health PhD programme",
