@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T19:38:29.829Z",
+  "updated": "2026-11-25T22:56:29.444Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,11 +22,60 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
+      "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T22:33:00.000Z",
+      "summary": "Shareholders of Produce Buying Company (PBC), Ghana’s largest licensed cocoa buying company, have approved a plan to raise GH¢300 million from the capital market to restructure the…"
+    },
+    {
+      "title": "SanlamAllianz ranked 40th in Ghana Club 100 – No. 1 General insurer in Ghana",
+      "link": "https://www.myjoyonline.com/sanlamallianz-ranked-40th-in-ghana-club-100-no-1-general-insurer-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T20:46:25.000Z",
+      "summary": "SanlamAllianz General Insurance Ghana has been ranked 40th among Ghana's top companies at the 22nd edition of the Ghana Club 100 Awards, organised by the Ghana Investment Promotion Centre…"
+    },
+    {
+      "title": "COCOBOD awaits committee report on expired fertiliser complaints before action",
+      "link": "https://www.myjoyonline.com/cocobod-awaits-committee-report-on-expired-fertiliser-complaints-before-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T20:27:35.000Z",
+      "summary": "the Ghana Cocoa Board (COCOBOD) says it will determine the next course of action over complaints of expired cocoa fertiliser in the Central Region after receiving a report from a committee…"
+    },
+    {
+      "title": "COCOBOD recalls potentially affected Natural Asontem fertiliser products in Central Region",
+      "link": "https://www.myjoyonline.com/cocobod-recalls-potentially-affected-natural-asontem-fertiliser-products-in-central-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T20:23:25.000Z",
+      "summary": "The Ghana Cocoa Board (COCOBOD) has initiated arrangements to recall potentially affected Natural Asontem liquid fertiliser products distributed to cocoa farmers in the Central Region…"
+    },
+    {
+      "title": "Bank of Ghana pushes alternative data lending to widen loan access",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-pushes-alternative-data-lending-to-widen-loan-access/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T20:00:10.000Z",
+      "summary": "The Bank of Ghana is pushing for the integration of alternative data into the country's credit system to help underserved individuals and small businesses access loans."
+    },
+    {
+      "title": "UBA Ghana Appoints Christian Mottey to Lead Retail Banking",
+      "link": "https://thehighstreetjournal.com/uba-ghana-appoints-christian-mottey-to-lead-retail-banking/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T19:58:37.000Z",
+      "summary": "UBA Ghana appoints banking veteran Christian Mottey to lead retail operations, boost deposits, expand consumer lending and strengthen customer relationships."
+    },
+    {
       "title": "Financial institutions urged to use alternative records, including Mobile Money, to boost financing for women farmers",
       "link": "https://www.myjoyonline.com/financial-institutions-urged-to-use-alternative-records-including-mobile-money-to-boost-financing-for-women-farmers/",
       "source": "MyJoyOnline",
       "published": "2026-11-25T19:35:26.000Z",
       "summary": "Women farmers could secure bank loans using their mobile money transaction records instead of relying on physical assets as collateral, as the Ghana Venture Capital and Private Equity…"
+    },
+    {
+      "title": "Maxbuy Goes Black with up to 60%",
+      "link": "https://www.myjoyonline.com/maxbuy-goes-black-with-up-to-60/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:27:09.000Z",
+      "summary": "Ghana’s leading electronics and home appliance retailer and the authorised dealer of Haier appliances, Maxbuy, is set to roll out the mega deals of its annual Black Friday campaign, “Maxbuy…"
     },
     {
       "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
@@ -1021,55 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T23:59:46.000Z",
       "summary": "According to the highlights, sustaining monthly Sinking Fund transfers (7% of non-oil tax revenue), lengthening the domestic maturity profile and keeping debt near the 45% of Gross Domestic…"
-    },
-    {
-      "title": "Capital per worker in Ghana slows to 1.0% per year, job quality lags – GSS",
-      "link": "https://www.myjoyonline.com/capital-per-worker-in-ghana-slows-to-1-0-per-year-job-quality-lags-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:26:44.000Z",
-      "summary": "Also, earnings are below output per worker. In 2025, the average worker produced GH₵15,197 in value added and earned GH₵9,388. In industry, output per worker was GH₵30,588 and earnings were…"
-    },
-    {
-      "title": "T-bills auction: Government records 16% undersubscription, but interest rates dip",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-but-interest-rates-dip/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T22:58:54.000Z",
-      "summary": "According to the Bank of Ghana auction results, the auction target was GH¢4.25 billion."
-    },
-    {
-      "title": "EFEDCOM calls for regional cyanide production to strengthen mining supply chains",
-      "link": "https://www.myjoyonline.com/efedcom-calls-for-regional-cyanide-production-to-strengthen-mining-supply-chains/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T18:22:34.000Z",
-      "summary": "The Executive Director of the ECOWAS Federation of Chambers of Mines (EFEDCOM), Ing. Dr Kenneth Ashigbey, has called on member Chambers to explore the establishment of a regional cyanide…"
-    },
-    {
-      "title": "GEXPO 2026 Puts Ghana’s Innovative Chocolate Flavours in the Spotlight",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-puts-ghanas-innovative-chocolate-flavours-in-the-spotlight/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T17:00:00.000Z",
-      "summary": "Chocolate infused with kelewele spices and chilli is among the unusual creations attracting visitors to the Ghana Expo (GEXPO) 2026 at the Black Star Square in Accra, as local producers…"
-    },
-    {
-      "title": "Ghana’s Fastest-Growing Sectors Create Few Jobs As Investment Slows",
-      "link": "https://thehighstreetjournal.com/ghanas-fastest-growing-sectors-create-few-jobs-as-investment-slows/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T16:38:18.000Z",
-      "summary": "Information and communication recorded annual productivity growth of 23 per cent but employed just 0.4 per cent of the workforce, exposing an imbalance in the economy."
-    },
-    {
-      "title": "CLGB calls for investment in energy, financing to meet 70% local gold refining target",
-      "link": "https://www.myjoyonline.com/clgb-calls-for-investment-in-energy-financing-to-meet-70-local-gold-refining-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:17:51.000Z",
-      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has called for increased investment in infrastructure, financing and formalisation of the artisanal and small-scale mining (ASM) sector to help…"
-    },
-    {
-      "title": "70% Local gold refining by 2027 : CLGB highlights key enablers",
-      "link": "https://www.myjoyonline.com/70-local-gold-refining-by-2027-clgb-highlights-key-enablers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T16:17:51.000Z",
-      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has underscored the importance of strategic investment in infrastructure, financing and sector formalisation to support Ghana’s ambition of…"
     }
   ]
 };

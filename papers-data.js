@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T19:38:59.570Z",
+  "updated": "2026-11-25T22:56:58.720Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,117 +21,131 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Financial institutions urged to use alternative records, including Mobile Money, to boost financing for women farmers",
-      "link": "https://www.myjoyonline.com/financial-institutions-urged-to-use-alternative-records-including-mobile-money-to-boost-financing-for-women-farmers/",
+      "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
+      "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T19:35:26.000Z",
-      "summary": "Women farmers could secure bank loans using their mobile money transaction records instead of relying on physical assets as collateral, as the Ghana Venture Capital and Private Equity…",
+      "published": "2026-11-25T22:33:00.000Z",
+      "summary": "Shareholders of Produce Buying Company (PBC), Ghana’s largest licensed cocoa buying company, have approved a plan to raise GH¢300 million from the capital market to restructure the…",
       "categories": [
-        "Agribusiness",
-        "Business",
+        "Economy",
         "National",
-        "Mobile Money",
-        "women farmers"
+        "Produce Buying Company (PBC)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Maxbuy Goes Black with up to 60%",
-      "link": "https://www.myjoyonline.com/maxbuy-goes-black-with-up-to-60/",
+      "title": "Ghana’s legal framework for energy transition: Is the Renewable Energy Act, 2011 (ACT 832), fit for the country’s net-zero ambitions?",
+      "link": "https://www.myjoyonline.com/ghanas-legal-framework-for-energy-transition-is-the-renewable-energy-act-2011-act-832-fit-for-the-countrys-net-zero-ambitions/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T19:27:09.000Z",
-      "summary": "Ghana’s leading electronics and home appliance retailer and the authorised dealer of Haier appliances, Maxbuy, is set to roll out the mega deals of its annual Black Friday campaign, “Maxbuy…",
+      "published": "2026-11-25T22:22:54.000Z",
+      "summary": "Ghana’s commitment to achieving net-zero emissions by 2060 presents significant opportunities and challenges for the country’s energy sector. However, the principal legislation governing…",
       "categories": [
-        "Lifestyle",
+        "Opinion",
+        "Energy transition",
+        "net zero",
+        "Renewable Energy Act"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Women lawyers have a big role in law reforms – Ayine",
+      "link": "https://www.myjoyonline.com/women-lawyers-have-a-big-role-in-law-reforms-ayine/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T22:22:00.000Z",
+      "summary": "Dr Dominic Akuritinga Ayine, Attorney General and Minister of Justice, expressed confidence that including women lawyers in law reform processes in Ghana and across Africa would accelerate…",
+      "categories": [
         "National",
-        "Wellbeing",
-        "Maxbuy"
+        "Dominic Akuritinga Ayine",
+        "Women lawyers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNFS blames cooking for Timber Market fire, warns traders against domestic activities",
-      "link": "https://www.myjoyonline.com/gnfs-blames-cooking-for-timber-market-fire-warns-traders-against-domestic-activities/",
+      "title": "Gunshots heighten tension at Nyanyano over chieftaincy dispute",
+      "link": "https://www.myjoyonline.com/gunshots-heighten-tension-at-nyanyano-over-chieftaincy-dispute/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T19:26:19.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has blamed cooking activities at a timber market for a fire outbreak, warning traders against using commercial spaces for domestic purposes.",
+      "published": "2026-11-25T22:16:00.000Z",
+      "summary": "Residents of Gomoa Nyanyano in the Gomoa East District of the Central Region have been thrown into fear following reports of sporadic gunfire amid escalating tensions over a planned…",
       "categories": [
-        "HP News 1",
-        "Regional",
-        "Fire Outbreak",
-        "Ghana National Fire Service",
-        "Timber Market"
+        "News",
+        "Top Story",
+        "Nyanyano"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama leads nation in paying final respects to late Agogomanhene",
-      "link": "https://www.myjoyonline.com/mahama-leads-nation-in-paying-final-respects-to-late-agogomanhene/",
+      "title": "Mahama pays last respect to late Agogomanhene Nana Kwame Akuoku Sarpong",
+      "link": "https://www.myjoyonline.com/mahama-pays-last-respect-to-late-agogomanhene-nana-kwame-akuoku-sarpong/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T19:25:44.000Z",
-      "summary": "President John Mahama has joined thousands of mourners at Agogo in the Ashanti Region to pay his final respects to the late Agogomanhene, Nana Kwame Akuoku Sarpong.",
+      "published": "2026-11-25T22:13:00.000Z",
+      "summary": "President John Mahama on Wednesday joined the family, chiefs, and people of Asante Akyem Agogo, as well as Asanteman, to bid farewell to the late Agogomanhene, Nana Kwame Akuoku Sarpong II",
       "categories": [
         "National",
         "Agogomanhene",
-        "President John Mahama"
+        "Nana Akuoku Sarpong"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
-      "link": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
+      "title": "GIMPA, Jobberman equip students with skills to navigate the competitive job market",
+      "link": "https://www.myjoyonline.com/gimpa-jobberman-equip-students-with-skills-to-navigate-the-competitive-job-market/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T19:23:06.000Z",
-      "summary": "The President of the Ghana National Cocoa Farmers Association, Stephen Anane Boateng, says the association has received several complaints from cocoa farmers in different communities over…",
+      "published": "2026-11-25T22:04:54.000Z",
+      "summary": "A university degree may open doors, but securing employment requires more than academic qualifications, students at the Ghana Institute of Management and Public Administration (GIMPA) have…",
       "categories": [
-        "Agribusiness",
-        "National",
+        "Education",
+        "GIMPA",
+        "Job market",
+        "Jobberman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+      "link": "https://www.myjoyonline.com/at-least-30-killed-in-massive-fire-as-fuel-truck-crashes-on-cairo-highway/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T21:50:00.000Z",
+      "summary": "At least 30 people have been killed and 19 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says.",
+      "categories": [
         "News",
-        "cocoa fertiliser"
+        "Egypt",
+        "Fire"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Africa is importing financial regulations that weren’t designed for its reality",
-      "link": "https://www.myjoyonline.com/africa-is-importing-financial-regulations-that-werent-designed-for-its-reality/",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "https://www.myjoyonline.com/israeli-judges-recommend-dropping-most-serious-charges-against-netanyahu/",
       "source": "MyJoyOnline",
-      "published": "2026-11-25T18:58:47.000Z",
-      "summary": "African fintech builders have spent the last decade engineering around the continent’s actual economic terrain: mobile money, informal retail, fragmented payment rails, and expensive…",
+      "published": "2026-11-25T21:36:00.000Z",
+      "summary": "Judges in Israel have suggested prosecutors drop bribery charges against Benjamin Netanyahu, potentially handing the caretaker prime minister a boost as he fights for his political survival.",
       "categories": [
-        "Opinion",
-        "Africa",
-        "financial regulations",
-        "Fintech"
+        "International",
+        "Isreal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fire guts building near Maker’s House Chapel hours after Timber Market blaze",
-      "link": "https://www.myjoyonline.com/fire-guts-building-near-makers-house-chapel-hours-after-timber-market-blaze/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:57:50.000Z",
-      "summary": "A building near Maker’s House Chapel International and the Ghana Atomic Energy Commission (GAEC) at Dome Pillar 2 has been gutted by fire, marking another reported fire incident in Accra on…",
+      "title": "Apply now: GES opens portal for teacher recruitment until December 2",
+      "link": "https://www.graphic.com.gh/news/education/apply-now-ges-opens-portal-for-teacher-recruitment-until-december-2.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T21:10:18.000Z",
+      "summary": "",
       "categories": [
-        "HP News 2",
-        "National",
-        "Fire",
-        "Maker's House"
+        "Education"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Mahama to hand over 3 newly acquired aircraft to Ghana Air Force",
-      "link": "https://www.myjoyonline.com/mahama-to-hand-over-3-newly-acquired-aircraft-to-ghana-air-force/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:48:06.000Z",
-      "summary": "President John Mahama is expected to officially hand over three newly acquired aircraft to the Ghana Air Force at a ceremony at the Air Force Base in Accra on Thursday, November 26, 2026.",
+      "title": "COCOBOD recalls Natural Asontem Liquid Fertiliser from Central Region over labelling concerns",
+      "link": "https://www.graphic.com.gh/news/general-news/cocobod-recalls-natural-asontem-liquid-fertiliser-from-central-region-over-labelling-concerns.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T20:56:43.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Ghana Air Force",
-        "New aircraft",
-        "President John Mahama"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Civil servants and GES staff: Check your 2027 salary payment dates",
@@ -193,28 +207,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/firefighters-battle-blaze-at-accra-timber-market-video.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T15:15:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PAG's Dr Kpikpi pledges to end food imports within four years",
-      "link": "https://www.graphic.com.gh/news/politics/pags-dr-kpikpi-pledges-to-end-food-imports-within-four-years.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T15:06:52.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Devices may be confiscated': Kessben's family bans bloggers and content creators from funeral",
-      "link": "https://www.graphic.com.gh/news/general-news/devices-may-be-confiscated-kessbens-family-bans-bloggers-and-content-creators-from-funeral.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T14:07:55.000Z",
       "summary": "",
       "categories": [
         "General News"
