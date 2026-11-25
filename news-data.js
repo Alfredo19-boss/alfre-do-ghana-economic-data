@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T18:38:29.820Z",
+  "updated": "2026-11-25T18:48:29.008Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bolt urges shared responsibility for road safety, calls on drivers and passengers to use safety features",
+      "link": "https://www.myjoyonline.com/bolt-urges-shared-responsibility-for-road-safety-calls-on-drivers-and-passengers-to-use-safety-features/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:37:28.000Z",
+      "summary": "Bolt Ghana has called for greater collaboration among road safety stakeholders, urging regulators, ride-hailing companies, drivers and passengers to take collective responsibility for…"
+    },
     {
       "title": "MTN Ghana Turns Millions of Daily Phone Calls Into New Advertising Market With Audio Ads",
       "link": "https://thehighstreetjournal.com/mtn-ghana-turns-millions-of-daily-phone-calls-into-new-advertising-market-with-audio-ads/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T14:36:46.000Z",
       "summary": "The proposed studies are expected to guide infrastructure planning, investment decisions and the long-term sustainability of the project"
-    },
-    {
-      "title": "The 2027 Budget: The Strengths & Weaknesses of Ghana’s Next Year Economic Policy – CERPA’s Analysis",
-      "link": "https://thehighstreetjournal.com/the-2027-budget-the-strengths-weaknesses-of-ghanas-next-year-economic-policy-cerpas-analysis/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T12:00:32.000Z",
-      "summary": "CERPA identifies six strengths and six weaknesses in the 2027 Budget, praising its industrialisation and employment ambitions while warning of execution gaps, inadequate household relief…"
     }
   ]
 };

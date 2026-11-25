@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T18:38:59.796Z",
+  "updated": "2026-11-25T18:48:59.582Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,52 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana wins bid to chair UN Tourism Executive Council for 2027",
+      "link": "https://www.myjoyonline.com/ghana-wins-bid-to-chair-un-tourism-executive-council-for-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:45:15.000Z",
+      "summary": "Ghana has secured the Chairmanship of the UN Tourism Executive Council for 2027 after polling 19 votes to defeat Argentina, which garnered 14 votes, at the 127th Executive Council meeting…",
+      "categories": [
+        "Arts and Culture",
+        "National",
+        "Travel and Tourism",
+        "Ghana",
+        "UN Tourism Executive Council"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Assin Central cocoa farmers accuse gov’t of supplying expired fertiliser, overpricing",
+      "link": "https://www.myjoyonline.com/assin-central-cocoa-farmers-accuse-govt-of-supplying-expired-fertiliser-overpricing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:42:23.000Z",
+      "summary": "Some cocoa farmers in Assin Central in the Central Region have accused the government of supplying them with expired liquid fertiliser and charging GH¢5 per bottle, despite the product…",
+      "categories": [
+        "News",
+        "Regional",
+        "Assin Central cocoa farmers",
+        "expired fertiliser"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bolt urges shared responsibility for road safety, calls on drivers and passengers to use safety features",
+      "link": "https://www.myjoyonline.com/bolt-urges-shared-responsibility-for-road-safety-calls-on-drivers-and-passengers-to-use-safety-features/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T18:37:28.000Z",
+      "summary": "Bolt Ghana has called for greater collaboration among road safety stakeholders, urging regulators, ride-hailing companies, drivers and passengers to take collective responsibility for…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "Bolt",
+        "drivers",
+        "Passengers",
+        "road safety"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
       "link": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
@@ -111,51 +157,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "South Africa",
         "stronger trade ties"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hohoe MP backs higher DACF allocation but calls for flexible spending guidelines",
-      "link": "https://www.myjoyonline.com/hohoe-mp-backs-higher-dacf-allocation-but-calls-for-flexible-spending-guidelines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:07:49.000Z",
-      "summary": "A Member of Parliament's Finance Committee and Hohoe MP Thomas Worlanyo Tsekpor, has backed calls for an increase in the District Assemblies Common Fund (DACF) allocation beyond the…",
-      "categories": [
-        "National",
-        "News",
-        "DACF allocation",
-        "Hohoe MP",
-        "Thomas Worlanyo Tsekpor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "DACF formula not cast in stone, subject to annual review – Prof. Lord Mensah",
-      "link": "https://www.myjoyonline.com/dacf-formula-not-cast-in-stone-subject-to-annual-review-prof-lord-mensah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:58:55.000Z",
-      "summary": "Head of the Local Government Service, Prof. Lord Kwaku Mensah, says the formula used to distribute the District Assemblies Common Fund (DACF) is not fixed and will continue to be reviewed…",
-      "categories": [
-        "National",
-        "News",
-        "DACF formula",
-        "Prof. Lord Kwaku Mensah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES to open teacher recruitment portal at 8pm; applications close December 2",
-      "link": "https://www.myjoyonline.com/ges-to-open-teacher-recruitment-portal-at-8pm-applications-close-december-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:50:43.000Z",
-      "summary": "The Ghana Education Service (GES) will open its teacher recruitment portal at 8:00 p.m. on Wednesday, November 25, 2026, inviting qualified graduates to apply for teaching positions across…",
-      "categories": [
-        "Education",
-        "HP News 3",
-        "National",
-        "Applications",
-        "GES",
-        "Teacher recruitment portal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
