@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T19:08:59.839Z",
+  "updated": "2026-11-25T19:28:59.464Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GNFS blames cooking for Timber Market fire, warns traders against domestic activities",
+      "link": "https://www.myjoyonline.com/gnfs-blames-cooking-for-timber-market-fire-warns-traders-against-domestic-activities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:26:19.000Z",
+      "summary": "The Ghana National Fire Service (GNFS) has blamed cooking activities at a timber market for a fire outbreak, warning traders against using commercial spaces for domestic purposes.",
+      "categories": [
+        "Regional",
+        "Fire Outbreak",
+        "Ghana National Fire Service",
+        "Timber Market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama leads nation in paying final respects to late Agogomanhene",
+      "link": "https://www.myjoyonline.com/mahama-leads-nation-in-paying-final-respects-to-late-agogomanhene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:25:44.000Z",
+      "summary": "President John Mahama has joined thousands of mourners at Agogo in the Ashanti Region to pay his final respects to the late Agogomanhene, Nana Kwame Akuoku Sarpong.",
+      "categories": [
+        "National",
+        "Agogomanhene",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
+      "link": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:23:06.000Z",
+      "summary": "The President of the Ghana National Cocoa Farmers Association, Stephen Anane Boateng, says the association has received several complaints from cocoa farmers in different communities over…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "News",
+        "cocoa fertiliser"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Africa is importing financial regulations that weren’t designed for its reality",
       "link": "https://www.myjoyonline.com/africa-is-importing-financial-regulations-that-werent-designed-for-its-reality/",
@@ -88,53 +129,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Assin Central cocoa farmers",
         "expired fertiliser"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bolt urges shared responsibility for road safety, calls on drivers and passengers to use safety features",
-      "link": "https://www.myjoyonline.com/bolt-urges-shared-responsibility-for-road-safety-calls-on-drivers-and-passengers-to-use-safety-features/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:37:28.000Z",
-      "summary": "Bolt Ghana has called for greater collaboration among road safety stakeholders, urging regulators, ride-hailing companies, drivers and passengers to take collective responsibility for…",
-      "categories": [
-        "Business",
-        "Economy",
-        "National",
-        "Bolt",
-        "drivers",
-        "Passengers",
-        "road safety"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
-      "link": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:23:07.000Z",
-      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…",
-      "categories": [
-        "Business",
-        "Economy",
-        "bus",
-        "GIHOC",
-        "West Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
-      "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:23:07.000Z",
-      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…",
-      "categories": [
-        "Business",
-        "Economy",
-        "bus",
-        "GIHOC",
-        "West Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },

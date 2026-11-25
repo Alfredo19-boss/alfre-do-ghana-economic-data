@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T19:08:29.882Z",
+  "updated": "2026-11-25T19:28:29.048Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
+      "link": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:23:06.000Z",
+      "summary": "The President of the Ghana National Cocoa Farmers Association, Stephen Anane Boateng, says the association has received several complaints from cocoa farmers in different communities over…"
+    },
     {
       "title": "Ghana, UK Deepen Security Cooperation With New Cybercrime And Fraud Agreements",
       "link": "https://thehighstreetjournal.com/ghana-uk-deepen-security-cooperation-with-new-cybercrime-and-fraud-agreements/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T14:55:29.000Z",
       "summary": "Ghana’s customs brokers have been challenged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority…"
-    },
-    {
-      "title": "Newmont marks 20 years in Ghana with over $6bn investment, $3bn in state revenue",
-      "link": "https://www.myjoyonline.com/newmont-marks-20-years-in-ghana-with-over-6bn-investment-3bn-in-state-revenue/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T14:55:11.000Z",
-      "summary": "Newmont’s Ahafo South Mine has marked two decades of commercial gold production in Ghana, celebrating a 20-year partnership defined by over $6 billion in capital investments, more than $3…"
     }
   ]
 };
