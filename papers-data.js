@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T14:04:00.712Z",
+  "updated": "2026-11-25T14:13:59.071Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GABS 2026: Africa must rise now, not keep talking about potential – Sierra Leone’s Freetown Mayor",
+      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-rise-now-not-keep-talking-about-potential-sierra-leones-freetown-mayor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:09:10.000Z",
+      "summary": "Sierra Leone's Freetown Mayor Yvonne Aki-Sawyerr says Africa must move beyond repeatedly describing itself as a continent of potential and take urgent steps to unlock its economic…",
+      "categories": [
+        "Africa",
+        "National",
+        "GABS 2026",
+        "Sierra Leon",
+        "Yvonne Aki-Sawyerr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "'Devices may be confiscated': Kessben's family bans bloggers and content creators from funeral",
+      "link": "https://www.graphic.com.gh/news/general-news/devices-may-be-confiscated-kessbens-family-bans-bloggers-and-content-creators-from-funeral.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T14:07:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "New Economy will depend on financing and implementation of 8 pillars – KPMG",
+      "link": "https://www.myjoyonline.com/new-economy-will-depend-on-financing-and-implementation-of-8-pillars-kpmg/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:02:57.000Z",
+      "summary": "According to the firm, the government should prioritise the conditions that allow these investments to deliver lasting benefits, while managing fiscal and execution risks.",
+      "categories": [
+        "News",
+        "Big Push",
+        "fiscal risks",
+        "GDP",
+        "KPMG",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Young people cannot uphold integrity when powerful individuals escape accountability – CDD-Ghana",
       "link": "https://www.myjoyonline.com/young-people-cannot-uphold-integrity-when-powerful-individuals-escape-accountability-cdd-ghana/",
@@ -183,20 +225,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "ICU petitions Mahama to withdraw NPA Bill over concerns about BOST’s future",
-      "link": "https://www.myjoyonline.com/icu-petitions-mahama-to-withdraw-npa-bill-over-concerns-about-bosts-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:20:15.000Z",
-      "summary": "The Industrial and Commercial Workers’ Union (ICU) has petitioned President John Dramani Mahama to withdraw the proposed National Petroleum Authority (NPA) Bill, 2026, warning that some…",
-      "categories": [
-        "National",
-        "BOST",
-        "ICU",
-        "NPA Bill"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Nii Lantey Vanderpuye congratulates newly elected NDC UK-Ireland Chapter executives",
       "link": "https://ghanaiantimes.com.gh/nii-lantey-vanderpuye-congratulates-newly-elected-ndc-uk-ireland-chapter-executives/",
       "source": "Ghanaian Times",
@@ -207,20 +235,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "National AI Centre: What does the 2027 Ghana budget mean for a young person in tech?",
-      "link": "https://www.myjoyonline.com/national-ai-centre-what-does-the-2027-ghana-budget-mean-for-a-young-person-in-tech/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:12:37.000Z",
-      "summary": "Ghana's 2027 budget statement put real numbers behind \"tech\" for the first time in a while: $300 million earmarked for the technology economy, to be invested across 2027 and 2028.",
-      "categories": [
-        "National",
-        "Technology",
-        "Ghana budget",
-        "National AI Centre"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Government workers to receive November salaries on Friday",
@@ -282,17 +296,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/someone-cooks-the-continuous-assessment-education-minister-defends-early-bece-ban.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T10:51:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Japan Motors commended by Nissan for Investment in Modern Service Facilities",
-      "link": "https://www.graphic.com.gh/news/general-news/japan-motors-commended-by-nissan-for-investment-in-modern-service-facilities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T10:40:42.000Z",
       "summary": "",
       "categories": [
         "General News"
