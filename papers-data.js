@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T19:28:59.464Z",
+  "updated": "2026-11-25T19:38:59.570Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,42 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Financial institutions urged to use alternative records, including Mobile Money, to boost financing for women farmers",
+      "link": "https://www.myjoyonline.com/financial-institutions-urged-to-use-alternative-records-including-mobile-money-to-boost-financing-for-women-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:35:26.000Z",
+      "summary": "Women farmers could secure bank loans using their mobile money transaction records instead of relying on physical assets as collateral, as the Ghana Venture Capital and Private Equity…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "National",
+        "Mobile Money",
+        "women farmers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Maxbuy Goes Black with up to 60%",
+      "link": "https://www.myjoyonline.com/maxbuy-goes-black-with-up-to-60/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:27:09.000Z",
+      "summary": "Ghana’s leading electronics and home appliance retailer and the authorised dealer of Haier appliances, Maxbuy, is set to roll out the mega deals of its annual Black Friday campaign, “Maxbuy…",
+      "categories": [
+        "Lifestyle",
+        "National",
+        "Wellbeing",
+        "Maxbuy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GNFS blames cooking for Timber Market fire, warns traders against domestic activities",
       "link": "https://www.myjoyonline.com/gnfs-blames-cooking-for-timber-market-fire-warns-traders-against-domestic-activities/",
       "source": "MyJoyOnline",
       "published": "2026-11-25T19:26:19.000Z",
       "summary": "The Ghana National Fire Service (GNFS) has blamed cooking activities at a timber market for a fire outbreak, warning traders against using commercial spaces for domestic purposes.",
       "categories": [
+        "HP News 1",
         "Regional",
         "Fire Outbreak",
         "Ghana National Fire Service",
@@ -100,35 +130,6 @@ window.GDC_PAPERS = {
         "Ghana Air Force",
         "New aircraft",
         "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana wins bid to chair UN Tourism Executive Council for 2027",
-      "link": "https://www.myjoyonline.com/ghana-wins-bid-to-chair-un-tourism-executive-council-for-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:45:15.000Z",
-      "summary": "Ghana has secured the Chairmanship of the UN Tourism Executive Council for 2027 after polling 19 votes to defeat Argentina, which garnered 14 votes, at the 127th Executive Council meeting…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "Travel and Tourism",
-        "Ghana",
-        "UN Tourism Executive Council"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Assin Central cocoa farmers accuse gov’t of supplying expired fertiliser, overpricing",
-      "link": "https://www.myjoyonline.com/assin-central-cocoa-farmers-accuse-govt-of-supplying-expired-fertiliser-overpricing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:42:23.000Z",
-      "summary": "Some cocoa farmers in Assin Central in the Central Region have accused the government of supplying them with expired liquid fertiliser and charging GH¢5 per bottle, despite the product…",
-      "categories": [
-        "News",
-        "Regional",
-        "Assin Central cocoa farmers",
-        "expired fertiliser"
       ],
       "site": "https://www.myjoyonline.com/"
     },

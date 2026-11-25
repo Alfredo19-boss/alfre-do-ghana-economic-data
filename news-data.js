@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T19:28:29.048Z",
+  "updated": "2026-11-25T19:38:29.829Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Financial institutions urged to use alternative records, including Mobile Money, to boost financing for women farmers",
+      "link": "https://www.myjoyonline.com/financial-institutions-urged-to-use-alternative-records-including-mobile-money-to-boost-financing-for-women-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T19:35:26.000Z",
+      "summary": "Women farmers could secure bank loans using their mobile money transaction records instead of relying on physical assets as collateral, as the Ghana Venture Capital and Private Equity…"
+    },
     {
       "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
       "link": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-22T16:17:51.000Z",
       "summary": "The Chamber of Licensed Gold Buyers (CLGB) has underscored the importance of strategic investment in infrastructure, financing and sector formalisation to support Ghana’s ambition of…"
-    },
-    {
-      "title": "Customs Commissioner rallies brokers to close GH¢14.35bn revenue gap",
-      "link": "https://www.myjoyonline.com/customs-commissioner-rallies-brokers-to-close-gh%c2%a214-35bn-revenue-gap/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T14:55:29.000Z",
-      "summary": "Ghana’s customs brokers have been challenged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority…"
     }
   ]
 };
