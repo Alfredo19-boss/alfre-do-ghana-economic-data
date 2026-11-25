@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T04:42:52.222Z",
+  "updated": "2026-11-25T05:02:51.346Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -55,6 +55,7 @@ window.GDC_PAPERS = {
       "summary": "Veteran Nigerian actor and broadcaster Chief Pete Edochie died at 79.",
       "categories": [
         "Africa",
+        "HP Entertainment 1",
         "HP News 10",
         "Movies",
         "Nollywood",

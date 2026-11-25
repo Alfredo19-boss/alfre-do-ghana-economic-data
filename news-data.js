@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T04:42:22.379Z",
+  "updated": "2026-11-25T05:02:23.753Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "AMEA Calls for Business Support Funding Under US$3bn Agric Investment Plan",
+      "link": "https://thehighstreetjournal.com/amea-ghana-calls-for-dedicated-funding-for-agribusiness-sector-under-us3bn-agriculture-plan/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:02:00.000Z",
+      "summary": "AMEA Ghana wants dedicated funding for agribusiness development services under the US$3 billion commercial agriculture programme to strengthen business capacity, improve competitiveness…"
+    },
+    {
+      "title": "Ghana Secures 6.5 Million Tonnes of Forest Carbon Credits Worth US$68 Million",
+      "link": "https://thehighstreetjournal.com/ghana-secures-6-5-million-tonnes-of-forest-carbon-credits-worth-us68-million/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:01:00.000Z",
+      "summary": "Ghana targets US$68 million from verified forest carbon credits, with 46% of proceeds allocated to local communities, farmers and traditional authorities."
+    },
+    {
+      "title": "Government Eyes GH¢1.7trn Pension Funds to Tackle Ghana’s Housing Deficit",
+      "link": "https://thehighstreetjournal.com/government-eyes-gh%c2%a21-7trn-pension-funds-to-tackle-ghanas-housing-deficit/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:00:00.000Z",
+      "summary": "Government is urging landlords to cooperate with Rent Control reforms while considering pension fund investments in student hostels to expand accommodation supply and address excessive…"
+    },
+    {
+      "title": "Nigeria Faces Nearly 5 Million More People in Acute Food Insecurity",
+      "link": "https://thehighstreetjournal.com/nigeria-faces-food-insecurity/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:00:00.000Z",
+      "summary": "The report identified 6.7 million people facing food crisis conditions across Burkina Faso, Mali and Niger, underscoring the scale of food insecurity"
+    },
+    {
+      "title": "The Planned Agric Import Bans Vrs. Ghana’s Land Realities: The 100,000 Hectare Bottleneck",
+      "link": "https://thehighstreetjournal.com/the-planned-agric-import-bans-vrs-ghanas-land-realities-the-100000-hectare-bottleneck/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:00:00.000Z",
+      "summary": "Deloitte warns Ghana’s planned agricultural import bans could face major land constraints, with only 10,780 of 100,000 hectares identified for oil palm expansion, risking food shortages…"
+    },
+    {
+      "title": "US-Ghana Water Cooperation Could Ease Treatment Costs Through Improved Pollution Monitoring",
+      "link": "https://thehighstreetjournal.com/us-ghana-water-cooperation-could-ease-treatment-costs-through-improved-pollution-monitoring/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:00:00.000Z",
+      "summary": "Collaboration on mercury detection and water quality monitoring comes as illegal mining drives up Ghana Water Limited's treatment expenses and disrupts supply."
+    },
     {
       "title": "Women’s Bank begins recruitment ahead of December head office handover",
       "link": "https://www.myjoyonline.com/womens-bank-begins-recruitment-ahead-of-december-head-office-handover/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-21T05:02:00.000Z",
       "summary": "The average worker generated GH¢15,197 in economic output in 2025, but annual earnings stood at GH¢9,388, according to the Ghana Statistical Service."
-    },
-    {
-      "title": "Africa’s Health Financing, Sovereignty to Take Centre Stage at AHAIC 2027",
-      "link": "https://thehighstreetjournal.com/africas-health-financing-sovereignty-to-take-centre-stage-at-ahaic-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:01:00.000Z",
-      "summary": "Africa’s health financing, sovereignty and access challenges will headline AHAIC 2027 in Kigali, as leaders seek continent-led solutions to strengthen healthcare systems and resilience."
-    },
-    {
-      "title": "Ghana’s 2030 Sanitation Target at Risk as 6 Million Still Practise Open Defecation",
-      "link": "https://thehighstreetjournal.com/ghanas-2030-sanitation-target-at-risk-as-6-million-still-practise-open-defecation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:00:00.000Z",
-      "summary": "Ghana’s 2030 sanitation target faces mounting pressure, with six million people practising open defecation, prompting calls for comprehensive waste management beyond toilet construction."
-    },
-    {
-      "title": "Community Radio Can Strengthen Grassroots Health Development, New Book Finds",
-      "link": "https://thehighstreetjournal.com/community-radio-can-strengthen-grassroots-health-development-new-book-finds/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:00:00.000Z",
-      "summary": "A new book by Prof Eliza Govender and Ghanaian academic, Dr Emmanuel Essel examines how community radio can strengthen grassroots health communication through access, participation and…"
-    },
-    {
-      "title": "Bawumia demands protection for Ghanaian rice farmers against cheap imports",
-      "link": "https://www.myjoyonline.com/bawumia-demands-protection-for-ghanaian-rice-farmers-against-cheap-imports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T03:29:00.000Z",
-      "summary": "The growing pressure from imported rice on local producers requires a fundamental rethink of Ghana’s agricultural and trade policies, New Patriotic Party (NPP) flagbearer Dr Mahamudu…"
-    },
-    {
-      "title": "Output per worker stood at 178% in 2025 – GSS",
-      "link": "https://www.myjoyonline.com/output-per-worker-stood-at-178-in-2025-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:32:38.000Z",
-      "summary": "Over the same period, the Service said in its 2026 Productivity, Employment and Growth Report that the output rose by 38% in lower-middle-income Sub-Saharan African countries and by 31% in…"
-    },
-    {
-      "title": "Unemployment is highest among people with secondary education; rate stands at 36.2% – GSS",
-      "link": "https://www.myjoyonline.com/unemployment-is-highest-among-people-with-secondary-education-rate-stands-at-36-2-gss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T18:02:40.000Z",
-      "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only)."
     }
   ]
 };
