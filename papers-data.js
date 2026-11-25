@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T16:39:00.021Z",
+  "updated": "2026-11-25T16:59:03.450Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian award-winning artiste M Jay set to release single ‘Ngolo Kante’",
+      "link": "https://www.myjoyonline.com/ghanaian-award-winning-artiste-m-jay-set-to-release-single-ngolo-kante/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:51:48.000Z",
+      "summary": "Ghanaian award-winning artiste M Jay is preparing to release a new single, 'Ngolo Kante!', a motivational Afrobeat-dancehall record built around perseverance, self-belief and staying…",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "M Jay",
+        "Ngolo Kante"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Multidimensional Poverty Index to inform next DACF formula – Local Gov’t Ministry",
+      "link": "https://www.myjoyonline.com/multidimensional-poverty-index-to-inform-next-dacf-formula-local-govt-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:51:39.000Z",
+      "summary": "The Local Government Ministry says data from the Ghana Statistical Service’s Multidimensional Poverty Index will be considered in determining the next District Assemblies Common Fund (DACF)…",
+      "categories": [
+        "National",
+        "News",
+        "DACF formula",
+        "Multidimensional Poverty Index",
+        "Pln. Samuel Seth Passah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP31: A testament to Africa’s leadership, unity and resolve in the fight for climate justice",
+      "link": "https://www.myjoyonline.com/cop31-a-testament-to-africas-leadership-unity-and-resolve-in-the-fight-for-climate-justice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:51:22.000Z",
+      "summary": "For a farmer battling worsening droughts and the coastal community threatened by rising seas, the outcomes of international climate negotiations carry consequences far beyond conference…",
+      "categories": [
+        "National",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bono East Police Command honours 3 fallen heroes on Memorial Day",
       "link": "https://www.myjoyonline.com/bono-east-police-command-honours-3-fallen-heroes-on-memorial-day/",
@@ -41,6 +82,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-25T16:28:16.000Z",
       "summary": "The District Chief Executive (DCE) for Sissala West, Abudu Fuseini Gbene, has accounted for funds received by the Assembly in 2025 and 2026 and outlined development plans for 2027 during a…",
       "categories": [
+        "HP News 6",
         "Regional",
         "Abudu Fuseini Gbene",
         "Sissala West DCE"
@@ -84,6 +126,7 @@ window.GDC_PAPERS = {
       "summary": "Education Minister Haruna Iddrisu has defended Ghana’s 2017 ban on corporal punishment in schools, saying children today are more aware of their rights and must be disciplined through…",
       "categories": [
         "Education",
+        "HP News 9",
         "National",
         "Children",
         "Corporal Punishment",
@@ -101,46 +144,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GABS 2026 connects African start-ups with established businesses",
-      "link": "https://www.myjoyonline.com/gabs-2026-connects-african-start-ups-with-established-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:55:43.000Z",
-      "summary": "The 2026 German-African Business Summit (GABS) has provided a platform for African start-ups to connect with established businesses and explore opportunities for partnerships, the Delegate…",
-      "categories": [
-        "Africa",
-        "National",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Ghanaian skills and resources, German technology could drive industrial growth",
-      "link": "https://www.myjoyonline.com/gabs-2026-ghanaian-skills-and-resources-german-technology-could-drive-industrial-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:42:51.000Z",
-      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, says combining German technology and expertise with Ghanaian skills, local knowledge and natural resources could…",
-      "categories": [
-        "National",
-        "Germany",
-        "Ghana",
-        "resurces",
-        "Skills"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: German firms encouraged to establish local production facilities in Ghana",
-      "link": "https://www.myjoyonline.com/gabs-2026-german-firms-encouraged-to-establish-local-production-facilities-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:42:30.000Z",
-      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has called on German companies to establish local production facilities in Ghana to help reduce the country's…",
-      "categories": [
-        "National",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Firefighters battle blaze at Accra Timber Market (VIDEO)",
