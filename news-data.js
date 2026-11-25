@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T14:48:31.024Z",
+  "updated": "2026-11-25T14:53:32.706Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Chief urges government to strengthen power of traditional rulers",
+      "link": "https://www.ghanabusinessnews.com/2026/11/25/chief-urges-government-to-strengthen-power-of-traditional-rulers/",
+      "source": "Ghana Business News",
+      "published": "2026-11-25T14:49:09.000Z",
+      "summary": "Nana Tabi Agyabeng III, the Chief of Manso-Agroyesum, has stressed the need to strengthen the authority and powers of traditional leaders to enable them to mobilise their people for…"
+    },
     {
       "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
       "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-22T05:03:00.000Z",
       "summary": "Unemployment among people aged 15 to 24 stood at 32.4 per cent in 2025, more than twice the national average."
-    },
-    {
-      "title": "UniMAC Seeks Industry Partnerships to Turn Creative Talent into Businesses",
-      "link": "https://thehighstreetjournal.com/unimac-seeks-industry-partnerships-to-turn-creative-talent-into-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T05:02:00.000Z",
-      "summary": "The investiture ceremony of entrepreneur Mr Ernest Ofori Sarpong as the university’s first Chancellor has brought renewed attention to the commercial potential of Ghana’s creative…"
     }
   ]
 };
