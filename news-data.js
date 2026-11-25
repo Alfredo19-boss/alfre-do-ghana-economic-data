@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T07:52:21.897Z",
+  "updated": "2026-11-25T08:02:21.155Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GHIB and Ghana EXIM Bank advance partnership to support international growth of Ghanaian businesses",
+      "link": "https://www.myjoyonline.com/ghib-and-ghana-exim-bank-advance-partnership-to-support-international-growth-of-ghanaian-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T07:53:13.000Z",
+      "summary": "Ghana International Bank Plc (GHIB) and Ghana Export-Import Bank (Ghana EXIM Bank) reaffirmed their commitment to deepening cooperation under the MoU the two institutions signed in July…"
+    },
     {
       "title": "Ghana Targets US$10bn as Mahama seeks German Industrial Partnerships",
       "link": "https://thehighstreetjournal.com/ghana-targets-us10bn-as-mahama-seeks-german-industrial-partnerships/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-21T06:29:00.000Z",
       "summary": "JL Properties, an indigenous real estate development company has been ranked 55th in the latest Ghana Club 100 list. The ranking was announced at the Ghana Club 100 Awards held at the La…"
-    },
-    {
-      "title": "Tax Reliefs Could Bring Solar Power Within Reach of More Ghanaians",
-      "link": "https://thehighstreetjournal.com/tax-reliefs-could-bring-solar-power-within-reach-of-more-ghanaians/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:05:00.000Z",
-      "summary": "Proposed import duty and VAT exemptions could lower the cost of solar installations, opening up opportunities for households and businesses to reduce their dependence on the national grid."
     }
   ]
 };

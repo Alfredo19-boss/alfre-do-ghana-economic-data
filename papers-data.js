@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:52:52.572Z",
+  "updated": "2026-11-25T08:02:52.021Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,76 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sporting to deepen Man Utd woes in Champions League",
+      "link": "https://ghanaiantimes.com.gh/sporting-to-deepen-man-utd-woes-in-champions-league/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:02:35.000Z",
+      "summary": "Fresh from another humbling Premier League setback, Manchester United will attempt to return to winning ways when they travel to the Estadio Jose Alvalade to face Sporting Lisbon in the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Senegal reinstated as 2025 AFCON winners",
+      "link": "https://ghanaiantimes.com.gh/senegal-reinstated-as-2025-afcon-winners/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:00:48.000Z",
+      "summary": "Senegal have been reinstated as 2025 Africa Cup of Nations (AFCON) winners ⁠after the Court of Arbitration for Sport (CAS) upheld ‌their appeal against being stripped of the title. The…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Street Academy holds 2026 fundraising ceremony",
+      "link": "https://ghanaiantimes.com.gh/street-academy-holds-2026-fundraising-ceremony/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:56:25.000Z",
+      "summary": "THE Street Academy, a sports and culture organisation, on Saturday held its annual fundraising event at its premises at the Accra Arts Centre. The aim was to raise funds to sustain its…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kotoko host Adom FC, Hearts face Elite Academy as MTN FA Cup 1/64 kicks off",
+      "link": "https://ghanaiantimes.com.gh/kotoko-host-adom-fc-hearts-face-elite-academy-as-mtn-fa-cup-1-64-kicks-off/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:55:07.000Z",
+      "summary": "THE Round of 64 matches of the 2026/27 MTN FA Cup come off this weekend, with ties scheduled from Friday, November 27 to Monday, November 30, 2026. Defending champions, Nations FC, will be…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Stanbic Bank unveils premium Visa Metallic Card",
+      "link": "https://ghanaiantimes.com.gh/stanbic-bank-unveils-premium-visa-metallic-card/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:53:15.000Z",
+      "summary": "STANBIC Bank Ghana has unveiled a new Visa Metallic Card designed exclusively for its Wealth and Investment clients, as it expands its premium banking services through a partnership with…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GHIB and Ghana EXIM Bank advance partnership to support international growth of Ghanaian businesses",
+      "link": "https://www.myjoyonline.com/ghib-and-ghana-exim-bank-advance-partnership-to-support-international-growth-of-ghanaian-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T07:53:13.000Z",
+      "summary": "Ghana International Bank Plc (GHIB) and Ghana Export-Import Bank (Ghana EXIM Bank) reaffirmed their commitment to deepening cooperation under the MoU the two institutions signed in July…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Ghana Exim Bank",
+        "Ghana International Bank (GHIB)",
+        "London"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New fishing zone seeks to protect fish stocks – Commission",
       "link": "https://ghanaiantimes.com.gh/new-fishing-zone-seeks-to-protect-fish-stocks-commission/",
@@ -56,53 +126,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Asantehene urges banks to back local businesses • Commissions first 5-star hotel in Sekondi-Takoradi",
-      "link": "https://ghanaiantimes.com.gh/asantehene-urges-banks-to-back-local-businesses-commissions-first-5-star-hotel-in-sekondi-takoradi/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:37:32.000Z",
-      "summary": "THE Asantehene, Otumfuo Osei Tutu II, has challenged financial institutions to redirect more funds from Treasury Bills into the private sector to support businesses, create jobs and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "OASL revenue hits GH¢405.3m, targets GH¢630m in 2027",
-      "link": "https://ghanaiantimes.com.gh/oasl-revenue-hits-gh%c2%a2405-3m-targets-gh%c2%a2630m-in-2027/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:28:40.000Z",
-      "summary": "THE Office of the Administrator of Stool Lands (OASL) has more than doubled its revenue mobilisation, collecting GH¢405.3 million as of September 2026, compared with GH¢189.5 million…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Make Ghana your African gateway – Pres Mahama urges German investors",
-      "link": "https://ghanaiantimes.com.gh/make-ghana-your-african-gateway-pres-mahama-urges-german-investors/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:21:06.000Z",
-      "summary": "PRESIDENT John Dramani Mahama has invited German investors to make Ghana their strategic gateway to the African market, citing the country’s improving economic conditions and the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Wisconsin graduates 1,454 students",
-      "link": "https://ghanaiantimes.com.gh/wisconsin-graduates-1454-students/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:18:14.000Z",
-      "summary": "The President of Wisconsin International University College, Ghana, Dr Lawrence A. Kannae, has disclosed that the university’s annual graduate output has risen from fewer than 600 a decade…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ghana news We’ll protest assault on Ghanaian woman in Iraq - Ablakwa",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-well-protest-assault-on-ghanaian-woman-in-iraq-ablakwa.html",
       "source": "Daily Graphic",
@@ -112,18 +135,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bolt urges drivers, riders to use safety features",
-      "link": "https://ghanaiantimes.com.gh/bolt-urges-drivers-riders-to-use-safety-features/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:06:26.000Z",
-      "summary": "RIDERS and drivers of the Bolt ride-hailing service have been urged to make effective use of the safety features on the app to protect themselves before, during and after trips. The Senior…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "UNFPA sounds alarm over rising technology-facilitated abuse of women",
@@ -218,19 +229,6 @@ window.GDC_PAPERS = {
         "Afia Kobi",
         "NHIA",
         "Quiz"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adjei-Mensah Korsah questions government’s housing delivery, cites gaps in Saglemi and rent-to-own targets",
-      "link": "https://www.myjoyonline.com/adjei-mensah-korsah-questions-governments-housing-delivery-cites-gaps-in-saglemi-and-rent-to-own-targets/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T05:18:00.000Z",
-      "summary": "Former Minister for Local Government and Rural Reorganisation, Martin Adjei-Mensah Korsah, has questioned the government's progress on housing commitments, arguing that the 2027 Budget…",
-      "categories": [
-        "National",
-        "Adjei-Mensah Korsah",
-        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
