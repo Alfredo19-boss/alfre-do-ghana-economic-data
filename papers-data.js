@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T08:12:51.408Z",
+  "updated": "2026-11-25T08:22:52.234Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "KGL Foundation supports Aburi Girls with GH¢5m STEM Centre",
+      "link": "https://ghanaiantimes.com.gh/kgl-foundation-supports-aburi-girls-with-gh%c2%a25m-stem-centre/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:21:51.000Z",
+      "summary": "ABURI Girls Senior High School, in partnership with the KGL Foundation and other stakeholders, proudly commissioned Phase 1 of the Caroline Agyemang Dadey ICT & STEM Centre as part of the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UNICEF donates medical training equipment to GHS",
+      "link": "https://ghanaiantimes.com.gh/unicef-donates-medical-training-equipment-to-ghs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:20:19.000Z",
+      "summary": "THE United Nations Children’s Fund (UNICEF) has presented clinical training mannequins to the Ghana Health Service (GHS) in the Greater Accra and Ashanti Regions to support the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GAF launches maiden open marathon to promote fitness",
+      "link": "https://ghanaiantimes.com.gh/gaf-launches-maiden-open-marathon-to-promote-fitness/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:17:30.000Z",
+      "summary": "THE Ghana Armed Forces (GAF) has launched its maiden Open Marathon 2026, featuring five-kilometre and 21.1-kilometre races, to promote physical fitness, healthy living and national unity…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Armwrestling referees earn world promotion",
+      "link": "https://ghanaiantimes.com.gh/ghana-armwrestling-referees-earn-world-promotion/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:13:41.000Z",
+      "summary": "THREE Ghanaian referees have earned prestigious international promotions following their outstanding performances at the just-ended World Armwrestling Championship in India, marking another…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Gold Fields congratulates Black Challenge on historic World Cup triumph",
       "link": "https://ghanaiantimes.com.gh/gold-fields-congratulates-black-challenge-on-historic-world-cup-triumph/",
@@ -61,50 +105,6 @@ window.GDC_PAPERS = {
       "summary": "Fresh from another humbling Premier League setback, Manchester United will attempt to return to winning ways when they travel to the Estadio Jose Alvalade to face Sporting Lisbon in the…",
       "categories": [
         "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Senegal reinstated as 2025 AFCON winners",
-      "link": "https://ghanaiantimes.com.gh/senegal-reinstated-as-2025-afcon-winners/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:00:48.000Z",
-      "summary": "Senegal have been reinstated as 2025 Africa Cup of Nations (AFCON) winners ⁠after the Court of Arbitration for Sport (CAS) upheld ‌their appeal against being stripped of the title. The…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Street Academy holds 2026 fundraising ceremony",
-      "link": "https://ghanaiantimes.com.gh/street-academy-holds-2026-fundraising-ceremony/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:56:25.000Z",
-      "summary": "THE Street Academy, a sports and culture organisation, on Saturday held its annual fundraising event at its premises at the Accra Arts Centre. The aim was to raise funds to sustain its…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kotoko host Adom FC, Hearts face Elite Academy as MTN FA Cup 1/64 kicks off",
-      "link": "https://ghanaiantimes.com.gh/kotoko-host-adom-fc-hearts-face-elite-academy-as-mtn-fa-cup-1-64-kicks-off/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:55:07.000Z",
-      "summary": "THE Round of 64 matches of the 2026/27 MTN FA Cup come off this weekend, with ties scheduled from Friday, November 27 to Monday, November 30, 2026. Defending champions, Nations FC, will be…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Stanbic Bank unveils premium Visa Metallic Card",
-      "link": "https://ghanaiantimes.com.gh/stanbic-bank-unveils-premium-visa-metallic-card/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:53:15.000Z",
-      "summary": "STANBIC Bank Ghana has unveiled a new Visa Metallic Card designed exclusively for its Wealth and Investment clients, as it expands its premium banking services through a partnership with…",
-      "categories": [
-        "Business"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
