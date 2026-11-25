@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T17:58:59.678Z",
+  "updated": "2026-11-25T18:09:00.173Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "DACF formula not cast in stone, subject to annual review – Prof. Lord Mensah",
+      "link": "https://www.myjoyonline.com/dacf-formula-not-cast-in-stone-subject-to-annual-review-prof-lord-mensah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T17:58:55.000Z",
+      "summary": "Head of the Local Government Service, Prof. Lord Kwaku Mensah, says the formula used to distribute the District Assemblies Common Fund (DACF) is not fixed and will continue to be reviewed…",
+      "categories": [
+        "National",
+        "News",
+        "DACF formula",
+        "Prof. Lord Kwaku Mensah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GES to open teacher recruitment portal at 8pm; applications close December 2",
       "link": "https://www.myjoyonline.com/ges-to-open-teacher-recruitment-portal-at-8pm-applications-close-december-2/",
       "source": "MyJoyOnline",
@@ -28,6 +42,7 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Education Service (GES) will open its teacher recruitment portal at 8:00 p.m. on Wednesday, November 25, 2026, inviting qualified graduates to apply for teaching positions across…",
       "categories": [
         "Education",
+        "HP News 3",
         "National",
         "Applications",
         "GES",
@@ -133,22 +148,6 @@ window.GDC_PAPERS = {
         "Diarra Dimé-Labille",
         "France’s Ambassador to Ghana",
         "Ghana's economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nadowli-Kaleo NPP chairman denies stealing Nkoko Nkitinkiti birds, challenges Agric Minister’s account",
-      "link": "https://www.myjoyonline.com/nadowli-kaleo-npp-chairman-denies-stealing-nkoko-nkitinkiti-birds-challenges-agric-ministers-account/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:13:07.000Z",
-      "summary": "The New Patriotic Party (NPP) Constituency Chairman for Nadowli-Kaleo, Joseph Kontomah, has denied being arrested for stealing birds under the government's Nkoko Nkitinkiti programme…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Politics",
-        "Nadowli-Kaleo",
-        "Nkoko Nkitinkiti birds",
-        "NPP Chairman"
       ],
       "site": "https://www.myjoyonline.com/"
     },

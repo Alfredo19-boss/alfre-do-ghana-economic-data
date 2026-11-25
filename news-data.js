@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T17:58:29.794Z",
+  "updated": "2026-11-25T18:08:30.217Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GRA Seals 48 Phone Shops at Circle Over Tax Non-Compliance as 18 Settle Arrears",
+      "link": "https://thehighstreetjournal.com/gra-seals-48-phone-shops-at-circle-over-tax-non-compliance-as-18-settle-arrears/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T18:00:00.000Z",
+      "summary": "GRA has sealed 48 Circle phone shops over tax non-compliance, while 18 businesses settled arrears, as authorities intensify efforts to expand Ghana's informal-sector tax base."
+    },
     {
       "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
       "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-22T09:25:16.000Z",
       "summary": "Mr William Akwetey Bonsu, the Head and Administrator of the Ghana Copyright Office, has urged law students to recognize copyright law as a foundational pillar of the modern global economy…"
-    },
-    {
-      "title": "GEXPO 2026 Enters Final Day as Calls Grow for a Made-in-Ghana Christmas Shop List",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-enters-final-day-as-calls-grow-for-a-made-in-ghana-christmas-shop-list/",
-      "source": "The High Street Journal",
-      "published": "2026-11-22T08:30:35.000Z",
-      "summary": "GEXPO 2026 enters its final day at Black Star Square, urging a Made-in-Ghana Christmas while regional exhibitors seek nationwide distributors before closing."
     }
   ]
 };
