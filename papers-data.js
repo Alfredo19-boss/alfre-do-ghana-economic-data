@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-24T23:56:51.864Z",
+  "updated": "2026-11-25T01:36:53.063Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,25 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Did the 2027 Budget pass the 5 tests?",
+      "link": "https://www.myjoyonline.com/did-the-2027-budget-pass-the-5-tests/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T01:23:51.000Z",
+      "summary": "The budget answers this test directly. The US$10 billion New Economy programme will run from 2027 to 2030, supported by lowering the primary surplus target by one percentage point of GDP…",
+      "categories": [
+        "Business",
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "2027 Budget",
+        "capital expenditure",
+        "DDEP",
+        "GDP",
+        "new economy",
+        "Revenue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "PhD scandal: GTEC catches public institution in accreditation breach",
       "link": "https://www.myjoyonline.com/phd-scandal-gtec-catches-public-institution-in-accreditation-breach/",
@@ -125,21 +144,6 @@ window.GDC_PAPERS = {
         "International",
         "Technology",
         "Huawei"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.myjoyonline.com/dr-congo-says-military-aircraft-missing-as-rebels-claim-to-shoot-down-plane/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:22:59.000Z",
-      "summary": "The Democratic Republic of Congo military says it is searching for one of its aircraft, after rebels said they had shot down a warplane in the east.",
-      "categories": [
-        "Africa",
-        "International",
-        "DR Congo",
-        "Military",
-        "Rebel"
       ],
       "site": "https://www.myjoyonline.com/"
     },
