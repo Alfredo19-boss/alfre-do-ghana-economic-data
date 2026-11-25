@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T04:02:51.566Z",
+  "updated": "2026-11-25T04:12:54.259Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,6 +34,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Around 175 migrants unaccounted for after contact lost with boat from Senegal",
+      "link": "https://www.myjoyonline.com/around-175-migrants-unaccounted-for-after-contact-lost-with-boat-from-senegal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:43:00.000Z",
+      "summary": "Around 175 migrants are unaccounted for after contact was lost with a Europe-bound boat that ​left the Senegalese capital Dakar about two weeks ‌ago, local officials and a human rights…",
+      "categories": [
+        "Africa",
+        "Migrants",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
       "link": "https://www.myjoyonline.com/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
       "source": "MyJoyOnline",
@@ -44,6 +57,19 @@ window.GDC_PAPERS = {
         "Agriculture",
         "new economy",
         "prospects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two arrested after break-in at country home of Prince William and wife Kate, UK police say",
+      "link": "https://www.myjoyonline.com/two-arrested-after-break-in-at-country-home-of-prince-william-and-wife-kate-uk-police-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:37:00.000Z",
+      "summary": "Police have arrested two men on suspicion of burglary and trespass after a break-in at the country residence of Britain's Prince William and his wife Kate, British police said on Tuesday.",
+      "categories": [
+        "International",
+        "Kate",
+        "Prince William"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -96,32 +122,6 @@ window.GDC_PAPERS = {
         "FDA",
         "listed authority",
         "WHO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government assures Food and Drugs Authority of technical independence and support",
-      "link": "https://www.myjoyonline.com/government-assures-food-and-drugs-authority-of-technical-independence-and-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:03:11.000Z",
-      "summary": "The government has assured the Food and Drugs Authority (FDA) of its commitment to protecting the institution’s technical independence, saying its regulatory decisions must remain free from…",
-      "categories": [
-        "National",
-        "Food and Drugs Authority",
-        "technical independence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thomas Markle charged in US on second count of possessing child sexual abuse material",
-      "link": "https://www.myjoyonline.com/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:51:00.000Z",
-      "summary": "Thomas Markle, the estranged father of ‌Britain's Duchess of Sussex, Meghan Markle, and father-in-law of Britain's Prince Harry, was indicted on Tuesday in US federal court on two counts of…",
-      "categories": [
-        "International",
-        "child sexual abuse",
-        "Thomas Markle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
