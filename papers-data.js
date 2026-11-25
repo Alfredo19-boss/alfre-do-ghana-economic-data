@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:49:00.628Z",
+  "updated": "2026-11-25T15:58:59.505Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GABS 2026 connects African start-ups with established businesses",
+      "link": "https://www.myjoyonline.com/gabs-2026-connects-african-start-ups-with-established-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:55:43.000Z",
+      "summary": "The 2026 German-African Business Summit (GABS) has provided a platform for African start-ups to connect with established businesses and explore opportunities for partnerships, the Delegate…",
+      "categories": [
+        "Africa",
+        "National",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GABS 2026: Ghanaian skills and resources, German technology could drive industrial growth",
       "link": "https://www.myjoyonline.com/gabs-2026-ghanaian-skills-and-resources-german-technology-could-drive-industrial-growth/",
@@ -116,21 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "GABS 2026",
         "Yvonne Aki-Sawyerr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Poorer districts face wider infrastructure and service gaps – GDCA study",
-      "link": "https://www.myjoyonline.com/poorer-districts-face-wider-infrastructure-and-service-gaps-gdca-study/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:28:36.000Z",
-      "summary": "Poorer districts in Ghana face significantly wider infrastructure and service delivery gaps than relatively wealthier areas, a study by the Ghana Developing Communities Association (GDCA)…",
-      "categories": [
-        "Research",
-        "GDCA study",
-        "Infrastructure",
-        "Poorer districts",
-        "service gaps"
       ],
       "site": "https://www.myjoyonline.com/"
     },
