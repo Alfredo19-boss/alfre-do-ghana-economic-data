@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:03:31.205Z",
+  "updated": "2026-11-25T15:08:34.577Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,59 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "PAG's Dr Kpikpi pledges to end food imports within four years",
+      "link": "https://www.graphic.com.gh/news/politics/pags-dr-kpikpi-pledges-to-end-food-imports-within-four-years.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T15:06:52.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "German companies urged to combine local production with skills training in Ghana and Africa",
+      "link": "https://www.myjoyonline.com/german-companies-urged-to-combine-local-production-with-skills-training-in-ghana-and-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:04:31.000Z",
+      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has urged German companies seeking investment opportunities in Africa to prioritise skills development and training…",
+      "categories": [
+        "Africa",
+        "National",
+        "News",
+        "Dr Michael Blank",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GDCA calls for transparent DACF allocation, timely releases and accountability",
+      "link": "https://www.myjoyonline.com/gdca-calls-for-transparent-dacf-allocation-timely-releases-and-accountability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:01:46.000Z",
+      "summary": "The Ghana Developing Communities Association (GDCA) has called for greater transparency in the allocation and release of the District Assemblies Common Fund (DACF), alongside stronger…",
+      "categories": [
+        "National",
+        "News",
+        "Ghana Developing Communities Association (GDCA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "700 participants at GABS 2026 signal growing German interest in Africa – Dr Michael Blank",
+      "link": "https://www.myjoyonline.com/700-participants-at-gabs-2026-signal-growing-german-interest-in-africa-dr-michael-blank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:01:33.000Z",
+      "summary": "About 700 participants at the 2026 German-African Business Summit (GABS) in Accra demonstrate growing interest among German companies in investment opportunities across Africa, the Delegate…",
+      "categories": [
+        "Africa",
+        "National",
+        "Dr Michael Blank",
+        "GABS 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Germany can become Africa’s preferred business partner if it adapts to local needs – German Industry and Commerce in Ghana",
       "link": "https://www.myjoyonline.com/germany-can-become-africas-preferred-business-partner-if-it-adapts-to-local-needs-german-industry-and-commerce-in-ghana/",
@@ -87,48 +140,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "Raheem Sterling"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Education Minister urges Africa to fix secondary education.",
-      "link": "https://www.myjoyonline.com/education-minister-urges-africa-to-fix-secondary-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:24:25.000Z",
-      "summary": "Education Minister Haruna Iddrisu has challenged African governments to move beyond simply expanding access to secondary education and to focus on what happens to young people after they…",
-      "categories": [
-        "Education",
-        "Haruna Iddrisu",
-        "Master Card Foundation",
-        "Secondary school education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "RE : The claim that the people of Larabanga are intolerant of other religious faiths",
-      "link": "https://www.myjoyonline.com/re-the-claim-that-the-people-of-larabanga-are-intolerant-of-other-religious-faiths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:21:16.000Z",
-      "summary": "The people of Larabanga deserve better than a sweeping accusation that casts an entire community as religiously intolerant. Such a claim damages reputations, undermines livelihoods and…",
-      "categories": [
-        "Opinion",
-        "Larabanga",
-        "religious faiths"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GABS 2026: Africa must rise now, not keep talking about potential – Sierra Leone’s Freetown Mayor",
-      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-rise-now-not-keep-talking-about-potential-sierra-leones-freetown-mayor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:09:10.000Z",
-      "summary": "Sierra Leone's Freetown Mayor Yvonne Aki-Sawyerr says Africa must move beyond repeatedly describing itself as a continent of potential and take urgent steps to unlock its economic…",
-      "categories": [
-        "Africa",
-        "National",
-        "GABS 2026",
-        "Sierra Leon",
-        "Yvonne Aki-Sawyerr"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -275,17 +286,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/how-to-avoid-black-friday-scams-cyber-security-authority-shares-safety-tips.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T11:15:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Someone cooks the continuous assessment': Education Minister defends early BECE ban",
-      "link": "https://www.graphic.com.gh/news/general-news/someone-cooks-the-continuous-assessment-education-minister-defends-early-bece-ban.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T10:51:56.000Z",
       "summary": "",
       "categories": [
         "General News"
