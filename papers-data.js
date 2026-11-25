@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T16:19:01.037Z",
+  "updated": "2026-11-25T16:39:00.021Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bono East Police Command honours 3 fallen heroes on Memorial Day",
+      "link": "https://www.myjoyonline.com/bono-east-police-command-honours-3-fallen-heroes-on-memorial-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:29:22.000Z",
+      "summary": "The Bono East Regional Police Command has held a solemn ceremony to commemorate Police Memorial Day, posthumously honouring three officers who lost their lives in the line of duty.",
+      "categories": [
+        "Regional",
+        "3 fallen heroes",
+        "Bono East Police Command",
+        "Police Memorial Day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sissala West residents demand roads, offices and mechanisation centre as DCE outlines 2027 plans",
+      "link": "https://www.myjoyonline.com/sissala-west-residents-demand-roads-offices-and-mechanisation-centre-as-dce-outlines-2027-plans/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T16:28:16.000Z",
+      "summary": "The District Chief Executive (DCE) for Sissala West, Abudu Fuseini Gbene, has accounted for funds received by the Assembly in 2025 and 2026 and outlined development plans for 2027 during a…",
+      "categories": [
+        "Regional",
+        "Abudu Fuseini Gbene",
+        "Sissala West DCE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "PRESEC alumnus Dzomeku Calvin emerges UniMAC valedictorian with 3.99 CGPA",
       "link": "https://www.myjoyonline.com/presec-alumnus-dzomeku-calvin-emerges-unimac-valedictorian-with-3-99-cgpa/",
@@ -112,33 +139,6 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "German investors want predictable tax and regulatory environment in Ghana – Dr Blank",
-      "link": "https://www.myjoyonline.com/german-investors-want-predictable-tax-and-regulatory-environment-in-ghana-dr-blank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:39:56.000Z",
-      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, has urged the government to reduce regulatory and tax-related uncertainties to make the country more attractive to…",
-      "categories": [
-        "National",
-        "Dr Michael Blank",
-        "GABS 2026",
-        "Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC deputy youth organiser aspirant Asinyo targets 2028 electoral gains with data-driven agenda",
-      "link": "https://www.myjoyonline.com/ndc-deputy-youth-organiser-aspirant-asinyo-targets-2028-electoral-gains-with-data-driven-agenda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:37:25.000Z",
-      "summary": "National Democratic Congress (NDC) National Deputy Youth Organiser aspirant, Anthonio Edem Asinyo, has pledged to leverage his expertise and work with other party executives to consolidate…",
-      "categories": [
-        "News",
-        "Anthonio Asinyo",
-        "National Democratic Congress"
       ],
       "site": "https://www.myjoyonline.com/"
     },
