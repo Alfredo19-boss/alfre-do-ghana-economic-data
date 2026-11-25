@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T06:32:53.128Z",
+  "updated": "2026-11-25T06:42:52.185Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,43 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Report bullying, intimidation, harassment… schoolchildren urged",
+      "link": "https://ghanaiantimes.com.gh/report-bullying-intimidation-harassment-schoolchildren-urged/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:41:47.000Z",
+      "summary": "SCHOOLCHILDREN have been urged to report acts of bullying, intimidation and harassment, as such conduct could go beyond childhood misbehaviour and constitute criminal offences. The…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana protests to Iraq over assault on Ghanaian domestic worker",
+      "link": "https://ghanaiantimes.com.gh/ghana-protests-to-iraq-over-assault-on-ghanaian-domestic-worker/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:36:29.000Z",
+      "summary": "THE Government has formally protested to Iraqi authorities over the assault of a Ghanaian domestic worker, Stephanie Nkrumah, by her employer, and demanded appropriate action against those…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UNFPA sounds alarm over rising technology-facilitated abuse of women",
+      "link": "https://www.myjoyonline.com/unfpa-sounds-alarm-over-rising-technology-facilitated-abuse-of-women/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T06:29:23.000Z",
+      "summary": "The United Nations Population Fund (UNFPA) has called on governments, technology companies and communities to intensify efforts to protect women and girls from gender-based violence…",
+      "categories": [
+        "News",
+        "Abuse",
+        "violemce",
+        "Women"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mamprugu Moagduri Assembly empowers 76 persons with disabilities, introduces ‘Differently Able’ label",
       "link": "https://www.myjoyonline.com/mamprugu-moagduri-assembly-empowers-76-persons-with-disabilities-introduces-differently-able-label/",
@@ -112,19 +149,6 @@ window.GDC_PAPERS = {
         "National",
         "Other Sports",
         "Stanbic-Asantehene Invitational Golf Tournament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newmont credits 99% Ghanaian workforce for Ahafo success, pledges deeper local leadership",
-      "link": "https://www.myjoyonline.com/newmont-credits-99-ghanaian-workforce-for-ahafo-success-pledges-deeper-local-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T05:12:05.000Z",
-      "summary": "Newmont Corporation has credited its predominantly Ghanaian workforce, which accounts for approximately 99 per cent of its more than 11,000 employees, with powering two decades of…",
-      "categories": [
-        "News",
-        "Gold",
-        "Newmont"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -260,30 +284,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-24T14:51:46.000Z",
       "summary": "The Ghana Education Service (GES) has announced strict enforcement of a two-year ban on candidates who sit for the Basic Education Certificate Examination (BECE) and the West African Senior…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Foreign Minister meets lady assaulted in Iraq in viral video; Government demands justice",
-      "link": "https://ghanaiantimes.com.gh/foreign-minister-meets-lady-assaulted-in-iraq-in-viral-video-government-demands-justice/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T14:46:43.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, on Monday, November 23, 2026, received Stephanie Nkrumah, the young lady seen in a distressing viral video being physically…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Presidency directs ministers to enforce retirement age for public institution CEOs",
-      "link": "https://ghanaiantimes.com.gh/presidency-directs-ministers-to-enforce-retirement-age-for-public-institution-ceos/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T14:43:22.000Z",
-      "summary": "The Presidency has directed all Ministers of State to ensure that Chief Executives of public institutions and state-owned enterprises who have attained the compulsory retirement age of 60…",
       "categories": [
         "Hot!",
         "News"
