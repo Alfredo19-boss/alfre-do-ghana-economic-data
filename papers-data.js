@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:28:59.843Z",
+  "updated": "2026-11-25T15:39:00.637Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,66 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mahama, IGP join NACOC to honour fallen police officers at Memorial Day ceremony",
+      "link": "https://www.myjoyonline.com/mahama-igp-join-nacoc-to-honour-fallen-police-officers-at-memorial-day-ceremony/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:32:00.000Z",
+      "summary": "President John Mahama and Inspector-General of Police (IGP) Christian Tetteh Yohuno joined officials of the Narcotics Control Commission (NACOC) to honour nine police officers who died in…",
+      "categories": [
+        "National",
+        "fallen police officers",
+        "Memorial Day ceremony",
+        "Narcotics Control Commission"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sierra Leonean mayor backs ECOWAS single currency, calls for easier cross-border trade",
+      "link": "https://www.myjoyonline.com/sierra-leonean-mayor-backs-ecowas-single-currency-calls-for-easier-cross-border-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:31:36.000Z",
+      "summary": "Sierra Leon's Freetown Mayor Yvonne Aki-Sawyerr has backed efforts towards introducing a common currency within the Economic Community of West African States (ECOWAS), arguing that it could…",
+      "categories": [
+        "Africa",
+        "National",
+        "Eco currency",
+        "ECOWAS",
+        "Sierra Leon",
+        "West Africa",
+        "Yvonne Aki-Sawyerr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GABS 2026: Sierra Leone’s Aki-Sawyerr calls for stronger African market integration to boost intra-African trade",
+      "link": "https://www.myjoyonline.com/gabs-2026-sierra-leones-aki-sawyerr-calls-for-stronger-african-market-integration-to-boost-intra-african-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:28:45.000Z",
+      "summary": "Freetown Mayor of Sierra Leon, Yvonne Aki-Sawyerr, is calling for stronger integration of African markets to facilitate trade among countries and unlock the continent's economic potential.",
+      "categories": [
+        "Africa",
+        "National",
+        "GABS 2026",
+        "Yvonne Aki-Sawyerr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Poorer districts face wider infrastructure and service gaps – GDCA study",
+      "link": "https://www.myjoyonline.com/poorer-districts-face-wider-infrastructure-and-service-gaps-gdca-study/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T15:28:36.000Z",
+      "summary": "Poorer districts in Ghana face significantly wider infrastructure and service delivery gaps than relatively wealthier areas, a study by the Ghana Developing Communities Association (GDCA)…",
+      "categories": [
+        "Research",
+        "GDCA study",
+        "Infrastructure",
+        "Poorer districts",
+        "service gaps"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "One person dead, five military personnel injured as Circle demolition turns violent – Regional Minister",
       "link": "https://www.myjoyonline.com/one-person-dead-five-military-personnel-injured-as-circle-demolition-turns-violent-regional-minister/",
       "source": "MyJoyOnline",
@@ -29,6 +89,7 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Regional",
+        "Top Story",
         "Circle demolition",
         "Linda Ocloo",
         "Military personnel"
@@ -96,64 +157,6 @@ window.GDC_PAPERS = {
         "National",
         "News",
         "Ghana Developing Communities Association (GDCA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "700 participants at GABS 2026 signal growing German interest in Africa – Dr Michael Blank",
-      "link": "https://www.myjoyonline.com/700-participants-at-gabs-2026-signal-growing-german-interest-in-africa-dr-michael-blank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:01:33.000Z",
-      "summary": "About 700 participants at the 2026 German-African Business Summit (GABS) in Accra demonstrate growing interest among German companies in investment opportunities across Africa, the Delegate…",
-      "categories": [
-        "Africa",
-        "National",
-        "Dr Michael Blank",
-        "GABS 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Germany can become Africa’s preferred business partner if it adapts to local needs – German Industry and Commerce in Ghana",
-      "link": "https://www.myjoyonline.com/germany-can-become-africas-preferred-business-partner-if-it-adapts-to-local-needs-german-industry-and-commerce-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:00:45.000Z",
-      "summary": "The Delegate of German Industry and Commerce in Ghana, Dr Michael Blank, says Germany can strengthen its position as a preferred business partner for African countries if its companies…",
-      "categories": [
-        "Africa",
-        "National",
-        "News",
-        "Africa trade",
-        "Dr Michael Blank",
-        "GABS 2026",
-        "Germany"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-      "link": "https://www.myjoyonline.com/third-of-young-brits-have-never-had-sex-but-many-are-sexting-and-watching-porn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T15:00:17.000Z",
-      "summary": "British people, particularly teens and young adults, are having less or no sex compared to past generations, but lots are watching porn and sexting, a major study reveals.",
-      "categories": [
-        "International",
-        "British",
-        "Sex",
-        "Young"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
-      "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:40:21.000Z",
-      "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 5",
-        "World Bank Group"
       ],
       "site": "https://www.myjoyonline.com/"
     },
