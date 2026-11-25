@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:32:52.447Z",
+  "updated": "2026-11-25T07:42:52.268Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "New plan to address kayayei challenges • Gender Ministry develops national management framework",
+      "link": "https://ghanaiantimes.com.gh/new-plan-to-address-kayayei-challenges-gender-ministry-develops-national-management-framework/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:41:06.000Z",
+      "summary": "THE Ministry of Gender, Children and Social Protection (MoGCSP) is developing a national kayayei management framework to coordinate efforts to address the challenges facing head porters in…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Asantehene urges banks to back local businesses • Commissions first 5-star hotel in Sekondi-Takoradi",
+      "link": "https://ghanaiantimes.com.gh/asantehene-urges-banks-to-back-local-businesses-commissions-first-5-star-hotel-in-sekondi-takoradi/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:37:32.000Z",
+      "summary": "THE Asantehene, Otumfuo Osei Tutu II, has challenged financial institutions to redirect more funds from Treasury Bills into the private sector to support businesses, create jobs and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "OASL revenue hits GH¢405.3m, targets GH¢630m in 2027",
       "link": "https://ghanaiantimes.com.gh/oasl-revenue-hits-gh%c2%a2405-3m-targets-gh%c2%a2630m-in-2027/",
@@ -98,29 +122,6 @@ window.GDC_PAPERS = {
       "summary": "I have often wondered why a human being needs permission, in the form of a visa, to travel to another part of the world. Why should someone who wishes to study, work, attend a conference…",
       "categories": [
         "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s next energy challenge: Building a financially sustainable power sector",
-      "link": "https://ghanaiantimes.com.gh/ghanas-next-energy-challenge-building-a-financially-sustainable-power-sector/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:50:59.000Z",
-      "summary": "OVER the past decade, Ghana’s power sector has undergone a significant transformation. Investments made during and after the dumsor period expanded generation capacity, improved energy…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Increased investment in agriculture key to reducing food imports – Dr Godfred Jasaw",
-      "link": "https://ghanaiantimes.com.gh/increased-investment-in-agriculture-key-to-reducing-food-imports-dr-godfred-jasaw/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:46:57.000Z",
-      "summary": "GHANA’S food import expenditure, estimated at US$2 billion annually, can be significantly reduced through increased investment in commercial agriculture, particularly rice and poultry…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
