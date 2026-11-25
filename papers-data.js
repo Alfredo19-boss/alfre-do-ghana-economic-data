@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T06:42:52.185Z",
+  "updated": "2026-11-25T06:52:51.502Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s next energy challenge: Building a financially sustainable power sector",
+      "link": "https://ghanaiantimes.com.gh/ghanas-next-energy-challenge-building-a-financially-sustainable-power-sector/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:50:59.000Z",
+      "summary": "OVER the past decade, Ghana’s power sector has undergone a significant transformation. Investments made during and after the dumsor period expanded generation capacity, improved energy…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Increased investment in agriculture key to reducing food imports – Dr Godfred Jasaw",
+      "link": "https://ghanaiantimes.com.gh/increased-investment-in-agriculture-key-to-reducing-food-imports-dr-godfred-jasaw/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:46:57.000Z",
+      "summary": "GHANA’S food import expenditure, estimated at US$2 billion annually, can be significantly reduced through increased investment in commercial agriculture, particularly rice and poultry…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Protecting kayayei is a national responsibility",
+      "link": "https://ghanaiantimes.com.gh/protecting-kayayei-is-a-national-responsibility/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T06:43:20.000Z",
+      "summary": "THE sight of young women carrying heavy loads in markets and business districts across the country has become so familiar that many people hardly give it a second thought. Yet behind the…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Report bullying, intimidation, harassment… schoolchildren urged",
       "link": "https://ghanaiantimes.com.gh/report-bullying-intimidation-harassment-schoolchildren-urged/",
@@ -244,18 +278,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "CAS declares Senegal rightful AFCON 2025 champions",
-      "link": "https://ghanaiantimes.com.gh/cas-declares-senegal-rightful-afcon-2025-champions/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T15:04:22.000Z",
-      "summary": "The Court of Arbitration for Sport (CAS) has upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (CAF) and the Royal Moroccan…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Germany backs Africa’s push for stronger UN voice — President Steinmeier",
       "link": "https://www.graphic.com.gh/news/general-news/germany-backs-africas-push-for-stronger-un-voice-president-steinmeier.html",
       "source": "Daily Graphic",
@@ -265,30 +287,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama pays courtesy visit to veteran photographer Dr Chris Hesse",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-pays-courtesy-visit-to-veteran-photographer-dr-chris-hesse/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T14:55:35.000Z",
-      "summary": "President John Dramani Mahama has paid a courtesy visit to veteran Ghanaian photographer and filmmaker, Dr Chris Hesse, in recognition of his invaluable contribution to the preservation of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GES enforces two-year ban on candidates who sit for BECE, WASSCE ahead of schedule",
-      "link": "https://ghanaiantimes.com.gh/ges-enforces-two-year-ban-on-candidates-who-sit-for-bece-wassce-ahead-of-schedule/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-24T14:51:46.000Z",
-      "summary": "The Ghana Education Service (GES) has announced strict enforcement of a two-year ban on candidates who sit for the Basic Education Certificate Examination (BECE) and the West African Senior…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "TUC warns workers against outdated SSNIT records",
