@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-25T14:00:48.380Z",
+  "updated": "2026-11-25T14:44:04.917Z",
   "values": {
     "fx.usd": {
       "value": 11.85,
@@ -31,7 +31,7 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 5282,
+      "value": 5375,
       "date": "2026-11-25",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
@@ -376,12 +376,12 @@ window.GDC_AUTO = {
       },
       {
         "date": "2026-11-25",
-        "value": 5282
+        "value": 5375
       }
     ]
   },
   "fxTable": {
-    "date": "2026-11-25",
+    "date": "2026-11-24",
     "rates": {
       "USD": {
         "ghs": 11.85,
@@ -456,51 +456,51 @@ window.GDC_AUTO = {
         "src": "BoG"
       },
       "AED": {
-        "ghs": 3.22024,
+        "ghs": 3.22518,
         "src": "market"
       },
       "INR": {
-        "ghs": 0.128141,
+        "ghs": 0.127542,
         "src": "market"
       },
       "SAR": {
-        "ghs": 3.15369,
+        "ghs": 3.15853,
         "src": "market"
       },
       "KES": {
-        "ghs": 0.0909712,
+        "ghs": 0.0910478,
         "src": "market"
       },
       "EGP": {
-        "ghs": 0.218147,
+        "ghs": 0.218565,
         "src": "market"
       },
       "MAD": {
-        "ghs": 1.18317,
+        "ghs": 1.18242,
         "src": "market"
       },
       "XAF": {
-        "ghs": 0.0197298,
+        "ghs": 0.0197107,
         "src": "market"
       },
       "TZS": {
-        "ghs": 0.00443019,
+        "ghs": 0.00443637,
         "src": "market"
       },
       "UGX": {
-        "ghs": 0.0027761,
+        "ghs": 0.00278395,
         "src": "market"
       },
       "ETB": {
-        "ghs": 0.0726814,
+        "ghs": 0.0725461,
         "src": "market"
       },
       "RWF": {
-        "ghs": 0.00798311,
+        "ghs": 0.00802237,
         "src": "market"
       },
       "BWP": {
-        "ghs": 0.829451,
+        "ghs": 0.832121,
         "src": "market"
       }
     },
@@ -630,6 +630,15 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-11-25T14:44:04.917Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok",
+        "kept newer gold.usdPerOz from 2026-11-25"
+      ]
+    },
+    {
       "at": "2026-11-25T14:00:48.380Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -727,14 +736,6 @@ window.GDC_AUTO = {
     },
     {
       "at": "2026-11-24T20:03:35.484Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-11-24T18:54:56.679Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",

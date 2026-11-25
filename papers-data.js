@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T14:28:58.657Z",
+  "updated": "2026-11-25T14:43:59.913Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
+      "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:40:21.000Z",
+      "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 5",
+        "World Bank Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GDCA calls for reforms to Ghana’s DACF sharing formula to support poorer districts",
+      "link": "https://www.myjoyonline.com/gdca-calls-for-reforms-to-ghanas-dacf-sharing-formula-to-support-poorer-districts/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:37:28.000Z",
+      "summary": "The Ghana Developing Communities Association (GDCA) has called for reforms to the District Assemblies Common Fund (DACF) sharing formula to ensure poorer and more deprived districts receive…",
+      "categories": [
+        "News",
+        "DACF allocations",
+        "Ghana Developing Communities Association (GDCA)",
+        "Philip Gmabi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Sterling given suspended sentence for dangerous driving",
       "link": "https://www.myjoyonline.com/sterling-given-suspended-sentence-for-dangerous-driving/",
@@ -118,21 +145,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MTN awards GH¢300,000 to agritech firm to expand agricultural processing",
-      "link": "https://www.myjoyonline.com/mtn-awards-gh%c2%a2300000-to-agritech-firm-to-expand-agricultural-processing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:49:07.000Z",
-      "summary": "MTN Ghana has awarded GH¢300,000 to Age Industries and Trading Limited as the overall winner of its National Business Pitch Competition, supporting the company’s plans to expand locally…",
-      "categories": [
-        "Business",
-        "Telecom",
-        "Angela Mensah-Poku",
-        "MTN",
-        "MTN Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "SkyTrain trial to proceed as Supreme Court rules against former GIIF CEO Solomon Asamoah",
       "link": "https://www.graphic.com.gh/news/general-news/skytrain-trial-to-proceed-as-supreme-court-rules-against-former-giif-ceo-solomon-asamoah.html",
       "source": "Daily Graphic",
@@ -142,20 +154,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Philip Nai: December in GH requires a more deliberate approach",
-      "link": "https://www.myjoyonline.com/philip-nai-december-in-gh-requires-a-more-deliberate-approach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:30:22.000Z",
-      "summary": "I believe we have reached a point where December in GH must move beyond the excitement of a festive season and become a properly managed national tourism and entertainment product.",
-      "categories": [
-        "HP Entertainment 3",
-        "December in GH",
-        "deliberate approach",
-        "Philip Nai"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Family announces passing of veteran actor Pete Edochie at 79",
