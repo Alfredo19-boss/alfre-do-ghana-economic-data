@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T08:47:52.091Z",
+  "updated": "2026-11-25T08:57:52.070Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire",
+      "link": "https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T08:47:01.000Z",
+      "summary": "Ecobank Ghana and Mobile Money Fintech Limited have launched a cross-border transfer service allowing customers in Côte d’Ivoire to send money directly to Mobile Money wallets in Ghana, as…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 4",
+        "Ecobank",
+        "Ecobank Ghana",
+        "Mobile Money Fintech Ltd",
+        "William Danso-Abeam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Old Abuscodians inaugurate new executives",
       "link": "https://ghanaiantimes.com.gh/old-abuscodians-inaugurate-new-executives/",
@@ -213,20 +230,6 @@ window.GDC_PAPERS = {
         "News",
         "GTEC",
         "PHD"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NHIA CEO hails students’ brilliance as Afia Kobi Ampem Girls’ SHS triumphs in Middle Belt quiz competition",
-      "link": "https://www.myjoyonline.com/nhia-ceo-hails-students-brilliance-as-afia-kobi-ampem-girls-shs-triumphs-in-middle-belt-quiz-competition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T05:18:58.000Z",
-      "summary": "Afia Kobi Ampem Girls Senior High School has won the Middle Belt edition of the National Health Insurance Authority (NHIA) Inter-School Quiz Competition, cementing its place as one of the…",
-      "categories": [
-        "News",
-        "Afia Kobi",
-        "NHIA",
-        "Quiz"
       ],
       "site": "https://www.myjoyonline.com/"
     },

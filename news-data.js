@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T08:47:21.280Z",
+  "updated": "2026-11-25T08:57:21.251Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,32 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "The power of Africa",
+      "link": "https://www.ghanabusinessnews.com/2026/11/25/the-power-of-africa/",
+      "source": "Ghana Business News",
+      "published": "2026-11-25T08:52:17.000Z",
+      "summary": "Africa is a continent that was tortured and deeply hurt by colonialism. Colonialism was a harsh and brutal period of organized and methodical conquest, savage exploitation and division of…"
+    },
+    {
+      "title": "Agriculture remains Ghana’s largest employer despite lower GDP share",
+      "link": "https://www.ghanabusinessnews.com/2026/11/25/agriculture-remains-ghanas-largest-employer-despite-lower-gdp-share/",
+      "source": "Ghana Business News",
+      "published": "2026-11-25T08:49:01.000Z",
+      "summary": "Agriculture remained Ghana's largest source of employment in 2025, accounting for 37.1 per cent of employed persons, according to the Ghana Statistical Service's (GSS) Productivity…"
+    },
+    {
+      "title": "Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire",
+      "link": "https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T08:47:01.000Z",
+      "summary": "Ecobank Ghana and Mobile Money Fintech Limited have launched a cross-border transfer service allowing customers in Côte d’Ivoire to send money directly to Mobile Money wallets in Ghana, as…"
+    },
     {
       "title": "African secondary education systems must transform to prepare youth for jobs – Report",
       "link": "https://www.ghanabusinessnews.com/2026/11/25/african-secondary-education-systems-must-transform-to-prepare-youth-for-jobs-report/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-21T08:00:00.000Z",
       "summary": "CLOGSAG’s national congress has been halted by a court injunction for the second time in four years, raising concerns over recurring leadership disputes and internal governance."
-    },
-    {
-      "title": "Ghana, US Virgin Islands explore new trade and investment opportunities",
-      "link": "https://www.ghanabusinessnews.com/2026/11/21/ghana-us-virgin-islands-explore-new-trade-and-investment-opportunities/",
-      "source": "Ghana Business News",
-      "published": "2026-11-21T07:52:52.000Z",
-      "summary": "Ghana and the United States Virgin Islands (USVI) are seeking to deepen economic cooperation and expand trade and investment opportunities."
-    },
-    {
-      "title": "Bank of Ghana is ready to adopt ECO currency – Governor",
-      "link": "https://www.ghanabusinessnews.com/2026/11/21/bank-of-ghana-is-ready-to-adopt-eco-currency-governor/",
-      "source": "Ghana Business News",
-      "published": "2026-11-21T07:48:22.000Z",
-      "summary": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), says the Central Bank is ready to adopt the ECO, a proposed regional currency designed to reduce cross-border payment costs…"
-    },
-    {
-      "title": "TDC Ghana Ltd wins 4 awards at 2026 Annual Internal Audit Conference",
-      "link": "https://www.myjoyonline.com/tdc-ghana-ltd-wins-4-awards-at-2026-annual-internal-audit-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T07:15:10.000Z",
-      "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…"
     }
   ]
 };
