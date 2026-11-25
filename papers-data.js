@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T04:32:51.919Z",
+  "updated": "2026-11-25T04:42:52.222Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nkrumah Circle phone dealer arrested over alleged GH¢1,000 MoMo bribe to GRA official",
+      "link": "https://www.myjoyonline.com/nkrumah-circle-phone-dealer-arrested-over-alleged-gh%c2%a21000-momo-bribe-to-gra-official/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:35:44.000Z",
+      "summary": "Police arrested a mobile phone dealer at Kwame Nkrumah Circle in Accra on Tuesday afternoon for allegedly attempting to bribe a Ghana Revenue Authority (GRA) official with GH¢1,000 via…",
+      "categories": [
+        "Crime",
+        "Bribery",
+        "Ghana Revenue Authority (GRA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana raises $240m from 5G spectrum sale – Sam George",
+      "link": "https://www.myjoyonline.com/ghana-raises-240m-from-5g-spectrum-sale-sam-george/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:35:00.000Z",
+      "summary": "The government says it has secured more than $240 million from the allocation of spectrum for fifth-generation (5G) mobile services, following a major policy shift intended to open up the…",
+      "categories": [
+        "Technology",
+        "5G",
+        "5G spectrum",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Veteran actor Pete Edochie dies at 79",
       "link": "https://www.myjoyonline.com/veteran-actor-pete-edochie-dies-at-79/",
@@ -100,32 +127,6 @@ window.GDC_PAPERS = {
         "Agriculture",
         "new economy",
         "prospects"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two arrested after break-in at country home of Prince William and wife Kate, UK police say",
-      "link": "https://www.myjoyonline.com/two-arrested-after-break-in-at-country-home-of-prince-william-and-wife-kate-uk-police-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:37:00.000Z",
-      "summary": "Police have arrested two men on suspicion of burglary and trespass after a break-in at the country residence of Britain's Prince William and his wife Kate, British police said on Tuesday.",
-      "categories": [
-        "International",
-        "Kate",
-        "Prince William"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama to launch 5G network before year-end – Sam George",
-      "link": "https://www.myjoyonline.com/mahama-to-launch-5g-network-before-year-end-sam-george/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:31:56.000Z",
-      "summary": "Ghana is expected to join the league of countries with operational 5G networks before the end of this year, with consumers expected to start accessing the service in early 2027.",
-      "categories": [
-        "HP News 2",
-        "Technology",
-        "5G"
       ],
       "site": "https://www.myjoyonline.com/"
     },
