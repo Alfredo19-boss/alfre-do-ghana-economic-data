@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T08:02:52.021Z",
+  "updated": "2026-11-25T08:12:51.408Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gold Fields congratulates Black Challenge on historic World Cup triumph",
+      "link": "https://ghanaiantimes.com.gh/gold-fields-congratulates-black-challenge-on-historic-world-cup-triumph/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:12:11.000Z",
+      "summary": "GOLD Fields Ghana Limited, headline sponsor of Ghana’s Black Challenge, has congratulated the players, technical team, management and officials of the national amputee football team on…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Olise ruled out of Lille clash",
+      "link": "https://ghanaiantimes.com.gh/olise-ruled-out-of-lille-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:05:27.000Z",
+      "summary": "Bayern Munich winger, Michael Olise, has been ruled out of the club’s Champions League match at Lille today, deepening the German giants’ injury woes. Olise, who was subbed off at half-time…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s fixtures",
+      "link": "https://ghanaiantimes.com.gh/todays-fixtures-6/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:04:00.000Z",
+      "summary": "Sabah vs Barcelona Slavia Prague vs Villarreal PSG vs Roma Inter Milan vs Stuttgart Lille vs Bayern Brugge vs Liverpool Shakhtar vs Fenerbahce Atletico vs Viking FK SKIP THE QUEUE, TAP THE…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Sporting to deepen Man Utd woes in Champions League",
       "link": "https://ghanaiantimes.com.gh/sporting-to-deepen-man-utd-woes-in-champions-league/",
@@ -89,41 +122,6 @@ window.GDC_PAPERS = {
         "London"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New fishing zone seeks to protect fish stocks – Commission",
-      "link": "https://ghanaiantimes.com.gh/new-fishing-zone-seeks-to-protect-fish-stocks-commission/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:51:49.000Z",
-      "summary": "THE Fisheries Commission has explained that the extension of Ghana’s Inshore Exclusion Zone (IEZ) from six to 12 nautical miles is necessary to protect fish stocks, sustain the livelihoods…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Give ex-convicts a second chance – Prisons boss",
-      "link": "https://ghanaiantimes.com.gh/give-ex-convicts-a-second-chance-prisons-boss/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:48:15.000Z",
-      "summary": "The Director-General of Prisons, Mrs Patience Baffoe-Bonnie, has appealed to society to give former inmates a second chance by accepting them, supporting their rehabilitation and creating…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "New plan to address kayayei challenges • Gender Ministry develops national management framework",
-      "link": "https://ghanaiantimes.com.gh/new-plan-to-address-kayayei-challenges-gender-ministry-develops-national-management-framework/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:41:06.000Z",
-      "summary": "THE Ministry of Gender, Children and Social Protection (MoGCSP) is developing a national kayayei management framework to coordinate efforts to address the challenges facing head porters in…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "ghana news We’ll protest assault on Ghanaian woman in Iraq - Ablakwa",
