@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:22:52.053Z",
+  "updated": "2026-11-25T05:32:51.987Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘We need quality PhDs’ – Former GES boss backs GTEC freeze",
+      "link": "https://www.myjoyonline.com/we-need-quality-phds-former-ges-boss-backs-gtec-freeze/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:19:00.000Z",
+      "summary": "Former Director-General of the Ghana Education Service (GES), Prof Kwasi Opoku Amankwah, has thrown his weight behind the decision by the Ghana Tertiary Education Commission (GTEC) to…",
+      "categories": [
+        "Education",
+        "News",
+        "GTEC",
+        "PHD"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NHIA CEO hails students’ brilliance as Afia Kobi Ampem Girls’ SHS triumphs in Middle Belt quiz competition",
       "link": "https://www.myjoyonline.com/nhia-ceo-hails-students-brilliance-as-afia-kobi-ampem-girls-shs-triumphs-in-middle-belt-quiz-competition/",
@@ -62,6 +76,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
+      "link": "https://www.myjoyonline.com/senegal-reinstated-as-2025-african-champions-morocco-to-contest-decision/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:04:00.000Z",
+      "summary": "Senegal were reinstated as 2025 Africa Cup of Nations winners on Tuesday after sport's highest court upheld their appeal against being stripped of the title, ruling ​that the referee's…",
+      "categories": [
+        "Africa",
+        "Football",
+        "AFCON",
+        "Morocco",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Madagascar backs Morocco’s autonomy plan for Western Sahara",
       "link": "https://www.myjoyonline.com/madagascar-backs-moroccos-autonomy-plan-for-western-sahara/",
       "source": "MyJoyOnline",
@@ -99,36 +128,6 @@ window.GDC_PAPERS = {
         "Crime",
         "Bribery",
         "Ghana Revenue Authority (GRA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana raises $240m from 5G spectrum sale – Sam George",
-      "link": "https://www.myjoyonline.com/ghana-raises-240m-from-5g-spectrum-sale-sam-george/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:35:00.000Z",
-      "summary": "The government says it has secured more than $240 million from the allocation of spectrum for fifth-generation (5G) mobile services, following a major policy shift intended to open up the…",
-      "categories": [
-        "Technology",
-        "5G",
-        "5G spectrum",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Veteran actor Pete Edochie dies at 79",
-      "link": "https://www.myjoyonline.com/veteran-actor-pete-edochie-dies-at-79/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:25:02.000Z",
-      "summary": "Veteran Nigerian actor and broadcaster Chief Pete Edochie died at 79.",
-      "categories": [
-        "Africa",
-        "HP Entertainment 1",
-        "HP News 10",
-        "Movies",
-        "Nollywood",
-        "Pete Edochie"
       ],
       "site": "https://www.myjoyonline.com/"
     },
