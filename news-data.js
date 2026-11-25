@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T05:02:23.753Z",
+  "updated": "2026-11-25T05:12:21.088Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Targets US$10bn as Mahama seeks German Industrial Partnerships",
+      "link": "https://thehighstreetjournal.com/ghana-targets-us10bn-as-mahama-seeks-german-industrial-partnerships/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:05:00.000Z",
+      "summary": "Ghana is targeting US$10 billion in investment by 2030 as Mahama courts German businesses to support manufacturing, agro-processing, technology transfer and industrial expansion across the…"
+    },
+    {
+      "title": "Ghana, North Rhine-Westphalia Renew Five-Year Partnership To Deepen Economic And Educational Ties",
+      "link": "https://thehighstreetjournal.com/ghana-north-rhine-westphalia-renew-five-year-partnership-to-deepen-economic-and-educational-ties/",
+      "source": "The High Street Journal",
+      "published": "2026-11-25T05:03:00.000Z",
+      "summary": "Agreement seeks to expand trade, skills development, research and people-to-people cooperation."
+    },
     {
       "title": "AMEA Calls for Business Support Funding Under US$3bn Agric Investment Plan",
       "link": "https://thehighstreetjournal.com/amea-ghana-calls-for-dedicated-funding-for-agribusiness-sector-under-us3bn-agriculture-plan/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-21T05:05:00.000Z",
       "summary": "Proposed import duty and VAT exemptions could lower the cost of solar installations, opening up opportunities for households and businesses to reduce their dependence on the national grid."
-    },
-    {
-      "title": "Ghanaian Shoppers Put Affordability Ahead of Brand Loyalty",
-      "link": "https://thehighstreetjournal.com/ghanaian-shoppers-put-affordability-ahead-of-brand-loyalty/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:03:00.000Z",
-      "summary": "Ghana’s recovering FMCG market faces price-sensitive consumers, forcing businesses to rethink pack sizes, pricing, cost management and local innovation to protect sales and margins in 2027."
-    },
-    {
-      "title": "Ghana’s Productivity Gains Leave Workers Waiting For Better Pay",
-      "link": "https://thehighstreetjournal.com/ghanas-productivity-gains-leave-workers-waiting-for-better-pay/",
-      "source": "The High Street Journal",
-      "published": "2026-11-21T05:02:00.000Z",
-      "summary": "The average worker generated GH¢15,197 in economic output in 2025, but annual earnings stood at GH¢9,388, according to the Ghana Statistical Service."
     }
   ]
 };

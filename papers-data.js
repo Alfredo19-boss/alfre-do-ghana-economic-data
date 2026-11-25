@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:02:51.346Z",
+  "updated": "2026-11-25T05:12:51.507Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sissala East MP Bataglia vows to fix Tumu Municipal Hospital",
+      "link": "https://www.myjoyonline.com/sissala-east-mp-bataglia-vows-to-fix-tumu-municipal-hospital/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:06:21.000Z",
+      "summary": "It was not a rally. It was not a campaign stop. It was Sissala East asking, plainly, for what it needs to survive — and the people in power answering, live, with no place to hide. From…",
+      "categories": [
+        "Health",
+        "News",
+        "Hospital",
+        "Tumu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Farmers are crying, food is rotting – Annoh-Dompreh demands action",
+      "link": "https://www.myjoyonline.com/farmers-are-crying-food-is-rotting-annoh-dompreh-demands-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T04:44:00.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has raised alarm over the plight of Ghanaian farmers, warning that food is rotting on farms while producers struggle to find buyers for their harvest.",
+      "categories": [
+        "Politics",
+        "Farmers",
+        "Food",
+        "Frank Annoh-Dompreh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nkrumah Circle phone dealer arrested over alleged GH¢1,000 MoMo bribe to GRA official",
       "link": "https://www.myjoyonline.com/nkrumah-circle-phone-dealer-arrested-over-alleged-gh%c2%a21000-momo-bribe-to-gra-official/",
@@ -101,33 +129,6 @@ window.GDC_PAPERS = {
         "Technology",
         "5G",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Around 175 migrants unaccounted for after contact lost with boat from Senegal",
-      "link": "https://www.myjoyonline.com/around-175-migrants-unaccounted-for-after-contact-lost-with-boat-from-senegal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:43:00.000Z",
-      "summary": "Around 175 migrants are unaccounted for after contact was lost with a Europe-bound boat that ​left the Senegalese capital Dakar about two weeks ‌ago, local officials and a human rights…",
-      "categories": [
-        "Africa",
-        "Migrants",
-        "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
-      "link": "https://www.myjoyonline.com/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T03:40:05.000Z",
-      "summary": "Every nation develops a plan to guide its development. Ghana is no exception, having pursued various development plans since the colonial period to promote economic growth and social…",
-      "categories": [
-        "Opinion",
-        "Agriculture",
-        "new economy",
-        "prospects"
       ],
       "site": "https://www.myjoyonline.com/"
     },
