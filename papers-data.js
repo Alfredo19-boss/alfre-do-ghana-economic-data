@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T03:42:52.374Z",
+  "updated": "2026-11-25T03:52:51.693Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "5G mirage: Sam George blasts Akufo-Addo gov’t over zero signal two years after launch",
+      "link": "https://www.myjoyonline.com/5g-mirage-sam-george-blasts-akufo-addo-govt-over-zero-signal-two-years-after-launch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:45:32.000Z",
+      "summary": "Nearly two years after Ghana staged a high-profile launch of its fifth-generation (5G) mobile technology, consumers are still waiting to experience the service, the Minister for…",
+      "categories": [
+        "Technology",
+        "5G",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
+      "link": "https://www.myjoyonline.com/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:40:05.000Z",
+      "summary": "Every nation develops a plan to guide its development. Ghana is no exception, having pursued various development plans since the colonial period to promote economic growth and social…",
+      "categories": [
+        "Opinion",
+        "Agriculture",
+        "new economy",
+        "prospects"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama to launch 5G network before year-end – Sam George",
       "link": "https://www.myjoyonline.com/mahama-to-launch-5g-network-before-year-end-sam-george/",
@@ -95,34 +122,6 @@ window.GDC_PAPERS = {
         "Education",
         "Ghana Tertiary Education Commission (GTEC)",
         "UTAG-UG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to recruit 10,000 more health workers next week – Akandoh",
-      "link": "https://www.myjoyonline.com/government-to-recruit-10000-more-health-workers-next-week-akandoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:31:50.000Z",
-      "summary": "The government is set to add 10,000 health professionals to the public health workforce within the next week, a move that will take the number of recruits under the current administration…",
-      "categories": [
-        "Health",
-        "News",
-        "Recruitment",
-        "Workers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Yoro red card overturned, but refs’ chief Webb backs decision",
-      "link": "https://www.myjoyonline.com/yoro-red-card-overturned-but-refs-chief-webb-backs-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:15:00.000Z",
-      "summary": "Manchester United defender Leny Yoro has had the red card shown to him at Anfield overturned by the Football Association - even though referees' chief Howard Webb has backed the decision to…",
-      "categories": [
-        "Football",
-        "News",
-        "Howard Webb",
-        "Leny Yoro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
