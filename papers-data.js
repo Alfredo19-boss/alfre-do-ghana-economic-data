@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T14:13:59.071Z",
+  "updated": "2026-11-25T14:28:58.657Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sterling given suspended sentence for dangerous driving",
+      "link": "https://www.myjoyonline.com/sterling-given-suspended-sentence-for-dangerous-driving/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:24:50.000Z",
+      "summary": "The 31-year-old, from Berkshire, who later crashed into a metal gate during rush hour, gave no reaction as he was handed a 12-month jail term, suspended for 18 months, at Basingstoke…",
+      "categories": [
+        "Football",
+        "Raheem Sterling"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister urges Africa to fix secondary education.",
+      "link": "https://www.myjoyonline.com/education-minister-urges-africa-to-fix-secondary-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:24:25.000Z",
+      "summary": "Education Minister Haruna Iddrisu has challenged African governments to move beyond simply expanding access to secondary education and to focus on what happens to young people after they…",
+      "categories": [
+        "Education",
+        "Haruna Iddrisu",
+        "Master Card Foundation",
+        "Secondary school education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "RE : The claim that the people of Larabanga are intolerant of other religious faiths",
+      "link": "https://www.myjoyonline.com/re-the-claim-that-the-people-of-larabanga-are-intolerant-of-other-religious-faiths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T14:21:16.000Z",
+      "summary": "The people of Larabanga deserve better than a sweeping accusation that casts an entire community as religiously intolerant. Such a claim damages reputations, undermines livelihoods and…",
+      "categories": [
+        "Opinion",
+        "Larabanga",
+        "religious faiths"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GABS 2026: Africa must rise now, not keep talking about potential – Sierra Leone’s Freetown Mayor",
       "link": "https://www.myjoyonline.com/gabs-2026-africa-must-rise-now-not-keep-talking-about-potential-sierra-leones-freetown-mayor/",
@@ -143,22 +182,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "French Ambassador praises Ghana’s economic progress",
-      "link": "https://www.myjoyonline.com/french-ambassador-praises-ghanas-economic-progress/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:27:37.000Z",
-      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has commended the country’s economic progress, congratulating Finance Minister Dr Cassiel Ato Forson on the economy’s performance. The…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Diarra Dimé-Labille",
-        "Dr. Ato Forson",
-        "French Embassy",
-        "Ministry of Finance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Bayern Munich hold talks with Musiala’s management ahead of Lille trip",
       "link": "https://ghanaiantimes.com.gh/bayern-munich-hold-talks-with-musialas-management-ahead-of-lille-trip/",
       "source": "Ghanaian Times",
@@ -169,36 +192,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Julius Debrah calls for investment in youth to secure Ghana’s future",
-      "link": "https://www.myjoyonline.com/julius-debrah-calls-for-investment-in-youth-to-secure-ghanas-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:25:41.000Z",
-      "summary": "Chief of Staff, Julius Debrah, has called for deliberate policies, programmes and opportunities to empower young people to contribute meaningfully to Ghana’s development.",
-      "categories": [
-        "National",
-        "Breman Odwira 2026",
-        "Julius Debrah",
-        "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kissi Agyebeng urges youth to reject ill-gotten wealth, uphold integrity",
-      "link": "https://www.myjoyonline.com/kissi-agyebeng-urges-youth-to-reject-ill-gotten-wealth-uphold-integrity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:25:30.000Z",
-      "summary": "Special Prosecutor Kissi Agyebeng has urged Ghanaian youth to reject the growing acceptance of ill-gotten wealth and make integrity a personal responsibility in the fight against corruption.",
-      "categories": [
-        "National",
-        "News",
-        "ill-gotten wealth",
-        "Integrity",
-        "Kissi Agyebeng",
-        "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Funeral of late lawyer Stephen Kwabena Boateng closed to bloggers and private photographers",
