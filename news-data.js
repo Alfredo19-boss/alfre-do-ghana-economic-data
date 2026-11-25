@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T08:32:21.425Z",
+  "updated": "2026-11-25T08:47:21.280Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "African secondary education systems must transform to prepare youth for jobs – Report",
+      "link": "https://www.ghanabusinessnews.com/2026/11/25/african-secondary-education-systems-must-transform-to-prepare-youth-for-jobs-report/",
+      "source": "Ghana Business News",
+      "published": "2026-11-25T08:43:50.000Z",
+      "summary": "Secondary education systems across Africa must undergo significant transformation to equip young people with relevant skills and prepare them for employment, entrepreneurship and lifelong…"
+    },
     {
       "title": "GHIB and Ghana EXIM Bank advance partnership to support international growth of Ghanaian businesses",
       "link": "https://www.myjoyonline.com/ghib-and-ghana-exim-bank-advance-partnership-to-support-international-growth-of-ghanaian-businesses/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-21T07:15:10.000Z",
       "summary": "TDC Ghana Ltd has earned four prestigious awards at the 2026 Annual Internal Audit Conference, reinforcing its growing record of institutional excellence and commitment to sound corporate…"
-    },
-    {
-      "title": "JL Properties ranks 55th at 2026 Ghana Club 100 Awards",
-      "link": "https://www.myjoyonline.com/jl-properties-ranks-55th-at-2026-ghana-club-100-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-21T06:29:00.000Z",
-      "summary": "JL Properties, an indigenous real estate development company has been ranked 55th in the latest Ghana Club 100 list. The ranking was announced at the Ghana Club 100 Awards held at the La…"
     }
   ]
 };
