@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T03:52:51.693Z",
+  "updated": "2026-11-25T04:02:51.566Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -60,6 +60,32 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "GTEC says nationwide freeze on new PhD programmes will not last beyond a month",
+      "link": "https://www.myjoyonline.com/gtec-says-nationwide-freeze-on-new-phd-programmes-will-not-last-beyond-a-month/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:29:00.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has assured tertiary institutions that its nationwide freeze on new PhD programmes will last no longer than a month.",
+      "categories": [
+        "Education",
+        "Ghana Tertiary Education Commission (GTEC)",
+        "Prof Augustine Ocloo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PhD Suspension: GTEC apologises for anxiety over freeze on new academic programmes",
+      "link": "https://www.myjoyonline.com/phd-suspension-gtec-apologises-for-anxiety-over-freeze-on-new-academic-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T03:10:00.000Z",
+      "summary": "The Deputy Director-General of the Ghana Tertiary Education Commission (GTEC), Prof. Augustine Ocloo, has apologised for the anxiety caused by the Commission’s directive freezing the…",
+      "categories": [
+        "Education",
+        "Ghana Tertiary Education Commission (GTEC)",
+        "Prof Augustine Ocloo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "FDA targets WHO Listed Authority status as it marks 30th anniversary",
       "link": "https://www.myjoyonline.com/fda-targets-who-listed-authority-status-as-it-marks-30th-anniversary/",
       "source": "MyJoyOnline",
@@ -96,32 +122,6 @@ window.GDC_PAPERS = {
         "International",
         "child sexual abuse",
         "Thomas Markle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US House Democrats expand probe into Trump Jr.’s investments",
-      "link": "https://www.myjoyonline.com/us-house-democrats-expand-probe-into-trump-jr-s-investments/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:42:00.000Z",
-      "summary": "US House Democrats probing Donald Trump Jr.'s business dealings have sought records ‌from prediction market firm Polymarket, vaping company Juul and two other companies tied to 1789…",
-      "categories": [
-        "International",
-        "Donald Trump Jr.",
-        "US House Democrats"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Years of investment at risk as GTEC freezes PhD programme accreditation – UTAG-UG",
-      "link": "https://www.myjoyonline.com/years-of-investment-at-risk-as-gtec-freezes-phd-programme-accreditation-utag-ug/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T02:33:00.000Z",
-      "summary": "Dr Jerry Joe Harrison argues that suspending accreditation for new PhD programmes could undermine universities' efforts to build local expertise, reduce dependence on foreign training, and…",
-      "categories": [
-        "Education",
-        "Ghana Tertiary Education Commission (GTEC)",
-        "UTAG-UG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
