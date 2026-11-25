@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T03:22:52.837Z",
+  "updated": "2026-11-25T03:32:51.945Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -48,6 +48,32 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Thomas Markle charged in US on second count of possessing child sexual abuse material",
+      "link": "https://www.myjoyonline.com/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:51:00.000Z",
+      "summary": "Thomas Markle, the estranged father of ‌Britain's Duchess of Sussex, Meghan Markle, and father-in-law of Britain's Prince Harry, was indicted on Tuesday in US federal court on two counts of…",
+      "categories": [
+        "International",
+        "child sexual abuse",
+        "Thomas Markle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US House Democrats expand probe into Trump Jr.’s investments",
+      "link": "https://www.myjoyonline.com/us-house-democrats-expand-probe-into-trump-jr-s-investments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:42:00.000Z",
+      "summary": "US House Democrats probing Donald Trump Jr.'s business dealings have sought records ‌from prediction market firm Polymarket, vaping company Juul and two other companies tied to 1789…",
+      "categories": [
+        "International",
+        "Donald Trump Jr.",
+        "US House Democrats"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Years of investment at risk as GTEC freezes PhD programme accreditation – UTAG-UG",
       "link": "https://www.myjoyonline.com/years-of-investment-at-risk-as-gtec-freezes-phd-programme-accreditation-utag-ug/",
       "source": "MyJoyOnline",
@@ -57,6 +83,20 @@ window.GDC_PAPERS = {
         "Education",
         "Ghana Tertiary Education Commission (GTEC)",
         "UTAG-UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to recruit 10,000 more health workers next week – Akandoh",
+      "link": "https://www.myjoyonline.com/government-to-recruit-10000-more-health-workers-next-week-akandoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T02:31:50.000Z",
+      "summary": "The government is set to add 10,000 health professionals to the public health workforce within the next week, a move that will take the number of recruits under the current administration…",
+      "categories": [
+        "Health",
+        "News",
+        "Recruitment",
+        "Workers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -84,53 +124,6 @@ window.GDC_PAPERS = {
         "Football",
         "Bayern Munich",
         "Jamal Musiala"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Qualified but unemployed: who is responsible?",
-      "link": "https://www.myjoyonline.com/qualified-but-unemployed-who-is-responsible/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T01:37:09.000Z",
-      "summary": "According to the Ghana Statistical Service, unemployment among young people aged 15 to 35 averaged 21.9% during the first three quarters of 2025, compared with a national rate of 12.8%…",
-      "categories": [
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "GSS",
-        "Ministry of Employment",
-        "World Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Did the 2027 Budget pass the 5 tests?",
-      "link": "https://www.myjoyonline.com/did-the-2027-budget-pass-the-5-tests/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T01:23:51.000Z",
-      "summary": "The budget answers this test directly. The US$10 billion New Economy programme will run from 2027 to 2030, supported by lowering the primary surplus target by one percentage point of GDP…",
-      "categories": [
-        "Business",
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "2027 Budget",
-        "capital expenditure",
-        "DDEP",
-        "GDP",
-        "new economy",
-        "Revenue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From Ghanaian theatre rehearsals to Hollywood: Tandoh-Adote breaks new ground",
-      "link": "https://www.myjoyonline.com/from-ghanaian-theatre-rehearsals-to-hollywood-tandoh-adote-breaks-new-ground/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T01:04:00.000Z",
-      "summary": "Ghanaian actor Andrew Tandoh-Adote is taking on a new challenge in international filmmaking, having secured an appointment as acting coach on The Neighbor, an upcoming thriller being…",
-      "categories": [
-        "Movies",
-        "Acting",
-        "Andrew Tandoh-Adote"
       ],
       "site": "https://www.myjoyonline.com/"
     },

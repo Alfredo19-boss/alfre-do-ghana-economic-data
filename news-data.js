@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T03:22:22.253Z",
+  "updated": "2026-11-25T03:32:21.629Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Women’s Bank begins recruitment ahead of December head office handover",
+      "link": "https://www.myjoyonline.com/womens-bank-begins-recruitment-ahead-of-december-head-office-handover/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T01:47:55.000Z",
+      "summary": "The government has stepped up preparations to operationalise the Women’s Development Bank, with recruitment of its management and staff already underway ahead of its planned launch in the…"
+    },
     {
       "title": "Did the 2027 Budget pass the 5 tests?",
       "link": "https://www.myjoyonline.com/did-the-2027-budget-pass-the-5-tests/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-20T18:02:40.000Z",
       "summary": "According to the GSS, unemployment is highest among people with secondary education, at 36.2%, compared with 14.3% among people with tertiary education (Quarter 3 2025 only)."
-    },
-    {
-      "title": "MTN Ghana marks 30 years of operations, acknowledges customers and stakeholders",
-      "link": "https://www.myjoyonline.com/mtn-ghana-marks-30-years-of-operations-acknowledges-customers-and-stakeholders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-20T17:33:51.000Z",
-      "summary": "MTN Ghana has marked 30 years of operations in the country, acknowledging the contribution of customers, employees, business partners, government institutions and communities to its growth…"
     }
   ]
 };
