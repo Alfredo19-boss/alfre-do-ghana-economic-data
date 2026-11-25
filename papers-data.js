@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T22:56:58.720Z",
+  "updated": "2026-11-25T23:06:58.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "link": "https://www.myjoyonline.com/poundland-collapses-putting-11000-jobs-at-risk/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T22:41:00.000Z",
+      "summary": "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business.",
+      "categories": [
+        "International",
+        "Poundland"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
       "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
@@ -110,18 +122,6 @@ window.GDC_PAPERS = {
         "News",
         "Egypt",
         "Fire"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "link": "https://www.myjoyonline.com/israeli-judges-recommend-dropping-most-serious-charges-against-netanyahu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T21:36:00.000Z",
-      "summary": "Judges in Israel have suggested prosecutors drop bribery charges against Benjamin Netanyahu, potentially handing the caretaker prime minister a boost as he fights for his political survival.",
-      "categories": [
-        "International",
-        "Isreal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
