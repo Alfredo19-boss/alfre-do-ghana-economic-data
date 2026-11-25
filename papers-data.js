@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T15:23:59.447Z",
+  "updated": "2026-11-25T15:28:59.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -34,6 +34,17 @@ window.GDC_PAPERS = {
         "Military personnel"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Firefighters battle blaze at Accra Timber Market (VIDEO)",
+      "link": "https://www.graphic.com.gh/news/general-news/firefighters-battle-blaze-at-accra-timber-market-video.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-25T15:15:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Language barriers, import duties hindering Africa’s trade potential – Sierra Leone Mayor",
@@ -278,17 +289,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/55-drop-in-police-deaths-president-mahama-says-zero-fatalities-is-the-target.html",
       "source": "Daily Graphic",
       "published": "2026-11-25T11:26:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "How to avoid Black Friday scams: Cyber Security Authority shares safety tips",
-      "link": "https://www.graphic.com.gh/news/general-news/how-to-avoid-black-friday-scams-cyber-security-authority-shares-safety-tips.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T11:15:07.000Z",
       "summary": "",
       "categories": [
         "General News"
