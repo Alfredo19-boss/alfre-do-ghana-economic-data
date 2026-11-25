@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T23:06:58.843Z",
+  "updated": "2026-11-25T23:26:59.140Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Power supply curtailed in parts of Kumasi as illegal logging damages GRIDCo line",
+      "link": "https://www.myjoyonline.com/power-supply-curtailed-in-parts-of-kumasi-as-illegal-logging-damages-gridco-line/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T23:13:12.000Z",
+      "summary": "Power supply to parts of the Western and Ashanti regions has been disrupted after illegal chainsaw operators felled a large tree onto a major 330kV transmission line operated by the Ghana…",
+      "categories": [
+        "HP News 5"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "link": "https://www.myjoyonline.com/poundland-collapses-putting-11000-jobs-at-risk/",
@@ -109,19 +120,6 @@ window.GDC_PAPERS = {
         "GIMPA",
         "Job market",
         "Jobberman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
-      "link": "https://www.myjoyonline.com/at-least-30-killed-in-massive-fire-as-fuel-truck-crashes-on-cairo-highway/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T21:50:00.000Z",
-      "summary": "At least 30 people have been killed and 19 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says.",
-      "categories": [
-        "News",
-        "Egypt",
-        "Fire"
       ],
       "site": "https://www.myjoyonline.com/"
     },
