@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T08:22:52.234Z",
+  "updated": "2026-11-25T08:32:51.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Old Abuscodians inaugurate new executives",
+      "link": "https://ghanaiantimes.com.gh/old-abuscodians-inaugurate-new-executives/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:30:11.000Z",
+      "summary": "THE Old Students Association of Abuakwa State College (Old Abuscodians Association) has inaugurated its newly elected executives to steer the affairs of the association. The executives are…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Crystal Heights wins 26 Pearson awards, records 12 global top scores",
+      "link": "https://ghanaiantimes.com.gh/crystal-heights-wins-26-pearson-awards-records-12-global-top-scores/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:28:40.000Z",
+      "summary": "CRYSTAL Heights International School has won 26 of the 34 awards presented at the 2026 Outstanding Pearson Learner Awards, with 12 of its students recording the highest scores in the world…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Telecel Homecoming clears hospital bills for over 100 patients",
+      "link": "https://ghanaiantimes.com.gh/telecel-homecoming-clears-hospital-bills-for-over-100-patients/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:26:22.000Z",
+      "summary": "AFTER more than a month at the Cape Coast Teaching Hospital, a young patient who had been treated for a chronic infection that caused severe weight loss was finally well enough to leave…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPA warns schools against continued use of firewood",
+      "link": "https://ghanaiantimes.com.gh/npa-warns-schools-against-continued-use-of-firewood/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T08:24:34.000Z",
+      "summary": "BOARDING school authorities have been encouraged to take decisive action to consider ending the use of firewood and charcoal in their school kitchens across the country, amid growing…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "KGL Foundation supports Aburi Girls with GH¢5m STEM Centre",
       "link": "https://ghanaiantimes.com.gh/kgl-foundation-supports-aburi-girls-with-gh%c2%a25m-stem-centre/",
@@ -61,50 +105,6 @@ window.GDC_PAPERS = {
       "summary": "THREE Ghanaian referees have earned prestigious international promotions following their outstanding performances at the just-ended World Armwrestling Championship in India, marking another…",
       "categories": [
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gold Fields congratulates Black Challenge on historic World Cup triumph",
-      "link": "https://ghanaiantimes.com.gh/gold-fields-congratulates-black-challenge-on-historic-world-cup-triumph/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:12:11.000Z",
-      "summary": "GOLD Fields Ghana Limited, headline sponsor of Ghana’s Black Challenge, has congratulated the players, technical team, management and officials of the national amputee football team on…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Olise ruled out of Lille clash",
-      "link": "https://ghanaiantimes.com.gh/olise-ruled-out-of-lille-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:05:27.000Z",
-      "summary": "Bayern Munich winger, Michael Olise, has been ruled out of the club’s Champions League match at Lille today, deepening the German giants’ injury woes. Olise, who was subbed off at half-time…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s fixtures",
-      "link": "https://ghanaiantimes.com.gh/todays-fixtures-6/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:04:00.000Z",
-      "summary": "Sabah vs Barcelona Slavia Prague vs Villarreal PSG vs Roma Inter Milan vs Stuttgart Lille vs Bayern Brugge vs Liverpool Shakhtar vs Fenerbahce Atletico vs Viking FK SKIP THE QUEUE, TAP THE…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Sporting to deepen Man Utd woes in Champions League",
-      "link": "https://ghanaiantimes.com.gh/sporting-to-deepen-man-utd-woes-in-champions-league/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:02:35.000Z",
-      "summary": "Fresh from another humbling Premier League setback, Manchester United will attempt to return to winning ways when they travel to the Estadio Jose Alvalade to face Sporting Lisbon in the…",
-      "categories": [
-        "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
