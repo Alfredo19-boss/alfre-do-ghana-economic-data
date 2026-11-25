@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T05:42:51.514Z",
+  "updated": "2026-11-25T05:52:52.018Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GTEC right to freeze PhD accreditations, but acted too late – Eduwatch",
+      "link": "https://www.myjoyonline.com/gtec-right-to-freeze-phd-accreditations-but-acted-too-late-eduwatch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:44:00.000Z",
+      "summary": "The Executive Director of Africa Education Watch (Eduwatch), Kofi Asare, has endorsed the Ghana Tertiary Education Commission’s (GTEC) decision to suspend the processing of fresh…",
+      "categories": [
+        "Education",
+        "News",
+        "GTEC",
+        "University"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "“Water comes before roads”: PURC boss urges government to replicate Big Push agenda in water sector",
       "link": "https://www.myjoyonline.com/water-comes-before-roads-purc-boss-urges-government-to-replicate-big-push-agenda-in-water-sector/",
       "source": "MyJoyOnline",
@@ -30,6 +44,18 @@ window.GDC_PAPERS = {
         "News",
         "PURC",
         "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Reading the Odds: A Ghanaian football fan’s guide to sports betting markets",
+      "link": "https://www.myjoyonline.com/reading-the-odds-a-ghanaian-football-fans-guide-to-sports-betting-markets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T05:21:00.000Z",
+      "summary": "Whether it is a Ghana Premier League derby, a Black Stars qualifier on the road to AFCON 2027 or a big Saturday in the English Premier League, fans love to debate who will win, how many…",
+      "categories": [
+        "News",
+        "Soorts betting"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -99,35 +125,6 @@ window.GDC_PAPERS = {
         "News",
         "Hospital",
         "Tumu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
-      "link": "https://www.myjoyonline.com/senegal-reinstated-as-2025-african-champions-morocco-to-contest-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T05:04:00.000Z",
-      "summary": "Senegal were reinstated as 2025 Africa Cup of Nations winners on Tuesday after sport's highest court upheld their appeal against being stripped of the title, ruling ​that the referee's…",
-      "categories": [
-        "Africa",
-        "Football",
-        "AFCON",
-        "Morocco",
-        "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Madagascar backs Morocco’s autonomy plan for Western Sahara",
-      "link": "https://www.myjoyonline.com/madagascar-backs-moroccos-autonomy-plan-for-western-sahara/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T04:53:00.000Z",
-      "summary": "Madagascar has reaffirmed its support for Morocco’s territorial integrity and its proposed autonomy plan for Western Sahara, strengthening diplomatic ties between the two African nations.",
-      "categories": [
-        "Africa",
-        "Madagascar",
-        "Morocco",
-        "Western Sahara"
       ],
       "site": "https://www.myjoyonline.com/"
     },
