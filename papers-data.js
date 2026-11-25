@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T07:42:52.268Z",
+  "updated": "2026-11-25T07:52:52.572Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "New fishing zone seeks to protect fish stocks – Commission",
+      "link": "https://ghanaiantimes.com.gh/new-fishing-zone-seeks-to-protect-fish-stocks-commission/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:51:49.000Z",
+      "summary": "THE Fisheries Commission has explained that the extension of Ghana’s Inshore Exclusion Zone (IEZ) from six to 12 nautical miles is necessary to protect fish stocks, sustain the livelihoods…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Give ex-convicts a second chance – Prisons boss",
+      "link": "https://ghanaiantimes.com.gh/give-ex-convicts-a-second-chance-prisons-boss/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-25T07:48:15.000Z",
+      "summary": "The Director-General of Prisons, Mrs Patience Baffoe-Bonnie, has appealed to society to give former inmates a second chance by accepting them, supporting their rehabilitation and creating…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "New plan to address kayayei challenges • Gender Ministry develops national management framework",
       "link": "https://ghanaiantimes.com.gh/new-plan-to-address-kayayei-challenges-gender-ministry-develops-national-management-framework/",
@@ -99,29 +122,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana targets diaspora capital to drive investment, create jobs",
-      "link": "https://ghanaiantimes.com.gh/ghana-targets-diaspora-capital-to-drive-investment-create-jobs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T07:00:56.000Z",
-      "summary": "GHANA has turned to its global diaspora for capital, skills and business partnerships to expand local industries and create jobs. The new drive to involve the global diaspora for capital…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Born without a visa, but required to have one to explore the world: The paradox of sovereignty, human mobility and global inequality",
-      "link": "https://ghanaiantimes.com.gh/born-without-a-visa-but-required-to-have-one-to-explore-the-world-the-paradox-of-sovereignty-human-mobility-and-global-inequality/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T06:58:31.000Z",
-      "summary": "I have often wondered why a human being needs permission, in the form of a visa, to travel to another part of the world. Why should someone who wishes to study, work, attend a conference…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
