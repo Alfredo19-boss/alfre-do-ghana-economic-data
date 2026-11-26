@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T15:14:01.711Z",
+  "updated": "2026-11-26T15:24:01.531Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Tullow targets 10 new wells from 2027 after posting strong operational and financial performance",
+      "link": "https://www.myjoyonline.com/tullow-targets-10-new-wells-from-2027-after-posting-strong-operational-and-financial-performance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:18:35.000Z",
+      "summary": "According to the oil producing giant, it has already purchased an FPSO for the TEN oil drilling programme, which should be in place by the end of the first quarter of 2027 and will complete…",
+      "categories": [
+        "Business",
+        "Energy",
+        "FPSO",
+        "Ian Perks",
+        "Jubilee",
+        "TEN",
+        "Tullow"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two-year BECE ban could punish gifted pupils for academic progress – NPP",
+      "link": "https://www.myjoyonline.com/two-year-bece-ban-could-punish-gifted-pupils-for-academic-progress-npp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:12:55.000Z",
+      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has questioned how the government's two-year restriction on early BECE candidates will be enforced, warning that it could…",
+      "categories": [
+        "Education",
+        "National",
+        "BECE",
+        "Gifted pupils",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Adults, not pupils, should face sanctions over early BECE registration – NPP",
       "link": "https://www.myjoyonline.com/adults-not-pupils-should-face-sanctions-over-early-bece-registration-npp/",
@@ -143,33 +175,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Navy and Danish Special Operations Command deepen maritime security cooperation",
-      "link": "https://www.myjoyonline.com/ghana-navy-and-danish-special-operations-command-deepen-maritime-security-cooperation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:05:47.000Z",
-      "summary": "The Ghana Navy and the Danish Special Operations Command (SOCOM) have reaffirmed their commitment to strengthening cooperation in maritime security, specialised training and operational…",
-      "categories": [
-        "National",
-        "Danish Special Operations Command",
-        "Ghana Navy",
-        "maritime security cooperation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa announces medical support, repatriation for Ghanaian domestic workers abroad",
-      "link": "https://www.myjoyonline.com/ablakwa-announces-medical-support-repatriation-for-ghanaian-domestic-workers-abroad/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T13:56:33.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has announced that Ghana's diplomatic missions abroad have received consular approval to settle the medical bills of Ghanaian…",
-      "categories": [
-        "National",
-        "Ghanaian domestic workers",
-        "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama heads to Barbados for a state visit from Nov 26-30",

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T15:13:31.824Z",
+  "updated": "2026-11-26T15:23:30.943Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Tullow targets 10 new wells from 2027 after posting strong operational and financial performance",
+      "link": "https://www.myjoyonline.com/tullow-targets-10-new-wells-from-2027-after-posting-strong-operational-and-financial-performance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:18:35.000Z",
+      "summary": "According to the oil producing giant, it has already purchased an FPSO for the TEN oil drilling programme, which should be in place by the end of the first quarter of 2027 and will complete…"
+    },
     {
       "title": "Mahama Reassigns GNPC CEO Kwame Ntow Amoah to Energy Ministry",
       "link": "https://thehighstreetjournal.com/mahama-reassigns-gnpc-ceo-kwame-ntow-amoah-to-energy-ministry/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T18:17:25.000Z",
       "summary": "Vice-President Jane Naana Opoku-Agyemang has urged Ghanaian businesses to adopt AI responsibly, calling for stronger government-industry collaboration on skills development, data…"
-    },
-    {
-      "title": "GNCCI urges government to deepen private sector engagement in New Economy Agenda",
-      "link": "https://www.myjoyonline.com/gncci-urges-government-to-deepen-private-sector-engagement-in-new-economy-agenda/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:26:56.000Z",
-      "summary": "The Ghana National Chamber of Commerce and Industry (GNCCI) has urged the government to deepen its engagement with the private sector in implementing its New Economy Agenda, insisting…"
     }
   ]
 };
