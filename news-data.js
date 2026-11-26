@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T15:53:30.665Z",
+  "updated": "2026-11-26T16:03:31.169Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Planet One expands African mining footprint with $933m Senegal project",
+      "link": "https://www.myjoyonline.com/planet-one-expands-african-mining-footprint-with-933m-senegal-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:58:13.000Z",
+      "summary": "Senegal has taken a major step toward transforming its mining and steel industry by launching the US$933 million Falémé Iron Ore Project, led by UAE-headquartered Planet One Group."
+    },
     {
       "title": "African Youth Need Skills, Finance and Market Access to Become Drivers of Development – Matthias Naab",
       "link": "https://thehighstreetjournal.com/african-youth-need-skills-finance-and-market-access-to-become-drivers-of-development-matthias-naab/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T22:03:22.000Z",
       "summary": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect."
-    },
-    {
-      "title": "Newmont Commits US$15m to Ghana’s Tree for Life Initiative",
-      "link": "https://thehighstreetjournal.com/newmont-commits-us15m-to-ghanas-tree-for-life-initiative/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T18:22:18.000Z",
-      "summary": "Newmont Ghana has committed US$15 million to Ghana's Tree for Life initiative, supporting environmental restoration beyond its mining areas while facing calls to deepen local contractor…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T15:54:01.303Z",
+  "updated": "2026-11-26T16:04:01.660Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,27 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Planet One expands African mining footprint with $933m Senegal project",
+      "link": "https://www.myjoyonline.com/planet-one-expands-african-mining-footprint-with-933m-senegal-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:58:13.000Z",
+      "summary": "Senegal has taken a major step toward transforming its mining and steel industry by launching the US$933 million Falémé Iron Ore Project, led by UAE-headquartered Planet One Group.",
+      "categories": [
+        "Africa",
+        "Mining",
+        "Planet One",
+        "Senegal"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
       "link": "https://ghanaiantimes.com.gh/president-mahama-hands-over-new-fleet-of-aircraft-to-ghana-air-force/",
       "source": "Ghanaian Times",
       "published": "2026-11-26T15:51:04.000Z",
       "summary": "President and Commander-in-Chief John Dramani Mahama has officially handed over a new fleet of aircraft to the Ghana Air Force, marking a significant step in the government’s commitment to…",
       "categories": [
+        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
@@ -155,21 +170,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament’s Education Committee meets UG management, SRC over hostel fee increases",
-      "link": "https://www.myjoyonline.com/parliaments-education-committee-meets-ug-management-src-over-hostel-fee-increases/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:27:42.000Z",
-      "summary": "Parliament's Education Committee has held discussions with the management of the University of Ghana, the Students' Representative Council (SRC) and officials of the Rent Control Department…",
-      "categories": [
-        "Education",
-        "News",
-        "Rent Control",
-        "SRC",
-        "UG"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Allegations never win': Ablakwa breaks silence after US airport confrontation",
