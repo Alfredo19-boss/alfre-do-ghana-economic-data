@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:33:32.071Z",
+  "updated": "2026-11-26T07:43:33.229Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: Retaining critical talent and institutional knowledge",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-retaining-critical-talent-and-institutional-knowledge/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T07:29:48.000Z",
+      "summary": "An organisation’s most valuable knowledge is often held by the people who understand its customers, systems, processes, relationships and operating environment. When experienced employees…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Critical talent",
+        "Daily Insights",
+        "Ernest De-Graft Egyir",
+        "Institutional knowledge"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MahamaCares must reach every Ghanaian • Expert pushes sustainable financing, decentralised specialist facilities",
       "link": "https://ghanaiantimes.com.gh/mahamacares-must-reach-every-ghanaian-expert-pushes-sustainable-financing-decentralised-specialist-facilities/",
@@ -225,19 +241,6 @@ window.GDC_PAPERS = {
         "Cedi",
         "MoMo",
         "wallet"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KAIPTC marks 2026 16 Days of Activism against gender-based violence",
-      "link": "https://www.myjoyonline.com/kaiptc-marks-2026-16-days-of-activism-against-gender-based-violence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:52:00.000Z",
-      "summary": "The Kofi Annan International Peacekeeping Training Centre (KAIPTC) has marked the 2026 commemoration of the 16 Days of Activism Against Gender-Based Violence with a call for stronger action…",
-      "categories": [
-        "National",
-        "Gender-Based Violence",
-        "KAIPTC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
