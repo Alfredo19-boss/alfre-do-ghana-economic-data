@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T04:53:32.185Z",
+  "updated": "2026-11-26T05:03:32.127Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Third term agenda for Mahama a recipe for chaos because we will resist – NPP’s Abanga Fusani",
+      "link": "https://www.myjoyonline.com/third-term-agenda-for-mahama-a-recipe-for-chaos-because-we-will-resist-npps-abanga-fusani/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:56:24.000Z",
+      "summary": "The National Youth Organiser of the New Patriotic Party (NPP), Abanga Yakubu Fusani, has issued a strong warning against calls for what he says will be an unconstitutional third term for…",
+      "categories": [
+        "National",
+        "Politics",
+        "Abanga Fusani",
+        "John Mahama",
+        "Third term"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Heritage series: BoG must explain selection of personalities on new cedi notes – Walewale MP",
       "link": "https://www.myjoyonline.com/heritage-series-bog-must-explain-selection-of-personalities-on-new-cedi-notes-walewale-mp/",
       "source": "MyJoyOnline",
@@ -28,6 +43,46 @@ window.GDC_PAPERS = {
       "summary": "The Minority in Parliament is demanding full disclosure of the cost and decision-making process behind the Bank of Ghana’s (BoG) newly introduced heritage series banknotes, insisting that…",
       "categories": [
         "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Currency Errors: Attah Issah says Minority’s approach is misplaced",
+      "link": "https://www.myjoyonline.com/currency-errors-attah-issah-says-minoritys-approach-is-misplaced/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T03:50:00.000Z",
+      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has criticised the Minority’s approach to seeking answers about errors identified on some Bank of Ghana Heritage Series banknotes.",
+      "categories": [
+        "Politics",
+        "Attah Issah",
+        "Heritage Series"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Attah Issah questions Minority’s push for parliamentary inquiry into currency controversy",
+      "link": "https://www.myjoyonline.com/attah-issah-questions-minoritys-push-for-parliamentary-inquiry-into-currency-controversy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T03:32:00.000Z",
+      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has questioned the Minority’s push for a parliamentary inquiry into the controversy surrounding the Bank of Ghana’s Heritage Series…",
+      "categories": [
+        "Politics",
+        "Attah Issah",
+        "Heritage Series"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Attah Issah questions why only Big Six were honoured on Ghana’s currency",
+      "link": "https://www.myjoyonline.com/attah-issah-questions-why-only-big-six-were-honoured-on-ghanas-currency/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T03:11:00.000Z",
+      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has questioned the historical justification for singling out the Big Six for recognition on Ghana’s currency.",
+      "categories": [
+        "Politics",
+        "Attah Issah",
+        "Big Six",
+        "Heritage Series"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -72,62 +127,6 @@ window.GDC_PAPERS = {
         "Agogomanhene",
         "Funeral",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UK government set to publish new treaties agreed with EU",
-      "link": "https://www.myjoyonline.com/uk-government-set-to-publish-new-treaties-agreed-with-eu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:41:00.000Z",
-      "summary": "The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.",
-      "categories": [
-        "International",
-        "EU",
-        "UK"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Musk says every child in the US will get two SpaceX shares",
-      "link": "https://www.myjoyonline.com/musk-says-every-child-in-the-us-will-get-two-spacex-shares/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:28:00.000Z",
-      "summary": "CEO Elon Musk said on Wednesday in a post ​on X that every child in the ‌US would receive two shares, one from the company and one from him personally.",
-      "categories": [
-        "International",
-        "Elon Musk",
-        "SpaceX"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG needs no parliamentary approval to upgrade currency – Dr Atuahene",
-      "link": "https://www.myjoyonline.com/bog-needs-no-parliamentary-approval-to-upgrade-currency-dr-atuahene/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:22:00.000Z",
-      "summary": "Banking consultant Dr Richmond Atuahene has dismissed suggestions that the Bank of Ghana (BoG) requires parliamentary approval to upgrade the country’s currency.",
-      "categories": [
-        "Banking and Finance",
-        "HP News 1",
-        "National",
-        "Bank of Ghana (BoG)",
-        "Heritage Series",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
-      "link": "https://www.myjoyonline.com/frustration-reigns-for-pochettino-in-chaotic-start-to-man-utd-job/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:13:09.000Z",
-      "summary": "Two games, no wins. Two red cards, two goals scored. One goal disallowed, six conceded. Is it possible for Mauricio Pochettino to have learned anything from a crazy first week as Manchester…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Manchester",
-        "Pochettino"
       ],
       "site": "https://www.myjoyonline.com/"
     },

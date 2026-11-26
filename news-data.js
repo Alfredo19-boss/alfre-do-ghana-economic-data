@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T04:53:01.457Z",
+  "updated": "2026-11-26T05:03:01.804Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "How World Bank’s Food System Resilience Program is Transforming Farming Across West Africa",
+      "link": "https://thehighstreetjournal.com/how-world-banks-food-system-resilience-program-is-transforming-farming-across-west-africa/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:02:00.000Z",
+      "summary": "The Food System Resilience Program transforms West African agriculture across eight nations by connecting smallholder farmers with resilient seeds, technology parks, and digital training…"
+    },
+    {
+      "title": "For Second Consecutive Year, THSJ Individual Earns Recognition at PK Awards",
+      "link": "https://thehighstreetjournal.com/for-second-consecutive-year-thsj-individual-earns-recognition-at-pk-awards/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:01:00.000Z",
+      "summary": "THSJ records a second consecutive year of recognition at the PK Amoabeng Leadership Foundation Awards, as another team member earns honours for leadership development and excellence."
+    },
+    {
+      "title": "MoMo Assures Customers of Continued Service Under Revised Transaction Limits",
+      "link": "https://thehighstreetjournal.com/momo-assures-customers-of-continued-service-under-revised-transaction-limits/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:00:00.000Z",
+      "summary": "MoMo assures customers of uninterrupted mobile money services and protected wallet balances as revised transaction limits take effect under Bank of Ghana requirements."
+    },
+    {
+      "title": "COP31 Deadlock Exposes Risks for Oil-Dependent Economies, NRGI Warns",
+      "link": "https://thehighstreetjournal.com/cop31-deadlock-exposes-risks-for-oil-dependent-economies-nrgi-warns/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:00:00.000Z",
+      "summary": "NRGI warns oil-dependent countries to plan for declining fossil fuel demand, protecting public finances, jobs and investment as the energy transition accelerates."
+    },
+    {
+      "title": "OPEC Chief Defends Oil Producers’ Role in COP31 Talks, Calls for ‘All Energies’ Approach",
+      "link": "https://thehighstreetjournal.com/opec-defends-oil-producers-role-in-cop31/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:00:00.000Z",
+      "summary": "He said the draft, prepared by the COP31 presidency, incorporated the full “UAE Consensus” agreed at COP28 in 2023, covering emissions reduction, climate adaptation and the financial and…"
+    },
+    {
+      "title": "Afreximbank Backs $1.5 Billion LNG Project in Nigeria’s Akwa Ibom",
+      "link": "https://thehighstreetjournal.com/afreximbank-backs-1-5b-lng-project/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:00:00.000Z",
+      "summary": "Under the agreement, Afreximbank will provide financial advisory services to advance the project's financing arrangements and help establish a framework for securing funding"
+    },
     {
       "title": "BoG needs no parliamentary approval to upgrade currency – Dr Atuahene",
       "link": "https://www.myjoyonline.com/bog-needs-no-parliamentary-approval-to-upgrade-currency-dr-atuahene/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T05:01:00.000Z",
       "summary": "The PK Amoabeng Foundation has donated books and educational materials to two senior high schools and a public library in Frafraha as part of efforts to promote literacy and encourage young…"
-    },
-    {
-      "title": "T-Bills Record Marginal 1.8% Oversubscription A Week After Budget Reading Amid Yield Drop",
-      "link": "https://thehighstreetjournal.com/t-bills-record-marginal-1-8-oversubscription-a-week-after-budget-reading-amid-yield-drop/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:00:00.000Z",
-      "summary": "Ghana’s T-Bills auction recorded marginal 1.86% oversubscription a week after the 2027 Budget presentation, but government accepted only GH¢3.45 billion against its GH¢4.25 billion target…"
-    },
-    {
-      "title": "Ghana’s 500,000-Tonne Fish Supply Gap Puts Focus on Market Infrastructure",
-      "link": "https://thehighstreetjournal.com/ghanas-500000-tonne-fish-supply-gap-puts-focus-on-market-infrastructure-2/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:00:00.000Z",
-      "summary": "Ghana plans fish markets in Accra and Dambai as authorities seek to improve preservation, reduce post-harvest losses and address an annual domestic fish supply deficit of 500,000 metric…"
-    },
-    {
-      "title": "Ghana’s Fintech Industry Faces Data Integration Challenge in Expanding Business Credit",
-      "link": "https://thehighstreetjournal.com/ghanas-fintech-industry-faces-data-integration-challenge-in-expanding-business-credit/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:00:00.000Z",
-      "summary": "Fragmented financial data is limiting Ghana’s ability to translate digital transactions into business credit, prompting calls for stronger integration among banks, mobile money operators…"
-    },
-    {
-      "title": "Accra-Kumasi Expressway Could Open Ghana to Wider Sahel Markets, Deloitte Says",
-      "link": "https://thehighstreetjournal.com/accra-kumasi-expressway-could-open-ghana-to-wider-sahel-markets-deloitte-says/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:00:00.000Z",
-      "summary": "Deloitte says integrating the Accra-Kumasi Expressway into regional transport corridors could expand Ghana’s access to Sahelian markets, strengthen logistics competitiveness and unlock…"
-    },
-    {
-      "title": "GH¢8,050 Hostel Bill Exposes Ghana’s University Access Gap",
-      "link": "https://thehighstreetjournal.com/gh%c2%a28050-hostel-bill-exposes-ghanas-university-access-gap/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:00:00.000Z",
-      "summary": "Rising hostel fees at the University of Ghana expose the gap between affordable university admission and students’ ability to secure safe, accessible accommodation."
-    },
-    {
-      "title": "BoG pushes for cheaper cross-border payments at Singapore finance meetings",
-      "link": "https://www.myjoyonline.com/bog-pushes-for-cheaper-cross-border-payments-at-singapore-finance-meetings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:43:00.000Z",
-      "summary": "The Bank of Ghana (BoG) has called for a more targeted approach to improving cross-border payments in Africa, focusing on reducing costs and making transactions more reliable for businesses…"
     }
   ]
 };
