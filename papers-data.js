@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:14:00.894Z",
+  "updated": "2026-11-26T16:24:00.672Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two injured in police clash with residents at Twifo Praso; station vandalised",
+      "link": "https://www.myjoyonline.com/two-injured-in-police-clash-with-residents-at-twifo-praso-station-vandalised/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:14:31.000Z",
+      "summary": "Two men have sustained gunshot wounds following a violent confrontation between police and residents of Twifo Praso in the Central Region, which also resulted in the vandalisation of the…",
+      "categories": [
+        "News",
+        "Regional",
+        "Police",
+        "raid",
+        "Twifo Praso"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘What has changed in the pockets of Ghanaians?’ – Afenyo-Markin challenges government",
+      "link": "https://www.myjoyonline.com/what-has-changed-in-the-pockets-of-ghanaians-afenyo-markin-challenges-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:13:18.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the impact of the government's reported economic gains on ordinary Ghanaians, arguing that official statistics do not reflect the…",
+      "categories": [
+        "National",
+        "Afenyo Markin",
+        "Paper economy",
+        "Pocket economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police arrest 7 Asafo group members over Akwambo festival clash at Gomoa Nyanyano",
       "link": "https://www.myjoyonline.com/police-arrest-7-asafo-group-members-over-akwambo-festival-clash-at-gomoa-nyanyano/",
@@ -121,19 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Adults, not pupils, should face sanctions over early BECE registration – NPP",
-      "link": "https://www.myjoyonline.com/adults-not-pupils-should-face-sanctions-over-early-bece-registration-npp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:05:10.000Z",
-      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has argued that adults responsible for registering children for the Basic Education Certificate Examination (BECE) ahead of…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
       "link": "https://www.graphic.com.gh/news/health/hope-for-millions-as-cheaper-hiv-prevention-jab-reaches-africa.html",
       "source": "Daily Graphic",
@@ -154,23 +170,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP calls for withdrawal of two-year BECE ban on early JHS 1 and JHS 2 candidates",
-      "link": "https://www.myjoyonline.com/npp-calls-for-withdrawal-of-two-year-bece-ban-on-early-jhs-1-and-jhs-2-candidates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:54:12.000Z",
-      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has called on Education Minister Haruna Iddrisu to withdraw a directive barring Junior High School (JHS) 1 and JHS 2 pupils…",
-      "categories": [
-        "Education",
-        "National",
-        "Top Story",
-        "BECE",
-        "JHS1",
-        "JHS2",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Foreign Affairs Ministry cautions Ghanaians over jobs in Iraq, Syria",
