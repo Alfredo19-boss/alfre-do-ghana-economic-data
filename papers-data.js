@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:43:33.229Z",
+  "updated": "2026-11-26T07:53:33.156Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "British Council warns schools against emerging digital threats",
+      "link": "https://ghanaiantimes.com.gh/british-council-warns-schools-against-emerging-digital-threats/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:49:48.000Z",
+      "summary": "The British Council has urged school authorities in Ghana to strengthen child protection systems to guard pupils against emerging digital threats as the use of artificial intelligence (AI)…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-faces-ghc670m-budget-cut-bagbin-warns-of-impact-on-operations-staff-welfare.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T07:49:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Africa must benefit more from mineral wealth – Sammy Gyamfi",
+      "link": "https://ghanaiantimes.com.gh/africa-must-benefit-more-from-mineral-wealth-sammy-gyamfi/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:47:17.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi Esq., has called for a fundamental shift in Africa’s relationship with international investors to ensure that the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Daily Insight for CEOs: Retaining critical talent and institutional knowledge",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-retaining-critical-talent-and-institutional-knowledge/",
@@ -135,28 +170,6 @@ window.GDC_PAPERS = {
       "summary": "Security forces have rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena, President Abelardo de la Espriella said early…",
       "categories": [
         "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cameroon separatist leader pleads not guilty to war crimes charges",
-      "link": "https://ghanaiantimes.com.gh/cameroon-separatist-leader-pleads-not-guilty-to-war-crimes-charges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:54:53.000Z",
-      "summary": "Cameroonian separatist leader Lucas Cho Ayaba has pleaded not guilty in a Norwegian court to being an accessory to war crimes and “terrorism”, charges that carry a sentence of up to 30…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Zimbabwean jailed over attempt to join Russia’s war in Ukraine",
-      "link": "https://ghanaiantimes.com.gh/zimbabwean-jailed-over-attempt-to-join-russias-war-in-ukraine/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:53:18.000Z",
-      "summary": "A South African court has convicted and sentenced a Zimbabwean man for trying to travel to Russia to fight in Ukraine after he was arrested earlier this month alongside eight others…",
-      "categories": [
-        "World"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -318,17 +331,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Firefighters battle blaze at Accra Timber Market (VIDEO)",
-      "link": "https://www.graphic.com.gh/news/general-news/firefighters-battle-blaze-at-accra-timber-market-video.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T15:15:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
