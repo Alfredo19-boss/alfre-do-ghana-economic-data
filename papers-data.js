@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T02:56:57.528Z",
+  "updated": "2026-11-26T03:06:57.554Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama donates GH¢600,000 towards funeral of Agogomanhene",
+      "link": "https://www.myjoyonline.com/mahama-donates-gh%c2%a2600000-towards-funeral-of-agogomanhene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:44:26.000Z",
+      "summary": "President John Dramani Mahama has contributed GH¢600,000 towards the funeral of the late Agogomanhene, Nana Kwame Akuoko Sarpong, in recognition of the traditional ruler's long service to…",
+      "categories": [
+        "News",
+        "Agogomanhene",
+        "Funeral",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "link": "https://www.myjoyonline.com/frustration-reigns-for-pochettino-in-chaotic-start-to-man-utd-job/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:13:09.000Z",
+      "summary": "Two games, no wins. Two red cards, two goals scored. One goal disallowed, six conceded. Is it possible for Mauricio Pochettino to have learned anything from a crazy first week as Manchester…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Manchester",
+        "Pochettino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
       "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
@@ -105,29 +133,6 @@ window.GDC_PAPERS = {
         "News",
         "Egypt",
         "Fire"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Power supply curtailed in parts of Kumasi as illegal logging damages GRIDCo line",
-      "link": "https://www.myjoyonline.com/power-supply-curtailed-in-parts-of-kumasi-as-illegal-logging-damages-gridco-line/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T23:13:12.000Z",
-      "summary": "Power supply to parts of the Western and Ashanti regions has been disrupted after illegal chainsaw operators felled a large tree onto a major 330kV transmission line operated by the Ghana…",
-      "categories": [
-        "HP News 5"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "link": "https://www.myjoyonline.com/poundland-collapses-putting-11000-jobs-at-risk/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:41:00.000Z",
-      "summary": "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business.",
-      "categories": [
-        "International",
-        "Poundland"
       ],
       "site": "https://www.myjoyonline.com/"
     },
