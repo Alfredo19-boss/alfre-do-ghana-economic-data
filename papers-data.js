@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:23:33.270Z",
+  "updated": "2026-11-26T06:33:33.017Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nutrition financing must become a national priority",
+      "link": "https://ghanaiantimes.com.gh/nutrition-financing-must-become-a-national-priority/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:32:30.000Z",
+      "summary": "Ghana cannot continue to treat the nutrition needs of women and children as an area of development that depends largely on the goodwill of foreign donors. The health and future of the…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Suspected serial rapist, robber dies during police operation at Kade",
+      "link": "https://ghanaiantimes.com.gh/suspected-serial-rapist-robber-dies-during-police-operation-at-kade/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:31:38.000Z",
+      "summary": "A 39-year-old ex-convict suspected of a series of rape and robbery cases in Kade in the Eastern Region has died after sustaining gunshot wounds during a police operation. The suspect…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GAF revives ‘Fire Blast’ shooting competition",
       "link": "https://ghanaiantimes.com.gh/gaf-revives-fire-blast-shooting-competition/",
@@ -292,29 +315,6 @@ window.GDC_PAPERS = {
       "summary": "The National Democratic Congress (NDC) has appointed Fred Agbenyo as a member of its Transport Sub-Committee ahead of the party’s National Congress scheduled for December 19, 2026. The…",
       "categories": [
         "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nii Lantey Vanderpuye congratulates newly elected NDC UK-Ireland Chapter executives",
-      "link": "https://ghanaiantimes.com.gh/nii-lantey-vanderpuye-congratulates-newly-elected-ndc-uk-ireland-chapter-executives/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:18:46.000Z",
-      "summary": "Former Member of Parliament for Odododiodio, Edwin Nii Lantey Vanderpuye, has congratulated the newly elected executives of the National Democratic Congress (NDC) UK-Ireland Chapter…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Old Abuscodians inaugurate new executives",
-      "link": "https://ghanaiantimes.com.gh/old-abuscodians-inaugurate-new-executives/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:30:11.000Z",
-      "summary": "THE Old Students Association of Abuakwa State College (Old Abuscodians Association) has inaugurated its newly elected executives to steer the affairs of the association. The executives are…",
-      "categories": [
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"

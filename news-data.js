@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T06:23:02.388Z",
+  "updated": "2026-11-26T06:33:04.813Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "How to Keep a House Cool in Ghana, Part 1",
+      "link": "https://thehighstreetjournal.com/how-to-keep-a-house-cool-in-ghana-part-1/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T06:32:07.000Z",
+      "summary": "A practical guide to designing cooler homes in Ghana, exploring how house orientation, roof insulation, shading and window placement help keep indoor temperatures down."
+    },
     {
       "title": "Ghanaian SMEs to benefit from G20-Compact investment initiative",
       "link": "https://www.ghanabusinessnews.com/2026/11/26/ghanaian-smes-to-benefit-from-g20-compact-investment-initiative/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-23T06:52:49.000Z",
       "summary": "African countries must secure stronger taxing rights and a greater voice in shaping global tax rules as negotiations advance on a new United Nations Framework Convention on International…"
-    },
-    {
-      "title": "Bank of Ghana policy rate cut brings single-digit lending rates closer – Economist",
-      "link": "https://www.ghanabusinessnews.com/2026/11/23/bank-of-ghana-policy-rate-cut-brings-single-digit-lending-rates-closer-economist/",
-      "source": "Ghana Business News",
-      "published": "2026-11-23T06:44:13.000Z",
-      "summary": "Ghana has moved closer to a single-digit lending rate regime following the Bank of Ghana's decision to reduce its policy rate from 14 per cent to 11 per cent, Professor Godfred Alufar…"
     }
   ]
 };
