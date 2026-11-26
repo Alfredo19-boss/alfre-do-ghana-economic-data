@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:53:32.850Z",
+  "updated": "2026-11-26T09:03:32.595Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Dwiibaadwiibaa’ (Scabies): The itchy condition you should not ignore",
+      "link": "https://ghanaiantimes.com.gh/dwiibaadwiibaa-scabies-the-itchy-condition-you-should-not-ignore/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:56:16.000Z",
+      "summary": "ESI Mansa (not her real name) woke up that Thursday morning to find tiny, itchy rashes on her arm. The previous evening, a power outage had left her and others struggling with the heat. She…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
       "link": "https://ghanaiantimes.com.gh/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
@@ -121,17 +132,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-26T08:37:49.000Z",
       "summary": "THE St. Theresa of the Child Jesus Society of the St. Joseph the Worker Catholic Church at Nii Boiman in Accra has been inaugurated, with a call on members to uphold the values of love…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Govt presents 16 pickups to regional best farmers",
-      "link": "https://ghanaiantimes.com.gh/govt-presents-16-pickups-to-regional-best-farmers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:32:24.000Z",
-      "summary": "THE Ministry of Food and Agriculture has handed over 16 double-cabin pickup vehicles and motorcycles to regional ministers for distribution to award winners ahead of the 2026 National…",
       "categories": [
         "News"
       ],
