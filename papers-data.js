@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:33:33.017Z",
+  "updated": "2026-11-26T06:43:32.812Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Parliament’s budget slashed by GH¢600m …Speaker expresses dissatisfaction with move",
+      "link": "https://ghanaiantimes.com.gh/parliaments-budget-slashed-by-gh%c2%a2600m-speaker-expresses-dissatisfaction-with-move/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:40:58.000Z",
+      "summary": "The government has recommended a reduction of GH¢669.6 million in Parliament’s proposed 2027 budget estimate, a move the Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin, says could…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Nutrition financing must become a national priority",
       "link": "https://ghanaiantimes.com.gh/nutrition-financing-must-become-a-national-priority/",
@@ -301,18 +313,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-25T13:24:07.000Z",
       "summary": "The family of the late lawyer Stephen Kwabena Boateng, popularly known as Kessben, has announced that his funeral rites in Kumasi will be closed to bloggers, content creators and private…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC appoints Fred Agbenyo to Transport Sub-Committee ahead of National Congress",
-      "link": "https://ghanaiantimes.com.gh/ndc-appoints-fred-agbenyo-to-transport-sub-committee-ahead-of-national-congress/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:21:57.000Z",
-      "summary": "The National Democratic Congress (NDC) has appointed Fred Agbenyo as a member of its Transport Sub-Committee ahead of the party’s National Congress scheduled for December 19, 2026. The…",
       "categories": [
         "Hot!",
         "News"
