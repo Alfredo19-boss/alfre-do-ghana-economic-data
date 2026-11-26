@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:03:33.301Z",
+  "updated": "2026-11-26T07:13:32.860Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "ICU petitions President to withdraw NPA Bill • Warns proposed law could undermine BOST’s financial independence",
+      "link": "https://ghanaiantimes.com.gh/icu-petitions-president-to-withdraw-npa-bill-warns-proposed-law-could-undermine-bosts-financial-independence/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:06:59.000Z",
+      "summary": "The Industrial and Commercial Workers’ Union (ICU), Ghana, has petitioned President John Dramani Mahama to withdraw the proposed National Petroleum Authority (NPA) Bill, 2026. It warned…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Law Reform Commission pushes for new trusts law",
       "link": "https://ghanaiantimes.com.gh/law-reform-commission-pushes-for-new-trusts-law/",
@@ -111,18 +123,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-26T06:31:38.000Z",
       "summary": "A 39-year-old ex-convict suspected of a series of rape and robbery cases in Kade in the Eastern Region has died after sustaining gunshot wounds during a police operation. The suspect…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GAF revives ‘Fire Blast’ shooting competition",
-      "link": "https://ghanaiantimes.com.gh/gaf-revives-fire-blast-shooting-competition/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:17:24.000Z",
-      "summary": "The Ghana Armed Forces (GAF) has revived its biennial inter-service shooting competition, Exercise Fire Blast, after an eight-year break to strengthen marksmanship, operational readiness…",
       "categories": [
         "Crime",
         "Hot!"
