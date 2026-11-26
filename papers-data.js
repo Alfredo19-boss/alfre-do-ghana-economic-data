@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T17:24:01.405Z",
+  "updated": "2026-11-26T17:34:01.610Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Livestream: EPA launches water restoration and management framework in Ho",
+      "link": "https://www.myjoyonline.com/livestream-epa-launches-water-restoration-and-management-framework-in-ho/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:20:43.000Z",
+      "summary": "The Environmental Protection Authority (EPA) is launching a new framework to guide the restoration and sustainable management of degraded water bodies across the country.",
+      "categories": [
+        "National",
+        "News",
+        "EPA",
+        "Ho",
+        "Water Restoration and Management Framework"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘A promise made is a promise kept’ – Agalga touts $12.7bn reserves",
       "link": "https://www.myjoyonline.com/a-promise-made-is-a-promise-kept-agalga-touts-12-7bn-reserves/",
@@ -151,19 +166,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana targets end to raw mineral exports by 2028 – Armah-Kofi Buah",
-      "link": "https://www.myjoyonline.com/ghana-targets-end-to-raw-mineral-exports-by-2028-armah-kofi-buah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:38:46.000Z",
-      "summary": "The government has said it is determined to end the exportation of raw materials by 2028, as part of efforts to accelerate domestic mineral processing to retain more value from the…",
-      "categories": [
-        "National",
-        "Lands Minister",
-        "mineral exports"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
