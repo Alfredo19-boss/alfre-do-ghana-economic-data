@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T15:04:01.162Z",
+  "updated": "2026-11-26T15:14:01.711Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,30 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Adults, not pupils, should face sanctions over early BECE registration – NPP",
+      "link": "https://www.myjoyonline.com/adults-not-pupils-should-face-sanctions-over-early-bece-registration-npp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:05:10.000Z",
+      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has argued that adults responsible for registering children for the Basic Education Certificate Examination (BECE) ahead of…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "link": "https://www.graphic.com.gh/news/health/hope-for-millions-as-cheaper-hiv-prevention-jab-reaches-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T15:02:18.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "NPP calls for withdrawal of two-year BECE ban on early JHS 1 and JHS 2 candidates",
       "link": "https://www.myjoyonline.com/npp-calls-for-withdrawal-of-two-year-bece-ban-on-early-jhs-1-and-jhs-2-candidates/",
       "source": "MyJoyOnline",
@@ -29,6 +53,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Education",
         "National",
+        "Top Story",
         "BECE",
         "JHS1",
         "JHS2",
@@ -143,20 +168,6 @@ window.GDC_PAPERS = {
         "National",
         "Ghanaian domestic workers",
         "Samuel Okudzeto Ablakwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Okyenhene to honour Sir Sam Jonah for contributions to business and Okyeman",
-      "link": "https://www.myjoyonline.com/okyenhene-to-honour-sir-sam-jonah-for-contributions-to-business-and-okyeman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T13:53:15.000Z",
-      "summary": "Distinguished Ghanaian business leader and global statesman, Sir Sam Jonah, will be celebrated for his exceptional legacy of leadership, service to humanity and enduring contribution to…",
-      "categories": [
-        "National",
-        "Light of Okyeman",
-        "Osagyefuo Amoatia Ofori Panin",
-        "Sir Sam Jonah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -281,17 +292,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/give-us-your-support-deputy-lands-minister-urges-chiefs-elders-in-mining-communities.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T10:28:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GH¢4million in one week: TraffiTech cameras catch 13,699 speeding drivers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghc4million-in-one-week-traffitech-cameras-catch-13-699-speeding-drivers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T09:44:07.000Z",
       "summary": "",
       "categories": [
         "General News"
