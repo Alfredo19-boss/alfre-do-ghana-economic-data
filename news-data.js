@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T03:46:27.077Z",
+  "updated": "2026-11-26T04:06:27.064Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,6 +34,20 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-26T01:42:08.000Z",
       "summary": "Similarly, 55% ranked data protection/data trust among their top five cyber budget investment priorities."
+    },
+    {
+      "title": "Cost of Heritage Series will be revealed in BoG’s 2026 financial report – Atuahene",
+      "link": "https://www.myjoyonline.com/cost-of-heritage-series-will-be-revealed-in-bogs-2026-financial-report-atuahene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T23:43:00.000Z",
+      "summary": "Banking consultant Dr Richmond Atuahene says the cost of printing the Bank of Ghana’s (BoG) new Heritage Series currency will be disclosed in the central bank’s 2026 financial report."
+    },
+    {
+      "title": "Heritage Series: Dr Atuahene challenges critics over confusion between redenomination and currency upgrade",
+      "link": "https://www.myjoyonline.com/heritage-series-dr-atuahene-challenges-critics-over-confusion-between-redenomination-and-currency-upgrade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-25T23:25:00.000Z",
+      "summary": "Banking consultant Dr Richmond Atuahene has challenged critics of the Bank of Ghana (BoG) over its Heritage Series, arguing that the controversy surrounding the new banknotes has blurred…"
     },
     {
       "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T04:22:00.000Z",
       "summary": "Commercial banks will pay less to borrow overnight from the Bank of Ghana after its latest policy rate cut. However, a narrower policy corridor could push short-term market rates higher…"
-    },
-    {
-      "title": "Government opens GH¢28.8bn early buyback offer for DDEP bondholders today",
-      "link": "https://www.myjoyonline.com/government-opens-gh%c2%a228-8bn-early-buyback-offer-for-ddep-bondholders-today/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:09:00.000Z",
-      "summary": "Government is opening a voluntary offer today, November 23, to buy back up to GH¢28.8 billion in Domestic Debt Exchange Programme (DDEP) bonds ahead of their February 2027 maturity."
-    },
-    {
-      "title": "Nvidia’s accounting is a focus of US SEC investigation, sources say",
-      "link": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T02:42:00.000Z",
-      "summary": "The US Securities and Exchange Commission is probing Nvidia's accounting practices, two people briefed on the matter said, adding to the legal woes facing the scandal-hit chip giant."
     }
   ]
 };
