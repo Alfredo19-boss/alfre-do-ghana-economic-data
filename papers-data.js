@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T17:04:02.380Z",
+  "updated": "2026-11-26T17:14:00.618Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: Building a culture of ownership and high performance",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-ownership-and-high-performance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:10:16.000Z",
+      "summary": "High-performing organizations are built by people who understand their responsibilities, take ownership of outcomes and remain committed to delivering results. A culture of ownership…",
+      "categories": [
+        "Features",
+        "Opinion",
+        "Culture",
+        "Daily Insight"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana records average of 100 fire outbreaks weekly – Interior Minister",
+      "link": "https://www.myjoyonline.com/ghana-records-average-of-100-fire-outbreaks-weekly-interior-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:02:25.000Z",
+      "summary": "Interior Minister Muntaka Mohammed-Mubarak has disclosed that Ghana records an average of 100 fire outbreaks every week, with incidents increasing during the peak fire season between…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Fire",
+        "Ghana",
+        "Interior Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘This is the people’s budget’ – Agalga defends 2027 budget, rules out new taxes",
+      "link": "https://www.myjoyonline.com/this-is-the-peoples-budget-agalga-defends-2027-budget-rules-out-new-taxes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:01:17.000Z",
+      "summary": "Majority Leader James Agalga has defended the 2027 Budget as a “people's budget”, saying it delivers on the government's promises to reduce inflation, borrowing and excessive public…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Budget 2027",
+        "James Agalga",
+        "people's budget",
+        "Taxes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "One year on, House of Faith has given Christian stories a free home on the world’s screens",
       "link": "https://www.myjoyonline.com/one-year-on-house-of-faith-has-given-christian-stories-a-free-home-on-the-worlds-screens/",
@@ -121,53 +166,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Two injured in police clash with residents at Twifo Praso; station vandalised",
-      "link": "https://www.myjoyonline.com/two-injured-in-police-clash-with-residents-at-twifo-praso-station-vandalised/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:14:31.000Z",
-      "summary": "Two men have sustained gunshot wounds following a violent confrontation between police and residents of Twifo Praso in the Central Region, which also resulted in the vandalisation of the…",
-      "categories": [
-        "HP News 3",
-        "News",
-        "Regional",
-        "Police",
-        "raid",
-        "Twifo Praso"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘What has changed in the pockets of Ghanaians?’ – Afenyo-Markin challenges government",
-      "link": "https://www.myjoyonline.com/what-has-changed-in-the-pockets-of-ghanaians-afenyo-markin-challenges-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:13:18.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has questioned the impact of the government's reported economic gains on ordinary Ghanaians, arguing that official statistics do not reflect the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Afenyo Markin",
-        "Paper economy",
-        "Pocket economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest 7 Asafo group members over Akwambo festival clash at Gomoa Nyanyano",
-      "link": "https://www.myjoyonline.com/police-arrest-7-asafo-group-members-over-akwambo-festival-clash-at-gomoa-nyanyano/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:02:02.000Z",
-      "summary": "The Central East Regional Police Command has arrested seven members of the Asafo group at Gomoa Nyanyano in the Gomoa East District following tensions over the celebration of the Akwambo…",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Regional",
-        "Akwambo Festival",
-        "Gomoa Nyanyano",
-        "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
       "link": "https://ghanaiantimes.com.gh/president-mahama-hands-over-new-fleet-of-aircraft-to-ghana-air-force/",
       "source": "Ghanaian Times",
@@ -178,6 +176,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "'It's not a crime to be intelligent': NPP fights BECE ban with gifted pupils register",
+      "link": "https://www.graphic.com.gh/news/general-news/its-not-a-crime-to-be-intelligent-npp-fights-bece-ban-with-gifted-pupils-register.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T15:47:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Speaker Bagbin urges citizens to petition Parliament through MPs",
@@ -299,17 +308,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-hands-over-3-new-aircraft-to-ghana-air-force.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T12:44:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama to address Barbados Parliament, mark 60th independence anniversary",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-begins-historic-barbados-visit-to-address-parliament-and-mark-60th-independence-anniversary.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T12:40:03.000Z",
       "summary": "",
       "categories": [
         "General News"
