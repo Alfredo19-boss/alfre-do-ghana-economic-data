@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:24:00.672Z",
+  "updated": "2026-11-26T16:34:02.694Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mohamed bin Zayed Foundation commits US$135m to lifesaving care across Africa",
+      "link": "https://www.myjoyonline.com/mohamed-bin-zayed-foundation-commits-us135m-to-lifesaving-care-across-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:29:24.000Z",
+      "summary": "The Mohamed bin Zayed Foundation for Humanity has announced a US$135 million commitment to expand access to essential medicines, medical equipment and health technologies in nine African…",
+      "categories": [
+        "Africa",
+        "National",
+        "Mohamed bin Zayed Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Two injured in police clash with residents at Twifo Praso; station vandalised",
       "link": "https://www.myjoyonline.com/two-injured-in-police-clash-with-residents-at-twifo-praso-station-vandalised/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T16:14:31.000Z",
       "summary": "Two men have sustained gunshot wounds following a violent confrontation between police and residents of Twifo Praso in the Central Region, which also resulted in the vandalisation of the…",
       "categories": [
+        "HP News 3",
         "News",
         "Regional",
         "Police",
@@ -42,6 +56,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T16:13:18.000Z",
       "summary": "Minority Leader Alexander Afenyo-Markin has questioned the impact of the government's reported economic gains on ordinary Ghanaians, arguing that official statistics do not reflect the…",
       "categories": [
+        "HP News 1",
         "National",
         "Afenyo Markin",
         "Paper economy",
@@ -103,6 +118,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Speaker Bagbin urges citizens to petition Parliament through MPs",
+      "link": "https://www.graphic.com.gh/news/general-news/speaker-bagbin-urges-citizens-to-petition-parliament-through-mps.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T15:29:40.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Young people account for 27.5% of new HIV infections in Ghana – AIDS Healthcare Foundation warns",
       "link": "https://www.myjoyonline.com/young-people-account-for-27-5-of-new-hiv-infections-in-ghana-aids-healthcare-foundation-warns/",
       "source": "MyJoyOnline",
@@ -131,21 +157,6 @@ window.GDC_PAPERS = {
         "Jubilee",
         "TEN",
         "Tullow"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two-year BECE ban could punish gifted pupils for academic progress – NPP",
-      "link": "https://www.myjoyonline.com/two-year-bece-ban-could-punish-gifted-pupils-for-academic-progress-npp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:12:55.000Z",
-      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has questioned how the government's two-year restriction on early BECE candidates will be enforced, warning that it could…",
-      "categories": [
-        "Education",
-        "National",
-        "BECE",
-        "Gifted pupils",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,17 +303,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-reassigns-gnpc-ceo-appoints-hamis-ussif-acting-head-reconstitutes-board.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T12:08:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Graphic MD Benjamin Ato Afful bows out after 8 years",
-      "link": "https://www.graphic.com.gh/news/general-news/gcgl-md-benjamin-ato-afful-bows-out-after-8-years.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T11:31:16.000Z",
       "summary": "",
       "categories": [
         "General News"
