@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:23:32.689Z",
+  "updated": "2026-11-26T07:33:32.071Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MahamaCares must reach every Ghanaian • Expert pushes sustainable financing, decentralised specialist facilities",
+      "link": "https://ghanaiantimes.com.gh/mahamacares-must-reach-every-ghanaian-expert-pushes-sustainable-financing-decentralised-specialist-facilities/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:26:53.000Z",
+      "summary": "A Health Economist and Medical Practitioner based in the United States of America, Dr Nicholas Addae Mensah, has called for sustainable financing and the decentralisation of specialised…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prudential Bank urges Ghanaian SMEs to improve readiness for Chinese market",
+      "link": "https://www.myjoyonline.com/prudential-bank-urges-ghanaian-smes-to-improve-readiness-for-chinese-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T07:20:37.000Z",
+      "summary": "Prudential Bank Limited has urged Ghanaian businesses seeking to enter the Chinese market to strengthen their market research, business planning and trade relationships to improve their…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "China",
+        "Ebow Quayson",
+        "Ghanaian SMEs",
+        "Prudential Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GCB Bank ranks 4th among Ghana’s top 100 companies",
       "link": "https://ghanaiantimes.com.gh/gcb-bank-ranks-4th-among-ghanas-top-100-companies/",
@@ -134,18 +162,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Parliament’s budget slashed by GH¢600m …Speaker expresses dissatisfaction with move",
-      "link": "https://ghanaiantimes.com.gh/parliaments-budget-slashed-by-gh%c2%a2600m-speaker-expresses-dissatisfaction-with-move/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:40:58.000Z",
-      "summary": "The government has recommended a reduction of GH¢669.6 million in Parliament’s proposed 2027 budget estimate, a move the Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin, says could…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "DDEP bondholders have already sacrificed enough – Amin Adam kicks against early buyback offer",
       "link": "https://www.myjoyonline.com/ddep-bondholders-have-already-sacrificed-enough-amin-adam-kicks-against-early-buyback-offer/",
       "source": "MyJoyOnline",
@@ -154,6 +170,7 @@ window.GDC_PAPERS = {
       "categories": [
         "National",
         "Politics",
+        "Top Story",
         "Amin Adam",
         "Ato Forson",
         "Bond buyback",
@@ -185,6 +202,9 @@ window.GDC_PAPERS = {
       "summary": "Workers of the Produce Buying Company (PBC) Limited may have to endure several more months without their outstanding salaries, with management targeting 2027 to begin paying the arrears in…",
       "categories": [
         "Business",
+        "HP Business 3",
+        "National",
+        "News",
         "Cocoa",
         "PBC"
       ],
@@ -197,7 +217,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T05:53:21.000Z",
       "summary": "Mobile money customers who move large sums through their wallets will now have to operate within monthly transaction ceilings following a revision of limits by the Bank of Ghana (BoG).",
       "categories": [
+        "Banking and Finance",
         "Business",
+        "HP Business 4",
         "HP News 5",
         "News",
         "Cedi",
@@ -216,19 +238,6 @@ window.GDC_PAPERS = {
         "National",
         "Gender-Based Violence",
         "KAIPTC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suspected militants kill at least 30 in Nigeria’s Niger state, residents say",
-      "link": "https://www.myjoyonline.com/suspected-militants-kill-at-least-30-in-nigerias-niger-state-residents-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:40:00.000Z",
-      "summary": "Suspected militants killed at least 30 people and burned homes ​in villages in Nigeria's Niger state, ‌residents said on Wednesday, describing the assault as retaliation for the killing of…",
-      "categories": [
-        "Africa",
-        "Niger State",
-        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },

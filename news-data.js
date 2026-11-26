@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T07:23:02.516Z",
+  "updated": "2026-11-26T07:33:01.446Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Prudential Bank urges Ghanaian SMEs to improve readiness for Chinese market",
+      "link": "https://www.myjoyonline.com/prudential-bank-urges-ghanaian-smes-to-improve-readiness-for-chinese-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T07:20:37.000Z",
+      "summary": "Prudential Bank Limited has urged Ghanaian businesses seeking to enter the Chinese market to strengthen their market research, business planning and trade relationships to improve their…"
+    },
     {
       "title": "How to Keep a House Cool in Ghana, Part 1",
       "link": "https://thehighstreetjournal.com/how-to-keep-a-house-cool-in-ghana-part-1/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-23T07:04:13.000Z",
       "summary": "Dr Evans Ago Tetteh, Alternate Permanent Representative of Ghana to the International Maritime Organization (GNA), has said that increases in international shipping and freight costs can…"
-    },
-    {
-      "title": "Africa pushes for fairer global tax rules ahead of Nairobi negotiations",
-      "link": "https://www.ghanabusinessnews.com/2026/11/23/africa-pushes-for-fairer-global-tax-rules-ahead-of-nairobi-negotiations/",
-      "source": "Ghana Business News",
-      "published": "2026-11-23T06:52:49.000Z",
-      "summary": "African countries must secure stronger taxing rights and a greater voice in shaping global tax rules as negotiations advance on a new United Nations Framework Convention on International…"
     }
   ]
 };
