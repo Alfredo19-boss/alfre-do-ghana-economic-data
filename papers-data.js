@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:33:32.652Z",
+  "updated": "2026-11-26T08:43:32.828Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "YFM rewards UniMAC’s top broadcast journalism graduate",
+      "link": "https://ghanaiantimes.com.gh/yfm-rewards-unimacs-top-broadcast-journalism-graduate/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:40:17.000Z",
+      "summary": "A graduating broadcast journalism student of the University of Media, Arts and Communication (UniMAC), Muhammad Ikleel Safiyya, has received a cash prize and a Samsung Galaxy Tab 11 from…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "St. Theresa of the Child Jesus Society inaugurated at Nii Boiman",
+      "link": "https://ghanaiantimes.com.gh/st-theresa-of-the-child-jesus-society-inaugurated-at-nii-boiman/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:37:49.000Z",
+      "summary": "THE St. Theresa of the Child Jesus Society of the St. Joseph the Worker Catholic Church at Nii Boiman in Accra has been inaugurated, with a call on members to uphold the values of love…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Govt presents 16 pickups to regional best farmers",
       "link": "https://ghanaiantimes.com.gh/govt-presents-16-pickups-to-regional-best-farmers/",
@@ -54,7 +76,7 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Today’s front pages: Thursday, November 25, 2026",
+      "title": "Today’s front pages: Thursday, November 26, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-25-2026/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T08:26:45.000Z",
@@ -96,28 +118,6 @@ window.GDC_PAPERS = {
       "summary": "THE Sims International School at Ablekuma Newtown and its environs would be full of fireworks this weekend when it plays host to the “Who is Who” Season 2 community games organised by Nkoo…",
       "categories": [
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIFA World Cup play-offs: Black Queens can go all the way – Bjorkegren",
-      "link": "https://ghanaiantimes.com.gh/fifa-world-cup-play-offs-black-queens-can-go-all-the-way-bjorkegren/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:12:39.000Z",
-      "summary": "GHANA is still dreaming of a place at the FIFA Women’s World Cup 2027™. Although a 2-1 defeat by Malawi in the quarter-finals of the 2026 CAF Women’s Africa Cup of Nations in August ended…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Abagona Legacy Holdings to launch Lattice Energy in December",
-      "link": "https://ghanaiantimes.com.gh/abagona-legacy-holdings-to-launch-lattice-energy-in-december/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:07:01.000Z",
-      "summary": "Abagona Legacy Holdings, a Ghanaian business group, is set to expand its presence in the petroleum and energy sector with the launch of Lattice Energy Limited next month. The launch…",
-      "categories": [
-        "Business"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
