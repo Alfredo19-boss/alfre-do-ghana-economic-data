@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:23:32.869Z",
+  "updated": "2026-11-26T05:33:32.749Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -69,6 +69,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Currency printing costs already covered by approved 2026 budget – Attah Issah",
+      "link": "https://www.myjoyonline.com/currency-printing-costs-already-covered-by-approved-2026-budget-attah-issah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:50:00.000Z",
+      "summary": "A member of Parliament’s Finance Committee, Attah Issah, says the cost of printing Ghana’s new currency notes is already in the Bank of Ghana’s approved 2026 budget.",
+      "categories": [
+        "Politics",
+        "Attah Issah",
+        "Heritage Series"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Heritage series: BoG must explain selection of personalities on new cedi notes – Walewale MP",
       "link": "https://www.myjoyonline.com/heritage-series-bog-must-explain-selection-of-personalities-on-new-cedi-notes-walewale-mp/",
       "source": "MyJoyOnline",
@@ -80,58 +93,41 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bollywood union asks Modi to bar Netflix’s Pakistani series in India",
-      "link": "https://www.myjoyonline.com/bollywood-union-asks-modi-to-bar-netflixs-pakistani-series-in-india/",
+      "title": "Families say they cannot locate bodies of relatives in Ebola-hit Congo city",
+      "link": "https://www.myjoyonline.com/families-say-they-cannot-locate-bodies-of-relatives-in-ebola-hit-congo-city/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T03:59:00.000Z",
-      "summary": "A prominent Bollywood workers' union has asked Prime Minister Narendra Modi's government to ban a forthcoming Pakistani series on Netflix in India and to enact a law prohibiting content…",
+      "published": "2026-11-26T04:29:00.000Z",
+      "summary": "Dozens of residents in eastern Congo say they have been unable to ​locate the bodies of relatives who died in the ongoing Ebola outbreak, while others say loved ones have been buried…",
+      "categories": [
+        "Africa",
+        "DR Congo",
+        "Ebola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Barrick International CEO meets Mali PM in first visit since standoff",
+      "link": "https://www.myjoyonline.com/barrick-international-ceo-meets-mali-pm-in-first-visit-since-standoff/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:21:00.000Z",
+      "summary": "The CEO of Barrick Mining's new international division met with Mali's prime minister on Wednesday, the government said, marking the first visit by a foreign executive of the company since…",
+      "categories": [
+        "Africa",
+        "Barrick Mining",
+        "Mali"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+      "link": "https://www.myjoyonline.com/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:10:00.000Z",
+      "summary": "Crude oil prices rose in early Asian trading on Thursday, extending gains from the previous session on supply concerns after Yemen's Houthis said they had ​hit Saudi Arabia's largest oil…",
       "categories": [
         "International",
-        "Movies",
-        "Bollywood",
-        "India",
-        "Netflix",
-        "Pakistani series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Currency Errors: Attah Issah says Minority’s approach is misplaced",
-      "link": "https://www.myjoyonline.com/currency-errors-attah-issah-says-minoritys-approach-is-misplaced/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T03:50:00.000Z",
-      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has criticised the Minority’s approach to seeking answers about errors identified on some Bank of Ghana Heritage Series banknotes.",
-      "categories": [
-        "Politics",
-        "Attah Issah",
-        "Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Attah Issah questions Minority’s push for parliamentary inquiry into currency controversy",
-      "link": "https://www.myjoyonline.com/attah-issah-questions-minoritys-push-for-parliamentary-inquiry-into-currency-controversy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T03:32:00.000Z",
-      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has questioned the Minority’s push for a parliamentary inquiry into the controversy surrounding the Bank of Ghana’s Heritage Series…",
-      "categories": [
-        "Politics",
-        "Attah Issah",
-        "Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Attah Issah questions why only Big Six were honoured on Ghana’s currency",
-      "link": "https://www.myjoyonline.com/attah-issah-questions-why-only-big-six-were-honoured-on-ghanas-currency/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T03:11:00.000Z",
-      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has questioned the historical justification for singling out the Big Six for recognition on Ghana’s currency.",
-      "categories": [
-        "Politics",
-        "Attah Issah",
-        "Big Six",
-        "Heritage Series"
+        "Oil prices",
+        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
