@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T23:38:59.607Z",
+  "updated": "2026-11-26T23:49:00.641Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MDPI urges public and private institutions to prioritise staff training ahead of 2027",
+      "link": "https://www.myjoyonline.com/mdpi-urges-public-private-institutions-to-prioritise-staff-training-ahead-of-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:35:48.000Z",
+      "summary": "The Management Development and Productivity Institute (MDPI) is urging public and private sector institutions to prioritise staff training and capacity building as part of efforts to…"
+    },
     {
       "title": "Ghana Publishing Company forgoes 2025 dividend payment despite recording GH¢16.9m profit, opts to reinvest profits",
       "link": "https://www.myjoyonline.com/ghana-publishing-company-forgoes-2025-dividend-payment-despite-recording-gh%c2%a216-9m-profit-opts-to-reinvest-profits/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T05:00:00.000Z",
       "summary": "Newmont contributed over US$1 billion in taxes and royalties and spent US$900 million on procurement, reinforcing its economic footprint in Ghana."
-    },
-    {
-      "title": "“I Am Honored to Return”: Jensen Huang Reinstated as Nvidia CEO",
-      "link": "https://thehighstreetjournal.com/jensen-huang-reinstated-as-nvidia-ceo/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:00:00.000Z",
-      "summary": "I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution"
     }
   ]
 };

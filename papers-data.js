@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T23:39:30.810Z",
+  "updated": "2026-11-26T23:49:31.340Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,33 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "MDPI urges public, private institutions to prioritise staff training ahead of 2027",
+      "title": "Youth run through Airport Residential Area to map Accra’s polluted air",
+      "link": "https://www.myjoyonline.com/youth-run-through-airport-residential-area-to-map-accras-polluted-air/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:45:20.000Z",
+      "summary": "A youth-led run through Accra’s Airport Residential Area has recorded elevated levels of fine particulate matter, with average PM2.5 concentrations more than three times the World Health…",
+      "categories": [
+        "Health",
+        "National",
+        "Airport residential area",
+        "polluted air",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stakeholders in the Bono East region call for collective action as terrorism threat nears Ghana’s borders",
+      "link": "https://www.myjoyonline.com/stakeholders-in-the-bono-east-region-call-for-collective-action-as-terrorism-threat-nears-ghanas-borders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:39:15.000Z",
+      "summary": "In a significant move to strengthen Ghana's defenses against evolving security threats in West Africa, a three-day stakeholder engagement and public forum has been held to review the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MDPI urges public and private institutions to prioritise staff training ahead of 2027",
       "link": "https://www.myjoyonline.com/mdpi-urges-public-private-institutions-to-prioritise-staff-training-ahead-of-2027/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T23:35:48.000Z",
@@ -66,6 +92,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "MTN Ghana Foundation backs 160 entrepreneurs in push to tackle unemployment",
+      "link": "https://www.myjoyonline.com/mtn-ghana-foundation-backs-160-entrepreneurs-in-push-to-tackle-unemployment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T22:45:00.000Z",
+      "summary": "The MTN Ghana Foundation, in partnership with the Innohub Foundation, is providing financial and technical support to 160 entrepreneurs across the Bono, Bono East and Ahafo regions to grow…",
+      "categories": [
+        "National",
+        "MTN Ghana Foundation",
+        "Unemployment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Pru East cries out: Residents appeal for urgent fix of deplorable feeder roads",
       "link": "https://www.myjoyonline.com/pru-east-cries-out-residents-appeal-for-urgent-fix-of-deplorable-feeder-roads/",
       "source": "MyJoyOnline",
@@ -88,53 +127,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "BECE",
         "Examination"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Airport confrontation: Gumah accuses Ablakwa of damaging his reputation by linking him to a 2021 shooting",
-      "link": "https://www.myjoyonline.com/airport-confrontation-gumah-accuses-ablakwa-of-damaging-his-reputation-by-linking-him-to-a-2021-shooting/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:35:41.000Z",
-      "summary": "A member of the opposition New Patriotic Party (NPP), Prince-Kamal Gumah, who confronted Foreign Affairs Minister Samuel Okudzeto Ablakwa at an airport in the United States, has accused the…",
-      "categories": [
-        "National",
-        "News",
-        "Ablakwa",
-        "airport confrontation",
-        "Gumah",
-        "Shooting"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "35 officers assaulted, six killed in attacks by illegal loggers and miners in 5 years – Forestry Commission",
-      "link": "https://www.myjoyonline.com/35-officers-assaulted-six-killed-in-attacks-by-illegal-loggers-and-miners-in-5-years-forestry-commission/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:31:20.000Z",
-      "summary": "Chief Executive Officer of the Wildlife Division of the Forestry Commission says at least 35 forestry personnel protecting the country’s forest reserves and wildlife have been physically…",
-      "categories": [
-        "HP News 5",
-        "Regional",
-        "assault officers",
-        "Forestry Commission"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Your record stinks’: Agalga fires at NPP over cocaine trade",
-      "link": "https://www.myjoyonline.com/your-record-stinks-agalga-fires-at-npp-over-cocaine-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:23:03.000Z",
-      "summary": "Majority Leader James Agalga has reignited the political controversy over cocaine trafficking in Ghana, accusing the previous New Patriotic Party (NPP) administration of weakening port…",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Cocaine",
-        "Majority",
-        "Narcotics",
-        "NDC",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
