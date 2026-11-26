@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T17:33:30.707Z",
+  "updated": "2026-11-26T23:29:00.293Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Publishing Company forgoes 2025 dividend payment despite recording GH¢16.9m profit, opts to reinvest profits",
+      "link": "https://www.myjoyonline.com/ghana-publishing-company-forgoes-2025-dividend-payment-despite-recording-gh%c2%a216-9m-profit-opts-to-reinvest-profits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T19:37:24.000Z",
+      "summary": "The Ghana Publishing Company Limited (GPCL) will not pay dividends to its sole shareholder for the 2025 financial year, opting instead to reinvest its profits in the modernisation of its…"
+    },
+    {
+      "title": "GRIDCo restores Aboadze-Anwomaso transmission line after damage by illegal chainsaw operators",
+      "link": "https://www.myjoyonline.com/gridco-restores-aboadze-anwomaso-transmission-line-after-damage-by-illegal-chainsaw-operators/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T19:06:01.000Z",
+      "summary": "The Ghana Grid Company Limited (GRIDCo) has restored the 330kV Aboadze-Anwomaso transmission line to operation after completing repairs to damage caused by a fallen tree. In a statement…"
+    },
+    {
+      "title": "40 Businesses Gain Training to Tap AfCFTA Markets",
+      "link": "https://thehighstreetjournal.com/40-businessesgaintrainingon-afcfta-market/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T18:44:24.000Z",
+      "summary": "Ghana is training a first cohort of 40 micro, small and medium-sized enterprises to navigate cross-border trade under the African Continental Free Trade Area (AfCFTA), as the country seeks…"
+    },
+    {
+      "title": "Nescafé Gives First EV Prize to Winner of GH¢1m Consumer Promo",
+      "link": "https://thehighstreetjournal.com/nescafe-gives-first-ev-prize-to-winner-of-gh%c2%a21m-consumer-promo/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T18:39:09.000Z",
+      "summary": "Five consumers win an electric vehicle, cash, phones and laptops in Nescafé's GH¢1 million promotion, as the brand prepares for its final draw in Accra."
+    },
+    {
+      "title": "Trade and Transport Ministers Launch Digital Platform to Tackle Non-Tariff Barriers",
+      "link": "https://thehighstreetjournal.com/trade-and-transport-ministers-launch-digital-platform-to-tackle-non-tariff-barriers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T18:03:46.000Z",
+      "summary": "New reporting system seeks to reduce trade delays, improve logistics efficiency and strengthen Ghana’s competitiveness in regional markets."
+    },
+    {
+      "title": "‘We paid the debt the NPP could not pay’ – Ato Forson",
+      "link": "https://www.myjoyonline.com/we-paid-the-debt-the-npp-could-not-pay-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T18:01:25.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has defended the government's debt management record, saying the National Democratic Congress (NDC) has paid billions of cedis in domestic debt and…"
+    },
     {
       "title": "Planet One expands African mining footprint with $933m Senegal project",
       "link": "https://www.myjoyonline.com/planet-one-expands-african-mining-footprint-with-933m-senegal-project/",
@@ -1028,48 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T05:00:00.000Z",
       "summary": "I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution"
-    },
-    {
-      "title": "Global Aid Transparency Stalls as AI Exposes Gaps in Development Funding Data",
-      "link": "https://thehighstreetjournal.com/global-aid-transparency-stalls/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:00:00.000Z",
-      "summary": "The average transparency score among 33 development organisations assessed in the 2026 Aid Transparency Index fell slightly to 62.1 out of 100 from 62.7 in 2024"
-    },
-    {
-      "title": "Lending rates set for significant drop after BoG policy rate cut – Association of Banks",
-      "link": "https://www.myjoyonline.com/lending-rates-set-for-significant-drop-after-bog-policy-rate-cut-association-of-banks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:34:08.000Z",
-      "summary": "The Ghana Association of Banks (GAB) expects a significant reduction in lending rates in the coming months after the Bank of Ghana slashed its policy rate by 300 basis points."
-    },
-    {
-      "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
-      "link": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T04:21:00.000Z",
-      "summary": "Tullow Oil has lowered its 2026 free cash flow forecast after reaching an agreement with the Government of Ghana to settle two long-running tax disputes involving claims totalling $387…"
-    },
-    {
-      "title": "‘Customer experience must have a seat at the table’ – Marketing expert",
-      "link": "https://www.myjoyonline.com/customer-experience-must-have-a-seat-at-the-table-marketing-expert/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T03:51:00.000Z",
-      "summary": "Head of Brand and Marketing at Stanbic Bank Ghana, Chidinma Braye-Yankey, has urged businesses to give customers a stronger voice in corporate decision-making, stressing that customer…"
-    },
-    {
-      "title": "National Security summons Suame artisans over attacks on foreign traders",
-      "link": "https://www.myjoyonline.com/national-security-summons-suame-artisans-over-attacks-on-foreign-traders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:10:00.000Z",
-      "summary": "National Security has stepped in to address growing tensions at the Suame Industrial Enclave in Kumasi, inviting some local artisans for a meeting on Tuesday, November 24, following attacks…"
-    },
-    {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "link": "https://www.myjoyonline.com/nvidia-value-climbs-by-almost-1tn-and-tech-stocks-rally-after-jensen-huang-returns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T22:03:22.000Z",
-      "summary": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect."
     }
   ]
 };

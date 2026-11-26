@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T17:34:01.610Z",
+  "updated": "2026-11-26T23:29:31.203Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,118 +21,204 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Livestream: EPA launches water restoration and management framework in Ho",
-      "link": "https://www.myjoyonline.com/livestream-epa-launches-water-restoration-and-management-framework-in-ho/",
+      "title": "Pru East cries out: Residents appeal for urgent fix of deplorable feeder roads",
+      "link": "https://www.myjoyonline.com/pru-east-cries-out-residents-appeal-for-urgent-fix-of-deplorable-feeder-roads/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T17:20:43.000Z",
-      "summary": "The Environmental Protection Authority (EPA) is launching a new framework to guide the restoration and sustainable management of degraded water bodies across the country.",
+      "published": "2026-11-26T22:44:00.000Z",
+      "summary": "Residents of Pru East District in the Bono East Region are appealing to government to urgently fix the deplorable feeder roads linking their communities to the district capital, Yeji…",
+      "categories": [
+        "News",
+        "Pru",
+        "Roads"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana must replace high-stakes basic education examinations with a centralised online cumulative assessment system",
+      "link": "https://www.myjoyonline.com/ghana-must-replace-high-stakes-basic-education-examinations-with-a-centralised-online-cumulative-assessment-system/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T22:36:59.000Z",
+      "summary": "A call for an inclusive, continuous and competency-based assessment system for progression from Basic 4 to Basic 9",
+      "categories": [
+        "Opinion",
+        "BECE",
+        "Examination"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Airport confrontation: Gumah accuses Ablakwa of damaging his reputation by linking him to a 2021 shooting",
+      "link": "https://www.myjoyonline.com/airport-confrontation-gumah-accuses-ablakwa-of-damaging-his-reputation-by-linking-him-to-a-2021-shooting/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T22:35:41.000Z",
+      "summary": "A member of the opposition New Patriotic Party (NPP), Prince-Kamal Gumah, who confronted Foreign Affairs Minister Samuel Okudzeto Ablakwa at an airport in the United States, has accused the…",
       "categories": [
         "National",
         "News",
-        "EPA",
-        "Ho",
-        "Water Restoration and Management Framework"
+        "Ablakwa",
+        "airport confrontation",
+        "Gumah",
+        "Shooting"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘A promise made is a promise kept’ – Agalga touts $12.7bn reserves",
-      "link": "https://www.myjoyonline.com/a-promise-made-is-a-promise-kept-agalga-touts-12-7bn-reserves/",
+      "title": "35 officers assaulted, six killed in attacks by illegal loggers and miners in 5 years – Forestry Commission",
+      "link": "https://www.myjoyonline.com/35-officers-assaulted-six-killed-in-attacks-by-illegal-loggers-and-miners-in-5-years-forestry-commission/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T17:18:44.000Z",
-      "summary": "Majority Leader, James Agalga, has touted Ghana's gross international reserves of $12.7 billion, saying the figure demonstrates the government's delivery on its promise to strengthen the…",
+      "published": "2026-11-26T22:31:20.000Z",
+      "summary": "Chief Executive Officer of the Wildlife Division of the Forestry Commission says at least 35 forestry personnel protecting the country’s forest reserves and wildlife have been physically…",
       "categories": [
-        "National",
-        "News",
-        "$12.7bn reserves",
-        "James Agalga"
+        "HP News 5",
+        "Regional",
+        "assault officers",
+        "Forestry Commission"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Children demand stronger action to protect their rights at National Children’s Parliament",
-      "link": "https://www.myjoyonline.com/children-demand-stronger-action-to-protect-their-rights-at-national-childrens-parliament/",
+      "title": "‘Your record stinks’: Agalga fires at NPP over cocaine trade",
+      "link": "https://www.myjoyonline.com/your-record-stinks-agalga-fires-at-npp-over-cocaine-trade/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T17:15:34.000Z",
-      "summary": "Children from across Ghana have called for stronger action to protect their rights, urging government and stakeholders to translate commitments to their welfare into tangible improvements…",
-      "categories": [
-        "National",
-        "Children",
-        "National Children’s Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Ayine’s directive: When the State enforces the constitution against itself",
-      "link": "https://www.myjoyonline.com/dr-ayines-directive-when-the-state-enforces-the-constitution-against-itself/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T17:11:57.000Z",
-      "summary": "For more than three decades, Ghana’s 1992 Constitution has guaranteed the rights of persons suspected or accused of crime. Yet successive governments have struggled to translate these…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Dominic Ayine",
-        "Noah Ephraem Adamtey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Building a culture of ownership and high performance",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-ownership-and-high-performance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T17:10:16.000Z",
-      "summary": "High-performing organizations are built by people who understand their responsibilities, take ownership of outcomes and remain committed to delivering results. A culture of ownership…",
-      "categories": [
-        "Features",
-        "Opinion",
-        "Culture",
-        "Daily Insight"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana records average of 100 fire outbreaks weekly – Interior Minister",
-      "link": "https://www.myjoyonline.com/ghana-records-average-of-100-fire-outbreaks-weekly-interior-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T17:02:25.000Z",
-      "summary": "Interior Minister Muntaka Mohammed-Mubarak has disclosed that Ghana records an average of 100 fire outbreaks every week, with incidents increasing during the peak fire season between…",
+      "published": "2026-11-26T22:23:03.000Z",
+      "summary": "Majority Leader James Agalga has reignited the political controversy over cocaine trafficking in Ghana, accusing the previous New Patriotic Party (NPP) administration of weakening port…",
       "categories": [
         "HP News 2",
-        "National",
-        "Fire",
-        "Ghana",
-        "Interior Minister"
+        "News",
+        "Cocaine",
+        "Majority",
+        "Narcotics",
+        "NDC",
+        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘This is the people’s budget’ – Agalga defends 2027 budget, rules out new taxes",
-      "link": "https://www.myjoyonline.com/this-is-the-peoples-budget-agalga-defends-2027-budget-rules-out-new-taxes/",
+      "title": "VIDEO: Mahama arrives in Barbados to deepen Ghana-Caribbean ties",
+      "link": "https://www.myjoyonline.com/video-mahama-arrives-in-barbados-to-deepen-ghana-caribbean-ties/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T17:01:17.000Z",
-      "summary": "Majority Leader James Agalga has defended the 2027 Budget as a “people's budget”, saying it delivers on the government's promises to reduce inflation, borrowing and excessive public…",
+      "published": "2026-11-26T22:11:43.000Z",
+      "summary": "President John Dramani Mahama has arrived in Barbados for a five-day state visit aimed at strengthening Ghana’s historical, diplomatic and economic relations with the Caribbean nation.",
       "categories": [
+        "HP News 8",
         "National",
-        "Top Story",
-        "Budget 2027",
-        "James Agalga",
-        "people's budget",
-        "Taxes"
+        "News",
+        "Barbados",
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "One year on, House of Faith has given Christian stories a free home on the world’s screens",
-      "link": "https://www.myjoyonline.com/one-year-on-house-of-faith-has-given-christian-stories-a-free-home-on-the-worlds-screens/",
+      "title": "Binance lifts withdrawal suspension after $6.3 billion crypto heist",
+      "link": "https://www.myjoyonline.com/binance-lifts-withdrawal-suspension-after-6-3-billion-crypto-heist/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T17:00:25.000Z",
-      "summary": "House of Faith, the non-profit, faith-driven media organisation with offices in Lagos and London, today marks its first anniversary. In just one year, it has built FaithStream, Africa’s…",
+      "published": "2026-11-26T22:08:00.000Z",
+      "summary": "Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal suspension after a record $6.3 billion was stolen in a hack last month.",
       "categories": [
-        "National",
-        "House of Faith"
+        "International",
+        "Binance"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Music is art, not a competition – Sarkodie",
+      "link": "https://www.myjoyonline.com/music-is-art-not-a-competition-sarkodie/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T22:05:00.000Z",
+      "summary": "Rap artiste, Sarkodie, has urged musicians to return to the essence of music as art, warning that the rush for instant chart success is killing authentic creativity.",
+      "categories": [
+        "Music",
+        "Sarkodie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Future of Ghana’s anti-corruption fight rests on youth – OSP",
+      "link": "https://www.graphic.com.gh/news/general-news/future-of-ghanas-anti-corruption-fight-rests-on-youth-osp.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T19:41:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Kumasi: Police arrest three suspects with 79 parcels of suspected narcotics",
+      "link": "https://www.graphic.com.gh/news/general-news/kumasi-police-arrest-three-suspects-with-79-parcels-of-suspected-narcotics.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T18:56:57.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt to deliver first batch of 40 fire tenders to GNFS by December – Muntaka",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-to-deliver-first-batch-of-40-fire-tenders-to-gnfs-by-december-muntaka.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T18:40:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Kosmos Energy Ghana inaugurates renovated dining hall at Senya SHS",
+      "link": "https://www.graphic.com.gh/news/education/kosmos-energy-ghana-inaugurates-renovated-dining-hall-at-senya-shs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T18:21:37.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UMaT opens €400,000 Robotics and Automation Laboratory",
+      "link": "https://www.graphic.com.gh/news/education/umat-opens-eur400-000-robotics-and-automation-laboratory.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T18:15:42.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2027 Budget debate: Majority and Minority clash over cocaine record and economic realities",
+      "link": "https://www.graphic.com.gh/news/politics/2027-budget-debate-majority-and-minority-clash-over-cocaine-record-and-economic-realities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T18:06:40.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sir Sam Jonah to receive Okyeman Kanea Keseɛ award in Kyebi",
+      "link": "https://www.graphic.com.gh/news/general-news/sir-sam-jonah-to-receive-okyeman-kanea-kesee-award-in-kyebi.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T17:41:42.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NSA scandal: Police trace GH¢30.7m funds to Gifty Oware-Mensah’s company",
+      "link": "https://www.graphic.com.gh/news/general-news/nsa-scandal-police-trace-ghc30-7m-funds-to-gifty-oware-mensahs-company.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T17:39:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GAPHTO urges vigilance against yellow fever, CSM outbreaks",
@@ -157,17 +243,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Kintampo set for 27th Benkadi Kurubi Festival",
-      "link": "https://www.graphic.com.gh/news/general-news/kintampo-set-for-27th-benkadi-kurubi-festival.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T16:41:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
       "link": "https://ghanaiantimes.com.gh/president-mahama-hands-over-new-fleet-of-aircraft-to-ghana-air-force/",
       "source": "Ghanaian Times",
@@ -178,72 +253,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "'It's not a crime to be intelligent': NPP fights BECE ban with gifted pupils register",
-      "link": "https://www.graphic.com.gh/news/general-news/its-not-a-crime-to-be-intelligent-npp-fights-bece-ban-with-gifted-pupils-register.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T15:47:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Speaker Bagbin urges citizens to petition Parliament through MPs",
-      "link": "https://www.graphic.com.gh/news/general-news/speaker-bagbin-urges-citizens-to-petition-parliament-through-mps.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T15:29:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "link": "https://www.graphic.com.gh/news/health/hope-for-millions-as-cheaper-hiv-prevention-jab-reaches-africa.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T15:02:18.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP demands evidence of cash-stash claims, calls for arrests if allegations are false",
-      "link": "https://www.graphic.com.gh/news/politics/npp-demands-evidence-of-cash-stash-claims-calls-for-arrests-if-allegations-are-false.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T15:00:36.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Foreign Affairs Ministry cautions Ghanaians over jobs in Iraq, Syria",
-      "link": "https://www.graphic.com.gh/news/general-news/foreign-affairs-ministry-cautions-ghanaians-over-jobs-in-iraq-syria.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T14:30:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Allegations never win': Ablakwa breaks silence after US airport confrontation",
-      "link": "https://www.graphic.com.gh/news/general-news/allegations-never-win-ablakwa-breaks-silence-after-us-airport-confrontation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T14:09:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "President Mahama heads to Barbados for a state visit from Nov 26-30",
@@ -304,17 +313,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama hands over 3 new aircraft to Ghana Air Force",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-hands-over-3-new-aircraft-to-ghana-air-force.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T12:44:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
