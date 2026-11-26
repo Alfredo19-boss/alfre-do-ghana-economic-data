@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T08:23:02.433Z",
+  "updated": "2026-11-26T08:33:02.689Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -125,6 +125,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-26T05:00:00.000Z",
       "summary": "Under the agreement, Afreximbank will provide financial advisory services to advance the project's financing arrangements and help establish a framework for securing funding"
+    },
+    {
+      "title": "Skytrain Trial: Supreme Court Dismisses Asamoah’s Bid to Challenge Order Requiring Him to Testify First",
+      "link": "https://thehighstreetjournal.com/skytrain-trial-supreme-court-dismisses-asamoahs-bid-to-challenge-order-requiring-him-to-testify-first/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:00:00.000Z",
+      "summary": "Ghana's Supreme Court unanimously dismissed former GIIF CEO Solomon Asamoah's bid, upholding the High Court order requiring him to testify first."
     },
     {
       "title": "BoG needs no parliamentary approval to upgrade currency – Dr Atuahene",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T09:08:29.000Z",
       "summary": "Ghana's lower policy rate has increased expectations for cheaper business financing, but commercial banks must translate the monetary easing into affordable loans and expanded credit for…"
-    },
-    {
-      "title": "Rising shipping costs could push up prices of goods in Ghana – Expert",
-      "link": "https://www.ghanabusinessnews.com/2026/11/23/rising-shipping-costs-could-push-up-prices-of-goods-in-ghana-expert/",
-      "source": "Ghana Business News",
-      "published": "2026-11-23T07:04:13.000Z",
-      "summary": "Dr Evans Ago Tetteh, Alternate Permanent Representative of Ghana to the International Maritime Organization (GNA), has said that increases in international shipping and freight costs can…"
     }
   ]
 };

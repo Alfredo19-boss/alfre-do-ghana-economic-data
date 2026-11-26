@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:23:32.602Z",
+  "updated": "2026-11-26T08:33:32.652Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Govt presents 16 pickups to regional best farmers",
+      "link": "https://ghanaiantimes.com.gh/govt-presents-16-pickups-to-regional-best-farmers/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:32:24.000Z",
+      "summary": "THE Ministry of Food and Agriculture has handed over 16 double-cabin pickup vehicles and motorcycles to regional ministers for distribution to award winners ahead of the 2026 National…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GSE provides borehole for Agbogba • Anglican schools Officials of GSE with some of the pupils",
+      "link": "https://ghanaiantimes.com.gh/gse-provides-borehole-for-agbogba-anglican-schools-officials-of-gse-with-some-of-the-pupils/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:30:03.000Z",
+      "summary": "THE Ghana Stock Exchange (GSE), as part of its Corporate Social Investment (CSI) initiative, has constructed a borehole for the Agbogba Anglican Cluster of Schools in Accra to improve…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Fury, Joshua fight to go ahead despite objections over 3am finish",
+      "link": "https://ghanaiantimes.com.gh/fury-joshua-fight-to-go-ahead-despite-objections-over-3am-finish/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:27:38.000Z",
+      "summary": "COUNCILLORS have approved plans allowing December’s highly anticipated Tyson Fury v Anthony Joshua fight in Cardiff to finish in the early hours. Fans in hospitality boxes at the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Thursday, November 25, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-25-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T08:26:45.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Madrid win as Arsenal, Man City held in Champions League",
+      "link": "https://ghanaiantimes.com.gh/real-madrid-win-as-arsenal-man-city-held-in-champions-league/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:26:00.000Z",
+      "summary": "JUDE Bellingham scored one of the goals of the season as Real Madrid hammered PSV Eindhoven 5-1 on Tuesday to maintain their perfect record in this season’s Champions League, while Arsenal…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Hakimi, Mané, 3 others named for CAF Player of the Year award",
       "link": "https://ghanaiantimes.com.gh/hakimi-mane-3-others-named-for-caf-player-of-the-year-award/",
@@ -65,42 +122,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "BoG urges financial institutions to leverage digital data to bridge MSMEs’ credit gap",
-      "link": "https://ghanaiantimes.com.gh/bog-urges-financial-institutions-to-leverage-digital-data-to-bridge-msmes-credit-gap/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:06:04.000Z",
-      "summary": "The Bank of Ghana (BoG) has urged financial institutions, fintech companies and other players in the financial sector to leverage the growing adoption of digital financial services to…",
-      "categories": [
-        "Business",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Customs brokers urged to help close GH¢14.35bn revenue gap",
-      "link": "https://ghanaiantimes.com.gh/customs-brokers-urged-to-help-close-gh%c2%a214-35bn-revenue-gap/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:54:24.000Z",
-      "summary": "Ghana’s customs brokers have been urged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority (GRA)…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "British Council warns schools against emerging digital threats",
-      "link": "https://ghanaiantimes.com.gh/british-council-warns-schools-against-emerging-digital-threats/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:49:48.000Z",
-      "summary": "The British Council has urged school authorities in Ghana to strengthen child protection systems to guard pupils against emerging digital threats as the use of artificial intelligence (AI)…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-faces-ghc670m-budget-cut-bagbin-warns-of-impact-on-operations-staff-welfare.html",
       "source": "Daily Graphic",
@@ -110,18 +131,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa must benefit more from mineral wealth – Sammy Gyamfi",
-      "link": "https://ghanaiantimes.com.gh/africa-must-benefit-more-from-mineral-wealth-sammy-gyamfi/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:47:17.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi Esq., has called for a fundamental shift in Africa’s relationship with international investors to ensure that the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Daily Insight for CEOs: Retaining critical talent and institutional knowledge",
@@ -205,8 +214,8 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Amin Adam questions Ato Forson over and transparency of bond buyback offer",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-and-transparency-of-bond-buyback-offer/",
+      "title": "Amin Adam questions Ato Forson over transparency of bond buyback offer",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-transparency-of-bond-buyback-offer/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T06:03:19.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson is facing questions over the government's voluntary Domestic Debt Exchange Programme (DDEP) bond buyback, with his predecessor, Dr Mohammed Amin Adam…",
@@ -221,36 +230,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PBC workers face 2027 wait for over 20 months’ salary arrears",
-      "link": "https://www.myjoyonline.com/pbc-workers-face-2027-wait-for-over-20-months-salary-arrears/",
+      "title": "Amin Adam questions Ato Forson over and transparency of bond buyback offer",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-and-transparency-of-bond-buyback-offer/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T06:00:17.000Z",
-      "summary": "Workers of the Produce Buying Company (PBC) Limited may have to endure several more months without their outstanding salaries, with management targeting 2027 to begin paying the arrears in…",
+      "published": "2026-11-26T06:03:19.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson is facing questions over the government's voluntary Domestic Debt Exchange Programme (DDEP) bond buyback, with his predecessor, Dr Mohammed Amin Adam…",
       "categories": [
-        "Business",
-        "HP Business 3",
         "National",
-        "News",
-        "Cocoa",
-        "PBC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MoMo customers face new monthly transaction caps under BoG rules",
-      "link": "https://www.myjoyonline.com/momo-customers-face-new-monthly-transaction-caps-under-bog-rules/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:53:21.000Z",
-      "summary": "Mobile money customers who move large sums through their wallets will now have to operate within monthly transaction ceilings following a revision of limits by the Bank of Ghana (BoG).",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 4",
-        "HP News 5",
-        "News",
-        "Cedi",
-        "MoMo",
-        "wallet"
+        "Politics",
+        "Amin Adam",
+        "Ato Forson",
+        "Bondbuyback",
+        "DDEP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
