@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:54:01.623Z",
+  "updated": "2026-11-26T17:04:02.380Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "One year on, House of Faith has given Christian stories a free home on the world’s screens",
+      "link": "https://www.myjoyonline.com/one-year-on-house-of-faith-has-given-christian-stories-a-free-home-on-the-worlds-screens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:00:25.000Z",
+      "summary": "House of Faith, the non-profit, faith-driven media organisation with offices in Lagos and London, today marks its first anniversary. In just one year, it has built FaithStream, Africa’s…",
+      "categories": [
+        "National",
+        "House of Faith"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GAPHTO urges vigilance against yellow fever, CSM outbreaks",
       "link": "https://ghanaiantimes.com.gh/gaphto-urges-vigilance-against-yellow-fever-csm-outbreaks/",
@@ -146,25 +158,12 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T16:02:02.000Z",
       "summary": "The Central East Regional Police Command has arrested seven members of the Asafo group at Gomoa Nyanyano in the Gomoa East District following tensions over the celebration of the Akwambo…",
       "categories": [
+        "HP News 2",
         "News",
         "Regional",
         "Akwambo Festival",
         "Gomoa Nyanyano",
         "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Planet One expands African mining footprint with $933m Senegal project",
-      "link": "https://www.myjoyonline.com/planet-one-expands-african-mining-footprint-with-933m-senegal-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:58:13.000Z",
-      "summary": "Senegal has taken a major step toward transforming its mining and steel industry by launching the US$933 million Falémé Iron Ore Project, led by UAE-headquartered Planet One Group.",
-      "categories": [
-        "Africa",
-        "Mining",
-        "Planet One",
-        "Senegal"
       ],
       "site": "https://www.myjoyonline.com/"
     },
