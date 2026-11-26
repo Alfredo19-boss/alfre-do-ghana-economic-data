@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T02:46:58.079Z",
+  "updated": "2026-11-26T02:56:57.528Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,20 +20,6 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
-    {
-      "title": "The AFCFTA ring has fifty-four flags and zero referees",
-      "link": "https://www.myjoyonline.com/the-afcfta-ring-has-fifty-four-flags-and-zero-referees/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:42:39.000Z",
-      "summary": "Yesterday in \"Rich Soil, Poor Citizens\", we traced how Ghana sends its builders into Africa's single market wearing lead boots. Upfront service taxes and rigid hiring laws drain local…",
-      "categories": [
-        "Opinion",
-        "Ghana",
-        "IMANI",
-        "market"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
     {
       "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
       "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
@@ -52,6 +38,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "link": "https://www.myjoyonline.com/angelina-jolie-and-brad-pitt-settle-legal-battle-over-french-winery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:46:05.000Z",
+      "summary": "Brad Pitt and Angelina Jolie have settled a long-running legal battle over her sale of a stake in their French vineyard, which unfolded amid a bitter divorce.",
+      "categories": [
+        "International",
+        "Movies",
+        "Angelina Jolie",
+        "Brad Pitt"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
       "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
       "source": "MyJoyOnline",
@@ -64,6 +64,20 @@ window.GDC_PAPERS = {
         "Data trust",
         "Digital Trust Insight Survey",
         "PwC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The AFCFTA ring has fifty-four flags and zero referees",
+      "link": "https://www.myjoyonline.com/the-afcfta-ring-has-fifty-four-flags-and-zero-referees/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:12:39.000Z",
+      "summary": "Yesterday in \"Rich Soil, Poor Citizens\", we traced how Ghana sends its builders into Africa's single market wearing lead boots. Upfront service taxes and rigid hiring laws drain local…",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "IMANI",
+        "market"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -114,19 +128,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Poundland"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
-      "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:33:00.000Z",
-      "summary": "Shareholders of Produce Buying Company (PBC), Ghana’s largest licensed cocoa buying company, have approved a plan to raise GH¢300 million from the capital market to restructure the…",
-      "categories": [
-        "Economy",
-        "National",
-        "Produce Buying Company (PBC)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
