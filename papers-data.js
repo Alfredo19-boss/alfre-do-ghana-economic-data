@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T15:24:01.531Z",
+  "updated": "2026-11-26T15:34:00.916Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Young people account for 27.5% of new HIV infections in Ghana – AIDS Healthcare Foundation warns",
+      "link": "https://www.myjoyonline.com/young-people-account-for-27-5-of-new-hiv-infections-in-ghana-aids-healthcare-foundation-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:27:28.000Z",
+      "summary": "Young people aged 15 to 24 account for 27.5 per cent of new HIV infections in Ghana, raising concerns among health professionals and advocates about gaps in prevention education and access…",
+      "categories": [
+        "Health",
+        "National",
+        "AIDS Healthcare foundation",
+        "HIV infections",
+        "Korle Bu Teaching Hospital"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Tullow targets 10 new wells from 2027 after posting strong operational and financial performance",
       "link": "https://www.myjoyonline.com/tullow-targets-10-new-wells-from-2027-after-posting-strong-operational-and-financial-performance/",
@@ -148,20 +163,6 @@ window.GDC_PAPERS = {
         "Finance Ministry",
         "NAFCO projects",
         "PFAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Medical laboratory workers warn of possible industrial action over professional autonomy",
-      "link": "https://www.myjoyonline.com/medical-laboratory-workers-warn-of-possible-industrial-action-over-professional-autonomy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:11:57.000Z",
-      "summary": "The Medical Laboratory Science profession has warned of possible disruptions to health service delivery in Ghana if the government fails to address longstanding concerns over the…",
-      "categories": [
-        "Health",
-        "National",
-        "Industrial action",
-        "Medical Laboratory Scientists"
       ],
       "site": "https://www.myjoyonline.com/"
     },
