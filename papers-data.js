@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:43:32.174Z",
+  "updated": "2026-11-26T09:53:32.783Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GH¢4million in one week: TraffiTech cameras catch 13,699 speeding drivers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghc4million-in-one-week-traffitech-cameras-catch-13-699-speeding-drivers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T09:44:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "ECG attributes Accra power outages to transformer upgrades and emergency faults",
       "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-and-emergency-faults/",
@@ -305,17 +316,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Ministry, MTN to launch hotline for reporting abuse in schools",
-      "link": "https://www.graphic.com.gh/news/education/education-ministry-mtn-to-launch-hotline-for-reporting-abuse-in-schools.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T18:15:00.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     }
