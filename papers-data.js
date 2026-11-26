@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:33:32.749Z",
+  "updated": "2026-11-26T05:43:33.095Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UBIDS launches ‘2026 16 Days of Activism’ amid warnings over campus harassment",
+      "link": "https://www.myjoyonline.com/ubids-launches-2026-16-days-of-activism-amid-warnings-over-campus-harassment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:37:58.000Z",
+      "summary": "University administrators, gender advocates, and law enforcement officials have called for urgent institutional accountability, survivor-centered protection, and stricter enforcement of…",
+      "categories": [
+        "National",
+        "News",
+        "Activism",
+        "Gender",
+        "Violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget borrowing will push up rates and starve businesses – Prof Isaac Boadi warns",
       "link": "https://www.myjoyonline.com/2027-budget-borrowing-will-push-up-rates-and-starve-businesses-prof-isaac-boadi-warns/",
@@ -82,6 +97,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "I never insulted Pete Edochie – Bob Manuel",
+      "link": "https://www.myjoyonline.com/i-never-insulted-pete-edochie-bob-manuel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:49:00.000Z",
+      "summary": "Actor Bob Manuel Udokwu clarified that his claim to be older in Nollywood than the late veteran actor Pete Edochie wasn't meant to diminish the deceased, but to set the record straight.",
+      "categories": [
+        "Movies",
+        "Bob Manuel",
+        "Nollywood",
+        "Pete Edochie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Heritage series: BoG must explain selection of personalities on new cedi notes – Walewale MP",
       "link": "https://www.myjoyonline.com/heritage-series-bog-must-explain-selection-of-personalities-on-new-cedi-notes-walewale-mp/",
       "source": "MyJoyOnline",
@@ -102,32 +131,6 @@ window.GDC_PAPERS = {
         "Africa",
         "DR Congo",
         "Ebola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Barrick International CEO meets Mali PM in first visit since standoff",
-      "link": "https://www.myjoyonline.com/barrick-international-ceo-meets-mali-pm-in-first-visit-since-standoff/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:21:00.000Z",
-      "summary": "The CEO of Barrick Mining's new international division met with Mali's prime minister on Wednesday, the government said, marking the first visit by a foreign executive of the company since…",
-      "categories": [
-        "Africa",
-        "Barrick Mining",
-        "Mali"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
-      "link": "https://www.myjoyonline.com/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:10:00.000Z",
-      "summary": "Crude oil prices rose in early Asian trading on Thursday, extending gains from the previous session on supply concerns after Yemen's Houthis said they had ​hit Saudi Arabia's largest oil…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
