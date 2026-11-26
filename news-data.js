@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T09:53:02.234Z",
+  "updated": "2026-11-26T10:03:02.237Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "How to Keep a House Cool in Ghana, Part 2",
+      "link": "https://thehighstreetjournal.com/how-to-keep-a-house-cool-in-ghana-part-2/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T10:00:00.000Z",
+      "summary": "A practical guide to keeping Ghanaian homes cool through cross-ventilation, ceiling fans, effective shading and energy-efficient air conditioning, while understanding regional differences…"
+    },
     {
       "title": "PFAG criticizes 2027 Budget, says only 3.64% expenditure allocated to agric-related agencies, programmes",
       "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-expenditure-allocated-to-agric-related-agencies-programmes/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T10:24:12.000Z",
       "summary": "The Chief Executive Officer of the Ghana Shippers’ Authority (GSA) Prof. Ransford Gyampo has announced that the Boankra Integrated Logistics Terminal (BILT), popularly known as the Boankra…"
-    },
-    {
-      "title": "GSA launches digital platform to fight Non-Tariff Barriers",
-      "link": "https://www.myjoyonline.com/gsa-launches-digital-platform-to-fight-non-tariff-barriers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T10:15:29.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) has developed a digital Non-Tariff Barriers (NTB) Reporting and Resolution Platform in collaboration with the Ministry of Trade, Agribusiness and…"
     }
   ]
 };

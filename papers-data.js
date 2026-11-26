@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:53:32.783Z",
+  "updated": "2026-11-26T10:03:32.666Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -104,6 +104,17 @@ window.GDC_PAPERS = {
         "PFAG"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prisons and Corrections Month celebration: Prisons Service appeals for support",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prisons-and-corrections-month-celebration-prisons-service-appeals-for-support.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T09:07:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
@@ -276,21 +287,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-faces-ghc670m-budget-cut-bagbin-warns-of-impact-on-operations-staff-welfare.html",
+      "title": "Central University graduates 2,038 students",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-central-university-graduates-2-038-students.html",
       "source": "Daily Graphic",
-      "published": "2026-11-26T07:49:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Apply now: GES opens portal for teacher recruitment until December 2",
-      "link": "https://www.graphic.com.gh/news/education/apply-now-ges-opens-portal-for-teacher-recruitment-until-december-2.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T21:10:18.000Z",
+      "published": "2026-11-26T08:13:45.000Z",
       "summary": "",
       "categories": [
         "Education"
@@ -298,21 +298,21 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "COCOBOD recalls Natural Asontem Liquid Fertiliser from Central Region over labelling concerns",
-      "link": "https://www.graphic.com.gh/news/general-news/cocobod-recalls-natural-asontem-liquid-fertiliser-from-central-region-over-labelling-concerns.html",
+      "title": "Ensure AI-supported content aligns with approved curriculum - Dep. Education Minister to teachers",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-ensure-ai-supported-content-aligns-with-approved-curriculum-dep-education-minister-to-teachers.html",
       "source": "Daily Graphic",
-      "published": "2026-11-25T20:56:43.000Z",
+      "published": "2026-11-26T08:09:46.000Z",
       "summary": "",
       "categories": [
-        "General News"
+        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Civil servants and GES staff: Check your 2027 salary payment dates",
-      "link": "https://www.graphic.com.gh/news/general-news/civil-servants-and-ges-staff-check-your-2027-salary-payment-dates.html",
+      "title": "President Mahama tasks IGP to prevent police fatalities",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-tasks-igp-to-prevent-police-fatalities.html",
       "source": "Daily Graphic",
-      "published": "2026-11-25T18:19:47.000Z",
+      "published": "2026-11-26T08:04:33.000Z",
       "summary": "",
       "categories": [
         "General News"
