@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T10:03:32.666Z",
+  "updated": "2026-11-26T14:44:01.802Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,125 +21,274 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "KMA orders traders to vacate Kejetia project lanes as construction resumes",
+      "link": "https://www.myjoyonline.com/kma-orders-traders-to-vacate-kejetia-project-lanes-as-construction-resumes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:31:52.000Z",
+      "summary": "The Kumasi Metropolitan Assembly (KMA) has directed traders and other occupants operating along dedicated lanes and adjoining areas of the Kejetia Redevelopment Project Phase II to vacate…",
+      "categories": [
+        "National",
+        "News",
+        "Kejetia",
+        "KMA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Affairs Ministry cautions Ghanaians over jobs in Iraq, Syria",
+      "link": "https://www.graphic.com.gh/news/general-news/foreign-affairs-ministry-cautions-ghanaians-over-jobs-in-iraq-syria.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T14:30:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Parliament’s Education Committee meets UG management, SRC over hostel fee increases",
+      "link": "https://www.myjoyonline.com/parliaments-education-committee-meets-ug-management-src-over-hostel-fee-increases/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:27:42.000Z",
+      "summary": "Parliament's Education Committee has held discussions with the management of the University of Ghana, the Students' Representative Council (SRC) and officials of the Rent Control Department…",
+      "categories": [
+        "Education",
+        "News",
+        "Rent Control",
+        "SRC",
+        "UG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Peasant Farmers Association urges Finance Ministry to increase funding for agricultural programmes",
+      "link": "https://www.myjoyonline.com/peasant-farmers-association-urges-finance-ministry-to-increase-funding-for-agricultural-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:22:43.000Z",
+      "summary": "The National President of the Peasant Farmers Association of Ghana, Douglas Annoh, has urged the Ministry of Finance to release adequate funding for key agricultural interventions to ensure…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "News",
+        "FEED Ghana",
+        "Finance Ministry",
+        "NAFCO projects",
+        "PFAG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Medical laboratory workers warn of possible industrial action over professional autonomy",
+      "link": "https://www.myjoyonline.com/medical-laboratory-workers-warn-of-possible-industrial-action-over-professional-autonomy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:11:57.000Z",
+      "summary": "The Medical Laboratory Science profession has warned of possible disruptions to health service delivery in Ghana if the government fails to address longstanding concerns over the…",
+      "categories": [
+        "Health",
+        "National",
+        "Industrial action",
+        "Medical Laboratory Scientists"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "'Allegations never win': Ablakwa breaks silence after US airport confrontation",
+      "link": "https://www.graphic.com.gh/news/general-news/allegations-never-win-ablakwa-breaks-silence-after-us-airport-confrontation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T14:09:04.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana Navy and Danish Special Operations Command deepen maritime security cooperation",
+      "link": "https://www.myjoyonline.com/ghana-navy-and-danish-special-operations-command-deepen-maritime-security-cooperation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:05:47.000Z",
+      "summary": "The Ghana Navy and the Danish Special Operations Command (SOCOM) have reaffirmed their commitment to strengthening cooperation in maritime security, specialised training and operational…",
+      "categories": [
+        "National",
+        "Danish Special Operations Command",
+        "Ghana Navy",
+        "maritime security cooperation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa announces medical support, repatriation for Ghanaian domestic workers abroad",
+      "link": "https://www.myjoyonline.com/ablakwa-announces-medical-support-repatriation-for-ghanaian-domestic-workers-abroad/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T13:56:33.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has announced that Ghana's diplomatic missions abroad have received consular approval to settle the medical bills of Ghanaian…",
+      "categories": [
+        "National",
+        "Ghanaian domestic workers",
+        "Samuel Okudzeto Ablakwa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Okyenhene to honour Sir Sam Jonah for contributions to business and Okyeman",
+      "link": "https://www.myjoyonline.com/okyenhene-to-honour-sir-sam-jonah-for-contributions-to-business-and-okyeman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T13:53:15.000Z",
+      "summary": "Distinguished Ghanaian business leader and global statesman, Sir Sam Jonah, will be celebrated for his exceptional legacy of leadership, service to humanity and enduring contribution to…",
+      "categories": [
+        "National",
+        "Light of Okyeman",
+        "Osagyefuo Amoatia Ofori Panin",
+        "Sir Sam Jonah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Calm returns to Nyanyano after gunshots; police deploy 50 officers",
+      "link": "https://www.myjoyonline.com/calm-returns-to-nyanyano-after-gunshots-police-deploy-50-officers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T13:51:00.000Z",
+      "summary": "Calm has returned to Gomoa Nyanyano in the Gomoa East District of the Central Region following sporadic gunshots that rocked the community on Wednesday night.",
+      "categories": [
+        "News",
+        "Regional",
+        "Chieftaincy dispute",
+        "Gomoa Nyanyano"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama heads to Barbados for a state visit from Nov 26-30",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-heads-to-barbados-for-a-state-visit-from-nov-26-30/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:23:24.000Z",
+      "summary": "President John Dramani Mahama will undertake a state visit to the Republic of Barbados from 26 to 30 November 2026. The visit underscores the longstanding historical and friendly relations…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President Mahama reconstitutes GNPC Board, appoints Solomon Quaynor as Chairman",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-reconstitutes-gnpc-board-appoints-solomon-quaynor-as-chairman/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:22:12.000Z",
+      "summary": "President John Dramani Mahama has reconstituted the Governing Board of the Ghana National Petroleum Corporation (GNPC) and appointed Mr. Solomon Quaynor as Chairman. The President has also…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "13 suspected NAIMOS impersonators remanded into custody",
+      "link": "https://ghanaiantimes.com.gh/13-suspected-naimos-impersonators-remanded-into-custody/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:18:05.000Z",
+      "summary": "Thirteen suspects arrested for allegedly impersonating National Anti-Illegal Mining Operations Secretariat (NAIMOS) operatives to extort money from miners have been remanded into custody…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana temporarily closes honorary consulate in Vancouver, announces Calgary closure",
+      "link": "https://ghanaiantimes.com.gh/ghana-temporarily-closes-honorary-consulate-in-vancouver-announces-calgary-closure/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:15:49.000Z",
+      "summary": "The Ghana High Commission in Ottawa, Canada, has announced the temporary closure of Ghana’s Honorary Consulate in Vancouver, British Columbia, until further notice. It has also announced…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "KMA directs traders to vacate Kejetia dedicated lanes as phase II works resume",
+      "link": "https://ghanaiantimes.com.gh/kma-directs-traders-to-vacate-kejetia-dedicated-lanes-as-phase-ii-works-resume/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:12:16.000Z",
+      "summary": "The Kumasi Metropolitan Assembly (KMA) has directed traders and other occupants along the dedicated lanes of the Kejetia Redevelopment Project Phase II to vacate the affected areas…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP demands evidence over viral video allegedly showing cash stashed in former appointee’s closet",
+      "link": "https://ghanaiantimes.com.gh/npp-demands-evidence-over-viral-video-allegedly-showing-cash-stashed-in-former-appointees-closet/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T13:10:45.000Z",
+      "summary": "The New Patriotic Party (NPP) has demanded evidence to support claims in a viral video allegedly showing bundles of GH¢200 notes found in the closet of a former government appointee. In a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President Mahama hands over 3 new aircraft to Ghana Air Force",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-hands-over-3-new-aircraft-to-ghana-air-force.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T12:44:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama to address Barbados Parliament, mark 60th independence anniversary",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-begins-historic-barbados-visit-to-address-parliament-and-mark-60th-independence-anniversary.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T12:40:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama reassigns GNPC CEO; appoints acting head, reconstitutes board",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-reassigns-gnpc-ceo-appoints-hamis-ussif-acting-head-reconstitutes-board.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T12:08:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Graphic MD Benjamin Ato Afful bows out after 8 years",
+      "link": "https://www.graphic.com.gh/news/general-news/gcgl-md-benjamin-ato-afful-bows-out-after-8-years.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T11:31:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Give us your support, Deputy Lands Minister urges chiefs, elders in mining communities",
+      "link": "https://www.graphic.com.gh/news/general-news/give-us-your-support-deputy-lands-minister-urges-chiefs-elders-in-mining-communities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T10:28:18.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "GH¢4million in one week: TraffiTech cameras catch 13,699 speeding drivers",
       "link": "https://www.graphic.com.gh/news/general-news/ghc4million-in-one-week-traffitech-cameras-catch-13-699-speeding-drivers.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T09:44:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ECG attributes Accra power outages to transformer upgrades and emergency faults",
-      "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-and-emergency-faults/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T09:17:26.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has blamed recent power outages in parts of Accra on transformer upgrades, replacement works and emergency faults on its distribution network.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Accra",
-        "ECG",
-        "Power outages",
-        "transformer upgrade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG attributes Accra power outages to transformer upgrades, emergency faults",
-      "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-emergency-faults/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T09:17:26.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has blamed recent power outages in parts of Accra on transformer upgrades, replacement works and emergency faults on its distribution network.",
-      "categories": [
-        "National",
-        "Accra",
-        "ECG",
-        "Power outages",
-        "transformer upgrade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "French Ambassador commends Ghana for economic turnaround",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-french-ambassador-commends-ghana-for-economic-turnaround.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T09:13:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PFAG criticizes 2027 Budget, says only 3.64% expenditure allocated to agric-related agencies, programmes",
-      "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-expenditure-allocated-to-agric-related-agencies-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T09:11:51.000Z",
-      "summary": "The Peasant Farmers Association of Ghana (PFAG) says the 2027 Budget has shortchanged the agriculture sector, allocating only 3.64% of total government expenditure to agric-related agencies…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "2027 Budget",
-        "PFAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PFAG criticizes 2027 Budget, says only 3.64% government expenditure allocated to agric-related agencies, programmes",
-      "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-government-expenditure-allocated-to-agric-related-agencies-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T09:11:51.000Z",
-      "summary": "The Peasant Farmers Association of Ghana (PFAG) says the 2027 Budget has shortchanged the agriculture sector, allocating only 3.64% of total government expenditure to agric-related agencies…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "2027 Budget",
-        "PFAG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prisons and Corrections Month celebration: Prisons Service appeals for support",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prisons-and-corrections-month-celebration-prisons-service-appeals-for-support.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T09:07:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
-      "link": "https://www.myjoyonline.com/bog-governor-meets-families-of-national-heroes-over-new-cedi-portraits-circulation-date-remains-dec-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T09:05:09.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has met representatives of the families of distinguished Ghanaians whose portraits feature on the newly introduced Ghana…",
-      "categories": [
-        "Banking and Finance",
-        "HP Business 7",
-        "HP News 2",
-        "National",
-        "News",
-        "Bank of Ghana",
-        "Governor",
-        "national heroes",
-        "new Cedi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We’ll end raw mineral exports by 2028 - Lands Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-well-end-raw-mineral-exports-by-2028-lands-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T09:04:06.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -167,157 +316,6 @@ window.GDC_PAPERS = {
         "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Present moment living",
-      "link": "https://ghanaiantimes.com.gh/present-moment-living-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:49:24.000Z",
-      "summary": "SENECA once said that: “Our life is about a string of moments in time. So often we stand in our unhappiness trying to improve a future moment. The problem is that this moment is where we…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Scorching sun puts market women, kayayei at risk — Public health specialist",
-      "link": "https://ghanaiantimes.com.gh/scorching-sun-puts-market-women-kayayei-at-risk-public-health-specialist/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:48:06.000Z",
-      "summary": "MARKET women and other workers who endure long hours under the scorching sun risk exposure to excessive heat that could lead to heatstroke, seizures and even death, warns a public health…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Afua Asantewaa takes Singathon dream to Canada for third world record attempt",
-      "link": "https://www.myjoyonline.com/afua-asantewaa-takes-singathon-dream-to-canada-for-third-world-record-attempt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T08:47:41.000Z",
-      "summary": "Ghanaian singing marathoner Afua Asantewaa Owusu Aduonum refuses to give up on her world-record dream, announcing a third attempt at the Guinness World Records title for the longest…",
-      "categories": [
-        "Diaspora",
-        "Music",
-        "Afua Asantewaa",
-        "Guinness World Record (GWR)",
-        "singathon"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Protect women, girls beyond legislation — Minister",
-      "link": "https://ghanaiantimes.com.gh/protect-women-girls-beyond-legislation-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:45:48.000Z",
-      "summary": "THE Minister of Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger enforcement of laws protecting women and girls. She said, “Legislation must…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kadjebi District Assembly, Zoomlion partner to improve sanitation",
-      "link": "https://ghanaiantimes.com.gh/kadjebi-district-assembly-zoomlion-partner-to-improve-sanitation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:44:03.000Z",
-      "summary": "THE Kadjebi District Assembly is intensifying efforts at improving sanitation in partnership with Zoomlion Ghana Limited under the Sanitation Improvement Package Contract (SIP). The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Enforce price floor across all oil and LPG marketing companies – COMAC charges NPA",
-      "link": "https://www.myjoyonline.com/enforce-price-floor-across-all-oil-and-lpg-marketing-companies-comac-charges-npa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T08:42:47.000Z",
-      "summary": "The Chamber of Oil Marketing Companies (COMAC) is demanding strict enforcement of the petroleum price floor across all Oil and LPG Marketing Companies, without exception.",
-      "categories": [
-        "Energy",
-        "National",
-        "Chamber of Oil Marketing Companies (COMAC)",
-        "National Petroleum Authority (NPA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "YFM rewards UniMAC’s top broadcast journalism graduate",
-      "link": "https://ghanaiantimes.com.gh/yfm-rewards-unimacs-top-broadcast-journalism-graduate/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:40:17.000Z",
-      "summary": "A graduating broadcast journalism student of the University of Media, Arts and Communication (UniMAC), Muhammad Ikleel Safiyya, has received a cash prize and a Samsung Galaxy Tab 11 from…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "St. Theresa of the Child Jesus Society inaugurated at Nii Boiman",
-      "link": "https://ghanaiantimes.com.gh/st-theresa-of-the-child-jesus-society-inaugurated-at-nii-boiman/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:37:49.000Z",
-      "summary": "THE St. Theresa of the Child Jesus Society of the St. Joseph the Worker Catholic Church at Nii Boiman in Accra has been inaugurated, with a call on members to uphold the values of love…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Thursday, November 26, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-26-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T08:26:45.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Young people’s voices essential in ending AIDS by 2030 - AIDS Commission",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-young-peoples-voices-essential-in-ending-aids-by-2030-aids-commission.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T08:17:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Central University graduates 2,038 students",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-central-university-graduates-2-038-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T08:13:45.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ensure AI-supported content aligns with approved curriculum - Dep. Education Minister to teachers",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-ensure-ai-supported-content-aligns-with-approved-curriculum-dep-education-minister-to-teachers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T08:09:46.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama tasks IGP to prevent police fatalities",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-tasks-igp-to-prevent-police-fatalities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T08:04:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };

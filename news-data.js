@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T10:03:02.237Z",
+  "updated": "2026-11-26T14:43:31.349Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,104 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Peasant Farmers Association urges Finance Ministry to increase funding for agricultural programmes",
+      "link": "https://www.myjoyonline.com/peasant-farmers-association-urges-finance-ministry-to-increase-funding-for-agricultural-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:22:43.000Z",
+      "summary": "The National President of the Peasant Farmers Association of Ghana, Douglas Annoh, has urged the Ministry of Finance to release adequate funding for key agricultural interventions to ensure…"
+    },
+    {
+      "title": "GoldBod Targets European Capital to Build Ghana’s Gold Refining and Jewellery Industry",
+      "link": "https://thehighstreetjournal.com/goldbod-targets-european-capital-to-build-ghanas-gold-refining-and-jewellery-industry/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T14:00:00.000Z",
+      "summary": "Ghana is seeking European investment in gold refining, jewellery manufacturing and responsible mining as it pushes to retain more value from its mineral resources and build domestic…"
+    },
+    {
+      "title": "Cashew farmers appeal to government to suspend export ban over concerns about market capacity",
+      "link": "https://www.myjoyonline.com/cashew-farmers-appeal-to-government-to-suspend-export-ban-over-concerns-about-market-capacity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T13:47:45.000Z",
+      "summary": "The Ghana Cooperative Cashew Farmers and Marketing Association (GCCFMA) has appealed to the government for the temporary suspension of the Raw Cashew Nut (RCN) export window ban, citing…"
+    },
+    {
+      "title": "BoG Targets GH¢4.99trn MoMo Transaction Data to Unlock Credit for Informal Businesses",
+      "link": "https://thehighstreetjournal.com/bog-targets-gh%c2%a24-99trn-momo-transaction-data-to-unlock-credit-for-informal-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T13:30:00.000Z",
+      "summary": "BoG wants lenders to use GH¢4.99 trillion in mobile money transaction data to assess informal businesses, expand affordable credit, improve financial inclusion and strengthen MSME financing."
+    },
+    {
+      "title": "3rd Ecobank-Joy Business Dialogue comes off Friday with a focus on empowering women-led businesses",
+      "link": "https://www.myjoyonline.com/3rd-ecobank-joy-business-dialogue-comes-off-friday-with-a-focus-on-empowering-women-led-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T12:44:06.000Z",
+      "summary": "The role of finance, business development support and access to markets in unlocking the growth potential of women-led businesses will take centre stage tomorrow, Friday, November 27, when…"
+    },
+    {
+      "title": "Government to scrap import duties, VAT on solar panels and batteries — Ato Forson",
+      "link": "https://www.myjoyonline.com/government-to-scrap-import-duties-vat-on-solar-panels-and-batteries-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T12:18:34.000Z",
+      "summary": "In a video message encouraging Ghanaians to embrace solar power, the minister said the planned tax relief would reduce the cost of going solar and help consumers spend less on electricity."
+    },
+    {
+      "title": "GABS 2026: DHL connects Ghanaian and German businesses, explores AI-driven service delivery",
+      "link": "https://www.myjoyonline.com/gabs-2026-dhl-connects-ghanaian-and-german-businesses-explores-ai-driven-service-delivery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T12:06:02.000Z",
+      "summary": "DHL says it used the three-day 6th German-African Business Summit (GABS) in Accra to connect German companies with Ghanaian businesses and strengthen trade relations between the two…"
+    },
+    {
+      "title": "Bond Buyback Initiative Likely to Enhance Ghana’s International Credibility & Confidence – Dr. Atuahene",
+      "link": "https://thehighstreetjournal.com/bond-buyback-initiative-likely-to-enhance-ghanas-international-credibility-confidence-dr-atuahene/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T12:05:00.000Z",
+      "summary": "Dr. Richmond Atuahene says Ghana’s voluntary bond buyback could reduce debt-servicing pressures while rebuilding domestic and international investor confidence, strengthening sovereign…"
+    },
+    {
+      "title": "African Marketers Turn the Smoke That Thunders into Brand Power",
+      "link": "https://thehighstreetjournal.com/african-marketers-turn-the-smoke-that-thunders-into-brand-power/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T11:39:19.000Z",
+      "summary": "African marketers have adopted the Livingstone Declaration, committing 24 countries to stronger continental cooperation, ethical AI-driven marketing, professional standards and leveraging…"
+    },
+    {
+      "title": "80 Women to Be Trained as Heavy-Duty Truck Drivers in Mining Jobs Push With 200 Trained in Digital Skills",
+      "link": "https://thehighstreetjournal.com/mining-value-chain-80-women-tobe-trained/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T11:36:19.000Z",
+      "summary": "Ghana is seeking to increase women’s participation in its mining and transport industries through a new training initiative that will certify 80 women as heavy-duty truck drivers and equip…"
+    },
+    {
+      "title": "Mahama reassigns GNPC CEO Kwame Ntow Amoah to Energy Ministry",
+      "link": "https://www.myjoyonline.com/mahama-reassigns-gnpc-ceo-kwame-ntow-amoah-to-energy-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T11:32:39.000Z",
+      "summary": "President John Dramani Mahama has reassigned Kwame Ntow Amoah, Chief Executive Officer of the Ghana National Petroleum Corporation (GNPC), to the Ministry of Energy with immediate effect."
+    },
+    {
+      "title": "World Bank Targets US$245M Private Investment Under New Ghana Compact",
+      "link": "https://thehighstreetjournal.com/world-bank-targets-us245m-private-investment-under-new-ghana-compact/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T11:21:22.000Z",
+      "summary": "The World Bank targets US$245 million in private investment under a new Ghana programme aimed at reducing business costs, expanding trade and creating jobs."
+    },
+    {
+      "title": "COMAC Calls on NPA to Crack Down on OMCs Violating Fuel Pricing Rules",
+      "link": "https://thehighstreetjournal.com/comac-calls-on-npa-to-crack-down-on-omcs-violating-fuel-pricing-rules/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T11:16:32.000Z",
+      "summary": "COMAC wants the NPA to sanction OMCs selling below approved minimum prices, warning that non-compliance undermines fair competition and industry sustainability."
+    },
+    {
+      "title": "New African Creative Federation Formed to Strengthen Africa’s Creative Industries",
+      "link": "https://thehighstreetjournal.com/new-african-creative-federation-formed-to-strengthen-africas-creative-industries/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T11:12:44.000Z",
+      "summary": "FACE is mobilising African creative industries to overcome informality, skills gaps and financing constraints through professionalisation, entrepreneurship training, research and stronger…"
+    },
     {
       "title": "How to Keep a House Cool in Ghana, Part 2",
       "link": "https://thehighstreetjournal.com/how-to-keep-a-house-cool-in-ghana-part-2/",
@@ -972,104 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T16:21:14.000Z",
       "summary": "Ghana could generate nearly US$68 million from the sale of forest carbon credits after securing international verification for its efforts to reduce deforestation and forest degradation…"
-    },
-    {
-      "title": "Nutrifoods Ghana wins HR Excellence in Manufacturing Award at 2026 HR Professionals Summit",
-      "link": "https://www.myjoyonline.com/nutrifoods-ghana-wins-hr-excellence-in-manufacturing-award-at-2026-hr-professionals-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T15:09:42.000Z",
-      "summary": "Nutrifoods Ghana Limited, a joint venture between Olam International and Sanyo Foods and a leading manufacturer of Snacks and Culinary products in Ghana’s fast-moving consumer goods (FMCG)…"
-    },
-    {
-      "title": "Petroleum workers threaten nationwide strike over proposed changes to BOST’s depot mandate",
-      "link": "https://www.myjoyonline.com/petroleum-workers-threaten-nationwide-strike-over-proposed-changes-to-bosts-depot-mandate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T14:25:13.000Z",
-      "summary": "Petroleum workers have threatened a nationwide strike if Parliament passes the National Petroleum Authority (NPA) Bill, 2026, in its current form. The General Transport, Petroleum and…"
-    },
-    {
-      "title": "E-Waste Management Struggles to Keep Pace With Ghana’s Digital Expansion",
-      "link": "https://thehighstreetjournal.com/e-waste-management-struggles-to-keep-pace-with-ghanas-digital-expansion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T14:19:21.000Z",
-      "summary": "As investment in digital infrastructure, artificial intelligence and telecommunications accelerates, the country faces growing pressure to strengthen the collection and safe disposal of…"
-    },
-    {
-      "title": "Elmina fisherfolk demand tougher fishing regulations, more inclusive closed season",
-      "link": "https://www.myjoyonline.com/elmina-fisherfolk-demand-tougher-fishing-regulations-more-inclusive-closed-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T13:53:42.000Z",
-      "summary": "Fishmongers and other fisheries stakeholders in Elmina are calling for stricter enforcement of fishing regulations to clamp down on the use of artificial lights and harmful chemicals in…"
-    },
-    {
-      "title": "UniMAC’s Graduate Surge Puts Ghana’s Creative Jobs Challenge in Focus",
-      "link": "https://thehighstreetjournal.com/unimacs-graduate-surge-puts-ghanas-creative-jobs-challenge-in-focus/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T13:30:00.000Z",
-      "summary": "The 57.6 per cent increase in graduates raises questions about how industry partnerships, investment and innovation can turn Ghana’s growing creative talent into jobs and economic…"
-    },
-    {
-      "title": "GISPA moves to strengthen industry collaboration and advocacy across Ghana’s digital sector",
-      "link": "https://www.myjoyonline.com/gispa-moves-to-strengthen-industry-collaboration-and-advocacy-across-ghanas-digital-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T12:35:22.000Z",
-      "summary": "The renewed direction was underscored at an industry networking reception in Accra, which brought together key players across the sector, including Mobile Network Operators (MNOs), Internet…"
-    },
-    {
-      "title": "CERPA Boss Calls for Policy Consistency to Deliver the 2027 Budget’s Production Agenda",
-      "link": "https://thehighstreetjournal.com/cerpa-boss-calls-for-policy-consistency-to-deliver-the-2027-budgets-production-agenda/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T12:04:45.000Z",
-      "summary": "Ebenezer Amankwah-Minkah commends Government’s fiscal discipline and urges a balanced financing mix that keeps credit flowing to the private sector"
-    },
-    {
-      "title": "Volta Lake Weeds Could Become New Source of Organic Fertiliser for Farmers",
-      "link": "https://thehighstreetjournal.com/volta-lake-weeds-could-become-new-source-of-organic-fertiliser-for-farmers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T12:01:00.000Z",
-      "summary": "Research into converting Volta Lake weeds into organic fertiliser could create agricultural value from costly vegetation removal while supporting local compost production and reducing…"
-    },
-    {
-      "title": "MTN donates computers to UMaT as student population grows",
-      "link": "https://www.myjoyonline.com/mtn-donates-computers-to-umat-as-student-population-grows/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:58:34.000Z",
-      "summary": "The University of Mines and Technology (UMaT), Tarkwa, is seeking to improve access to computer facilities after admitting more than 5,000 new students this academic year. Vice Chancellor…"
-    },
-    {
-      "title": "Government moves to ease port congestion, separates shipping line releases from cargo clearance",
-      "link": "https://www.myjoyonline.com/government-moves-to-ease-port-congestion-separates-shipping-line-releases-from-cargo-clearance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:52:14.000Z",
-      "summary": "The Head of the Revenue Assurance Department at the Ministry of Finance, Victor Kofi Baidoo, disclosed this at a meeting with members of the Ghana Institute of Freight Forwarders (GIFF) at…"
-    },
-    {
-      "title": "Ghana Hubs Network Develops 5 Year Strategy to Strengthen Start-up Support",
-      "link": "https://thehighstreetjournal.com/ghana-hubs-networks-5-year-strategy/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T11:45:00.000Z",
-      "summary": "The initiative is being implemented under the Private Sector and Innovation Promotion in Ghana (PSInno) programme, commissioned by Germany's Federal Ministry for Economic Cooperation and…"
-    },
-    {
-      "title": "JoyNews’ Pious Kojo Backah named Media Personality of the Year at the 6th Chamber Business Awards",
-      "link": "https://www.myjoyonline.com/joynews-pious-kojo-backah-named-media-personality-of-the-year-at-the-6th-chamber-business-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:36:59.000Z",
-      "summary": "JoyNews journalist Pious Kojo Backah has been named Media Personality of the Year at the 6th Chamber Business Awards organised by the Ghana National Chamber of Commerce and Industry…"
-    },
-    {
-      "title": "Nuclear power will drive industry, create jobs and secure Ghana’s future — Ato Forson",
-      "link": "https://www.myjoyonline.com/nuclear-power-will-drive-industry-create-jobs-and-secure-ghanas-future-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T11:32:45.000Z",
-      "summary": "In a video message on the government’s New Economy agenda, Dr. Forson outlined plans for a fully state-owned nuclear power plant, describing the initiative as a long-term investment in…"
-    },
-    {
-      "title": "Boankra Inland Port 85% complete — Prof Gyampo",
-      "link": "https://www.myjoyonline.com/boankra-inland-port-85-complete-prof-gyampo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T10:24:12.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Shippers’ Authority (GSA) Prof. Ransford Gyampo has announced that the Boankra Integrated Logistics Terminal (BILT), popularly known as the Boankra…"
     }
   ]
 };
