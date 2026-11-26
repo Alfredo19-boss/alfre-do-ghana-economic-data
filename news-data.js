@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T15:33:30.248Z",
+  "updated": "2026-11-26T15:53:30.665Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "African Youth Need Skills, Finance and Market Access to Become Drivers of Development – Matthias Naab",
+      "link": "https://thehighstreetjournal.com/african-youth-need-skills-finance-and-market-access-to-become-drivers-of-development-matthias-naab/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T15:49:16.000Z",
+      "summary": "Matthias Naab urges stronger investment in skills, finance and market access to empower African youth to drive economic transformation rather than remain development beneficiaries."
+    },
     {
       "title": "Tullow targets 10 new wells from 2027 after posting strong operational and financial performance",
       "link": "https://www.myjoyonline.com/tullow-targets-10-new-wells-from-2027-after-posting-strong-operational-and-financial-performance/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T18:22:18.000Z",
       "summary": "Newmont Ghana has committed US$15 million to Ghana's Tree for Life initiative, supporting environmental restoration beyond its mining areas while facing calls to deepen local contractor…"
-    },
-    {
-      "title": "Ghanaian Businesses Must Adopt AI With Safeguards to Drive Growth, Vice-President Says",
-      "link": "https://thehighstreetjournal.com/ghanaian-businesses-must-adopt-ai-with-safeguards-to-drive-growth-vice-president-says/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T18:17:25.000Z",
-      "summary": "Vice-President Jane Naana Opoku-Agyemang has urged Ghanaian businesses to adopt AI responsibly, calling for stronger government-industry collaboration on skills development, data…"
     }
   ]
 };

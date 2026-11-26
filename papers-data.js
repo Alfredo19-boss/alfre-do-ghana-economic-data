@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T15:34:00.916Z",
+  "updated": "2026-11-26T15:54:01.303Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-hands-over-new-fleet-of-aircraft-to-ghana-air-force/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T15:51:04.000Z",
+      "summary": "President and Commander-in-Chief John Dramani Mahama has officially handed over a new fleet of aircraft to the Ghana Air Force, marking a significant step in the government’s commitment to…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Plastic filth: Solutions not beyond our control",
+      "link": "https://www.myjoyonline.com/plastic-filth-solutions-not-beyond-our-control/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T15:49:25.000Z",
+      "summary": "There is no denying that the Metropolitan, Municipal and District Assemblies (MMDAs) struggle to keep a lid on environmental filth that has engulfed our otherwise beautiful cities and towns.",
+      "categories": [
+        "Opinion",
+        "Plastic filth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Young people account for 27.5% of new HIV infections in Ghana – AIDS Healthcare Foundation warns",
       "link": "https://www.myjoyonline.com/young-people-account-for-27-5-of-new-hiv-infections-in-ghana-aids-healthcare-foundation-warns/",
@@ -145,24 +168,6 @@ window.GDC_PAPERS = {
         "Rent Control",
         "SRC",
         "UG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Peasant Farmers Association urges Finance Ministry to increase funding for agricultural programmes",
-      "link": "https://www.myjoyonline.com/peasant-farmers-association-urges-finance-ministry-to-increase-funding-for-agricultural-programmes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:22:43.000Z",
-      "summary": "The National President of the Peasant Farmers Association of Ghana, Douglas Annoh, has urged the Ministry of Finance to release adequate funding for key agricultural interventions to ensure…",
-      "categories": [
-        "Agribusiness",
-        "HP News 7",
-        "National",
-        "News",
-        "FEED Ghana",
-        "Finance Ministry",
-        "NAFCO projects",
-        "PFAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -312,17 +317,6 @@ window.GDC_PAPERS = {
       "summary": "ESI Mansa (not her real name) woke up that Thursday morning to find tiny, itchy rashes on her arm. The previous evening, a power outage had left her and others struggling with the heat. She…",
       "categories": [
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
-      "link": "https://ghanaiantimes.com.gh/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:52:01.000Z",
-      "summary": "“AGRICULTURE is the most healthful, most useful and most noble employment of man.” — George Washington Historical Perspective Every nation develops a plan to guide its development. Ghana is…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
