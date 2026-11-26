@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T05:53:02.550Z",
+  "updated": "2026-11-26T06:03:02.298Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "PBC workers face 2027 wait for over 20 months’ salary arrears",
+      "link": "https://www.myjoyonline.com/pbc-workers-face-2027-wait-for-over-20-months-salary-arrears/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T06:00:17.000Z",
+      "summary": "Workers of the Produce Buying Company (PBC) Limited may have to endure several more months without their outstanding salaries, with management targeting 2027 to begin paying the arrears in…"
+    },
+    {
+      "title": "MoMo customers face new monthly transaction caps under BoG rules",
+      "link": "https://www.myjoyonline.com/momo-customers-face-new-monthly-transaction-caps-under-bog-rules/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:53:21.000Z",
+      "summary": "Mobile money customers who move large sums through their wallets will now have to operate within monthly transaction ceilings following a revision of limits by the Bank of Ghana (BoG)."
+    },
     {
       "title": "Petrol could drop to GH¢13 in December as fuel prices set for major decline – Energy expert",
       "link": "https://www.myjoyonline.com/petrol-could-drop-to-gh%c2%a213-in-december-as-fuel-prices-set-for-major-decline-energy-expert/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T06:16:00.000Z",
       "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…"
-    },
-    {
-      "title": "Parliament’s Select Committee on Agriculture and Cocoa Affairs holds engagement on sustainable fisheries",
-      "link": "https://www.myjoyonline.com/parliaments-select-committee-on-agriculture-and-cocoa-affairs-holds-engagement-on-sustainable-fisheries/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T06:02:00.000Z",
-      "summary": "Member of Parliament for Dome-Kwabenya, Elikplim Akurugu, participated in a four-day information-sharing engagement aimed at strengthening transparency, accountability and sustainability in…"
-    },
-    {
-      "title": "Shippers’ Authority targets shipping charges, tougher enforcement in 2027",
-      "link": "https://www.myjoyonline.com/shippers-authority-targets-shipping-charges-tougher-enforcement-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T05:57:35.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) is prioritising tighter oversight of shipping charges, stronger enforcement, and faster complaint resolution in 2027 as it works to deliver on its…"
     }
   ]
 };

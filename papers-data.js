@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:53:33.024Z",
+  "updated": "2026-11-26T06:03:32.702Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,36 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "MoMo customers face new monthly transaction caps under BoG rules",
+      "link": "https://www.myjoyonline.com/momo-customers-face-new-monthly-transaction-caps-under-bog-rules/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:53:21.000Z",
+      "summary": "Mobile money customers who move large sums through their wallets will now have to operate within monthly transaction ceilings following a revision of limits by the Bank of Ghana (BoG).",
+      "categories": [
+        "Business",
+        "HP News 5",
+        "News",
+        "Cedi",
+        "MoMo",
+        "wallet"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "link": "https://www.myjoyonline.com/us-approves-spacex-plan-to-send-a-million-data-satellites-to-space/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:48:00.000Z",
+      "summary": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.",
+      "categories": [
+        "International",
+        "data satellite",
+        "Musk",
+        "SpaceX"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "UBIDS launches ‘2026 16 Days of Activism’ amid warnings over campus harassment",
       "link": "https://www.myjoyonline.com/ubids-launches-2026-16-days-of-activism-amid-warnings-over-campus-harassment/",
       "source": "MyJoyOnline",
@@ -32,6 +62,36 @@ window.GDC_PAPERS = {
         "Activism",
         "Gender",
         "Violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ada youth give gov’t one-month ultimatum over poor roads, sea erosion",
+      "link": "https://www.myjoyonline.com/ada-youth-give-govt-one-month-ultimatum-over-poor-roads-sea-erosion/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:32:00.000Z",
+      "summary": "Youth in the Ada Traditional Area have given the government one month to begin construction of the Kasseh-Ada Foah Road and take urgent measures to tackle sea erosion, warning they will…",
+      "categories": [
+        "Regional",
+        "Ada youth",
+        "Poor roads",
+        "sea erosion"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petrol could drop to GH¢13 in December as fuel prices set for major decline – Energy expert",
+      "link": "https://www.myjoyonline.com/petrol-could-drop-to-gh%c2%a213-in-december-as-fuel-prices-set-for-major-decline-energy-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:21:00.000Z",
+      "summary": "Energy expert Benjamin Nsiah projects that petroleum product prices could record one of their biggest declines in recent times, offering consumers some relief ahead of the Christmas…",
+      "categories": [
+        "Energy",
+        "HP Business 1",
+        "HP News 4",
+        "National",
+        "Benjamin Nsiah",
+        "Fuel Prices"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -79,61 +139,6 @@ window.GDC_PAPERS = {
         "Meth",
         "Mexican",
         "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Third term agenda for Mahama a recipe for chaos because we will resist – NPP’s Abanga Fusani",
-      "link": "https://www.myjoyonline.com/third-term-agenda-for-mahama-a-recipe-for-chaos-because-we-will-resist-npps-abanga-fusani/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:56:24.000Z",
-      "summary": "The National Youth Organiser of the New Patriotic Party (NPP), Abanga Yakubu Fusani, has issued a strong warning against calls for what he says will be an unconstitutional third term for…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Politics",
-        "Abanga Fusani",
-        "John Mahama",
-        "Third term"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Currency printing costs already covered by approved 2026 budget – Attah Issah",
-      "link": "https://www.myjoyonline.com/currency-printing-costs-already-covered-by-approved-2026-budget-attah-issah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:50:00.000Z",
-      "summary": "A member of Parliament’s Finance Committee, Attah Issah, says the cost of printing Ghana’s new currency notes is already in the Bank of Ghana’s approved 2026 budget.",
-      "categories": [
-        "HP News 2",
-        "Politics",
-        "Attah Issah",
-        "Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I never insulted Pete Edochie – Bob Manuel",
-      "link": "https://www.myjoyonline.com/i-never-insulted-pete-edochie-bob-manuel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:49:00.000Z",
-      "summary": "Actor Bob Manuel Udokwu clarified that his claim to be older in Nollywood than the late veteran actor Pete Edochie wasn't meant to diminish the deceased, but to set the record straight.",
-      "categories": [
-        "Movies",
-        "Bob Manuel",
-        "Nollywood",
-        "Pete Edochie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Heritage series: BoG must explain selection of personalities on new cedi notes – Walewale MP",
-      "link": "https://www.myjoyonline.com/heritage-series-bog-must-explain-selection-of-personalities-on-new-cedi-notes-walewale-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:33:42.000Z",
-      "summary": "The Minority in Parliament is demanding full disclosure of the cost and decision-making process behind the Bank of Ghana’s (BoG) newly introduced heritage series banknotes, insisting that…",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
