@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:53:33.156Z",
+  "updated": "2026-11-26T08:03:32.427Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Customs brokers urged to help close GH¢14.35bn revenue gap",
+      "link": "https://ghanaiantimes.com.gh/customs-brokers-urged-to-help-close-gh%c2%a214-35bn-revenue-gap/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:54:24.000Z",
+      "summary": "Ghana’s customs brokers have been urged to play a more decisive role in safeguarding national revenue and facilitating trade as the Customs Division of the Ghana Revenue Authority (GRA)…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "British Council warns schools against emerging digital threats",
       "link": "https://ghanaiantimes.com.gh/british-council-warns-schools-against-emerging-digital-threats/",
@@ -159,17 +171,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Colombia rescues hostages held at supermarket",
-      "link": "https://ghanaiantimes.com.gh/colombia-rescues-hostages-held-at-supermarket/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:56:57.000Z",
-      "summary": "Security forces have rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena, President Abelardo de la Espriella said early…",
-      "categories": [
-        "Africa"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
