@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T05:03:01.804Z",
+  "updated": "2026-11-26T05:13:02.279Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Road to Reforms: Key Recommendations from Agribusiness Chamber to Enhance Ghana’s 2027 Agric Budget",
+      "link": "https://thehighstreetjournal.com/road-to-reform-key-recommendations-from-agribusiness-chamber-to-enhance-ghanas-2027-agric-budget/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:05:00.000Z",
+      "summary": "The Chamber of Agribusiness Ghana outlined 13 strategic recommendations to fix the 2027 budget, calling for a consolidated agricultural programme, disaggregated funding, de-risking…"
+    },
+    {
+      "title": "Ghanaian Exporters To Gain Access To International Financing As GHIB, EXIM Bank Deepen Partnership",
+      "link": "https://thehighstreetjournal.com/ghanaian-exporters-to-gain-access-to-international-financing-as-ghib-exim-bank-deepen-partnership/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T05:03:00.000Z",
+      "summary": "GHIB and Ghana EXIM Bank are developing a joint financing framework to help Ghanaian exporters access international capital, expand production, enter new markets and increase export…"
+    },
     {
       "title": "How World Bank’s Food System Resilience Program is Transforming Farming Across West Africa",
       "link": "https://thehighstreetjournal.com/how-world-banks-food-system-resilience-program-is-transforming-farming-across-west-africa/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T05:03:00.000Z",
       "summary": "Gold rebounded on Sunday evening, with COMEX December futures up 2.83% to $3,614.90 after last week's steep fall. US inflation data could decide whether the gains last, with Ghana's…"
-    },
-    {
-      "title": "Gold Price Should Be Giving Managers of the Economy a Headache",
-      "link": "https://thehighstreetjournal.com/gold-price-should-be-giving-managers-of-the-economy-a-headache/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:02:00.000Z",
-      "summary": "Gold’s sharpest weekly decline in months raises fresh concerns over Ghana’s export earnings, foreign exchange buffers and cedi stability."
-    },
-    {
-      "title": "PK Amoabeng Foundation Donates Books to Schools in Bid to Promote Reading & Entrepreneurship",
-      "link": "https://thehighstreetjournal.com/pk-amoabeng-foundation-donates-to-schools/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:01:00.000Z",
-      "summary": "The PK Amoabeng Foundation has donated books and educational materials to two senior high schools and a public library in Frafraha as part of efforts to promote literacy and encourage young…"
     }
   ]
 };

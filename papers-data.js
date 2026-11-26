@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:03:32.127Z",
+  "updated": "2026-11-26T05:13:32.990Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -43,6 +43,22 @@ window.GDC_PAPERS = {
       "summary": "The Minority in Parliament is demanding full disclosure of the cost and decision-making process behind the Bank of Ghana’s (BoG) newly introduced heritage series banknotes, insisting that…",
       "categories": [
         "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bollywood union asks Modi to bar Netflix’s Pakistani series in India",
+      "link": "https://www.myjoyonline.com/bollywood-union-asks-modi-to-bar-netflixs-pakistani-series-in-india/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T03:59:00.000Z",
+      "summary": "A prominent Bollywood workers' union has asked Prime Minister Narendra Modi's government to ban a forthcoming Pakistani series on Netflix in India and to enact a law prohibiting content…",
+      "categories": [
+        "International",
+        "Movies",
+        "Bollywood",
+        "India",
+        "Netflix",
+        "Pakistani series"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -113,20 +129,6 @@ window.GDC_PAPERS = {
         "International",
         "BBC",
         "Donald Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama donates GH¢600,000 towards funeral of Agogomanhene",
-      "link": "https://www.myjoyonline.com/mahama-donates-gh%c2%a2600000-towards-funeral-of-agogomanhene/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:44:26.000Z",
-      "summary": "President John Dramani Mahama has contributed GH¢600,000 towards the funeral of the late Agogomanhene, Nana Kwame Akuoko Sarpong, in recognition of the traditional ruler's long service to…",
-      "categories": [
-        "News",
-        "Agogomanhene",
-        "Funeral",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
