@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T14:44:01.802Z",
+  "updated": "2026-11-26T14:54:01.212Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -68,6 +68,7 @@ window.GDC_PAPERS = {
       "summary": "The National President of the Peasant Farmers Association of Ghana, Douglas Annoh, has urged the Ministry of Finance to release adequate funding for key agricultural interventions to ensure…",
       "categories": [
         "Agribusiness",
+        "HP News 7",
         "National",
         "News",
         "FEED Ghana",
@@ -150,6 +151,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T13:51:00.000Z",
       "summary": "Calm has returned to Gomoa Nyanyano in the Gomoa East District of the Central Region following sporadic gunshots that rocked the community on Wednesday night.",
       "categories": [
+        "HP News 5",
         "News",
         "Regional",
         "Chieftaincy dispute",
