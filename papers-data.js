@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:23:32.245Z",
+  "updated": "2026-11-26T09:33:32.745Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "ECG attributes Accra power outages to transformer upgrades and emergency faults",
+      "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-and-emergency-faults/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:17:26.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has blamed recent power outages in parts of Accra on transformer upgrades, replacement works and emergency faults on its distribution network.",
+      "categories": [
+        "National",
+        "Accra",
+        "ECG",
+        "Power outages",
+        "transformer upgrade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "ECG attributes Accra power outages to transformer upgrades, emergency faults",
       "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-emergency-faults/",
       "source": "MyJoyOnline",
@@ -32,6 +47,22 @@ window.GDC_PAPERS = {
         "ECG",
         "Power outages",
         "transformer upgrade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PFAG criticizes 2027 Budget, says only 3.64% expenditure allocated to agric-related agencies, programmes",
+      "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-expenditure-allocated-to-agric-related-agencies-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:11:51.000Z",
+      "summary": "The Peasant Farmers Association of Ghana (PFAG) says the 2027 Budget has shortchanged the agriculture sector, allocating only 3.64% of total government expenditure to agric-related agencies…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "2027 Budget",
+        "PFAG"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -59,6 +90,7 @@ window.GDC_PAPERS = {
       "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has met representatives of the families of distinguished Ghanaians whose portraits feature on the newly introduced Ghana…",
       "categories": [
         "Banking and Finance",
+        "HP Business 7",
         "HP News 2",
         "National",
         "News",
@@ -199,19 +231,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Today’s front pages: Thursday, November 26, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-25-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T08:26:45.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-faces-ghc670m-budget-cut-bagbin-warns-of-impact-on-operations-staff-welfare.html",
       "source": "Daily Graphic",
@@ -221,22 +240,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Retaining critical talent and institutional knowledge",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-retaining-critical-talent-and-institutional-knowledge/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T07:29:48.000Z",
-      "summary": "An organisation’s most valuable knowledge is often held by the people who understand its customers, systems, processes, relationships and operating environment. When experienced employees…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Critical talent",
-        "Daily Insights",
-        "Ernest De-Graft Egyir",
-        "Institutional knowledge"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Apply now: GES opens portal for teacher recruitment until December 2",
