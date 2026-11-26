@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T09:03:02.252Z",
+  "updated": "2026-11-26T09:13:02.809Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
+      "link": "https://www.myjoyonline.com/bog-governor-meets-families-of-national-heroes-over-new-cedi-portraits-circulation-date-remains-dec-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:05:09.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has met representatives of the families of distinguished Ghanaians whose portraits feature on the newly introduced Ghana…"
+    },
     {
       "title": "Enforce price floor across all oil and LPG marketing companies – COMAC charges NPA",
       "link": "https://www.myjoyonline.com/enforce-price-floor-across-all-oil-and-lpg-marketing-companies-comac-charges-npa/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T09:45:36.000Z",
       "summary": "The Ghana Shippers’ Authority (GSA) has capped the Container Administrative Charge (CAC) at GH¢720 per Twenty-Foot Container, after studies showed Ghanaian shippers were paying three times…"
-    },
-    {
-      "title": "Ghana Could Be Making Significant Debt-Service Savings in the GH¢28.58bn Bond Buyback",
-      "link": "https://thehighstreetjournal.com/ghana-could-be-making-significant-debt-service-savings-in-the-gh%c2%a228-58bn-bond-buyback/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T09:30:00.000Z",
-      "summary": "Ghana could reduce future debt-service obligations through a voluntary GH¢28.58 billion bond buyback, purchasing bonds at a discount. Actual savings will depend on investor participation…"
     }
   ]
 };

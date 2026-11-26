@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:03:32.595Z",
+  "updated": "2026-11-26T09:13:32.478Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
+      "link": "https://www.myjoyonline.com/bog-governor-meets-families-of-national-heroes-over-new-cedi-portraits-circulation-date-remains-dec-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:05:09.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has met representatives of the families of distinguished Ghanaians whose portraits feature on the newly introduced Ghana…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "News",
+        "Bank of Ghana",
+        "Governor",
+        "national heroes",
+        "new Cedi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Dwiibaadwiibaa’ (Scabies): The itchy condition you should not ignore",
       "link": "https://ghanaiantimes.com.gh/dwiibaadwiibaa-scabies-the-itchy-condition-you-should-not-ignore/",
@@ -218,23 +235,6 @@ window.GDC_PAPERS = {
         "Bawumia",
         "election 2028",
         "NPP Germany"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Do not ban — expand your facilities (Wisdom From The Akwapim Mountains — Episode 12 revisited)",
-      "link": "https://www.myjoyonline.com/do-not-ban-expand-your-facilities-wisdom-from-the-akwapim-mountains-episode-12-revisited/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T06:43:00.000Z",
-      "summary": "In the early days, admission to Class One was not by intelligence, but by a physical test. A child stretched his hand over his head to touch the opposite ear. If the hand could not reach…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "BECE",
-        "Common Entrance",
-        "Haruna Iddrisu",
-        "Sammy Anim Ayeko"
       ],
       "site": "https://www.myjoyonline.com/"
     },
