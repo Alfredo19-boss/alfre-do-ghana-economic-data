@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T03:36:57.018Z",
+  "updated": "2026-11-26T03:46:56.964Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T03:01:53.000Z",
       "summary": "The Bank of Ghana (BoG) has been criticised for failing to adequately engage Parliament in the process leading to the introduction of the new heritage series cedi banknotes.",
       "categories": [
+        "HP News 9",
         "National",
         "News",
         "Bank of Ghana",
@@ -132,6 +133,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T01:03:50.000Z",
       "summary": "A Member of Parliament (MP) for Walewale, Dr Tiah Abdul Kabiru Mahama, has raised concerns about the level of parliamentary consultation surrounding the Bank of Ghana’s (BoG) redesigned…",
       "categories": [
+        "HP News 8",
         "National",
         "News",
         "BoG",
