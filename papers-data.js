@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:03:32.702Z",
+  "updated": "2026-11-26T06:13:33.265Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,35 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Amin Adam questions Ato Forson over and transparency of bond buyback offer",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-and-transparency-of-bond-buyback-offer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T06:03:19.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson is facing questions over the government's voluntary Domestic Debt Exchange Programme (DDEP) bond buyback, with his predecessor, Dr Mohammed Amin Adam…",
+      "categories": [
+        "National",
+        "Politics",
+        "Amin Adam",
+        "Ato Forson",
+        "Bondbuyback",
+        "DDEP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PBC workers face 2027 wait for over 20 months’ salary arrears",
+      "link": "https://www.myjoyonline.com/pbc-workers-face-2027-wait-for-over-20-months-salary-arrears/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T06:00:17.000Z",
+      "summary": "Workers of the Produce Buying Company (PBC) Limited may have to endure several more months without their outstanding salaries, with management targeting 2027 to begin paying the arrears in…",
+      "categories": [
+        "Business",
+        "Cocoa",
+        "PBC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "MoMo customers face new monthly transaction caps under BoG rules",
       "link": "https://www.myjoyonline.com/momo-customers-face-new-monthly-transaction-caps-under-bog-rules/",
       "source": "MyJoyOnline",
@@ -37,16 +66,28 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "link": "https://www.myjoyonline.com/us-approves-spacex-plan-to-send-a-million-data-satellites-to-space/",
+      "title": "KAIPTC marks 2026 16 Days of Activism against gender-based violence",
+      "link": "https://www.myjoyonline.com/kaiptc-marks-2026-16-days-of-activism-against-gender-based-violence/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T05:48:00.000Z",
-      "summary": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.",
+      "published": "2026-11-26T05:52:00.000Z",
+      "summary": "The Kofi Annan International Peacekeeping Training Centre (KAIPTC) has marked the 2026 commemoration of the 16 Days of Activism Against Gender-Based Violence with a call for stronger action…",
       "categories": [
-        "International",
-        "data satellite",
-        "Musk",
-        "SpaceX"
+        "National",
+        "Gender-Based Violence",
+        "KAIPTC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Suspected militants kill at least 30 in Nigeria’s Niger state, residents say",
+      "link": "https://www.myjoyonline.com/suspected-militants-kill-at-least-30-in-nigerias-niger-state-residents-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:40:00.000Z",
+      "summary": "Suspected militants killed at least 30 people and burned homes ​in villages in Nigeria's Niger state, ‌residents said on Wednesday, describing the assault as retaliation for the killing of…",
+      "categories": [
+        "Africa",
+        "Niger State",
+        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -92,53 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "Benjamin Nsiah",
         "Fuel Prices"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget borrowing will push up rates and starve businesses – Prof Isaac Boadi warns",
-      "link": "https://www.myjoyonline.com/2027-budget-borrowing-will-push-up-rates-and-starve-businesses-prof-isaac-boadi-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:18:45.000Z",
-      "summary": "The 2027 budget will make government the biggest obstacle to cheaper credit for Ghanaian businesses, the President of Africa Policy Lens (APL), Prof. Isaac Boadi, has warned. In a critique…",
-      "categories": [
-        "Banking and Finance",
-        "Economy",
-        "Politics",
-        "Africa Policy Lens",
-        "APL",
-        "Borrowing",
-        "Prof Isaac Boadi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Currency controversy: Attah Issah insists BoG Governor is not dodging parliamentary scrutiny",
-      "link": "https://www.myjoyonline.com/currency-controversy-attah-issah-insists-bog-governor-is-not-dodging-parliamentary-scrutiny/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:10:00.000Z",
-      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has defended Bank of Ghana (BoG) Governor Dr Johnson Asiama against concerns that Parliament is not scrutinising the controversial…",
-      "categories": [
-        "Politics",
-        "Bank of Ghana (BoG)",
-        "Dr Johnson Asiama",
-        "Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
-      "link": "https://www.myjoyonline.com/five-mexicans-arrested-in-nigeria-over-227m-meth-lab/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:01:43.000Z",
-      "summary": "Five Mexican nationals and a Nigerian businessman have been arrested in Nigeria after authorities uncovered an industrial-scale methamphetamine laboratory, the country's drug enforcement…",
-      "categories": [
-        "Africa",
-        "International",
-        "Arrest",
-        "Meth",
-        "Mexican",
-        "Nigeria"
       ],
       "site": "https://www.myjoyonline.com/"
     },
