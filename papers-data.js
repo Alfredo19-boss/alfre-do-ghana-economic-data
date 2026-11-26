@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:13:32.478Z",
+  "updated": "2026-11-26T09:23:32.245Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,37 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "ECG attributes Accra power outages to transformer upgrades, emergency faults",
+      "link": "https://www.myjoyonline.com/ecg-attributes-accra-power-outages-to-transformer-upgrades-emergency-faults/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:17:26.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has blamed recent power outages in parts of Accra on transformer upgrades, replacement works and emergency faults on its distribution network.",
+      "categories": [
+        "National",
+        "Accra",
+        "ECG",
+        "Power outages",
+        "transformer upgrade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PFAG criticizes 2027 Budget, says only 3.64% government expenditure allocated to agric-related agencies, programmes",
+      "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-government-expenditure-allocated-to-agric-related-agencies-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:11:51.000Z",
+      "summary": "The Peasant Farmers Association of Ghana (PFAG) says the 2027 Budget has shortchanged the agriculture sector, allocating only 3.64% of total government expenditure to agric-related agencies…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "2027 Budget",
+        "PFAG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
       "link": "https://www.myjoyonline.com/bog-governor-meets-families-of-national-heroes-over-new-cedi-portraits-circulation-date-remains-dec-1/",
       "source": "MyJoyOnline",
@@ -28,6 +59,7 @@ window.GDC_PAPERS = {
       "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has met representatives of the families of distinguished Ghanaians whose portraits feature on the newly introduced Ghana…",
       "categories": [
         "Banking and Finance",
+        "HP News 2",
         "National",
         "News",
         "Bank of Ghana",
@@ -161,7 +193,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T08:26:45.000Z",
       "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
       "categories": [
-        "HP News 2",
         "National",
         "Newspaper Front pages"
       ],
@@ -204,37 +235,6 @@ window.GDC_PAPERS = {
         "Daily Insights",
         "Ernest De-Graft Egyir",
         "Institutional knowledge"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prudential Bank urges Ghanaian SMEs to improve readiness for Chinese market",
-      "link": "https://www.myjoyonline.com/prudential-bank-urges-ghanaian-smes-to-improve-readiness-for-chinese-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T07:20:37.000Z",
-      "summary": "Prudential Bank Limited has urged Ghanaian businesses seeking to enter the Chinese market to strengthen their market research, business planning and trade relationships to improve their…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "China",
-        "Ebow Quayson",
-        "Ghanaian SMEs",
-        "Prudential Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP Germany mobilisation dinner focuses on unity and 2028 election strategy",
-      "link": "https://www.myjoyonline.com/npp-germany-mobilisation-dinner-focuses-on-unity-and-2028-election-strategy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T07:10:20.000Z",
-      "summary": "DÜSSELDORF, Germany – The New Patriotic Party (NPP) Germany Branch has brought together national party leaders, Members of Parliament and supporters for a mobilisation dinner to discuss the…",
-      "categories": [
-        "National",
-        "Politics",
-        "Bawumia",
-        "election 2028",
-        "NPP Germany"
       ],
       "site": "https://www.myjoyonline.com/"
     },

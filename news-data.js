@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T09:13:02.809Z",
+  "updated": "2026-11-26T09:23:01.927Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "PFAG criticizes 2027 Budget, says only 3.64% expenditure allocated to agric-related agencies, programmes",
+      "link": "https://www.myjoyonline.com/pfag-criticizes-2027-budget-says-only-3-64-expenditure-allocated-to-agric-related-agencies-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T09:11:51.000Z",
+      "summary": "The Peasant Farmers Association of Ghana (PFAG) says the 2027 Budget has shortchanged the agriculture sector, allocating only 3.64% of total government expenditure to agric-related agencies…"
+    },
     {
       "title": "BoG Governor meets families of national heroes over new cedi portraits; circulation date remains Dec. 1",
       "link": "https://www.myjoyonline.com/bog-governor-meets-families-of-national-heroes-over-new-cedi-portraits-circulation-date-remains-dec-1/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T10:15:29.000Z",
       "summary": "The Ghana Shippers’ Authority (GSA) has developed a digital Non-Tariff Barriers (NTB) Reporting and Resolution Platform in collaboration with the Ministry of Trade, Agribusiness and…"
-    },
-    {
-      "title": "GSA caps container charge at GH¢ GH¢720",
-      "link": "https://www.myjoyonline.com/gsa-caps-container-charge-at-gh%c2%a2-gh%c2%a2720/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T09:45:36.000Z",
-      "summary": "The Ghana Shippers’ Authority (GSA) has capped the Container Administrative Charge (CAC) at GH¢720 per Twenty-Foot Container, after studies showed Ghanaian shippers were paying three times…"
     }
   ]
 };
