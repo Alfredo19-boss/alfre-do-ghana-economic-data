@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T01:56:58.407Z",
+  "updated": "2026-11-26T02:26:58.110Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -54,6 +54,33 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "13 remanded for impersonating NAIMOS operatives",
+      "link": "https://www.myjoyonline.com/13-remanded-for-impersonating-naimos-operatives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T00:49:28.000Z",
+      "summary": "Thirteen people arrested for allegedly posing as officials of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to extort money from miners have been remanded into custody.",
+      "categories": [
+        "News",
+        "Galamsey",
+        "Mining",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+      "link": "https://www.myjoyonline.com/at-least-30-killed-in-massive-fire-as-fuel-truck-crashes-on-cairo-highway/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T00:15:00.000Z",
+      "summary": "At least 30 people have been killed and 19 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says.",
+      "categories": [
+        "News",
+        "Egypt",
+        "Fire"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Power supply curtailed in parts of Kumasi as illegal logging damages GRIDCo line",
       "link": "https://www.myjoyonline.com/power-supply-curtailed-in-parts-of-kumasi-as-illegal-logging-damages-gridco-line/",
       "source": "MyJoyOnline",
@@ -100,32 +127,6 @@ window.GDC_PAPERS = {
         "Energy transition",
         "net zero",
         "Renewable Energy Act"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Women lawyers have a big role in law reforms – Ayine",
-      "link": "https://www.myjoyonline.com/women-lawyers-have-a-big-role-in-law-reforms-ayine/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:22:00.000Z",
-      "summary": "Dr Dominic Akuritinga Ayine, Attorney General and Minister of Justice, expressed confidence that including women lawyers in law reform processes in Ghana and across Africa would accelerate…",
-      "categories": [
-        "National",
-        "Dominic Akuritinga Ayine",
-        "Women lawyers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gunshots heighten tension at Nyanyano over chieftaincy dispute",
-      "link": "https://www.myjoyonline.com/gunshots-heighten-tension-at-nyanyano-over-chieftaincy-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:16:00.000Z",
-      "summary": "Residents of Gomoa Nyanyano in the Gomoa East District of the Central Region have been thrown into fear following reports of sporadic gunfire amid escalating tensions over a planned…",
-      "categories": [
-        "News",
-        "Top Story",
-        "Nyanyano"
       ],
       "site": "https://www.myjoyonline.com/"
     },
