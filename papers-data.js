@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T04:06:56.878Z",
+  "updated": "2026-11-26T04:26:57.132Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -66,6 +66,33 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Gordon scores twice as Barca ease past Sabah",
+      "link": "https://www.myjoyonline.com/gordon-scores-twice-as-barca-ease-past-sabah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:03:00.000Z",
+      "summary": "Anthony Gordon scored twice as Barcelona cruised to a Champions League victory over Sabah in Azerbaijan.",
+      "categories": [
+        "Football",
+        "Anthony Gordon",
+        "Barcelona",
+        "Sabah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘All coming together’ – Isak repaying Liverpool faith",
+      "link": "https://www.myjoyonline.com/all-coming-together-isak-repaying-liverpool-faith/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:54:00.000Z",
+      "summary": "Liverpool fans have needed to be patient to see the best of Alexander Isak after an injury-hit start to his career, but the striker is now proving the wait has been worth it.",
+      "categories": [
+        "Football",
+        "Alexander Isak",
+        "Liverpool"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
       "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
       "source": "MyJoyOnline",
@@ -97,48 +124,14 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
-      "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
+      "title": "Raheem Sterling – from national icon to suspended jail sentence",
+      "link": "https://www.myjoyonline.com/raheem-sterling-from-national-icon-to-suspended-jail-sentence/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T01:42:08.000Z",
-      "summary": "Similarly, 55% ranked data protection/data trust among their top five cyber budget investment priorities.",
+      "published": "2026-11-26T01:44:00.000Z",
+      "summary": "Raheem Sterling grew up a stone's throw from Wembley Stadium, and went on to start a European Championship final for England there.",
       "categories": [
-        "Business",
-        "Technology",
-        "AI",
-        "Data trust",
-        "Digital Trust Insight Survey",
-        "PwC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The AFCFTA ring has fifty-four flags and zero referees",
-      "link": "https://www.myjoyonline.com/the-afcfta-ring-has-fifty-four-flags-and-zero-referees/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:12:39.000Z",
-      "summary": "Yesterday in \"Rich Soil, Poor Citizens\", we traced how Ghana sends its builders into Africa's single market wearing lead boots. Upfront service taxes and rigid hiring laws drain local…",
-      "categories": [
-        "Opinion",
-        "Ghana",
-        "IMANI",
-        "market"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No MP knows the cost of printing new Cedi notes — Tiah Mahama",
-      "link": "https://www.myjoyonline.com/no-mp-knows-the-cost-of-printing-new-cedi-notes-tiah-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:03:50.000Z",
-      "summary": "A Member of Parliament (MP) for Walewale, Dr Tiah Abdul Kabiru Mahama, has raised concerns about the level of parliamentary consultation surrounding the Bank of Ghana’s (BoG) redesigned…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "BoG",
-        "Cedi",
-        "Heritage Series"
+        "Football",
+        "Raheem Sterling"
       ],
       "site": "https://www.myjoyonline.com/"
     },
