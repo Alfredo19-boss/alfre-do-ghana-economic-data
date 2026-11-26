@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T17:14:00.618Z",
+  "updated": "2026-11-26T17:24:01.405Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,48 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘A promise made is a promise kept’ – Agalga touts $12.7bn reserves",
+      "link": "https://www.myjoyonline.com/a-promise-made-is-a-promise-kept-agalga-touts-12-7bn-reserves/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:18:44.000Z",
+      "summary": "Majority Leader, James Agalga, has touted Ghana's gross international reserves of $12.7 billion, saying the figure demonstrates the government's delivery on its promise to strengthen the…",
+      "categories": [
+        "National",
+        "News",
+        "$12.7bn reserves",
+        "James Agalga"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Children demand stronger action to protect their rights at National Children’s Parliament",
+      "link": "https://www.myjoyonline.com/children-demand-stronger-action-to-protect-their-rights-at-national-childrens-parliament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:15:34.000Z",
+      "summary": "Children from across Ghana have called for stronger action to protect their rights, urging government and stakeholders to translate commitments to their welfare into tangible improvements…",
+      "categories": [
+        "National",
+        "Children",
+        "National Children’s Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dr Ayine’s directive: When the State enforces the constitution against itself",
+      "link": "https://www.myjoyonline.com/dr-ayines-directive-when-the-state-enforces-the-constitution-against-itself/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T17:11:57.000Z",
+      "summary": "For more than three decades, Ghana’s 1992 Constitution has guaranteed the rights of persons suspected or accused of crime. Yet successive governments have struggled to translate these…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Dominic Ayine",
+        "Noah Ephraem Adamtey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: Building a culture of ownership and high performance",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-building-a-culture-of-ownership-and-high-performance/",
@@ -120,48 +162,6 @@ window.GDC_PAPERS = {
         "National",
         "Lands Minister",
         "mineral exports"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afenyo-Markin accuses EOCO of abusing investigative powers over frozen funds",
-      "link": "https://www.myjoyonline.com/afenyo-markin-accuses-eoco-of-abusing-investigative-powers-over-frozen-funds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:37:53.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has accused the Economic and Organised Crime Office (EOCO) of abusing its investigative powers, questioning its handling of frozen bank accounts and…",
-      "categories": [
-        "National",
-        "Afenyo-Markin",
-        "EOCO",
-        "frozen funds"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Control without confiscation: How Ghana can own the chain from pit to port, and turn raw exports into jobs",
-      "link": "https://www.myjoyonline.com/control-without-confiscation-how-ghana-can-own-the-chain-from-pit-to-port-and-turn-raw-exports-into-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:32:47.000Z",
-      "summary": "Ghana earned about 31 billion dollars from exports in 2025, a record, yet gold alone supplied 63.1 per cent of the total, up from 38.5 per cent in 2004, and gold, cocoa and oil together…",
-      "categories": [
-        "HP Opinion 2",
-        "Opinion",
-        "Dominic Senayah",
-        "Ghana",
-        "Jobs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mohamed bin Zayed Foundation commits US$135m to lifesaving care across Africa",
-      "link": "https://www.myjoyonline.com/mohamed-bin-zayed-foundation-commits-us135m-to-lifesaving-care-across-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T16:29:24.000Z",
-      "summary": "The Mohamed bin Zayed Foundation for Humanity has announced a US$135 million commitment to expand access to essential medicines, medical equipment and health technologies in nine African…",
-      "categories": [
-        "Africa",
-        "National",
-        "Mohamed bin Zayed Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
