@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T02:26:58.110Z",
+  "updated": "2026-11-26T02:46:58.079Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The AFCFTA ring has fifty-four flags and zero referees",
+      "link": "https://www.myjoyonline.com/the-afcfta-ring-has-fifty-four-flags-and-zero-referees/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:42:39.000Z",
+      "summary": "Yesterday in \"Rich Soil, Poor Citizens\", we traced how Ghana sends its builders into Africa's single market wearing lead boots. Upfront service taxes and rigid hiring laws drain local…",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "IMANI",
+        "market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
       "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
@@ -113,20 +127,6 @@ window.GDC_PAPERS = {
         "Economy",
         "National",
         "Produce Buying Company (PBC)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s legal framework for energy transition: Is the Renewable Energy Act, 2011 (ACT 832), fit for the country’s net-zero ambitions?",
-      "link": "https://www.myjoyonline.com/ghanas-legal-framework-for-energy-transition-is-the-renewable-energy-act-2011-act-832-fit-for-the-countrys-net-zero-ambitions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:22:54.000Z",
-      "summary": "Ghana’s commitment to achieving net-zero emissions by 2060 presents significant opportunities and challenges for the country’s energy sector. However, the principal legislation governing…",
-      "categories": [
-        "Opinion",
-        "Energy transition",
-        "net zero",
-        "Renewable Energy Act"
       ],
       "site": "https://www.myjoyonline.com/"
     },
