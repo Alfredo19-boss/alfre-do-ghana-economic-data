@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:13:32.990Z",
+  "updated": "2026-11-26T05:23:32.869Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget borrowing will push up rates and starve businesses – Prof Isaac Boadi warns",
+      "link": "https://www.myjoyonline.com/2027-budget-borrowing-will-push-up-rates-and-starve-businesses-prof-isaac-boadi-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:18:45.000Z",
+      "summary": "The 2027 budget will make government the biggest obstacle to cheaper credit for Ghanaian businesses, the President of Africa Policy Lens (APL), Prof. Isaac Boadi, has warned. In a critique…",
+      "categories": [
+        "Banking and Finance",
+        "Economy",
+        "Politics",
+        "Africa Policy Lens",
+        "APL",
+        "Borrowing",
+        "Prof Isaac Boadi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
+      "link": "https://www.myjoyonline.com/five-mexicans-arrested-in-nigeria-over-227m-meth-lab/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:01:43.000Z",
+      "summary": "Five Mexican nationals and a Nigerian businessman have been arrested in Nigeria after authorities uncovered an industrial-scale methamphetamine laboratory, the country's drug enforcement…",
+      "categories": [
+        "Africa",
+        "International",
+        "Arrest",
+        "Meth",
+        "Mexican",
+        "Nigeria"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Third term agenda for Mahama a recipe for chaos because we will resist – NPP’s Abanga Fusani",
       "link": "https://www.myjoyonline.com/third-term-agenda-for-mahama-a-recipe-for-chaos-because-we-will-resist-npps-abanga-fusani/",
@@ -99,36 +132,6 @@ window.GDC_PAPERS = {
         "Attah Issah",
         "Big Six",
         "Heritage Series"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG failed to adequately consult Parliament on new cedi notes — Tiah Mahama",
-      "link": "https://www.myjoyonline.com/bog-failed-to-adequately-consult-parliament-on-new-cedi-notes-tiah-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T03:01:53.000Z",
-      "summary": "The Bank of Ghana (BoG) has been criticised for failing to adequately engage Parliament in the process leading to the introduction of the new heritage series cedi banknotes.",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Bank of Ghana",
-        "Cedi",
-        "Heritage Series",
-        "new notes"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BBC appeals against decision to allow Trump’s $10bn lawsuit to go ahead",
-      "link": "https://www.myjoyonline.com/bbc-appeals-against-decision-to-allow-trumps-10bn-lawsuit-to-go-ahead/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:49:00.000Z",
-      "summary": "The BBC has lodged an \"urgent\" appeal against a US judge's decision to let Donald Trump's $10bn (£7.6bn) lawsuit against the corporation proceed.",
-      "categories": [
-        "International",
-        "BBC",
-        "Donald Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },

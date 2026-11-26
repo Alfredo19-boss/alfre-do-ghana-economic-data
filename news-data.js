@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T05:13:02.279Z",
+  "updated": "2026-11-26T05:23:01.714Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget borrowing will push up rates and starve businesses – Prof Isaac Boadi warns",
+      "link": "https://www.myjoyonline.com/2027-budget-borrowing-will-push-up-rates-and-starve-businesses-prof-isaac-boadi-warns/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:18:45.000Z",
+      "summary": "The 2027 budget will make government the biggest obstacle to cheaper credit for Ghanaian businesses, the President of Africa Policy Lens (APL), Prof. Isaac Boadi, has warned. In a critique…"
+    },
     {
       "title": "Road to Reforms: Key Recommendations from Agribusiness Chamber to Enhance Ghana’s 2027 Agric Budget",
       "link": "https://thehighstreetjournal.com/road-to-reform-key-recommendations-from-agribusiness-chamber-to-enhance-ghanas-2027-agric-budget/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T05:05:00.000Z",
       "summary": "GEXPO 2026 showcases innovative Ghanaian cocoa—featuring multi-flavor lines, kelewele and chilli chocolates, a chocolate fountain, and creative cocoa treats at Black Star Square."
-    },
-    {
-      "title": "Gold Price Rebounds on Sunday Evening, With COMEX Futures Up About 2.8%: What Does the Week Hold?",
-      "link": "https://thehighstreetjournal.com/gold-price-rebounds-on-sunday-evening-with-comex-futures-up-about-2-8-what-does-the-week-hold/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:03:00.000Z",
-      "summary": "Gold rebounded on Sunday evening, with COMEX December futures up 2.83% to $3,614.90 after last week's steep fall. US inflation data could decide whether the gains last, with Ghana's…"
     }
   ]
 };
