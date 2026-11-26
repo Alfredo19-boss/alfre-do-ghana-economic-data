@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:43:32.812Z",
+  "updated": "2026-11-26T06:53:32.508Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Zimbabwean jailed over attempt to join Russia’s war in Ukraine",
+      "link": "https://ghanaiantimes.com.gh/zimbabwean-jailed-over-attempt-to-join-russias-war-in-ukraine/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:53:18.000Z",
+      "summary": "A South African court has convicted and sentenced a Zimbabwean man for trying to travel to Russia to fight in Ukraine after he was arrested earlier this month alongside eight others…",
+      "categories": [
+        "World"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Do not ban — expand your facilities (Wisdom From The Akwapim Mountains — Episode 12 revisited)",
+      "link": "https://www.myjoyonline.com/do-not-ban-expand-your-facilities-wisdom-from-the-akwapim-mountains-episode-12-revisited/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T06:43:00.000Z",
+      "summary": "In the early days, admission to Class One was not by intelligence, but by a physical test. A child stretched his hand over his head to touch the opposite ear. If the hand could not reach…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "BECE",
+        "Common Entrance",
+        "Haruna Iddrisu",
+        "Sammy Anim Ayeko"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Parliament’s budget slashed by GH¢600m …Speaker expresses dissatisfaction with move",
       "link": "https://ghanaiantimes.com.gh/parliaments-budget-slashed-by-gh%c2%a2600m-speaker-expresses-dissatisfaction-with-move/",
@@ -170,20 +198,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ada youth give gov’t one-month ultimatum over poor roads, sea erosion",
-      "link": "https://www.myjoyonline.com/ada-youth-give-govt-one-month-ultimatum-over-poor-roads-sea-erosion/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:32:00.000Z",
-      "summary": "Youth in the Ada Traditional Area have given the government one month to begin construction of the Kasseh-Ada Foah Road and take urgent measures to tackle sea erosion, warning they will…",
-      "categories": [
-        "Regional",
-        "Ada youth",
-        "Poor roads",
-        "sea erosion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Apply now: GES opens portal for teacher recruitment until December 2",
       "link": "https://www.graphic.com.gh/news/education/apply-now-ges-opens-portal-for-teacher-recruitment-until-december-2.html",
       "source": "Daily Graphic",
@@ -301,18 +315,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-25T13:26:19.000Z",
       "summary": "FC Bayern Munich held constructive discussions with Jamal Musiala’s management on Tuesday, ahead of the team’s departure for Lille. The club confirmed that the player’s health remains the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Funeral of late lawyer Stephen Kwabena Boateng closed to bloggers and private photographers",
-      "link": "https://ghanaiantimes.com.gh/funeral-of-late-lawyer-stephen-kwabena-boateng-closed-to-bloggers-and-private-photographers/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:24:07.000Z",
-      "summary": "The family of the late lawyer Stephen Kwabena Boateng, popularly known as Kessben, has announced that his funeral rites in Kumasi will be closed to bloggers, content creators and private…",
       "categories": [
         "Hot!",
         "News"
