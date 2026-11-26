@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T14:53:30.729Z",
+  "updated": "2026-11-26T15:03:30.741Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama Reassigns GNPC CEO Kwame Ntow Amoah to Energy Ministry",
+      "link": "https://thehighstreetjournal.com/mahama-reassigns-gnpc-ceo-kwame-ntow-amoah-to-energy-ministry/",
+      "source": "The High Street Journal",
+      "published": "2026-11-26T15:00:37.000Z",
+      "summary": "President Mahama has reassigned GNPC CEO Kwame Ntow Amoah to the Energy Ministry as Technical Advisor, appointing Deputy CEO Hamis Ussif as Acting Chief Executive pending a substantive…"
+    },
     {
       "title": "Peasant Farmers Association urges Finance Ministry to increase funding for agricultural programmes",
       "link": "https://www.myjoyonline.com/peasant-farmers-association-urges-finance-ministry-to-increase-funding-for-agricultural-programmes/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T16:26:56.000Z",
       "summary": "The Ghana National Chamber of Commerce and Industry (GNCCI) has urged the government to deepen its engagement with the private sector in implementing its New Economy Agenda, insisting…"
-    },
-    {
-      "title": "Ghana secures 6.5m forest carbon credits with potential US$68m value",
-      "link": "https://www.myjoyonline.com/ghana-secures-6-5m-forest-carbon-credits-with-potential-us68m-value/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T16:21:14.000Z",
-      "summary": "Ghana could generate nearly US$68 million from the sale of forest carbon credits after securing international verification for its efforts to reduce deforestation and forest degradation…"
     }
   ]
 };

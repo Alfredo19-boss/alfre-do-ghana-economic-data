@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T14:54:01.212Z",
+  "updated": "2026-11-26T15:04:01.162Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP calls for withdrawal of two-year BECE ban on early JHS 1 and JHS 2 candidates",
+      "link": "https://www.myjoyonline.com/npp-calls-for-withdrawal-of-two-year-bece-ban-on-early-jhs-1-and-jhs-2-candidates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T14:54:12.000Z",
+      "summary": "The New Patriotic Party's (NPP) Education Sector Policy Committee has called on Education Minister Haruna Iddrisu to withdraw a directive barring Junior High School (JHS) 1 and JHS 2 pupils…",
+      "categories": [
+        "Education",
+        "National",
+        "BECE",
+        "JHS1",
+        "JHS2",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "KMA orders traders to vacate Kejetia project lanes as construction resumes",
       "link": "https://www.myjoyonline.com/kma-orders-traders-to-vacate-kejetia-project-lanes-as-construction-resumes/",
@@ -141,21 +157,6 @@ window.GDC_PAPERS = {
         "Light of Okyeman",
         "Osagyefuo Amoatia Ofori Panin",
         "Sir Sam Jonah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Calm returns to Nyanyano after gunshots; police deploy 50 officers",
-      "link": "https://www.myjoyonline.com/calm-returns-to-nyanyano-after-gunshots-police-deploy-50-officers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T13:51:00.000Z",
-      "summary": "Calm has returned to Gomoa Nyanyano in the Gomoa East District of the Central Region following sporadic gunshots that rocked the community on Wednesday night.",
-      "categories": [
-        "HP News 5",
-        "News",
-        "Regional",
-        "Chieftaincy dispute",
-        "Gomoa Nyanyano"
       ],
       "site": "https://www.myjoyonline.com/"
     },
