@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:43:32.828Z",
+  "updated": "2026-11-26T08:53:32.850Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,90 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
+      "link": "https://ghanaiantimes.com.gh/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:52:01.000Z",
+      "summary": "“AGRICULTURE is the most healthful, most useful and most noble employment of man.” — George Washington Historical Perspective Every nation develops a plan to guide its development. Ghana is…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Present moment living",
+      "link": "https://ghanaiantimes.com.gh/present-moment-living-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:49:24.000Z",
+      "summary": "SENECA once said that: “Our life is about a string of moments in time. So often we stand in our unhappiness trying to improve a future moment. The problem is that this moment is where we…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Scorching sun puts market women, kayayei at risk — Public health specialist",
+      "link": "https://ghanaiantimes.com.gh/scorching-sun-puts-market-women-kayayei-at-risk-public-health-specialist/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:48:06.000Z",
+      "summary": "MARKET women and other workers who endure long hours under the scorching sun risk exposure to excessive heat that could lead to heatstroke, seizures and even death, warns a public health…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Afua Asantewaa takes Singathon dream to Canada for third world record attempt",
+      "link": "https://www.myjoyonline.com/afua-asantewaa-takes-singathon-dream-to-canada-for-third-world-record-attempt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T08:47:41.000Z",
+      "summary": "Ghanaian singing marathoner Afua Asantewaa Owusu Aduonum refuses to give up on her world-record dream, announcing a third attempt at the Guinness World Records title for the longest…",
+      "categories": [
+        "Diaspora",
+        "Music",
+        "Afua Asantewaa",
+        "Guinness World Record (GWR)",
+        "singathon"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Protect women, girls beyond legislation — Minister",
+      "link": "https://ghanaiantimes.com.gh/protect-women-girls-beyond-legislation-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:45:48.000Z",
+      "summary": "THE Minister of Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger enforcement of laws protecting women and girls. She said, “Legislation must…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kadjebi District Assembly, Zoomlion partner to improve sanitation",
+      "link": "https://ghanaiantimes.com.gh/kadjebi-district-assembly-zoomlion-partner-to-improve-sanitation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:44:03.000Z",
+      "summary": "THE Kadjebi District Assembly is intensifying efforts at improving sanitation in partnership with Zoomlion Ghana Limited under the Sanitation Improvement Package Contract (SIP). The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Enforce price floor across all oil and LPG marketing companies – COMAC charges NPA",
+      "link": "https://www.myjoyonline.com/enforce-price-floor-across-all-oil-and-lpg-marketing-companies-comac-charges-npa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T08:42:47.000Z",
+      "summary": "The Chamber of Oil Marketing Companies (COMAC) is demanding strict enforcement of the petroleum price floor across all Oil and LPG Marketing Companies, without exception.",
+      "categories": [
+        "Energy",
+        "National",
+        "Chamber of Oil Marketing Companies (COMAC)",
+        "National Petroleum Authority (NPA)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "YFM rewards UniMAC’s top broadcast journalism graduate",
       "link": "https://ghanaiantimes.com.gh/yfm-rewards-unimacs-top-broadcast-journalism-graduate/",
@@ -54,26 +138,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GSE provides borehole for Agbogba • Anglican schools Officials of GSE with some of the pupils",
-      "link": "https://ghanaiantimes.com.gh/gse-provides-borehole-for-agbogba-anglican-schools-officials-of-gse-with-some-of-the-pupils/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:30:03.000Z",
-      "summary": "THE Ghana Stock Exchange (GSE), as part of its Corporate Social Investment (CSI) initiative, has constructed a borehole for the Agbogba Anglican Cluster of Schools in Accra to improve…",
+      "title": "Today’s front pages: Thursday, November 26, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-26-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T08:26:45.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
       "categories": [
-        "News"
+        "HP News 2",
+        "National",
+        "Newspaper Front pages"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fury, Joshua fight to go ahead despite objections over 3am finish",
-      "link": "https://ghanaiantimes.com.gh/fury-joshua-fight-to-go-ahead-despite-objections-over-3am-finish/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:27:38.000Z",
-      "summary": "COUNCILLORS have approved plans allowing December’s highly anticipated Tyson Fury v Anthony Joshua fight in Cardiff to finish in the early hours. Fans in hospitality boxes at the…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Today’s front pages: Thursday, November 26, 2026",
@@ -87,39 +162,6 @@ window.GDC_PAPERS = {
         "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Real Madrid win as Arsenal, Man City held in Champions League",
-      "link": "https://ghanaiantimes.com.gh/real-madrid-win-as-arsenal-man-city-held-in-champions-league/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:26:00.000Z",
-      "summary": "JUDE Bellingham scored one of the goals of the season as Real Madrid hammered PSV Eindhoven 5-1 on Tuesday to maintain their perfect record in this season’s Champions League, while Arsenal…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hakimi, Mané, 3 others named for CAF Player of the Year award",
-      "link": "https://ghanaiantimes.com.gh/hakimi-mane-3-others-named-for-caf-player-of-the-year-award/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:23:27.000Z",
-      "summary": "THE Confederation of African Football (CAF) has unveiled the five finalists for the prestigious CAF Men’s Player of the Year 2026 award, with reigning holder Achraf Hakimi, former winner…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "All set for ‘Who is Who’ Season 2 Ga Municipal games",
-      "link": "https://ghanaiantimes.com.gh/all-set-for-who-is-who-season-2-ga-municipal-games/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:19:38.000Z",
-      "summary": "THE Sims International School at Ablekuma Newtown and its environs would be full of fireworks this weekend when it plays host to the “Who is Who” Season 2 community games organised by Nkoo…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
@@ -193,55 +235,6 @@ window.GDC_PAPERS = {
         "Common Entrance",
         "Haruna Iddrisu",
         "Sammy Anim Ayeko"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "DDEP bondholders have already sacrificed enough – Amin Adam kicks against early buyback offer",
-      "link": "https://www.myjoyonline.com/ddep-bondholders-have-already-sacrificed-enough-amin-adam-kicks-against-early-buyback-offer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T06:15:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam says DDEP bondholders have already sacrificed enough towards addressing Ghana's economic challenges and must not be pushed into another deal…",
-      "categories": [
-        "National",
-        "Politics",
-        "Top Story",
-        "Amin Adam",
-        "Ato Forson",
-        "Bond buyback",
-        "DDEP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam questions Ato Forson over transparency of bond buyback offer",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-transparency-of-bond-buyback-offer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T06:03:19.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson is facing questions over the government's voluntary Domestic Debt Exchange Programme (DDEP) bond buyback, with his predecessor, Dr Mohammed Amin Adam…",
-      "categories": [
-        "National",
-        "Politics",
-        "Amin Adam",
-        "Ato Forson",
-        "Bondbuyback",
-        "DDEP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam questions Ato Forson over and transparency of bond buyback offer",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-and-transparency-of-bond-buyback-offer/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T06:03:19.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson is facing questions over the government's voluntary Domestic Debt Exchange Programme (DDEP) bond buyback, with his predecessor, Dr Mohammed Amin Adam…",
-      "categories": [
-        "National",
-        "Politics",
-        "Amin Adam",
-        "Ato Forson",
-        "Bondbuyback",
-        "DDEP"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T08:43:02.737Z",
+  "updated": "2026-11-26T08:53:02.886Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Enforce price floor across all oil and LPG marketing companies – COMAC charges NPA",
+      "link": "https://www.myjoyonline.com/enforce-price-floor-across-all-oil-and-lpg-marketing-companies-comac-charges-npa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T08:42:47.000Z",
+      "summary": "The Chamber of Oil Marketing Companies (COMAC) is demanding strict enforcement of the petroleum price floor across all Oil and LPG Marketing Companies, without exception."
+    },
     {
       "title": "Prudential Bank urges Ghanaian SMEs to improve readiness for Chinese market",
       "link": "https://www.myjoyonline.com/prudential-bank-urges-ghanaian-smes-to-improve-readiness-for-chinese-market/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-23T09:30:00.000Z",
       "summary": "Ghana could reduce future debt-service obligations through a voluntary GH¢28.58 billion bond buyback, purchasing bonds at a discount. Actual savings will depend on investor participation…"
-    },
-    {
-      "title": "Ghana’s Cheaper Credit Push Now Depends on Commercial Banks",
-      "link": "https://thehighstreetjournal.com/ghanas-cheaper-credit-push-now-depends-on-commercial-banks/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T09:08:29.000Z",
-      "summary": "Ghana's lower policy rate has increased expectations for cheaper business financing, but commercial banks must translate the monetary easing into affordable loans and expanded credit for…"
     }
   ]
 };
