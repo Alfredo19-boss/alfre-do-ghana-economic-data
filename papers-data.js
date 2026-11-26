@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:04:01.660Z",
+  "updated": "2026-11-26T16:14:00.894Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Police arrest 7 Asafo group members over Akwambo festival clash at Gomoa Nyanyano",
+      "link": "https://www.myjoyonline.com/police-arrest-7-asafo-group-members-over-akwambo-festival-clash-at-gomoa-nyanyano/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:02:02.000Z",
+      "summary": "The Central East Regional Police Command has arrested seven members of the Asafo group at Gomoa Nyanyano in the Gomoa East District following tensions over the celebration of the Akwambo…",
+      "categories": [
+        "News",
+        "Regional",
+        "Akwambo Festival",
+        "Gomoa Nyanyano",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Planet One expands African mining footprint with $933m Senegal project",
       "link": "https://www.myjoyonline.com/planet-one-expands-african-mining-footprint-with-933m-senegal-project/",
@@ -130,6 +145,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "NPP demands evidence of cash-stash claims, calls for arrests if allegations are false",
+      "link": "https://www.graphic.com.gh/news/politics/npp-demands-evidence-of-cash-stash-claims-calls-for-arrests-if-allegations-are-false.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T15:00:36.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "NPP calls for withdrawal of two-year BECE ban on early JHS 1 and JHS 2 candidates",
       "link": "https://www.myjoyonline.com/npp-calls-for-withdrawal-of-two-year-bece-ban-on-early-jhs-1-and-jhs-2-candidates/",
       "source": "MyJoyOnline",
@@ -143,20 +169,6 @@ window.GDC_PAPERS = {
         "JHS1",
         "JHS2",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KMA orders traders to vacate Kejetia project lanes as construction resumes",
-      "link": "https://www.myjoyonline.com/kma-orders-traders-to-vacate-kejetia-project-lanes-as-construction-resumes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T14:31:52.000Z",
-      "summary": "The Kumasi Metropolitan Assembly (KMA) has directed traders and other occupants operating along dedicated lanes and adjoining areas of the Kejetia Redevelopment Project Phase II to vacate…",
-      "categories": [
-        "National",
-        "News",
-        "Kejetia",
-        "KMA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,17 +304,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/gcgl-md-benjamin-ato-afful-bows-out-after-8-years.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T11:31:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Give us your support, Deputy Lands Minister urges chiefs, elders in mining communities",
-      "link": "https://www.graphic.com.gh/news/general-news/give-us-your-support-deputy-lands-minister-urges-chiefs-elders-in-mining-communities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T10:28:18.000Z",
       "summary": "",
       "categories": [
         "General News"
