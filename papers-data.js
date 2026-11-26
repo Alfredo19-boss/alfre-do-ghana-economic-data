@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T03:06:57.554Z",
+  "updated": "2026-11-26T03:36:57.018Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "BoG failed to adequately consult Parliament on new cedi notes — Tiah Mahama",
+      "link": "https://www.myjoyonline.com/bog-failed-to-adequately-consult-parliament-on-new-cedi-notes-tiah-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T03:01:53.000Z",
+      "summary": "The Bank of Ghana (BoG) has been criticised for failing to adequately engage Parliament in the process leading to the introduction of the new heritage series cedi banknotes.",
+      "categories": [
+        "National",
+        "News",
+        "Bank of Ghana",
+        "Cedi",
+        "Heritage Series",
+        "new notes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama donates GH¢600,000 towards funeral of Agogomanhene",
       "link": "https://www.myjoyonline.com/mahama-donates-gh%c2%a2600000-towards-funeral-of-agogomanhene/",
@@ -110,29 +126,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "13 remanded for impersonating NAIMOS operatives",
-      "link": "https://www.myjoyonline.com/13-remanded-for-impersonating-naimos-operatives/",
+      "title": "No MP knows the cost of printing new Cedi notes — Tiah Mahama",
+      "link": "https://www.myjoyonline.com/no-mp-knows-the-cost-of-printing-new-cedi-notes-tiah-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-11-26T00:49:28.000Z",
-      "summary": "Thirteen people arrested for allegedly posing as officials of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to extort money from miners have been remanded into custody.",
+      "published": "2026-11-26T01:03:50.000Z",
+      "summary": "A Member of Parliament (MP) for Walewale, Dr Tiah Abdul Kabiru Mahama, has raised concerns about the level of parliamentary consultation surrounding the Bank of Ghana’s (BoG) redesigned…",
       "categories": [
+        "National",
         "News",
-        "Galamsey",
-        "Mining",
-        "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
-      "link": "https://www.myjoyonline.com/at-least-30-killed-in-massive-fire-as-fuel-truck-crashes-on-cairo-highway/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T00:15:00.000Z",
-      "summary": "At least 30 people have been killed and 19 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says.",
-      "categories": [
-        "News",
-        "Egypt",
-        "Fire"
+        "BoG",
+        "Cedi",
+        "Heritage Series"
       ],
       "site": "https://www.myjoyonline.com/"
     },
