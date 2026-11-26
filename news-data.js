@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T01:46:29.456Z",
+  "updated": "2026-11-26T01:56:28.640Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
+      "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:50:27.000Z",
+      "summary": "Ghana’s 2027 Budget promises to assess every New Economy project for value for money and report spending commitments transparently. The first test of that promise comes when a payment is…"
+    },
     {
       "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
       "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T02:42:00.000Z",
       "summary": "The US Securities and Exchange Commission is probing Nvidia's accounting practices, two people briefed on the matter said, adding to the legal woes facing the scandal-hit chip giant."
-    },
-    {
-      "title": "External debt servicing will create depreciatory pressure on cedi in 2027",
-      "link": "https://www.myjoyonline.com/external-debt-servicing-will-create-depreciatory-pressure-on-cedi-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T00:36:18.000Z",
-      "summary": "The UK-based firm said that although the reactivated Dollar Sinking Fund will likely cover around US$1.2 billion in Eurobond repayments, the remaining US$3.9 billion owed to multilateral…"
     }
   ]
 };

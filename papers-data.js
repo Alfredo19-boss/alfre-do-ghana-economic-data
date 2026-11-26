@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T01:47:00.402Z",
+  "updated": "2026-11-26T01:56:58.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
+      "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:50:27.000Z",
+      "summary": "Ghana’s 2027 Budget promises to assess every New Economy project for value for money and report spending commitments transparently. The first test of that promise comes when a payment is…",
+      "categories": [
+        "Business",
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "Auditor General",
+        "DACF",
+        "Ministry of Finance",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
       "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
@@ -109,19 +126,6 @@ window.GDC_PAPERS = {
         "News",
         "Top Story",
         "Nyanyano"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama pays last respect to late Agogomanhene Nana Kwame Akuoku Sarpong",
-      "link": "https://www.myjoyonline.com/mahama-pays-last-respect-to-late-agogomanhene-nana-kwame-akuoku-sarpong/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:13:00.000Z",
-      "summary": "President John Mahama on Wednesday joined the family, chiefs, and people of Asante Akyem Agogo, as well as Asanteman, to bid farewell to the late Agogomanhene, Nana Kwame Akuoku Sarpong II",
-      "categories": [
-        "National",
-        "Agogomanhene",
-        "Nana Akuoku Sarpong"
       ],
       "site": "https://www.myjoyonline.com/"
     },
