@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:13:32.663Z",
+  "updated": "2026-11-26T08:23:32.602Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,28 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hakimi, Mané, 3 others named for CAF Player of the Year award",
+      "link": "https://ghanaiantimes.com.gh/hakimi-mane-3-others-named-for-caf-player-of-the-year-award/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:23:27.000Z",
+      "summary": "THE Confederation of African Football (CAF) has unveiled the five finalists for the prestigious CAF Men’s Player of the Year 2026 award, with reigning holder Achraf Hakimi, former winner…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "All set for ‘Who is Who’ Season 2 Ga Municipal games",
+      "link": "https://ghanaiantimes.com.gh/all-set-for-who-is-who-season-2-ga-municipal-games/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:19:38.000Z",
+      "summary": "THE Sims International School at Ablekuma Newtown and its environs would be full of fireworks this weekend when it plays host to the “Who is Who” Season 2 community games organised by Nkoo…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "FIFA World Cup play-offs: Black Queens can go all the way – Bjorkegren",
       "link": "https://ghanaiantimes.com.gh/fifa-world-cup-play-offs-black-queens-can-go-all-the-way-bjorkegren/",
@@ -118,18 +140,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MahamaCares must reach every Ghanaian • Expert pushes sustainable financing, decentralised specialist facilities",
-      "link": "https://ghanaiantimes.com.gh/mahamacares-must-reach-every-ghanaian-expert-pushes-sustainable-financing-decentralised-specialist-facilities/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:26:53.000Z",
-      "summary": "A Health Economist and Medical Practitioner based in the United States of America, Dr Nicholas Addae Mensah, has called for sustainable financing and the decentralisation of specialised…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Prudential Bank urges Ghanaian SMEs to improve readiness for Chinese market",
       "link": "https://www.myjoyonline.com/prudential-bank-urges-ghanaian-smes-to-improve-readiness-for-chinese-market/",
       "source": "MyJoyOnline",
@@ -144,18 +154,6 @@ window.GDC_PAPERS = {
         "Prudential Bank"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCB Bank ranks 4th among Ghana’s top 100 companies",
-      "link": "https://ghanaiantimes.com.gh/gcb-bank-ranks-4th-among-ghanas-top-100-companies/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:19:26.000Z",
-      "summary": "GCB Bank PLC has been ranked fourth among Ghana’s top 100 companies at the 2026 Ghana Club 100 Awards, emerging as the highest-ranked bank in the country. The achievement places the Bank…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "NPP Germany mobilisation dinner focuses on unity and 2028 election strategy",
