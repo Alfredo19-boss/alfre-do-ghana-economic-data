@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T07:13:32.860Z",
+  "updated": "2026-11-26T07:23:32.689Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,45 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GCB Bank ranks 4th among Ghana’s top 100 companies",
+      "link": "https://ghanaiantimes.com.gh/gcb-bank-ranks-4th-among-ghanas-top-100-companies/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:19:26.000Z",
+      "summary": "GCB Bank PLC has been ranked fourth among Ghana’s top 100 companies at the 2026 Ghana Club 100 Awards, emerging as the highest-ranked bank in the country. The achievement places the Bank…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Govt sets zero police fatalities target",
+      "link": "https://ghanaiantimes.com.gh/govt-sets-zero-police-fatalities-target/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:15:06.000Z",
+      "summary": "President of Ghana, John Dramani Mahama, has set zero police fatalities as the national target after deaths among officers in the line of duty fell from 20 in 2025 to nine so far this year…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP Germany mobilisation dinner focuses on unity and 2028 election strategy",
+      "link": "https://www.myjoyonline.com/npp-germany-mobilisation-dinner-focuses-on-unity-and-2028-election-strategy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T07:10:20.000Z",
+      "summary": "DÜSSELDORF, Germany – The New Patriotic Party (NPP) Germany Branch has brought together national party leaders, Members of Parliament and supporters for a mobilisation dinner to discuss the…",
+      "categories": [
+        "National",
+        "Politics",
+        "Bawumia",
+        "election 2028",
+        "NPP Germany"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "ICU petitions President to withdraw NPA Bill • Warns proposed law could undermine BOST’s financial independence",
       "link": "https://ghanaiantimes.com.gh/icu-petitions-president-to-withdraw-npa-bill-warns-proposed-law-could-undermine-bosts-financial-independence/",
@@ -107,29 +146,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Nutrition financing must become a national priority",
-      "link": "https://ghanaiantimes.com.gh/nutrition-financing-must-become-a-national-priority/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:32:30.000Z",
-      "summary": "Ghana cannot continue to treat the nutrition needs of women and children as an area of development that depends largely on the goodwill of foreign donors. The health and future of the…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Suspected serial rapist, robber dies during police operation at Kade",
-      "link": "https://ghanaiantimes.com.gh/suspected-serial-rapist-robber-dies-during-police-operation-at-kade/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T06:31:38.000Z",
-      "summary": "A 39-year-old ex-convict suspected of a series of rape and robbery cases in Kade in the Eastern Region has died after sustaining gunshot wounds during a police operation. The suspect…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "DDEP bondholders have already sacrificed enough – Amin Adam kicks against early buyback offer",
       "link": "https://www.myjoyonline.com/ddep-bondholders-have-already-sacrificed-enough-amin-adam-kicks-against-early-buyback-offer/",
       "source": "MyJoyOnline",
@@ -213,21 +229,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Niger State",
         "Nigeria"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UBIDS launches ‘2026 16 Days of Activism’ amid warnings over campus harassment",
-      "link": "https://www.myjoyonline.com/ubids-launches-2026-16-days-of-activism-amid-warnings-over-campus-harassment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:37:58.000Z",
-      "summary": "University administrators, gender advocates, and law enforcement officials have called for urgent institutional accountability, survivor-centered protection, and stricter enforcement of…",
-      "categories": [
-        "National",
-        "News",
-        "Activism",
-        "Gender",
-        "Violence"
       ],
       "site": "https://www.myjoyonline.com/"
     },
