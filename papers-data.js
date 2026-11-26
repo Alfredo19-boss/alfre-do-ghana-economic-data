@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T23:29:31.203Z",
+  "updated": "2026-11-26T23:39:30.810Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MDPI urges public, private institutions to prioritise staff training ahead of 2027",
+      "link": "https://www.myjoyonline.com/mdpi-urges-public-private-institutions-to-prioritise-staff-training-ahead-of-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:35:48.000Z",
+      "summary": "The Management Development and Productivity Institute (MDPI) is urging public and private sector institutions to prioritise staff training and capacity building as part of efforts to…",
+      "categories": [
+        "Business",
+        "Economy",
+        "MDPI",
+        "private",
+        "public",
+        "staff training"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIISDEC targets submission of iron and steel industry regulations to Parliament in three months",
+      "link": "https://www.myjoyonline.com/giisdec-targets-submission-of-iron-and-steel-industry-regulations-to-parliament-in-three-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:33:07.000Z",
+      "summary": "The Ghana Integrated Iron and Steel Development Corporation (GIISDEC) is targeting the submission of a proposed Legislative Instrument (LI) to Parliament within the next two to three months…",
+      "categories": [
+        "News",
+        "GIISDEC",
+        "Iron",
+        "steel industry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "5-year-old death in Mim: Father remanded again as court awaits post-mortem",
+      "link": "https://www.myjoyonline.com/5-year-old-death-in-mim-father-remanded-again-as-court-awaits-post-mortem/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:11:00.000Z",
+      "summary": "The Goaso District Court in the Ahafo Region has remanded into police custody for the second time the father accused in the tragic death of his five-year-old daughter, Elizabeth, at Mim in…",
+      "categories": [
+        "Crime",
+        "News",
+        "court",
+        "Death",
+        "father"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Pru East cries out: Residents appeal for urgent fix of deplorable feeder roads",
       "link": "https://www.myjoyonline.com/pru-east-cries-out-residents-appeal-for-urgent-fix-of-deplorable-feeder-roads/",
@@ -90,45 +135,6 @@ window.GDC_PAPERS = {
         "Narcotics",
         "NDC",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "VIDEO: Mahama arrives in Barbados to deepen Ghana-Caribbean ties",
-      "link": "https://www.myjoyonline.com/video-mahama-arrives-in-barbados-to-deepen-ghana-caribbean-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:11:43.000Z",
-      "summary": "President John Dramani Mahama has arrived in Barbados for a five-day state visit aimed at strengthening Ghana’s historical, diplomatic and economic relations with the Caribbean nation.",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Barbados",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Binance lifts withdrawal suspension after $6.3 billion crypto heist",
-      "link": "https://www.myjoyonline.com/binance-lifts-withdrawal-suspension-after-6-3-billion-crypto-heist/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:08:00.000Z",
-      "summary": "Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal suspension after a record $6.3 billion was stolen in a hack last month.",
-      "categories": [
-        "International",
-        "Binance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Music is art, not a competition – Sarkodie",
-      "link": "https://www.myjoyonline.com/music-is-art-not-a-competition-sarkodie/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:05:00.000Z",
-      "summary": "Rap artiste, Sarkodie, has urged musicians to return to the essence of music as art, warning that the rush for instant chart success is killing authentic creativity.",
-      "categories": [
-        "Music",
-        "Sarkodie"
       ],
       "site": "https://www.myjoyonline.com/"
     },
