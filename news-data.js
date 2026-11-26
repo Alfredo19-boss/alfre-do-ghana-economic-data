@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-25T23:26:30.289Z",
+  "updated": "2026-11-26T01:46:29.456Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
+      "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:42:08.000Z",
+      "summary": "Similarly, 55% ranked data protection/data trust among their top five cyber budget investment priorities."
+    },
     {
       "title": "Shareholders back PBC’s GH¢300m debt restructuring plan",
       "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T00:36:18.000Z",
       "summary": "The UK-based firm said that although the reactivated Dollar Sinking Fund will likely cover around US$1.2 billion in Eurobond repayments, the remaining US$3.9 billion owed to multilateral…"
-    },
-    {
-      "title": "Government’s key test in managing debt lies in 2027 – KPMG UNDP report",
-      "link": "https://www.myjoyonline.com/governments-key-test-in-managing-debt-lies-in-2027-kpmg-undp-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-22T23:59:46.000Z",
-      "summary": "According to the highlights, sustaining monthly Sinking Fund transfers (7% of non-oil tax revenue), lengthening the domestic maturity profile and keeping debt near the 45% of Gross Domestic…"
     }
   ]
 };

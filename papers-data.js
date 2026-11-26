@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-25T23:26:59.140Z",
+  "updated": "2026-11-26T01:47:00.402Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "87% of business & technology leaders expect cyber budgets to go up – PwC Digital Survey",
+      "link": "https://www.myjoyonline.com/87-of-business-technology-leaders-expect-cyber-budgets-to-go-up-pwc-digital-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T01:42:08.000Z",
+      "summary": "Similarly, 55% ranked data protection/data trust among their top five cyber budget investment priorities.",
+      "categories": [
+        "Business",
+        "Technology",
+        "AI",
+        "Data trust",
+        "Digital Trust Insight Survey",
+        "PwC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Power supply curtailed in parts of Kumasi as illegal logging damages GRIDCo line",
       "link": "https://www.myjoyonline.com/power-supply-curtailed-in-parts-of-kumasi-as-illegal-logging-damages-gridco-line/",
@@ -106,20 +122,6 @@ window.GDC_PAPERS = {
         "National",
         "Agogomanhene",
         "Nana Akuoku Sarpong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIMPA, Jobberman equip students with skills to navigate the competitive job market",
-      "link": "https://www.myjoyonline.com/gimpa-jobberman-equip-students-with-skills-to-navigate-the-competitive-job-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T22:04:54.000Z",
-      "summary": "A university degree may open doors, but securing employment requires more than academic qualifications, students at the Ghana Institute of Management and Public Administration (GIMPA) have…",
-      "categories": [
-        "Education",
-        "GIMPA",
-        "Job market",
-        "Jobberman"
       ],
       "site": "https://www.myjoyonline.com/"
     },
