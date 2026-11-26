@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T05:43:02.655Z",
+  "updated": "2026-11-26T05:53:02.550Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Petrol could drop to GH¢13 in December as fuel prices set for major decline – Energy expert",
+      "link": "https://www.myjoyonline.com/petrol-could-drop-to-gh%c2%a213-in-december-as-fuel-prices-set-for-major-decline-energy-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:21:00.000Z",
+      "summary": "Energy expert Benjamin Nsiah projects that petroleum product prices could record one of their biggest declines in recent times, offering consumers some relief ahead of the Christmas…"
+    },
     {
       "title": "2027 Budget borrowing will push up rates and starve businesses – Prof Isaac Boadi warns",
       "link": "https://www.myjoyonline.com/2027-budget-borrowing-will-push-up-rates-and-starve-businesses-prof-isaac-boadi-warns/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T05:57:35.000Z",
       "summary": "The Ghana Shippers’ Authority (GSA) is prioritising tighter oversight of shipping charges, stronger enforcement, and faster complaint resolution in 2027 as it works to deliver on its…"
-    },
-    {
-      "title": "GEXPO 2026: Do You Want to Try Chocolate with Chilli, How About with Kelewele?",
-      "link": "https://thehighstreetjournal.com/gexpo-2026-do-you-want-to-try-chocolate-with-chilli-how-about-with-kelewele/",
-      "source": "The High Street Journal",
-      "published": "2026-11-23T05:05:00.000Z",
-      "summary": "GEXPO 2026 showcases innovative Ghanaian cocoa—featuring multi-flavor lines, kelewele and chilli chocolates, a chocolate fountain, and creative cocoa treats at Black Star Square."
     }
   ]
 };

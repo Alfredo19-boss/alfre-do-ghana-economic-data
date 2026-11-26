@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T05:43:33.095Z",
+  "updated": "2026-11-26T05:53:33.024Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -53,6 +53,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Currency controversy: Attah Issah insists BoG Governor is not dodging parliamentary scrutiny",
+      "link": "https://www.myjoyonline.com/currency-controversy-attah-issah-insists-bog-governor-is-not-dodging-parliamentary-scrutiny/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T05:10:00.000Z",
+      "summary": "A member of Parliament’s Finance Committee, Attah Issah, has defended Bank of Ghana (BoG) Governor Dr Johnson Asiama against concerns that Parliament is not scrutinising the controversial…",
+      "categories": [
+        "Politics",
+        "Bank of Ghana (BoG)",
+        "Dr Johnson Asiama",
+        "Heritage Series"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
       "link": "https://www.myjoyonline.com/five-mexicans-arrested-in-nigeria-over-227m-meth-lab/",
       "source": "MyJoyOnline",
@@ -75,6 +89,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T04:56:24.000Z",
       "summary": "The National Youth Organiser of the New Patriotic Party (NPP), Abanga Yakubu Fusani, has issued a strong warning against calls for what he says will be an unconstitutional third term for…",
       "categories": [
+        "HP News 10",
         "National",
         "Politics",
         "Abanga Fusani",
@@ -90,6 +105,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T04:50:00.000Z",
       "summary": "A member of Parliament’s Finance Committee, Attah Issah, says the cost of printing Ghana’s new currency notes is already in the Bank of Ghana’s approved 2026 budget.",
       "categories": [
+        "HP News 2",
         "Politics",
         "Attah Issah",
         "Heritage Series"
@@ -118,19 +134,6 @@ window.GDC_PAPERS = {
       "summary": "The Minority in Parliament is demanding full disclosure of the cost and decision-making process behind the Bank of Ghana’s (BoG) newly introduced heritage series banknotes, insisting that…",
       "categories": [
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Families say they cannot locate bodies of relatives in Ebola-hit Congo city",
-      "link": "https://www.myjoyonline.com/families-say-they-cannot-locate-bodies-of-relatives-in-ebola-hit-congo-city/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T04:29:00.000Z",
-      "summary": "Dozens of residents in eastern Congo say they have been unable to ​locate the bodies of relatives who died in the ongoing Ebola outbreak, while others say loved ones have been buried…",
-      "categories": [
-        "Africa",
-        "DR Congo",
-        "Ebola"
       ],
       "site": "https://www.myjoyonline.com/"
     },
