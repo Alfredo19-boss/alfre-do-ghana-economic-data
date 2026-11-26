@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T09:33:32.745Z",
+  "updated": "2026-11-26T09:43:32.174Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T09:17:26.000Z",
       "summary": "The Electricity Company of Ghana (ECG) has blamed recent power outages in parts of Accra on transformer upgrades, replacement works and emergency faults on its distribution network.",
       "categories": [
+        "HP News 1",
         "National",
         "Accra",
         "ECG",
@@ -49,6 +50,17 @@ window.GDC_PAPERS = {
         "transformer upgrade"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "French Ambassador commends Ghana for economic turnaround",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-french-ambassador-commends-ghana-for-economic-turnaround.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T09:13:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "PFAG criticizes 2027 Budget, says only 3.64% expenditure allocated to agric-related agencies, programmes",
@@ -100,6 +112,17 @@ window.GDC_PAPERS = {
         "new Cedi"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We’ll end raw mineral exports by 2028 - Lands Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-well-end-raw-mineral-exports-by-2028-lands-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T09:04:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "‘Dwiibaadwiibaa’ (Scabies): The itchy condition you should not ignore",
@@ -231,6 +254,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Young people’s voices essential in ending AIDS by 2030 - AIDS Commission",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-young-peoples-voices-essential-in-ending-aids-by-2030-aids-commission.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T08:17:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "ghana news Parliament faces GH¢670m budget cut - Bagbin warns of impact on operations, staff welfare",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-faces-ghc670m-budget-cut-bagbin-warns-of-impact-on-operations-staff-welfare.html",
       "source": "Daily Graphic",
@@ -282,39 +316,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "One dead, five soldiers injured in Circle Railway demolition clash",
-      "link": "https://www.graphic.com.gh/news/general-news/one-dead-five-soldiers-injured-in-circle-railway-demolition-clash.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T17:39:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana secures UN Tourism Executive Council Chairmanship for 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-secures-un-tourism-executive-council-chairmanship-for-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T17:07:05.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "15 NPP-USA Chairs demand e-voting safeguards before elections",
-      "link": "https://www.graphic.com.gh/news/politics/15-npp-usa-chairs-demand-e-voting-safeguards-before-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-25T16:01:47.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     }
