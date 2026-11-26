@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:34:02.694Z",
+  "updated": "2026-11-26T16:44:02.070Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,70 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US experts advocate source control to tackle mercury pollution",
+      "link": "https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T16:42:36.000Z",
+      "summary": "US environmental experts have called for stronger measures to prevent mercury from entering water bodies through illegal small-scale mining, warning that efforts to clean up contaminated…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kintampo set for 27th Benkadi Kurubi Festival",
+      "link": "https://www.graphic.com.gh/news/general-news/kintampo-set-for-27th-benkadi-kurubi-festival.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-26T16:41:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana targets end to raw mineral exports by 2028 – Armah-Kofi Buah",
+      "link": "https://www.myjoyonline.com/ghana-targets-end-to-raw-mineral-exports-by-2028-armah-kofi-buah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:38:46.000Z",
+      "summary": "The government has said it is determined to end the exportation of raw materials by 2028, as part of efforts to accelerate domestic mineral processing to retain more value from the…",
+      "categories": [
+        "National",
+        "Lands Minister",
+        "mineral exports"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Afenyo-Markin accuses EOCO of abusing investigative powers over frozen funds",
+      "link": "https://www.myjoyonline.com/afenyo-markin-accuses-eoco-of-abusing-investigative-powers-over-frozen-funds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:37:53.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has accused the Economic and Organised Crime Office (EOCO) of abusing its investigative powers, questioning its handling of frozen bank accounts and…",
+      "categories": [
+        "National",
+        "Afenyo-Markin",
+        "EOCO",
+        "frozen funds"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Control without confiscation: How Ghana can own the chain from pit to port, and turn raw exports into jobs",
+      "link": "https://www.myjoyonline.com/control-without-confiscation-how-ghana-can-own-the-chain-from-pit-to-port-and-turn-raw-exports-into-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T16:32:47.000Z",
+      "summary": "Ghana earned about 31 billion dollars from exports in 2025, a record, yet gold alone supplied 63.1 per cent of the total, up from 38.5 per cent in 2004, and gold, cocoa and oil together…",
+      "categories": [
+        "HP Opinion 2",
+        "Opinion",
+        "Dominic Senayah",
+        "Ghana",
+        "Jobs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mohamed bin Zayed Foundation commits US$135m to lifesaving care across Africa",
       "link": "https://www.myjoyonline.com/mohamed-bin-zayed-foundation-commits-us135m-to-lifesaving-care-across-africa/",
@@ -106,18 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Plastic filth: Solutions not beyond our control",
-      "link": "https://www.myjoyonline.com/plastic-filth-solutions-not-beyond-our-control/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:49:25.000Z",
-      "summary": "There is no denying that the Metropolitan, Municipal and District Assemblies (MMDAs) struggle to keep a lid on environmental filth that has engulfed our otherwise beautiful cities and towns.",
-      "categories": [
-        "Opinion",
-        "Plastic filth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Speaker Bagbin urges citizens to petition Parliament through MPs",
       "link": "https://www.graphic.com.gh/news/general-news/speaker-bagbin-urges-citizens-to-petition-parliament-through-mps.html",
       "source": "Daily Graphic",
@@ -127,38 +179,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Young people account for 27.5% of new HIV infections in Ghana – AIDS Healthcare Foundation warns",
-      "link": "https://www.myjoyonline.com/young-people-account-for-27-5-of-new-hiv-infections-in-ghana-aids-healthcare-foundation-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:27:28.000Z",
-      "summary": "Young people aged 15 to 24 account for 27.5 per cent of new HIV infections in Ghana, raising concerns among health professionals and advocates about gaps in prevention education and access…",
-      "categories": [
-        "Health",
-        "National",
-        "AIDS Healthcare foundation",
-        "HIV infections",
-        "Korle Bu Teaching Hospital"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tullow targets 10 new wells from 2027 after posting strong operational and financial performance",
-      "link": "https://www.myjoyonline.com/tullow-targets-10-new-wells-from-2027-after-posting-strong-operational-and-financial-performance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T15:18:35.000Z",
-      "summary": "According to the oil producing giant, it has already purchased an FPSO for the TEN oil drilling programme, which should be in place by the end of the first quarter of 2027 and will complete…",
-      "categories": [
-        "Business",
-        "Energy",
-        "FPSO",
-        "Ian Perks",
-        "Jubilee",
-        "TEN",
-        "Tullow"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
@@ -297,28 +317,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama reassigns GNPC CEO; appoints acting head, reconstitutes board",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-reassigns-gnpc-ceo-appoints-hamis-ussif-acting-head-reconstitutes-board.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T12:08:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "‘Dwiibaadwiibaa’ (Scabies): The itchy condition you should not ignore",
-      "link": "https://ghanaiantimes.com.gh/dwiibaadwiibaa-scabies-the-itchy-condition-you-should-not-ignore/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T08:56:16.000Z",
-      "summary": "ESI Mansa (not her real name) woke up that Thursday morning to find tiny, itchy rashes on her arm. The previous evening, a power outage had left her and others struggling with the heat. She…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
