@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:53:32.508Z",
+  "updated": "2026-11-26T07:03:33.301Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Law Reform Commission pushes for new trusts law",
+      "link": "https://ghanaiantimes.com.gh/law-reform-commission-pushes-for-new-trusts-law/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T07:00:50.000Z",
+      "summary": "The Law Reform Commission is working towards the enactment of a comprehensive Ghanaian law on trusts to strengthen accountability in the management of trust properties and prevent the abuse…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Colombia rescues hostages held at supermarket",
+      "link": "https://ghanaiantimes.com.gh/colombia-rescues-hostages-held-at-supermarket/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:56:57.000Z",
+      "summary": "Security forces have rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena, President Abelardo de la Espriella said early…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cameroon separatist leader pleads not guilty to war crimes charges",
+      "link": "https://ghanaiantimes.com.gh/cameroon-separatist-leader-pleads-not-guilty-to-war-crimes-charges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:54:53.000Z",
+      "summary": "Cameroonian separatist leader Lucas Cho Ayaba has pleaded not guilty in a Norwegian court to being an accessory to war crimes and “terrorism”, charges that carry a sentence of up to 30…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Zimbabwean jailed over attempt to join Russia’s war in Ukraine",
       "link": "https://ghanaiantimes.com.gh/zimbabwean-jailed-over-attempt-to-join-russias-war-in-ukraine/",
@@ -284,42 +318,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Family announces passing of veteran actor Pete Edochie at 79",
-      "link": "https://ghanaiantimes.com.gh/family-announces-passing-of-veteran-actor-pete-edochie-at-79/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:29:29.000Z",
-      "summary": "The family of veteran Nollywood actor, Chief Dr. Pete Edochie, has announced his passing. In a statement released on Wednesday, the family said the beloved actor passed on Wednesday…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "EOCO leads West and Central African delegation to Malaysia to tackle human trafficking",
-      "link": "https://ghanaiantimes.com.gh/eoco-leads-west-and-central-african-delegation-to-malaysia-to-tackle-human-trafficking/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:28:05.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) has led a delegation of law enforcement officials from 12 West and Central African countries to Kuala Lumpur, Malaysia, to explore ways of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bayern Munich hold talks with Musiala’s management ahead of Lille trip",
-      "link": "https://ghanaiantimes.com.gh/bayern-munich-hold-talks-with-musialas-management-ahead-of-lille-trip/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T13:26:19.000Z",
-      "summary": "FC Bayern Munich held constructive discussions with Jamal Musiala’s management on Tuesday, ahead of the team’s departure for Lille. The club confirmed that the player’s health remains the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
