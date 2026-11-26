@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T06:13:02.202Z",
+  "updated": "2026-11-26T06:23:02.388Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,18 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghanaian SMEs to benefit from G20-Compact investment initiative",
+      "link": "https://www.ghanabusinessnews.com/2026/11/26/ghanaian-smes-to-benefit-from-g20-compact-investment-initiative/",
+      "source": "Ghana Business News",
+      "published": "2026-11-26T06:19:03.000Z",
+      "summary": "Micro, Small and Medium-sized Enterprises (SMEs) in Ghana are expected to benefit from a new investment and business reform initiative being implemented under the G20 Compact with Africa…"
+    },
     {
       "title": "PBC workers face 2027 wait for over 20 months’ salary arrears",
       "link": "https://www.myjoyonline.com/pbc-workers-face-2027-wait-for-over-20-months-salary-arrears/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-23T06:44:13.000Z",
       "summary": "Ghana has moved closer to a single-digit lending rate regime following the Bank of Ghana's decision to reduce its policy rate from 14 per cent to 11 per cent, Professor Godfred Alufar…"
-    },
-    {
-      "title": "Ghana must mobilise more domestic capital to finance economic growth – Stanbic’s Kwamina Asomaning",
-      "link": "https://www.myjoyonline.com/ghana-must-mobilise-more-domestic-capital-to-finance-economic-growth-stanbics-kwamina-asomaning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T06:16:00.000Z",
-      "summary": "Ghana must strengthen its capacity to mobilise domestic capital to finance economic growth and reduce its exposure to external financial shocks, Kwamina Asomaning, President of the Ghana…"
     }
   ]
 };

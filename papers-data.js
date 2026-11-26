@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T06:13:33.265Z",
+  "updated": "2026-11-26T06:23:33.270Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GAF revives ‘Fire Blast’ shooting competition",
+      "link": "https://ghanaiantimes.com.gh/gaf-revives-fire-blast-shooting-competition/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T06:17:24.000Z",
+      "summary": "The Ghana Armed Forces (GAF) has revived its biennial inter-service shooting competition, Exercise Fire Blast, after an eight-year break to strengthen marksmanship, operational readiness…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DDEP bondholders have already sacrificed enough – Amin Adam kicks against early buyback offer",
+      "link": "https://www.myjoyonline.com/ddep-bondholders-have-already-sacrificed-enough-amin-adam-kicks-against-early-buyback-offer/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T06:15:00.000Z",
+      "summary": "Former Finance Minister Dr Mohammed Amin Adam says DDEP bondholders have already sacrificed enough towards addressing Ghana's economic challenges and must not be pushed into another deal…",
+      "categories": [
+        "National",
+        "Politics",
+        "Amin Adam",
+        "Ato Forson",
+        "Bond buyback",
+        "DDEP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Amin Adam questions Ato Forson over and transparency of bond buyback offer",
       "link": "https://www.myjoyonline.com/amin-adam-questions-ato-forson-over-and-transparency-of-bond-buyback-offer/",
@@ -117,22 +145,6 @@ window.GDC_PAPERS = {
         "Ada youth",
         "Poor roads",
         "sea erosion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petrol could drop to GH¢13 in December as fuel prices set for major decline – Energy expert",
-      "link": "https://www.myjoyonline.com/petrol-could-drop-to-gh%c2%a213-in-december-as-fuel-prices-set-for-major-decline-energy-expert/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T05:21:00.000Z",
-      "summary": "Energy expert Benjamin Nsiah projects that petroleum product prices could record one of their biggest declines in recent times, offering consumers some relief ahead of the Christmas…",
-      "categories": [
-        "Energy",
-        "HP Business 1",
-        "HP News 4",
-        "National",
-        "Benjamin Nsiah",
-        "Fuel Prices"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -302,17 +314,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-25T08:30:11.000Z",
       "summary": "THE Old Students Association of Abuakwa State College (Old Abuscodians Association) has inaugurated its newly elected executives to steer the affairs of the association. The executives are…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Crystal Heights wins 26 Pearson awards, records 12 global top scores",
-      "link": "https://ghanaiantimes.com.gh/crystal-heights-wins-26-pearson-awards-records-12-global-top-scores/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-25T08:28:40.000Z",
-      "summary": "CRYSTAL Heights International School has won 26 of the 34 awards presented at the 2026 Outstanding Pearson Learner Awards, with 12 of its students recording the highest scores in the world…",
       "categories": [
         "News"
       ],
