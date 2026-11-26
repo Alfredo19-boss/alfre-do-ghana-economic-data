@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T04:26:57.132Z",
+  "updated": "2026-11-26T04:43:32.729Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Heritage series: BoG must explain selection of personalities on new cedi notes – Walewale MP",
+      "link": "https://www.myjoyonline.com/heritage-series-bog-must-explain-selection-of-personalities-on-new-cedi-notes-walewale-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T04:33:42.000Z",
+      "summary": "The Minority in Parliament is demanding full disclosure of the cost and decision-making process behind the Bank of Ghana’s (BoG) newly introduced heritage series banknotes, insisting that…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "BoG failed to adequately consult Parliament on new cedi notes — Tiah Mahama",
       "link": "https://www.myjoyonline.com/bog-failed-to-adequately-consult-parliament-on-new-cedi-notes-tiah-mahama/",
@@ -52,6 +63,48 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "UK government set to publish new treaties agreed with EU",
+      "link": "https://www.myjoyonline.com/uk-government-set-to-publish-new-treaties-agreed-with-eu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:41:00.000Z",
+      "summary": "The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.",
+      "categories": [
+        "International",
+        "EU",
+        "UK"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Musk says every child in the US will get two SpaceX shares",
+      "link": "https://www.myjoyonline.com/musk-says-every-child-in-the-us-will-get-two-spacex-shares/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:28:00.000Z",
+      "summary": "CEO Elon Musk said on Wednesday in a post ​on X that every child in the ‌US would receive two shares, one from the company and one from him personally.",
+      "categories": [
+        "International",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG needs no parliamentary approval to upgrade currency – Dr Atuahene",
+      "link": "https://www.myjoyonline.com/bog-needs-no-parliamentary-approval-to-upgrade-currency-dr-atuahene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:22:00.000Z",
+      "summary": "Banking consultant Dr Richmond Atuahene has dismissed suggestions that the Bank of Ghana (BoG) requires parliamentary approval to upgrade the country’s currency.",
+      "categories": [
+        "Banking and Finance",
+        "HP News 1",
+        "National",
+        "Bank of Ghana (BoG)",
+        "Heritage Series",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
       "link": "https://www.myjoyonline.com/frustration-reigns-for-pochettino-in-chaotic-start-to-man-utd-job/",
       "source": "MyJoyOnline",
@@ -76,62 +129,6 @@ window.GDC_PAPERS = {
         "Anthony Gordon",
         "Barcelona",
         "Sabah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘All coming together’ – Isak repaying Liverpool faith",
-      "link": "https://www.myjoyonline.com/all-coming-together-isak-repaying-liverpool-faith/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:54:00.000Z",
-      "summary": "Liverpool fans have needed to be patient to see the best of Alexander Isak after an injury-hit start to his career, but the striker is now proving the wait has been worth it.",
-      "categories": [
-        "Football",
-        "Alexander Isak",
-        "Liverpool"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
-      "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:50:27.000Z",
-      "summary": "Ghana’s 2027 Budget promises to assess every New Economy project for value for money and report spending commitments transparently. The first test of that promise comes when a payment is…",
-      "categories": [
-        "Business",
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "Auditor General",
-        "DACF",
-        "Ministry of Finance",
-        "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
-      "link": "https://www.myjoyonline.com/angelina-jolie-and-brad-pitt-settle-legal-battle-over-french-winery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:46:05.000Z",
-      "summary": "Brad Pitt and Angelina Jolie have settled a long-running legal battle over her sale of a stake in their French vineyard, which unfolded amid a bitter divorce.",
-      "categories": [
-        "International",
-        "Movies",
-        "Angelina Jolie",
-        "Brad Pitt"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Raheem Sterling – from national icon to suspended jail sentence",
-      "link": "https://www.myjoyonline.com/raheem-sterling-from-national-icon-to-suspended-jail-sentence/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T01:44:00.000Z",
-      "summary": "Raheem Sterling grew up a stone's throw from Wembley Stadium, and went on to start a European Championship final for England there.",
-      "categories": [
-        "Football",
-        "Raheem Sterling"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-26T04:26:27.917Z",
+  "updated": "2026-11-26T04:43:02.069Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG needs no parliamentary approval to upgrade currency – Dr Atuahene",
+      "link": "https://www.myjoyonline.com/bog-needs-no-parliamentary-approval-to-upgrade-currency-dr-atuahene/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:22:00.000Z",
+      "summary": "Banking consultant Dr Richmond Atuahene has dismissed suggestions that the Bank of Ghana (BoG) requires parliamentary approval to upgrade the country’s currency."
+    },
     {
       "title": "US$10bn and the audit trail: Ghana’s New Economy needs auditors from the start, not the end",
       "link": "https://www.myjoyonline.com/us10bn-and-the-audit-trail-ghanas-new-economy-needs-auditors-from-the-start-not-the-end/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-23T04:43:00.000Z",
       "summary": "The Bank of Ghana (BoG) has called for a more targeted approach to improving cross-border payments in Africa, focusing on reducing costs and making transactions more reliable for businesses…"
-    },
-    {
-      "title": "BoG rate cut lowers banks’ borrowing costs, but tighter corridor could lift market rates",
-      "link": "https://www.myjoyonline.com/bog-rate-cut-lowers-banks-borrowing-costs-but-tighter-corridor-could-lift-market-rates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-23T04:22:00.000Z",
-      "summary": "Commercial banks will pay less to borrow overnight from the Bank of Ghana after its latest policy rate cut. However, a narrower policy corridor could push short-term market rates higher…"
     }
   ]
 };
