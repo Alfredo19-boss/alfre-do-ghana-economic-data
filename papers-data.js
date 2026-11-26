@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T04:43:32.729Z",
+  "updated": "2026-11-26T04:53:32.185Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -45,6 +45,19 @@ window.GDC_PAPERS = {
         "Cedi",
         "Heritage Series",
         "new notes"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BBC appeals against decision to allow Trump’s $10bn lawsuit to go ahead",
+      "link": "https://www.myjoyonline.com/bbc-appeals-against-decision-to-allow-trumps-10bn-lawsuit-to-go-ahead/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T02:49:00.000Z",
+      "summary": "The BBC has lodged an \"urgent\" appeal against a US judge's decision to let Donald Trump's $10bn (£7.6bn) lawsuit against the corporation proceed.",
+      "categories": [
+        "International",
+        "BBC",
+        "Donald Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -115,20 +128,6 @@ window.GDC_PAPERS = {
         "Sports",
         "Manchester",
         "Pochettino"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gordon scores twice as Barca ease past Sabah",
-      "link": "https://www.myjoyonline.com/gordon-scores-twice-as-barca-ease-past-sabah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T02:03:00.000Z",
-      "summary": "Anthony Gordon scored twice as Barcelona cruised to a Champions League victory over Sabah in Azerbaijan.",
-      "categories": [
-        "Football",
-        "Anthony Gordon",
-        "Barcelona",
-        "Sabah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
