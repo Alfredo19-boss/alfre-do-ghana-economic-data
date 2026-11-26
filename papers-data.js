@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T08:03:32.427Z",
+  "updated": "2026-11-26T08:13:32.663Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,40 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "FIFA World Cup play-offs: Black Queens can go all the way – Bjorkegren",
+      "link": "https://ghanaiantimes.com.gh/fifa-world-cup-play-offs-black-queens-can-go-all-the-way-bjorkegren/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:12:39.000Z",
+      "summary": "GHANA is still dreaming of a place at the FIFA Women’s World Cup 2027™. Although a 2-1 defeat by Malawi in the quarter-finals of the 2026 CAF Women’s Africa Cup of Nations in August ended…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Abagona Legacy Holdings to launch Lattice Energy in December",
+      "link": "https://ghanaiantimes.com.gh/abagona-legacy-holdings-to-launch-lattice-energy-in-december/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:07:01.000Z",
+      "summary": "Abagona Legacy Holdings, a Ghanaian business group, is set to expand its presence in the petroleum and energy sector with the launch of Lattice Energy Limited next month. The launch…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "BoG urges financial institutions to leverage digital data to bridge MSMEs’ credit gap",
+      "link": "https://ghanaiantimes.com.gh/bog-urges-financial-institutions-to-leverage-digital-data-to-bridge-msmes-credit-gap/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T08:06:04.000Z",
+      "summary": "The Bank of Ghana (BoG) has urged financial institutions, fintech companies and other players in the financial sector to leverage the growing adoption of digital financial services to…",
+      "categories": [
+        "Business",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Customs brokers urged to help close GH¢14.35bn revenue gap",
       "link": "https://ghanaiantimes.com.gh/customs-brokers-urged-to-help-close-gh%c2%a214-35bn-revenue-gap/",
@@ -124,18 +158,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Govt sets zero police fatalities target",
-      "link": "https://ghanaiantimes.com.gh/govt-sets-zero-police-fatalities-target/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:15:06.000Z",
-      "summary": "President of Ghana, John Dramani Mahama, has set zero police fatalities as the national target after deaths among officers in the line of duty fell from 20 in 2025 to nine so far this year…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "NPP Germany mobilisation dinner focuses on unity and 2028 election strategy",
       "link": "https://www.myjoyonline.com/npp-germany-mobilisation-dinner-focuses-on-unity-and-2028-election-strategy/",
       "source": "MyJoyOnline",
@@ -149,30 +171,6 @@ window.GDC_PAPERS = {
         "NPP Germany"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ICU petitions President to withdraw NPA Bill • Warns proposed law could undermine BOST’s financial independence",
-      "link": "https://ghanaiantimes.com.gh/icu-petitions-president-to-withdraw-npa-bill-warns-proposed-law-could-undermine-bosts-financial-independence/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:06:59.000Z",
-      "summary": "The Industrial and Commercial Workers’ Union (ICU), Ghana, has petitioned President John Dramani Mahama to withdraw the proposed National Petroleum Authority (NPA) Bill, 2026. It warned…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Law Reform Commission pushes for new trusts law",
-      "link": "https://ghanaiantimes.com.gh/law-reform-commission-pushes-for-new-trusts-law/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T07:00:50.000Z",
-      "summary": "The Law Reform Commission is working towards the enactment of a comprehensive Ghanaian law on trusts to strengthen accountability in the management of trust properties and prevent the abuse…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Do not ban — expand your facilities (Wisdom From The Akwapim Mountains — Episode 12 revisited)",
