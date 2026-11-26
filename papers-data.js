@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T16:44:02.070Z",
+  "updated": "2026-11-26T16:54:01.623Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GAPHTO urges vigilance against yellow fever, CSM outbreaks",
+      "link": "https://ghanaiantimes.com.gh/gaphto-urges-vigilance-against-yellow-fever-csm-outbreaks/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-26T16:45:06.000Z",
+      "summary": "The Ghana Association of Public Health Technical Officers (GAPHTO) has warned of heightened risks of yellow fever and cerebrospinal meningitis (CSM) as Ghana enters the dry season. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "US experts advocate source control to tackle mercury pollution",
       "link": "https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/",
@@ -278,18 +289,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-26T13:12:16.000Z",
       "summary": "The Kumasi Metropolitan Assembly (KMA) has directed traders and other occupants along the dedicated lanes of the Kejetia Redevelopment Project Phase II to vacate the affected areas…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPP demands evidence over viral video allegedly showing cash stashed in former appointee’s closet",
-      "link": "https://ghanaiantimes.com.gh/npp-demands-evidence-over-viral-video-allegedly-showing-cash-stashed-in-former-appointees-closet/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:10:45.000Z",
-      "summary": "The New Patriotic Party (NPP) has demanded evidence to support claims in a viral video allegedly showing bundles of GH¢200 notes found in the closet of a former government appointee. In a…",
       "categories": [
         "Hot!",
         "News"
