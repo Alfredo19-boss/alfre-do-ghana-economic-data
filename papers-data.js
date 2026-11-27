@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:45:00.333Z",
+  "updated": "2026-11-27T08:55:02.142Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -78,7 +78,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T08:19:27.000Z",
       "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
       "categories": [
-        "In Focus",
         "National",
         "Newspaper Front pages"
       ],
