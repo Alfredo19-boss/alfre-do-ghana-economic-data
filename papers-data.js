@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T00:29:30.991Z",
+  "updated": "2026-11-27T01:29:30.267Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Four injured as tanker, medicine truck and passenger vehicle crash on Fumesua-Ejisu Road",
+      "link": "https://www.myjoyonline.com/four-injured-as-tanker-medicine-truck-and-passenger-vehicle-crash-on-fumesua-ejisu-road/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T01:19:00.000Z",
+      "summary": "Four people have been injured in a three-vehicle collision involving a fuel tanker, a truck carrying medicines for Shalom Pharmacy Limited and a passenger Ford vehicle on the Fumesua-Ejisu…",
+      "categories": [
+        "National",
+        "News",
+        "Accident",
+        "Crash",
+        "tanker"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government pays GH¢12.9bn to DDEP bondholders ahead of 2027 maturity",
       "link": "https://www.myjoyonline.com/government-pays-gh%c2%a212-9bn-to-ddep-bondholders-ahead-of-2027-maturity/",
@@ -121,18 +136,6 @@ window.GDC_PAPERS = {
         "court",
         "Death",
         "father"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ASWAJ leaders from all 16 regions pledge allegiance to new Imam after leadership shake-up",
-      "link": "https://www.myjoyonline.com/aswaj-leaders-from-all-16-regions-pledge-allegiance-to-new-imam-after-leadership-shake-up/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:56:00.000Z",
-      "summary": "Leaders of Ahlussunna Wal Jama’a (ASWAJ) from all 16 regions of Ghana have pledged their allegiance to the newly appointed Interim National Imam, Sheikh Ibrahim Baasha Iddris, following a…",
-      "categories": [
-        "Regional",
-        "ASWAJ"
       ],
       "site": "https://www.myjoyonline.com/"
     },
