@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:39:31.301Z",
+  "updated": "2026-11-27T03:49:31.092Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,12 +24,26 @@ window.GDC_PAPERS = {
       "title": "Budget projections vulnerable to global and domestic shocks — Terkper",
       "link": "https://www.myjoyonline.com/budget-projections-vulnerable-to-global-and-domestic-shocks-terkper/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T03:32:02.000Z",
+      "published": "2026-11-27T03:43:02.000Z",
       "summary": "Former Finance Minister Seth Terkper has cautioned against judging government budget projections without considering the economic shocks that can undermine revenue and expenditure…",
       "categories": [
         "News",
         "Budget",
         "Economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
+      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:13:48.000Z",
+      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
+      "categories": [
+        "News",
+        "Budget",
+        "Debt",
+        "finance"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -44,20 +58,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Glorified destitute",
         "Kwame Sowu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
-      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:03:48.000Z",
-      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
-      "categories": [
-        "News",
-        "Budget",
-        "Debt",
-        "finance"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -103,32 +103,27 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Four injured as tanker, medicine truck and passenger vehicle crash on Fumesua-Ejisu Road",
-      "link": "https://www.myjoyonline.com/four-injured-as-tanker-medicine-truck-and-passenger-vehicle-crash-on-fumesua-ejisu-road/",
+      "title": "‘I’m going to drive’: FAA outage and high fares reshape Thanksgiving travel plans",
+      "link": "https://www.myjoyonline.com/im-going-to-drive-faa-outage-and-high-fares-reshape-thanksgiving-travel-plans/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T01:19:00.000Z",
-      "summary": "Four people have been injured in a three-vehicle collision involving a fuel tanker, a truck carrying medicines for Shalom Pharmacy Limited and a passenger Ford vehicle on the Fumesua-Ejisu…",
+      "published": "2026-11-27T01:55:00.000Z",
+      "summary": "Dinese Jackson couldn't ​stomach spending roughly $1,500 to fly herself and her two children from Raleigh, North Carolina, to Dallas, Texas, for Thanksgiving, more than double what she had…",
       "categories": [
-        "National",
-        "News",
-        "Accident",
-        "Crash",
-        "tanker"
+        "International",
+        "thanksgiving"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government pays GH¢12.9bn to DDEP bondholders ahead of 2027 maturity",
-      "link": "https://www.myjoyonline.com/government-pays-gh%c2%a212-9bn-to-ddep-bondholders-ahead-of-2027-maturity/",
+      "title": "Trump’s newest order curtailing birthright citizenship is blocked by second judge",
+      "link": "https://www.myjoyonline.com/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T00:21:00.000Z",
-      "summary": "The government has paid GH¢12.89 billion to investors who accepted its offer to cash out of bonds due in February 2027, bringing forward the settlement of nearly half of the outstanding…",
+      "published": "2026-11-27T01:44:00.000Z",
+      "summary": "A second US judge on Wednesday blocked enforcement of President Donald Trump's executive ​order limiting the number of people eligible for birthright citizenship, which Trump signed after…",
       "categories": [
-        "News",
-        "Bond",
-        "DDEP",
-        "finance",
-        "Government"
+        "International",
+        "birthright citizenship",
+        "Donald Trump"
       ],
       "site": "https://www.myjoyonline.com/"
     },
