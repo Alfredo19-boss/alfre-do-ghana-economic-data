@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T23:59:30.896Z",
+  "updated": "2026-11-27T00:19:30.796Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -58,7 +58,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-26T23:39:15.000Z",
       "summary": "In a significant move to strengthen Ghana's defenses against evolving security threats in West Africa, a three-day stakeholder engagement and public forum has been held to review the…",
       "categories": [
-        "News"
+        "News",
+        "Border",
+        "Terrorism"
       ],
       "site": "https://www.myjoyonline.com/"
     },
