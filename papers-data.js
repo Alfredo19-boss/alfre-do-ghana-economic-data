@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T19:24:13.041Z",
+  "updated": "2026-11-27T19:34:12.579Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Xavier-Sosu commends private sector, urges businesses to create more jobs",
+      "link": "https://www.myjoyonline.com/xavier-sosu-commends-private-sector-urges-businesses-to-create-more-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T19:29:12.000Z",
+      "summary": "The Member of Parliament for Madina, Francis-Xavier Sosu, has commended private sector businesses for their contributions to national development, urging them to expand their operations to…",
+      "categories": [
+        "National",
+        "Francis-Xavier Sosu",
+        "private sector",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s FLEGT success opens new doors for Timber Trade and Investment – Lands Minister",
       "link": "https://www.myjoyonline.com/ghanas-flegt-success-opens-new-doors-for-timber-trade-and-investment-lands-minister/",
@@ -111,20 +125,6 @@ window.GDC_PAPERS = {
         "News",
         "EPA",
         "minin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend’s murder",
-      "link": "https://www.myjoyonline.com/ex-kenyan-governor-jailed-for-25-years-over-pregnant-girlfriends-murder/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:24:40.000Z",
-      "summary": "A former Kenyan governor has been jailed for 25 years for the murder of a university student who was seven months pregnant with his child.",
-      "categories": [
-        "Africa",
-        "International",
-        "Ex-Kenyan governor",
-        "Zacharia Okoth Obado"
       ],
       "site": "https://www.myjoyonline.com/"
     },
