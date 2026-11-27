@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:59:31.212Z",
+  "updated": "2026-11-27T04:09:30.167Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -62,6 +62,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Past debt obligations complicate government’s spending decisions – Terkper",
+      "link": "https://www.myjoyonline.com/past-debt-obligations-complicate-governments-spending-decisions-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:15:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, says inherited debt obligations and economic uncertainties are complicating the government’s spending decisions amid concerns over…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Seth Terkepr"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
       "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
       "source": "MyJoyOnline",
@@ -90,6 +104,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Government cannot escape financial obligations of previous administration – Terkper",
+      "link": "https://www.myjoyonline.com/government-cannot-escape-financial-obligations-of-previous-administration-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:54:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, says the government cannot escape financial obligations inherited from previous administrations, even as ministries and agencies mount…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "Seth Terkper"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Selassie Ibrahim has revived hope in Ghana’s film industry with REFFA – KMJ",
       "link": "https://www.myjoyonline.com/selassie-ibrahim-has-revived-hope-in-ghanas-film-industry-with-reffa-kmj/",
       "source": "MyJoyOnline",
@@ -101,31 +129,6 @@ window.GDC_PAPERS = {
         "KMJ",
         "Regal Film Festival and Awards",
         "Selassie Ibrahim"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "link": "https://www.myjoyonline.com/two-italians-killed-in-strike-in-kuwait-as-iran-denies-responsibility/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T02:48:00.000Z",
-      "summary": "Two Italian nationals have died following a strike on a facility in Kuwait which both countries have blamed on Iran.",
-      "categories": [
-        "News",
-        "Italian"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Terkper revisits cocoa price controversy as economic pressures mount",
-      "link": "https://www.myjoyonline.com/terkper-revisits-cocoa-price-controversy-as-economic-pressures-mount/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T02:35:00.000Z",
-      "summary": "Seth Terkper, Presidential Advisor on the Economy, has revisited the controversy over cocoa producer prices, questioning the sector's apparent silence as economic pressures mount.",
-      "categories": [
-        "Economy",
-        "National",
-        "Seth Terkper"
       ],
       "site": "https://www.myjoyonline.com/"
     },

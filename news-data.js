@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T03:59:00.867Z",
+  "updated": "2026-11-27T04:08:59.259Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Past debt obligations complicate government’s spending decisions – Terkper",
+      "link": "https://www.myjoyonline.com/past-debt-obligations-complicate-governments-spending-decisions-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:15:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, says inherited debt obligations and economic uncertainties are complicating the government’s spending decisions amid concerns over…"
+    },
+    {
+      "title": "Government cannot escape financial obligations of previous administration – Terkper",
+      "link": "https://www.myjoyonline.com/government-cannot-escape-financial-obligations-of-previous-administration-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:54:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, says the government cannot escape financial obligations inherited from previous administrations, even as ministries and agencies mount…"
+    },
     {
       "title": "Terkper revisits cocoa price controversy as economic pressures mount",
       "link": "https://www.myjoyonline.com/terkper-revisits-cocoa-price-controversy-as-economic-pressures-mount/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T05:26:00.000Z",
       "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…"
-    },
-    {
-      "title": "Gold Fields eyes $7.5bn investment in Tarkwa Mine as lease expiry looms",
-      "link": "https://www.myjoyonline.com/gold-fields-eyes-7-5bn-investment-in-tarkwa-mine-as-lease-expiry-looms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:18:00.000Z",
-      "summary": "Gold Fields Ghana Limited is planning a $7.5 billion investment in its Tarkwa Mine over the next two decades as it seeks to renew its mining leases, which expire in April 2027."
-    },
-    {
-      "title": "More Hours, Same Inefficiencies: The Challenge Facing Ghana’s 24-Hour Economy",
-      "link": "https://thehighstreetjournal.com/more-hours-same-inefficiencies-the-challenge-facing-ghanas-24-hour-economy/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:05:00.000Z",
-      "summary": "Ghana’s 24-Hour Economy can boost production and jobs, but success depends on higher productivity, fair worker compensation, efficient operations and measurable economic gains."
     }
   ]
 };
