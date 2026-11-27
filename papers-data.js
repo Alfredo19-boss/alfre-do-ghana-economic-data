@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T21:24:12.334Z",
+  "updated": "2026-11-27T21:34:12.599Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,15 +21,74 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "CSOs reject five-year presidential term, demand changes to MMDCE election proposal",
+      "link": "https://www.myjoyonline.com/csos-reject-five-year-presidential-term-demand-changes-to-mmdce-election-proposal/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:27:59.000Z",
+      "summary": "Civil society organisations (CSOs) have rejected the proposed extension of Ghana’s presidential and parliamentary terms from four to five years, while demanding changes to government…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "5-year presidential term",
+        "CSOs",
+        "MMDCEs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "RON Foundation invests in digital education at Atwima Koforidua with modern ICT lab commissioning",
+      "link": "https://www.myjoyonline.com/ron-foundation-invests-in-digital-education-at-atwima-koforidua-with-modern-ict-lab-commissioning-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:26:21.000Z",
+      "summary": "A philanthropic organization, RON Foundation, has cut the sod for the construction of a modern Information and Communication Technology (ICT) laboratory at Atwima Koforidua in the Ashanti…",
+      "categories": [
+        "Regional",
+        "Atwima Koforidua",
+        "ICT Lab",
+        "RON Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production – Kuapa Kokoo MD",
+      "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:25:19.000Z",
+      "summary": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine…",
+      "categories": [
+        "National",
+        "Cocoa Production",
+        "Emmanuel Kwabena Arthur",
+        "Kuapa Kokoo MD"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "The Multimedia Group CEO Kwasi Twum honoured at UPSA FAF Eminent Achievement Awards",
       "link": "https://www.myjoyonline.com/the-multimedia-group-ceo-kwasi-twum-honoured-at-upsa-faf-eminent-achievement-awards/",
       "source": "MyJoyOnline",
       "published": "2026-11-27T21:18:31.000Z",
       "summary": "Founder of the Multimedia Group, Kwasi Twum, has been honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
       "categories": [
+        "HP News 3",
         "National",
         "Kwasi Twum",
         "The Multimedia Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO announces fact-finding mission with INTERPOL to QNET’s head office in Malaysia to combat ‘Model Q’ scams and human trafficking",
+      "link": "https://www.myjoyonline.com/eoco-announces-fact-finding-mission-with-interpol-to-qnets-head-office-in-malaysia-to-combat-model-q-scams-and-human-trafficking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:02:00.000Z",
+      "summary": "The Economic and Organised Crime Office in Ghana, has proactively conducted a fact-finding mission to the head office of QNET in Malaysia. QNET officials in Malaysia received the mission…",
+      "categories": [
+        "News",
+        "EOCO",
+        "Interpol",
+        "QNET"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -65,67 +124,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T20:43:50.000Z",
       "summary": "Chairman of the second edition of the FAF Eminent Achievement Awards, Nana Appiah Dankawoso II, has urged young people to prioritise learning, hard work and integrity over the pursuit of…",
       "categories": [
+        "HP News 7",
         "National",
         "FAF Eminent Achievement Awards",
         "Nana Appiah Dankawoso II"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No evidence of wrongdoing in Damang Mine acquisition, Ibrahim Mahama’s private jet use – CHRAJ",
-      "link": "https://www.myjoyonline.com/no-evidence-of-wrongdoing-in-damang-mine-acquisition-ibrahim-mahamas-private-jet-use-chraj/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T20:22:02.000Z",
-      "summary": "The Commission on Human Rights and Administrative Justice (CHRAJ) has dismissed a complaint alleging conflict of interest, corruption and abuse of power against President John Dramani…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "CHRAJ",
-        "Ibrahim Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Assafuah urges sustained scouting to nurture talent at Ashanti Schools Football Championship",
-      "link": "https://www.myjoyonline.com/assafuah-urges-sustained-scouting-to-nurture-talent-at-ashanti-schools-football-championship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T19:35:25.000Z",
-      "summary": "Ranking Member of Parliament’s Youth and Sports Committee, Vincent Ekow Assafuah, has urged the Ghana Football Association (GFA), local clubs and football scouts to establish structured…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Vincent Ekow Assafuah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haruna Iddrisu accuses NPP of abandoning principles for political convenience over early BECE ban",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-accuses-npp-of-abandoning-principles-for-political-convenience-over-early-bece-ban/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T19:31:04.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, has accused the New Patriotic Party (NPP) of abandoning its education policy principles for political convenience over the government's decision…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "BECE ban",
-        "Haruna Iddrisu",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Xavier-Sosu commends private sector, urges businesses to create more jobs",
-      "link": "https://www.myjoyonline.com/xavier-sosu-commends-private-sector-urges-businesses-to-create-more-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T19:29:12.000Z",
-      "summary": "The Member of Parliament for Madina, Francis-Xavier Sosu, has commended private sector businesses for their contributions to national development, urging them to expand their operations to…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Francis-Xavier Sosu",
-        "private sector",
-        "UPSA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
