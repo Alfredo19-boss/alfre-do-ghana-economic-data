@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T22:04:12.225Z",
+  "updated": "2026-11-27T22:44:12.526Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "New York City Mayor Zohran Mamdani undergoes surgery after a soccer injury",
+      "link": "https://www.myjoyonline.com/new-york-city-mayor-zohran-mamdani-undergoes-surgery-after-a-soccer-injury/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T22:16:53.000Z",
+      "summary": "The mayor of America’s largest city got benched on Friday.",
+      "categories": [
+        "International",
+        "New York",
+        "Zohran Mamdani"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Here are the activities planned for the 42nd National Farmers’ Day in Sunyani",
       "link": "https://www.myjoyonline.com/here-are-the-activities-planned-for-the-42nd-national-farmers-day-in-sunyani/",
       "source": "MyJoyOnline",
@@ -31,6 +44,18 @@ window.GDC_PAPERS = {
         "News",
         "Agric",
         "Farmer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wa East records 53 development projects, achieves 99.99% revenue target",
+      "link": "https://www.myjoyonline.com/wa-east-records-53-development-projects-achieves-99-99-revenue-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:32:51.000Z",
+      "summary": "The Wa East District Chief Executive (DCE), Adamu Sayibu, has reported significant progress in the district’s development agenda, with 53 projects initiated since June 2025, 35 of which…",
+      "categories": [
+        "Regional",
+        "Wa East DCE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -101,35 +126,6 @@ window.GDC_PAPERS = {
         "Top Story",
         "Kwasi Twum",
         "The Multimedia Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "December 4 declared public holiday for Farmers’ Day",
-      "link": "https://www.myjoyonline.com/december-4-declared-public-holiday-for-farmers-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:15:00.000Z",
-      "summary": "The government has formally designated Friday, December 4, 2026, as a statutory public holiday to commemorate this year’s National Farmers’ Day celebration.",
-      "categories": [
-        "HP News 2",
-        "News",
-        "Farmer",
-        "Ghana",
-        "Holiday"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO announces fact-finding mission with INTERPOL to QNET’s head office in Malaysia to combat ‘Model Q’ scams and human trafficking",
-      "link": "https://www.myjoyonline.com/eoco-announces-fact-finding-mission-with-interpol-to-qnets-head-office-in-malaysia-to-combat-model-q-scams-and-human-trafficking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:02:00.000Z",
-      "summary": "The Economic and Organised Crime Office in Ghana, has proactively conducted a fact-finding mission to the head office of QNET in Malaysia. QNET officials in Malaysia received the mission…",
-      "categories": [
-        "News",
-        "EOCO",
-        "Interpol",
-        "QNET"
       ],
       "site": "https://www.myjoyonline.com/"
     },
