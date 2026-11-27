@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T02:59:30.951Z",
+  "updated": "2026-11-27T03:09:30.945Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,6 +32,32 @@ window.GDC_PAPERS = {
         "KMJ",
         "Regal Film Festival and Awards",
         "Selassie Ibrahim"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "link": "https://www.myjoyonline.com/two-italians-killed-in-strike-in-kuwait-as-iran-denies-responsibility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:48:00.000Z",
+      "summary": "Two Italian nationals have died following a strike on a facility in Kuwait which both countries have blamed on Iran.",
+      "categories": [
+        "News",
+        "Italian"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky",
+      "link": "https://www.myjoyonline.com/us-too-focused-on-middle-east-and-not-pushing-russia-hard-enough-zelensky/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:08:00.000Z",
+      "summary": "Volodymyr Zelensky has voiced deep frustration with the US, saying that delays in delivering vital anti-ballistic missiles are costing Ukrainian lives and complaining that the US is not…",
+      "categories": [
+        "News",
+        "Russia",
+        "Ukraine",
+        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -106,36 +132,6 @@ window.GDC_PAPERS = {
         "News",
         "Border",
         "Terrorism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MDPI urges public and private institutions to prioritise staff training ahead of 2027",
-      "link": "https://www.myjoyonline.com/mdpi-urges-public-private-institutions-to-prioritise-staff-training-ahead-of-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:35:48.000Z",
-      "summary": "The Management Development and Productivity Institute (MDPI) is urging public and private sector institutions to prioritise staff training and capacity building as part of efforts to…",
-      "categories": [
-        "Business",
-        "Economy",
-        "MDPI",
-        "private",
-        "public",
-        "staff training"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIISDEC targets submission of iron and steel industry regulations to Parliament in three months",
-      "link": "https://www.myjoyonline.com/giisdec-targets-submission-of-iron-and-steel-industry-regulations-to-parliament-in-three-months/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:33:07.000Z",
-      "summary": "The Ghana Integrated Iron and Steel Development Corporation (GIISDEC) is targeting the submission of a proposed Legislative Instrument (LI) to Parliament within the next two to three months…",
-      "categories": [
-        "News",
-        "GIISDEC",
-        "Iron",
-        "steel industry"
       ],
       "site": "https://www.myjoyonline.com/"
     },
