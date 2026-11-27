@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T19:34:12.579Z",
+  "updated": "2026-11-27T19:44:12.055Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,42 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Assafuah urges sustained scouting to nurture talent at Ashanti Schools Football Championship",
+      "link": "https://www.myjoyonline.com/assafuah-urges-sustained-scouting-to-nurture-talent-at-ashanti-schools-football-championship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T19:35:25.000Z",
+      "summary": "Ranking Member of Parliament’s Youth and Sports Committee, Vincent Ekow Assafuah, has urged the Ghana Football Association (GFA), local clubs and football scouts to establish structured…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Vincent Ekow Assafuah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Haruna Iddrisu accuses NPP of abandoning principles for political convenience over early BECE ban",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-accuses-npp-of-abandoning-principles-for-political-convenience-over-early-bece-ban/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T19:31:04.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, has accused the New Patriotic Party (NPP) of abandoning its education policy principles for political convenience over the government's decision…",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "National",
+        "BECE ban",
+        "Haruna Iddrisu",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Xavier-Sosu commends private sector, urges businesses to create more jobs",
       "link": "https://www.myjoyonline.com/xavier-sosu-commends-private-sector-urges-businesses-to-create-more-jobs/",
       "source": "MyJoyOnline",
       "published": "2026-11-27T19:29:12.000Z",
       "summary": "The Member of Parliament for Madina, Francis-Xavier Sosu, has commended private sector businesses for their contributions to national development, urging them to expand their operations to…",
       "categories": [
+        "HP News 6",
         "National",
         "Francis-Xavier Sosu",
         "private sector",
@@ -99,32 +129,6 @@ window.GDC_PAPERS = {
         "Business",
         "National",
         "Central bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Krofuom market to be completed in 2027 as KMA hands over to new contractor",
-      "link": "https://www.myjoyonline.com/krofuom-market-to-be-completed-in-2027-as-kma-hands-over-to-new-contractor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:55:54.000Z",
-      "summary": "The Kumasi metropolitan assembly has set new timelines for the completion of the Krofuom market after handing over the abandoned project site to a new contractor.",
-      "categories": [
-        "Regional",
-        "KMA",
-        "Krofuom market"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GHEL, EPA turn to hydraulic dredging to tackle galamsey damage",
-      "link": "https://www.myjoyonline.com/ghel-epa-turn-to-hydraulic-dredging-to-tackle-galamsey-damage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:36:16.000Z",
-      "summary": "Ghana Heavy Equipment Limited (GHEL) and the Environmental Protection Authority (EPA) are exploring the use of hydraulic dredging technology to remove accumulated sediments from polluted…",
-      "categories": [
-        "News",
-        "EPA",
-        "minin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
