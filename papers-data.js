@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:55:02.917Z",
+  "updated": "2026-11-27T12:05:03.207Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank-JoyBusiness Financial Dialogue: Businesswomen advised to research market before exporting goods",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-businesswomen-advised-to-research-market-before-exporting-goods/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:02:05.000Z",
+      "summary": "Deputy Director at the Ghana Export Promotion Authority (GEPA), Dr Martin Akogti, has urged Ghanaian Small and Medium Enterprises (SMEs) to research specific markets before deciding to…",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 3",
+        "Ecobank-JoyBusiness",
+        "GEPA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama arrives in Barbados for 5-day state visit",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-barbados-for-5-day-state-visit.html",
@@ -41,7 +55,9 @@ window.GDC_PAPERS = {
         "Arts and Culture",
         "Events",
         "HP Entertainment 2",
+        "HP News 9",
         "Music",
+        "National",
         "Fameye",
         "Our day"
       ],
@@ -156,20 +172,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kwabena Nash calls for stronger music industry support in Takoradi",
-      "link": "https://www.myjoyonline.com/kwabena-nash-calls-for-stronger-music-industry-support-in-takoradi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:03:36.000Z",
-      "summary": "Afro-dancehall artiste Kwabena Nash has called for stronger industry structures and professional support to help emerging musicians in Takoradi grow",
-      "categories": [
-        "Music",
-        "Kwabena Nash",
-        "music industry",
-        "Takoradi"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NPP Nadowli-Kaleo Chairman explains why he took Akoko Nkitinkiti birds",

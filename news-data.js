@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T11:54:31.992Z",
+  "updated": "2026-11-27T12:04:32.781Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ecobank-JoyBusiness Financial Dialogue: Businesswomen advised to research market before exporting goods",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-businesswomen-advised-to-research-market-before-exporting-goods/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:02:05.000Z",
+      "summary": "Deputy Director at the Ghana Export Promotion Authority (GEPA), Dr Martin Akogti, has urged Ghanaian Small and Medium Enterprises (SMEs) to research specific markets before deciding to…"
+    },
+    {
+      "title": "District-Level Aquaculture Plans Could Unlock New Investment Opportunities Across Ghana",
+      "link": "https://thehighstreetjournal.com/district-level-aquaculture-plans-could-unlock-new-investment-opportunities-across-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T12:01:00.000Z",
+      "summary": "Proposed framework seeks to help district assemblies identify viable fisheries enterprises, attract investment, and expand local economic activity."
+    },
     {
       "title": "UBA Ghana appoints Christian Mottey as Head of Retail Banking",
       "link": "https://www.myjoyonline.com/uba-ghana-appoints-christian-mottey-as-head-of-retail-banking/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T13:59:31.000Z",
       "summary": "The bank says governments need better access to connected financing data showing how much donors commit and spend, which institutions receive the funds and where projects are implemented"
-    },
-    {
-      "title": "Ghana Reference Rate Could Fall Below 10% After BoG Rate Cut",
-      "link": "https://thehighstreetjournal.com/ghana-reference-rate-could-fall-below-10-after-bog-rate-cut/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T13:50:36.000Z",
-      "summary": "Ghana's banking industry expects the reference rate to fall below 10% following the central bank's latest policy cut, potentially easing borrowing costs for businesses and individuals."
-    },
-    {
-      "title": "Nissan Africa delegation commends Japan Motors’ investment in modern service facilities",
-      "link": "https://www.myjoyonline.com/nissan-africa-delegation-commends-japan-motors-investment-in-modern-service-facilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T13:22:00.000Z",
-      "summary": "A high-level delegation from Nissan Motor Corporation, led by its Managing Director for Africa, Mohammed Abdel Samad, visited Japan Motors Trading Company Ltd. (JMTC), toured the company's…"
     }
   ]
 };
