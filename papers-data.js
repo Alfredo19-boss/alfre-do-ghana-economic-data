@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:25:01.651Z",
+  "updated": "2026-11-27T08:35:01.611Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Civil servant slapped at Okaikwei North: CLOGSAG calls for police action as PA is suspended",
+      "link": "https://www.graphic.com.gh/news/general-news/civil-servant-slapped-at-okaikwei-north-clogsag-calls-for-police-action-as-pa-is-suspended.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T08:32:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "2026 CAF Awards: Chawinga sisters, Banda and Ngock headline final five for CAF Women’s Player of the Year",
       "link": "https://www.myjoyonline.com/2026-caf-awards-chawinga-sisters-banda-and-ngock-headline-final-five-for-caf-womens-player-of-the-year/",
       "source": "MyJoyOnline",
@@ -36,6 +47,18 @@ window.GDC_PAPERS = {
         "Temwa Chawinga"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, US experts to discuss disability inclusion at international confab",
+      "link": "https://ghanaiantimes.com.gh/ghana-us-experts-to-discuss-disability-inclusion-at-international-confab/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:21:00.000Z",
+      "summary": "More than 200 academics, researchers, educators, policymakers, parents, advocates and persons with disabilities from Ghana and the United States are expected to participate in an…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Nana Akuoko Sarpong goes home",
@@ -105,18 +128,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T08:12:55.000Z",
       "summary": "MORE than 100 women have received training in basic vehicle maintenance to help them deal with common car problems, improve road safety and take greater responsibility for their vehicles…",
       "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, US experts to discuss disability inclusion at international confab",
-      "link": "https://ghanaiantimes.com.gh/ghana-us-experts-to-discuss-disability-inclusion-at-international-confab/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:00:22.000Z",
-      "summary": "MORE than 200 academics, researchers, educators, policymakers, parents, advocates and persons with disabilities from Ghana and the United States are expected to participate in an…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
@@ -308,17 +319,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2027 Budget debate: Majority and Minority clash over cocaine record and economic realities",
-      "link": "https://www.graphic.com.gh/news/politics/2027-budget-debate-majority-and-minority-clash-over-cocaine-record-and-economic-realities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T18:06:40.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
     }
