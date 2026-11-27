@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T07:04:31.619Z",
+  "updated": "2026-11-27T07:14:30.678Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,25 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "SSNIT urges workers to update beneficiary records to prevent survivor benefit delays",
+      "link": "https://www.ghanabusinessnews.com/2026/11/27/ssnit-urges-workers-to-update-beneficiary-records-to-prevent-survivor-benefit-delays/",
+      "source": "Ghana Business News",
+      "published": "2026-11-27T07:06:20.000Z",
+      "summary": "Mr Frank Molbila, General Manager of Benefits at the Social Security and National Insurance Trust (SSNIT), has urged workers to regularly update their nominated beneficiaries to prevent…"
+    },
+    {
+      "title": "How digital entertainment is changing the way people spend their leisure time",
+      "link": "https://www.myjoyonline.com/how-digital-entertainment-is-changing-the-way-people-spend-their-leisure-time/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T07:01:38.000Z",
+      "summary": "The way people spend their free time has undergone a fundamental transformation over the past decade. Where leisure once meant gathering around a family television set, attending live…"
+    },
     {
       "title": "Fix your networks before Christmas, Sam George tells telcos",
       "link": "https://www.myjoyonline.com/fix-your-networks-before-christmas-sam-george-tells-telcos/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T10:40:02.000Z",
       "summary": "PFAG has welcomed government's US$1 billion Pwalugu Dam allocation, describing it as vital for irrigation, food security and climate resilience, while demanding stakeholder participation…"
-    },
-    {
-      "title": "GABS 2026: Ghana develops Business Regulatory Reform Bill to attract more investment – Trade Minister",
-      "link": "https://www.myjoyonline.com/gabs-2026-ghana-develops-business-regulatory-reform-bill-to-attract-more-investment-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T10:01:57.000Z",
-      "summary": "Ghana’s Ministry of Trade, Agribusiness and Industry has developed a proposed Business Regulatory Reform Bill aimed at reducing regulatory bottlenecks and making it easier for businesses to…"
-    },
-    {
-      "title": "CIB Ghana celebrates 30th banking conference, eyes global banking summit in 2028",
-      "link": "https://www.myjoyonline.com/cib-ghana-celebrates-30th-banking-conference-eyes-global-banking-summit-in-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T09:01:22.000Z",
-      "summary": "Chartered Institute of Bankers, Ghana (CIB Ghana) has called for stronger professional and ethical standards across the banking industry as artificial intelligence (AI), virtual assets and…"
     }
   ]
 };

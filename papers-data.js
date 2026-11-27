@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T07:05:02.520Z",
+  "updated": "2026-11-27T07:15:01.224Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "1 dead, 5 soldiers injured in Circle demolition clash",
+      "link": "https://ghanaiantimes.com.gh/1-dead-5-soldiers-injured-in-circle-demolition-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:10:00.000Z",
+      "summary": "ONE person was killed and five military personnel injured yesterday when a demolition exercise along the railway corridor near the Kwame Nkrumah Interchange in Accra descended into…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tema industrial park to create 14,000 jobs — TDC boss",
+      "link": "https://ghanaiantimes.com.gh/tema-industrial-park-to-create-14000-jobs-tdc-boss/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:09:23.000Z",
+      "summary": "THE Tema Integrated Industrial Park (TIIP) is expected to create at least 4,000 direct jobs and 10,000 indirect employment opportunities, with developers promising to prioritise residents…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "MP moves to improve okada safety in Agortime-Ziope",
       "link": "https://ghanaiantimes.com.gh/mp-moves-to-improve-okada-safety-in-agortime-ziope/",
@@ -102,29 +126,6 @@ window.GDC_PAPERS = {
       "summary": "GHANA is on the verge of doing for Apio what Scotland did for Scotch Whisky and what France did for Cognac. Across the world, some of the most successful products are not simply…",
       "categories": [
         "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "5 Mexicans arrested in Nigeria over $200m meth seizure",
-      "link": "https://ghanaiantimes.com.gh/5-mexicans-arrested-in-nigeria-over-200m-meth-seizure/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:38:59.000Z",
-      "summary": "NIGERIA’S anti-drug agency said on Wednesday it had seized methamphetamine valued at $227 million and arrested five Mexican nationals in the southeastern state of Enugu. The drug haul is…",
-      "categories": [
-        "Africa",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kenyan cult leader serving 200-year murder sentence convicted of new charges",
-      "link": "https://ghanaiantimes.com.gh/kenyan-cult-leader-serving-200-year-murder-sentence-convicted-of-new-charges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:35:58.000Z",
-      "summary": "KENYAN cult leader Paul Mackenzie, serving a 200-year sentence for murdering nearly 200 children who were starved to death on his orders, was on Wednesday convicted of new charges…",
-      "categories": [
-        "Africa"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
