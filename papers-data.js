@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:19:30.339Z",
+  "updated": "2026-11-27T03:29:30.656Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
+      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:24:48.000Z",
+      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
+      "categories": [
+        "News",
+        "Budget",
+        "Debt",
+        "finance"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Glorified Destitute: How vanity is bankrupting a generation",
       "link": "https://www.myjoyonline.com/the-glorified-destitute-how-vanity-is-bankrupting-a-generation/",
@@ -118,21 +132,6 @@ window.GDC_PAPERS = {
         "Bicycles",
         "Cars",
         "fossil fuels"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Youth run through Airport Residential Area to map Accra’s polluted air",
-      "link": "https://www.myjoyonline.com/youth-run-through-airport-residential-area-to-map-accras-polluted-air/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:45:20.000Z",
-      "summary": "A youth-led run through Accra’s Airport Residential Area has recorded elevated levels of fine particulate matter, with average PM2.5 concentrations more than three times the World Health…",
-      "categories": [
-        "Health",
-        "National",
-        "Airport residential area",
-        "polluted air",
-        "Youth"
       ],
       "site": "https://www.myjoyonline.com/"
     },
