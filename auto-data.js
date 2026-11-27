@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-27T17:20:56.039Z",
+  "updated": "2026-11-27T17:28:47.991Z",
   "values": {
     "fx.usd": {
       "value": 11.84,
@@ -31,7 +31,7 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 5488,
+      "value": 5480,
       "date": "2026-11-27",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
@@ -436,7 +436,7 @@ window.GDC_AUTO = {
       },
       {
         "date": "2026-11-27",
-        "value": 5488
+        "value": 5480
       }
     ]
   },
@@ -690,6 +690,14 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-11-27T17:28:47.991Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
+    {
       "at": "2026-11-27T17:20:56.039Z",
       "messages": [
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -800,16 +808,6 @@ window.GDC_AUTO = {
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
         "cocoa: ok",
-        "kept newer cocoa.usdPerTonne from 2026-11-25"
-      ]
-    },
-    {
-      "at": "2026-11-26T17:44:28.660Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok",
-        "kept newer gold.usdPerOz from 2026-11-26",
         "kept newer cocoa.usdPerTonne from 2026-11-25"
       ]
     }
