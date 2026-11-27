@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T00:19:30.796Z",
+  "updated": "2026-11-27T00:29:30.991Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government pays GH¢12.9bn to DDEP bondholders ahead of 2027 maturity",
+      "link": "https://www.myjoyonline.com/government-pays-gh%c2%a212-9bn-to-ddep-bondholders-ahead-of-2027-maturity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T00:21:00.000Z",
+      "summary": "The government has paid GH¢12.89 billion to investors who accepted its offer to cash out of bonds due in February 2027, bringing forward the settlement of nearly half of the outstanding…",
+      "categories": [
+        "News",
+        "Bond",
+        "DDEP",
+        "finance",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Youth groups take over Accra streets to show life beyond cars using fossil fuels",
       "link": "https://www.myjoyonline.com/youth-groups-take-over-accra-streets-to-show-life-beyond-cars-using-fossil-fuels/",
@@ -118,19 +133,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Regional",
         "ASWAJ"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana Foundation backs 160 entrepreneurs in push to tackle unemployment",
-      "link": "https://www.myjoyonline.com/mtn-ghana-foundation-backs-160-entrepreneurs-in-push-to-tackle-unemployment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:45:00.000Z",
-      "summary": "The MTN Ghana Foundation, in partnership with the Innohub Foundation, is providing financial and technical support to 160 entrepreneurs across the Bono, Bono East and Ahafo regions to grow…",
-      "categories": [
-        "National",
-        "MTN Ghana Foundation",
-        "Unemployment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
