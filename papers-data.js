@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T21:04:12.439Z",
+  "updated": "2026-11-27T21:14:12.584Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Reinna releases new single, ‘Turn My Back’",
+      "link": "https://www.myjoyonline.com/reinna-releases-new-single-turn-my-back/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:00:29.000Z",
+      "summary": "Ghanaian emerging artiste Reinna has released her latest single, ‘Turn My Back’, a song inspired by resilience and the determination to overcome life’s challenges",
+      "categories": [
+        "Music"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Stonebwoy releases ‘Marry You’ ahead of ‘TORCHER III’ album",
       "link": "https://www.myjoyonline.com/stonebwoy-releases-marry-you-ahead-of-torcher-iii-album/",
@@ -116,20 +127,6 @@ window.GDC_PAPERS = {
         "FLEGT",
         "Lands Minister",
         "Timber"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Livestream: UPSA’s FAF Eminent Achievement Awards underway",
-      "link": "https://www.myjoyonline.com/livestream-upsas-faf-eminent-achievement-awards-underway/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T18:46:59.000Z",
-      "summary": "The Faculty of Accounting and Finance (FAF) Eminent Achievement Awards is underway at the University of Professional Studies, Accra (UPSA).",
-      "categories": [
-        "HP News 1",
-        "National",
-        "FAF Eminent Achievement Awards",
-        "UPSA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
