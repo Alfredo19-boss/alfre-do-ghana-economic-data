@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T07:25:01.659Z",
+  "updated": "2026-11-27T07:45:00.954Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Africa-Europe partnerships must move beyond aid to economic transformation – Potsdam Africa Dialogues",
+      "link": "https://www.myjoyonline.com/africa-europe-partnerships-must-move-beyond-aid-to-economic-transformation-potsdam-africa-dialogues/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T07:42:03.000Z",
+      "summary": "African countries and their international development partners have been urged to rethink the nature of their cooperation, with greater emphasis on economic transformation, local value…",
+      "categories": [
+        "International",
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Keta youth demand arrest of Assembly engineer • Protest alleged assault on Abutiakope Assembly Member",
+      "link": "https://ghanaiantimes.com.gh/keta-youth-demand-arrest-of-assembly-engineer-protest-alleged-assault-on-abutiakope-assembly-member/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:41:49.000Z",
+      "summary": "RESIDENTS of the Abutiakope Electoral Area in the Keta Municipality of the Volta Region have staged a peaceful demonstration to demand justice for their Assembly Member, Mr Promise Kofi…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Pres Mahama hands over 3 new aircraft to Air Force",
+      "link": "https://ghanaiantimes.com.gh/pres-mahama-hands-over-3-new-aircraft-to-air-force/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:36:42.000Z",
+      "summary": "PRESIDENT John Dramani Mahama yesterday handed over three newly acquired aircraft to the Ghana Air Force as part of efforts to modernise the Ghana Armed Forces and strengthen the country’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Chainsaw operators plunge 2 regions into darkness • Felled tree damages GRIDCo’s 330kV transmission line",
       "link": "https://ghanaiantimes.com.gh/chainsaw-operators-plunge-2-regions-into-darkness-felled-tree-damages-gridcos-330kv-transmission-line/",
@@ -107,30 +143,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Communal disputes, drug abuse threaten Upper East peace – Minister",
-      "link": "https://ghanaiantimes.com.gh/communal-disputes-drug-abuse-threaten-upper-east-peace-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:57:20.000Z",
-      "summary": "THE Upper East Regional Minister, Mr Donatus Atanga Akamugri, has identified communal disputes, mining tensions, drug abuse and organised crime as security threats that require a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Powered by Africa targets $100m diaspora investment fund",
-      "link": "https://ghanaiantimes.com.gh/powered-by-africa-targets-100m-diaspora-investment-fund/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:52:51.000Z",
-      "summary": "A new international platform aimed at connecting Africa’s infrastructure and economic opportunities with global capital, diaspora investment and expertise has been established in Accra…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Mahama honoured at World CEO Summit in Tanzania",
       "link": "https://www.myjoyonline.com/mahama-honoured-at-world-ceo-summit-in-tanzania/",
       "source": "MyJoyOnline",
@@ -213,20 +225,6 @@ window.GDC_PAPERS = {
         "National",
         "Kwame Governs Agbodza",
         "Roads and Highways Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Firefighters retrieve man’s body from well in Volta Region",
-      "link": "https://www.myjoyonline.com/firefighters-retrieve-mans-body-from-well-in-volta-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T05:23:17.000Z",
-      "summary": "Residents of Avenorpedo in the Akatsi Municipality of the Volta Region have been left with unanswered questions after the body of an adult man was found in a well in the community.",
-      "categories": [
-        "HP News 3",
-        "News",
-        "Fire",
-        "well"
       ],
       "site": "https://www.myjoyonline.com/"
     },
