@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T03:29:00.075Z",
+  "updated": "2026-11-27T03:39:00.366Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,11 +22,25 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "Falling cocoa prices: Terkper questions silence after last year’s fierce debate",
+      "link": "https://www.myjoyonline.com/falling-cocoa-prices-terkper-questions-silence-after-last-years-fierce-debate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:54:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, has questioned the apparent silence on falling cocoa prices after last year's intense public debate over payments to cocoa farmers during…"
+    },
+    {
       "title": "MDPI urges public and private institutions to prioritise staff training ahead of 2027",
       "link": "https://www.myjoyonline.com/mdpi-urges-public-private-institutions-to-prioritise-staff-training-ahead-of-2027/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T23:35:48.000Z",
       "summary": "The Management Development and Productivity Institute (MDPI) is urging public and private sector institutions to prioritise staff training and capacity building as part of efforts to…"
+    },
+    {
+      "title": "Budget cuts: Terkper explains why government cannot meet every ministry’s demands",
+      "link": "https://www.myjoyonline.com/budget-cuts-terkper-explains-why-government-cannot-meet-every-ministrys-demands/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:33:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, has explained why government cannot meet the budgetary demands of every ministry and agency, pointing to unpredictable revenue flows and…"
     },
     {
       "title": "Ghana Publishing Company forgoes 2025 dividend payment despite recording GH¢16.9m profit, opts to reinvest profits",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T05:02:00.000Z",
       "summary": "GNCCI says private sector investment will be crucial to sustaining Ghana's economic recovery, urging businesses to convert improved macroeconomic stability into production, jobs, exports…"
-    },
-    {
-      "title": "Ghana’s Climate Leadership Must Translate into Domestic Energy Reforms—NRGI",
-      "link": "https://thehighstreetjournal.com/ghanas-climate-leadership-must-translate-into-domestic-energy-reforms-nrgi/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:01:00.000Z",
-      "summary": "NRGI says Ghana must reduce oil revenue dependence, redefine GNPC’s role and ensure its climate leadership delivers affordable energy, jobs and cleaner air."
-    },
-    {
-      "title": "Newmont’s Ghana Spending Tops US$1bn as Company Retains Top Corporate Ranking",
-      "link": "https://thehighstreetjournal.com/newmonts-ghana-spending-tops-us1bn-as-company-retains-top-corporate-ranking/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:00:00.000Z",
-      "summary": "Newmont contributed over US$1 billion in taxes and royalties and spent US$900 million on procurement, reinforcing its economic footprint in Ghana."
     }
   ]
 };

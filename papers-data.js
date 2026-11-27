@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:29:30.656Z",
+  "updated": "2026-11-27T03:39:31.301Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,16 +21,15 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
-      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
+      "title": "Budget projections vulnerable to global and domestic shocks — Terkper",
+      "link": "https://www.myjoyonline.com/budget-projections-vulnerable-to-global-and-domestic-shocks-terkper/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T03:24:48.000Z",
-      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
+      "published": "2026-11-27T03:32:02.000Z",
+      "summary": "Former Finance Minister Seth Terkper has cautioned against judging government budget projections without considering the economic shocks that can undermine revenue and expenditure…",
       "categories": [
         "News",
         "Budget",
-        "Debt",
-        "finance"
+        "Economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -45,6 +44,20 @@ window.GDC_PAPERS = {
         "Opinion",
         "Glorified destitute",
         "Kwame Sowu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
+      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:03:48.000Z",
+      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
+      "categories": [
+        "News",
+        "Budget",
+        "Debt",
+        "finance"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -116,22 +129,6 @@ window.GDC_PAPERS = {
         "DDEP",
         "finance",
         "Government"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Youth groups take over Accra streets to show life beyond cars using fossil fuels",
-      "link": "https://www.myjoyonline.com/youth-groups-take-over-accra-streets-to-show-life-beyond-cars-using-fossil-fuels/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:52:35.000Z",
-      "summary": "Youth-led mobility groups are calling for Accra's streets to be redesigned for people and not just cars. They have been closing sections of road to traffic and handing them over to walkers…",
-      "categories": [
-        "Health",
-        "National",
-        "Accra streets",
-        "Bicycles",
-        "Cars",
-        "fossil fuels"
       ],
       "site": "https://www.myjoyonline.com/"
     },
