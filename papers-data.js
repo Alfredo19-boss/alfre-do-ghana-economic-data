@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T07:45:00.954Z",
+  "updated": "2026-11-27T07:55:00.803Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
+      "link": "https://www.graphic.com.gh/news/general-news/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:53:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UCC students urged to prepare for demands of communications industry",
+      "link": "https://ghanaiantimes.com.gh/ucc-students-urged-to-prepare-for-demands-of-communications-industry/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:52:58.000Z",
+      "summary": "FINAL-YEAR Communication Studies students of the University of Cape Coast (UCC) have been urged to complement their academic training with hard work, professional discipline and practical…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Africa-Europe partnerships must move beyond aid to economic transformation – Potsdam Africa Dialogues",
       "link": "https://www.myjoyonline.com/africa-europe-partnerships-must-move-beyond-aid-to-economic-transformation-potsdam-africa-dialogues/",
       "source": "MyJoyOnline",
@@ -28,7 +51,10 @@ window.GDC_PAPERS = {
       "summary": "African countries and their international development partners have been urged to rethink the nature of their cooperation, with greater emphasis on economic transformation, local value…",
       "categories": [
         "International",
-        "National"
+        "National",
+        "Africa-Europe",
+        "Potsdam Africa Dialogues",
+        "Ramana Shareef"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -130,17 +156,6 @@ window.GDC_PAPERS = {
         "digital entertainment"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Old Abuscodians reward best WASSCE student",
-      "link": "https://ghanaiantimes.com.gh/old-abuscodians-reward-best-wassce-student/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:01:36.000Z",
-      "summary": "THE United States of America (USA) Chapter of the 1992 Year Group of the Old Abuscodians Association has donated $1,000 to Antoinette Naadu Lartey, the best graduating student in the 2025…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Mahama honoured at World CEO Summit in Tanzania",
@@ -299,17 +314,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/sir-sam-jonah-to-receive-okyeman-kanea-kesee-award-in-kyebi.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T17:41:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NSA scandal: Police trace GH¢30.7m funds to Gifty Oware-Mensah’s company",
-      "link": "https://www.graphic.com.gh/news/general-news/nsa-scandal-police-trace-ghc30-7m-funds-to-gifty-oware-mensahs-company.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T17:39:07.000Z",
       "summary": "",
       "categories": [
         "General News"
