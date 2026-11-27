@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T09:15:01.408Z",
+  "updated": "2026-11-27T09:25:01.372Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GETFund supports Ho West schools with educational materials",
+      "link": "https://ghanaiantimes.com.gh/getfund-supports-ho-west-schools-with-educational-materials/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T09:19:55.000Z",
+      "summary": "THE Ghana Education Trust Fund (GETFund), through its Education Financing and Partnership Initiative (EFPI), has donated a consignment of educational materials to the Ho West District…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Our target is to win the FA Cup’ — Kotoko boss Stanley Menzo",
+      "link": "https://www.myjoyonline.com/our-target-is-to-win-the-fa-cup-kotoko-boss-stanley-menzo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T09:19:26.000Z",
+      "summary": "The Porcupine Warriors come up against Adom FC in the round of 64 of the cup competition on Friday afternoon, hoping to get back to winning ways.",
+      "categories": [
+        "Football",
+        "Asante Kotoko",
+        "MTN FA Cup",
+        "Stanley Menzo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gender Ministry launches 16 Days campaign against violence",
       "link": "https://ghanaiantimes.com.gh/gender-ministry-launches-16-days-campaign-against-violence/",
@@ -193,18 +219,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Keta youth demand arrest of Assembly engineer • Protest alleged assault on Abutiakope Assembly Member",
-      "link": "https://ghanaiantimes.com.gh/keta-youth-demand-arrest-of-assembly-engineer-protest-alleged-assault-on-abutiakope-assembly-member/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:41:49.000Z",
-      "summary": "RESIDENTS of the Abutiakope Electoral Area in the Keta Municipality of the Volta Region have staged a peaceful demonstration to demand justice for their Assembly Member, Mr Promise Kofi…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "GROWING Project records 23.3% improvement in women’s empowerment in northern Ghana",
       "link": "https://www.myjoyonline.com/growing-project-records-23-3-improvement-in-womens-empowerment-in-northern-ghana/",
       "source": "MyJoyOnline",
@@ -254,25 +268,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Women’s Development Bank or microfinance institution? Recruitment advert raises questions",
-      "link": "https://www.myjoyonline.com/womens-development-bank-or-microfinance-institution-recruitment-advert-raises-questions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T06:21:24.000Z",
-      "summary": "The government has begun recruitment for the institution it calls the Women’s Development Bank, but the official recruitment advert in the Daily Graphic describes it as a microfinance…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Opinion",
-        "Ato Forson",
-        "Felix Kwakye Ofosu",
-        "Microfinance",
-        "Naana Jane Opoku-Agyeman",
-        "NDC",
-        "women's development bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
