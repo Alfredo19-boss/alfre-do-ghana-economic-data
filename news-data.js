@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T17:23:44.138Z",
+  "updated": "2026-11-27T17:33:42.571Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Financial system must work effectively and beneficially for women – BoG Director of Research",
+      "link": "https://www.myjoyonline.com/financial-system-must-work-effectively-and-beneficially-for-women-bog-director-of-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:21:31.000Z",
+      "summary": "The Director of the Research Department at the Bank of Ghana (BoG), Philip Abradu-Otoo, has called for a financial system that delivers meaningful benefits to women, particularly women-led…"
+    },
     {
       "title": "BoG new policy rate leaves policy floor unchanged – IC Insights",
       "link": "https://www.myjoyonline.com/bog-new-policy-rate-leaves-policy-floor-unchanged-ic-insights/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T01:23:51.000Z",
       "summary": "The budget answers this test directly. The US$10 billion New Economy programme will run from 2027 to 2030, supported by lowering the primary surplus target by one percentage point of GDP…"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.myjoyonline.com/huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T21:38:00.000Z",
-      "summary": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US, AP…"
     }
   ]
 };

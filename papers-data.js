@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T17:24:12.097Z",
+  "updated": "2026-11-27T17:34:12.565Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend’s murder",
+      "link": "https://www.myjoyonline.com/ex-kenyan-governor-jailed-for-25-years-over-pregnant-girlfriends-murder/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:24:40.000Z",
+      "summary": "A former Kenyan governor has been jailed for 25 years for the murder of a university student who was seven months pregnant with his child.",
+      "categories": [
+        "Africa",
+        "International",
+        "Ex-Kenyan governor",
+        "Zacharia Okoth Obado"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Financial system must work effectively and beneficially for women – BoG Director of Research",
+      "link": "https://www.myjoyonline.com/financial-system-must-work-effectively-and-beneficially-for-women-bog-director-of-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:21:31.000Z",
+      "summary": "The Director of the Research Department at the Bank of Ghana (BoG), Philip Abradu-Otoo, has called for a financial system that delivers meaningful benefits to women, particularly women-led…",
+      "categories": [
+        "Business",
+        "National",
+        "BoG Director of Research",
+        "Financial system"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
       "link": "https://www.myjoyonline.com/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line/",
@@ -67,7 +95,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T17:14:19.000Z",
       "summary": "The Electricity Company of Ghana (ECG) has attributed a power outage affecting several communities in the Tema Region to a fault in its distribution network, assuring affected customers…",
       "categories": [
-        "News",
+        "National",
         "ECG",
         "Tema"
       ],
@@ -96,31 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "Members of Parliament (MPs)",
         "Patrick Boamah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afigya Sekyere East needs better healthcare, jobs and education – MP aspirant",
-      "link": "https://www.myjoyonline.com/afigya-sekyere-east-needs-better-healthcare-jobs-and-education-mp-aspirant/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:13:10.000Z",
-      "summary": "Private legal practitioner and aspiring Member of Parliament for Afigya Sekyere East, Barima Sarpong, has pledged to prioritise improvements in healthcare, education and employment…",
-      "categories": [
-        "Regional",
-        "Afigya Sekyere East",
-        "Barima Sarpong"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Consumer Protection Agency CEO Kofi Kapito passes away in the US",
-      "link": "https://www.myjoyonline.com/consumer-protection-agency-ceo-kofi-kapito-passes-away-in-the-us/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:09:20.000Z",
-      "summary": "Chief Executive Officer of Ghana’s Consumer Protection Agency (CPA), Kofi Kapito, has died. Family sources have confirmed to MyJoyOnline that Mr Kapito had been ill for the past few months…",
-      "categories": [
-        "HP News 1",
-        "National"
       ],
       "site": "https://www.myjoyonline.com/"
     },
