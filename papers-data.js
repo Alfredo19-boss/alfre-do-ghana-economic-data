@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T06:55:00.831Z",
+  "updated": "2026-11-27T07:05:02.520Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MP moves to improve okada safety in Agortime-Ziope",
+      "link": "https://ghanaiantimes.com.gh/mp-moves-to-improve-okada-safety-in-agortime-ziope/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:04:46.000Z",
+      "summary": "THE Member of Parliament (MP) for Agortime-Ziope Constituency, Mr Charles Agbeve, has acquired commercial motor riding licences for 39 riders in the area at a cost of GH₵48,000. The move…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "How digital entertainment is changing the way people spend their leisure time",
+      "link": "https://www.myjoyonline.com/how-digital-entertainment-is-changing-the-way-people-spend-their-leisure-time/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T07:01:38.000Z",
+      "summary": "The way people spend their free time has undergone a fundamental transformation over the past decade. Where leisure once meant gathering around a family television set, attending live…",
+      "categories": [
+        "Arts and Culture",
+        "Lifestyle",
+        "Movies",
+        "Radio & TV",
+        "Technology",
+        "digital entertainment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Old Abuscodians reward best WASSCE student",
+      "link": "https://ghanaiantimes.com.gh/old-abuscodians-reward-best-wassce-student/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:01:36.000Z",
+      "summary": "THE United States of America (USA) Chapter of the 1992 Year Group of the Old Abuscodians Association has donated $1,000 to Antoinette Naadu Lartey, the best graduating student in the 2025…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Communal disputes, drug abuse threaten Upper East peace – Minister",
+      "link": "https://ghanaiantimes.com.gh/communal-disputes-drug-abuse-threaten-upper-east-peace-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:57:20.000Z",
+      "summary": "THE Upper East Regional Minister, Mr Donatus Atanga Akamugri, has identified communal disputes, mining tensions, drug abuse and organised crime as security threats that require a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Powered by Africa targets $100m diaspora investment fund",
       "link": "https://ghanaiantimes.com.gh/powered-by-africa-targets-100m-diaspora-investment-fund/",
@@ -78,17 +129,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "31 killed in Egypt fire after vehicle overturns",
-      "link": "https://ghanaiantimes.com.gh/31-killed-in-egypt-fire-after-vehicle-overturns/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:33:20.000Z",
-      "summary": "THIRTY-ONE people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday. The fire broke…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Mahama honoured at World CEO Summit in Tanzania",
       "link": "https://www.myjoyonline.com/mahama-honoured-at-world-ceo-summit-in-tanzania/",
       "source": "MyJoyOnline",
@@ -99,29 +139,6 @@ window.GDC_PAPERS = {
         "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Diabetes patients urged to seek early screening",
-      "link": "https://ghanaiantimes.com.gh/diabetes-patients-urged-to-seek-early-screening/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:29:23.000Z",
-      "summary": "DIABETES patients who fail to detect and manage the disease early risk kidney failure, stroke, blindness and limb amputations, the 37 Military Hospital has warned. The hospital has…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Healthy soils are key to food security",
-      "link": "https://ghanaiantimes.com.gh/healthy-soils-are-key-to-food-security/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:25:20.000Z",
-      "summary": "THE nation’s quest to increase agricultural production and achieve food security must begin with the soil. For too long, attention has focused on the quantity of fertiliser applied to…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Women’s Development Bank or microfinance institution? Recruitment advert raises questions",
@@ -208,20 +225,6 @@ window.GDC_PAPERS = {
         "News",
         "Fire",
         "well"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Powered by Africa launches in Accra with proposed $100m investment fund",
-      "link": "https://www.myjoyonline.com/powered-by-africa-launches-in-accra-with-proposed-100m-investment-fund/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T05:14:00.000Z",
-      "summary": "A new international platform aimed at unlocking global capital and diaspora investment for Africa’s infrastructure and economic development has been launched in Accra.",
-      "categories": [
-        "Economy",
-        "National",
-        "News",
-        "Powered By Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
