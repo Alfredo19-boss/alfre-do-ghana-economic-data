@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T10:25:02.826Z",
+  "updated": "2026-11-27T10:45:03.178Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP Nadowli-Kaleo Chairman explains why he took Akoko Nkitinkiti birds",
+      "link": "https://www.graphic.com.gh/news/politics/npp-nadowli-kaleo-chairman-explains-why-he-took-akoko-nkitinkiti-birds.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T10:37:11.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Westerwelle Foundation opens 5th African start-up hub in Accra",
       "link": "https://ghanaiantimes.com.gh/westerwelle-foundation-opens-5th-african-start-up-hub-in-accra/",
@@ -268,17 +279,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-modec-donates-ghc1-7m-surgical-equipment-to-tema-general-hospital.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T07:13:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Judicial Service launches e-Justice Plus software",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-judicial-service-launches-e-justice-plus-software.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T07:10:18.000Z",
       "summary": "",
       "categories": [
         "General News"
