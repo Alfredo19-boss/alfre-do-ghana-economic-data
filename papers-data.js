@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T12:15:01.868Z",
+  "updated": "2026-11-27T12:25:03.801Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘We have absolute confidence in the coach’ – GFA backs Black Queens coach Kim Lars Bjorkegren",
+      "link": "https://www.myjoyonline.com/we-have-absolute-confidence-in-the-coach-gfa-backs-black-queens-coach-kim-lars-bjorkegren/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:22:58.000Z",
+      "summary": "Ghana secured a place in the play-offs with a 2-1 win over Cote d'Ivoire after losing to Malawi in the semifinals of the Women's Africa Cup of Nations (WAFCON) earlier this year, missing…",
+      "categories": [
+        "Football",
+        "National",
+        "2027 World Women's Cup",
+        "GFA",
+        "Kim Lars Bjorkegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Awula Serwah calls for urgent action to stop pollution of water bodies",
+      "link": "https://www.myjoyonline.com/awula-serwah-calls-for-urgent-action-to-stop-pollution-of-water-bodies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:21:05.000Z",
+      "summary": "The Executive Director of Eco-Conscious Citizens, Awual Serwah, has called for urgent action to end the continued pollution of Ghana's water bodies, warning that the success of the…",
+      "categories": [
+        "National",
+        "Awula Serwah",
+        "Pollution",
+        "Water bodies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "7 injured in fresh attack on Nigerian-owned pub at Suame Anomangye as other Nigerians go into hiding",
+      "link": "https://www.myjoyonline.com/7-injured-in-fresh-attack-on-nigerian-owned-pub-at-suame-anomangye-as-other-nigerians-go-into-hiding/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:16:14.000Z",
+      "summary": "Seven Nigerians have sustained injuries following a fresh attack on Nigerian-owned businesses in Kumasi.",
+      "categories": [
+        "National",
+        "News",
+        "Regional",
+        "Top Story",
+        "Nigerians",
+        "Suame Anomangye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "CAITEC Group to expand into mining sector, explore new business opportunities over the next 5 years – Chairman",
       "link": "https://www.myjoyonline.com/caitec-group-to-expand-into-mining-sector-explore-new-business-opportunities-over-the-next-5-years-chairman/",
@@ -88,7 +133,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "President Mahama arrives in Barbados for 5-day state visit",
+      "title": "President Mahama in Barbados for 5-day state visit",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-barbados-for-5-day-state-visit.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T11:39:50.000Z",
@@ -97,39 +142,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fameye set to host Our Day concert inspired by childhood memories, resilience",
-      "link": "https://www.myjoyonline.com/fameyes-our-day-a-homecoming-concert-inspired-by-childhood-memories-resilience-and-gratitude/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:39:25.000Z",
-      "summary": "Remember Our Day in school? The food, drinks, excitement and special packages parents prepared to make the end of the school term memorable? For many children, it was a day of pure joy. But…",
-      "categories": [
-        "Arts and Culture",
-        "Events",
-        "HP Entertainment 2",
-        "HP News 9",
-        "Music",
-        "National",
-        "Fameye",
-        "Our day"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, Côte d’Ivoire to erect 57 new boundary pillars along 392km stretch to avert disputes",
-      "link": "https://www.myjoyonline.com/ghana-cote-divoire-to-erect-57-new-boundary-pillars-along-392km-stretch-to-avert-disputes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:36:54.000Z",
-      "summary": "Ghana and Côte d’Ivoire have launched the second phase of their joint international land boundary reaffirmation exercise to strengthen border security, prevent territorial disputes and…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Boundary pillars",
-        "Cote D'Ivoire",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Police intercept truck loaded with ammunition at Akuse, three arrested",
@@ -141,19 +153,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UBA Ghana appoints Christian Mottey as Head of Retail Banking",
-      "link": "https://www.myjoyonline.com/uba-ghana-appoints-christian-mottey-as-head-of-retail-banking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:30:46.000Z",
-      "summary": "UBA Ghana has announced the appointment of Christian Mottey as its new Head of Retail banking, bringing more than two decades of experience in the financial services.",
-      "categories": [
-        "Banking and Finance",
-        "Christian Mottey",
-        "UBA Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Chief of Staff urges military bands to blend traditional instruments",
