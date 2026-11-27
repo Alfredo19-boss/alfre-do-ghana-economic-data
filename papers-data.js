@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T04:49:31.266Z",
+  "updated": "2026-11-27T04:59:30.297Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,6 +49,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Cashew traders petition Mahama to halt proposed three-month export restriction",
+      "link": "https://www.myjoyonline.com/cashew-traders-petition-mahama-to-halt-proposed-three-month-export-restriction/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T04:11:00.000Z",
+      "summary": "Cashew traders, exporters, and farmer-led associations have petitioned President John Mahama to withdraw the proposed three-month restriction on raw cashew exports, warning that the policy…",
+      "categories": [
+        "National",
+        "Cashew traders"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Kosmos Energy renovates dining hall at Senya SHS",
       "link": "https://www.myjoyonline.com/kosmos-energy-renovates-dining-hall-at-senya-shs/",
       "source": "MyJoyOnline",
@@ -90,6 +102,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Leroy Botchey named HR Future Leader Under 35",
+      "link": "https://www.myjoyonline.com/leroy-botchey-named-hr-future-leader-under-35/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:42:00.000Z",
+      "summary": "A Human Resource professional and HR Administration Manager at Société Générale Ghana PLC, Leroy Botchey was named the HR Future Leader Under 35 Award recipient at the 2026 HR Professionals…",
+      "categories": [
+        "National",
+        "HR Future Leader Under 35",
+        "Leroy Botchey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Opportunity International Savings and Loans pays courtesy call on Ga Mantse",
       "link": "https://www.myjoyonline.com/opportunity-international-savings-and-loans-pays-courtesy-call-on-ga-mantse/",
       "source": "MyJoyOnline",
@@ -100,34 +125,6 @@ window.GDC_PAPERS = {
         "National",
         "Ga Mantse",
         "Opportunity International Savings and Loans"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra Mall celebrates Ghanaian music through Homegrown Stars",
-      "link": "https://www.myjoyonline.com/accra-mall-celebrates-ghanaian-music-through-homegrown-stars/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:23:00.000Z",
-      "summary": "A Saturday shopping trip can easily turn into a full day out with good food, great company, and a little entertainment along the way. That was the experience for visitors to Accra Mall over…",
-      "categories": [
-        "Events",
-        "Music",
-        "Accra Mall",
-        "Homegrown Stars"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Past debt obligations complicate government’s spending decisions – Terkper",
-      "link": "https://www.myjoyonline.com/past-debt-obligations-complicate-governments-spending-decisions-terkper/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:15:00.000Z",
-      "summary": "Presidential Advisor on the Economy, Seth Terkper, says inherited debt obligations and economic uncertainties are complicating the government’s spending decisions amid concerns over…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Seth Terkepr"
       ],
       "site": "https://www.myjoyonline.com/"
     },
