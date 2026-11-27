@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T10:05:02.721Z",
+  "updated": "2026-11-27T10:15:02.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MTN FA Cup: Hearts, Kotoko begin title campaign as Round of 64 kicks off",
+      "link": "https://ghanaiantimes.com.gh/mtn-fa-cup-hearts-kotoko-begin-title-campaign-as-round-of-64-kicks-off/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:14:30.000Z",
+      "summary": "TWELVE-time MTN FA Cup champions, Accra Hearts of Oak, will begin their quest for another title this weekend when they welcome lower-tier side, Accra Elite Academy, to the Kpobiman Sports…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Knee surgery rules Sinner out of Australian Open",
+      "link": "https://ghanaiantimes.com.gh/knee-surgery-rules-sinner-out-of-australian-open/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:11:41.000Z",
+      "summary": "Jannik Sinner has been ruled out of the Australian Open in January following an operation on his knee. The 25-year-old Italian, who won the 2024 and 2025 titles at Melbourne Park, has not…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dubois to defend title against Parker in Manchester",
+      "link": "https://ghanaiantimes.com.gh/dubois-to-defend-title-against-parker-in-manchester/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:10:09.000Z",
+      "summary": "WBO heavyweight world champion, Daniel Dubois, will make the second defence of his title against former WBO champion, Joseph Parker, next year at Co-op Live in Manchester on January 30. The…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Sporting deny Pochettino first Man Utd win",
+      "link": "https://ghanaiantimes.com.gh/sporting-deny-pochettino-first-man-utd-win/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:08:19.000Z",
+      "summary": "Mauricio Pochettino must wait for his first win as Manchester United coach after a wild 2-2 Champions League draw at Sporting Lisbon on Wednesday, with the hosts equalising thanks to a…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIFA confirms internal data stolen in cyber attack",
+      "link": "https://ghanaiantimes.com.gh/fifa-confirms-internal-data-stolen-in-cyber-attack/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:06:53.000Z",
+      "summary": "FIFA has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen. However, BBC Sport understands the data breach did not include…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Ghana to participate in FIBA 3×3 Africa Cup",
       "link": "https://ghanaiantimes.com.gh/ghana-to-participate-in-fiba-3x3-africa-cup/",
@@ -54,40 +109,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "MTN trains 16 entrepreneurs to strengthen business growth",
-      "link": "https://ghanaiantimes.com.gh/mtn-trains-16-entrepreneurs-to-strengthen-business-growth/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T09:58:09.000Z",
-      "summary": "SIXTEEN entrepreneurs have undergone a three-day intensive training and mentorship programme at the MTN National Business Pitch Competition boot camp in Accra, aimed at equipping them with…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "PETROSOL Platinum Energy PLC wins award",
-      "link": "https://ghanaiantimes.com.gh/petrosol-platinum-energy-plc-wins-award/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T09:56:25.000Z",
-      "summary": "PETROSOL Platinum Energy PLC has been honoured with the prestigious Oil and Gas Company of the Year award at the 6th Chamber Business Awards, in recognition of its performance for the 2025…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GETFund supports Ho West schools with educational materials",
-      "link": "https://ghanaiantimes.com.gh/getfund-supports-ho-west-schools-with-educational-materials/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T09:19:55.000Z",
-      "summary": "THE Ghana Education Trust Fund (GETFund), through its Education Financing and Partnership Initiative (EFPI), has donated a consignment of educational materials to the Ho West District…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "‘Our target is to win the FA Cup’ — Kotoko boss Stanley Menzo",
       "link": "https://www.myjoyonline.com/our-target-is-to-win-the-fa-cup-kotoko-boss-stanley-menzo/",
       "source": "MyJoyOnline",
@@ -100,17 +121,6 @@ window.GDC_PAPERS = {
         "Stanley Menzo"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry launches 16 Days campaign against violence",
-      "link": "https://ghanaiantimes.com.gh/gender-ministry-launches-16-days-campaign-against-violence/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T09:06:54.000Z",
-      "summary": "THE Ministry of Gender, Children and Social Protection has launched this year’s 16 Days of Activism Against Gender-Based Violence with a national walk through the principal streets of…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Civil servant slapped at Okaikwei North: CLOGSAG calls for police action as PA is suspended",
@@ -139,18 +149,6 @@ window.GDC_PAPERS = {
         "Temwa Chawinga"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, US experts to discuss disability inclusion at international confab",
-      "link": "https://ghanaiantimes.com.gh/ghana-us-experts-to-discuss-disability-inclusion-at-international-confab/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:21:00.000Z",
-      "summary": "More than 200 academics, researchers, educators, policymakers, parents, advocates and persons with disabilities from Ghana and the United States are expected to participate in an…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Today’s Front pages: Friday, November 27, 2026",
