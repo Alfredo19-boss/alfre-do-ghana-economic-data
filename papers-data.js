@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T09:05:02.282Z",
+  "updated": "2026-11-27T09:15:01.408Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gender Ministry launches 16 Days campaign against violence",
+      "link": "https://ghanaiantimes.com.gh/gender-ministry-launches-16-days-campaign-against-violence/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T09:06:54.000Z",
+      "summary": "THE Ministry of Gender, Children and Social Protection has launched this year’s 16 Days of Activism Against Gender-Based Violence with a national walk through the principal streets of…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Civil servant slapped at Okaikwei North: CLOGSAG calls for police action as PA is suspended",
       "link": "https://www.graphic.com.gh/news/general-news/civil-servant-slapped-at-okaikwei-north-clogsag-calls-for-police-action-as-pa-is-suspended.html",
@@ -187,18 +198,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-27T07:41:49.000Z",
       "summary": "RESIDENTS of the Abutiakope Electoral Area in the Keta Municipality of the Volta Region have staged a peaceful demonstration to demand justice for their Assembly Member, Mr Promise Kofi…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Pres Mahama hands over 3 new aircraft to Air Force",
-      "link": "https://ghanaiantimes.com.gh/pres-mahama-hands-over-3-new-aircraft-to-air-force/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:36:42.000Z",
-      "summary": "PRESIDENT John Dramani Mahama yesterday handed over three newly acquired aircraft to the Ghana Air Force as part of efforts to modernise the Ghana Armed Forces and strengthen the country’s…",
       "categories": [
         "Hot!",
         "News"
