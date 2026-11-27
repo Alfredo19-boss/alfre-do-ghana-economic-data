@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-26T23:49:31.340Z",
+  "updated": "2026-11-26T23:59:30.896Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Youth groups take over Accra streets to show life beyond cars using fossil fuels",
+      "link": "https://www.myjoyonline.com/youth-groups-take-over-accra-streets-to-show-life-beyond-cars-using-fossil-fuels/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T23:52:35.000Z",
+      "summary": "Youth-led mobility groups are calling for Accra's streets to be redesigned for people and not just cars. They have been closing sections of road to traffic and handing them over to walkers…",
+      "categories": [
+        "Health",
+        "National",
+        "Accra streets",
+        "Bicycles",
+        "Cars",
+        "fossil fuels"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Youth run through Airport Residential Area to map Accra’s polluted air",
       "link": "https://www.myjoyonline.com/youth-run-through-airport-residential-area-to-map-accras-polluted-air/",
@@ -92,6 +108,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "ASWAJ leaders from all 16 regions pledge allegiance to new Imam after leadership shake-up",
+      "link": "https://www.myjoyonline.com/aswaj-leaders-from-all-16-regions-pledge-allegiance-to-new-imam-after-leadership-shake-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-26T22:56:00.000Z",
+      "summary": "Leaders of Ahlussunna Wal Jama’a (ASWAJ) from all 16 regions of Ghana have pledged their allegiance to the newly appointed Interim National Imam, Sheikh Ibrahim Baasha Iddris, following a…",
+      "categories": [
+        "Regional",
+        "ASWAJ"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "MTN Ghana Foundation backs 160 entrepreneurs in push to tackle unemployment",
       "link": "https://www.myjoyonline.com/mtn-ghana-foundation-backs-160-entrepreneurs-in-push-to-tackle-unemployment/",
       "source": "MyJoyOnline",
@@ -101,32 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "MTN Ghana Foundation",
         "Unemployment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pru East cries out: Residents appeal for urgent fix of deplorable feeder roads",
-      "link": "https://www.myjoyonline.com/pru-east-cries-out-residents-appeal-for-urgent-fix-of-deplorable-feeder-roads/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:44:00.000Z",
-      "summary": "Residents of Pru East District in the Bono East Region are appealing to government to urgently fix the deplorable feeder roads linking their communities to the district capital, Yeji…",
-      "categories": [
-        "News",
-        "Pru",
-        "Roads"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana must replace high-stakes basic education examinations with a centralised online cumulative assessment system",
-      "link": "https://www.myjoyonline.com/ghana-must-replace-high-stakes-basic-education-examinations-with-a-centralised-online-cumulative-assessment-system/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T22:36:59.000Z",
-      "summary": "A call for an inclusive, continuous and competency-based assessment system for progression from Basic 4 to Basic 9",
-      "categories": [
-        "Opinion",
-        "BECE",
-        "Examination"
       ],
       "site": "https://www.myjoyonline.com/"
     },
