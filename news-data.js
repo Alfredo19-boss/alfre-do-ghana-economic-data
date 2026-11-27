@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T08:54:31.481Z",
+  "updated": "2026-11-27T09:04:32.213Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s Solar Tax Reform: Perhaps the Most Transformative Policy Decision in 20 Years",
+      "link": "https://thehighstreetjournal.com/ghanas-solar-tax-reform-perhaps-the-most-transformative-policy-decision-in-20-years/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T09:02:00.000Z",
+      "summary": "Ghana’s removal of taxes on solar panels and batteries could lower energy costs, boost business competitiveness, attract private investment and accelerate the country’s renewable energy…"
+    },
     {
       "title": "MTN MoMo, Ecobank Launch Cross-Border Money Transfer Service Between Ghana And Côte d’Ivoire",
       "link": "https://thehighstreetjournal.com/mtn-momo-ecobank-launch-cross-border-money-transfer-service-between-ghana-and-cote-divoire/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T11:38:06.000Z",
       "summary": "According to the mining giant, it has submitted the necessary documents to the government and believes the mining firm will get a positive response from the government."
-    },
-    {
-      "title": "Ghana hosts 6th German-African Business Summit to deepen trade and investment ties",
-      "link": "https://www.myjoyonline.com/ghana-hosts-6th-german-african-business-summit-to-deepen-trade-and-investment-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:31:24.000Z",
-      "summary": "Ghana is hosting the 6th German-African Business Summit (GABS 2026), bringing together business leaders, policymakers, investors and industry experts from Germany and across Africa to…"
     }
   ]
 };

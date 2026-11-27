@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:55:02.142Z",
+  "updated": "2026-11-27T09:05:02.282Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -206,6 +206,20 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "GROWING Project records 23.3% improvement in women’s empowerment in northern Ghana",
+      "link": "https://www.myjoyonline.com/growing-project-records-23-3-improvement-in-womens-empowerment-in-northern-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T07:30:00.000Z",
+      "summary": "The Generating Revenues and Opportunities for Women to Improve Nutrition in Ghana (GROWING) Project recorded a 23.3-percentage-point improvement in women’s empowerment, along with…",
+      "categories": [
+        "Regional",
+        "Growing Project",
+        "Northern Ghana",
+        "women’s empowerment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "5.4m Ghanaians still practise open defecation",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-5-4m-ghanaians-still-practise-open-defecation.html",
       "source": "Daily Graphic",
@@ -260,21 +274,6 @@ window.GDC_PAPERS = {
         "Naana Jane Opoku-Agyeman",
         "NDC",
         "women's development bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EFL demands proportional representation to end winner-takes-all politics",
-      "link": "https://www.myjoyonline.com/efl-demands-proportional-representation-to-end-winner-takes-all-politics/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T06:05:00.000Z",
-      "summary": "The Economic Fighters League (EFL) has proposed setting aside 24 seats in Parliament for smaller political parties and organised groups under a pilot proportional representation (PR) system…",
-      "categories": [
-        "News",
-        "Economy",
-        "Ghana",
-        "Politics",
-        "Representation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
