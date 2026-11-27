@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T06:45:00.409Z",
+  "updated": "2026-11-27T06:55:00.831Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Powered by Africa targets $100m diaspora investment fund",
+      "link": "https://ghanaiantimes.com.gh/powered-by-africa-targets-100m-diaspora-investment-fund/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:52:51.000Z",
+      "summary": "A new international platform aimed at connecting Africa’s infrastructure and economic opportunities with global capital, diaspora investment and expertise has been established in Accra…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
+      "link": "https://ghanaiantimes.com.gh/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:48:43.000Z",
+      "summary": "This is the final part of yesterday’s feature NEVERTHELESS, practical agricultural knowledge and experience are not necessarily dependent on formal secondary or tertiary science education…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Why Ghana is moving to protect its traditional palm spirit and what it could mean for producers, consumers and the country’s global reputation",
       "link": "https://ghanaiantimes.com.gh/why-ghana-is-moving-to-protect-its-traditional-palm-spirit-and-what-it-could-mean-for-producers-consumers-and-the-countrys-global-reputation/",
@@ -101,17 +124,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "1 dead, 5 soldiers injured in Circle demolition clash",
-      "link": "https://ghanaiantimes.com.gh/1-dead-5-soldiers-injured-in-circle-demolition-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:23:42.000Z",
-      "summary": "ONE person was killed and five military personnel injured yesterday when a demolition exercise along the railway corridor near the Kwame Nkrumah Interchange in Accra descended into…",
-      "categories": [
-        "Crime"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Women’s Development Bank or microfinance institution? Recruitment advert raises questions",
       "link": "https://www.myjoyonline.com/womens-development-bank-or-microfinance-institution-recruitment-advert-raises-questions/",
       "source": "MyJoyOnline",
@@ -129,18 +141,6 @@ window.GDC_PAPERS = {
         "women's development bank"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court remands 13 suspected NAIMOS impersonators",
-      "link": "https://ghanaiantimes.com.gh/court-remands-13-suspected-naimos-impersonators/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:19:38.000Z",
-      "summary": "THIRTEEN persons suspected of impersonating operatives of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) have been remanded into custody for allegedly extorting money from…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "EFL demands proportional representation to end winner-takes-all politics",
