@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T20:54:11.867Z",
+  "updated": "2026-11-27T21:04:12.439Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stonebwoy releases ‘Marry You’ ahead of ‘TORCHER III’ album",
+      "link": "https://www.myjoyonline.com/stonebwoy-releases-marry-you-ahead-of-torcher-iii-album/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T20:53:39.000Z",
+      "summary": "Ghanaian musician Stonebwoy has released his latest single, “Marry You”, the first official offering from his forthcoming album, TORCHER III: Flames of Love",
+      "categories": [
+        "HP Entertainment 1",
+        "Music",
+        "Marry You",
+        "Torcher II"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Don’t be in a hurry for titles; prioritise hard work and integrity – Nana Appiah Dankawoso II advises youth",
       "link": "https://www.myjoyonline.com/dont-be-in-a-hurry-for-titles-prioritise-hard-work-and-integrity-nana-appiah-dankawoso-ii-advises-youth/",
@@ -116,19 +130,6 @@ window.GDC_PAPERS = {
         "National",
         "FAF Eminent Achievement Awards",
         "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "RON Foundation invests in digital education at Atwima Koforidua with modern ICT lab commissioning",
-      "link": "https://www.myjoyonline.com/ron-foundation-invests-in-digital-education-at-atwima-koforidua-with-modern-ict-lab-commissioning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T18:38:36.000Z",
-      "summary": "A philanthropic organization, RON Foundation, has cut the sod for the construction of a modern Information and Communication Technology (ICT) laboratory at Atwima Koforidua in the Ashanti…",
-      "categories": [
-        "Education",
-        "Atwima Koforidua",
-        "RON Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
