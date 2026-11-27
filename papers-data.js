@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:05:01.792Z",
+  "updated": "2026-11-27T08:15:01.166Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Vivo Energy equips women with vehicle maintenance skills",
+      "link": "https://ghanaiantimes.com.gh/vivo-energy-equips-women-with-vehicle-maintenance-skills/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:12:55.000Z",
+      "summary": "MORE than 100 women have received training in basic vehicle maintenance to help them deal with common car problems, improve road safety and take greater responsibility for their vehicles…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Ghana, US experts to discuss disability inclusion at international confab",
       "link": "https://ghanaiantimes.com.gh/ghana-us-experts-to-discuss-disability-inclusion-at-international-confab/",
       "source": "Ghanaian Times",
@@ -28,6 +39,17 @@ window.GDC_PAPERS = {
       "summary": "MORE than 200 academics, researchers, educators, policymakers, parents, advocates and persons with disabilities from Ghana and the United States are expected to participate in an…",
       "categories": [
         "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GAPHTO warns of yellow fever, meningitis risks during dry season",
+      "link": "https://ghanaiantimes.com.gh/gaphto-warns-of-yellow-fever-meningitis-risks-during-dry-season/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:00:00.000Z",
+      "summary": "THE Ghana Association of Public Health Technical Officers (GAPHTO) has warned of an increased risk of yellow fever and cerebrospinal meningitis (CSM) as the country enters the dry season…",
+      "categories": [
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
@@ -113,30 +135,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T07:15:31.000Z",
       "summary": "FINANCIAL demands and entrenched political structures continue to limit women and young people seeking leadership positions in Ghana, despite growing calls for inclusive governance. The…",
       "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "1 dead, 5 soldiers injured in Circle demolition clash",
-      "link": "https://ghanaiantimes.com.gh/1-dead-5-soldiers-injured-in-circle-demolition-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:10:00.000Z",
-      "summary": "ONE person was killed and five military personnel injured yesterday when a demolition exercise along the railway corridor near the Kwame Nkrumah Interchange in Accra descended into…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tema industrial park to create 14,000 jobs — TDC boss",
-      "link": "https://ghanaiantimes.com.gh/tema-industrial-park-to-create-14000-jobs-tdc-boss/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:09:23.000Z",
-      "summary": "THE Tema Integrated Industrial Park (TIIP) is expected to create at least 4,000 direct jobs and 10,000 indirect employment opportunities, with developers promising to prioritise residents…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
