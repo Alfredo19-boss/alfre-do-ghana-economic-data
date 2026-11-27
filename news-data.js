@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T19:13:41.938Z",
+  "updated": "2026-11-27T19:23:42.194Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "COMAC Urges NPA to Enforce Petroleum Price Floor As December Price Cuts Loom",
+      "link": "https://thehighstreetjournal.com/comac-urges-npa-to-enforce-petroleum-price-floor-as-december-price-cuts-loom/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T19:15:32.000Z",
+      "summary": "The Chamber warns that below-floor fuel sales threaten fair competition and market stability, calling for sanctions against companies flouting the National Petroleum Authority’s pricing…"
+    },
     {
       "title": "Why Are Some OMCs Not Playing by the “Rules”?",
       "link": "https://thehighstreetjournal.com/why-are-some-omcs-not-playing-by-the-rules/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:00:00.000Z",
       "summary": "Deloitte warns Ghana’s planned agricultural import bans could face major land constraints, with only 10,780 of 100,000 hectares identified for oil palm expansion, risking food shortages…"
-    },
-    {
-      "title": "US-Ghana Water Cooperation Could Ease Treatment Costs Through Improved Pollution Monitoring",
-      "link": "https://thehighstreetjournal.com/us-ghana-water-cooperation-could-ease-treatment-costs-through-improved-pollution-monitoring/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:00:00.000Z",
-      "summary": "Collaboration on mercury detection and water quality monitoring comes as illegal mining drives up Ghana Water Limited's treatment expenses and disrupts supply."
     }
   ]
 };
