@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:49:31.092Z",
+  "updated": "2026-11-27T03:59:31.212Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kosmos Energy renovates dining hall at Senya SHS",
+      "link": "https://www.myjoyonline.com/kosmos-energy-renovates-dining-hall-at-senya-shs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:54:21.000Z",
+      "summary": "Kosmos Energy Ghana (KEG) has renovated the dining hall at Senya Senior High School in the Awutu Senya District of the Central Region, providing dining furniture and kitchen facilities to…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Dining Hall",
+        "Kosmos Energy",
+        "Senya SHS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Twice billed for dirty state databases",
+      "link": "https://www.myjoyonline.com/twice-billed-for-dirty-state-databases-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:50:04.000Z",
+      "summary": "At 2:26 pm on 24 November 2026, a speed camera flashed along a northern highway. A commercial minivan wearing a 2026 Greater Accra plate, GT [REDACTED]-26, clocked 85 km/h in a 50 km/h…",
+      "categories": [
+        "Opinion",
+        "Sitsofe Mensah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Budget projections vulnerable to global and domestic shocks — Terkper",
       "link": "https://www.myjoyonline.com/budget-projections-vulnerable-to-global-and-domestic-shocks-terkper/",
@@ -89,41 +117,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky",
-      "link": "https://www.myjoyonline.com/us-too-focused-on-middle-east-and-not-pushing-russia-hard-enough-zelensky/",
+      "title": "Terkper revisits cocoa price controversy as economic pressures mount",
+      "link": "https://www.myjoyonline.com/terkper-revisits-cocoa-price-controversy-as-economic-pressures-mount/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T02:08:00.000Z",
-      "summary": "Volodymyr Zelensky has voiced deep frustration with the US, saying that delays in delivering vital anti-ballistic missiles are costing Ukrainian lives and complaining that the US is not…",
+      "published": "2026-11-27T02:35:00.000Z",
+      "summary": "Seth Terkper, Presidential Advisor on the Economy, has revisited the controversy over cocoa producer prices, questioning the sector's apparent silence as economic pressures mount.",
       "categories": [
-        "News",
-        "Russia",
-        "Ukraine",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I’m going to drive’: FAA outage and high fares reshape Thanksgiving travel plans",
-      "link": "https://www.myjoyonline.com/im-going-to-drive-faa-outage-and-high-fares-reshape-thanksgiving-travel-plans/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T01:55:00.000Z",
-      "summary": "Dinese Jackson couldn't ​stomach spending roughly $1,500 to fly herself and her two children from Raleigh, North Carolina, to Dallas, Texas, for Thanksgiving, more than double what she had…",
-      "categories": [
-        "International",
-        "thanksgiving"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump’s newest order curtailing birthright citizenship is blocked by second judge",
-      "link": "https://www.myjoyonline.com/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T01:44:00.000Z",
-      "summary": "A second US judge on Wednesday blocked enforcement of President Donald Trump's executive ​order limiting the number of people eligible for birthright citizenship, which Trump signed after…",
-      "categories": [
-        "International",
-        "birthright citizenship",
-        "Donald Trump"
+        "Economy",
+        "National",
+        "Seth Terkper"
       ],
       "site": "https://www.myjoyonline.com/"
     },

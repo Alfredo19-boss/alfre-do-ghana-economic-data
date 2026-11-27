@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T03:49:00.367Z",
+  "updated": "2026-11-27T03:59:00.867Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Terkper revisits cocoa price controversy as economic pressures mount",
+      "link": "https://www.myjoyonline.com/terkper-revisits-cocoa-price-controversy-as-economic-pressures-mount/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:35:00.000Z",
+      "summary": "Seth Terkper, Presidential Advisor on the Economy, has revisited the controversy over cocoa producer prices, questioning the sector's apparent silence as economic pressures mount."
+    },
+    {
+      "title": "Economic shocks leave government with tough spending choices – Seth Terkper",
+      "link": "https://www.myjoyonline.com/economic-shocks-leave-government-with-tough-spending-choices-seth-terkper/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:17:00.000Z",
+      "summary": "Presidential Advisor on the Economy, Seth Terkper, says economic shocks and inherited financial obligations leave governments with difficult spending choices, making it impossible to meet…"
+    },
     {
       "title": "Falling cocoa prices: Terkper questions silence after last year’s fierce debate",
       "link": "https://www.myjoyonline.com/falling-cocoa-prices-terkper-questions-silence-after-last-years-fierce-debate/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T05:05:00.000Z",
       "summary": "Ghana’s 24-Hour Economy can boost production and jobs, but success depends on higher productivity, fair worker compensation, efficient operations and measurable economic gains."
-    },
-    {
-      "title": "CSOs Question Gaps in Government’s US$2.2bn Energy Investment Plan",
-      "link": "https://thehighstreetjournal.com/csos-question-gaps-in-govts-us2-2bn-energy-investment-plan/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:03:00.000Z",
-      "summary": "The Ghana CSOs Alliance questions gaps in government's US$2.2 billion energy investment plan, calling for alignment with Mission 300 commitments, transparency and stronger accountability."
-    },
-    {
-      "title": "GNCCI: Private Sector Must Turn Economic Stability into Growth",
-      "link": "https://thehighstreetjournal.com/private-sector-investment-key-to-sustaining-ghanas-economic-recovery-gncci/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T05:02:00.000Z",
-      "summary": "GNCCI says private sector investment will be crucial to sustaining Ghana's economic recovery, urging businesses to convert improved macroeconomic stability into production, jobs, exports…"
     }
   ]
 };
