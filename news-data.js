@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T11:24:30.814Z",
+  "updated": "2026-11-27T11:34:32.261Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "UBA Ghana appoints Christian Mottey as Head of Retail Banking",
+      "link": "https://www.myjoyonline.com/uba-ghana-appoints-christian-mottey-as-head-of-retail-banking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:30:46.000Z",
+      "summary": "UBA Ghana has announced the appointment of Christian Mottey as its new Head of Retail banking, bringing more than two decades of experience in the financial services."
+    },
+    {
+      "title": "Retired COP Frank Adu-Poku Takes Readers Through His Life Journey in New Book, “Frankly Speaking”",
+      "link": "https://thehighstreetjournal.com/retired-cop-frank-adu-poku-takes-readers-through-his-life-journey-in-new-book-frankly-speaking/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T11:30:07.000Z",
+      "summary": "Retired COP Frank Adu-Poku recounts his journey from Bekwai through years of police service in his new book, Frankly Speaking, launching November 28 in Accra."
+    },
     {
       "title": "MODEC, partners donate GH¢1.7m medical equipment to Tema General Hospital",
       "link": "https://www.myjoyonline.com/modec-partners-donate-gh%c2%a21-7m-medical-equipment-to-tema-general-hospital/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T13:22:00.000Z",
       "summary": "A high-level delegation from Nissan Motor Corporation, led by its Managing Director for Africa, Mohammed Abdel Samad, visited Japan Motors Trading Company Ltd. (JMTC), toured the company's…"
-    },
-    {
-      "title": "Open up your trade routes – German President tells Africa",
-      "link": "https://www.myjoyonline.com/open-up-your-trade-routes-german-president-tells-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:44:55.000Z",
-      "summary": "German President Dr Frank-Walter Steinmeier has urged African countries to intensify economic reforms and remove barriers to trade to unlock the continent's economic potential and…"
-    },
-    {
-      "title": "Bond market: Turnover declines by 16% to GH¢5.72bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-16-to-gh%c2%a25-72bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:17:01.000Z",
-      "summary": "Trading activity was concentrated in the 2027-2030 maturity segment, which accounted for 65.35% of total turnover at a weighted-average yield of 12.41%."
     }
   ]
 };

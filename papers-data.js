@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:25:01.396Z",
+  "updated": "2026-11-27T11:35:03.120Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UBA Ghana appoints Christian Mottey as Head of Retail Banking",
+      "link": "https://www.myjoyonline.com/uba-ghana-appoints-christian-mottey-as-head-of-retail-banking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:30:46.000Z",
+      "summary": "UBA Ghana has announced the appointment of Christian Mottey as its new Head of Retail banking, bringing more than two decades of experience in the financial services.",
+      "categories": [
+        "Banking and Finance",
+        "Christian Mottey",
+        "UBA Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Richmond Adu-Poku: Artistes should not be condemned for supporting a political party",
+      "link": "https://www.myjoyonline.com/richmond-adu-poku-artistes-should-not-be-condemned-for-supporting-a-political-party/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:26:40.000Z",
+      "summary": "We need artistes courageous enough to speak truth to power, and politicians humble enough to listen when the music is no longer flattering.",
+      "categories": [
+        "Art & Design",
+        "HP Entertainment 1",
+        "Artistes",
+        "Mzbel",
+        "Politics"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MODEC, partners donate GH¢1.7m medical equipment to Tema General Hospital",
       "link": "https://www.myjoyonline.com/modec-partners-donate-gh%c2%a21-7m-medical-equipment-to-tema-general-hospital/",
@@ -230,36 +258,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2026 CAF Awards: Chawinga sisters, Banda and Ngock headline final five for CAF Women’s Player of the Year",
-      "link": "https://www.myjoyonline.com/2026-caf-awards-chawinga-sisters-banda-and-ngock-headline-final-five-for-caf-womens-player-of-the-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T08:21:54.000Z",
-      "summary": "The shortlist reflects a remarkable year for women's football across the continent, highlighted by Cameroon's historic triumph at the TotalEnergies CAF Women's Africa Cup of Nations…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "National",
-        "barbra banda",
-        "CAF Awards",
-        "Monique Ngock",
-        "Tabitha Chawinga",
-        "Temwa Chawinga"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Today’s Front pages: Friday, November 27, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-27-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T08:19:27.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "National",
-        "Newspaper Front pages"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Toxic dumping ground: Greenpeace finds UK retailers' faulty returns at Agbogbloshie e-waste site",
