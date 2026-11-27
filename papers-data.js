@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T21:44:12.335Z",
+  "updated": "2026-11-27T22:04:12.225Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Here are the activities planned for the 42nd National Farmers’ Day in Sunyani",
+      "link": "https://www.myjoyonline.com/here-are-the-activities-planned-for-the-42nd-national-farmers-day-in-sunyani/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:58:37.000Z",
+      "summary": "The Bono Region is preparing to host the 42nd National Farmers’ Day celebration, with Sunyani set to welcome farmers, fishers, researchers and other stakeholders for a seven-day programme…",
+      "categories": [
+        "In Focus",
+        "News",
+        "Agric",
+        "Farmer"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Wa East DCE touts 53 projects, GH¢64 revenue shortfall in stewardship report",
       "link": "https://www.myjoyonline.com/wa-east-dce-touts-53-projects-gh%c2%a264-revenue-shortfall-in-stewardship-report/",
@@ -116,17 +130,6 @@ window.GDC_PAPERS = {
         "EOCO",
         "Interpol",
         "QNET"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Reinna releases new single, ‘Turn My Back’",
-      "link": "https://www.myjoyonline.com/reinna-releases-new-single-turn-my-back/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:00:29.000Z",
-      "summary": "Ghanaian emerging artiste Reinna has released her latest single, ‘Turn My Back’, a song inspired by resilience and the determination to overcome life’s challenges",
-      "categories": [
-        "Music"
       ],
       "site": "https://www.myjoyonline.com/"
     },
