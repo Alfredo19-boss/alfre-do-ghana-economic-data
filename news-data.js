@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T09:24:31.170Z",
+  "updated": "2026-11-27T10:04:32.561Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,19 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Locally Assembled, But Two Weeks to Repair? Zonda Customer Raises Concern",
+      "link": "https://thehighstreetjournal.com/locally-assembled-but-two-weeks-to-repair-zonda-customer-raises-concern/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T10:00:25.000Z",
+      "summary": "A Zonda Tec Ghana customer has questioned a two-week repair timeline for a vehicle under warranty, raising concerns about spare parts availability and after-sales service in local…"
+    },
     {
       "title": "Ghana’s Solar Tax Reform: Perhaps the Most Transformative Policy Decision in 20 Years",
       "link": "https://thehighstreetjournal.com/ghanas-solar-tax-reform-perhaps-the-most-transformative-policy-decision-in-20-years/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T11:57:27.000Z",
       "summary": "Sabine Dall’Omo, Chief Executive Officer of Siemens Sub-Saharan Africa, says the perception of Africa as a conflict-prone region and a difficult market to access remains a major obstacle to…"
-    },
-    {
-      "title": "We are optimistic about securing an extension for Tarkwa Mine Lease come April 2027 – Gold Fields",
-      "link": "https://www.myjoyonline.com/we-are-optimistic-about-securing-an-extension-for-tarkwa-mine-lease-come-april-2027-gold-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:38:06.000Z",
-      "summary": "According to the mining giant, it has submitted the necessary documents to the government and believes the mining firm will get a positive response from the government."
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T09:25:01.372Z",
+  "updated": "2026-11-27T10:05:02.721Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana to participate in FIBA 3×3 Africa Cup",
+      "link": "https://ghanaiantimes.com.gh/ghana-to-participate-in-fiba-3x3-africa-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:04:37.000Z",
+      "summary": "GHANA’S 3×3 basketball team will depart the shores of the country on Monday for the upcoming FIBA 3×3 Africa Cup, scheduled to take place in Antananarivo, Madagascar, from December 3 to 6…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Baseball, Softball League reach semi-final stage",
+      "link": "https://ghanaiantimes.com.gh/baseball-softball-league-reach-semi-final-stage/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:02:39.000Z",
+      "summary": "FOUR baseball clubs are through to the semi-finals of the second edition of the National Baseball and Softball League being organised by the Ghana Baseball and Softball Federation at Labone…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Challenge receive rousing welcome after historic World Cup triumph",
+      "link": "https://ghanaiantimes.com.gh/black-challenge-receive-rousing-welcome-after-historic-world-cup-triumph/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:00:03.000Z",
+      "summary": "GHANA’S national amputee football team, the Black Challenge, arrived in Accra yesterday to a rousing welcome following their historic triumph at the 2026 Amputee Football World Cup in…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MTN trains 16 entrepreneurs to strengthen business growth",
+      "link": "https://ghanaiantimes.com.gh/mtn-trains-16-entrepreneurs-to-strengthen-business-growth/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T09:58:09.000Z",
+      "summary": "SIXTEEN entrepreneurs have undergone a three-day intensive training and mentorship programme at the MTN National Business Pitch Competition boot camp in Accra, aimed at equipping them with…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "PETROSOL Platinum Energy PLC wins award",
+      "link": "https://ghanaiantimes.com.gh/petrosol-platinum-energy-plc-wins-award/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T09:56:25.000Z",
+      "summary": "PETROSOL Platinum Energy PLC has been honoured with the prestigious Oil and Gas Company of the Year award at the 6th Chamber Business Awards, in recognition of its performance for the 2025…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GETFund supports Ho West schools with educational materials",
       "link": "https://ghanaiantimes.com.gh/getfund-supports-ho-west-schools-with-educational-materials/",
@@ -98,17 +153,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Nana Akuoko Sarpong goes home",
-      "link": "https://ghanaiantimes.com.gh/nana-akuoko-sarpong-goes-home/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:20:34.000Z",
-      "summary": "THE late Agogomanhene, Nana Kwame Akuoko Sarpong, has been laid to rest in line with Ashanti culture. It was preceded by a three-day funeral which commenced on Tuesday, November 24, 2025…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Today’s Front pages: Friday, November 27, 2026",
       "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-27-2026/",
       "source": "MyJoyOnline",
@@ -119,17 +163,6 @@ window.GDC_PAPERS = {
         "Newspaper Front pages"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwabenya SHS, Accra Girls win HIV awareness contest",
-      "link": "https://ghanaiantimes.com.gh/kwabenya-shs-accra-girls-win-hiv-awareness-contest/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:17:37.000Z",
-      "summary": "KWABENYA Community Senior High School (SHS) and Accra Girls’ SHS have emerged winners of an inter-school debate and art competition held to promote HIV awareness among young people. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Toxic dumping ground: Greenpeace finds UK retailers' faulty returns at Agbogbloshie e-waste site",
@@ -159,28 +192,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Vivo Energy equips women with vehicle maintenance skills",
-      "link": "https://ghanaiantimes.com.gh/vivo-energy-equips-women-with-vehicle-maintenance-skills/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:12:55.000Z",
-      "summary": "MORE than 100 women have received training in basic vehicle maintenance to help them deal with common car problems, improve road safety and take greater responsibility for their vehicles…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GAPHTO warns of yellow fever, meningitis risks during dry season",
-      "link": "https://ghanaiantimes.com.gh/gaphto-warns-of-yellow-fever-meningitis-risks-during-dry-season/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T08:00:00.000Z",
-      "summary": "THE Ghana Association of Public Health Technical Officers (GAPHTO) has warned of an increased risk of yellow fever and cerebrospinal meningitis (CSM) as the country enters the dry season…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
       "link": "https://www.graphic.com.gh/news/general-news/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line.html",
       "source": "Daily Graphic",
@@ -190,18 +201,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UCC students urged to prepare for demands of communications industry",
-      "link": "https://ghanaiantimes.com.gh/ucc-students-urged-to-prepare-for-demands-of-communications-industry/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:52:58.000Z",
-      "summary": "FINAL-YEAR Communication Studies students of the University of Cape Coast (UCC) have been urged to complement their academic training with hard work, professional discipline and practical…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Africa-Europe partnerships must move beyond aid to economic transformation – Potsdam Africa Dialogues",
@@ -219,6 +218,28 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Platform to tackle trade losses launched",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-platform-to-tackle-trade-losses-launched.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:35:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Agogohene goes Home",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-agogohene-goes-home.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:30:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "GROWING Project records 23.3% improvement in women’s empowerment in northern Ghana",
       "link": "https://www.myjoyonline.com/growing-project-records-23-3-improvement-in-womens-empowerment-in-northern-ghana/",
       "source": "MyJoyOnline",
@@ -233,10 +254,32 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "5.4m Ghanaians still practise open defecation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-5-4m-ghanaians-still-practise-open-defecation.html",
+      "title": "Latex Foam increases support to UG students",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-latex-foam-increases-support-to-ug-students.html",
       "source": "Daily Graphic",
-      "published": "2026-11-27T07:05:04.000Z",
+      "published": "2026-11-27T07:17:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "MODEC donates GH¢1.7m surgical equipment to Tema General Hospital",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-modec-donates-ghc1-7m-surgical-equipment-to-tema-general-hospital.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:13:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Judicial Service launches e-Justice Plus software",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-judicial-service-launches-e-justice-plus-software.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:10:18.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -270,50 +313,6 @@ window.GDC_PAPERS = {
         "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Future of Ghana’s anti-corruption fight rests on youth – OSP",
-      "link": "https://www.graphic.com.gh/news/general-news/future-of-ghanas-anti-corruption-fight-rests-on-youth-osp.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T19:41:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kumasi: Police arrest three suspects with 79 parcels of suspected narcotics",
-      "link": "https://www.graphic.com.gh/news/general-news/kumasi-police-arrest-three-suspects-with-79-parcels-of-suspected-narcotics.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T18:56:57.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt to deliver first batch of 40 fire tenders to GNFS by December – Muntaka",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-to-deliver-first-batch-of-40-fire-tenders-to-gnfs-by-december-muntaka.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T18:40:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kosmos Energy Ghana inaugurates renovated dining hall at Senya SHS",
-      "link": "https://www.graphic.com.gh/news/education/kosmos-energy-ghana-inaugurates-renovated-dining-hall-at-senya-shs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T18:21:37.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
