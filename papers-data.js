@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T01:29:30.267Z",
+  "updated": "2026-11-27T02:59:30.951Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Selassie Ibrahim has revived hope in Ghana’s film industry with REFFA – KMJ",
+      "link": "https://www.myjoyonline.com/selassie-ibrahim-has-revived-hope-in-ghanas-film-industry-with-reffa-kmj/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T02:49:52.000Z",
+      "summary": "The Head of Communications for Regal Film Festival and Awards (REFFA), Kpekpo Maxwell Justice (KMJ), has highlighted how the scheme is changing the face of Ghana’s movie industry.",
+      "categories": [
+        "HP Entertainment 2",
+        "Movies",
+        "KMJ",
+        "Regal Film Festival and Awards",
+        "Selassie Ibrahim"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Four injured as tanker, medicine truck and passenger vehicle crash on Fumesua-Ejisu Road",
       "link": "https://www.myjoyonline.com/four-injured-as-tanker-medicine-truck-and-passenger-vehicle-crash-on-fumesua-ejisu-road/",
@@ -121,21 +136,6 @@ window.GDC_PAPERS = {
         "GIISDEC",
         "Iron",
         "steel industry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "5-year-old death in Mim: Father remanded again as court awaits post-mortem",
-      "link": "https://www.myjoyonline.com/5-year-old-death-in-mim-father-remanded-again-as-court-awaits-post-mortem/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:11:00.000Z",
-      "summary": "The Goaso District Court in the Ahafo Region has remanded into police custody for the second time the father accused in the tragic death of his five-year-old daughter, Elizabeth, at Mim in…",
-      "categories": [
-        "Crime",
-        "News",
-        "court",
-        "Death",
-        "father"
       ],
       "site": "https://www.myjoyonline.com/"
     },
