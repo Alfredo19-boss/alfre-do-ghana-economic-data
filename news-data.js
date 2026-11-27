@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T18:43:42.082Z",
+  "updated": "2026-11-27T18:53:41.836Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Why Are Some OMCs Not Playing by the “Rules”?",
+      "link": "https://thehighstreetjournal.com/why-are-some-omcs-not-playing-by-the-rules/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T18:50:00.000Z",
+      "summary": "COMAC says below-floor fuel sales undermine fair competition and industry sustainability, urging the NPA to investigate reported violations and enforce its pricing rules."
+    },
     {
       "title": "Central bank cannot engage in private sector lending – BoG Research Director",
       "link": "https://www.myjoyonline.com/central-bank-cannot-engage-in-private-sector-lending-bog-research-director/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:00:00.000Z",
       "summary": "Collaboration on mercury detection and water quality monitoring comes as illegal mining drives up Ghana Water Limited's treatment expenses and disrupts supply."
-    },
-    {
-      "title": "Women’s Bank begins recruitment ahead of December head office handover",
-      "link": "https://www.myjoyonline.com/womens-bank-begins-recruitment-ahead-of-december-head-office-handover/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T01:47:55.000Z",
-      "summary": "The government has stepped up preparations to operationalise the Women’s Development Bank, with recruitment of its management and staff already underway ahead of its planned launch in the…"
     }
   ]
 };

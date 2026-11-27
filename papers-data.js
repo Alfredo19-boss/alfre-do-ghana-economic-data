@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T18:44:12.744Z",
+  "updated": "2026-11-27T18:54:12.736Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Livestream: UPSA’s FAF Eminent Achievement Awards underway",
+      "link": "https://www.myjoyonline.com/livestream-upsas-faf-eminent-achievement-awards-underway/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T18:46:59.000Z",
+      "summary": "The Faculty of Accounting and Finance (FAF) Eminent Achievement Awards is underway at the University of Professional Studies, Accra (UPSA).",
+      "categories": [
+        "HP News 1",
+        "National",
+        "FAF Eminent Achievement Awards",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "RON Foundation invests in digital education at Atwima Koforidua with modern ICT lab commissioning",
       "link": "https://www.myjoyonline.com/ron-foundation-invests-in-digital-education-at-atwima-koforidua-with-modern-ict-lab-commissioning/",
@@ -40,7 +54,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T18:35:09.000Z",
       "summary": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine…",
       "categories": [
-        "News"
+        "Regional",
+        "Cocoa",
+        "Galamsey",
+        "Weather"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -108,19 +125,6 @@ window.GDC_PAPERS = {
         "National",
         "BoG Director of Research",
         "Financial system"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
-      "link": "https://www.myjoyonline.com/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:15:15.000Z",
-      "summary": "The Ghana Grid Company (GRIDCo) has successfully restored the damaged 330kV Aboadze–Anwomaso transmission line, which tripped and caused power outages in parts of the Ashanti and Western…",
-      "categories": [
-        "Regional",
-        "GRIDCo",
-        "Transmission Line"
       ],
       "site": "https://www.myjoyonline.com/"
     },
