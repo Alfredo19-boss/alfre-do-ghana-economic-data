@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T12:04:32.781Z",
+  "updated": "2026-11-27T12:14:31.181Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "CAITEC Group to expand into mining sector, explore new business opportunities over the next 5 years – Chairman",
+      "link": "https://www.myjoyonline.com/caitec-group-to-expand-into-mining-sector-explore-new-business-opportunities-over-the-next-5-years-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:08:36.000Z",
+      "summary": "CAITEC Group Chairman, Mr Tang Hong, has announced plans to expand the company's operations into new business areas, with the mining sector identified as a key focus over the next five…"
+    },
     {
       "title": "Ecobank-JoyBusiness Financial Dialogue: Businesswomen advised to research market before exporting goods",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-businesswomen-advised-to-research-market-before-exporting-goods/",
@@ -57,11 +64,11 @@ window.GDC_NEWS = {
       "summary": "The Tema General Hospital has received medical equipment valued at GH¢1.7 million from MODEC Inc. and its partners — Mitsui & Co. Ltd, Marubeni Corporation and Mitsui O.S.K. Lines Ltd — to…"
     },
     {
-      "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women businesses",
+      "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women’s businesses",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-banks-advised-to-design-products-to-suit-women-businesses/",
       "source": "MyJoyOnline",
       "published": "2026-11-27T10:57:28.000Z",
-      "summary": "Entrepreneur, Patience Esirifi has made a passionate call on financial institutions to develop tailor-made products that will suit women-led businesses and help them grow. This follows a…"
+      "summary": "Entrepreneur Patience Esirifi has made a passionate call on financial institutions to develop tailor-made products that will suit women-led businesses and help them grow. This follows a…"
     },
     {
       "title": "TUC Calls for Jobs and Decent Work Under New Economy Programme",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T14:06:00.000Z",
       "summary": "Latex Foam has donated GH¢30,000 to the University of Ghana to support brilliant but needy students, as part of efforts to improve access to tertiary education for financially disadvantaged…"
-    },
-    {
-      "title": "World Bank Pushes AI, Aid Transparency to Help Governments Track Development Funding",
-      "link": "https://thehighstreetjournal.com/world-bank-pushes-ai-aid-transparency/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T13:59:31.000Z",
-      "summary": "The bank says governments need better access to connected financing data showing how much donors commit and spend, which institutions receive the funds and where projects are implemented"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T12:05:03.207Z",
+  "updated": "2026-11-27T12:15:01.868Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,59 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CAITEC Group to expand into mining sector, explore new business opportunities over the next 5 years – Chairman",
+      "link": "https://www.myjoyonline.com/caitec-group-to-expand-into-mining-sector-explore-new-business-opportunities-over-the-next-5-years-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:08:36.000Z",
+      "summary": "CAITEC Group Chairman, Mr Tang Hong, has announced plans to expand the company's operations into new business areas, with the mining sector identified as a key focus over the next five…",
+      "categories": [
+        "Business",
+        "National",
+        "CAITEC Group",
+        "Mining"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Guinea-Bissau’s military leaders delay return to civilian rule until 2028",
+      "link": "https://www.myjoyonline.com/guinea-bissaus-military-leaders-delay-return-to-civilian-rule-until-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:07:33.000Z",
+      "summary": "Guinea-Bissau's military rulers have postponed elections scheduled for next week by two years, delaying the return to civilian rule.",
+      "categories": [
+        "Africa",
+        "Guinea-Bissau",
+        "Military"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Malaysia charges six for drug trafficking at military base",
+      "link": "https://www.myjoyonline.com/malaysia-charges-six-for-drug-trafficking-at-military-base/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:07:21.000Z",
+      "summary": "A Malaysian court has charged six people, including three Malaysian military personnel, for trafficking drugs at an air base near the capital Kuala Lumpur, local media report.",
+      "categories": [
+        "International",
+        "Malaysia",
+        "Military"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "link": "https://www.myjoyonline.com/california-warns-of-flooding-as-king-tides-peak-over-thanksgiving/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:07:05.000Z",
+      "summary": "Coastal areas of California are bracing for potential flooding as king tides peak inthe state during the US Thanksgiving holiday.",
+      "categories": [
+        "International",
+        "California",
+        "King Tides"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank-JoyBusiness Financial Dialogue: Businesswomen advised to research market before exporting goods",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-businesswomen-advised-to-research-market-before-exporting-goods/",
@@ -71,6 +124,7 @@ window.GDC_PAPERS = {
       "summary": "Ghana and Côte d’Ivoire have launched the second phase of their joint international land boundary reaffirmation exercise to strengthen border security, prevent territorial disputes and…",
       "categories": [
         "National",
+        "Top Story",
         "Boundary pillars",
         "Cote D'Ivoire",
         "Ghana"
@@ -98,67 +152,6 @@ window.GDC_PAPERS = {
         "Banking and Finance",
         "Christian Mottey",
         "UBA Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Richmond Adu-Poku: Artistes should not be condemned for supporting a political party",
-      "link": "https://www.myjoyonline.com/richmond-adu-poku-artistes-should-not-be-condemned-for-supporting-a-political-party/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:26:40.000Z",
-      "summary": "We need artistes courageous enough to speak truth to power, and politicians humble enough to listen when the music is no longer flattering.",
-      "categories": [
-        "Art & Design",
-        "HP Entertainment 1",
-        "Artistes",
-        "Mzbel",
-        "Politics"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MODEC, partners donate GH¢1.7m medical equipment to Tema General Hospital",
-      "link": "https://www.myjoyonline.com/modec-partners-donate-gh%c2%a21-7m-medical-equipment-to-tema-general-hospital/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:14:13.000Z",
-      "summary": "The Tema General Hospital has received medical equipment valued at GH¢1.7 million from MODEC Inc. and its partners — Mitsui & Co. Ltd, Marubeni Corporation and Mitsui O.S.K. Lines Ltd — to…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Dr Ralph Armah",
-        "MODEC",
-        "Tema General Hospital"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Brand New Day: NSROMAmusic’s next move",
-      "link": "https://www.myjoyonline.com/brand-new-day-nsromamusics-next-move/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:13:40.000Z",
-      "summary": "Just when we thought NSROMAmusic had said it all with His Word and taken us to heavenly heights with RADIANCE 2026: A Heavenly Sound, she is back with yet another surprise. And this time…",
-      "categories": [
-        "Music",
-        "Brand New Day",
-        "NSROMAmusic"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Kurt Okraku can lead CAF’ – Zimbabwe FA President",
-      "link": "https://www.myjoyonline.com/kurt-okraku-can-lead-caf-zimbabwe-fa-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T11:08:31.000Z",
-      "summary": "Magwizi believes the Ghana Football Association (GFA) president has what it takes to lead African football and would encourage the latter to make his intentions clear.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "In Focus",
-        "National",
-        "CAF",
-        "Kurt Okraku",
-        "Nqobile Magwizi",
-        "Zimbabwe FA President"
       ],
       "site": "https://www.myjoyonline.com/"
     },
