@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T18:34:12.389Z",
+  "updated": "2026-11-27T18:44:12.744Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,30 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "RON Foundation invests in digital education at Atwima Koforidua with modern ICT lab commissioning",
+      "link": "https://www.myjoyonline.com/ron-foundation-invests-in-digital-education-at-atwima-koforidua-with-modern-ict-lab-commissioning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T18:38:36.000Z",
+      "summary": "A philanthropic organization, RON Foundation, has cut the sod for the construction of a modern Information and Communication Technology (ICT) laboratory at Atwima Koforidua in the Ashanti…",
+      "categories": [
+        "Education",
+        "Atwima Koforidua",
+        "RON Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production – Kuapa Kokoo MD",
+      "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T18:35:09.000Z",
+      "summary": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Central bank cannot engage in private sector lending – BoG Research Director",
       "link": "https://www.myjoyonline.com/central-bank-cannot-engage-in-private-sector-lending-bog-research-director/",
@@ -97,33 +121,6 @@ window.GDC_PAPERS = {
         "Regional",
         "GRIDCo",
         "Transmission Line"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Zelensky criticises ‘strange’ Trump-Putin friendship in BBC interview",
-      "link": "https://www.myjoyonline.com/zelensky-criticises-strange-trump-putin-friendship-in-bbc-interview/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:15:01.000Z",
-      "summary": "Volodymyr Zelensky has voiced deep frustration with the US, criticising Donald Trump for calling Vladimir Putin \"my friend\" and saying delays in delivering vital anti-ballistic missiles…",
-      "categories": [
-        "International",
-        "Trump-Putin",
-        "Volodymyr Zelensky"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Youth Development Ministry raises alarm over unemployment and drug abuse among youth",
-      "link": "https://www.myjoyonline.com/youth-development-ministry-raises-alarm-over-unemployment-and-drug-abuse-among-youth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:14:51.000Z",
-      "summary": "Ghana's youth unemployment and substance abuse challenges remain a major concern for the Ministry of Youth Development and Empowerment, with officials indicating that more intensive…",
-      "categories": [
-        "National",
-        "Drug Abuse",
-        "Youth",
-        "Youth Development Ministry"
       ],
       "site": "https://www.myjoyonline.com/"
     },
