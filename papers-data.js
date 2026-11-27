@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T04:09:30.167Z",
+  "updated": "2026-11-27T04:19:30.579Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -62,6 +62,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Accra Mall celebrates Ghanaian music through Homegrown Stars",
+      "link": "https://www.myjoyonline.com/accra-mall-celebrates-ghanaian-music-through-homegrown-stars/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:23:00.000Z",
+      "summary": "A Saturday shopping trip can easily turn into a full day out with good food, great company, and a little entertainment along the way. That was the experience for visitors to Accra Mall over…",
+      "categories": [
+        "Events",
+        "Music",
+        "Accra Mall",
+        "Homegrown Stars"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Past debt obligations complicate government’s spending decisions – Terkper",
       "link": "https://www.myjoyonline.com/past-debt-obligations-complicate-governments-spending-decisions-terkper/",
       "source": "MyJoyOnline",
@@ -114,21 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "2027 Budget",
         "Seth Terkper"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Selassie Ibrahim has revived hope in Ghana’s film industry with REFFA – KMJ",
-      "link": "https://www.myjoyonline.com/selassie-ibrahim-has-revived-hope-in-ghanas-film-industry-with-reffa-kmj/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T02:49:52.000Z",
-      "summary": "The Head of Communications for Regal Film Festival and Awards (REFFA), Kpekpo Maxwell Justice (KMJ), has highlighted how the scheme is changing the face of Ghana’s movie industry.",
-      "categories": [
-        "HP Entertainment 2",
-        "Movies",
-        "KMJ",
-        "Regal Film Festival and Awards",
-        "Selassie Ibrahim"
       ],
       "site": "https://www.myjoyonline.com/"
     },
