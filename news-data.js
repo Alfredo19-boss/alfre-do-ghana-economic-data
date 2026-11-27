@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T07:54:29.654Z",
+  "updated": "2026-11-27T08:04:31.361Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MTN MoMo, Ecobank Launch Cross-Border Money Transfer Service Between Ghana And Côte d’Ivoire",
+      "link": "https://thehighstreetjournal.com/mtn-momo-ecobank-launch-cross-border-money-transfer-service-between-ghana-and-cote-divoire/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T08:02:00.000Z",
+      "summary": "Mobile Money Fintech Limited and Ecobank Ghana have launched a cross-border transfer service enabling customers in Côte d’Ivoire to send money directly to Ghanaian MTN MoMo wallets."
+    },
     {
       "title": "VALCO Steps In as Tema Water Disruption Puts Pressure on Local Businesses and Households",
       "link": "https://thehighstreetjournal.com/valco-steps-in-as-tema-water-disruption-puts-pressure-on-local-businesses-and-households/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T11:27:35.000Z",
       "summary": "MTN Ghana Foundation has enrolled 160 SMEs across three regions in a programme offering training, mentorship, funding access and digital support to drive business growth and employment."
-    },
-    {
-      "title": "Food Prices to Rise 10.3% in 2026 as El Niño Threatens Harvests, World Bank Warns",
-      "link": "https://thehighstreetjournal.com/food-prices-torise-10-3-in2026-el-nino/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T10:43:50.000Z",
-      "summary": "The risks come as food inflation remains elevated in many economies. About 33% of countries analysed recorded food inflation above 5%"
     }
   ]
 };

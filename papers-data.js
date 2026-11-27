@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T07:55:00.803Z",
+  "updated": "2026-11-27T08:05:01.792Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana, US experts to discuss disability inclusion at international confab",
+      "link": "https://ghanaiantimes.com.gh/ghana-us-experts-to-discuss-disability-inclusion-at-international-confab/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:00:22.000Z",
+      "summary": "MORE than 200 academics, researchers, educators, policymakers, parents, advocates and persons with disabilities from Ghana and the United States are expected to participate in an…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
       "link": "https://www.graphic.com.gh/news/general-news/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line.html",
@@ -123,18 +135,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-27T07:09:23.000Z",
       "summary": "THE Tema Integrated Industrial Park (TIIP) is expected to create at least 4,000 direct jobs and 10,000 indirect employment opportunities, with developers promising to prioritise residents…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MP moves to improve okada safety in Agortime-Ziope",
-      "link": "https://ghanaiantimes.com.gh/mp-moves-to-improve-okada-safety-in-agortime-ziope/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:04:46.000Z",
-      "summary": "THE Member of Parliament (MP) for Agortime-Ziope Constituency, Mr Charles Agbeve, has acquired commercial motor riding licences for 39 riders in the area at a cost of GH₵48,000. The move…",
       "categories": [
         "Hot!",
         "News"
