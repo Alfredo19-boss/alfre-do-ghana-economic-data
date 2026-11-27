@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T17:14:11.768Z",
+  "updated": "2026-11-27T17:24:12.097Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,110 +21,106 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Consumer Protection Agency CEO Kofi Kapito passes on in the US",
-      "link": "https://www.myjoyonline.com/consumer-protection-agency-ceo-kofi-kapito-passes-on-in-the-us/",
+      "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
+      "link": "https://www.myjoyonline.com/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:15:15.000Z",
+      "summary": "The Ghana Grid Company (GRIDCo) has successfully restored the damaged 330kV Aboadze–Anwomaso transmission line, which tripped and caused power outages in parts of the Ashanti and Western…",
+      "categories": [
+        "Regional",
+        "GRIDCo",
+        "Transmission Line"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Zelensky criticises ‘strange’ Trump-Putin friendship in BBC interview",
+      "link": "https://www.myjoyonline.com/zelensky-criticises-strange-trump-putin-friendship-in-bbc-interview/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:15:01.000Z",
+      "summary": "Volodymyr Zelensky has voiced deep frustration with the US, criticising Donald Trump for calling Vladimir Putin \"my friend\" and saying delays in delivering vital anti-ballistic missiles…",
+      "categories": [
+        "International",
+        "Trump-Putin",
+        "Volodymyr Zelensky"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Youth Development Ministry raises alarm over unemployment and drug abuse among youth",
+      "link": "https://www.myjoyonline.com/youth-development-ministry-raises-alarm-over-unemployment-and-drug-abuse-among-youth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:14:51.000Z",
+      "summary": "Ghana's youth unemployment and substance abuse challenges remain a major concern for the Ministry of Youth Development and Empowerment, with officials indicating that more intensive…",
+      "categories": [
+        "National",
+        "Drug Abuse",
+        "Youth",
+        "Youth Development Ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECG explains power outage affecting Tema, Afienya and surrounding communities",
+      "link": "https://www.myjoyonline.com/ecg-explains-power-outage-affecting-tema-afienya-and-surrounding-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:14:19.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has attributed a power outage affecting several communities in the Tema Region to a fault in its distribution network, assuring affected customers…",
+      "categories": [
+        "News",
+        "ECG",
+        "Tema"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Respect for time is one thing hurting Ghana’ – Patrick Boamah",
+      "link": "https://www.myjoyonline.com/respect-for-time-is-one-thing-hurting-ghana-patrick-boamah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:14:08.000Z",
+      "summary": "The Okaikwei Central Member of Parliament, Patrick Boamah, says that lack of respect for time is one of the challenges affecting Ghana, insisting that punctuality must be taken seriously…",
+      "categories": [
+        "National",
+        "Patrick Boamah",
+        "Time"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Are you going to be an MP in absentia?’ – Patrick Boamah challenges MPs on attendance",
+      "link": "https://www.myjoyonline.com/are-you-going-to-be-an-mp-in-absentia-patrick-boamah-challenges-mps-on-attendance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:14:01.000Z",
+      "summary": "The Member of Parliament for Okaikwei Central, Patrick Boamah, has challenged his colleagues in Parliament to take their attendance and punctuality seriously, questioning whether they want…",
+      "categories": [
+        "National",
+        "Members of Parliament (MPs)",
+        "Patrick Boamah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Afigya Sekyere East needs better healthcare, jobs and education – MP aspirant",
+      "link": "https://www.myjoyonline.com/afigya-sekyere-east-needs-better-healthcare-jobs-and-education-mp-aspirant/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:13:10.000Z",
+      "summary": "Private legal practitioner and aspiring Member of Parliament for Afigya Sekyere East, Barima Sarpong, has pledged to prioritise improvements in healthcare, education and employment…",
+      "categories": [
+        "Regional",
+        "Afigya Sekyere East",
+        "Barima Sarpong"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Consumer Protection Agency CEO Kofi Kapito passes away in the US",
+      "link": "https://www.myjoyonline.com/consumer-protection-agency-ceo-kofi-kapito-passes-away-in-the-us/",
       "source": "MyJoyOnline",
       "published": "2026-11-27T17:09:20.000Z",
       "summary": "Chief Executive Officer of Ghana’s Consumer Protection Agency (CPA), Kofi Kapito, has died. Family sources have confirmed to MyJoyOnline that Mr Kapito had been ill for the past few months…",
       "categories": [
+        "HP News 1",
         "National"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana risks food crisis as farmers struggle to recover production costs – Annoh-Dompreh",
-      "link": "https://www.myjoyonline.com/ghana-risks-food-crisis-as-farmers-struggle-to-recover-production-costs-annoh-dompreh/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:08:49.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has warned that Ghana risks a future food crisis if the government fails to urgently address the growing food glut that has left farmers struggling…",
-      "categories": [
-        "National",
-        "Food security",
-        "Frank Annoh-Dompreh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GHEL, EPA join forces to restore lands and river bodies destroyed by galamsey",
-      "link": "https://www.myjoyonline.com/ghel-epa-join-forces-to-restore-lands-and-river-bodies-destroyed-by-galamsey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:08:22.000Z",
-      "summary": "The Ghana Heavy Equipment Limited (GHEL) has committed to providing amphibious excavators and specialised dredging machinery to support efforts by the Environmental Protection Authority…",
-      "categories": [
-        "News",
-        "Galamsey",
-        "Mining"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Madina riders receive helmets to promote road safety",
-      "link": "https://www.myjoyonline.com/madina-riders-receive-helmets-to-promote-road-safety/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T16:39:15.000Z",
-      "summary": "An executive member of the Madina Constituency, Tony Bonsu, has led the distribution of hundreds of protective helmets to motorcycle riders in Madina, Accra, to promote road safety and…",
-      "categories": [
-        "Regional",
-        "Helmet",
-        "Madina riders",
-        "safety"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Food glut threatens Ghana’s future food security – Minority Chief Whip",
-      "link": "https://www.myjoyonline.com/food-glut-threatens-ghanas-future-food-security-minority-chief-whip/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T16:34:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has warned that Ghana’s growing food glut could trigger a future food shortage if the government fails to urgently address the difficulties…",
-      "categories": [
-        "National",
-        "Food security",
-        "Frank Annoh-Dompreh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG new policy rate leaves policy floor unchanged – IC Insights",
-      "link": "https://www.myjoyonline.com/bog-new-policy-rate-leaves-policy-floor-unchanged-ic-insights/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T16:30:47.000Z",
-      "summary": "In its commentary on the recent Monetary Policy Committee decision, the leading investment research firm said the outcome of its analysis of the policy decision supports the MPC’s view that…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 7",
-        "BoG",
-        "IC Insights",
-        "MPR",
-        "OMO",
-        "Policy rate"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kasoa baby theft: Midwife and 2 women remanded for two weeks",
-      "link": "https://www.myjoyonline.com/kasoa-baby-theft-midwife-and-two-women-remanded-for-two-weeks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T16:20:48.000Z",
-      "summary": "A midwife and two other women have been remanded into police custody for two weeks following their alleged involvement in the disappearance of a day-old baby girl at Kasoa Ofaakor.",
-      "categories": [
-        "Crime",
-        "HP News 5",
-        "Kasoa",
-        "midwife"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Things I wish I’d known at 25",
-      "link": "https://www.myjoyonline.com/things-i-wish-id-known-at-25/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T16:18:27.000Z",
-      "summary": "I write this blog in the evenings. My days belong to work, and these days some of my nights belong to law school. What's left over, after five, is where I think and where I write. That's…",
-      "categories": [
-        "Features",
-        "Health"
       ],
       "site": "https://www.myjoyonline.com/"
     },
