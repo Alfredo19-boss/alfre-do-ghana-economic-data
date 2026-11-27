@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:15:01.166Z",
+  "updated": "2026-11-27T08:25:01.651Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,84 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2026 CAF Awards: Chawinga sisters, Banda and Ngock headline final five for CAF Women’s Player of the Year",
+      "link": "https://www.myjoyonline.com/2026-caf-awards-chawinga-sisters-banda-and-ngock-headline-final-five-for-caf-womens-player-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T08:21:54.000Z",
+      "summary": "The shortlist reflects a remarkable year for women's football across the continent, highlighted by Cameroon's historic triumph at the TotalEnergies CAF Women's Africa Cup of Nations…",
+      "categories": [
+        "Football",
+        "National",
+        "barbra banda",
+        "CAF Awards",
+        "Monique Ngock",
+        "Tabitha Chawinga",
+        "Temwa Chawinga"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nana Akuoko Sarpong goes home",
+      "link": "https://ghanaiantimes.com.gh/nana-akuoko-sarpong-goes-home/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:20:34.000Z",
+      "summary": "THE late Agogomanhene, Nana Kwame Akuoko Sarpong, has been laid to rest in line with Ashanti culture. It was preceded by a three-day funeral which commenced on Tuesday, November 24, 2025…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s Front pages: Friday, November 27, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-27-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T08:19:27.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "National",
+        "Newspaper Front pages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwabenya SHS, Accra Girls win HIV awareness contest",
+      "link": "https://ghanaiantimes.com.gh/kwabenya-shs-accra-girls-win-hiv-awareness-contest/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T08:17:37.000Z",
+      "summary": "KWABENYA Community Senior High School (SHS) and Accra Girls’ SHS have emerged winners of an inter-school debate and art competition held to promote HIV awareness among young people. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Toxic dumping ground: Greenpeace finds UK retailers' faulty returns at Agbogbloshie e-waste site",
+      "link": "https://www.graphic.com.gh/news/general-news/toxic-dumping-ground-greenpeace-finds-uk-retailers-faulty-returns-at-agbogbloshie-e-waste-site.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T08:17:33.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "High Court admits police cyber forensic report in Ashie Moore case",
+      "link": "https://www.myjoyonline.com/high-court-admits-police-cyber-forensic-report-in-ashie-moore-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T08:17:25.000Z",
+      "summary": "The High Court, Human Rights Division, has admitted a cyber forensic analysis report prepared by the Cybercrime Unit of the Criminal Investigations Department (CID) of the Ghana Police…",
+      "categories": [
+        "Crime",
+        "National",
+        "News",
+        "Ashie Moore",
+        "Human rights",
+        "Toh You Kang"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Vivo Energy equips women with vehicle maintenance skills",
       "link": "https://ghanaiantimes.com.gh/vivo-energy-equips-women-with-vehicle-maintenance-skills/",
@@ -117,29 +195,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Chainsaw operators plunge 2 regions into darkness • Felled tree damages GRIDCo’s 330kV transmission line",
-      "link": "https://ghanaiantimes.com.gh/chainsaw-operators-plunge-2-regions-into-darkness-felled-tree-damages-gridcos-330kv-transmission-line/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:21:55.000Z",
-      "summary": "ILLEGAL chainsaw operators have felled a large tree onto a major high-voltage transmission line, causing widespread power outages in parts of the Ashanti and Western regions. The Ghana Grid…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘Financial barriers limit women, youth in leadership’",
-      "link": "https://ghanaiantimes.com.gh/financial-barriers-limit-women-youth-in-leadership/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T07:15:31.000Z",
-      "summary": "FINANCIAL demands and entrenched political structures continue to limit women and young people seeking leadership positions in Ghana, despite growing calls for inclusive governance. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "How digital entertainment is changing the way people spend their leisure time",
       "link": "https://www.myjoyonline.com/how-digital-entertainment-is-changing-the-way-people-spend-their-leisure-time/",
       "source": "MyJoyOnline",
@@ -198,46 +253,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "Politics",
         "Representation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Mahama arrives in Barbados to deepen Ghana-Caribbean ties on five-day State visit",
-      "link": "https://www.myjoyonline.com/photos-mahama-arrives-in-barbados-to-deepen-ghana-caribbean-ties-on-five-day-state-visit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T05:45:00.000Z",
-      "summary": "President John Mahama has arrived in Barbados for a five-day State visit to strengthen historical, diplomatic, cultural, and economic ties between the two countries.",
-      "categories": [
-        "National",
-        "Mahama in Barbados"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fix your networks before Christmas, Sam George tells telcos",
-      "link": "https://www.myjoyonline.com/fix-your-networks-before-christmas-sam-george-tells-telcos/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T05:42:00.000Z",
-      "summary": "Mobile network operators have been urged to brace their networks for the Christmas rush and ensure that customers do not endure dropped calls, slow internet speeds and unreliable…",
-      "categories": [
-        "HP News 1",
-        "News",
-        "Telecom",
-        "network",
-        "Telco"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Big contractors sabotaged Akufo-Addo’s Year of Roads – Agbodza alleges",
-      "link": "https://www.myjoyonline.com/big-contractors-sabotaged-akufo-addos-year-of-roads-agbodza-alleges/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T05:25:00.000Z",
-      "summary": "Roads and Highways Minister Kwame Governs Agbodza has accused major road contractors of deliberately abandoning projects under the Akufo-Addo administration to secure new contracts under a…",
-      "categories": [
-        "National",
-        "Kwame Governs Agbodza",
-        "Roads and Highways Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -304,17 +319,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sir Sam Jonah to receive Okyeman Kanea Keseɛ award in Kyebi",
-      "link": "https://www.graphic.com.gh/news/general-news/sir-sam-jonah-to-receive-okyeman-kanea-kesee-award-in-kyebi.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T17:41:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
