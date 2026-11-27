@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:45:02.213Z",
+  "updated": "2026-11-27T11:55:02.917Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,7 +32,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Fameye’s Our Day: A homecoming concert inspired by childhood memories, resilience and gratitude",
+      "title": "Fameye set to host Our Day concert inspired by childhood memories, resilience",
       "link": "https://www.myjoyonline.com/fameyes-our-day-a-homecoming-concert-inspired-by-childhood-memories-resilience-and-gratitude/",
       "source": "MyJoyOnline",
       "published": "2026-11-27T11:39:25.000Z",
