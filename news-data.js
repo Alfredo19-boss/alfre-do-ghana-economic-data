@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T05:09:00.158Z",
+  "updated": "2026-11-27T06:44:30.142Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Fix your networks before Christmas, Sam George tells telcos",
+      "link": "https://www.myjoyonline.com/fix-your-networks-before-christmas-sam-george-tells-telcos/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:42:00.000Z",
+      "summary": "Mobile network operators have been urged to brace their networks for the Christmas rush and ensure that customers do not endure dropped calls, slow internet speeds and unreliable…"
+    },
+    {
+      "title": "Powered by Africa launches in Accra with proposed $100m investment fund",
+      "link": "https://www.myjoyonline.com/powered-by-africa-launches-in-accra-with-proposed-100m-investment-fund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:14:00.000Z",
+      "summary": "A new international platform aimed at unlocking global capital and diaspora investment for Africa’s infrastructure and economic development has been launched in Accra."
+    },
     {
       "title": "Fuel Prices Expected to Drop Significantly in December – COMAC",
       "link": "https://thehighstreetjournal.com/fuel-prices-expected-to-drop-significantly-in-december-comac/",
@@ -239,11 +253,11 @@ window.GDC_NEWS = {
       "summary": "BoG wants lenders to use GH¢4.99 trillion in mobile money transaction data to assess informal businesses, expand affordable credit, improve financial inclusion and strengthen MSME financing."
     },
     {
-      "title": "3rd Ecobank-Joy Business Dialogue comes off Friday with a focus on empowering women-led businesses",
+      "title": "3rd Ecobank-Joy Business Dialogue comes off today with a focus on empowering women-led businesses",
       "link": "https://www.myjoyonline.com/3rd-ecobank-joy-business-dialogue-comes-off-friday-with-a-focus-on-empowering-women-led-businesses/",
       "source": "MyJoyOnline",
       "published": "2026-11-26T12:44:06.000Z",
-      "summary": "The role of finance, business development support and access to markets in unlocking the growth potential of women-led businesses will take centre stage tomorrow, Friday, November 27, when…"
+      "summary": "The role of finance, business development support and access to markets in unlocking the growth potential of women-led businesses will take centre stage today, Friday, November 27, when…"
     },
     {
       "title": "Government to scrap import duties, VAT on solar panels and batteries — Ato Forson",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T09:01:22.000Z",
       "summary": "Chartered Institute of Bankers, Ghana (CIB Ghana) has called for stronger professional and ethical standards across the banking industry as artificial intelligence (AI), virtual assets and…"
-    },
-    {
-      "title": "Tullow Oil strikes tax settlement deal with Ghana, to pay $112m upfront",
-      "link": "https://www.myjoyonline.com/tullow-oil-strikes-tax-settlement-deal-with-ghana-to-pay-112m-upfront/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T08:38:50.000Z",
-      "summary": "Tullow Oil has reached an agreement with Government of Ghana to settle outstanding tax liabilities from two international arbitration cases, pending parliamentary approval."
-    },
-    {
-      "title": "Govt’s GHS85Bn Domestic Borrowing Target for 2027 Could Choke Private Sector Credit Recovery – Deloitte",
-      "link": "https://thehighstreetjournal.com/govts-ghs85bn-domestic-borrowing-target-for-2027-could-choke-private-sector-credit-recovery-deloitte/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T08:00:00.000Z",
-      "summary": "Deloitte warns Ghana’s planned GHS85 billion domestic borrowing in 2027 could crowd out private sector lending, reverse declining interest rates and undermine credit recovery, urging…"
     }
   ]
 };

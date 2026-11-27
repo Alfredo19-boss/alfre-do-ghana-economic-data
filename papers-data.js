@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T05:09:30.990Z",
+  "updated": "2026-11-27T06:45:00.409Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,109 +21,207 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "CLOGSAG demands probe into alleged assault on Okaikwei North Assembly worker",
-      "link": "https://www.myjoyonline.com/clogsag-demands-probe-into-alleged-assault-on-okaikwei-north-assembly-worker/",
+      "title": "Why Ghana is moving to protect its traditional palm spirit and what it could mean for producers, consumers and the country’s global reputation",
+      "link": "https://ghanaiantimes.com.gh/why-ghana-is-moving-to-protect-its-traditional-palm-spirit-and-what-it-could-mean-for-producers-consumers-and-the-countrys-global-reputation/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:43:30.000Z",
+      "summary": "GHANA is on the verge of doing for Apio what Scotland did for Scotch Whisky and what France did for Cognac. Across the world, some of the most successful products are not simply…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "5 Mexicans arrested in Nigeria over $200m meth seizure",
+      "link": "https://ghanaiantimes.com.gh/5-mexicans-arrested-in-nigeria-over-200m-meth-seizure/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:38:59.000Z",
+      "summary": "NIGERIA’S anti-drug agency said on Wednesday it had seized methamphetamine valued at $227 million and arrested five Mexican nationals in the southeastern state of Enugu. The drug haul is…",
+      "categories": [
+        "Africa",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kenyan cult leader serving 200-year murder sentence convicted of new charges",
+      "link": "https://ghanaiantimes.com.gh/kenyan-cult-leader-serving-200-year-murder-sentence-convicted-of-new-charges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:35:58.000Z",
+      "summary": "KENYAN cult leader Paul Mackenzie, serving a 200-year sentence for murdering nearly 200 children who were starved to death on his orders, was on Wednesday convicted of new charges…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "31 killed in Egypt fire after vehicle overturns",
+      "link": "https://ghanaiantimes.com.gh/31-killed-in-egypt-fire-after-vehicle-overturns/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:33:20.000Z",
+      "summary": "THIRTY-ONE people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday. The fire broke…",
+      "categories": [
+        "Africa"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama honoured at World CEO Summit in Tanzania",
+      "link": "https://www.myjoyonline.com/mahama-honoured-at-world-ceo-summit-in-tanzania/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T04:38:49.000Z",
-      "summary": "The Civil and Local Government Staff Association of Ghana (CLOGSAG) has called for a full-scale investigation into the alleged slapping of an administrative officer of the Okaikwei North…",
+      "published": "2026-11-27T06:29:45.000Z",
+      "summary": "Ghana’s President John Dramani Mahama has been honoured at the 2026 World CEO Summit in Tanzania for his leadership in Ghana’s economic transformation and his influence across Africa…",
       "categories": [
         "News",
-        "Assault",
-        "Assembly",
-        "Slap"
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Cashew export restriction threatens thousands of livelihoods – Traders petition Mahama",
-      "link": "https://www.myjoyonline.com/cashew-export-restriction-threatens-thousands-of-livelihoods-traders-petition-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T04:29:00.000Z",
-      "summary": "Cashew traders, exporters and farmer-led associations have petitioned President John Mahama to withdraw the proposed three-month restriction on raw cashew exports, warning that the policy…",
+      "title": "Diabetes patients urged to seek early screening",
+      "link": "https://ghanaiantimes.com.gh/diabetes-patients-urged-to-seek-early-screening/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:29:23.000Z",
+      "summary": "DIABETES patients who fail to detect and manage the disease early risk kidney failure, stroke, blindness and limb amputations, the 37 Military Hospital has warned. The hospital has…",
       "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Healthy soils are key to food security",
+      "link": "https://ghanaiantimes.com.gh/healthy-soils-are-key-to-food-security/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:25:20.000Z",
+      "summary": "THE nation’s quest to increase agricultural production and achieve food security must begin with the soil. For too long, attention has focused on the quantity of fertiliser applied to…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "1 dead, 5 soldiers injured in Circle demolition clash",
+      "link": "https://ghanaiantimes.com.gh/1-dead-5-soldiers-injured-in-circle-demolition-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:23:42.000Z",
+      "summary": "ONE person was killed and five military personnel injured yesterday when a demolition exercise along the railway corridor near the Kwame Nkrumah Interchange in Accra descended into…",
+      "categories": [
+        "Crime"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Women’s Development Bank or microfinance institution? Recruitment advert raises questions",
+      "link": "https://www.myjoyonline.com/womens-development-bank-or-microfinance-institution-recruitment-advert-raises-questions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T06:21:24.000Z",
+      "summary": "The government has begun recruitment for the institution it calls the Women’s Development Bank, but the official recruitment advert in the Daily Graphic describes it as a microfinance…",
+      "categories": [
+        "HP News 8",
         "National",
-        "Cashew farmers",
-        "Petition to John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Twifo Praso clash: One dead, police deploy 100 officers after anti-drug raid",
-      "link": "https://www.myjoyonline.com/twifo-praso-clash-one-dead-police-deploy-100-officers-after-anti-drug-raid/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T04:26:46.000Z",
-      "summary": "A police operation targeting suspected drug hideouts at Twifo Praso in the Central Region has ended in violence, leaving one civilian dead, several others injured, and three police officers…",
-      "categories": [
-        "News",
-        "disturbance",
-        "Police",
-        "Twifo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cashew traders petition Mahama to halt proposed three-month export restriction",
-      "link": "https://www.myjoyonline.com/cashew-traders-petition-mahama-to-halt-proposed-three-month-export-restriction/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T04:11:00.000Z",
-      "summary": "Cashew traders, exporters, and farmer-led associations have petitioned President John Mahama to withdraw the proposed three-month restriction on raw cashew exports, warning that the policy…",
-      "categories": [
-        "National",
-        "Cashew traders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kosmos Energy renovates dining hall at Senya SHS",
-      "link": "https://www.myjoyonline.com/kosmos-energy-renovates-dining-hall-at-senya-shs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:54:21.000Z",
-      "summary": "Kosmos Energy Ghana (KEG) has renovated the dining hall at Senya Senior High School in the Awutu Senya District of the Central Region, providing dining furniture and kitchen facilities to…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Dining Hall",
-        "Kosmos Energy",
-        "Senya SHS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Twice billed for dirty state databases",
-      "link": "https://www.myjoyonline.com/twice-billed-for-dirty-state-databases-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:50:04.000Z",
-      "summary": "At 2:26 pm on 24 November 2026, a speed camera flashed along a northern highway. A commercial minivan wearing a 2026 Greater Accra plate, GT [REDACTED]-26, clocked 85 km/h in a 50 km/h…",
-      "categories": [
         "Opinion",
-        "Sitsofe Mensah"
+        "Ato Forson",
+        "Felix Kwakye Ofosu",
+        "Microfinance",
+        "Naana Jane Opoku-Agyeman",
+        "NDC",
+        "women's development bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Budget projections vulnerable to global and domestic shocks — Terkper",
-      "link": "https://www.myjoyonline.com/budget-projections-vulnerable-to-global-and-domestic-shocks-terkper/",
+      "title": "Court remands 13 suspected NAIMOS impersonators",
+      "link": "https://ghanaiantimes.com.gh/court-remands-13-suspected-naimos-impersonators/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T06:19:38.000Z",
+      "summary": "THIRTEEN persons suspected of impersonating operatives of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) have been remanded into custody for allegedly extorting money from…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "EFL demands proportional representation to end winner-takes-all politics",
+      "link": "https://www.myjoyonline.com/efl-demands-proportional-representation-to-end-winner-takes-all-politics/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T03:43:02.000Z",
-      "summary": "Former Finance Minister Seth Terkper has cautioned against judging government budget projections without considering the economic shocks that can undermine revenue and expenditure…",
+      "published": "2026-11-27T06:05:00.000Z",
+      "summary": "The Economic Fighters League (EFL) has proposed setting aside 24 seats in Parliament for smaller political parties and organised groups under a pilot proportional representation (PR) system…",
       "categories": [
         "News",
-        "Budget",
-        "Economy"
+        "Economy",
+        "Ghana",
+        "Politics",
+        "Representation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Leroy Botchey named HR Future Leader Under 35",
-      "link": "https://www.myjoyonline.com/leroy-botchey-named-hr-future-leader-under-35/",
+      "title": "Photos: Mahama arrives in Barbados to deepen Ghana-Caribbean ties on five-day State visit",
+      "link": "https://www.myjoyonline.com/photos-mahama-arrives-in-barbados-to-deepen-ghana-caribbean-ties-on-five-day-state-visit/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T03:42:00.000Z",
-      "summary": "A Human Resource professional and HR Administration Manager at Société Générale Ghana PLC, Leroy Botchey was named the HR Future Leader Under 35 Award recipient at the 2026 HR Professionals…",
+      "published": "2026-11-27T05:45:00.000Z",
+      "summary": "President John Mahama has arrived in Barbados for a five-day State visit to strengthen historical, diplomatic, cultural, and economic ties between the two countries.",
       "categories": [
         "National",
-        "HR Future Leader Under 35",
-        "Leroy Botchey"
+        "Mahama in Barbados"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fix your networks before Christmas, Sam George tells telcos",
+      "link": "https://www.myjoyonline.com/fix-your-networks-before-christmas-sam-george-tells-telcos/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:42:00.000Z",
+      "summary": "Mobile network operators have been urged to brace their networks for the Christmas rush and ensure that customers do not endure dropped calls, slow internet speeds and unreliable…",
+      "categories": [
+        "HP News 1",
+        "News",
+        "Telecom",
+        "network",
+        "Telco"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Big contractors sabotaged Akufo-Addo’s Year of Roads – Agbodza alleges",
+      "link": "https://www.myjoyonline.com/big-contractors-sabotaged-akufo-addos-year-of-roads-agbodza-alleges/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:25:00.000Z",
+      "summary": "Roads and Highways Minister Kwame Governs Agbodza has accused major road contractors of deliberately abandoning projects under the Akufo-Addo administration to secure new contracts under a…",
+      "categories": [
+        "National",
+        "Kwame Governs Agbodza",
+        "Roads and Highways Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Firefighters retrieve man’s body from well in Volta Region",
+      "link": "https://www.myjoyonline.com/firefighters-retrieve-mans-body-from-well-in-volta-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:23:17.000Z",
+      "summary": "Residents of Avenorpedo in the Akatsi Municipality of the Volta Region have been left with unanswered questions after the body of an adult man was found in a well in the community.",
+      "categories": [
+        "HP News 3",
+        "News",
+        "Fire",
+        "well"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Powered by Africa launches in Accra with proposed $100m investment fund",
+      "link": "https://www.myjoyonline.com/powered-by-africa-launches-in-accra-with-proposed-100m-investment-fund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:14:00.000Z",
+      "summary": "A new international platform aimed at unlocking global capital and diaspora investment for Africa’s infrastructure and economic development has been launched in Accra.",
+      "categories": [
+        "Economy",
+        "National",
+        "News",
+        "Powered By Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -214,100 +312,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GAPHTO urges vigilance against yellow fever, CSM outbreaks",
-      "link": "https://ghanaiantimes.com.gh/gaphto-urges-vigilance-against-yellow-fever-csm-outbreaks/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T16:45:06.000Z",
-      "summary": "The Ghana Association of Public Health Technical Officers (GAPHTO) has warned of heightened risks of yellow fever and cerebrospinal meningitis (CSM) as Ghana enters the dry season. The…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US experts advocate source control to tackle mercury pollution",
-      "link": "https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T16:42:36.000Z",
-      "summary": "US environmental experts have called for stronger measures to prevent mercury from entering water bodies through illegal small-scale mining, warning that efforts to clean up contaminated…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama hands over new fleet of Aircraft to Ghana Air Force",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-hands-over-new-fleet-of-aircraft-to-ghana-air-force/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T15:51:04.000Z",
-      "summary": "President and Commander-in-Chief John Dramani Mahama has officially handed over a new fleet of aircraft to the Ghana Air Force, marking a significant step in the government’s commitment to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama heads to Barbados for a state visit from Nov 26-30",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-heads-to-barbados-for-a-state-visit-from-nov-26-30/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:23:24.000Z",
-      "summary": "President John Dramani Mahama will undertake a state visit to the Republic of Barbados from 26 to 30 November 2026. The visit underscores the longstanding historical and friendly relations…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama reconstitutes GNPC Board, appoints Solomon Quaynor as Chairman",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-reconstitutes-gnpc-board-appoints-solomon-quaynor-as-chairman/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:22:12.000Z",
-      "summary": "President John Dramani Mahama has reconstituted the Governing Board of the Ghana National Petroleum Corporation (GNPC) and appointed Mr. Solomon Quaynor as Chairman. The President has also…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "13 suspected NAIMOS impersonators remanded into custody",
-      "link": "https://ghanaiantimes.com.gh/13-suspected-naimos-impersonators-remanded-into-custody/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:18:05.000Z",
-      "summary": "Thirteen suspects arrested for allegedly impersonating National Anti-Illegal Mining Operations Secretariat (NAIMOS) operatives to extort money from miners have been remanded into custody…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana temporarily closes honorary consulate in Vancouver, announces Calgary closure",
-      "link": "https://ghanaiantimes.com.gh/ghana-temporarily-closes-honorary-consulate-in-vancouver-announces-calgary-closure/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:15:49.000Z",
-      "summary": "The Ghana High Commission in Ottawa, Canada, has announced the temporary closure of Ghana’s Honorary Consulate in Vancouver, British Columbia, until further notice. It has also announced…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "KMA directs traders to vacate Kejetia dedicated lanes as phase II works resume",
-      "link": "https://ghanaiantimes.com.gh/kma-directs-traders-to-vacate-kejetia-dedicated-lanes-as-phase-ii-works-resume/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-26T13:12:16.000Z",
-      "summary": "The Kumasi Metropolitan Assembly (KMA) has directed traders and other occupants along the dedicated lanes of the Kejetia Redevelopment Project Phase II to vacate the affected areas…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
