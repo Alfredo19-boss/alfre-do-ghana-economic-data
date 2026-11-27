@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T08:35:01.611Z",
+  "updated": "2026-11-27T08:45:00.333Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -78,6 +78,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T08:19:27.000Z",
       "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
       "categories": [
+        "In Focus",
         "National",
         "Newspaper Front pages"
       ],
@@ -206,6 +207,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "5.4m Ghanaians still practise open defecation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-5-4m-ghanaians-still-practise-open-defecation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T07:05:04.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "How digital entertainment is changing the way people spend their leisure time",
       "link": "https://www.myjoyonline.com/how-digital-entertainment-is-changing-the-way-people-spend-their-leisure-time/",
       "source": "MyJoyOnline",
@@ -305,17 +317,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/education/kosmos-energy-ghana-inaugurates-renovated-dining-hall-at-senya-shs.html",
       "source": "Daily Graphic",
       "published": "2026-11-26T18:21:37.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UMaT opens €400,000 Robotics and Automation Laboratory",
-      "link": "https://www.graphic.com.gh/news/education/umat-opens-eur400-000-robotics-and-automation-laboratory.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-26T18:15:42.000Z",
       "summary": "",
       "categories": [
         "Education"

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T08:34:31.104Z",
+  "updated": "2026-11-27T08:44:29.644Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -97,6 +97,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-27T05:02:00.000Z",
       "summary": "Gold prices have plunged 17.42% year-to-date and 36.25% from January’s record peak, raising concerns over Ghana’s export earnings, foreign exchange inflows and government revenue, with ACEP…"
+    },
+    {
+      "title": "Cashew traders reject blanket export restriction but back reasonable export levy",
+      "link": "https://www.myjoyonline.com/cashew-traders-reject-blanket-export-restriction-but-back-reasonable-export-levy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T05:02:00.000Z",
+      "summary": "The groups, however, support introducing a fair and reasonable export levy to promote price stability and ensure the long-term sustainability of Ghana’s cashew industry."
     },
     {
       "title": "AgriFair 2026 Opens with Focus on Better Market Returns and Farm Productivity",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T11:31:24.000Z",
       "summary": "Ghana is hosting the 6th German-African Business Summit (GABS 2026), bringing together business leaders, policymakers, investors and industry experts from Germany and across Africa to…"
-    },
-    {
-      "title": "MTN Foundation Targets SME Growth, Jobs with 160 Businesses in Three Regions",
-      "link": "https://thehighstreetjournal.com/mtn-foundation-targets-sme-growth-jobs-with-160-businesses-in-three-regions/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T11:27:35.000Z",
-      "summary": "MTN Ghana Foundation has enrolled 160 SMEs across three regions in a programme offering training, mentorship, funding access and digital support to drive business growth and employment."
     }
   ]
 };
