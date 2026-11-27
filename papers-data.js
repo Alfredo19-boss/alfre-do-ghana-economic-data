@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T04:59:30.297Z",
+  "updated": "2026-11-27T05:09:30.990Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -31,6 +31,19 @@ window.GDC_PAPERS = {
         "Assault",
         "Assembly",
         "Slap"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cashew export restriction threatens thousands of livelihoods – Traders petition Mahama",
+      "link": "https://www.myjoyonline.com/cashew-export-restriction-threatens-thousands-of-livelihoods-traders-petition-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T04:29:00.000Z",
+      "summary": "Cashew traders, exporters and farmer-led associations have petitioned President John Mahama to withdraw the proposed three-month restriction on raw cashew exports, warning that the policy…",
+      "categories": [
+        "National",
+        "Cashew farmers",
+        "Petition to John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -111,20 +124,6 @@ window.GDC_PAPERS = {
         "National",
         "HR Future Leader Under 35",
         "Leroy Botchey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Opportunity International Savings and Loans pays courtesy call on Ga Mantse",
-      "link": "https://www.myjoyonline.com/opportunity-international-savings-and-loans-pays-courtesy-call-on-ga-mantse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:33:00.000Z",
-      "summary": "Opportunity International Savings and Loans Ltd. (Opportunity) paid a courtesy call on King Tackie Teiko Tsuru II, the Ga Mantse, to deepen its partnership with the Ga Traditional Council…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Ga Mantse",
-        "Opportunity International Savings and Loans"
       ],
       "site": "https://www.myjoyonline.com/"
     },

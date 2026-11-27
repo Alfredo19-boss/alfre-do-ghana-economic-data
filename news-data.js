@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T04:58:59.932Z",
+  "updated": "2026-11-27T05:09:00.158Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,69 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Fuel Prices Expected to Drop Significantly in December – COMAC",
+      "link": "https://thehighstreetjournal.com/fuel-prices-expected-to-drop-significantly-in-december-comac/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:05:00.000Z",
+      "summary": "COMAC expects international market developments and exchange rate movements to drive significant reductions in petrol and diesel prices during December's first pricing window."
+    },
+    {
+      "title": "Ecobank Expands Banking Access in Awaso to Support Farmers and Small Businesses",
+      "link": "https://thehighstreetjournal.com/ecobank-expands-banking-access-in-awaso-to-support-farmers-and-small-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:03:21.000Z",
+      "summary": "Ecobank has opened a new agency in Awaso to improve banking access for farmers, traders and small businesses, supporting financial inclusion and local economic activity in Western North."
+    },
+    {
+      "title": "GNPC Leadership Shake-Up Raises Questions Over Fate of CEOs at Eight Other State Institutions",
+      "link": "https://thehighstreetjournal.com/gnpc-leadership-shake-up-raises-questions-over-fate-of-ceos-at-eight-other-state-institutions/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:03:00.000Z",
+      "summary": "President Mahama’s reassignment of GNPC’s CEO has raised questions about possible leadership changes at eight other state institutions whose governing boards were dissolved, with…"
+    },
+    {
+      "title": "Gold Prices Plunge 17.42% from Jan. to Nov. 2026, as Analysts Warn of Revenue Risks for Ghana",
+      "link": "https://thehighstreetjournal.com/gold-prices-plunge-17-42-from-jan-to-nov-2026-as-analysts-warn-of-revenue-risks-for-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:02:00.000Z",
+      "summary": "Gold prices have plunged 17.42% year-to-date and 36.25% from January’s record peak, raising concerns over Ghana’s export earnings, foreign exchange inflows and government revenue, with ACEP…"
+    },
+    {
+      "title": "AgriFair 2026 Opens with Focus on Better Market Returns and Farm Productivity",
+      "link": "https://thehighstreetjournal.com/agrifair-2026-opens-with-focus-on-better-market-returns-and-farm-productivity/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:01:00.000Z",
+      "summary": "The 2026 AgriFair brings farmers, buyers and researchers together to improve market access, boost farmers’ earnings and promote practical technologies for more productive agriculture."
+    },
+    {
+      "title": "Kasapreko Cuts Debt as Nine-Month Profit Climbs 14.3% to GH¢296m",
+      "link": "https://thehighstreetjournal.com/kasapreko-cuts-debt-as-nine-month-profit-climbs-14-3-to-gh%c2%a2296m/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "Kasapreko cut its debt-to-equity ratio to 0.29 times as nine-month profit rose 14.3% to GH¢296 million, supported by revenue growth and lower finance costs."
+    },
+    {
+      "title": "Mahama Heads to Barbados as Ghana Seeks Deeper Caribbean Trade, Investment Ties",
+      "link": "https://thehighstreetjournal.com/mahama-heads-to-barbados/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "The visit comes as Mahama prepares to assume the chairmanship of the African Union, a position that could provide an opportunity to advance closer economic and diplomatic relations"
+    },
+    {
+      "title": "Afreximbank, Abuja Medical Centre to Convene Investors for Healthcare Funding Forum",
+      "link": "https://thehighstreetjournal.com/afreximbank-abuja-medical-centre-to-meet/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "The one-day AMCE–TRADAR Club Joint Health & Investment Forum, scheduled for Dec. 4 at Afreximbank’s Africa Trade Centre in Abuja, Nigeria, is expected to attract between 350 and 400…"
+    },
+    {
+      "title": "PBC Targets GH¢300m Capital Raise to Re-enter Cocoa Market as Debt Hits GH¢673m",
+      "link": "https://thehighstreetjournal.com/pbc-targets-gh%c2%a2300m-capital-raise-to-re-enter-cocoa-market-as-debt-hits-gh%c2%a2673m/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "PBC has secured shareholder approval to raise GH¢300 million to restart cocoa purchases, restructure GH¢673 million in debt, settle obligations and rebuild investor confidence in its…"
+    },
     {
       "title": "Opportunity International Savings and Loans pays courtesy call on Ga Mantse",
       "link": "https://www.myjoyonline.com/opportunity-international-savings-and-loans-pays-courtesy-call-on-ga-mantse/",
@@ -1007,69 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T08:00:00.000Z",
       "summary": "Deloitte warns Ghana’s planned GHS85 billion domestic borrowing in 2027 could crowd out private sector lending, reverse declining interest rates and undermine credit recovery, urging…"
-    },
-    {
-      "title": "US Pushes Mercury-Free Mining Technologies as Ghana Seeks Safer Gold Production",
-      "link": "https://thehighstreetjournal.com/us-pushes-mercury-free-mining-technologies-as-ghana-seeks-safer-gold-production/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T08:00:00.000Z",
-      "summary": "American experts are promoting commercially viable alternatives to mercury-based gold processing as Ghana seeks to reduce the environmental damage associated with small-scale mining."
-    },
-    {
-      "title": "German President Steinmeier to open major German-African Business Summit in Accra today",
-      "link": "https://www.myjoyonline.com/german-president-steinmeier-to-open-major-german-african-business-summit-in-accra-today/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T07:46:00.000Z",
-      "summary": "German President Frank-Walter Steinmeier is expected to officially open the sixth German-African Business Summit (GABS 2026) today, alongside President John Dramani Mahama. The three-day…"
-    },
-    {
-      "title": "South Africa advocates stronger trade and industrial ties with Ghana",
-      "link": "https://www.myjoyonline.com/south-africa-advocates-stronger-trade-and-industrial-ties-with-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T07:09:00.000Z",
-      "summary": "South Africa is seeking stronger trade and industrial ties with Ghana, calling for the removal of regulatory obstacles that make it difficult for businesses in both countries to access each…"
-    },
-    {
-      "title": "Fintech firms urged to develop financing solutions for informal businesses",
-      "link": "https://www.ghanabusinessnews.com/2026/11/24/fintech-firms-urged-to-develop-financing-solutions-for-informal-businesses/",
-      "source": "Ghana Business News",
-      "published": "2026-11-24T07:02:09.000Z",
-      "summary": "Mr Shaibu Haruna, Chief Executive Officer of Mobile Money Fintech Limited (MMFL), has urged fintech companies to develop financial products to improve access to credit for informal…"
-    },
-    {
-      "title": "NALAG calls for payment of end-of-service benefits from Consolidated Fund",
-      "link": "https://www.ghanabusinessnews.com/2026/11/24/nalag-calls-for-payment-of-end-of-service-benefits-from-consolidated-fund/",
-      "source": "Ghana Business News",
-      "published": "2026-11-24T06:47:36.000Z",
-      "summary": "The Ashanti Regional branch of the National Association of Local Authorities of Ghana (NALAG) has called on the Government to pay assembly members' end-of-service benefits from the…"
-    },
-    {
-      "title": "Ghana to establish garment factories in four regions, targeting 80,000 jobs",
-      "link": "https://www.myjoyonline.com/ghana-to-establish-garment-factories-in-four-regions-targeting-80000-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T06:47:00.000Z",
-      "summary": "The Minister of Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says the government is planning to establish garment factories in four regions, with the initiative expected to…"
-    },
-    {
-      "title": "Minister commends Newmont for $15m support to reclaim mining lands",
-      "link": "https://www.ghanabusinessnews.com/2026/11/24/minister-commends-newmont-for-15m-support-to-reclaim-mining-lands/",
-      "source": "Ghana Business News",
-      "published": "2026-11-24T06:41:20.000Z",
-      "summary": "Mr Yusif Sulemana, Deputy Minister for Lands and Natural Resources, has commended Newmont Ghana for committing $15 million to the government’s Tree for Life initiative to restore degraded…"
-    },
-    {
-      "title": "High Court Orders GRA, EOCO to Pay GH¢3.7m to Melcom Whistleblower",
-      "link": "https://thehighstreetjournal.com/high-court-orders-gra-eoco-to-pay-gh%c2%a23-7m-to-melcom-whistleblower/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T06:39:17.000Z",
-      "summary": "The High Court has ordered GRA and EOCO to pay a Melcom whistleblower GH¢3.75 million, affirming rewards for disclosures contributing to tax recoveries."
-    },
-    {
-      "title": "Banks poised to drive New Economy, says ADB MD",
-      "link": "https://www.myjoyonline.com/banks-poised-to-drive-new-economy-says-adb-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:37:00.000Z",
-      "summary": "The Managing Director of Agricultural Development Bank PLC (ADB), Edward Ato Sarpong, has highlighted the critical role of Ghana’s banking sector in driving the country’s new economy."
     }
   ]
 };
