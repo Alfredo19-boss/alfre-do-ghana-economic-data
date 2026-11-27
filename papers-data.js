@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T17:34:12.565Z",
+  "updated": "2026-11-27T17:44:12.299Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GHEL, EPA turn to hydraulic dredging to tackle galamsey damage",
+      "link": "https://www.myjoyonline.com/ghel-epa-turn-to-hydraulic-dredging-to-tackle-galamsey-damage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:36:16.000Z",
+      "summary": "Ghana Heavy Equipment Limited (GHEL) and the Environmental Protection Authority (EPA) are exploring the use of hydraulic dredging technology to remove accumulated sediments from polluted…",
+      "categories": [
+        "News",
+        "EPA",
+        "minin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend’s murder",
       "link": "https://www.myjoyonline.com/ex-kenyan-governor-jailed-for-25-years-over-pregnant-girlfriends-murder/",
@@ -95,6 +108,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T17:14:19.000Z",
       "summary": "The Electricity Company of Ghana (ECG) has attributed a power outage affecting several communities in the Tema Region to a fault in its distribution network, assuring affected customers…",
       "categories": [
+        "HP News 4",
         "National",
         "ECG",
         "Tema"
@@ -108,22 +122,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T17:14:08.000Z",
       "summary": "The Okaikwei Central Member of Parliament, Patrick Boamah, says that lack of respect for time is one of the challenges affecting Ghana, insisting that punctuality must be taken seriously…",
       "categories": [
+        "HP News 7",
         "National",
         "Patrick Boamah",
         "Time"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Are you going to be an MP in absentia?’ – Patrick Boamah challenges MPs on attendance",
-      "link": "https://www.myjoyonline.com/are-you-going-to-be-an-mp-in-absentia-patrick-boamah-challenges-mps-on-attendance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:14:01.000Z",
-      "summary": "The Member of Parliament for Okaikwei Central, Patrick Boamah, has challenged his colleagues in Parliament to take their attendance and punctuality seriously, questioning whether they want…",
-      "categories": [
-        "National",
-        "Members of Parliament (MPs)",
-        "Patrick Boamah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
