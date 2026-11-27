@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T04:18:59.742Z",
+  "updated": "2026-11-27T04:29:00.400Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Opportunity International Savings and Loans pays courtesy call on Ga Mantse",
+      "link": "https://www.myjoyonline.com/opportunity-international-savings-and-loans-pays-courtesy-call-on-ga-mantse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:33:00.000Z",
+      "summary": "Opportunity International Savings and Loans Ltd. (Opportunity) paid a courtesy call on King Tackie Teiko Tsuru II, the Ga Mantse, to deepen its partnership with the Ga Traditional Council…"
+    },
     {
       "title": "Past debt obligations complicate government’s spending decisions – Terkper",
       "link": "https://www.myjoyonline.com/past-debt-obligations-complicate-governments-spending-decisions-terkper/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T05:37:00.000Z",
       "summary": "The Managing Director of Agricultural Development Bank PLC (ADB), Edward Ato Sarpong, has highlighted the critical role of Ghana’s banking sector in driving the country’s new economy."
-    },
-    {
-      "title": "Gold Fields defends Ghana operations, says 74% of every dollar generated stays in country",
-      "link": "https://www.myjoyonline.com/gold-fields-defends-ghana-operations-says-74-of-every-dollar-generated-stays-in-country/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T05:26:00.000Z",
-      "summary": "The Senior Vice President and Managing Director of Gold Fields Ghana Limited, Elliot Twum, defended the company’s contribution to Ghana’s economy, saying 74 per cent of every dollar…"
     }
   ]
 };

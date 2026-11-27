@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T04:19:30.579Z",
+  "updated": "2026-11-27T04:29:31.127Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Twifo Praso clash: One dead, police deploy 100 officers after anti-drug raid",
+      "link": "https://www.myjoyonline.com/twifo-praso-clash-one-dead-police-deploy-100-officers-after-anti-drug-raid/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T04:26:46.000Z",
+      "summary": "A police operation targeting suspected drug hideouts at Twifo Praso in the Central Region has ended in violence, leaving one civilian dead, several others injured, and three police officers…",
+      "categories": [
+        "News",
+        "disturbance",
+        "Police",
+        "Twifo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kosmos Energy renovates dining hall at Senya SHS",
       "link": "https://www.myjoyonline.com/kosmos-energy-renovates-dining-hall-at-senya-shs/",
@@ -62,6 +76,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Opportunity International Savings and Loans pays courtesy call on Ga Mantse",
+      "link": "https://www.myjoyonline.com/opportunity-international-savings-and-loans-pays-courtesy-call-on-ga-mantse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:33:00.000Z",
+      "summary": "Opportunity International Savings and Loans Ltd. (Opportunity) paid a courtesy call on King Tackie Teiko Tsuru II, the Ga Mantse, to deepen its partnership with the Ga Traditional Council…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Ga Mantse",
+        "Opportunity International Savings and Loans"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Accra Mall celebrates Ghanaian music through Homegrown Stars",
       "link": "https://www.myjoyonline.com/accra-mall-celebrates-ghanaian-music-through-homegrown-stars/",
       "source": "MyJoyOnline",
@@ -100,34 +128,6 @@ window.GDC_PAPERS = {
         "Budget",
         "Debt",
         "finance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Glorified Destitute: How vanity is bankrupting a generation",
-      "link": "https://www.myjoyonline.com/the-glorified-destitute-how-vanity-is-bankrupting-a-generation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:11:35.000Z",
-      "summary": "We have perfected the stupidity of looking wealthy while being financially bankrupt. Across Ghana, people would rather impress strangers than secure their own futures. A man earning…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Glorified destitute",
-        "Kwame Sowu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government cannot escape financial obligations of previous administration – Terkper",
-      "link": "https://www.myjoyonline.com/government-cannot-escape-financial-obligations-of-previous-administration-terkper/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T02:54:00.000Z",
-      "summary": "Presidential Advisor on the Economy, Seth Terkper, says the government cannot escape financial obligations inherited from previous administrations, even as ministries and agencies mount…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "Seth Terkper"
       ],
       "site": "https://www.myjoyonline.com/"
     },
