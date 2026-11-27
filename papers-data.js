@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T18:54:12.736Z",
+  "updated": "2026-11-27T19:14:13.204Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s FLEGT success opens new doors for Timber Trade and Investment – Lands Minister",
+      "link": "https://www.myjoyonline.com/ghanas-flegt-success-opens-new-doors-for-timber-trade-and-investment-lands-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T19:04:44.000Z",
+      "summary": "Ghana’s successful introduction of FLEGT licensing is strengthening its position in the international timber market, with the country recording more than 103,000 licences covering over…",
+      "categories": [
+        "National",
+        "FLEGT",
+        "Lands Minister",
+        "Timber"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Livestream: UPSA’s FAF Eminent Achievement Awards underway",
       "link": "https://www.myjoyonline.com/livestream-upsas-faf-eminent-achievement-awards-underway/",
@@ -111,20 +125,6 @@ window.GDC_PAPERS = {
         "International",
         "Ex-Kenyan governor",
         "Zacharia Okoth Obado"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Financial system must work effectively and beneficially for women – BoG Director of Research",
-      "link": "https://www.myjoyonline.com/financial-system-must-work-effectively-and-beneficially-for-women-bog-director-of-research/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:21:31.000Z",
-      "summary": "The Director of the Research Department at the Bank of Ghana (BoG), Philip Abradu-Otoo, has called for a financial system that delivers meaningful benefits to women, particularly women-led…",
-      "categories": [
-        "Business",
-        "National",
-        "BoG Director of Research",
-        "Financial system"
       ],
       "site": "https://www.myjoyonline.com/"
     },
