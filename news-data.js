@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T10:14:34.024Z",
+  "updated": "2026-11-27T10:24:32.218Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "TUC Calls for Jobs and Decent Work Under New Economy Programme",
+      "link": "https://thehighstreetjournal.com/tuc-calls-for-jobs-and-decent-work-under-new-economy-programme/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T10:21:00.000Z",
+      "summary": "The TUC has assessed the 2027 Budget and New Economy Programme, urging effective implementation, decent job creation and stronger support for local manufacturing to translate economic…"
+    },
     {
       "title": "Locally Assembled, But Two Weeks to Repair? Zonda Customer Raises Concern",
       "link": "https://thehighstreetjournal.com/locally-assembled-but-two-weeks-to-repair-zonda-customer-raises-concern/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T12:05:49.000Z",
       "summary": "President John Dramani Mahama has called on African countries to leverage German investment, innovation and technical expertise to accelerate industrialisation and create shared economic…"
-    },
-    {
-      "title": "GABS 2026: Africa’s conflict-zone perception hindering investment – Siemens Sub-Saharan Africa CEO",
-      "link": "https://www.myjoyonline.com/gabs-2026-africas-conflict-zone-perception-hindering-investment-siemens-sub-saharan-africa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T11:57:27.000Z",
-      "summary": "Sabine Dall’Omo, Chief Executive Officer of Siemens Sub-Saharan Africa, says the perception of Africa as a conflict-prone region and a difficult market to access remains a major obstacle to…"
     }
   ]
 };

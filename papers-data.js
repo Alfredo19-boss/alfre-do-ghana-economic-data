@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T10:15:02.845Z",
+  "updated": "2026-11-27T10:25:02.826Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Westerwelle Foundation opens 5th African start-up hub in Accra",
+      "link": "https://ghanaiantimes.com.gh/westerwelle-foundation-opens-5th-african-start-up-hub-in-accra/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:24:36.000Z",
+      "summary": "THE Westerwelle Foundation, a German organisation supporting young entrepreneurs, plans to establish at least three more start-up hubs in Africa within the next five years following the…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Feed Ghana Programme lacks climate resilience alignment — CSIR",
+      "link": "https://ghanaiantimes.com.gh/feed-ghana-programme-lacks-climate-resilience-alignment-csir/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:22:58.000Z",
+      "summary": "THE country’s Feed Ghana Programme has recorded a major policy gap in climate resilience, raising concerns about its readiness to address the growing impact of climate change on…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CSIR introduces soil treatment to boost crop yields",
+      "link": "https://ghanaiantimes.com.gh/csir-introduces-soil-treatment-to-boost-crop-yields/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:19:30.000Z",
+      "summary": "SCIENTISTS at the CSIR-Crops Research Institute (CSIR-CRI) have introduced agricultural lime and plant biostimulants to restore soil health and increase crop yields. The integrated…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "600 students take part in GTF Taekwondo awareness programme in Eastern Region",
+      "link": "https://ghanaiantimes.com.gh/600-students-take-part-in-gtf-taekwondo-awareness-programme-in-eastern-region/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T10:16:06.000Z",
+      "summary": "ABOUT 600 students from schools across the Eastern Region took part in the Eastern Regional Taekwondo Awareness Programme organised by the Ghana Taekwondo Federation (GTF) at St. Mary’s Day…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "MTN FA Cup: Hearts, Kotoko begin title campaign as Round of 64 kicks off",
       "link": "https://ghanaiantimes.com.gh/mtn-fa-cup-hearts-kotoko-begin-title-campaign-as-round-of-64-kicks-off/",
@@ -61,50 +106,6 @@ window.GDC_PAPERS = {
       "summary": "Mauricio Pochettino must wait for his first win as Manchester United coach after a wild 2-2 Champions League draw at Sporting Lisbon on Wednesday, with the hosts equalising thanks to a…",
       "categories": [
         "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIFA confirms internal data stolen in cyber attack",
-      "link": "https://ghanaiantimes.com.gh/fifa-confirms-internal-data-stolen-in-cyber-attack/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T10:06:53.000Z",
-      "summary": "FIFA has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen. However, BBC Sport understands the data breach did not include…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to participate in FIBA 3×3 Africa Cup",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-participate-in-fiba-3x3-africa-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T10:04:37.000Z",
-      "summary": "GHANA’S 3×3 basketball team will depart the shores of the country on Monday for the upcoming FIBA 3×3 Africa Cup, scheduled to take place in Antananarivo, Madagascar, from December 3 to 6…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Baseball, Softball League reach semi-final stage",
-      "link": "https://ghanaiantimes.com.gh/baseball-softball-league-reach-semi-final-stage/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T10:02:39.000Z",
-      "summary": "FOUR baseball clubs are through to the semi-finals of the second edition of the National Baseball and Softball League being organised by the Ghana Baseball and Softball Federation at Labone…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Challenge receive rousing welcome after historic World Cup triumph",
-      "link": "https://ghanaiantimes.com.gh/black-challenge-receive-rousing-welcome-after-historic-world-cup-triumph/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T10:00:03.000Z",
-      "summary": "GHANA’S national amputee football team, the Black Challenge, arrived in Accra yesterday to a rousing welcome following their historic triumph at the 2026 Amputee Football World Cup in…",
-      "categories": [
-        "Sports"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
