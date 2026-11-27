@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T04:29:31.127Z",
+  "updated": "2026-11-27T04:49:31.266Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CLOGSAG demands probe into alleged assault on Okaikwei North Assembly worker",
+      "link": "https://www.myjoyonline.com/clogsag-demands-probe-into-alleged-assault-on-okaikwei-north-assembly-worker/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T04:38:49.000Z",
+      "summary": "The Civil and Local Government Staff Association of Ghana (CLOGSAG) has called for a full-scale investigation into the alleged slapping of an administrative officer of the Okaikwei North…",
+      "categories": [
+        "News",
+        "Assault",
+        "Assembly",
+        "Slap"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Twifo Praso clash: One dead, police deploy 100 officers after anti-drug raid",
       "link": "https://www.myjoyonline.com/twifo-praso-clash-one-dead-police-deploy-100-officers-after-anti-drug-raid/",
@@ -114,20 +128,6 @@ window.GDC_PAPERS = {
         "National",
         "2027 Budget",
         "Seth Terkepr"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘No more borrowing after HIPC and defaults’ — Seth Terkper",
-      "link": "https://www.myjoyonline.com/no-more-borrowing-after-hipc-and-defaults-seth-terkper/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T03:13:48.000Z",
-      "summary": "Former Finance Minister Seth Terkper has urged successive governments to exercise lasting fiscal discipline and resist the temptation to accumulate unsustainable debt, warning that Ghana…",
-      "categories": [
-        "News",
-        "Budget",
-        "Debt",
-        "finance"
       ],
       "site": "https://www.myjoyonline.com/"
     },
