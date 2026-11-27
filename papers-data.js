@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:35:03.120Z",
+  "updated": "2026-11-27T11:45:02.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,58 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama arrives in Barbados for 5-day state visit",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-barbados-for-5-day-state-visit.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T11:39:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Fameye’s Our Day: A homecoming concert inspired by childhood memories, resilience and gratitude",
+      "link": "https://www.myjoyonline.com/fameyes-our-day-a-homecoming-concert-inspired-by-childhood-memories-resilience-and-gratitude/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:39:25.000Z",
+      "summary": "Remember Our Day in school? The food, drinks, excitement and special packages parents prepared to make the end of the school term memorable? For many children, it was a day of pure joy. But…",
+      "categories": [
+        "Arts and Culture",
+        "Events",
+        "HP Entertainment 2",
+        "Music",
+        "Fameye",
+        "Our day"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, Côte d’Ivoire to erect 57 new boundary pillars along 392km stretch to avert disputes",
+      "link": "https://www.myjoyonline.com/ghana-cote-divoire-to-erect-57-new-boundary-pillars-along-392km-stretch-to-avert-disputes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:36:54.000Z",
+      "summary": "Ghana and Côte d’Ivoire have launched the second phase of their joint international land boundary reaffirmation exercise to strengthen border security, prevent territorial disputes and…",
+      "categories": [
+        "National",
+        "Boundary pillars",
+        "Cote D'Ivoire",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police intercept truck loaded with ammunition at Akuse, three arrested",
+      "link": "https://www.graphic.com.gh/news/general-news/police-intercept-truck-loaded-with-ammunition-at-akuse-three-arrested.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T11:30:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "UBA Ghana appoints Christian Mottey as Head of Retail Banking",
       "link": "https://www.myjoyonline.com/uba-ghana-appoints-christian-mottey-as-head-of-retail-banking/",
@@ -85,6 +137,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "HP Sports 1",
+        "In Focus",
         "National",
         "CAF",
         "Kurt Okraku",
@@ -115,21 +168,6 @@ window.GDC_PAPERS = {
         "Kwabena Nash",
         "music industry",
         "Takoradi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women businesses",
-      "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-banks-advised-to-design-products-to-suit-women-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T10:57:28.000Z",
-      "summary": "Entrepreneur, Patience Esirifi has made a passionate call on financial institutions to develop tailor-made products that will suit women-led businesses and help them grow. This follows a…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 1",
-        "Ecobank-JoyBusiness",
-        "Patience Esirifi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -234,21 +272,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "‘Our target is to win the FA Cup’ — Kotoko boss Stanley Menzo",
-      "link": "https://www.myjoyonline.com/our-target-is-to-win-the-fa-cup-kotoko-boss-stanley-menzo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T09:19:26.000Z",
-      "summary": "The Porcupine Warriors come up against Adom FC in the round of 64 of the cup competition on Friday afternoon, hoping to get back to winning ways.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Asante Kotoko",
-        "MTN FA Cup",
-        "Stanley Menzo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Civil servant slapped at Okaikwei North: CLOGSAG calls for police action as PA is suspended",
       "link": "https://www.graphic.com.gh/news/general-news/civil-servant-slapped-at-okaikwei-north-clogsag-calls-for-police-action-as-pa-is-suspended.html",
       "source": "Daily Graphic",
@@ -286,28 +309,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-platform-to-tackle-trade-losses-launched.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T07:35:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Agogohene goes Home",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-agogohene-goes-home.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T07:30:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Latex Foam increases support to UG students",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-latex-foam-increases-support-to-ug-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T07:17:27.000Z",
       "summary": "",
       "categories": [
         "General News"
