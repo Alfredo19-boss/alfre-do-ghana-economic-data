@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T10:44:32.297Z",
+  "updated": "2026-11-27T11:04:31.875Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women businesses",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-banks-advised-to-design-products-to-suit-women-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T10:57:28.000Z",
+      "summary": "Entrepreneur, Patience Esirifi has made a passionate call on financial institutions to develop tailor-made products that will suit women-led businesses and help them grow. This follows a…"
+    },
     {
       "title": "TUC Calls for Jobs and Decent Work Under New Economy Programme",
       "link": "https://thehighstreetjournal.com/tuc-calls-for-jobs-and-decent-work-under-new-economy-programme/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T12:06:23.000Z",
       "summary": "Contrary to expectations, the cedi closed marginally weaker against the US dollar, as anticipated forex supply from the GoldBod fell short of expectations."
-    },
-    {
-      "title": "GABS 2026: Africa must turn German investment into industrial growth, shared prosperity – Mahama",
-      "link": "https://www.myjoyonline.com/gabs-2026-africa-must-turn-german-investment-into-industrial-growth-shared-prosperity-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:05:49.000Z",
-      "summary": "President John Dramani Mahama has called on African countries to leverage German investment, innovation and technical expertise to accelerate industrialisation and create shared economic…"
     }
   ]
 };

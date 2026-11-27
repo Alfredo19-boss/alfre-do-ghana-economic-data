@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T10:45:03.178Z",
+  "updated": "2026-11-27T11:05:02.709Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kwabena Nash calls for stronger music industry support in Takoradi",
+      "link": "https://www.myjoyonline.com/kwabena-nash-calls-for-stronger-music-industry-support-in-takoradi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:03:36.000Z",
+      "summary": "Afro-dancehall artiste Kwabena Nash has called for stronger industry structures and professional support to help emerging musicians in Takoradi grow",
+      "categories": [
+        "Music",
+        "Kwabena Nash",
+        "music industry",
+        "Takoradi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women businesses",
+      "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-banks-advised-to-design-products-to-suit-women-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T10:57:28.000Z",
+      "summary": "Entrepreneur, Patience Esirifi has made a passionate call on financial institutions to develop tailor-made products that will suit women-led businesses and help them grow. This follows a…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 1",
+        "Ecobank-JoyBusiness",
+        "Patience Esirifi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPP Nadowli-Kaleo Chairman explains why he took Akoko Nkitinkiti birds",
       "link": "https://www.graphic.com.gh/news/politics/npp-nadowli-kaleo-chairman-explains-why-he-took-akoko-nkitinkiti-birds.html",
@@ -284,34 +313,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "How digital entertainment is changing the way people spend their leisure time",
-      "link": "https://www.myjoyonline.com/how-digital-entertainment-is-changing-the-way-people-spend-their-leisure-time/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T07:01:38.000Z",
-      "summary": "The way people spend their free time has undergone a fundamental transformation over the past decade. Where leisure once meant gathering around a family television set, attending live…",
-      "categories": [
-        "Arts and Culture",
-        "Lifestyle",
-        "Movies",
-        "Radio & TV",
-        "Technology",
-        "digital entertainment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama honoured at World CEO Summit in Tanzania",
-      "link": "https://www.myjoyonline.com/mahama-honoured-at-world-ceo-summit-in-tanzania/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T06:29:45.000Z",
-      "summary": "Ghana’s President John Dramani Mahama has been honoured at the 2026 World CEO Summit in Tanzania for his leadership in Ghana’s economic transformation and his influence across Africa…",
-      "categories": [
-        "News",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
     }
   ]
 };
