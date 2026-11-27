@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T03:09:30.945Z",
+  "updated": "2026-11-27T03:19:30.339Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Glorified Destitute: How vanity is bankrupting a generation",
+      "link": "https://www.myjoyonline.com/the-glorified-destitute-how-vanity-is-bankrupting-a-generation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T03:11:35.000Z",
+      "summary": "We have perfected the stupidity of looking wealthy while being financially bankrupt. Across Ghana, people would rather impress strangers than secure their own futures. A man earning…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Glorified destitute",
+        "Kwame Sowu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Selassie Ibrahim has revived hope in Ghana’s film industry with REFFA – KMJ",
       "link": "https://www.myjoyonline.com/selassie-ibrahim-has-revived-hope-in-ghanas-film-industry-with-reffa-kmj/",
@@ -119,19 +133,6 @@ window.GDC_PAPERS = {
         "Airport residential area",
         "polluted air",
         "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stakeholders in the Bono East region call for collective action as terrorism threat nears Ghana’s borders",
-      "link": "https://www.myjoyonline.com/stakeholders-in-the-bono-east-region-call-for-collective-action-as-terrorism-threat-nears-ghanas-borders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-26T23:39:15.000Z",
-      "summary": "In a significant move to strengthen Ghana's defenses against evolving security threats in West Africa, a three-day stakeholder engagement and public forum has been held to review the…",
-      "categories": [
-        "News",
-        "Border",
-        "Terrorism"
       ],
       "site": "https://www.myjoyonline.com/"
     },
