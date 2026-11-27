@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T18:03:42.064Z",
+  "updated": "2026-11-27T18:33:41.876Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Central bank cannot engage in private sector lending – BoG Research Director",
+      "link": "https://www.myjoyonline.com/central-bank-cannot-engage-in-private-sector-lending-bog-research-director/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T18:26:31.000Z",
+      "summary": "The Bank of Ghana (BoG) has underscored the responsibility of commercial banks to provide financing to private businesses, particularly women-led enterprises, saying its mandate is to…"
+    },
     {
       "title": "Financial system must work effectively and beneficially for women – BoG Director of Research",
       "link": "https://www.myjoyonline.com/financial-system-must-work-effectively-and-beneficially-for-women-bog-director-of-research/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T01:47:55.000Z",
       "summary": "The government has stepped up preparations to operationalise the Women’s Development Bank, with recruitment of its management and staff already underway ahead of its planned launch in the…"
-    },
-    {
-      "title": "Did the 2027 Budget pass the 5 tests?",
-      "link": "https://www.myjoyonline.com/did-the-2027-budget-pass-the-5-tests/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T01:23:51.000Z",
-      "summary": "The budget answers this test directly. The US$10 billion New Economy programme will run from 2027 to 2030, supported by lowering the primary surplus target by one percentage point of GDP…"
     }
   ]
 };

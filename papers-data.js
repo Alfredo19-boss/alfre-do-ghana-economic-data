@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T18:04:13.015Z",
+  "updated": "2026-11-27T18:34:12.389Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Central bank cannot engage in private sector lending – BoG Research Director",
+      "link": "https://www.myjoyonline.com/central-bank-cannot-engage-in-private-sector-lending-bog-research-director/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T18:26:31.000Z",
+      "summary": "The Bank of Ghana (BoG) has underscored the responsibility of commercial banks to provide financing to private businesses, particularly women-led enterprises, saying its mandate is to…",
+      "categories": [
+        "Business",
+        "National",
+        "Central bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Krofuom market to be completed in 2027 as KMA hands over to new contractor",
       "link": "https://www.myjoyonline.com/krofuom-market-to-be-completed-in-2027-as-kma-hands-over-to-new-contractor/",
@@ -111,20 +124,6 @@ window.GDC_PAPERS = {
         "Drug Abuse",
         "Youth",
         "Youth Development Ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG explains power outage affecting Tema, Afienya and surrounding communities",
-      "link": "https://www.myjoyonline.com/ecg-explains-power-outage-affecting-tema-afienya-and-surrounding-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:14:19.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has attributed a power outage affecting several communities in the Tema Region to a fault in its distribution network, assuring affected customers…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "ECG",
-        "Tema"
       ],
       "site": "https://www.myjoyonline.com/"
     },
