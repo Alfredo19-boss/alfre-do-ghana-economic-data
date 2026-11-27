@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T17:44:12.299Z",
+  "updated": "2026-11-27T18:04:13.015Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Krofuom market to be completed in 2027 as KMA hands over to new contractor",
+      "link": "https://www.myjoyonline.com/krofuom-market-to-be-completed-in-2027-as-kma-hands-over-to-new-contractor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T17:55:54.000Z",
+      "summary": "The Kumasi metropolitan assembly has set new timelines for the completion of the Krofuom market after handing over the abandoned project site to a new contractor.",
+      "categories": [
+        "Regional",
+        "KMA",
+        "Krofuom market"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GHEL, EPA turn to hydraulic dredging to tackle galamsey damage",
       "link": "https://www.myjoyonline.com/ghel-epa-turn-to-hydraulic-dredging-to-tackle-galamsey-damage/",
@@ -112,20 +125,6 @@ window.GDC_PAPERS = {
         "National",
         "ECG",
         "Tema"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Respect for time is one thing hurting Ghana’ – Patrick Boamah",
-      "link": "https://www.myjoyonline.com/respect-for-time-is-one-thing-hurting-ghana-patrick-boamah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T17:14:08.000Z",
-      "summary": "The Okaikwei Central Member of Parliament, Patrick Boamah, says that lack of respect for time is one of the challenges affecting Ghana, insisting that punctuality must be taken seriously…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Patrick Boamah",
-        "Time"
       ],
       "site": "https://www.myjoyonline.com/"
     },
