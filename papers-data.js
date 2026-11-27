@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T21:34:12.599Z",
+  "updated": "2026-11-27T21:44:12.335Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Wa East DCE touts 53 projects, GH¢64 revenue shortfall in stewardship report",
+      "link": "https://www.myjoyonline.com/wa-east-dce-touts-53-projects-gh%c2%a264-revenue-shortfall-in-stewardship-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:32:51.000Z",
+      "summary": "The Wa East District Chief Executive (DCE), Adamu Sayibu, has reported that the Assembly has initiated 53 development projects across the district since June 2025, with 35 completed and the…",
+      "categories": [
+        "Regional",
+        "Wa East DCE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "CSOs reject five-year presidential term, demand changes to MMDCE election proposal",
       "link": "https://www.myjoyonline.com/csos-reject-five-year-presidential-term-demand-changes-to-mmdce-election-proposal/",
@@ -71,10 +83,25 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T21:18:31.000Z",
       "summary": "Founder of the Multimedia Group, Kwasi Twum, has been honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
       "categories": [
-        "HP News 3",
         "National",
+        "Top Story",
         "Kwasi Twum",
         "The Multimedia Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "December 4 declared public holiday for Farmers’ Day",
+      "link": "https://www.myjoyonline.com/december-4-declared-public-holiday-for-farmers-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:15:00.000Z",
+      "summary": "The government has formally designated Friday, December 4, 2026, as a statutory public holiday to commemorate this year’s National Farmers’ Day celebration.",
+      "categories": [
+        "HP News 2",
+        "News",
+        "Farmer",
+        "Ghana",
+        "Holiday"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -100,34 +127,6 @@ window.GDC_PAPERS = {
       "summary": "Ghanaian emerging artiste Reinna has released her latest single, ‘Turn My Back’, a song inspired by resilience and the determination to overcome life’s challenges",
       "categories": [
         "Music"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stonebwoy releases ‘Marry You’ ahead of ‘TORCHER III’ album",
-      "link": "https://www.myjoyonline.com/stonebwoy-releases-marry-you-ahead-of-torcher-iii-album/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T20:53:39.000Z",
-      "summary": "Ghanaian musician Stonebwoy has released his latest single, “Marry You”, the first official offering from his forthcoming album, TORCHER III: Flames of Love",
-      "categories": [
-        "HP Entertainment 1",
-        "Music",
-        "Marry You",
-        "Torcher II"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Don’t be in a hurry for titles; prioritise hard work and integrity – Nana Appiah Dankawoso II advises youth",
-      "link": "https://www.myjoyonline.com/dont-be-in-a-hurry-for-titles-prioritise-hard-work-and-integrity-nana-appiah-dankawoso-ii-advises-youth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T20:43:50.000Z",
-      "summary": "Chairman of the second edition of the FAF Eminent Achievement Awards, Nana Appiah Dankawoso II, has urged young people to prioritise learning, hard work and integrity over the pursuit of…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "FAF Eminent Achievement Awards",
-        "Nana Appiah Dankawoso II"
       ],
       "site": "https://www.myjoyonline.com/"
     },
