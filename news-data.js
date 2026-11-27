@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T12:24:33.196Z",
+  "updated": "2026-11-27T17:13:41.481Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,144 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 2/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "BoG new policy rate leaves policy floor unchanged – IC Insights",
+      "link": "https://www.myjoyonline.com/bog-new-policy-rate-leaves-policy-floor-unchanged-ic-insights/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T16:30:47.000Z",
+      "summary": "In its commentary on the recent Monetary Policy Committee decision, the leading investment research firm said the outcome of its analysis of the policy decision supports the MPC’s view that…"
+    },
+    {
+      "title": "Mastercard appoints Kari Tukur as Country Manager for West Africa",
+      "link": "https://www.myjoyonline.com/mastercard-appoints-kari-tukur-as-country-manager-for-west-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T16:09:24.000Z",
+      "summary": "In her role as country manager for West Africa, Kari will lead Mastercard’s strategy, operations, customer engagement and business growth, across West Africa, working with governments…"
+    },
+    {
+      "title": "THE AI PARADOX: The West Gets a Vibrator, Africa Gets Screwed! How The West Automates and Africa Imitates",
+      "link": "https://thehighstreetjournal.com/the-ai-paradox-the-west-gets-a-vibrator-africa-gets-screwed-how-the-west-automates-and-africa-imitates/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T16:00:00.000Z",
+      "summary": "The Western world's reluctance to reproduce may be about to become Africa's unemployment crisis. Nobody asked us, obviously."
+    },
+    {
+      "title": "Fitch Ratings expects a positive rating outlook for Ghana, Africa sovereigns in 2027",
+      "link": "https://www.myjoyonline.com/fitch-ratings-expects-a-positive-rating-outlook-for-ghana-africa-sovereigns-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T15:54:59.000Z",
+      "summary": "According to the ratings agency, the balance of plus five is an all-time high, with no ratings on Negative Outlook for the first time since 2007."
+    },
+    {
+      "title": "Societe Generale Ghana rewards 4 more customers with GH¢10,000 each in 2nd Deposit & Win Mini draw",
+      "link": "https://www.myjoyonline.com/societe-generale-ghana-rewards-4-more-customers-with-gh%c2%a210000-each-in-2nd-deposit-win-mini-draw/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T15:43:12.000Z",
+      "summary": "Held at the Bank’s Achimota branch, the draw marks another milestone in the ongoing promotion, which gives customers opportunities to win cash prizes by growing and maintaining qualifying…"
+    },
+    {
+      "title": "Construction Inflation Edges Up in October Despite Annual Moderation",
+      "link": "https://thehighstreetjournal.com/construction-inflation-edges-up-in-october-despite-annual-moderation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T15:00:00.000Z",
+      "summary": "The moderation in construction inflation offers some relief to developers, although the recent upward movement suggests that cost pressures have not completely subsided."
+    },
+    {
+      "title": "MTN MoMo, Ecobank launch cross-border money transfer service between Ghana, Côte d’Ivoire",
+      "link": "https://www.ghanabusinessnews.com/2026/11/27/mtn-momo-ecobank-launch-cross-border-money-transfer-service-between-ghana-cote-divoire/",
+      "source": "Ghana Business News",
+      "published": "2026-11-27T14:56:08.000Z",
+      "summary": "Mobile Money Fintech Limited (MMFL) and Ecobank Ghana PLC have launched a cross-border money transfer service to enable customers in Côte d’Ivoire to send money directly to mobile money…"
+    },
+    {
+      "title": "Cashew farmers oppose proposed ban on Export",
+      "link": "https://www.ghanabusinessnews.com/2026/11/27/cashew-farmers-oppose-proposed-ban-on-export/",
+      "source": "Ghana Business News",
+      "published": "2026-11-27T14:53:15.000Z",
+      "summary": "The Ghana Cooperative Cashew Farmers and Marketing Association has opposed the anticipated three-month ban on the export of raw cashew, as announced by President John Dramani Mahama."
+    },
+    {
+      "title": "Ecobank opens up initiatives including “Elevate programme” for women led Businesses",
+      "link": "https://www.myjoyonline.com/ecobank-opens-up-initiatives-including-elevate-programme-for-women-led-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T14:12:47.000Z",
+      "summary": "Head of Commercial Consumer Products at Ecobank Ghana, William Nana Danso Abiam, is advising Small and Medium Enterprises to approach the bank for support and take steps to develop their…"
+    },
+    {
+      "title": "Chinese CAITEC Group celebrates 30 years of business excellence, investment and job creation in Ghana",
+      "link": "https://www.myjoyonline.com/chinese-caitec-group-celebrates-30-years-of-business-excellence-investment-and-job-creation-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T14:03:46.000Z",
+      "summary": "From a modest trading operation in 1995 to a diversified business conglomerate employing more than 2,000 Ghanaians, CAITEC Group has marked three decades of remarkable growth and investment…"
+    },
+    {
+      "title": "Cedi Faces Further Pressure Against Dollar as Corporate FX Demand Grows",
+      "link": "https://thehighstreetjournal.com/cedi-faces-further-pressure-against-dollar-as-corporate-fx-demand-grows/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T14:02:00.000Z",
+      "summary": "Ghana's currency is expected to extend its gradual depreciation next week, with limited dollar supply and softer gold-related inflows adding to pressure on the exchange rate."
+    },
+    {
+      "title": "Kasapreko posts GH¢296m nine-month profit, up 14.3%",
+      "link": "https://www.myjoyonline.com/kasapreko-posts-gh%c2%a2296m-nine-month-profit-up-14-3/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T14:00:39.000Z",
+      "summary": "Kasapreko PLC has reported a profit after tax of GH¢296 million for the nine months ended September 2026, representing a 14.3% increase over the corresponding period last year. The Ghanaian…"
+    },
+    {
+      "title": "Africa’s $52 Billion Pharmaceutical Market Draws German Investors to Local Manufacturing",
+      "link": "https://thehighstreetjournal.com/africas-52bn-pharmaceutical-market/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T13:32:56.000Z",
+      "summary": "The market, valued at $40 billion in 2025, is attracting attention from European manufacturers seeking partnerships with African businesses"
+    },
+    {
+      "title": "Ghana’s Artisanal Palm Oil Industry Faces Collapse as Smuggling, Outdated Technology Erode Competitiveness",
+      "link": "https://thehighstreetjournal.com/ghanas-artisanal-palm-oil-industry-faces-collapse-as-smuggling-outdated-technology-erode-competitiveness/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T13:15:00.000Z",
+      "summary": "Ghana’s artisanal palm oil industry faces mounting pressure from smuggling, outdated machinery and weak market access, prompting calls for targeted investment to improve productivity…"
+    },
+    {
+      "title": "GET4LESS rolls out 40% Black Friday discounts across all outlets",
+      "link": "https://www.myjoyonline.com/get4less-rolls-out-40-black-friday-discounts-across-all-outlets/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T13:10:06.000Z",
+      "summary": "The promotion is aimed at giving shoppers greater value and affordability as consumers take advantage of Black Friday deals to purchase their preferred products at reduced prices."
+    },
+    {
+      "title": "TCL donates ultra-low-power display system to the Youth Olympic Village, bringing advanced display technology to everyday use",
+      "link": "https://www.myjoyonline.com/tcl-donates-ultra-low-power-display-system-to-the-youth-olympic-village-bringing-advanced-display-technology-to-everyday-use/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T13:02:09.000Z",
+      "summary": "TCL, a Worldwide Olympic and Paralympic Partner, donated an ultra-low-power display system powered by solar energy to Université Amadou Mahtar Mbow (UAM) in Senegal. Delivering outdoor…"
+    },
+    {
+      "title": "Treat women-led businesses as market opportunities, not CSR initiatives – BoG Research Director urges banks",
+      "link": "https://www.myjoyonline.com/treat-women-led-businesses-as-market-opportunities-not-csr-initiatives-bog-research-director-urges-banks/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:56:52.000Z",
+      "summary": "The Director of the Research Department at the Bank of Ghana (BoG), Philip Abradu-Otoo, has urged banks to treat women-led businesses as a viable market segment rather than a corporate…"
+    },
+    {
+      "title": "BoG working with partners to reduce lending risks for women-led businesses – Director of Research",
+      "link": "https://www.myjoyonline.com/bog-working-with-partners-to-reduce-lending-risks-for-women-led-businesses-director-of-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:55:13.000Z",
+      "summary": "The Bank of Ghana (BoG) is working with partners to reduce the risks associated with lending to women-led businesses as part of efforts to improve their access to credit and ensure that…"
+    },
+    {
+      "title": "GUTA backs local marine cargo insurance policy, urges smooth implementation",
+      "link": "https://www.myjoyonline.com/guta-backs-local-marine-cargo-insurance-policy-urges-smooth-implementation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T12:54:38.000Z",
+      "summary": "The Ghana Union of Traders’ Associations (GUTA) has endorsed the government’s local marine cargo insurance policy, describing it as a timely intervention to protect importers and make…"
+    },
     {
       "title": "CAITEC Group to expand into mining sector, explore new business opportunities over the next 5 years – Chairman",
       "link": "https://www.myjoyonline.com/caitec-group-to-expand-into-mining-sector-explore-new-business-opportunities-over-the-next-5-years-chairman/",
@@ -937,139 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T21:38:00.000Z",
       "summary": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US, AP…"
-    },
-    {
-      "title": "GSE Appoints Darpaah to Lead Fixed Income Market Expansion",
-      "link": "https://thehighstreetjournal.com/gse-appoints-darpaah-to-lead-fixed-income-market-expansion/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T20:57:54.000Z",
-      "summary": "The GSE appoints Kojo Darpaah to lead efforts to expand the fixed income market and attract more corporate issuers."
-    },
-    {
-      "title": "German president calls for more investment at Africa business summit in Accra",
-      "link": "https://www.ghanabusinessnews.com/2026/11/24/german-president-calls-for-more-investment-at-africa-business-summit-in-accra/",
-      "source": "Ghana Business News",
-      "published": "2026-11-24T20:17:20.000Z",
-      "summary": "German President Frank-Walter Steinmeier on Tuesday called on the German business community to become more involved in Africa, as he opened an economic forum in Accra with Ghana's President…"
-    },
-    {
-      "title": "Ghana is open for business – Mahama",
-      "link": "https://www.ghanabusinessnews.com/2026/11/24/ghana-is-open-for-business-mahama/",
-      "source": "Ghana Business News",
-      "published": "2026-11-24T20:08:23.000Z",
-      "summary": "President John Mahama today boldly declared that Ghana is open for business and investments that create jobs."
-    },
-    {
-      "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
-      "link": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:47:38.000Z",
-      "summary": "The Kantanka Group is exploring a partnership with the Kwame Nkrumah Memorial Park under a proposed initiative to promote Ghanaian-owned businesses and advance discussions on economic…"
-    },
-    {
-      "title": "GSE appoints Kojo Darpaah as head of GFIM",
-      "link": "https://www.myjoyonline.com/gse-appoints-kojo-darpaah-as-head-of-gfim/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T19:19:23.000Z",
-      "summary": "His career has encompassed trading, treasury management and strategic leadership, positioning him as a financial market professional with deep expertise in market development and…"
-    },
-    {
-      "title": "Trade Minister pushes stronger trade and investment ties with Germany",
-      "link": "https://www.myjoyonline.com/trade-minister-pushes-stronger-trade-and-investment-ties-with-germany/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T18:49:25.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger trade and investment partnerships between Ghana and Germany, with emphasis on industrial…"
-    },
-    {
-      "title": "CSA calls for real-time communication platform to strengthen Ghana’s digital finance security",
-      "link": "https://www.myjoyonline.com/csa-calls-for-real-time-communication-platform-to-strengthen-ghanas-digital-finance-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T18:27:46.000Z",
-      "summary": "The Head of Cybersecurity Technology Standards at Ghana’s Cyber Security Authority (CSA), Jake France, has called for a real-time communications platform to enable banks, telecommunications…"
-    },
-    {
-      "title": "MTN Ghana Supports SMEs with GH¢30,000 Each Ahead of Business Pitch Competition",
-      "link": "https://thehighstreetjournal.com/mtn-ghana-supports-smes-with-gh%c2%a230000-each-ahead-of-business-pitch-competition/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T17:16:06.000Z",
-      "summary": "MTN Ghana says it has supported nine businesses with GH¢30,000 each and expanded SME development programmes, as five finalists compete for GH¢300,000 in its national business pitch…"
-    },
-    {
-      "title": "GRA uncovers widespread tax infractions at Circle market, cracks down on mobile phone dealers",
-      "link": "https://www.myjoyonline.com/gra-uncovers-widespread-tax-infractions-at-circle-market-cracks-down-on-mobile-phone-dealers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T17:14:25.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread tax infractions among many businesses operating in the Kwame Nkrumah Circle enclave. The findings prompted officers of the GRA…"
-    },
-    {
-      "title": "Gold Fields Backs Inclusive Sports Development After Black Challenge World Triumph",
-      "link": "https://thehighstreetjournal.com/gold-fields-backs-inclusive-sports-devt/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T17:14:10.000Z",
-      "summary": "The triumph comes amid Gold Fields' renewed two-year, $5 million sponsorship agreement with the Ghana Football Association (GFA)"
-    },
-    {
-      "title": "BoG Cautions Banks Against Compromising Ethics in Pursuit of Technological Innovation",
-      "link": "https://thehighstreetjournal.com/bog-cautions-banks-against-compromising-ethics-in-pursuit-of-technological-innovation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T15:53:00.000Z",
-      "summary": "The Bank of Ghana has cautioned banks against compromising ethical standards in adopting emerging technologies, as CIB Ghana pushes stronger professional capacity, accountability and…"
-    },
-    {
-      "title": "Agribusiness Chamber Demands Full Breakdown of GH¢30Bn Agric Allocation Before Parliamentary Approval",
-      "link": "https://thehighstreetjournal.com/agribusiness-chamber-demands-full-breakdown-of-gh%c2%a230bn-agric-allocation-before-parliamentary-approval/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T15:30:00.000Z",
-      "summary": "The Chamber of Agribusiness Ghana has urged Parliament to stay approval of the GH¢30 billion 2027 agricultural allocation until the Finance Ministry itemises expenditure, citing seven…"
-    },
-    {
-      "title": "Finance Minister urges DDEP bondholders to participate in voluntary buyback programme",
-      "link": "https://www.myjoyonline.com/finance-minister-urges-ddep-bondholders-to-participate-in-voluntary-buyback-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T15:24:52.000Z",
-      "summary": "The auction is scheduled to close tomorrow, Wednesday, November 25, at 3 pm Greenwich Meridian Time (GMT). Interested bondholders should contact an active Primary Dealer to participate."
-    },
-    {
-      "title": "Mahama calls for mutually beneficial Germany-Africa economic partnership",
-      "link": "https://www.myjoyonline.com/mahama-calls-for-mutually-beneficial-germany-africa-economic-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T15:03:44.000Z",
-      "summary": "President John Dramani Mahama has called for a stronger economic partnership between Germany and African countries, urging both sides to prioritise trade, investment, technology transfer…"
-    },
-    {
-      "title": "GCB Bank ranked highest among banks in Ghana Club 100, places fourth overall",
-      "link": "https://www.myjoyonline.com/gcb-bank-ranked-highest-among-banks-in-ghana-club-100-places-fourth-overall/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T15:03:11.000Z",
-      "summary": "GCB Bank PLC has been ranked fourth among Ghana’s top 100 companies at the 2026 Ghana Club 100 Awards, emerging as the highest-ranked bank in the country. The achievement places the Bank…"
-    },
-    {
-      "title": "GCB recognised as SME Bank of the Year at 6th GNCCI Business Awards",
-      "link": "https://www.myjoyonline.com/gcb-recognised-as-sme-bank-of-the-year-at-6th-gncci-business-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T14:40:13.000Z",
-      "summary": "GCB Bank PLC has been named SME Bank of the Year at the 6th Ghana National Chamber of Commerce and Industry (GNCCI) Business Awards, in recognition of its contribution to the growth and…"
-    },
-    {
-      "title": "Compact with Africa 2.0 to Drive 36,000 Garment Jobs in Ghana",
-      "link": "https://thehighstreetjournal.com/compact-with-africa-2-0-to-drive-36000-garment-jobs-in-ghana/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T14:30:00.000Z",
-      "summary": "The Compact with Africa 2.0 pilot will address investment bottlenecks, strengthen trade infrastructure, and support garment manufacturing as Ghana pursues its industrialisation and…"
-    },
-    {
-      "title": "GABS 2026: Germany urges Africa to prioritise value addition in critical minerals",
-      "link": "https://www.myjoyonline.com/gabs-2026-germany-urges-africa-to-prioritise-value-addition-in-critical-minerals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T14:13:27.000Z",
-      "summary": "Germany is urging African countries to leverage technology, innovation and strategic partnerships to develop local value chains in critical minerals and unlock greater economic benefits…"
-    },
-    {
-      "title": "Latex Foam donates GH¢30,000 to support needy but brilliant students at University of Ghana",
-      "link": "https://www.myjoyonline.com/latex-foam-donates-gh%c2%a230000-to-support-needy-but-brilliant-students-at-university-of-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T14:06:00.000Z",
-      "summary": "Latex Foam has donated GH¢30,000 to the University of Ghana to support brilliant but needy students, as part of efforts to improve access to tertiary education for financially disadvantaged…"
     }
   ]
 };
