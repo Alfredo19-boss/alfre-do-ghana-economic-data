@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T07:15:01.224Z",
+  "updated": "2026-11-27T07:25:01.659Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Chainsaw operators plunge 2 regions into darkness • Felled tree damages GRIDCo’s 330kV transmission line",
+      "link": "https://ghanaiantimes.com.gh/chainsaw-operators-plunge-2-regions-into-darkness-felled-tree-damages-gridcos-330kv-transmission-line/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:21:55.000Z",
+      "summary": "ILLEGAL chainsaw operators have felled a large tree onto a major high-voltage transmission line, causing widespread power outages in parts of the Ashanti and Western regions. The Ghana Grid…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Financial barriers limit women, youth in leadership’",
+      "link": "https://ghanaiantimes.com.gh/financial-barriers-limit-women-youth-in-leadership/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-27T07:15:31.000Z",
+      "summary": "FINANCIAL demands and entrenched political structures continue to limit women and young people seeking leadership positions in Ghana, despite growing calls for inclusive governance. The…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "1 dead, 5 soldiers injured in Circle demolition clash",
       "link": "https://ghanaiantimes.com.gh/1-dead-5-soldiers-injured-in-circle-demolition-clash/",
@@ -104,28 +127,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Agriculture as a strategic pillar in Ghana’s New Economy policy: Prospects, challenges and implications for educational planning",
-      "link": "https://ghanaiantimes.com.gh/agriculture-as-a-strategic-pillar-in-ghanas-new-economy-policy-prospects-challenges-and-implications-for-educational-planning-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:48:43.000Z",
-      "summary": "This is the final part of yesterday’s feature NEVERTHELESS, practical agricultural knowledge and experience are not necessarily dependent on formal secondary or tertiary science education…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Why Ghana is moving to protect its traditional palm spirit and what it could mean for producers, consumers and the country’s global reputation",
-      "link": "https://ghanaiantimes.com.gh/why-ghana-is-moving-to-protect-its-traditional-palm-spirit-and-what-it-could-mean-for-producers-consumers-and-the-countrys-global-reputation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-27T06:43:30.000Z",
-      "summary": "GHANA is on the verge of doing for Apio what Scotland did for Scotch Whisky and what France did for Cognac. Across the world, some of the most successful products are not simply…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T07:14:30.678Z",
+  "updated": "2026-11-27T07:24:34.427Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "VALCO Steps In as Tema Water Disruption Puts Pressure on Local Businesses and Households",
+      "link": "https://thehighstreetjournal.com/valco-steps-in-as-tema-water-disruption-puts-pressure-on-local-businesses-and-households/",
+      "source": "The High Street Journal",
+      "published": "2026-11-27T07:23:55.000Z",
+      "summary": "A two-month interruption to pipeline supply highlights how vulnerable small businesses and households areto unreliable utility infrastructure in the industrial city."
+    },
+    {
+      "title": "TUC assesses 2027 budget, calls for jobs and decent work under new economy programme",
+      "link": "https://www.ghanabusinessnews.com/2026/11/27/tuc-assesses-2027-budget-calls-for-jobs-and-decent-work-under-new-economy-programme/",
+      "source": "Ghana Business News",
+      "published": "2026-11-27T07:20:43.000Z",
+      "summary": "The Trades Union Congress (TUC) has called for stronger links between the government’s 2027 National Budget and the creation of decent jobs, saying the economic recovery must translate into…"
+    },
     {
       "title": "SSNIT urges workers to update beneficiary records to prevent survivor benefit delays",
       "link": "https://www.ghanabusinessnews.com/2026/11/27/ssnit-urges-workers-to-update-beneficiary-records-to-prevent-survivor-benefit-delays/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-24T10:43:50.000Z",
       "summary": "The risks come as food inflation remains elevated in many economies. About 33% of countries analysed recorded food inflation above 5%"
-    },
-    {
-      "title": "Nvidia’s Huang Faces Uncertain Second Act as CEO, Harvard Professor Says",
-      "link": "https://thehighstreetjournal.com/nvidias-huang-faces-uncertain-second-act/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T10:41:41.000Z",
-      "summary": "Nvidia reinstated Huang as president and chief executive officer on Nov. 23, following a unanimous board vote"
-    },
-    {
-      "title": "PFAG Welcomes US$1bn Pwalugu Dam Allocation, Calls for Implementation",
-      "link": "https://thehighstreetjournal.com/pfag-welcomes-us1bn-pwalugu-dam-allocation-calls-for-implementation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-24T10:40:02.000Z",
-      "summary": "PFAG has welcomed government's US$1 billion Pwalugu Dam allocation, describing it as vital for irrigation, food security and climate resilience, while demanding stakeholder participation…"
     }
   ]
 };
