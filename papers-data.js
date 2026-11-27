@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:05:02.709Z",
+  "updated": "2026-11-27T11:15:01.615Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Kurt Okraku can lead CAF’ – Zimbabwe FA President",
+      "link": "https://www.myjoyonline.com/kurt-okraku-can-lead-caf-zimbabwe-fa-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:08:31.000Z",
+      "summary": "Magwizi believes the Ghana Football Association (GFA) president has what it takes to lead African football and would encourage the latter to make his intentions clear.",
+      "categories": [
+        "Football",
+        "National",
+        "CAF",
+        "Kurt Okraku",
+        "Nqobile Magwizi",
+        "Zimbabwe FA President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chief of Staff urges military bands to blend traditional instruments",
+      "link": "https://www.graphic.com.gh/news/general-news/chief-of-staff-urges-military-bands-to-blend-traditional-instruments.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T11:05:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Kwabena Nash calls for stronger music industry support in Takoradi",
       "link": "https://www.myjoyonline.com/kwabena-nash-calls-for-stronger-music-industry-support-in-takoradi/",
@@ -279,35 +306,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GROWING Project records 23.3% improvement in women’s empowerment in northern Ghana",
-      "link": "https://www.myjoyonline.com/growing-project-records-23-3-improvement-in-womens-empowerment-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T07:30:00.000Z",
-      "summary": "The Generating Revenues and Opportunities for Women to Improve Nutrition in Ghana (GROWING) Project recorded a 23.3-percentage-point improvement in women’s empowerment, along with…",
-      "categories": [
-        "Regional",
-        "Growing Project",
-        "Northern Ghana",
-        "women’s empowerment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Latex Foam increases support to UG students",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-latex-foam-increases-support-to-ug-students.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T07:17:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MODEC donates GH¢1.7m surgical equipment to Tema General Hospital",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-modec-donates-ghc1-7m-surgical-equipment-to-tema-general-hospital.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T07:13:55.000Z",
       "summary": "",
       "categories": [
         "General News"
