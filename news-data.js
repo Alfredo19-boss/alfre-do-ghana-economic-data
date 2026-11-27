@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T11:14:32.052Z",
+  "updated": "2026-11-27T11:24:30.814Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MODEC, partners donate GH¢1.7m medical equipment to Tema General Hospital",
+      "link": "https://www.myjoyonline.com/modec-partners-donate-gh%c2%a21-7m-medical-equipment-to-tema-general-hospital/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:14:13.000Z",
+      "summary": "The Tema General Hospital has received medical equipment valued at GH¢1.7 million from MODEC Inc. and its partners — Mitsui & Co. Ltd, Marubeni Corporation and Mitsui O.S.K. Lines Ltd — to…"
+    },
     {
       "title": "Ecobank-JoyBusiness Financial Dialogue: Banks advised to design products to suit women businesses",
       "link": "https://www.myjoyonline.com/ecobank-joybusiness-financial-dialogue-banks-advised-to-design-products-to-suit-women-businesses/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-24T12:17:01.000Z",
       "summary": "Trading activity was concentrated in the 2027-2030 maturity segment, which accounted for 65.35% of total turnover at a weighted-average yield of 12.41%."
-    },
-    {
-      "title": "Cedi weakens marginally against US dollar, going for GH¢12.45 at forex bureaus, GH¢11.85 in interbank market",
-      "link": "https://www.myjoyonline.com/cedi-weakens-marginally-against-us-dollar-going-for-gh%c2%a212-45-at-forex-bureaus-gh%c2%a211-85-in-interbank-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-24T12:06:23.000Z",
-      "summary": "Contrary to expectations, the cedi closed marginally weaker against the US dollar, as anticipated forex supply from the GoldBod fell short of expectations."
     }
   ]
 };

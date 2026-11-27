@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T11:15:01.615Z",
+  "updated": "2026-11-27T11:25:01.396Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,34 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "MODEC, partners donate GH¢1.7m medical equipment to Tema General Hospital",
+      "link": "https://www.myjoyonline.com/modec-partners-donate-gh%c2%a21-7m-medical-equipment-to-tema-general-hospital/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:14:13.000Z",
+      "summary": "The Tema General Hospital has received medical equipment valued at GH¢1.7 million from MODEC Inc. and its partners — Mitsui & Co. Ltd, Marubeni Corporation and Mitsui O.S.K. Lines Ltd — to…",
+      "categories": [
+        "Business",
+        "Mining",
+        "Dr Ralph Armah",
+        "MODEC",
+        "Tema General Hospital"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Brand New Day: NSROMAmusic’s next move",
+      "link": "https://www.myjoyonline.com/brand-new-day-nsromamusics-next-move/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T11:13:40.000Z",
+      "summary": "Just when we thought NSROMAmusic had said it all with His Word and taken us to heavenly heights with RADIANCE 2026: A Heavenly Sound, she is back with yet another surprise. And this time…",
+      "categories": [
+        "Music",
+        "Brand New Day",
+        "NSROMAmusic"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Kurt Okraku can lead CAF’ – Zimbabwe FA President",
       "link": "https://www.myjoyonline.com/kurt-okraku-can-lead-caf-zimbabwe-fa-president/",
       "source": "MyJoyOnline",
@@ -28,6 +56,7 @@ window.GDC_PAPERS = {
       "summary": "Magwizi believes the Ghana Football Association (GFA) president has what it takes to lead African football and would encourage the latter to make his intentions clear.",
       "categories": [
         "Football",
+        "HP Sports 1",
         "National",
         "CAF",
         "Kurt Okraku",
@@ -184,6 +213,7 @@ window.GDC_PAPERS = {
       "summary": "The Porcupine Warriors come up against Adom FC in the round of 64 of the cup competition on Friday afternoon, hoping to get back to winning ways.",
       "categories": [
         "Football",
+        "HP Sports 2",
         "Asante Kotoko",
         "MTN FA Cup",
         "Stanley Menzo"
@@ -209,6 +239,7 @@ window.GDC_PAPERS = {
       "summary": "The shortlist reflects a remarkable year for women's football across the continent, highlighted by Cameroon's historic triumph at the TotalEnergies CAF Women's Africa Cup of Nations…",
       "categories": [
         "Football",
+        "HP Sports 3",
         "National",
         "barbra banda",
         "CAF Awards",
@@ -242,22 +273,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "High Court admits police cyber forensic report in Ashie Moore case",
-      "link": "https://www.myjoyonline.com/high-court-admits-police-cyber-forensic-report-in-ashie-moore-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T08:17:25.000Z",
-      "summary": "The High Court, Human Rights Division, has admitted a cyber forensic analysis report prepared by the Cybercrime Unit of the Criminal Investigations Department (CID) of the Ghana Police…",
-      "categories": [
-        "Crime",
-        "National",
-        "News",
-        "Ashie Moore",
-        "Human rights",
-        "Toh You Kang"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GRIDCo restores power to parts of Ashanti and Western regions after chainsaw operators damage transmission line",
       "link": "https://www.graphic.com.gh/news/general-news/gridco-restores-power-to-parts-of-ashanti-and-western-regions-after-chainsaw-operators-damage-transmission-line.html",
       "source": "Daily Graphic",
@@ -267,21 +282,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa-Europe partnerships must move beyond aid to economic transformation – Potsdam Africa Dialogues",
-      "link": "https://www.myjoyonline.com/africa-europe-partnerships-must-move-beyond-aid-to-economic-transformation-potsdam-africa-dialogues/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T07:42:03.000Z",
-      "summary": "African countries and their international development partners have been urged to rethink the nature of their cooperation, with greater emphasis on economic transformation, local value…",
-      "categories": [
-        "International",
-        "National",
-        "Africa-Europe",
-        "Potsdam Africa Dialogues",
-        "Ramana Shareef"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Platform to tackle trade losses launched",
