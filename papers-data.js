@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T21:14:12.584Z",
+  "updated": "2026-11-27T21:24:12.334Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Multimedia Group CEO Kwasi Twum honoured at UPSA FAF Eminent Achievement Awards",
+      "link": "https://www.myjoyonline.com/the-multimedia-group-ceo-kwasi-twum-honoured-at-upsa-faf-eminent-achievement-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T21:18:31.000Z",
+      "summary": "Founder of the Multimedia Group, Kwasi Twum, has been honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
+      "categories": [
+        "National",
+        "Kwasi Twum",
+        "The Multimedia Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Reinna releases new single, ‘Turn My Back’",
       "link": "https://www.myjoyonline.com/reinna-releases-new-single-turn-my-back/",
@@ -65,7 +78,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-27T20:22:02.000Z",
       "summary": "The Commission on Human Rights and Administrative Justice (CHRAJ) has dismissed a complaint alleging conflict of interest, corruption and abuse of power against President John Dramani…",
       "categories": [
-        "HP News 4",
+        "HP News 2",
         "National",
         "CHRAJ",
         "Ibrahim Mahama"
@@ -113,20 +126,6 @@ window.GDC_PAPERS = {
         "Francis-Xavier Sosu",
         "private sector",
         "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s FLEGT success opens new doors for Timber Trade and Investment – Lands Minister",
-      "link": "https://www.myjoyonline.com/ghanas-flegt-success-opens-new-doors-for-timber-trade-and-investment-lands-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T19:04:44.000Z",
-      "summary": "Ghana’s successful introduction of FLEGT licensing is strengthening its position in the international timber market, with the country recording more than 103,000 licences covering over…",
-      "categories": [
-        "National",
-        "FLEGT",
-        "Lands Minister",
-        "Timber"
       ],
       "site": "https://www.myjoyonline.com/"
     },
