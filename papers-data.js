@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T22:44:12.526Z",
+  "updated": "2026-11-27T22:54:12.842Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Four schools book places in 2026 national public speaking grand finale",
+      "link": "https://www.myjoyonline.com/four-schools-book-places-in-2026-national-public-speaking-grand-finale/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T22:43:49.000Z",
+      "summary": "The race for the 2026 National Public Speaking Championship has reached its decisive stage, with four schools securing places in the grand finale scheduled for December 3, 2026, at the GNAT…",
+      "categories": [
+        "News",
+        "Competition",
+        "Debate",
+        "School",
+        "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "New York City Mayor Zohran Mamdani undergoes surgery after a soccer injury",
       "link": "https://www.myjoyonline.com/new-york-city-mayor-zohran-mamdani-undergoes-surgery-after-a-soccer-injury/",
@@ -112,20 +127,6 @@ window.GDC_PAPERS = {
         "Cocoa Production",
         "Emmanuel Kwabena Arthur",
         "Kuapa Kokoo MD"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Multimedia Group CEO Kwasi Twum honoured at UPSA FAF Eminent Achievement Awards",
-      "link": "https://www.myjoyonline.com/the-multimedia-group-ceo-kwasi-twum-honoured-at-upsa-faf-eminent-achievement-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:18:31.000Z",
-      "summary": "Founder of the Multimedia Group, Kwasi Twum, has been honoured at the 2026 edition of the Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Kwasi Twum",
-        "The Multimedia Group"
       ],
       "site": "https://www.myjoyonline.com/"
     },
