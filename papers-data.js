@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T20:34:12.297Z",
+  "updated": "2026-11-27T20:54:11.867Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Don’t be in a hurry for titles; prioritise hard work and integrity – Nana Appiah Dankawoso II advises youth",
+      "link": "https://www.myjoyonline.com/dont-be-in-a-hurry-for-titles-prioritise-hard-work-and-integrity-nana-appiah-dankawoso-ii-advises-youth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T20:43:50.000Z",
+      "summary": "Chairman of the second edition of the FAF Eminent Achievement Awards, Nana Appiah Dankawoso II, has urged young people to prioritise learning, hard work and integrity over the pursuit of…",
+      "categories": [
+        "National",
+        "FAF Eminent Achievement Awards",
+        "Nana Appiah Dankawoso II"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "No evidence of wrongdoing in Damang Mine acquisition, Ibrahim Mahama’s private jet use – CHRAJ",
       "link": "https://www.myjoyonline.com/no-evidence-of-wrongdoing-in-damang-mine-acquisition-ibrahim-mahamas-private-jet-use-chraj/",
@@ -116,20 +129,6 @@ window.GDC_PAPERS = {
         "Education",
         "Atwima Koforidua",
         "RON Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production – Kuapa Kokoo MD",
-      "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T18:35:09.000Z",
-      "summary": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine…",
-      "categories": [
-        "Regional",
-        "Cocoa",
-        "Galamsey",
-        "Weather"
       ],
       "site": "https://www.myjoyonline.com/"
     },
