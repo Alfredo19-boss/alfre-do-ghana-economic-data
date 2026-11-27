@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T19:44:12.055Z",
+  "updated": "2026-11-27T20:34:12.297Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "No evidence of wrongdoing in Damang Mine acquisition, Ibrahim Mahama’s private jet use – CHRAJ",
+      "link": "https://www.myjoyonline.com/no-evidence-of-wrongdoing-in-damang-mine-acquisition-ibrahim-mahamas-private-jet-use-chraj/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T20:22:02.000Z",
+      "summary": "The Commission on Human Rights and Administrative Justice (CHRAJ) has dismissed a complaint alleging conflict of interest, corruption and abuse of power against President John Dramani…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "CHRAJ",
+        "Ibrahim Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Assafuah urges sustained scouting to nurture talent at Ashanti Schools Football Championship",
       "link": "https://www.myjoyonline.com/assafuah-urges-sustained-scouting-to-nurture-talent-at-ashanti-schools-football-championship/",
@@ -116,19 +130,6 @@ window.GDC_PAPERS = {
         "Cocoa",
         "Galamsey",
         "Weather"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Central bank cannot engage in private sector lending – BoG Research Director",
-      "link": "https://www.myjoyonline.com/central-bank-cannot-engage-in-private-sector-lending-bog-research-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T18:26:31.000Z",
-      "summary": "The Bank of Ghana (BoG) has underscored the responsibility of commercial banks to provide financing to private businesses, particularly women-led enterprises, saying its mandate is to…",
-      "categories": [
-        "Business",
-        "National",
-        "Central bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
