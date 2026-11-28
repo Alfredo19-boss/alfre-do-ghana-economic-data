@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:27:04.304Z",
+  "updated": "2026-11-28T13:32:03.647Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Labour Ministry urges stronger reporting to tackle child labour",
+      "link": "https://www.myjoyonline.com/labour-ministry-urges-stronger-reporting-to-tackle-child-labour/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:25:56.000Z",
+      "summary": "The Ministry of Labour, Jobs and Employment has urged institutions and development partners involved in the fight against child labour to strengthen reporting and data-sharing to improve…",
+      "categories": [
+        "National",
+        "Child Labour",
+        "Labour Ministry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwasi Twum, six others honoured at UPSA Eminent Achievement Award",
+      "link": "https://www.myjoyonline.com/kwasi-twum-six-others-honoured-at-upsa-eminent-achievement-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:24:28.000Z",
+      "summary": "The University of Professional Studies, Accra (UPSA), has honoured seven distinguished personalities from the banking, media, finance, pharmaceutical and entrepreneurial sectors for their…",
+      "categories": [
+        "National",
+        "FAF Eminent Achievement Awards",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MTTD mounts speed cameras on accident-prone roads in Ashanti Region",
       "link": "https://www.myjoyonline.com/mttd-mounts-speed-cameras-on-accident-prone-roads-in-ashanti-region/",
@@ -160,21 +186,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Early BECE candidates may struggle with basic responsibilities in SHS – Susan Adu-Amankwah",
-      "link": "https://www.myjoyonline.com/early-bece-candidates-may-struggle-with-basic-responsibilities-in-shs-susan-adu-amankwah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T10:56:50.000Z",
-      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has warned that children who are pushed to write the Basic Education Certificate Examination (BECE)…",
-      "categories": [
-        "Education",
-        "National",
-        "BECE",
-        "SHS",
-        "Susan Adu-Amankwah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Mahama and Barbados PM unveil 'King' Cuffee statue, seal Cape Coast-Speightstown twinning",
       "link": "https://www.graphic.com.gh/news/general-news/mahama-and-barbados-pm-unveil-king-cuffee-statue-seal-cape-coast-speightstown-twinning.html",
       "source": "Daily Graphic",
@@ -184,20 +195,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana needs national framework to identify and support gifted children – Former GES Deputy Director-General",
-      "link": "https://www.myjoyonline.com/ghana-needs-national-framework-to-identify-and-support-gifted-children-former-ges-deputy-director-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T10:43:02.000Z",
-      "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena B. Tandoh, has called for a comprehensive national framework to identify and manage gifted and talented…",
-      "categories": [
-        "HP News 1",
-        "News",
-        "gIFTED",
-        "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Daily Graphic's Timothy Ngnenbe wins record sixth Mining Reporter of the Year",
