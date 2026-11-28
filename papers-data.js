@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:05:32.697Z",
+  "updated": "2026-11-28T05:10:29.603Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "Newmont Ghana Gold Ltd – Ahafo South Mine has been named Mining Company of the Year at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27.",
       "categories": [
         "Business",
+        "HP Business 2",
         "Mining",
         "National",
         "12th Ghana Mining Industry Awards",
@@ -43,6 +44,7 @@ window.GDC_PAPERS = {
       "summary": "The Minister for Lands and Natural Resources, Hon. Emmanuel Armah-Kofi Buah has inaugurated a six-month Joint Ghana–Newmont Working Group to address concerns relating to the fiscal…",
       "categories": [
         "Business",
+        "HP Business 3",
         "Mining",
         "Newmont"
       ],
@@ -67,6 +69,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T03:18:47.000Z",
       "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for excellence, professionalism, discipline and commitment to safety in Ghana's mining…",
       "categories": [
+        "HP Business 4",
         "Mining",
         "National",
         "Excellence",
