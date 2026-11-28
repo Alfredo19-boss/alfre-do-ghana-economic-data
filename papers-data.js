@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:17:03.926Z",
+  "updated": "2026-11-28T13:22:03.961Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Accelerated grade placement, Category A SHS placement driving early BECE registrations – Africa Education Watch",
+      "link": "https://www.myjoyonline.com/accelerated-grade-placement-category-a-shs-placement-driving-early-bece-registrations-africa-education-watch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:16:23.000Z",
+      "summary": "The Executive Director of Africa Education Watch, Kofi Asare, has attributed the growing practice of students sitting the Basic Education Certificate Examination (BECE) earlier than…",
+      "categories": [
+        "Education",
+        "National",
+        "Category A",
+        "Grade",
+        "schools",
+        "sX"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Community-based senior high school inaugurated at Kpalbe; MP dedicates GH¢100,000 from common fund to support students",
       "link": "https://www.graphic.com.gh/news/education/community-based-senior-high-school-inaugurated-at-kpalbe-mp-dedicates-ghc100-000-from-common-fund-to-support-students.html",
@@ -40,7 +56,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Economy",
         "HP Business 2",
-        "HP News 2",
         "National",
         "Food budget",
         "Ghana Statistical Services",
@@ -182,18 +197,6 @@ window.GDC_PAPERS = {
         "ban on early bece",
         "BECE",
         "Susan Adu-Amankwah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "link": "https://www.myjoyonline.com/norse-atlantic-suspends-all-flights-as-it-faces-potential-collapse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T10:04:56.000Z",
-      "summary": "The Norwegian low-cost carrier Norse Atlantic Airways has suspended all flights as it rushes to resolve what it warned is a critical financial situation.",
-      "categories": [
-        "International",
-        "Norse Atlantic"
       ],
       "site": "https://www.myjoyonline.com/"
     },
