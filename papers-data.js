@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T14:52:03.603Z",
+  "updated": "2026-11-28T14:57:04.183Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Association of Unposted Medical Officers demand January 2027 postings for over 500 unposted medical officers",
+      "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demand-january-2027-postings-for-over-500-unposted-medical-officers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:52:39.000Z",
+      "summary": "The Association of Unposted Medical Officers (AUMO) has strongly rejected claims by the Minister of Health, Kwabena Mintah Akandoh, that all medical officers who have completed their…",
+      "categories": [
+        "Health",
+        "National",
+        "AUMO",
+        "Health Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Global Pastures Foundation seeks support to improve infrastructure at Apemso SDA Primary",
+      "link": "https://www.myjoyonline.com/global-pastures-foundation-seeks-support-to-improve-infrastructure-at-apemso-sda-primary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:51:05.000Z",
+      "summary": "The Global Pastures Foundation has appealed to government, corporate organisations, philanthropists and other well-meaning individuals to support the construction of a two-unit classroom…",
+      "categories": [
+        "National",
+        "Apemso SDA Primary",
+        "Global Pastures Foundation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gifted education should go beyond skipping grades – CDD-Ghana Fellow",
+      "link": "https://www.myjoyonline.com/gifted-education-should-go-beyond-skipping-grades-cdd-ghana-fellow/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:49:11.000Z",
+      "summary": "A Fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae-Kwapong, has called for a broader understanding of gifted education, arguing that identifying a child as…",
+      "categories": [
+        "Education",
+        "National",
+        "CDD Fellow",
+        "gIFTED"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Petrosol named Brand of the Year at 2026 Ghana Energy Awards",
       "link": "https://www.myjoyonline.com/petrosol-named-brand-of-the-year-at-2026-ghana-energy-awards/",
@@ -100,50 +141,6 @@ window.GDC_PAPERS = {
         "National",
         "Child Labour",
         "Labour Ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwasi Twum, six others honoured at UPSA Eminent Achievement Award",
-      "link": "https://www.myjoyonline.com/kwasi-twum-six-others-honoured-at-upsa-eminent-achievement-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:24:28.000Z",
-      "summary": "The University of Professional Studies, Accra (UPSA), has honoured seven distinguished personalities from the banking, media, finance, pharmaceutical and entrepreneurial sectors for their…",
-      "categories": [
-        "National",
-        "FAF Eminent Achievement Awards",
-        "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTTD mounts speed cameras on accident-prone roads in Ashanti Region",
-      "link": "https://www.myjoyonline.com/mttd-mounts-speed-cameras-on-accident-prone-roads-in-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:18:59.000Z",
-      "summary": "The Motor Traffic and Transport Directorate (MTTD) has revealed areas in the Ashanti Region where speed cameras have been mounted as part of the new automated traffic enforcement system…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Kumasi",
-        "MTTD",
-        "TrafficTech"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accelerated grade placement, Category A SHS placement driving early BECE registrations – Africa Education Watch",
-      "link": "https://www.myjoyonline.com/accelerated-grade-placement-category-a-shs-placement-driving-early-bece-registrations-africa-education-watch/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:16:23.000Z",
-      "summary": "The Executive Director of Africa Education Watch, Kofi Asare, has attributed the growing practice of students sitting the Basic Education Certificate Examination (BECE) earlier than…",
-      "categories": [
-        "Education",
-        "National",
-        "Category A",
-        "Grade",
-        "schools",
-        "sX"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T14:52:02.583Z",
+  "updated": "2026-11-28T14:57:03.117Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Petrosol named Brand of the Year at 2026 Ghana Energy Awards",
+      "link": "https://www.myjoyonline.com/petrosol-named-brand-of-the-year-at-2026-ghana-energy-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:47:42.000Z",
+      "summary": "Petrosol Platinum Energy PLC has been named Brand of the Year at the 2026 Ghana Energy Awards held on Friday, November 27, at the Labadi Beach Hotel in Accra."
+    },
     {
       "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
       "link": "https://www.myjoyonline.com/ghanaian-farming-households-face-higher-risk-of-food-insecurity-ghana-statistical-service/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-25T14:49:09.000Z",
       "summary": "Nana Tabi Agyabeng III, the Chief of Manso-Agroyesum, has stressed the need to strengthen the authority and powers of traditional leaders to enable them to mobilise their people for…"
-    },
-    {
-      "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
-      "link": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:40:21.000Z",
-      "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…"
     }
   ]
 };
