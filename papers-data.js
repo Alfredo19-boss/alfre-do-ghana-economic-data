@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T15:07:05.719Z",
+  "updated": "2026-11-28T15:22:03.610Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "TCL to host Ghana DJ Awards watch parties in Kumasi, Takoradi, Accra",
+      "link": "https://www.myjoyonline.com/tcl-to-host-ghana-dj-awards-watch-parties-in-kumasi-takoradi-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T15:16:00.000Z",
+      "summary": "TCL is set to extend the excitement of the 2026 Guinness Ghana DJ Awards beyond the main event venue, with official watch parties scheduled for Accra, Kumasi and Takoradi. The initiative…",
+      "categories": [
+        "Events",
+        "Ghana DJ Awards",
+        "Takoradi",
+        "TCL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Association of Unposted Medical Officers demands January 2027 postings for over 500 doctors",
       "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demands-january-2027-postings-for-over-500-doctors/",
@@ -117,22 +131,6 @@ window.GDC_PAPERS = {
         "AUMO",
         "Health Minister",
         "Unposted medical officers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
-      "link": "https://www.myjoyonline.com/ghanaian-farming-households-face-higher-risk-of-food-insecurity-ghana-statistical-service/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:43:32.000Z",
-      "summary": "Households engaged in agriculture are more than twice as likely to experience vulnerable food consumption as the national average, exposing a troubling contradiction in Ghana's efforts to…",
-      "categories": [
-        "Agribusiness",
-        "Economy",
-        "HP Business 3",
-        "HP News 6",
-        "National",
-        "Ghanaian farming households face higher risk of food insecurity - Ghana Statistical Service"
       ],
       "site": "https://www.myjoyonline.com/"
     },
