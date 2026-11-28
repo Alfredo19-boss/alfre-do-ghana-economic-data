@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T19:21:30.443Z",
+  "updated": "2026-11-28T19:41:30.497Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GSA targets expired, substandard goods in warehouses in Ashanti Region ahead of Christmas",
+      "link": "https://www.myjoyonline.com/gsa-targets-expired-substandard-goods-in-warehouses-in-ashanti-region-ahead-of-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:38:15.000Z",
+      "summary": "The Ghana Standards Authority (GSA) will begin inspecting warehouses across the Ashanti Region on Monday, November 30, 2026, to ensure that goods stocked for the Christmas festivities meet…",
+      "categories": [
+        "National",
+        "Christmas",
+        "Expired goods",
+        "GSA",
+        "Warehouses"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "41 individuals and institutions honoured at 10th Ghana Energy Awards",
+      "link": "https://www.myjoyonline.com/41-individuals-and-institutions-honoured-at-10th-ghana-energy-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:35:38.000Z",
+      "summary": "The 10th Ghana Energy Awards have honoured 41 individuals and institutions across 32 competitive categories and nine non-competitive honours, marking a decade of recognising excellence and…",
+      "categories": [
+        "Energy",
+        "Energy Awards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama reaffirms Ghana’s support for Barbados, CARICOM on reparatory justice",
       "link": "https://www.myjoyonline.com/mahama-reaffirms-ghanas-support-for-barbados-caricom-on-reparatory-justice/",
@@ -103,38 +130,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Mahama",
         "women's development bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama government cancelled KfW financing for Accra-Kumasi transmission line – Kwadwo Poku",
-      "link": "https://www.myjoyonline.com/mahama-government-cancelled-kfw-financing-for-accra-kumasi-transmission-line-kwadwo-poku/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T17:48:59.000Z",
-      "summary": "The Executive Director of the Institute of Energy Policies and Research, Kwadwo Poku, has accused the Mahama administration of cancelling a financing arrangement with German development…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Dumsor",
-        "ECG",
-        "NDC",
-        "NPP",
-        "Power outages"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama becomes second Ghanaian President to address Barbados Parliament",
-      "link": "https://www.myjoyonline.com/mahama-becomes-second-ghanaian-president-to-address-barbados-parliament/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T17:45:16.000Z",
-      "summary": "President John Dramani Mahama has become the second Ghanaian President to address a joint sitting of Barbados' Parliament, describing the occasion as a historic moment that reflects the…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "Barbados",
-        "John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

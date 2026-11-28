@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T19:21:29.298Z",
+  "updated": "2026-11-28T19:41:29.033Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "41 individuals and institutions honoured at 10th Ghana Energy Awards",
+      "link": "https://www.myjoyonline.com/41-individuals-and-institutions-honoured-at-10th-ghana-energy-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:35:38.000Z",
+      "summary": "The 10th Ghana Energy Awards have honoured 41 individuals and institutions across 32 competitive categories and nine non-competitive honours, marking a decade of recognising excellence and…"
+    },
     {
       "title": "Prices of petrol and LPG to drop by a significant margin from December 1 – COMAC",
       "link": "https://www.myjoyonline.com/prices-of-petrol-and-lpg-to-drop-by-a-significant-margin-from-december-1-comac/",
@@ -1060,13 +1067,6 @@ window.GDC_NEWS = {
     {
       "title": "GIHOC to regain market leadership in Ghana as it acquires new bus, West Africa – CEO",
       "link": "https://www.myjoyonline.com/gihoc-to-regain-market-leadership-in-ghana-as-it-acquires-new-bus-west-africa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T18:23:07.000Z",
-      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
-    },
-    {
-      "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
-      "link": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
       "source": "MyJoyOnline",
       "published": "2026-11-25T18:23:07.000Z",
       "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
