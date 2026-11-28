@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T01:05:28.759Z",
+  "updated": "2026-11-28T03:20:29.401Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Video: How MOBA members celebrated Multimedia Group CEO Kwasi Twum after UPSA FAF Eminent Achievement Award",
+      "link": "https://www.myjoyonline.com/video-how-moba-members-celebrated-multimedia-group-ceo-kwasi-twum-after-upsa-faf-eminent-achievement-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:16:30.000Z",
+      "summary": "The strong bonds of Mfantsipim School came alive at the 2026 Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of Professional Studies, Accra (UPSA), as…",
+      "categories": [
+        "National",
+        "News",
+        "Multimedia",
+        "UPSA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ibrahim Mahama inducted into ECOWAS Business Council, commits to sharing experiences with other countries",
       "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-experiences-with-other-countries/",
@@ -115,22 +129,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Regional",
         "Wa East DCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CSOs reject five-year presidential term, demand changes to MMDCE election proposal",
-      "link": "https://www.myjoyonline.com/csos-reject-five-year-presidential-term-demand-changes-to-mmdce-election-proposal/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:27:59.000Z",
-      "summary": "Civil society organisations (CSOs) have rejected the proposed extension of Ghana’s presidential and parliamentary terms from four to five years, while demanding changes to government…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "5-year presidential term",
-        "CSOs",
-        "MMDCEs"
       ],
       "site": "https://www.myjoyonline.com/"
     },

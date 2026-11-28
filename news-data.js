@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T01:05:27.067Z",
+  "updated": "2026-11-28T03:20:28.381Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:18:47.000Z",
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for excellence, professionalism, discipline and commitment to safety in Ghana's mining…"
+    },
     {
       "title": "Ibrahim Mahama inducted into ECOWAS Business Council, commits to sharing experiences with other countries",
       "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-experiences-with-other-countries/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:00:00.000Z",
       "summary": "Government is urging landlords to cooperate with Rent Control reforms while considering pension fund investments in student hostels to expand accommodation supply and address excessive…"
-    },
-    {
-      "title": "Nigeria Faces Nearly 5 Million More People in Acute Food Insecurity",
-      "link": "https://thehighstreetjournal.com/nigeria-faces-food-insecurity/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:00:00.000Z",
-      "summary": "The report identified 6.7 million people facing food crisis conditions across Burkina Faso, Mali and Niger, underscoring the scale of food insecurity"
     }
   ]
 };
