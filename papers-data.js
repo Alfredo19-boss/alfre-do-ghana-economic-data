@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:32:03.647Z",
+  "updated": "2026-11-28T13:47:04.165Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Service disruptions reported across several banking apps, digital payment channels in Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/service-disruptions-reported-across-seceal-banking-apps-digital-payment-channels-in-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T13:37:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Labour Ministry urges stronger reporting to tackle child labour",
       "link": "https://www.myjoyonline.com/labour-ministry-urges-stronger-reporting-to-tackle-child-labour/",
@@ -160,6 +171,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Ibrahim Mahama Inducted into ECOWAS Business Council, Commits to Sharing Ghana’s Industrialisation Experience",
+      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-ghanas-industrialisation-experience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T12:00:00.000Z",
+      "summary": "Ghanaian businessman and industrialist Ibrahim Mahama, founder and Chief Executive Officer of Engineers & Planners, has been inducted as Ghana’s representative on the ECOWAS Business…",
+      "categories": [
+        "National",
+        "ECOWAS",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "KOICA volunteers develop ICT textbooks for basic schools in Central Region",
       "link": "https://www.graphic.com.gh/news/education/koica-volunteers-develop-ict-textbooks-for-basic-schools-in-central-region.html",
       "source": "Daily Graphic",
@@ -169,21 +193,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Midwife, two others remanded over alleged theft of day-old baby at Kasoa",
-      "link": "https://www.myjoyonline.com/midwife-two-others-remanded-over-alleged-theft-of-day-old-baby-at-kasoa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T11:12:27.000Z",
-      "summary": "A midwife and two other women have been remanded into police custody for two weeks by the Kasoa Ofaakor Circuit Court over the alleged theft of a day-old baby girl. The three accused…",
-      "categories": [
-        "Crime",
-        "News",
-        "baby theft",
-        "Kasoa",
-        "midwife"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mahama and Barbados PM unveil 'King' Cuffee statue, seal Cape Coast-Speightstown twinning",
@@ -212,17 +221,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/police-announce-security-arrangements-for-gbi-za-festival-in-hohoe.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T09:38:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Man, 24, jailed one year for attempted rape, indecent assault",
-      "link": "https://www.graphic.com.gh/news/general-news/man-jailed-one-year-for-attempted-rape-indecent-assault.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T09:33:07.000Z",
       "summary": "",
       "categories": [
         "General News"

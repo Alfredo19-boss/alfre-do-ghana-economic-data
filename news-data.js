@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T13:32:02.699Z",
+  "updated": "2026-11-28T13:47:02.715Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
+      "link": "https://www.myjoyonline.com/ghanaian-farming-households-face-higher-risk-of-food-insecurity-ghana-statistical-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:43:32.000Z",
+      "summary": "Households engaged in agriculture are more than twice as likely to experience vulnerable food consumption as the national average, exposing a troubling contradiction in Ghana's efforts to…"
+    },
     {
       "title": "1 in 2 households spend over 75% of their budget on food – Ghana Statistical Service",
       "link": "https://www.myjoyonline.com/75-percent-households-spend-food-budget-ghana/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T14:40:21.000Z",
       "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private…"
-    },
-    {
-      "title": "New Economy will depend on financing and implementation of 8 pillars – KPMG",
-      "link": "https://www.myjoyonline.com/new-economy-will-depend-on-financing-and-implementation-of-8-pillars-kpmg/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T14:02:57.000Z",
-      "summary": "According to the firm, the government should prioritise the conditions that allow these investments to deliver lasting benefits, while managing fiscal and execution risks."
     }
   ]
 };
