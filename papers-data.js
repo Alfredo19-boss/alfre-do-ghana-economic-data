@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:20:29.401Z",
+  "updated": "2026-11-28T03:25:29.466Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:18:47.000Z",
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for excellence, professionalism, discipline and commitment to safety in Ghana's mining…",
+      "categories": [
+        "Mining",
+        "National",
+        "Excellence",
+        "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ken Ashigbey urges mining industry to translate economic contributions into lasting development",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-translate-economic-contributions-into-lasting-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:18:13.000Z",
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called on Ghana's mining industry to ensure its substantial economic contributions translate…",
+      "categories": [
+        "National",
+        "12th Ghana Mining Industry Awards",
+        "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Video: How MOBA members celebrated Multimedia Group CEO Kwasi Twum after UPSA FAF Eminent Achievement Award",
       "link": "https://www.myjoyonline.com/video-how-moba-members-celebrated-multimedia-group-ceo-kwasi-twum-after-upsa-faf-eminent-achievement-award/",
@@ -105,30 +132,6 @@ window.GDC_PAPERS = {
         "News",
         "Agric",
         "Farmer"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wa East records 53 development projects, achieves 99.99% revenue target",
-      "link": "https://www.myjoyonline.com/wa-east-records-53-development-projects-achieves-99-99-revenue-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:32:51.000Z",
-      "summary": "The Wa East District Chief Executive (DCE), Adamu Sayibu, has reported significant progress in the district’s development agenda, with 53 projects initiated since June 2025, 35 of which…",
-      "categories": [
-        "Regional",
-        "Wa East DCE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wa East DCE touts 53 projects, GH¢64 revenue shortfall in stewardship report",
-      "link": "https://www.myjoyonline.com/wa-east-dce-touts-53-projects-gh%c2%a264-revenue-shortfall-in-stewardship-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:32:51.000Z",
-      "summary": "The Wa East District Chief Executive (DCE), Adamu Sayibu, has reported that the Assembly has initiated 53 development projects across the district since June 2025, with 35 completed and the…",
-      "categories": [
-        "Regional",
-        "Wa East DCE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
