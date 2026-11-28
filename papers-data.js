@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:22:03.961Z",
+  "updated": "2026-11-28T13:27:04.304Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MTTD mounts speed cameras on accident-prone roads in Ashanti Region",
+      "link": "https://www.myjoyonline.com/mttd-mounts-speed-cameras-on-accident-prone-roads-in-ashanti-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:18:59.000Z",
+      "summary": "The Motor Traffic and Transport Directorate (MTTD) has revealed areas in the Ashanti Region where speed cameras have been mounted as part of the new automated traffic enforcement system…",
+      "categories": [
+        "National",
+        "Kumasi",
+        "MTTD",
+        "TrafficTech"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Accelerated grade placement, Category A SHS placement driving early BECE registrations – Africa Education Watch",
       "link": "https://www.myjoyonline.com/accelerated-grade-placement-category-a-shs-placement-driving-early-bece-registrations-africa-education-watch/",
@@ -182,21 +196,6 @@ window.GDC_PAPERS = {
         "News",
         "gIFTED",
         "Students"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Early BECE candidates need emotional maturity before SHS – Susan Adu-Amankwah",
-      "link": "https://www.myjoyonline.com/early-bece-candidates-need-emotional-maturity-before-shs-susan-adu-amankwah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T10:39:09.000Z",
-      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has backed the Education Ministry’s decision to prohibit pupils from writing the Basic Education Certificate…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "ban on early bece",
-        "BECE",
-        "Susan Adu-Amankwah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
