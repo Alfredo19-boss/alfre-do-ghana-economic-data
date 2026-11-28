@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T12:47:02.585Z",
+  "updated": "2026-11-28T13:02:03.323Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "AI Boom Raises Copyright and Financial Risks for Ghana’s Creative Economy",
+      "link": "https://thehighstreetjournal.com/ai-boom-raises-copyright-and-financial-risks-for-ghanas-creative-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T13:00:10.000Z",
+      "summary": "As AI reshapes content production, Ghana faces the challenge of protecting intellectual property, safeguarding creative investments and ensuring businesses profit from innovation without…"
+    },
     {
       "title": "Power challenges could persist for two years – Energy Analyst",
       "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T13:27:37.000Z",
       "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has commended the country’s economic progress, congratulating Finance Minister Dr Cassiel Ato Forson on the economy’s performance. The…"
-    },
-    {
-      "title": "2027 Budget: Chamber of Agribusiness Raises 8 Key Agric-Related Issues for Parliamentary Scrutiny",
-      "link": "https://thehighstreetjournal.com/2027-budget-chamber-of-agribusiness-raises-8-key-agric-related-issues-for-parliamentary-scrutiny/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T13:15:25.000Z",
-      "summary": "The Chamber of Agribusiness Ghana has urged Parliament to scrutinise eight critical gaps in the 2027 agricultural budget, warning that unclear funding, irrigation cuts, climate preparedness…"
     }
   ]
 };
