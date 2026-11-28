@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:47:03.829Z",
+  "updated": "2026-11-28T10:52:04.321Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,27 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana needs national framework to identify and support gifted children – Former GES Deputy Director-General",
+      "link": "https://www.myjoyonline.com/ghana-needs-national-framework-to-identify-and-support-gifted-children-former-ges-deputy-director-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T10:43:02.000Z",
+      "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena B. Tandoh, has called for a comprehensive national framework to identify and manage gifted and talented…",
+      "categories": [
+        "HP News 2",
+        "News",
+        "gIFTED",
+        "Students"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Early BECE candidates need emotional maturity before SHS – Susan Adu-Amankwah",
       "link": "https://www.myjoyonline.com/early-bece-candidates-need-emotional-maturity-before-shs-susan-adu-amankwah/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T10:39:09.000Z",
       "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has backed the Education Ministry’s decision to prohibit pupils from writing the Basic Education Certificate…",
       "categories": [
+        "HP News 5",
         "National",
         "ban on early bece",
         "BECE",
@@ -80,7 +95,7 @@ window.GDC_PAPERS = {
       "summary": "The Ministry of Lands and Natural Resources has reaffirmed its commitment to holding quarterly engagements with the mining industry to strengthen collaboration, address concerns and build…",
       "categories": [
         "Business",
-        "HP News 2",
+        "HP News 8",
         "Mining",
         "National",
         "Dr Yusif Sulemana",
@@ -161,19 +176,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
-      "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:24:26.000Z",
-      "summary": "Last Saturday, I asked how many more rivers must be poisoned? How many more forests destroyed? How many more children exposed to toxic dangers? And how many more security officers ought to…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "Samson’s Take"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Don't transfer NMC's power to appoint board members of state owned media to minister - GJA opposes constitutional review proposal",
