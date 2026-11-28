@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-27T22:54:12.842Z",
+  "updated": "2026-11-28T01:05:28.759Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ibrahim Mahama inducted into ECOWAS Business Council, commits to sharing experiences with other countries",
+      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-experiences-with-other-countries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T23:32:00.000Z",
+      "summary": "Engineers & Planners Founder and Chief Executive Officer, Ibrahim Mahama, has been inducted as Ghana’s representative on the ECOWAS Business Council at an event held in Lagos, Nigeria…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Aliko Dangote",
+        "ECOWAS Business Council",
+        "Engineers and Planners",
+        "Ibrahim Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ibrahim Mahama inducted into ECOWAS Business Council, pledges regional cooperation",
+      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-pledges-regional-cooperation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T22:55:04.000Z",
+      "summary": "Ghanaian businessman and Chief Executive Officer of Engineers & Planners, Ibrahim Mahama, has secured a place on a 15-member ECOWAS Business Council, where he is expected to contribute to…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Africa",
+        "ECOWAS",
+        "Ibrahim Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Four schools book places in 2026 national public speaking grand finale",
       "link": "https://www.myjoyonline.com/four-schools-book-places-in-2026-national-public-speaking-grand-finale/",
@@ -99,34 +131,6 @@ window.GDC_PAPERS = {
         "5-year presidential term",
         "CSOs",
         "MMDCEs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "RON Foundation invests in digital education at Atwima Koforidua with modern ICT lab commissioning",
-      "link": "https://www.myjoyonline.com/ron-foundation-invests-in-digital-education-at-atwima-koforidua-with-modern-ict-lab-commissioning-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:26:21.000Z",
-      "summary": "A philanthropic organization, RON Foundation, has cut the sod for the construction of a modern Information and Communication Technology (ICT) laboratory at Atwima Koforidua in the Ashanti…",
-      "categories": [
-        "Regional",
-        "Atwima Koforidua",
-        "ICT Lab",
-        "RON Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production – Kuapa Kokoo MD",
-      "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:25:19.000Z",
-      "summary": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine…",
-      "categories": [
-        "National",
-        "Cocoa Production",
-        "Emmanuel Kwabena Arthur",
-        "Kuapa Kokoo MD"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-27T22:53:42.384Z",
+  "updated": "2026-11-28T01:05:27.067Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,20 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 415)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ibrahim Mahama inducted into ECOWAS Business Council, commits to sharing experiences with other countries",
+      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-experiences-with-other-countries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T23:32:00.000Z",
+      "summary": "Engineers & Planners Founder and Chief Executive Officer, Ibrahim Mahama, has been inducted as Ghana’s representative on the ECOWAS Business Council at an event held in Lagos, Nigeria…"
+    },
     {
       "title": "COMAC Urges NPA to Enforce Petroleum Price Floor As December Price Cuts Loom",
       "link": "https://thehighstreetjournal.com/comac-urges-npa-to-enforce-petroleum-price-floor-as-december-price-cuts-loom/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:00:00.000Z",
       "summary": "The report identified 6.7 million people facing food crisis conditions across Burkina Faso, Mali and Niger, underscoring the scale of food insecurity"
-    },
-    {
-      "title": "The Planned Agric Import Bans Vrs. Ghana’s Land Realities: The 100,000 Hectare Bottleneck",
-      "link": "https://thehighstreetjournal.com/the-planned-agric-import-bans-vrs-ghanas-land-realities-the-100000-hectare-bottleneck/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:00:00.000Z",
-      "summary": "Deloitte warns Ghana’s planned agricultural import bans could face major land constraints, with only 10,780 of 100,000 hectares identified for oil palm expansion, risking food shortages…"
     }
   ]
 };
