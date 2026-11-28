@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:52:03.454Z",
+  "updated": "2026-11-28T13:57:04.154Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Unposted medical officers haven’t declined postings — AUMO challenges Health Minister over figures",
+      "link": "https://www.myjoyonline.com/unposted-medical-officers-havent-declined-postings-aumo-challenges-health-minister-over-figures/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:51:30.000Z",
+      "summary": "The Association of Unposted Medical Officers (AUMO) has dismissed claims that doctors awaiting employment have declined postings from the Ministry of Health, insisting that none of its…",
+      "categories": [
+        "News",
+        "AUMO",
+        "Health Minister",
+        "Unposted medical officers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
       "link": "https://www.myjoyonline.com/ghanaian-farming-households-face-higher-risk-of-food-insecurity-ghana-statistical-service/",
       "source": "MyJoyOnline",
@@ -30,7 +44,6 @@ window.GDC_PAPERS = {
         "Agribusiness",
         "Economy",
         "HP Business 3",
-        "HP News 5",
         "National",
         "Ghanaian farming households face higher risk of food insecurity - Ghana Statistical Service"
       ],
@@ -123,6 +136,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Economy",
         "HP Business 2",
+        "HP News 3",
         "National",
         "Food budget",
         "Ghana Statistical Services",
@@ -170,21 +184,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Power challenges could persist for two years – Energy Analyst",
-      "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T12:04:47.000Z",
-      "summary": "Energy Analyst Kwadwo Poku has warned that Ghana's current power challenges could persist for at least two years, blaming inadequate investment in electricity transmission infrastructure…",
-      "categories": [
-        "Energy",
-        "HP News 2",
-        "National",
-        "Energy Analyst Kwadwo Poku",
-        "Power"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "KOICA volunteers develop ICT textbooks for basic schools in Central Region",
