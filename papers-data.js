@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T12:12:04.404Z",
+  "updated": "2026-11-28T12:22:04.066Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Non-enforcement of judgments denies citizens justice twice - President of ECOWAS Court",
+      "link": "https://www.graphic.com.gh/news/politics/non-enforcement-of-judgments-denies-citizens-justice-twice-president-of-ecowas-court.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T12:08:37.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ghana’s power challenges could persist for two more years – Energy Analyst",
       "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/dont-transfer-nmcs-power-to-appoint-board-members-of-state-owned-media-to-minister-gja-opposes-constitutional-review-proposal.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T09:13:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PURC resolves 89 per cent of consumer complaints in Bono East",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-purc-resolves-89-per-cent-of-consumer-complaints-in-bono-east.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T08:21:34.000Z",
       "summary": "",
       "categories": [
         "General News"
