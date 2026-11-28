@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T09:47:04.187Z",
+  "updated": "2026-11-28T09:52:03.637Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Food glut: Annoh-Dompreh demands emergency government purchase of surplus produce",
+      "link": "https://www.myjoyonline.com/food-glut-annoh-dompreh-demands-emergency-government-purchase-of-surplus-produce/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:45:39.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has called for emergency government intervention to buy surplus produce as farmers and market women struggle to find buyers nationwide.",
+      "categories": [
+        "National",
+        "food glut",
+        "Frank Annoh-Dompreh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
       "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
@@ -176,20 +189,6 @@ window.GDC_PAPERS = {
         "GIZ",
         "Shea RISE",
         "The Savannah Fruits Company"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
-      "link": "https://www.myjoyonline.com/govt-plans-natural-resource-revenue-management-act-to-strengthen-accountability-deputy-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T06:07:30.000Z",
-      "summary": "The government is proposing a Natural Resource Revenue Management Act to strengthen transparency, accountability and the long-term management of revenues generated from Ghana's petroleum…",
-      "categories": [
-        "Mining",
-        "National",
-        "Accountability",
-        "Government"
       ],
       "site": "https://www.myjoyonline.com/"
     },
