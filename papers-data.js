@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T15:22:03.610Z",
+  "updated": "2026-11-28T15:27:04.345Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jay Foley and Roselyn Feli named hosts of 2026 Guinness Ghana DJ Awards powered by Smirnoff",
+      "link": "https://www.myjoyonline.com/jay-foley-and-roselyn-feli-named-hosts-of-2026-guinness-ghana-dj-awards-powered-by-smirnoff/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T15:19:25.000Z",
+      "summary": "The 2026 Guinness Ghana DJ Awards is shaping up to be an exciting night of music, entertainment and recognition, with popular media personalities Jay Foley and Roselyn Feli announced as…",
+      "categories": [
+        "Events",
+        "DJ Awards",
+        "Jay Foley",
+        "Roselyn Feli",
+        "Smirnoff"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "TCL to host Ghana DJ Awards watch parties in Kumasi, Takoradi, Accra",
       "link": "https://www.myjoyonline.com/tcl-to-host-ghana-dj-awards-watch-parties-in-kumasi-takoradi-accra/",
@@ -117,20 +132,6 @@ window.GDC_PAPERS = {
         "National",
         "GES",
         "Sanitary pad"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Unposted medical officers haven’t declined postings — AUMO challenges Health Minister over figures",
-      "link": "https://www.myjoyonline.com/unposted-medical-officers-havent-declined-postings-aumo-challenges-health-minister-over-figures/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:51:30.000Z",
-      "summary": "The Association of Unposted Medical Officers (AUMO) has dismissed claims that doctors awaiting employment have declined postings from the Ministry of Health, insisting that none of its…",
-      "categories": [
-        "News",
-        "AUMO",
-        "Health Minister",
-        "Unposted medical officers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
