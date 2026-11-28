@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T09:52:03.637Z",
+  "updated": "2026-11-28T09:57:04.179Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
+      "link": "https://www.myjoyonline.com/government-to-sustain-quarterly-engagements-with-mining-industry-deputy-lands-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:51:08.000Z",
+      "summary": "The Ministry of Lands and Natural Resources has reaffirmed its commitment to holding quarterly engagements with the mining industry to strengthen collaboration, address concerns and build…",
+      "categories": [
+        "Business",
+        "Mining",
+        "National",
+        "Dr Yusif Sulemana",
+        "Lands Ministry",
+        "Mining industry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parents must consult teachers before pushing gifted children to skip classes – NIM Executive Secretary",
+      "link": "https://www.myjoyonline.com/parents-must-consult-teachers-before-pushing-gifted-children-to-skip-classes-nim-executive-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:50:06.000Z",
+      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has cautioned against parents unilaterally deciding that their children are gifted and pushing for them to…",
+      "categories": [
+        "Education",
+        "National",
+        "National Interest Movement",
+        "Parents"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Food glut: Annoh-Dompreh demands emergency government purchase of surplus produce",
       "link": "https://www.myjoyonline.com/food-glut-annoh-dompreh-demands-emergency-government-purchase-of-surplus-produce/",
@@ -115,6 +145,30 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "OSP dares youth: Callenges young people to stand for integrity",
+      "link": "https://www.graphic.com.gh/news/general-news/osp-dares-youth.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T07:53:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Morocco’s King Mohammed VI hands Ali Seddiki strategic defence industry mandate",
+      "link": "https://www.myjoyonline.com/moroccos-king-mohammed-vi-hands-ali-seddiki-strategic-defence-industry-mandate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T07:48:00.000Z",
+      "summary": "Morocco’s King Mohammed VI has entrusted Ali Seddiki with a strategic assignment to advance the country’s national defence and security industry.",
+      "categories": [
+        "Africa",
+        "King Mohammed VI",
+        "Morocco"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghanaian journalists call for transparency in administration of GH¢10million Media Development Fund",
       "link": "https://www.graphic.com.gh/news/general-news/gja-calls-for-transparency-in-administration-of-media-development-fund.html",
       "source": "Daily Graphic",
@@ -137,37 +191,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "WWC 2027Q: Black Queens begin playoff tournament against Ecuador on November 28",
-      "link": "https://www.myjoyonline.com/wwc-2027q-black-queens-begin-playoff-tournament-against-ecuador/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T07:00:30.000Z",
-      "summary": "The Black Queens get their campaign underway on Saturday evening when they take on Ecuador in the first of their three games for the tournament, with kickoff scheduled for 19:00 GMT.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "2027 Women's World Cup",
-        "Black Queens",
-        "Ecuador",
-        "Women's World Cup playoff tournament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey urges mining industry to prioritise integrity, stewardship and community impact",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-prioritise-integrity-stewardship-and-community-impact/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T06:33:32.000Z",
-      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for Ghana's mining industry to be judged not only by its production levels and economic…",
-      "categories": [
-        "Health",
-        "National",
-        "Ken Ashigbey",
-        "Mining"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
       "link": "https://www.graphic.com.gh/news/politics/ghana-news-end-four-yearly-electoral-wars-sir-sam-jonah-proposes-new-union-government-2.html",
       "source": "Daily Graphic",
@@ -177,20 +200,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The Savannah Fruits Company, GIZ Ghana enter €1.3m PSInno partnership to strengthen women-led shea businesses in northern Ghana",
-      "link": "https://www.myjoyonline.com/the-savannah-fruits-company-giz-ghana-enter-e1-3m-psinno-partnership-to-strengthen-women-led-shea-businesses-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T06:28:00.000Z",
-      "summary": "The Head of Programme for the Private Sector and Innovation Promotion (PSInno) programme at GIZ Ghana, Arlett Stojanovic, says the German government has allocated funding to create jobs and…",
-      "categories": [
-        "Agribusiness",
-        "GIZ",
-        "Shea RISE",
-        "The Savannah Fruits Company"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Rev. Dr Ogbarmey Tetteh launches six books on finance and marriage",
@@ -208,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/tone-magazine-presents-maiden-edition-to-uk-high-commissioner.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T15:42:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "See the week-long activities announced for 42nd National Farmers' Day in Sunyani",
-      "link": "https://www.graphic.com.gh/news/general-news/see-the-week-long-activities-announced-for-42nd-national-farmers-day-in-sunyani.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T15:36:26.000Z",
       "summary": "",
       "categories": [
         "General News"

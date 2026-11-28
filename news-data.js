@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T09:52:02.332Z",
+  "updated": "2026-11-28T09:57:02.838Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
+      "link": "https://www.myjoyonline.com/government-to-sustain-quarterly-engagements-with-mining-industry-deputy-lands-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:51:08.000Z",
+      "summary": "The Ministry of Lands and Natural Resources has reaffirmed its commitment to holding quarterly engagements with the mining industry to strengthen collaboration, address concerns and build…"
+    },
     {
       "title": "Newmont Ghana Gold Limited registers 700 indigenous businesses within its supply value chain",
       "link": "https://www.ghanabusinessnews.com/2026/11/28/newmont-ghana-gold-limited-registers-700-indigenous-businesses-within-its-supply-value-chain/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T12:02:00.000Z",
       "summary": "StarOil Ghana is urging the NPA to lower the GH¢13.69 petrol price floor before December 1, potentially enabling cheaper fuel and offering motorists, households and businesses additional…"
-    },
-    {
-      "title": "Redundancy Packages in Ghana: What Does the Law Require Employers to Pay Affected Workers?",
-      "link": "https://thehighstreetjournal.com/redundancy-packages-in-ghana-what-does-the-law-require-employers-to-pay-affected-workers/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T11:57:46.000Z",
-      "summary": "When businesses restructure, merge, introduce new technology, or experience financial difficulties, one of the consequences may be the loss of jobs. For affected workers, the immediate…"
     }
   ]
 };
