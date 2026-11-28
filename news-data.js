@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T11:47:02.703Z",
+  "updated": "2026-11-28T12:02:03.373Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Launches Trade Barriers Platform as US$4.3bn Export Revenue Losses Loom",
+      "link": "https://thehighstreetjournal.com/ghana-launches-trade-barriers-platform-as-us4-3bn-export-revenue-losses-loom/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T12:00:56.000Z",
+      "summary": "Ghana has launched a digital trade barriers platform to address procedural delays, reduce cross-border trade costs and tackle obstacles estimated to threaten US$4.3bn in annual export…"
+    },
     {
       "title": "PFAG Questions 3.64% Agriculture Allocation in 2027 Budget, Cites GH¢83bn Funding Gap",
       "link": "https://thehighstreetjournal.com/pfag-questions-3-64-agriculture-allocation-in-2027-budget-cites-gh%c2%a283bn-funding-gap/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T13:11:43.000Z",
       "summary": "The Women's Development Bank has commenced recruitment of its management and staff as the government steps up preparations to operationalise the institution by the end of March 2027…"
-    },
-    {
-      "title": "Ga Mantse Pushes Financial Institutions To Invest In Underserved Communities",
-      "link": "https://thehighstreetjournal.com/ga-mantse-pushes-financial-institutions-to-invest-in-underserved-communities/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T12:45:00.000Z",
-      "summary": "The Ga Mantse has urged Opportunity International to expand targeted financing for underserved groups, support local employment and strengthen economic opportunities for vulnerable…"
     }
   ]
 };
