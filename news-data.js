@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T13:02:03.323Z",
+  "updated": "2026-11-28T13:17:02.900Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "1 in 2 households spend over 75% of their budget on food – Ghana Statistical Service",
+      "link": "https://www.myjoyonline.com/75-percent-households-spend-food-budget-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:12:09.000Z",
+      "summary": "More than half of Ghanaian households spend over three-quarters of their total expenditure on food, leaving limited financial resources for other essential needs, the Ghana Statistical…"
+    },
+    {
+      "title": "‘Is Ghana’s internet banking system down?’ – Users report widespread bank app and digital payment service disruptions",
+      "link": "https://www.myjoyonline.com/is-ghanas-internet-banking-system-down-users-report-widespread-bank-app-and-digital-payment-service-disruptions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:10:38.000Z",
+      "summary": "Ghanaians have taken to social media to report disruptions to banking apps and digital payment services, raising concerns about the reliability of the country's electronic financial…"
+    },
     {
       "title": "AI Boom Raises Copyright and Financial Risks for Ghana’s Creative Economy",
       "link": "https://thehighstreetjournal.com/ai-boom-raises-copyright-and-financial-risks-for-ghanas-creative-economy/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T14:02:57.000Z",
       "summary": "According to the firm, the government should prioritise the conditions that allow these investments to deliver lasting benefits, while managing fiscal and execution risks."
-    },
-    {
-      "title": "MTN awards GH¢300,000 to agritech firm to expand agricultural processing",
-      "link": "https://www.myjoyonline.com/mtn-awards-gh%c2%a2300000-to-agritech-firm-to-expand-agricultural-processing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:49:07.000Z",
-      "summary": "MTN Ghana has awarded GH¢300,000 to Age Industries and Trading Limited as the overall winner of its National Business Pitch Competition, supporting the company’s plans to expand locally…"
-    },
-    {
-      "title": "French Ambassador praises Ghana’s economic progress",
-      "link": "https://www.myjoyonline.com/french-ambassador-praises-ghanas-economic-progress/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:27:37.000Z",
-      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has commended the country’s economic progress, congratulating Finance Minister Dr Cassiel Ato Forson on the economy’s performance. The…"
     }
   ]
 };

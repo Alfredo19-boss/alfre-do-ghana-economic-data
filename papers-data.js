@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:02:04.378Z",
+  "updated": "2026-11-28T13:17:03.926Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,64 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Community-based senior high school inaugurated at Kpalbe; MP dedicates GH¢100,000 from common fund to support students",
+      "link": "https://www.graphic.com.gh/news/education/community-based-senior-high-school-inaugurated-at-kpalbe-mp-dedicates-ghc100-000-from-common-fund-to-support-students.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T13:14:35.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "1 in 2 households spend over 75% of their budget on food – Ghana Statistical Service",
+      "link": "https://www.myjoyonline.com/75-percent-households-spend-food-budget-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:12:09.000Z",
+      "summary": "More than half of Ghanaian households spend over three-quarters of their total expenditure on food, leaving limited financial resources for other essential needs, the Ghana Statistical…",
+      "categories": [
+        "Economy",
+        "HP Business 2",
+        "HP News 2",
+        "National",
+        "Food budget",
+        "Ghana Statistical Services",
+        "Ghanaian household",
+        "Mobile Vulnerability Analysis and Mapping report"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Is Ghana’s internet banking system down?’ – Users report widespread bank app and digital payment service disruptions",
+      "link": "https://www.myjoyonline.com/is-ghanas-internet-banking-system-down-users-report-widespread-bank-app-and-digital-payment-service-disruptions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:10:38.000Z",
+      "summary": "Ghanaians have taken to social media to report disruptions to banking apps and digital payment services, raising concerns about the reliability of the country's electronic financial…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "Technology",
+        "Top Story",
+        "banking systems",
+        "digital payment service",
+        "Disruptions"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NGOs urged to rethink funding models, account to communities",
+      "link": "https://www.graphic.com.gh/news/general-news/ngos-urged-to-rethink-funding-models-account-to-communities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T12:51:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Non-enforcement of judgments denies citizens justice twice - President of ECOWAS Court",
       "link": "https://www.graphic.com.gh/news/politics/non-enforcement-of-judgments-denies-citizens-justice-twice-president-of-ecowas-court.html",
@@ -105,8 +163,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T10:43:02.000Z",
       "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena B. Tandoh, has called for a comprehensive national framework to identify and manage gifted and talented…",
       "categories": [
+        "HP News 1",
         "News",
-        "Top Story",
         "gIFTED",
         "Students"
       ],
@@ -140,20 +198,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Supreme Court, Court of Appeal to go fully digital from January 2027 – Chief Justice",
-      "link": "https://www.myjoyonline.com/supreme-court-court-of-appeal-to-go-fully-digital-from-january-2027-chief-justice/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:57:10.000Z",
-      "summary": "The Supreme Court and the Court of Appeal will begin full electronic filing, authentication, service and related court processes from January 2, 2027, Chief Justice Paul Baffoe-Bonnie has…",
-      "categories": [
-        "National",
-        "Court of Appeal",
-        "Digital",
-        "Supreme Court"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Daily Graphic's Timothy Ngnenbe wins record sixth Mining Reporter of the Year",
       "link": "https://www.graphic.com.gh/news/general-news/daily-graphics-timothy-ngnenbe-wins-record-sixth-mining-reporter-of-the-year.html",
       "source": "Daily Graphic",
@@ -163,23 +207,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
-      "link": "https://www.myjoyonline.com/government-to-sustain-quarterly-engagements-with-mining-industry-deputy-lands-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:51:08.000Z",
-      "summary": "The Ministry of Lands and Natural Resources has reaffirmed its commitment to holding quarterly engagements with the mining industry to strengthen collaboration, address concerns and build…",
-      "categories": [
-        "Business",
-        "HP News 8",
-        "Mining",
-        "National",
-        "Dr Yusif Sulemana",
-        "Lands Ministry",
-        "Mining industry"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Police announce security arrangements for Gbi-Za Festival in Hohoe",
@@ -197,28 +224,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/man-jailed-one-year-for-attempted-rape-indecent-assault.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T09:33:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two arrested over viral Asokore robbery, stolen items recovered",
-      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-viral-asaokore-robbery-stolen-items-recovered.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T09:28:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Don't transfer NMC's power to appoint board members of state owned media to minister - GJA opposes constitutional review proposal",
-      "link": "https://www.graphic.com.gh/news/general-news/dont-transfer-nmcs-power-to-appoint-board-members-of-state-owned-media-to-minister-gja-opposes-constitutional-review-proposal.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T09:13:36.000Z",
       "summary": "",
       "categories": [
         "General News"
