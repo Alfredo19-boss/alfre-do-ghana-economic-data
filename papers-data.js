@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T19:06:29.422Z",
+  "updated": "2026-11-28T19:21:30.443Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama reaffirms Ghana’s support for Barbados, CARICOM on reparatory justice",
+      "link": "https://www.myjoyonline.com/mahama-reaffirms-ghanas-support-for-barbados-caricom-on-reparatory-justice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:15:00.000Z",
+      "summary": "President John Dramani Mahama has reaffirmed Ghana's support for Barbados and the Caribbean Community (CARICOM) in their push for reparatory justice over the transatlantic slave trade and…",
+      "categories": [
+        "National",
+        "News",
+        "Barbados",
+        "Ghana",
+        "Reparatory justice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama urges stronger Africa-Caribbean ties, calls Atlantic a bridge rather than a barrier",
+      "link": "https://www.myjoyonline.com/mahama-urges-stronger-africa-caribbean-ties-calls-atlantic-a-bridge-rather-than-a-barrier/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:14:00.000Z",
+      "summary": "President John Dramani Mahama has called for stronger relations between Africa and the Caribbean, urging both regions to transform their shared historical experiences into a foundation for…",
+      "categories": [
+        "National",
+        "News",
+        "Africa",
+        "Atlantic",
+        "caribean",
+        "John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama announces plans to open new embassies in 2027, names Barbados as first",
       "link": "https://www.myjoyonline.com/mahama-announces-plans-to-open-new-embassies-in-2027-names-barbados-as-first/",
@@ -104,36 +135,6 @@ window.GDC_PAPERS = {
         "News",
         "Barbados",
         "John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dansoman, Adenta, Amasaman among power outage hotspots – Energy Ministry",
-      "link": "https://www.myjoyonline.com/dansoman-adenta-amasaman-among-power-outage-hotspots-energy-ministry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T17:44:26.000Z",
-      "summary": "The Ministry of Energy has identified Dansoman, Adenta, Amahia, parts of Oyarifa, Pokuase, Amasaman and Lakeside as areas experiencing persistent electricity supply challenges in recent…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Adenta",
-        "Amasaman",
-        "Dasoman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Energy Ministry blames recent power outages on transmission and distribution infrastructure",
-      "link": "https://www.myjoyonline.com/energy-ministry-blames-recent-power-outages-on-transmission-and-distribution-infrastructure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T17:43:20.000Z",
-      "summary": "The Ministry of Energy has attributed recent power outages and low-voltage challenges in parts of the country to pressure on transmission and distribution infrastructure, insisting that…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Energy Ministry",
-        "Power outages",
-        "Transmission"
       ],
       "site": "https://www.myjoyonline.com/"
     },
