@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:40:29.482Z",
+  "updated": "2026-11-28T05:50:29.472Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Fire ravages female hostel at St John Bosco’s College of Education",
+      "link": "https://www.myjoyonline.com/fire-ravages-female-hostel-at-st-john-boscos-college-of-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:43:36.000Z",
+      "summary": "Several female students of St John Bosco’s College of Education in Navrongo are counting their losses after a fire swept through parts of their hostel, destroying personal belongings.",
+      "categories": [
+        "News",
+        "college",
+        "Education",
+        "St John Bosco’s College of Education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "God will not take sides in an election – Nana Akomea",
       "link": "https://www.myjoyonline.com/god-will-not-take-sides-in-an-election/",
@@ -125,18 +139,6 @@ window.GDC_PAPERS = {
         "HP Business 3",
         "Mining",
         "Newmont"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government targets 2027 completion of Azumah Nelson Sports Complex",
-      "link": "https://www.myjoyonline.com/government-targets-2027-completion-of-azumah-nelson-sports-complex/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T03:29:00.000Z",
-      "summary": "Construction work on the Azumah Nelson Sports Complex has resumed, with the government setting 2027 as the target for completing the long-delayed facility.",
-      "categories": [
-        "News",
-        "Azumah Nelson"
       ],
       "site": "https://www.myjoyonline.com/"
     },
