@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T06:40:30.052Z",
+  "updated": "2026-11-28T09:47:04.187Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,126 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
+      "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:24:26.000Z",
+      "summary": "Last Saturday, I asked how many more rivers must be poisoned? How many more forests destroyed? How many more children exposed to toxic dangers? And how many more security officers ought to…",
+      "categories": [
+        "National",
+        "Galamsey",
+        "Samson’s Take"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Food glut: Annoh-Dompreh demands answers on Buffer Stock purchases and expenditure",
+      "link": "https://www.myjoyonline.com/food-glut-annoh-dompreh-demands-answers-on-buffer-stock-purchases-and-expenditure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:19:00.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has demanded full disclosure of the quantities of food the National Food Buffer Stock Company (NAFCO) has purchased and how much public money has…",
+      "categories": [
+        "National",
+        "food glut",
+        "Frank Annoh-Dompreh"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Don't transfer NMC's power to appoint board members of state owned media to minister - GJA opposes constitutional review proposal",
+      "link": "https://www.graphic.com.gh/news/general-news/dont-transfer-nmcs-power-to-appoint-board-members-of-state-owned-media-to-minister-gja-opposes-constitutional-review-proposal.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T09:13:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sentuo Group boss hands Black Challenge $10,000 each after 2026 Amputee World Cup win",
+      "link": "https://www.myjoyonline.com/sentuo-group-boss-hands-black-challenge-10000-each-after-2026-amputee-world-cup-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T08:39:59.000Z",
+      "summary": "The cash reward comes in recognition of the team’s remarkable achievement in Mexico, where Ghana defeated Morocco 1-0 in the final to become the second African nation to win the prestigious…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "National",
+        "2026 Amputee Football World Cup",
+        "Black Challenge",
+        "Ningquan Xu",
+        "Sentuo Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Livestream: Newsfile discusses BECE eligibility, power outages and early retirement directive",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-bece-eligibility-power-outages-and-early-retirement-directive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T08:10:22.000Z",
+      "summary": "In today's edition of JoyNews’ flagship news analysis programme, Samson Lardy Anyenini and his guests are discussing the Education Ministry’s decision to prevent unqualified pupils from…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "BECE",
+        "Dumsor",
+        "Newsfile",
+        "Retirement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tyrone Marhguy named recipient of GUBA 2026 Frontier Innovation Award",
+      "link": "https://www.graphic.com.gh/news/general-news/tyrone-marhguy-named-as-recipient-of-guba-2026-frontier-innovation-award.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T08:05:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghanaian journalists call for transparency in administration of GH¢10million Media Development Fund",
+      "link": "https://www.graphic.com.gh/news/general-news/gja-calls-for-transparency-in-administration-of-media-development-fund.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T07:37:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Midwife, 2 others nabbed over baby theft",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-midwife-2-others-nabbed-over-baby-theft.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T07:35:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "WWC 2027Q: Black Queens begin playoff tournament against Ecuador on November 28",
+      "link": "https://www.myjoyonline.com/wwc-2027q-black-queens-begin-playoff-tournament-against-ecuador/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T07:00:30.000Z",
+      "summary": "The Black Queens get their campaign underway on Saturday evening when they take on Ecuador in the first of their three games for the tournament, with kickoff scheduled for 19:00 GMT.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 Women's World Cup",
+        "Black Queens",
+        "Ecuador",
+        "Women's World Cup playoff tournament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ken Ashigbey urges mining industry to prioritise integrity, stewardship and community impact",
       "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-prioritise-integrity-stewardship-and-community-impact/",
       "source": "MyJoyOnline",
@@ -35,7 +155,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ghana news End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
+      "title": "End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
       "link": "https://www.graphic.com.gh/news/politics/ghana-news-end-four-yearly-electoral-wars-sir-sam-jonah-proposes-new-union-government-2.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T06:29:54.000Z",
@@ -44,6 +164,20 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "The Savannah Fruits Company, GIZ Ghana enter €1.3m PSInno partnership to strengthen women-led shea businesses in northern Ghana",
+      "link": "https://www.myjoyonline.com/the-savannah-fruits-company-giz-ghana-enter-e1-3m-psinno-partnership-to-strengthen-women-led-shea-businesses-in-northern-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:28:00.000Z",
+      "summary": "The Head of Programme for the Private Sector and Innovation Promotion (PSInno) programme at GIZ Ghana, Arlett Stojanovic, says the German government has allocated funding to create jobs and…",
+      "categories": [
+        "Agribusiness",
+        "GIZ",
+        "Shea RISE",
+        "The Savannah Fruits Company"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
@@ -60,91 +194,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Deputy Minister urges Chamber of Mines to sustain role in Ghana’s development ahead of 2028 centenary",
-      "link": "https://www.myjoyonline.com/deputy-minister-urges-chamber-of-mines-to-sustain-role-in-ghanas-development-ahead-of-2028-centenary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T06:07:20.000Z",
-      "summary": "The Deputy Minister for Lands and Natural Resources, Dr Yusif Sulemana, has urged the Ghana Chamber of Mines to build on its history of service and strengthen its contribution to the…",
+      "title": "Rev. Dr Ogbarmey Tetteh launches six books on finance and marriage",
+      "link": "https://www.graphic.com.gh/news/general-news/rev-dr-ogbarmey-tetteh-launches-six-books-on-finance-and-marriage.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-27T17:29:47.000Z",
+      "summary": "",
       "categories": [
-        "Mining",
-        "National",
-        "Chamber of Mines",
-        "Dr Yusif Sulemana"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adenta police seize 125 motorbikes in crackdown on fake number plates",
-      "link": "https://www.myjoyonline.com/adenta-police-seize-125-motorbikes-in-crackdown-on-fake-number-plates/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:53:31.000Z",
-      "summary": "The Adenta Police District Command has seized 125 motorbikes in a security operation aimed at identifying riders using unregistered machines and motorcycles fitted with suspected…",
-      "categories": [
-        "News",
-        "Adenta",
-        "Motorcycle",
-        "Police"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Navy plans river bases to keep galamsey operators at bay",
-      "link": "https://www.myjoyonline.com/ghana-navy-plans-river-bases-to-keep-galamsey-operators-at-bay/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:47:43.000Z",
-      "summary": "The Ghana Navy is preparing to establish military forward operating bases along major rivers nationwide as part of efforts to prevent illegal miners from reclaiming areas cleared during…",
-      "categories": [
-        "HP News 4",
-        "News",
-        "Galamsey",
-        "Ghana Navy",
-        "Military"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire ravages female hostel at St John Bosco’s College of Education",
-      "link": "https://www.myjoyonline.com/fire-ravages-female-hostel-at-st-john-boscos-college-of-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:43:36.000Z",
-      "summary": "Several female students of St John Bosco’s College of Education in Navrongo are counting their losses after a fire swept through parts of their hostel, destroying personal belongings.",
-      "categories": [
-        "News",
-        "college",
-        "Education",
-        "St John Bosco’s College of Education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "God will not take sides in an election – Nana Akomea",
-      "link": "https://www.myjoyonline.com/god-will-not-take-sides-in-an-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:30:39.000Z",
-      "summary": "New Patriotic Party (NPP) Third Vice-Chairman, Nana Akomea, has challenged attempts to attribute electoral victories and defeats to spiritual intervention, insisting that election results…",
-      "categories": [
-        "HP News 5",
-        "News",
-        "Politics",
-        "Elections",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "God does not choose election winners – Nana Akomea",
-      "link": "https://www.myjoyonline.com/god-does-not-choose-election-winners-nana-akomea/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:30:39.000Z",
-      "summary": "New Patriotic Party (NPP) Third Vice-Chairman, Nana Akomea, has challenged attempts to attribute electoral victories and defeats to spiritual intervention, insisting that election results…",
-      "categories": [
-        "HP News 5",
-        "News",
-        "Politics",
-        "Elections",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "TONE Magazine presents maiden edition to UK High Commissioner",
@@ -162,61 +220,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/see-the-week-long-activities-announced-for-42nd-national-farmers-day-in-sunyani.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T15:36:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "December 4 declared statutory public holiday",
-      "link": "https://www.graphic.com.gh/news/general-news/december-4-declared-statutory-public-holiday.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T15:20:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana temporarily closes Honorary Consulate in Vancouver",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-temporarily-closes-honorary-consulate-in-vancouver.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T14:51:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "WOMEC calls for urgent domestic financing for nutrition commodities",
-      "link": "https://www.graphic.com.gh/news/general-news/womec-calls-for-urgent-domestic-financing-for-nutrition-commodities.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T14:50:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sex offenders register is not enough to protect children, we need all-inclusive child protecting system - UNICEF",
-      "link": "https://www.graphic.com.gh/news/general-news/sex-offenders-register-is-not-enough-to-protect-children-we-need-all-inclusive-child-protecting-system-unicef.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T14:13:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2.69 million Ghanaians faced food insecurity in Q3 2026 – GSS report",
-      "link": "https://www.graphic.com.gh/news/general-news/2-69-million-ghanaians-faced-food-insecurity-in-q3-2026-gss-report.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T13:26:11.000Z",
       "summary": "",
       "categories": [
         "General News"

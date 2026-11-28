@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T06:40:28.458Z",
+  "updated": "2026-11-28T09:47:02.928Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Newmont Ghana Gold Limited registers 700 indigenous businesses within its supply value chain",
+      "link": "https://www.ghanabusinessnews.com/2026/11/28/newmont-ghana-gold-limited-registers-700-indigenous-businesses-within-its-supply-value-chain/",
+      "source": "Ghana Business News",
+      "published": "2026-11-28T09:16:23.000Z",
+      "summary": "Newmont Ghana Gold Limited (NGGL) has registered about 700 indigenous businesses, participating actively in the supply value chain of its Ahafo South and Ahafo North mines in the Ahafo…"
+    },
+    {
+      "title": "Why Ghana Needs a ‘Plan B’ as Falling Gold Prices Threaten Cedi Gains",
+      "link": "https://thehighstreetjournal.com/why-ghana-needs-a-plan-b-as-falling-gold-prices-threaten-cedi-gains/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T08:55:53.000Z",
+      "summary": "Falling gold prices threaten Ghana’s export revenue and cedi stability, making urgent economic diversification and value addition essential to protect recent macroeconomic gains."
+    },
+    {
+      "title": "The Savannah Fruits Company, GIZ Ghana enter €1.3m PSInno partnership to strengthen women-led shea businesses in northern Ghana",
+      "link": "https://www.myjoyonline.com/the-savannah-fruits-company-giz-ghana-enter-e1-3m-psinno-partnership-to-strengthen-women-led-shea-businesses-in-northern-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:28:00.000Z",
+      "summary": "The Head of Programme for the Private Sector and Innovation Promotion (PSInno) programme at GIZ Ghana, Arlett Stojanovic, says the German government has allocated funding to create jobs and…"
+    },
     {
       "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
       "link": "https://www.myjoyonline.com/govt-plans-natural-resource-revenue-management-act-to-strengthen-accountability-deputy-minister/",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T11:57:46.000Z",
       "summary": "When businesses restructure, merge, introduce new technology, or experience financial difficulties, one of the consequences may be the loss of jobs. For affected workers, the immediate…"
-    },
-    {
-      "title": "Ghana’s Jubilee crude gains as shipping costs fall and Chinese demand picks up",
-      "link": "https://www.myjoyonline.com/ghanas-jubilee-crude-gains-as-shipping-costs-fall-and-chinese-demand-picks-up/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T11:18:43.000Z",
-      "summary": "Ghana’s Jubilee crude regained ground as lower tanker rates made West African supplies more competitive in Asia and Chinese refiners showed renewed buying interest, according to Argus…"
-    },
-    {
-      "title": "ORE Group wins Residential Property Development Company of the Year as it advances Accra’s first ocean-view tower",
-      "link": "https://www.myjoyonline.com/ore-group-wins-residential-property-development-company-of-the-year-as-it-advances-accras-first-ocean-view-tower/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T09:35:19.000Z",
-      "summary": "Oriental Royal Estates Group has been named Residential Property Development Company of the Year at the 2026 National Customers' Choice Awards Ghana, capping a defining year of rapid…"
-    },
-    {
-      "title": "BoG urges financial institutions to invest in carbon markets",
-      "link": "https://www.myjoyonline.com/bog-urges-financial-institutions-to-invest-in-carbon-markets/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T09:27:58.000Z",
-      "summary": "The Bank of Ghana (BoG) is urging financial institutions to deepen their investment in carbon markets to unlock new revenue opportunities, attract foreign capital and support Ghana’s green…"
     }
   ]
 };
