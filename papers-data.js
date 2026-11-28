@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:46:30.959Z",
+  "updated": "2026-11-28T19:06:29.422Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama announces plans to open new embassies in 2027, names Barbados as first",
+      "link": "https://www.myjoyonline.com/mahama-announces-plans-to-open-new-embassies-in-2027-names-barbados-as-first/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:00:00.000Z",
+      "summary": "President John Mahama has announced plans to open additional Ghanaian diplomatic missions in 2027, with Barbados set to become the first country to benefit from the move. He made the…",
+      "categories": [
+        "International",
+        "National",
+        "Barbados",
+        "Mahama",
+        "new embassies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "24-year-old man jailed for attempted rape, indecent assault in Hohoe",
       "link": "https://www.myjoyonline.com/24-year-old-man-jailed-for-attempted-rape-indecent-assault-in-hohoe/",
@@ -132,28 +147,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Prices of petrol and LPG to drop by a significant margin from December 1 – COMAC",
-      "link": "https://www.myjoyonline.com/prices-of-petrol-and-lpg-to-drop-by-a-significant-margin-from-december-1-comac/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T17:04:30.000Z",
-      "summary": "This was captured in the Chamber of Oil Marketing Companies (COMAC) pricing outlook for the various petrol products for the first pricing window of December 2026.",
-      "categories": [
-        "Business",
-        "Energy",
-        "HP Business 1",
-        "HP News 1",
-        "National",
-        "News",
-        "COMAC",
-        "Crude Oil",
-        "Diesel",
-        "LPG",
-        "NPA",
-        "Petrol"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "IPU challenges ECOWAS MPs to act on child labour issues",
