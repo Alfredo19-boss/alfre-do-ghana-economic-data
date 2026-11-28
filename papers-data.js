@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:10:29.603Z",
+  "updated": "2026-11-28T05:15:30.034Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama sings Peter Tosh’s ‘African’ in Barbados Parliament",
+      "link": "https://www.myjoyonline.com/mahama-sings-peter-toshs-african-in-barbados-parliament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:08:07.000Z",
+      "summary": "President John Dramani Mahama brought a touch of reggae and Pan-African history to the Parliament of Barbados when he broke into lines from Jamaican reggae icon Peter Tosh’s 1977 song…",
+      "categories": [
+        "National",
+        "News",
+        "Barbados",
+        "Ghama",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Newmont Ahafo South Mine named Mining Company of the Year at 12th Ghana Mining Industry Awards",
       "link": "https://www.myjoyonline.com/newmont-ahafo-south-mine-named-mining-company-of-the-year-at-12th-ghana-mining-industry-awards/",
@@ -111,19 +126,6 @@ window.GDC_PAPERS = {
         "News",
         "environment",
         "Sanitation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
-      "link": "https://www.myjoyonline.com/hundreds-of-thousands-still-without-power-a-day-after-us-slammed-with-thanksgiving-storms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T02:02:19.000Z",
-      "summary": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
-      "categories": [
-        "International",
-        "thanksgiving",
-        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
