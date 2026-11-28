@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:16:30.378Z",
+  "updated": "2026-11-28T18:26:30.168Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -59,7 +59,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T17:44:26.000Z",
       "summary": "The Ministry of Energy has identified Dansoman, Adenta, Amahia, parts of Oyarifa, Pokuase, Amasaman and Lakeside as areas experiencing persistent electricity supply challenges in recent…",
       "categories": [
-        "HP News 9",
+        "HP News 2",
         "National",
         "Adenta",
         "Amasaman",
@@ -74,6 +74,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T17:43:20.000Z",
       "summary": "The Ministry of Energy has attributed recent power outages and low-voltage challenges in parts of the country to pressure on transmission and distribution infrastructure, insisting that…",
       "categories": [
+        "HP News 5",
         "National",
         "Energy Ministry",
         "Power outages",
@@ -103,7 +104,6 @@ window.GDC_PAPERS = {
         "Energy",
         "HP Business 1",
         "HP News 1",
-        "HP News 2",
         "National",
         "News",
         "COMAC",
