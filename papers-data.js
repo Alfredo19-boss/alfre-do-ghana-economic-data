@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:25:29.842Z",
+  "updated": "2026-11-28T05:30:29.902Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -58,6 +58,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T05:08:07.000Z",
       "summary": "President John Dramani Mahama brought a touch of reggae and Pan-African history to the Parliament of Barbados when he broke into lines from Jamaican reggae icon Peter Tosh’s 1977 song…",
       "categories": [
+        "HP News 1",
         "National",
         "News",
         "Barbados",
@@ -75,6 +76,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "HP Business 2",
+        "In Focus",
         "Mining",
         "National",
         "12th Ghana Mining Industry Awards",
