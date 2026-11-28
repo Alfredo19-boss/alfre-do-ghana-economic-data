@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:50:29.472Z",
+  "updated": "2026-11-28T05:55:30.118Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana Navy plans river bases to keep galamsey operators at bay",
+      "link": "https://www.myjoyonline.com/ghana-navy-plans-river-bases-to-keep-galamsey-operators-at-bay/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:47:43.000Z",
+      "summary": "The Ghana Navy is preparing to establish military forward operating bases along major rivers nationwide as part of efforts to prevent illegal miners from reclaiming areas cleared during…",
+      "categories": [
+        "HP News 4",
+        "News",
+        "Galamsey",
+        "Ghana Navy",
+        "Military"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fire ravages female hostel at St John Bosco’s College of Education",
       "link": "https://www.myjoyonline.com/fire-ravages-female-hostel-at-st-john-boscos-college-of-education/",
@@ -125,20 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "12th Ghana Mining Industry Awards",
         "Newmont Ahafo South Mine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lands Ministry, Newmont set up working group to strengthen mining partnership",
-      "link": "https://www.myjoyonline.com/lands-ministry-newmont-set-up-working-group-to-strengthen-the-mining-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T04:13:02.000Z",
-      "summary": "The Minister for Lands and Natural Resources, Hon. Emmanuel Armah-Kofi Buah has inaugurated a six-month Joint Ghana–Newmont Working Group to address concerns relating to the fiscal…",
-      "categories": [
-        "Business",
-        "HP Business 3",
-        "Mining",
-        "Newmont"
       ],
       "site": "https://www.myjoyonline.com/"
     },
