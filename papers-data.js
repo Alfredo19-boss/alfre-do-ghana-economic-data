@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:30:29.902Z",
+  "updated": "2026-11-28T05:35:29.644Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "God does not choose election winners – Nana Akomea",
+      "link": "https://www.myjoyonline.com/god-does-not-choose-election-winners-nana-akomea/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:30:39.000Z",
+      "summary": "New Patriotic Party (NPP) Third Vice-Chairman, Nana Akomea, has challenged attempts to attribute electoral victories and defeats to spiritual intervention, insisting that election results…",
+      "categories": [
+        "HP News 5",
+        "News",
+        "Politics",
+        "Elections",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "JoyNews’ Nana Boakye Danquah Yiadom, Caleb Ziblim honoured at Ghana Mining Industry Awards",
       "link": "https://www.myjoyonline.com/joynews-nana-boakye-danquah-yiadom-caleb-ziblim-honoured-at-ghana-mining-industry-awards/",
@@ -121,19 +136,6 @@ window.GDC_PAPERS = {
         "Mining",
         "National",
         "Excellence",
-        "Ken Ashigbey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey urges mining industry to translate economic contributions into lasting development",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-translate-economic-contributions-into-lasting-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T03:18:13.000Z",
-      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called on Ghana's mining industry to ensure its substantial economic contributions translate…",
-      "categories": [
-        "National",
-        "12th Ghana Mining Industry Awards",
         "Ken Ashigbey"
       ],
       "site": "https://www.myjoyonline.com/"
