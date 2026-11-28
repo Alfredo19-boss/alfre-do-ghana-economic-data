@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T05:55:28.383Z",
+  "updated": "2026-11-28T06:00:28.873Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "From Mobile Money to Connected Ecosystems: How Africa is Engineering its Next Fintech Chapter",
+      "link": "https://thehighstreetjournal.com/from-mobile-money-to-connected-ecosystems-how-africa-is-engineering-its-next-fintech-chapter/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T05:57:59.000Z",
+      "summary": "By John-Mark Ssebunya,General Manager, Technology Architecture & Strategy, MTN Group Fintech Picture a small business owner receiving customer payments, ordering stock or accessing working…"
+    },
     {
       "title": "Gov’t Could Rake in Millions in Savings Through Early DDEP Bond Buyback – Dr. Atuahene",
       "link": "https://thehighstreetjournal.com/govt-could-rake-in-millions-in-savings-through-early-ddep-bond-buyback-dr-atuahene/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T08:47:01.000Z",
       "summary": "Ecobank Ghana and Mobile Money Fintech Limited have launched a cross-border transfer service allowing customers in Côte d’Ivoire to send money directly to Mobile Money wallets in Ghana, as…"
-    },
-    {
-      "title": "African secondary education systems must transform to prepare youth for jobs – Report",
-      "link": "https://www.ghanabusinessnews.com/2026/11/25/african-secondary-education-systems-must-transform-to-prepare-youth-for-jobs-report/",
-      "source": "Ghana Business News",
-      "published": "2026-11-25T08:43:50.000Z",
-      "summary": "Secondary education systems across Africa must undergo significant transformation to equip young people with relevant skills and prepare them for employment, entrepreneurship and lifelong…"
     }
   ]
 };

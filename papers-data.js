@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:55:30.118Z",
+  "updated": "2026-11-28T06:00:30.936Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Adenta police seize 125 motorbikes in crackdown on fake number plates",
+      "link": "https://www.myjoyonline.com/adenta-police-seize-125-motorbikes-in-crackdown-on-fake-number-plates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:53:31.000Z",
+      "summary": "The Adenta Police District Command has seized 125 motorbikes in a security operation aimed at identifying riders using unregistered machines and motorcycles fitted with suspected…",
+      "categories": [
+        "News",
+        "Adenta",
+        "Motorcycle",
+        "Police"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana Navy plans river bases to keep galamsey operators at bay",
       "link": "https://www.myjoyonline.com/ghana-navy-plans-river-bases-to-keep-galamsey-operators-at-bay/",
@@ -123,23 +137,6 @@ window.GDC_PAPERS = {
         "Barbados",
         "Ghama",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newmont Ahafo South Mine named Mining Company of the Year at 12th Ghana Mining Industry Awards",
-      "link": "https://www.myjoyonline.com/newmont-ahafo-south-mine-named-mining-company-of-the-year-at-12th-ghana-mining-industry-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T04:53:53.000Z",
-      "summary": "Newmont Ghana Gold Ltd – Ahafo South Mine has been named Mining Company of the Year at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27.",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "In Focus",
-        "Mining",
-        "National",
-        "12th Ghana Mining Industry Awards",
-        "Newmont Ahafo South Mine"
       ],
       "site": "https://www.myjoyonline.com/"
     },
