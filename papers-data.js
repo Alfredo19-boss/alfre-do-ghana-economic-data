@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:26:30.168Z",
+  "updated": "2026-11-28T18:31:31.297Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "President Mahama’s Women’s Development Bank is a grand deception",
+      "link": "https://www.myjoyonline.com/president-mahamas-womens-development-bank-is-a-grand-deception/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T18:24:29.000Z",
+      "summary": "he National Democratic Congress came to power in 2025, promising to \"reset\" Ghana and correct what it described as the failures of the previous NPP administration. Among its key promises…",
+      "categories": [
+        "Opinion",
+        "Mahama",
+        "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama government cancelled KfW financing for Accra-Kumasi transmission line – Kwadwo Poku",
       "link": "https://www.myjoyonline.com/mahama-government-cancelled-kfw-financing-for-accra-kumasi-transmission-line-kwadwo-poku/",
@@ -158,20 +171,6 @@ window.GDC_PAPERS = {
         "Jay Foley",
         "Roselyn Feli",
         "Smirnoff"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TCL to host Ghana DJ Awards watch parties in Kumasi, Takoradi, Accra",
-      "link": "https://www.myjoyonline.com/tcl-to-host-ghana-dj-awards-watch-parties-in-kumasi-takoradi-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T15:16:00.000Z",
-      "summary": "TCL is set to extend the excitement of the 2026 Guinness Ghana DJ Awards beyond the main event venue, with official watch parties scheduled for Accra, Kumasi and Takoradi. The initiative…",
-      "categories": [
-        "Events",
-        "Ghana DJ Awards",
-        "Takoradi",
-        "TCL"
       ],
       "site": "https://www.myjoyonline.com/"
     },
