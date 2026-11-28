@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T15:02:05.053Z",
+  "updated": "2026-11-28T15:07:05.719Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -84,6 +84,7 @@ window.GDC_PAPERS = {
       "summary": "Petrosol Platinum Energy PLC has been named Brand of the Year at the 2026 Ghana Energy Awards held on Friday, November 27, at the Labadi Beach Hotel in Accra.",
       "categories": [
         "Energy",
+        "HP News 8",
         "National",
         "News",
         "Ghana Energy Awards",

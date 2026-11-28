@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T15:02:03.260Z",
+  "updated": "2026-11-28T15:07:03.844Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Cashew Farmers Oppose Three Month Export Ban, Warn of Income Losses and Post Harvest Waste",
+      "link": "https://thehighstreetjournal.com/cashew-farmers-oppose-three-month-export-ban-warn-of-income-losses-and-post-harvest-waste/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T15:05:25.000Z",
+      "summary": "Cashew farmers oppose Government's proposed three-month raw cashew export ban, warning that inadequate domestic processing capacity could leave produce unsold, increase post-harvest losses…"
+    },
     {
       "title": "Petrosol named Brand of the Year at 2026 Ghana Energy Awards",
       "link": "https://www.myjoyonline.com/petrosol-named-brand-of-the-year-at-2026-ghana-energy-awards/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T17:16:46.000Z",
       "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she…"
-    },
-    {
-      "title": "GH¢30.7m NSA hire-purchase funds diverted to company – Witness",
-      "link": "https://www.ghanabusinessnews.com/2026/11/25/gh%c2%a230-7m-nsa-hire-purchase-funds-diverted-to-company-witness/",
-      "source": "Ghana Business News",
-      "published": "2026-11-25T15:42:20.000Z",
-      "summary": "A police investigator has told an Accra High Court that investigations into an alleged GH¢30.7 million National Service Authority (NSA) hire-purchase scheme, traced the funds through two…"
     }
   ]
 };
