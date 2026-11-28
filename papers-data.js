@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T04:25:30.312Z",
+  "updated": "2026-11-28T04:45:29.577Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -30,6 +30,18 @@ window.GDC_PAPERS = {
         "Business",
         "Mining",
         "Newmont"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government targets 2027 completion of Azumah Nelson Sports Complex",
+      "link": "https://www.myjoyonline.com/government-targets-2027-completion-of-azumah-nelson-sports-complex/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:29:00.000Z",
+      "summary": "Construction work on the Azumah Nelson Sports Complex has resumed, with the government setting 2027 as the target for completing the long-delayed facility.",
+      "categories": [
+        "News",
+        "Azumah Nelson"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -106,18 +118,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "poison"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "link": "https://www.myjoyonline.com/spanish-pm-and-rivals-rally-supporters-in-final-pitch-for-votes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T01:07:28.000Z",
-      "summary": "Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.",
-      "categories": [
-        "International",
-        "Spanish PM"
       ],
       "site": "https://www.myjoyonline.com/"
     },
