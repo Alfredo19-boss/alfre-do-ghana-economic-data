@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:55:29.886Z",
+  "updated": "2026-11-28T04:00:29.848Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -118,18 +118,14 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ibrahim Mahama inducted into ECOWAS Business Council, pledges regional cooperation",
-      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-pledges-regional-cooperation/",
+      "title": "A shiny new tap on an old pipe",
+      "link": "https://www.myjoyonline.com/a-shiny-new-tap-on-an-old-pipe/",
       "source": "MyJoyOnline",
-      "published": "2026-11-27T22:55:04.000Z",
-      "summary": "Ghanaian businessman and Chief Executive Officer of Engineers & Planners, Ibrahim Mahama, has secured a place on a 15-member ECOWAS Business Council, where he is expected to contribute to…",
+      "published": "2026-11-27T23:01:00.000Z",
+      "summary": "Reflections from the South African Peering Forum on what AI traffic, fragmented peering, and strained backhaul mean for Ghana's 5G moment.",
       "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Africa",
-        "ECOWAS",
-        "Ibrahim Mahama"
+        "Opinion",
+        "Pipe"
       ],
       "site": "https://www.myjoyonline.com/"
     },
