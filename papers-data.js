@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T11:02:03.489Z",
+  "updated": "2026-11-28T11:17:03.393Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Midwife, two others remanded over alleged theft of day-old baby at Kasoa",
+      "link": "https://www.myjoyonline.com/midwife-two-others-remanded-over-alleged-theft-of-day-old-baby-at-kasoa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T11:12:27.000Z",
+      "summary": "A midwife and two other women have been remanded into police custody for two weeks by the Kasoa Ofaakor Circuit Court over the alleged theft of a day-old baby girl. The three accused…",
+      "categories": [
+        "Crime",
+        "News",
+        "baby theft",
+        "Kasoa",
+        "midwife"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Early BECE candidates may struggle with basic responsibilities in SHS – Susan Adu-Amankwah",
       "link": "https://www.myjoyonline.com/early-bece-candidates-may-struggle-with-basic-responsibilities-in-shs-susan-adu-amankwah/",
@@ -141,20 +156,6 @@ window.GDC_PAPERS = {
         "National",
         "National Interest Movement",
         "Parents"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Food glut: Annoh-Dompreh demands emergency government purchase of surplus produce",
-      "link": "https://www.myjoyonline.com/food-glut-annoh-dompreh-demands-emergency-government-purchase-of-surplus-produce/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:45:39.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has called for emergency government intervention to buy surplus produce as farmers and market women struggle to find buyers nationwide.",
-      "categories": [
-        "HP News 4",
-        "National",
-        "food glut",
-        "Frank Annoh-Dompreh"
       ],
       "site": "https://www.myjoyonline.com/"
     },
