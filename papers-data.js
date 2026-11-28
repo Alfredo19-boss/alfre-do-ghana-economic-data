@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T06:15:30.177Z",
+  "updated": "2026-11-28T06:30:29.408Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "ghana news End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-end-four-yearly-electoral-wars-sir-sam-jonah-proposes-new-union-government-2.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T06:29:54.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
       "link": "https://www.myjoyonline.com/govt-plans-natural-resource-revenue-management-act-to-strengthen-accountability-deputy-minister/",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/2-69-million-ghanaians-faced-food-insecurity-in-q3-2026-gss-report.html",
       "source": "Daily Graphic",
       "published": "2026-11-27T13:26:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama in Barbados for 5-day state visit",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-barbados-for-5-day-state-visit.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T11:39:50.000Z",
       "summary": "",
       "categories": [
         "General News"
