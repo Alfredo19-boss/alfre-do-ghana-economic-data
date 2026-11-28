@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T04:05:28.417Z",
+  "updated": "2026-11-28T04:15:28.333Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Lands Ministry, Newmont set up working group to strengthen the mining partnership",
+      "link": "https://www.myjoyonline.com/lands-ministry-newmont-set-up-working-group-to-strengthen-the-mining-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T04:13:02.000Z",
+      "summary": "The Minister for Lands and Natural Resources, Hon. Emmanuel Armah-Kofi Buah has inaugurated a six-month Joint Ghana–Newmont Working Group to address concerns relating to the fiscal…"
+    },
     {
       "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
       "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:01:00.000Z",
       "summary": "Ghana targets US$68 million from verified forest carbon credits, with 46% of proceeds allocated to local communities, farmers and traditional authorities."
-    },
-    {
-      "title": "Government Eyes GH¢1.7trn Pension Funds to Tackle Ghana’s Housing Deficit",
-      "link": "https://thehighstreetjournal.com/government-eyes-gh%c2%a21-7trn-pension-funds-to-tackle-ghanas-housing-deficit/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:00:00.000Z",
-      "summary": "Government is urging landlords to cooperate with Rent Control reforms while considering pension fund investments in student hostels to expand accommodation supply and address excessive…"
     }
   ]
 };
