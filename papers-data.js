@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:52:04.321Z",
+  "updated": "2026-11-28T11:02:03.489Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Early BECE candidates may struggle with basic responsibilities in SHS – Susan Adu-Amankwah",
+      "link": "https://www.myjoyonline.com/early-bece-candidates-may-struggle-with-basic-responsibilities-in-shs-susan-adu-amankwah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T10:56:50.000Z",
+      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has warned that children who are pushed to write the Basic Education Certificate Examination (BECE)…",
+      "categories": [
+        "Education",
+        "National",
+        "BECE",
+        "SHS",
+        "Susan Adu-Amankwah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama and Barbados PM unveil 'King' Cuffee statue, seal Cape Coast-Speightstown twinning",
+      "link": "https://www.graphic.com.gh/news/general-news/mahama-and-barbados-pm-unveil-king-cuffee-statue-seal-cape-coast-speightstown-twinning.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T10:48:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Ghana needs national framework to identify and support gifted children – Former GES Deputy Director-General",
       "link": "https://www.myjoyonline.com/ghana-needs-national-framework-to-identify-and-support-gifted-children-former-ges-deputy-director-general/",
@@ -144,18 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Burundi backs Morocco’s sovereignty over Sahara, endorses autonomy plan",
-      "link": "https://www.myjoyonline.com/burundi-backs-moroccos-sovereignty-over-sahara-endorses-autonomy-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:38:00.000Z",
-      "summary": "Burundi has reaffirmed its unwavering support for Morocco’s territorial integrity and sovereignty over the disputed Western Sahara region.",
-      "categories": [
-        "Africa",
-        "Burundi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Man, 24, jailed one year for attempted rape, indecent assault",
       "link": "https://www.graphic.com.gh/news/general-news/man-jailed-one-year-for-attempted-rape-indecent-assault.html",
       "source": "Daily Graphic",
@@ -204,17 +218,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bawku-beyond-bullets-fading-echoes-of-gunfire-rebuilding-of-peace.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T08:11:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tyrone Marhguy named recipient of GUBA 2026 Frontier Innovation Award",
-      "link": "https://www.graphic.com.gh/news/general-news/tyrone-marhguy-named-as-recipient-of-guba-2026-frontier-innovation-award.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T08:05:54.000Z",
       "summary": "",
       "categories": [
         "General News"

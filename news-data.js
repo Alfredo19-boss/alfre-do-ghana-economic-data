@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T10:52:02.978Z",
+  "updated": "2026-11-28T11:02:02.521Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "PFAG Questions 3.64% Agriculture Allocation in 2027 Budget, Cites GH¢83bn Funding Gap",
+      "link": "https://thehighstreetjournal.com/pfag-questions-3-64-agriculture-allocation-in-2027-budget-cites-gh%c2%a283bn-funding-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T11:00:04.000Z",
+      "summary": "PFAG says Ghana's 3.64% agriculture budget allocation falls short of CAADP commitments, warning that an GH¢83.18bn Feed Ghana financing gap threatens production, farmer incomes and food…"
+    },
     {
       "title": "Building the Business Behind Ghana’s Music Talents: New Academy Targets Skills Gap in Creative Economy",
       "link": "https://thehighstreetjournal.com/building-the-business-behind-ghanas-music-talents-new-academy-targets-skills-gap-in-creative-economy/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T12:45:00.000Z",
       "summary": "The Ga Mantse has urged Opportunity International to expand targeted financing for underserved groups, support local employment and strengthen economic opportunities for vulnerable…"
-    },
-    {
-      "title": "AI cannot fix Ghana’s weather forecasting gaps without reliable data – SIGA boss",
-      "link": "https://www.myjoyonline.com/ai-cannot-fix-ghanas-weather-forecasting-gaps-without-reliable-data-siga-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T12:10:17.000Z",
-      "summary": "Ghana's growing reliance on artificial intelligence (AI) in weather forecasting will not deliver accurate predictions without reliable observation systems and quality data, Director-General…"
     }
   ]
 };
