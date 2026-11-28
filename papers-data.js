@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:27:03.824Z",
+  "updated": "2026-11-28T10:47:03.829Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Early BECE candidates need emotional maturity before SHS – Susan Adu-Amankwah",
+      "link": "https://www.myjoyonline.com/early-bece-candidates-need-emotional-maturity-before-shs-susan-adu-amankwah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T10:39:09.000Z",
+      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has backed the Education Ministry’s decision to prohibit pupils from writing the Basic Education Certificate…",
+      "categories": [
+        "National",
+        "ban on early bece",
+        "BECE",
+        "Susan Adu-Amankwah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Norse Atlantic suspends all flights as it faces potential collapse",
       "link": "https://www.myjoyonline.com/norse-atlantic-suspends-all-flights-as-it-faces-potential-collapse/",
@@ -104,6 +118,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Police announce security arrangements for Gbi-Za Festival in Hohoe",
+      "link": "https://www.graphic.com.gh/news/general-news/police-announce-security-arrangements-for-gbi-za-festival-in-hohoe.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T09:38:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Burundi backs Morocco’s sovereignty over Sahara, endorses autonomy plan",
       "link": "https://www.myjoyonline.com/burundi-backs-moroccos-sovereignty-over-sahara-endorses-autonomy-plan/",
       "source": "MyJoyOnline",
@@ -127,6 +152,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Two arrested over viral Asaokore robbery, stolen items recovered",
+      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-viral-asaokore-robbery-stolen-items-recovered.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T09:28:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
       "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
       "source": "MyJoyOnline",
@@ -136,19 +172,6 @@ window.GDC_PAPERS = {
         "National",
         "Galamsey",
         "Samson’s Take"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Food glut: Annoh-Dompreh demands answers on Buffer Stock purchases and expenditure",
-      "link": "https://www.myjoyonline.com/food-glut-annoh-dompreh-demands-answers-on-buffer-stock-purchases-and-expenditure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:19:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has demanded full disclosure of the quantities of food the National Food Buffer Stock Company (NAFCO) has purchased and how much public money has…",
-      "categories": [
-        "National",
-        "food glut",
-        "Frank Annoh-Dompreh"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -190,28 +213,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/tyrone-marhguy-named-as-recipient-of-guba-2026-frontier-innovation-award.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T08:05:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Korle Bu Nursing College admits 472 students",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-korle-bu-nursing-college-admits-472-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T08:02:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Publishing Company to handle 20% of Government printing works",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-publishing-company-to-handle-20-of-government-printing-works.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T07:59:26.000Z",
       "summary": "",
       "categories": [
         "General News"
