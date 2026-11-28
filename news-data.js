@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T15:32:02.371Z",
+  "updated": "2026-11-28T17:56:31.086Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Prices of petrol and LPG to drop by a significant margin from December 1 – COMAC",
+      "link": "https://www.myjoyonline.com/prices-of-petrol-and-lpg-to-drop-by-a-significant-margin-from-december-1-comac/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:04:30.000Z",
+      "summary": "This was captured in the Chamber of Oil Marketing Companies (COMAC) pricing outlook for the various petrol products for the first pricing window of December 2026."
+    },
+    {
+      "title": "NPA cuts December fuel price floor; petrol drops to GH¢12.36, LPG to GH¢12.89",
+      "link": "https://www.myjoyonline.com/npa-cuts-december-fuel-price-floor-petrol-drops-to-gh%c2%a212-36-lpg-to-gh%c2%a212-89/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T16:44:28.000Z",
+      "summary": "According to data cited by JOYBUSINESS, the price floor for petrol has been reduced from GH¢13.69 to GH¢12.36 for the December 1-16 pricing window."
+    },
     {
       "title": "Cashew Farmers Oppose Three Month Export Ban, Warn of Income Losses and Post Harvest Waste",
       "link": "https://thehighstreetjournal.com/cashew-farmers-oppose-three-month-export-ban-warn-of-income-losses-and-post-harvest-waste/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T18:23:07.000Z",
       "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding…"
-    },
-    {
-      "title": "GRA Seals 48 Phone Shops at Circle Over Tax Non-Compliance as 18 Settle Arrears",
-      "link": "https://thehighstreetjournal.com/gra-seals-48-phone-shops-at-circle-over-tax-non-compliance-as-18-settle-arrears/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T18:00:00.000Z",
-      "summary": "GRA has sealed 48 Circle phone shops over tax non-compliance, while 18 businesses settled arrears, as authorities intensify efforts to expand Ghana's informal-sector tax base."
-    },
-    {
-      "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
-      "link": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T17:16:46.000Z",
-      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T15:32:03.861Z",
+  "updated": "2026-11-28T17:56:32.334Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,131 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama government cancelled KfW financing for Accra-Kumasi transmission line – Kwadwo Poku",
+      "link": "https://www.myjoyonline.com/mahama-government-cancelled-kfw-financing-for-accra-kumasi-transmission-line-kwadwo-poku/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:48:59.000Z",
+      "summary": "The Executive Director of the Institute of Energy Policies and Research, Kwadwo Poku, has accused the Mahama administration of cancelling a financing arrangement with German development…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Dumsor",
+        "ECG",
+        "NDC",
+        "NPP",
+        "Power outages"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama becomes second Ghanaian President to address Barbados Parliament",
+      "link": "https://www.myjoyonline.com/mahama-becomes-second-ghanaian-president-to-address-barbados-parliament/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:45:16.000Z",
+      "summary": "President John Dramani Mahama has become the second Ghanaian President to address a joint sitting of Barbados' Parliament, describing the occasion as a historic moment that reflects the…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "News",
+        "Barbados",
+        "John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dansoman, Adenta, Amasaman among power outage hotspots – Energy Ministry",
+      "link": "https://www.myjoyonline.com/dansoman-adenta-amasaman-among-power-outage-hotspots-energy-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:44:26.000Z",
+      "summary": "The Ministry of Energy has identified Dansoman, Adenta, Amahia, parts of Oyarifa, Pokuase, Amasaman and Lakeside as areas experiencing persistent electricity supply challenges in recent…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Adenta",
+        "Amasaman",
+        "Dasoman"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Energy Ministry blames recent power outages on transmission and distribution infrastructure",
+      "link": "https://www.myjoyonline.com/energy-ministry-blames-recent-power-outages-on-transmission-and-distribution-infrastructure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:43:20.000Z",
+      "summary": "The Ministry of Energy has attributed recent power outages and low-voltage challenges in parts of the country to pressure on transmission and distribution infrastructure, insisting that…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Energy Ministry",
+        "Power outages",
+        "Transmission"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Church of Jesus Christ of Latter-day Saints, Ga Mantse Foundation provide sanitation facilities to 7 schools",
+      "link": "https://www.graphic.com.gh/news/general-news/church-of-jesus-christ-of-latter-day-saints-ga-mantse-foundation-provide-sanitation-facilities-to-7-schools.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T17:20:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Prices of petrol and LPG to drop by a significant margin from December 1 – COMAC",
+      "link": "https://www.myjoyonline.com/prices-of-petrol-and-lpg-to-drop-by-a-significant-margin-from-december-1-comac/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T17:04:30.000Z",
+      "summary": "This was captured in the Chamber of Oil Marketing Companies (COMAC) pricing outlook for the various petrol products for the first pricing window of December 2026.",
+      "categories": [
+        "Business",
+        "Energy",
+        "HP Business 1",
+        "HP News 2",
+        "National",
+        "News",
+        "COMAC",
+        "Crude Oil",
+        "Diesel",
+        "LPG",
+        "NPA",
+        "Petrol"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPA cuts December fuel price floor; petrol drops to GH¢12.36, LPG to GH¢12.89",
+      "link": "https://www.myjoyonline.com/npa-cuts-december-fuel-price-floor-petrol-drops-to-gh%c2%a212-36-lpg-to-gh%c2%a212-89/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T16:44:28.000Z",
+      "summary": "According to data cited by JOYBUSINESS, the price floor for petrol has been reduced from GH¢13.69 to GH¢12.36 for the December 1-16 pricing window.",
+      "categories": [
+        "Business",
+        "Energy",
+        "HP Business 4",
+        "COMAC",
+        "Diesel",
+        "LPG",
+        "NPA",
+        "Petrol",
+        "price floor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IPU challenges ECOWAS MPs to act on child labour issues",
+      "link": "https://www.graphic.com.gh/news/politics/ipu-challenges-ecowas-mps-to-act-on-child-labour-issues.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T15:29:29.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Jay Foley and Roselyn Feli named hosts of 2026 Guinness Ghana DJ Awards powered by Smirnoff",
       "link": "https://www.myjoyonline.com/jay-foley-and-roselyn-feli-named-hosts-of-2026-guinness-ghana-dj-awards-powered-by-smirnoff/",
@@ -61,93 +186,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Association of Unposted Medical Officers demands January 2027 postings for over 500 doctors",
-      "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demands-january-2027-postings-for-over-500-doctors/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:52:39.000Z",
-      "summary": "The Association of Unposted Medical Officers (AUMO) has strongly rejected claims by the Minister of Health, Kwabena Mintah Akandoh, that all medical officers who have completed their…",
-      "categories": [
-        "Health",
-        "National",
-        "Top Story",
-        "AUMO",
-        "Health Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Association of Unposted Medical Officers demand January 2027 postings for over 500 unposted medical officers",
-      "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demand-january-2027-postings-for-over-500-unposted-medical-officers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:52:39.000Z",
-      "summary": "The Association of Unposted Medical Officers (AUMO) has strongly rejected claims by the Minister of Health, Kwabena Mintah Akandoh, that all medical officers who have completed their…",
-      "categories": [
-        "Health",
-        "National",
-        "AUMO",
-        "Health Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Global Pastures Foundation seeks support to improve infrastructure at Apemso SDA Primary",
-      "link": "https://www.myjoyonline.com/global-pastures-foundation-seeks-support-to-improve-infrastructure-at-apemso-sda-primary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:51:05.000Z",
-      "summary": "The Global Pastures Foundation has appealed to government, corporate organisations, philanthropists and other well-meaning individuals to support the construction of a two-unit classroom…",
-      "categories": [
-        "National",
-        "Apemso SDA Primary",
-        "Global Pastures Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gifted education should go beyond skipping grades – CDD-Ghana Fellow",
-      "link": "https://www.myjoyonline.com/gifted-education-should-go-beyond-skipping-grades-cdd-ghana-fellow/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:49:11.000Z",
-      "summary": "A Fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae-Kwapong, has called for a broader understanding of gifted education, arguing that identifying a child as…",
-      "categories": [
-        "Education",
-        "National",
-        "CDD Fellow",
-        "gIFTED"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petrosol named Brand of the Year at 2026 Ghana Energy Awards",
-      "link": "https://www.myjoyonline.com/petrosol-named-brand-of-the-year-at-2026-ghana-energy-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:47:42.000Z",
-      "summary": "Petrosol Platinum Energy PLC has been named Brand of the Year at the 2026 Ghana Energy Awards held on Friday, November 27, at the Labadi Beach Hotel in Accra.",
-      "categories": [
-        "Energy",
-        "HP News 8",
-        "National",
-        "News",
-        "Ghana Energy Awards",
-        "Petrosol"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES distributes over eight million packs of sanitary pads to schoolgirls",
-      "link": "https://www.myjoyonline.com/ges-distributes-over-eight-million-packs-of-sanitary-pads-to-schoolgirls/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T14:44:36.000Z",
-      "summary": "The Ghana Education Service (GES) has announced that more than eight million packs of sanitary pads have been distributed to schoolgirls across the country, as part of a nationwide…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "GES",
-        "Sanitary pad"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Service disruptions reported across several banking apps, digital payment channels in Ghana",
+      "title": "Banks confirm service disruptions across several digital channels in Ghana",
       "link": "https://www.graphic.com.gh/news/general-news/service-disruptions-reported-across-seceal-banking-apps-digital-payment-channels-in-ghana.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T13:37:35.000Z",
@@ -198,28 +237,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama and Barbados PM unveil 'King' Cuffee statue, seal Cape Coast-Speightstown twinning",
-      "link": "https://www.graphic.com.gh/news/general-news/mahama-and-barbados-pm-unveil-king-cuffee-statue-seal-cape-coast-speightstown-twinning.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T10:48:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Daily Graphic's Timothy Ngnenbe wins record sixth Mining Reporter of the Year",
-      "link": "https://www.graphic.com.gh/news/general-news/daily-graphics-timothy-ngnenbe-wins-record-sixth-mining-reporter-of-the-year.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T09:56:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
