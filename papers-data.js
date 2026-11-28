@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T14:57:04.183Z",
+  "updated": "2026-11-28T15:02:05.053Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Association of Unposted Medical Officers demands January 2027 postings for over 500 doctors",
+      "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demands-january-2027-postings-for-over-500-doctors/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:52:39.000Z",
+      "summary": "The Association of Unposted Medical Officers (AUMO) has strongly rejected claims by the Minister of Health, Kwabena Mintah Akandoh, that all medical officers who have completed their…",
+      "categories": [
+        "Health",
+        "National",
+        "Top Story",
+        "AUMO",
+        "Health Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Association of Unposted Medical Officers demand January 2027 postings for over 500 unposted medical officers",
       "link": "https://www.myjoyonline.com/association-of-unposted-medical-officers-demand-january-2027-postings-for-over-500-unposted-medical-officers/",
@@ -130,19 +145,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Labour Ministry urges stronger reporting to tackle child labour",
-      "link": "https://www.myjoyonline.com/labour-ministry-urges-stronger-reporting-to-tackle-child-labour/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:25:56.000Z",
-      "summary": "The Ministry of Labour, Jobs and Employment has urged institutions and development partners involved in the fight against child labour to strengthen reporting and data-sharing to improve…",
-      "categories": [
-        "National",
-        "Child Labour",
-        "Labour Ministry"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Community-based senior high school inaugurated at Kpalbe; MP dedicates GH¢100,000 from common fund to support students",

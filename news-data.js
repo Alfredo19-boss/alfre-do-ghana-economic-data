@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T14:57:03.117Z",
+  "updated": "2026-11-28T15:02:03.260Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-28T14:47:42.000Z",
       "summary": "Petrosol Platinum Energy PLC has been named Brand of the Year at the 2026 Ghana Energy Awards held on Friday, November 27, at the Labadi Beach Hotel in Accra."
+    },
+    {
+      "title": "Ghanaian Households Borrow and Compromise Meal Quality to Keep Food on the Table – GSS",
+      "link": "https://thehighstreetjournal.com/ghanaian-households-borrow-and-compromise-meal-quality-to-keep-food-on-the-table-gss/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T14:00:13.000Z",
+      "summary": "GSS finds households maintaining meals through borrowing and reduced food quality and quantity, raising concerns about the hidden economic pressures undermining their long-term resilience."
     },
     {
       "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-25T15:42:20.000Z",
       "summary": "A police investigator has told an Accra High Court that investigations into an alleged GH¢30.7 million National Service Authority (NSA) hire-purchase scheme, traced the funds through two…"
-    },
-    {
-      "title": "Chief urges government to strengthen power of traditional rulers",
-      "link": "https://www.ghanabusinessnews.com/2026/11/25/chief-urges-government-to-strengthen-power-of-traditional-rulers/",
-      "source": "Ghana Business News",
-      "published": "2026-11-25T14:49:09.000Z",
-      "summary": "Nana Tabi Agyabeng III, the Chief of Manso-Agroyesum, has stressed the need to strengthen the authority and powers of traditional leaders to enable them to mobilise their people for…"
     }
   ]
 };
