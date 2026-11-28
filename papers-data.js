@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T12:22:04.066Z",
+  "updated": "2026-11-28T12:27:04.489Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,7 +32,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana’s power challenges could persist for two more years – Energy Analyst",
+      "title": "MTTD announces speed camera sites in Kumasi as Street Sense Organisation backs TrafficTech initiative",
       "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T12:04:47.000Z",
