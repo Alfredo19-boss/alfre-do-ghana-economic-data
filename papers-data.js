@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T11:32:03.715Z",
+  "updated": "2026-11-28T11:47:04.195Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "KOICA volunteers develop ICT textbooks for basic schools in Central Region",
+      "link": "https://www.graphic.com.gh/news/education/koica-volunteers-develop-ict-textbooks-for-basic-schools-in-central-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T11:44:01.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Midwife, two others remanded over alleged theft of day-old baby at Kasoa",
       "link": "https://www.myjoyonline.com/midwife-two-others-remanded-over-alleged-theft-of-day-old-baby-at-kasoa/",
@@ -208,17 +219,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-purc-resolves-89-per-cent-of-consumer-complaints-in-bono-east.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T08:21:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawku beyond bullets: Fading echoes of gunfire, rebuilding of peace",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bawku-beyond-bullets-fading-echoes-of-gunfire-rebuilding-of-peace.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T08:11:23.000Z",
       "summary": "",
       "categories": [
         "General News"
