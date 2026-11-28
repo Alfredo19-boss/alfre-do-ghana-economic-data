@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:57:04.154Z",
+  "updated": "2026-11-28T14:52:03.603Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Petrosol named Brand of the Year at 2026 Ghana Energy Awards",
+      "link": "https://www.myjoyonline.com/petrosol-named-brand-of-the-year-at-2026-ghana-energy-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:47:42.000Z",
+      "summary": "Petrosol Platinum Energy PLC has been named Brand of the Year at the 2026 Ghana Energy Awards held on Friday, November 27, at the Labadi Beach Hotel in Accra.",
+      "categories": [
+        "Energy",
+        "National",
+        "News",
+        "Ghana Energy Awards",
+        "Petrosol"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GES distributes over eight million packs of sanitary pads to schoolgirls",
+      "link": "https://www.myjoyonline.com/ges-distributes-over-eight-million-packs-of-sanitary-pads-to-schoolgirls/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T14:44:36.000Z",
+      "summary": "The Ghana Education Service (GES) has announced that more than eight million packs of sanitary pads have been distributed to schoolgirls across the country, as part of a nationwide…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "GES",
+        "Sanitary pad"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Unposted medical officers haven’t declined postings — AUMO challenges Health Minister over figures",
       "link": "https://www.myjoyonline.com/unposted-medical-officers-havent-declined-postings-aumo-challenges-health-minister-over-figures/",
@@ -44,6 +73,7 @@ window.GDC_PAPERS = {
         "Agribusiness",
         "Economy",
         "HP Business 3",
+        "HP News 6",
         "National",
         "Ghanaian farming households face higher risk of food insecurity - Ghana Statistical Service"
       ],
@@ -93,6 +123,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T13:18:59.000Z",
       "summary": "The Motor Traffic and Transport Directorate (MTTD) has revealed areas in the Ashanti Region where speed cameras have been mounted as part of the new automated traffic enforcement system…",
       "categories": [
+        "HP News 4",
         "National",
         "Kumasi",
         "MTTD",
@@ -126,42 +157,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "1 in 2 households spend over 75% of their budget on food – Ghana Statistical Service",
-      "link": "https://www.myjoyonline.com/75-percent-households-spend-food-budget-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:12:09.000Z",
-      "summary": "More than half of Ghanaian households spend over three-quarters of their total expenditure on food, leaving limited financial resources for other essential needs, the Ghana Statistical…",
-      "categories": [
-        "Economy",
-        "HP Business 2",
-        "HP News 3",
-        "National",
-        "Food budget",
-        "Ghana Statistical Services",
-        "Ghanaian household",
-        "Mobile Vulnerability Analysis and Mapping report"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Is Ghana’s internet banking system down?’ – Users report widespread bank app and digital payment service disruptions",
-      "link": "https://www.myjoyonline.com/is-ghanas-internet-banking-system-down-users-report-widespread-bank-app-and-digital-payment-service-disruptions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T13:10:38.000Z",
-      "summary": "Ghanaians have taken to social media to report disruptions to banking apps and digital payment services, raising concerns about the reliability of the country's electronic financial…",
-      "categories": [
-        "Business",
-        "Economy",
-        "National",
-        "Technology",
-        "Top Story",
-        "banking systems",
-        "digital payment service",
-        "Disruptions"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NGOs urged to rethink funding models, account to communities",
