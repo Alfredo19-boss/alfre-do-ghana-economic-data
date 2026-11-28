@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:20:29.760Z",
+  "updated": "2026-11-28T05:25:29.842Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "JoyNews’ Nana Boakye Danquah Yiadom, Caleb Ziblim honoured at Ghana Mining Industry Awards",
+      "link": "https://www.myjoyonline.com/joynews-nana-boakye-danquah-yiadom-caleb-ziblim-honoured-at-ghana-mining-industry-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:18:11.000Z",
+      "summary": "Two journalists from the Multimedia Group Limited have been recognised at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27.",
+      "categories": [
+        "HP News 10",
+        "National",
+        "News",
+        "Caleb Ziblim",
+        "Ghana Mining Industry Awards",
+        "Nana Boakye Danquah Yiadom"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mahama targets single Africa-Caribbean market under Ghana’s AU chairmanship",
       "link": "https://www.myjoyonline.com/mahama-targets-single-africa-caribbean-market-under-ghanas-au-chairmanship/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T05:16:40.000Z",
       "summary": "President John Dramani Mahama has outlined an ambitious plan to deepen economic and diplomatic relations between Africa and the Caribbean, with the integration of the African Continental…",
       "categories": [
+        "HP News 7",
         "National",
         "News",
         "Barbados",
@@ -116,17 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "12th Ghana Mining Industry Awards",
         "Ken Ashigbey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Toxic dumping ground: Greenpeace finds UK retailers’ faulty returns at Agbogbloshie e-waste site",
-      "link": "https://www.myjoyonline.com/toxic-dumping-ground-greenpeace-finds-uk-retailers-faulty-returns-at-agbogbloshie-e-waste-site/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T03:02:05.000Z",
-      "summary": "An investigation by Greenpeace Africa and Unearthed has revealed that dozens of electrical appliances returned to major UK high-street brands, including Tesco, Argos and Asda, have ended up…",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
