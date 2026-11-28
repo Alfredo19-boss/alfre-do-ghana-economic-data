@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:31:31.297Z",
+  "updated": "2026-11-28T18:36:29.723Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NDC’s farmers’ service centres promise remains unfulfilled ahead of Mahama’s second Farmers’ Day celebration",
+      "link": "https://www.myjoyonline.com/ndcs-farmers-service-centres-promise-remains-unfulfilled-ahead-of-mahamas-second-farmers-day-celebration/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T18:31:12.000Z",
+      "summary": "One of the key manifesto promises on which the National Democratic Congress (NDC) campaigned in the 2024 general elections was the establishment of Farmers’ Service Centres in all the…",
+      "categories": [
+        "Opinion",
+        "Farmers day",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "President Mahama’s Women’s Development Bank is a grand deception",
       "link": "https://www.myjoyonline.com/president-mahamas-womens-development-bank-is-a-grand-deception/",
@@ -158,21 +171,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Jay Foley and Roselyn Feli named hosts of 2026 Guinness Ghana DJ Awards powered by Smirnoff",
-      "link": "https://www.myjoyonline.com/jay-foley-and-roselyn-feli-named-hosts-of-2026-guinness-ghana-dj-awards-powered-by-smirnoff/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T15:19:25.000Z",
-      "summary": "The 2026 Guinness Ghana DJ Awards is shaping up to be an exciting night of music, entertainment and recognition, with popular media personalities Jay Foley and Roselyn Feli announced as…",
-      "categories": [
-        "Events",
-        "DJ Awards",
-        "Jay Foley",
-        "Roselyn Feli",
-        "Smirnoff"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Kpandai drug addict turned advocate using experience on how Tramadol trapped him to influence others positively",
