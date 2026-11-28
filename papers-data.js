@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:35:29.644Z",
+  "updated": "2026-11-28T05:40:29.482Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "God will not take sides in an election – Nana Akomea",
+      "link": "https://www.myjoyonline.com/god-will-not-take-sides-in-an-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:30:39.000Z",
+      "summary": "New Patriotic Party (NPP) Third Vice-Chairman, Nana Akomea, has challenged attempts to attribute electoral victories and defeats to spiritual intervention, insisting that election results…",
+      "categories": [
+        "HP News 5",
+        "News",
+        "Politics",
+        "Elections",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "God does not choose election winners – Nana Akomea",
       "link": "https://www.myjoyonline.com/god-does-not-choose-election-winners-nana-akomea/",
@@ -58,7 +73,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T05:16:40.000Z",
       "summary": "President John Dramani Mahama has outlined an ambitious plan to deepen economic and diplomatic relations between Africa and the Caribbean, with the integration of the African Continental…",
       "categories": [
-        "HP News 7",
+        "HP News 8",
         "National",
         "News",
         "Barbados",
@@ -122,21 +137,6 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Azumah Nelson"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T03:18:47.000Z",
-      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for excellence, professionalism, discipline and commitment to safety in Ghana's mining…",
-      "categories": [
-        "HP Business 4",
-        "Mining",
-        "National",
-        "Excellence",
-        "Ken Ashigbey"
       ],
       "site": "https://www.myjoyonline.com/"
     },
