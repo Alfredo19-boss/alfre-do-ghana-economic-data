@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:36:29.723Z",
+  "updated": "2026-11-28T18:41:30.629Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "24-year-old man jailed for attempted rape, indecent assault in Hohoe",
+      "link": "https://www.myjoyonline.com/24-year-old-man-jailed-for-attempted-rape-indecent-assault-in-hohoe/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T18:39:25.000Z",
+      "summary": "A 24-year-old man, Anthony Ekpe, has been sentenced to one year in prison for unlawful entry, indecent assault and attempted rape.",
+      "categories": [
+        "Crime",
+        "Hohoe District Court",
+        "Rape"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC’s farmers’ service centres promise remains unfulfilled ahead of Mahama’s second Farmers’ Day celebration",
       "link": "https://www.myjoyonline.com/ndcs-farmers-service-centres-promise-remains-unfulfilled-ahead-of-mahamas-second-farmers-day-celebration/",
@@ -138,26 +151,6 @@ window.GDC_PAPERS = {
         "LPG",
         "NPA",
         "Petrol"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPA cuts December fuel price floor; petrol drops to GH¢12.36, LPG to GH¢12.89",
-      "link": "https://www.myjoyonline.com/npa-cuts-december-fuel-price-floor-petrol-drops-to-gh%c2%a212-36-lpg-to-gh%c2%a212-89/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T16:44:28.000Z",
-      "summary": "According to data cited by JOYBUSINESS, the price floor for petrol has been reduced from GH¢13.69 to GH¢12.36 for the December 1-16 pricing window.",
-      "categories": [
-        "Business",
-        "Energy",
-        "HP Business 4",
-        "Top Story",
-        "COMAC",
-        "Diesel",
-        "LPG",
-        "NPA",
-        "Petrol",
-        "price floor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
