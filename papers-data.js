@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T15:27:04.345Z",
+  "updated": "2026-11-28T15:32:03.861Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -48,6 +48,17 @@ window.GDC_PAPERS = {
         "TCL"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kpandai drug addict turned advocate using experience on how Tramadol trapped him to influence others positively",
+      "link": "https://www.graphic.com.gh/news/general-news/kpandai-drug-addict-turned-advocate-using-experience-on-how-tramadol-trapped-him-to-influence-others-positively.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T15:13:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Association of Unposted Medical Officers demands January 2027 postings for over 500 doctors",
@@ -206,17 +217,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/daily-graphics-timothy-ngnenbe-wins-record-sixth-mining-reporter-of-the-year.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T09:56:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police announce security arrangements for Gbi-Za Festival in Hohoe",
-      "link": "https://www.graphic.com.gh/news/general-news/police-announce-security-arrangements-for-gbi-za-festival-in-hohoe.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T09:38:39.000Z",
       "summary": "",
       "categories": [
         "General News"
