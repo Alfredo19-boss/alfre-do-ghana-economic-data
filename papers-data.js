@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:30:30.735Z",
+  "updated": "2026-11-28T03:35:29.863Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -44,6 +44,21 @@ window.GDC_PAPERS = {
         "National",
         "12th Ghana Mining Industry Awards",
         "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forest condemn Chelsea to third successive defeat",
+      "link": "https://www.myjoyonline.com/forest-condemn-chelsea-to-third-successive-defeat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T01:24:00.000Z",
+      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White helped Nottingham Forest beat struggling Chelsea, who lost their third Premier League game in a row.",
+      "categories": [
+        "Football",
+        "News",
+        "Sports",
+        "Chelsea",
+        "forest"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -118,20 +133,6 @@ window.GDC_PAPERS = {
         "International",
         "New York",
         "Zohran Mamdani"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Here are the activities planned for the 42nd National Farmers’ Day in Sunyani",
-      "link": "https://www.myjoyonline.com/here-are-the-activities-planned-for-the-42nd-national-farmers-day-in-sunyani/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T21:58:37.000Z",
-      "summary": "The Bono Region is preparing to host the 42nd National Farmers’ Day celebration, with Sunyani set to welcome farmers, fishers, researchers and other stakeholders for a seven-day programme…",
-      "categories": [
-        "In Focus",
-        "News",
-        "Agric",
-        "Farmer"
       ],
       "site": "https://www.myjoyonline.com/"
     },
