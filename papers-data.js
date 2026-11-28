@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T04:00:29.848Z",
+  "updated": "2026-11-28T04:05:29.483Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "link": "https://www.myjoyonline.com/hundreds-of-thousands-still-without-power-a-day-after-us-slammed-with-thanksgiving-storms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T04:00:19.000Z",
+      "summary": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "categories": [
+        "International",
+        "thanksgiving",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
       "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
@@ -44,6 +57,18 @@ window.GDC_PAPERS = {
         "National",
         "12th Ghana Mining Industry Awards",
         "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Poison seller’ Kenneth Law apologises in court to the families of his victims",
+      "link": "https://www.myjoyonline.com/poison-seller-kenneth-law-apologises-in-court-to-the-families-of-his-victims/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T01:27:00.000Z",
+      "summary": "The Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will…",
+      "categories": [
+        "News",
+        "poison"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -101,31 +126,6 @@ window.GDC_PAPERS = {
         "ECOWAS Business Council",
         "Engineers and Planners",
         "Ibrahim Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We copied Singapore’s box and forgot the air",
-      "link": "https://www.myjoyonline.com/we-copied-singapores-box-and-forgot-the-air/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T23:21:54.000Z",
-      "summary": "Why Ghana's sealed, split-air-conditioned offices and lecture halls are quietly taxing human cognition, public health, and national productivity.",
-      "categories": [
-        "Opinion",
-        "Ghana",
-        "Singapore"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A shiny new tap on an old pipe",
-      "link": "https://www.myjoyonline.com/a-shiny-new-tap-on-an-old-pipe/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T23:01:00.000Z",
-      "summary": "Reflections from the South African Peering Forum on what AI traffic, fragmented peering, and strained backhaul mean for Ghana's 5G moment.",
-      "categories": [
-        "Opinion",
-        "Pipe"
       ],
       "site": "https://www.myjoyonline.com/"
     },
