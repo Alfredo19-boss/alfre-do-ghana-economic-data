@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T13:47:04.165Z",
+  "updated": "2026-11-28T13:52:03.454Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian farming households face higher risk of food insecurity – Ghana Statistical Service",
+      "link": "https://www.myjoyonline.com/ghanaian-farming-households-face-higher-risk-of-food-insecurity-ghana-statistical-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T13:43:32.000Z",
+      "summary": "Households engaged in agriculture are more than twice as likely to experience vulnerable food consumption as the national average, exposing a troubling contradiction in Ghana's efforts to…",
+      "categories": [
+        "Agribusiness",
+        "Economy",
+        "HP Business 3",
+        "HP News 5",
+        "National",
+        "Ghanaian farming households face higher risk of food insecurity - Ghana Statistical Service"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Service disruptions reported across several banking apps, digital payment channels in Ghana",
       "link": "https://www.graphic.com.gh/news/general-news/service-disruptions-reported-across-seceal-banking-apps-digital-payment-channels-in-ghana.html",
@@ -167,19 +183,6 @@ window.GDC_PAPERS = {
         "National",
         "Energy Analyst Kwadwo Poku",
         "Power"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ibrahim Mahama Inducted into ECOWAS Business Council, Commits to Sharing Ghana’s Industrialisation Experience",
-      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-ghanas-industrialisation-experience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T12:00:00.000Z",
-      "summary": "Ghanaian businessman and industrialist Ibrahim Mahama, founder and Chief Executive Officer of Engineers & Planners, has been inducted as Ghana’s representative on the ECOWAS Business…",
-      "categories": [
-        "National",
-        "ECOWAS",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
