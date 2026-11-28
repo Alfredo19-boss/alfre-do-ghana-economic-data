@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T19:41:30.497Z",
+  "updated": "2026-11-28T19:46:30.474Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,27 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Korean volunteers equip Cape Coast teachers with digital skills",
+      "link": "https://www.myjoyonline.com/korean-volunteers-equip-cape-coast-teachers-with-digital-skills/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T19:44:11.000Z",
+      "summary": "Teachers in selected basic schools in the Cape Coast Metropolis are improving lesson delivery and school administration through enhanced digital skills following an ICT capacity-building…",
+      "categories": [
+        "National",
+        "Cape Coast",
+        "ICT",
+        "Korean"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GSA targets expired, substandard goods in warehouses in Ashanti Region ahead of Christmas",
       "link": "https://www.myjoyonline.com/gsa-targets-expired-substandard-goods-in-warehouses-in-ashanti-region-ahead-of-christmas/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T19:38:15.000Z",
       "summary": "The Ghana Standards Authority (GSA) will begin inspecting warehouses across the Ashanti Region on Monday, November 30, 2026, to ensure that goods stocked for the Christmas festivities meet…",
       "categories": [
+        "HP News 2",
         "National",
         "Christmas",
         "Expired goods",
@@ -85,6 +100,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T19:00:00.000Z",
       "summary": "President John Mahama has announced plans to open additional Ghanaian diplomatic missions in 2027, with Barbados set to become the first country to benefit from the move. He made the…",
       "categories": [
+        "HP News 1",
         "International",
         "National",
         "Barbados",
@@ -101,7 +117,7 @@ window.GDC_PAPERS = {
       "summary": "A 24-year-old man, Anthony Ekpe, has been sentenced to one year in prison for unlawful entry, indecent assault and attempted rape.",
       "categories": [
         "Crime",
-        "HP News 2",
+        "HP News 8",
         "Hohoe District Court",
         "Rape"
       ],
@@ -117,19 +133,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "Farmers day",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama’s Women’s Development Bank is a grand deception",
-      "link": "https://www.myjoyonline.com/president-mahamas-womens-development-bank-is-a-grand-deception/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T18:24:29.000Z",
-      "summary": "he National Democratic Congress came to power in 2025, promising to \"reset\" Ghana and correct what it described as the failures of the previous NPP administration. Among its key promises…",
-      "categories": [
-        "Opinion",
-        "Mahama",
-        "women's development bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
