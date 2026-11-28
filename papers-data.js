@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T04:20:29.562Z",
+  "updated": "2026-11-28T04:25:30.312Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -61,6 +61,30 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Toxic dumping ground: Greenpeace finds UK retailers’ faulty returns at Agbogbloshie e-waste site",
+      "link": "https://www.myjoyonline.com/toxic-dumping-ground-greenpeace-finds-uk-retailers-faulty-returns-at-agbogbloshie-e-waste-site/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:02:05.000Z",
+      "summary": "An investigation by Greenpeace Africa and Unearthed has revealed that dozens of electrical appliances returned to major UK high-street brands, including Tesco, Argos and Asda, have ended up…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "5.4m Ghanaians still practise open defecation",
+      "link": "https://www.myjoyonline.com/5-4m-ghanaians-still-practise-open-defecation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T02:23:00.000Z",
+      "summary": "An estimated 5.4 million Ghanaians still practise open defecation, while the country spends approximately $290 million annually to address poor sanitation, the Ministry of Local Government…",
+      "categories": [
+        "News",
+        "environment",
+        "Sanitation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
       "link": "https://www.myjoyonline.com/hundreds-of-thousands-still-without-power-a-day-after-us-slammed-with-thanksgiving-storms/",
       "source": "MyJoyOnline",
@@ -94,35 +118,6 @@ window.GDC_PAPERS = {
       "categories": [
         "International",
         "Spanish PM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Forest condemn Chelsea to third successive defeat",
-      "link": "https://www.myjoyonline.com/forest-condemn-chelsea-to-third-successive-defeat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T00:24:00.000Z",
-      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White helped Nottingham Forest beat struggling Chelsea, who lost their third Premier League game in a row.",
-      "categories": [
-        "Football",
-        "News",
-        "Sports",
-        "Chelsea",
-        "forest"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Video: How MOBA members celebrated Multimedia Group CEO Kwasi Twum after UPSA FAF Eminent Achievement Award",
-      "link": "https://www.myjoyonline.com/video-how-moba-members-celebrated-multimedia-group-ceo-kwasi-twum-after-upsa-faf-eminent-achievement-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T23:46:30.000Z",
-      "summary": "The strong bonds of Mfantsipim School came alive at the 2026 Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of Professional Studies, Accra (UPSA), as…",
-      "categories": [
-        "National",
-        "News",
-        "Multimedia",
-        "UPSA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
