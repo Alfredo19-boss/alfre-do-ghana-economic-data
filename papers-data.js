@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:25:29.466Z",
+  "updated": "2026-11-28T03:30:30.735Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -51,7 +51,7 @@ window.GDC_PAPERS = {
       "title": "Video: How MOBA members celebrated Multimedia Group CEO Kwasi Twum after UPSA FAF Eminent Achievement Award",
       "link": "https://www.myjoyonline.com/video-how-moba-members-celebrated-multimedia-group-ceo-kwasi-twum-after-upsa-faf-eminent-achievement-award/",
       "source": "MyJoyOnline",
-      "published": "2026-11-28T03:16:30.000Z",
+      "published": "2026-11-27T23:46:30.000Z",
       "summary": "The strong bonds of Mfantsipim School came alive at the 2026 Faculty of Accounting and Finance (FAF) Eminent Achievement Awards at the University of Professional Studies, Accra (UPSA), as…",
       "categories": [
         "National",
