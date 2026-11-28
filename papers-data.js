@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:35:29.863Z",
+  "updated": "2026-11-28T03:45:29.691Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "link": "https://www.myjoyonline.com/spanish-pm-and-rivals-rally-supporters-in-final-pitch-for-votes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T03:37:28.000Z",
+      "summary": "Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.",
+      "categories": [
+        "International",
+        "Spanish PM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
       "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
@@ -120,19 +132,6 @@ window.GDC_PAPERS = {
         "Debate",
         "School",
         "schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New York City Mayor Zohran Mamdani undergoes surgery after a soccer injury",
-      "link": "https://www.myjoyonline.com/new-york-city-mayor-zohran-mamdani-undergoes-surgery-after-a-soccer-injury/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T22:16:53.000Z",
-      "summary": "The mayor of America’s largest city got benched on Friday.",
-      "categories": [
-        "International",
-        "New York",
-        "Zohran Mamdani"
       ],
       "site": "https://www.myjoyonline.com/"
     },
