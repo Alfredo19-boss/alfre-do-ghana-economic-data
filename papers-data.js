@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:07:04.544Z",
+  "updated": "2026-11-28T10:12:03.908Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.myjoyonline.com/norse-atlantic-suspends-all-flights-as-it-faces-potential-collapse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T10:04:56.000Z",
+      "summary": "The Norwegian low-cost carrier Norse Atlantic Airways has suspended all flights as it rushes to resolve what it warned is a critical financial situation.",
+      "categories": [
+        "International",
+        "Norse Atlantic"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Supreme Court, Court of Appeal to go fully digital from January 2027 – Chief Justice",
       "link": "https://www.myjoyonline.com/supreme-court-court-of-appeal-to-go-fully-digital-from-january-2027-chief-justice/",
       "source": "MyJoyOnline",
@@ -34,6 +46,17 @@ window.GDC_PAPERS = {
         "Supreme Court"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Graphic's Timothy Ngnenbe wins record sixth Mining Reporter of the Year",
+      "link": "https://www.graphic.com.gh/news/general-news/daily-graphics-timothy-ngnenbe-wins-record-sixth-mining-reporter-of-the-year.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T09:56:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
@@ -91,6 +114,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Man, 24, jailed one year for attempted rape, indecent assault",
+      "link": "https://www.graphic.com.gh/news/general-news/man-jailed-one-year-for-attempted-rape-indecent-assault.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T09:33:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
       "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
       "source": "MyJoyOnline",
@@ -128,17 +162,26 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Morocco secures $2.4bn to build defence industry, targets 50,000 jobs by 2035",
-      "link": "https://www.myjoyonline.com/morocco-secures-2-4bn-to-build-defence-industry-targets-50000-jobs-by-2035/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T08:51:00.000Z",
-      "summary": "Morocco has secured nearly $2.4 billion (22 billion Moroccan dirhams) to develop its national defence and security industry, as the Kingdom works to strengthen industrial sovereignty and…",
+      "title": "PURC resolves 89 per cent of consumer complaints in Bono East",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-purc-resolves-89-per-cent-of-consumer-complaints-in-bono-east.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T08:21:34.000Z",
+      "summary": "",
       "categories": [
-        "Africa",
-        "King Mohammed VI",
-        "Morocco"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bawku beyond bullets: Fading echoes of gunfire, rebuilding of peace",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bawku-beyond-bullets-fading-echoes-of-gunfire-rebuilding-of-peace.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-28T08:11:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Tyrone Marhguy named recipient of GUBA 2026 Frontier Innovation Award",
@@ -152,10 +195,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "OSP dares youth: Callenges young people to stand for integrity",
-      "link": "https://www.graphic.com.gh/news/general-news/osp-dares-youth.html",
+      "title": "Korle Bu Nursing College admits 472 students",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-korle-bu-nursing-college-admits-472-students.html",
       "source": "Daily Graphic",
-      "published": "2026-11-28T07:53:45.000Z",
+      "published": "2026-11-28T08:02:00.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -163,54 +206,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghanaian journalists call for transparency in administration of GH¢10million Media Development Fund",
-      "link": "https://www.graphic.com.gh/news/general-news/gja-calls-for-transparency-in-administration-of-media-development-fund.html",
+      "title": "Ghana Publishing Company to handle 20% of Government printing works",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-publishing-company-to-handle-20-of-government-printing-works.html",
       "source": "Daily Graphic",
-      "published": "2026-11-28T07:37:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Midwife, 2 others nabbed over baby theft",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-midwife-2-others-nabbed-over-baby-theft.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T07:35:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-end-four-yearly-electoral-wars-sir-sam-jonah-proposes-new-union-government-2.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-28T06:29:54.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rev. Dr Ogbarmey Tetteh launches six books on finance and marriage",
-      "link": "https://www.graphic.com.gh/news/general-news/rev-dr-ogbarmey-tetteh-launches-six-books-on-finance-and-marriage.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T17:29:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "TONE Magazine presents maiden edition to UK High Commissioner",
-      "link": "https://www.graphic.com.gh/news/general-news/tone-magazine-presents-maiden-edition-to-uk-high-commissioner.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-27T15:42:52.000Z",
+      "published": "2026-11-28T07:59:26.000Z",
       "summary": "",
       "categories": [
         "General News"
