@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T12:02:03.373Z",
+  "updated": "2026-11-28T12:12:03.142Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s power challenges could persist for two more years – Energy Analyst",
+      "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T12:04:47.000Z",
+      "summary": "Energy Analyst Kwadwo Poku has warned that Ghana's current power challenges could persist for at least two years, blaming inadequate investment in electricity transmission infrastructure…"
+    },
     {
       "title": "Ghana Launches Trade Barriers Platform as US$4.3bn Export Revenue Losses Loom",
       "link": "https://thehighstreetjournal.com/ghana-launches-trade-barriers-platform-as-us4-3bn-export-revenue-losses-loom/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T13:15:25.000Z",
       "summary": "The Chamber of Agribusiness Ghana has urged Parliament to scrutinise eight critical gaps in the 2027 agricultural budget, warning that unclear funding, irrigation cuts, climate preparedness…"
-    },
-    {
-      "title": "Women’s Development Bank begins recruitment ahead of March 2027 take-off",
-      "link": "https://www.myjoyonline.com/womens-development-bank-begins-recruitment-ahead-of-march-2027-take-off/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T13:11:43.000Z",
-      "summary": "The Women's Development Bank has commenced recruitment of its management and staff as the government steps up preparations to operationalise the institution by the end of March 2027…"
     }
   ]
 };

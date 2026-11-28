@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T12:02:04.658Z",
+  "updated": "2026-11-28T12:12:04.404Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s power challenges could persist for two more years – Energy Analyst",
+      "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T12:04:47.000Z",
+      "summary": "Energy Analyst Kwadwo Poku has warned that Ghana's current power challenges could persist for at least two years, blaming inadequate investment in electricity transmission infrastructure…",
+      "categories": [
+        "Energy",
+        "HP News 2",
+        "National",
+        "Energy Analyst Kwadwo Poku",
+        "Power"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "KOICA volunteers develop ICT textbooks for basic schools in Central Region",
       "link": "https://www.graphic.com.gh/news/education/koica-volunteers-develop-ict-textbooks-for-basic-schools-in-central-region.html",
@@ -79,8 +94,8 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T10:43:02.000Z",
       "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena B. Tandoh, has called for a comprehensive national framework to identify and manage gifted and talented…",
       "categories": [
-        "HP News 2",
         "News",
+        "Top Story",
         "gIFTED",
         "Students"
       ],
@@ -121,7 +136,6 @@ window.GDC_PAPERS = {
       "summary": "The Supreme Court and the Court of Appeal will begin full electronic filing, authentication, service and related court processes from January 2, 2027, Chief Justice Paul Baffoe-Bonnie has…",
       "categories": [
         "National",
-        "Top Story",
         "Court of Appeal",
         "Digital",
         "Supreme Court"
@@ -153,20 +167,6 @@ window.GDC_PAPERS = {
         "Dr Yusif Sulemana",
         "Lands Ministry",
         "Mining industry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parents must consult teachers before pushing gifted children to skip classes – NIM Executive Secretary",
-      "link": "https://www.myjoyonline.com/parents-must-consult-teachers-before-pushing-gifted-children-to-skip-classes-nim-executive-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T09:50:06.000Z",
-      "summary": "The Executive Secretary of the National Interest Movement, Susan Adu-Amankwah, has cautioned against parents unilaterally deciding that their children are gifted and pushing for them to…",
-      "categories": [
-        "Education",
-        "National",
-        "National Interest Movement",
-        "Parents"
       ],
       "site": "https://www.myjoyonline.com/"
     },
