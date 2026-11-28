@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T05:15:30.034Z",
+  "updated": "2026-11-28T05:20:29.760Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama targets single Africa-Caribbean market under Ghana’s AU chairmanship",
+      "link": "https://www.myjoyonline.com/mahama-targets-single-africa-caribbean-market-under-ghanas-au-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T05:16:40.000Z",
+      "summary": "President John Dramani Mahama has outlined an ambitious plan to deepen economic and diplomatic relations between Africa and the Caribbean, with the integration of the African Continental…",
+      "categories": [
+        "National",
+        "News",
+        "Barbados",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama sings Peter Tosh’s ‘African’ in Barbados Parliament",
       "link": "https://www.myjoyonline.com/mahama-sings-peter-toshs-african-in-barbados-parliament/",
@@ -113,19 +127,6 @@ window.GDC_PAPERS = {
       "summary": "An investigation by Greenpeace Africa and Unearthed has revealed that dozens of electrical appliances returned to major UK high-street brands, including Tesco, Argos and Asda, have ended up…",
       "categories": [
         "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "5.4m Ghanaians still practise open defecation",
-      "link": "https://www.myjoyonline.com/5-4m-ghanaians-still-practise-open-defecation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T02:23:00.000Z",
-      "summary": "An estimated 5.4 million Ghanaians still practise open defecation, while the country spends approximately $290 million annually to address poor sanitation, the Ministry of Local Government…",
-      "categories": [
-        "News",
-        "environment",
-        "Sanitation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
