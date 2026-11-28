@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:41:30.629Z",
+  "updated": "2026-11-28T18:46:30.959Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "A 24-year-old man, Anthony Ekpe, has been sentenced to one year in prison for unlawful entry, indecent assault and attempted rape.",
       "categories": [
         "Crime",
+        "HP News 2",
         "Hohoe District Court",
         "Rape"
       ],
@@ -98,7 +99,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T17:44:26.000Z",
       "summary": "The Ministry of Energy has identified Dansoman, Adenta, Amahia, parts of Oyarifa, Pokuase, Amasaman and Lakeside as areas experiencing persistent electricity supply challenges in recent…",
       "categories": [
-        "HP News 2",
+        "HP News 10",
         "National",
         "Adenta",
         "Amasaman",
