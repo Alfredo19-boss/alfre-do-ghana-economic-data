@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T05:00:28.651Z",
+  "updated": "2026-11-28T05:05:31.533Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,34 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gov’t Could Rake in Millions in Savings Through Early DDEP Bond Buyback – Dr. Atuahene",
+      "link": "https://thehighstreetjournal.com/govt-could-rake-in-millions-in-savings-through-early-ddep-bond-buyback-dr-atuahene/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T05:05:00.000Z",
+      "summary": "Dr. Richard Atuahene says government’s GH¢28.58 billion early DDEP bond buyback could generate millions in interest savings, ease 2027 fiscal pressures, prevent economic shocks, boost…"
+    },
+    {
+      "title": "Expected December Fuel Price Cuts Could Ease Festive Season Spending Pressures",
+      "link": "https://thehighstreetjournal.com/expected-december-fuel-price-cuts-could-ease-festive-season-spending-pressures/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T05:03:00.000Z",
+      "summary": "COMAC projects significant reductions in pump prices in December, raising hopes of lower transport and operating costs for households and businesses during the festive season."
+    },
+    {
+      "title": "Russian Film Festival Opens New Commercial Pathways for Ghana’s Creative Industry",
+      "link": "https://thehighstreetjournal.com/russian-film-festival-puts-ghanas-creative-economy-in-frame-as-cross-border-opportunities-expand/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T05:02:00.000Z",
+      "summary": "The second edition of the Russian Film Festival in Accra comes amid renewed government investment in Ghana’s film industry, raising questions about how international cultural partnerships…"
+    },
+    {
+      "title": "Producer Countries Cannot Wait for Global Support to Plan Energy Transitions — NRGI",
+      "link": "https://thehighstreetjournal.com/producer-countries-cannot-wait-for-global-support-to-plan-energy-transitions-nrgi/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T05:01:00.000Z",
+      "summary": "NRGI warns oil-producing countries against delaying just transition plans, calls for early planning to protect jobs, revenues and public services"
+    },
     {
       "title": "Newmont Ahafo South Mine named Mining Company of the Year at 12th Ghana Mining Industry Awards",
       "link": "https://www.myjoyonline.com/newmont-ahafo-south-mine-named-mining-company-of-the-year-at-12th-ghana-mining-industry-awards/",
@@ -1042,34 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-25T08:43:50.000Z",
       "summary": "Secondary education systems across Africa must undergo significant transformation to equip young people with relevant skills and prepare them for employment, entrepreneurship and lifelong…"
-    },
-    {
-      "title": "GHIB and Ghana EXIM Bank advance partnership to support international growth of Ghanaian businesses",
-      "link": "https://www.myjoyonline.com/ghib-and-ghana-exim-bank-advance-partnership-to-support-international-growth-of-ghanaian-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T07:53:13.000Z",
-      "summary": "Ghana International Bank Plc (GHIB) and Ghana Export-Import Bank (Ghana EXIM Bank) reaffirmed their commitment to deepening cooperation under the MoU the two institutions signed in July…"
-    },
-    {
-      "title": "Ghana Targets US$10bn as Mahama seeks German Industrial Partnerships",
-      "link": "https://thehighstreetjournal.com/ghana-targets-us10bn-as-mahama-seeks-german-industrial-partnerships/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:05:00.000Z",
-      "summary": "Ghana is targeting US$10 billion in investment by 2030 as Mahama courts German businesses to support manufacturing, agro-processing, technology transfer and industrial expansion across the…"
-    },
-    {
-      "title": "Ghana, North Rhine-Westphalia Renew Five-Year Partnership To Deepen Economic And Educational Ties",
-      "link": "https://thehighstreetjournal.com/ghana-north-rhine-westphalia-renew-five-year-partnership-to-deepen-economic-and-educational-ties/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:03:00.000Z",
-      "summary": "Agreement seeks to expand trade, skills development, research and people-to-people cooperation."
-    },
-    {
-      "title": "AMEA Calls for Business Support Funding Under US$3bn Agric Investment Plan",
-      "link": "https://thehighstreetjournal.com/amea-ghana-calls-for-dedicated-funding-for-agribusiness-sector-under-us3bn-agriculture-plan/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:02:00.000Z",
-      "summary": "AMEA Ghana wants dedicated funding for agribusiness development services under the US$3 billion commercial agriculture programme to strengthen business capacity, improve competitiveness…"
     }
   ]
 };
