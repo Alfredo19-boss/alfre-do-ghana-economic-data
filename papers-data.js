@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T06:00:30.936Z",
+  "updated": "2026-11-28T06:15:30.177Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
+      "link": "https://www.myjoyonline.com/govt-plans-natural-resource-revenue-management-act-to-strengthen-accountability-deputy-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:07:30.000Z",
+      "summary": "The government is proposing a Natural Resource Revenue Management Act to strengthen transparency, accountability and the long-term management of revenues generated from Ghana's petroleum…",
+      "categories": [
+        "Mining",
+        "National",
+        "Accountability",
+        "Government"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Minister urges Chamber of Mines to sustain role in Ghana’s development ahead of 2028 centenary",
+      "link": "https://www.myjoyonline.com/deputy-minister-urges-chamber-of-mines-to-sustain-role-in-ghanas-development-ahead-of-2028-centenary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:07:20.000Z",
+      "summary": "The Deputy Minister for Lands and Natural Resources, Dr Yusif Sulemana, has urged the Ghana Chamber of Mines to build on its history of service and strengthen its contribution to the…",
+      "categories": [
+        "Mining",
+        "National",
+        "Chamber of Mines",
+        "Dr Yusif Sulemana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Adenta police seize 125 motorbikes in crackdown on fake number plates",
       "link": "https://www.myjoyonline.com/adenta-police-seize-125-motorbikes-in-crackdown-on-fake-number-plates/",
@@ -106,37 +134,6 @@ window.GDC_PAPERS = {
         "Caleb Ziblim",
         "Ghana Mining Industry Awards",
         "Nana Boakye Danquah Yiadom"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama targets single Africa-Caribbean market under Ghana’s AU chairmanship",
-      "link": "https://www.myjoyonline.com/mahama-targets-single-africa-caribbean-market-under-ghanas-au-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:16:40.000Z",
-      "summary": "President John Dramani Mahama has outlined an ambitious plan to deepen economic and diplomatic relations between Africa and the Caribbean, with the integration of the African Continental…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Barbados",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama sings Peter Tosh’s ‘African’ in Barbados Parliament",
-      "link": "https://www.myjoyonline.com/mahama-sings-peter-toshs-african-in-barbados-parliament/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:08:07.000Z",
-      "summary": "President John Dramani Mahama brought a touch of reggae and Pan-African history to the Parliament of Barbados when he broke into lines from Jamaican reggae icon Peter Tosh’s 1977 song…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Barbados",
-        "Ghama",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

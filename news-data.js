@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T06:00:28.873Z",
+  "updated": "2026-11-28T06:15:29.028Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Gov’t plans Natural Resource Revenue Management Act to strengthen accountability – Deputy Minister",
+      "link": "https://www.myjoyonline.com/govt-plans-natural-resource-revenue-management-act-to-strengthen-accountability-deputy-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:07:30.000Z",
+      "summary": "The government is proposing a Natural Resource Revenue Management Act to strengthen transparency, accountability and the long-term management of revenues generated from Ghana's petroleum…"
+    },
+    {
+      "title": "Deputy Minister urges Chamber of Mines to sustain role in Ghana’s development ahead of 2028 centenary",
+      "link": "https://www.myjoyonline.com/deputy-minister-urges-chamber-of-mines-to-sustain-role-in-ghanas-development-ahead-of-2028-centenary/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:07:20.000Z",
+      "summary": "The Deputy Minister for Lands and Natural Resources, Dr Yusif Sulemana, has urged the Ghana Chamber of Mines to build on its history of service and strengthen its contribution to the…"
+    },
     {
       "title": "From Mobile Money to Connected Ecosystems: How Africa is Engineering its Next Fintech Chapter",
       "link": "https://thehighstreetjournal.com/from-mobile-money-to-connected-ecosystems-how-africa-is-engineering-its-next-fintech-chapter/",
@@ -62,6 +76,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-28T04:53:53.000Z",
       "summary": "Newmont Ghana Gold Ltd – Ahafo South Mine has been named Mining Company of the Year at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27."
+    },
+    {
+      "title": "Mining Act review to boost local participation and community benefits – Deputy Minister",
+      "link": "https://www.myjoyonline.com/mining-act-review-to-boost-local-participation-and-community-benefits-deputy-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T04:35:00.000Z",
+      "summary": "The government’s proposed review of the Minerals and Mining Act, 2006 (Act 703), is aimed at modernising Ghana’s mining regulatory framework, strengthening governance and ensuring greater…"
     },
     {
       "title": "Lands Ministry, Newmont set up working group to strengthen mining partnership",
@@ -1049,27 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T09:27:58.000Z",
       "summary": "The Bank of Ghana (BoG) is urging financial institutions to deepen their investment in carbon markets to unlock new revenue opportunities, attract foreign capital and support Ghana’s green…"
-    },
-    {
-      "title": "The power of Africa",
-      "link": "https://www.ghanabusinessnews.com/2026/11/25/the-power-of-africa/",
-      "source": "Ghana Business News",
-      "published": "2026-11-25T08:52:17.000Z",
-      "summary": "Africa is a continent that was tortured and deeply hurt by colonialism. Colonialism was a harsh and brutal period of organized and methodical conquest, savage exploitation and division of…"
-    },
-    {
-      "title": "Agriculture remains Ghana’s largest employer despite lower GDP share",
-      "link": "https://www.ghanabusinessnews.com/2026/11/25/agriculture-remains-ghanas-largest-employer-despite-lower-gdp-share/",
-      "source": "Ghana Business News",
-      "published": "2026-11-25T08:49:01.000Z",
-      "summary": "Agriculture remained Ghana's largest source of employment in 2025, accounting for 37.1 per cent of employed persons, according to the Ghana Statistical Service's (GSS) Productivity…"
-    },
-    {
-      "title": "Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire",
-      "link": "https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-25T08:47:01.000Z",
-      "summary": "Ecobank Ghana and Mobile Money Fintech Limited have launched a cross-border transfer service allowing customers in Côte d’Ivoire to send money directly to Mobile Money wallets in Ghana, as…"
     }
   ]
 };
