@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T03:45:29.691Z",
+  "updated": "2026-11-28T03:55:29.886Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,18 +20,6 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
-    {
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "link": "https://www.myjoyonline.com/spanish-pm-and-rivals-rally-supporters-in-final-pitch-for-votes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T03:37:28.000Z",
-      "summary": "Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.",
-      "categories": [
-        "International",
-        "Spanish PM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
     {
       "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
       "link": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
@@ -60,10 +48,22 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "link": "https://www.myjoyonline.com/spanish-pm-and-rivals-rally-supporters-in-final-pitch-for-votes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T01:07:28.000Z",
+      "summary": "Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.",
+      "categories": [
+        "International",
+        "Spanish PM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Forest condemn Chelsea to third successive defeat",
       "link": "https://www.myjoyonline.com/forest-condemn-chelsea-to-third-successive-defeat/",
       "source": "MyJoyOnline",
-      "published": "2026-11-28T01:24:00.000Z",
+      "published": "2026-11-28T00:24:00.000Z",
       "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White helped Nottingham Forest beat struggling Chelsea, who lost their third Premier League game in a row.",
       "categories": [
         "Football",
@@ -105,6 +105,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "We copied Singapore’s box and forgot the air",
+      "link": "https://www.myjoyonline.com/we-copied-singapores-box-and-forgot-the-air/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-27T23:21:54.000Z",
+      "summary": "Why Ghana's sealed, split-air-conditioned offices and lecture halls are quietly taxing human cognition, public health, and national productivity.",
+      "categories": [
+        "Opinion",
+        "Ghana",
+        "Singapore"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ibrahim Mahama inducted into ECOWAS Business Council, pledges regional cooperation",
       "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-pledges-regional-cooperation/",
       "source": "MyJoyOnline",
@@ -117,21 +130,6 @@ window.GDC_PAPERS = {
         "Africa",
         "ECOWAS",
         "Ibrahim Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Four schools book places in 2026 national public speaking grand finale",
-      "link": "https://www.myjoyonline.com/four-schools-book-places-in-2026-national-public-speaking-grand-finale/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T22:43:49.000Z",
-      "summary": "The race for the 2026 National Public Speaking Championship has reached its decisive stage, with four schools securing places in the grand finale scheduled for December 3, 2026, at the GNAT…",
-      "categories": [
-        "News",
-        "Competition",
-        "Debate",
-        "School",
-        "schools"
       ],
       "site": "https://www.myjoyonline.com/"
     },
