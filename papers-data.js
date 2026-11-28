@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T04:45:29.577Z",
+  "updated": "2026-11-28T05:00:30.003Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,22 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Lands Ministry, Newmont set up working group to strengthen the mining partnership",
+      "title": "Newmont Ahafo South Mine named Mining Company of the Year at 12th Ghana Mining Industry Awards",
+      "link": "https://www.myjoyonline.com/newmont-ahafo-south-mine-named-mining-company-of-the-year-at-12th-ghana-mining-industry-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T04:53:53.000Z",
+      "summary": "Newmont Ghana Gold Ltd – Ahafo South Mine has been named Mining Company of the Year at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27.",
+      "categories": [
+        "Business",
+        "Mining",
+        "National",
+        "12th Ghana Mining Industry Awards",
+        "Newmont Ahafo South Mine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lands Ministry, Newmont set up working group to strengthen mining partnership",
       "link": "https://www.myjoyonline.com/lands-ministry-newmont-set-up-working-group-to-strengthen-the-mining-partnership/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T04:13:02.000Z",
@@ -106,18 +121,6 @@ window.GDC_PAPERS = {
         "International",
         "thanksgiving",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Poison seller’ Kenneth Law apologises in court to the families of his victims",
-      "link": "https://www.myjoyonline.com/poison-seller-kenneth-law-apologises-in-court-to-the-families-of-his-victims/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T01:27:00.000Z",
-      "summary": "The Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will…",
-      "categories": [
-        "News",
-        "poison"
       ],
       "site": "https://www.myjoyonline.com/"
     },

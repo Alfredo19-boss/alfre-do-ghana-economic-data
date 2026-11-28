@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T04:45:28.081Z",
+  "updated": "2026-11-28T05:00:28.651Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,7 +22,14 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
-      "title": "Lands Ministry, Newmont set up working group to strengthen the mining partnership",
+      "title": "Newmont Ahafo South Mine named Mining Company of the Year at 12th Ghana Mining Industry Awards",
+      "link": "https://www.myjoyonline.com/newmont-ahafo-south-mine-named-mining-company-of-the-year-at-12th-ghana-mining-industry-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T04:53:53.000Z",
+      "summary": "Newmont Ghana Gold Ltd – Ahafo South Mine has been named Mining Company of the Year at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27."
+    },
+    {
+      "title": "Lands Ministry, Newmont set up working group to strengthen mining partnership",
       "link": "https://www.myjoyonline.com/lands-ministry-newmont-set-up-working-group-to-strengthen-the-mining-partnership/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T04:13:02.000Z",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-25T05:02:00.000Z",
       "summary": "AMEA Ghana wants dedicated funding for agribusiness development services under the US$3 billion commercial agriculture programme to strengthen business capacity, improve competitiveness…"
-    },
-    {
-      "title": "Ghana Secures 6.5 Million Tonnes of Forest Carbon Credits Worth US$68 Million",
-      "link": "https://thehighstreetjournal.com/ghana-secures-6-5-million-tonnes-of-forest-carbon-credits-worth-us68-million/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T05:01:00.000Z",
-      "summary": "Ghana targets US$68 million from verified forest carbon credits, with 46% of proceeds allocated to local communities, farmers and traditional authorities."
     }
   ]
 };
