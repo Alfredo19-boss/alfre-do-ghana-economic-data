@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:02:03.755Z",
+  "updated": "2026-11-28T10:07:04.544Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -79,6 +79,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Burundi backs Morocco’s sovereignty over Sahara, endorses autonomy plan",
+      "link": "https://www.myjoyonline.com/burundi-backs-moroccos-sovereignty-over-sahara-endorses-autonomy-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:38:00.000Z",
+      "summary": "Burundi has reaffirmed its unwavering support for Morocco’s territorial integrity and sovereignty over the disputed Western Sahara region.",
+      "categories": [
+        "Africa",
+        "Burundi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
       "link": "https://www.myjoyonline.com/samsons-take-galamsey-we-know-the-kingpins-so-why-pretend/",
       "source": "MyJoyOnline",
@@ -125,23 +137,6 @@ window.GDC_PAPERS = {
         "Africa",
         "King Mohammed VI",
         "Morocco"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sentuo Group boss hands Black Challenge $10,000 each after 2026 Amputee World Cup win",
-      "link": "https://www.myjoyonline.com/sentuo-group-boss-hands-black-challenge-10000-each-after-2026-amputee-world-cup-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T08:39:59.000Z",
-      "summary": "The cash reward comes in recognition of the team’s remarkable achievement in Mexico, where Ghana defeated Morocco 1-0 in the final to become the second African nation to win the prestigious…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "National",
-        "2026 Amputee Football World Cup",
-        "Black Challenge",
-        "Ningquan Xu",
-        "Sentuo Group"
       ],
       "site": "https://www.myjoyonline.com/"
     },
