@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T10:12:03.908Z",
+  "updated": "2026-11-28T10:27:03.824Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -66,6 +66,7 @@ window.GDC_PAPERS = {
       "summary": "The Ministry of Lands and Natural Resources has reaffirmed its commitment to holding quarterly engagements with the mining industry to strengthen collaboration, address concerns and build…",
       "categories": [
         "Business",
+        "HP News 2",
         "Mining",
         "National",
         "Dr Yusif Sulemana",
@@ -95,6 +96,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T09:45:39.000Z",
       "summary": "Minority Chief Whip Frank Annoh-Dompreh has called for emergency government intervention to buy surplus produce as farmers and market women struggle to find buyers nationwide.",
       "categories": [
+        "HP News 4",
         "National",
         "food glut",
         "Frank Annoh-Dompreh"
