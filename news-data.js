@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T12:27:02.849Z",
+  "updated": "2026-11-28T12:32:02.275Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,7 +22,7 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
-      "title": "Power challenges will persist for two years – Kwadwo Poku",
+      "title": "Power challenges could persist for two years – Kwadwo Poku",
       "link": "https://www.myjoyonline.com/ghanas-power-challenges-could-persist-for-two-more-years-energy-analyst/",
       "source": "MyJoyOnline",
       "published": "2026-11-28T12:04:47.000Z",
