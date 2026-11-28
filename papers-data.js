@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T11:17:03.393Z",
+  "updated": "2026-11-28T11:32:03.715Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -182,7 +182,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Two arrested over viral Asaokore robbery, stolen items recovered",
+      "title": "Two arrested over viral Asokore robbery, stolen items recovered",
       "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-viral-asaokore-robbery-stolen-items-recovered.html",
       "source": "Daily Graphic",
       "published": "2026-11-28T09:28:28.000Z",
