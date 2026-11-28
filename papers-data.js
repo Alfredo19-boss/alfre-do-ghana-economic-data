@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T04:15:29.932Z",
+  "updated": "2026-11-28T04:20:29.562Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,15 +21,15 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
-      "link": "https://www.myjoyonline.com/hundreds-of-thousands-still-without-power-a-day-after-us-slammed-with-thanksgiving-storms/",
+      "title": "Lands Ministry, Newmont set up working group to strengthen the mining partnership",
+      "link": "https://www.myjoyonline.com/lands-ministry-newmont-set-up-working-group-to-strengthen-the-mining-partnership/",
       "source": "MyJoyOnline",
-      "published": "2026-11-28T04:00:19.000Z",
-      "summary": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "published": "2026-11-28T04:13:02.000Z",
+      "summary": "The Minister for Lands and Natural Resources, Hon. Emmanuel Armah-Kofi Buah has inaugurated a six-month Joint Ghana–Newmont Working Group to address concerns relating to the fiscal…",
       "categories": [
-        "International",
-        "thanksgiving",
-        "US"
+        "Business",
+        "Mining",
+        "Newmont"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -57,6 +57,19 @@ window.GDC_PAPERS = {
         "National",
         "12th Ghana Mining Industry Awards",
         "Ken Ashigbey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "link": "https://www.myjoyonline.com/hundreds-of-thousands-still-without-power-a-day-after-us-slammed-with-thanksgiving-storms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T02:02:19.000Z",
+      "summary": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "categories": [
+        "International",
+        "thanksgiving",
+        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -110,22 +123,6 @@ window.GDC_PAPERS = {
         "News",
         "Multimedia",
         "UPSA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ibrahim Mahama inducted into ECOWAS Business Council, commits to sharing experiences with other countries",
-      "link": "https://www.myjoyonline.com/ibrahim-mahama-inducted-into-ecowas-business-council-commits-to-sharing-experiences-with-other-countries/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-27T23:32:00.000Z",
-      "summary": "Engineers & Planners Founder and Chief Executive Officer, Ibrahim Mahama, has been inducted as Ghana’s representative on the ECOWAS Business Council at an event held in Lagos, Nigeria…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Aliko Dangote",
-        "ECOWAS Business Council",
-        "Engineers and Planners",
-        "Ibrahim Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
