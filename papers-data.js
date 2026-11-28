@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:11:29.978Z",
+  "updated": "2026-11-28T18:16:30.378Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -74,7 +74,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-28T17:43:20.000Z",
       "summary": "The Ministry of Energy has attributed recent power outages and low-voltage challenges in parts of the country to pressure on transmission and distribution infrastructure, insisting that…",
       "categories": [
-        "HP News 1",
         "National",
         "Energy Ministry",
         "Power outages",
