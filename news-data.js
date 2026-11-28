@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-28T09:57:02.838Z",
+  "updated": "2026-11-28T10:02:02.422Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Building the Business Behind Ghana’s Music Talents: New Academy Targets Skills Gap in Creative Economy",
+      "link": "https://thehighstreetjournal.com/building-the-business-behind-ghanas-music-talents-new-academy-targets-skills-gap-in-creative-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-28T10:00:00.000Z",
+      "summary": "Martell and Africa House have unveiled 25 emerging music creatives and professionals for an Accra mentorship programme aimed at strengthening industry skills, professional networks and…"
+    },
     {
       "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
       "link": "https://www.myjoyonline.com/government-to-sustain-quarterly-engagements-with-mining-industry-deputy-lands-minister/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-25T12:10:17.000Z",
       "summary": "Ghana's growing reliance on artificial intelligence (AI) in weather forecasting will not deliver accurate predictions without reliable observation systems and quality data, Director-General…"
-    },
-    {
-      "title": "Motorists Could Get Early Christmas Fuel Relief as StarOil Urges NPA to Cut Price Floor Ahead of Time",
-      "link": "https://thehighstreetjournal.com/motorists-could-get-early-christmas-fuel-relief-as-staroil-urges-npa-to-cut-price-floor-ahead-of-time/",
-      "source": "The High Street Journal",
-      "published": "2026-11-25T12:02:00.000Z",
-      "summary": "StarOil Ghana is urging the NPA to lower the GH¢13.69 petrol price floor before December 1, potentially enabling cheaper fuel and offering motorists, households and businesses additional…"
     }
   ]
 };

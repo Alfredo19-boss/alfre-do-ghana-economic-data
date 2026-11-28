@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T09:57:04.179Z",
+  "updated": "2026-11-28T10:02:03.755Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Supreme Court, Court of Appeal to go fully digital from January 2027 – Chief Justice",
+      "link": "https://www.myjoyonline.com/supreme-court-court-of-appeal-to-go-fully-digital-from-january-2027-chief-justice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T09:57:10.000Z",
+      "summary": "The Supreme Court and the Court of Appeal will begin full electronic filing, authentication, service and related court processes from January 2, 2027, Chief Justice Paul Baffoe-Bonnie has…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Court of Appeal",
+        "Digital",
+        "Supreme Court"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government to sustain quarterly engagements with mining industry – Deputy Lands Minister",
       "link": "https://www.myjoyonline.com/government-to-sustain-quarterly-engagements-with-mining-industry-deputy-lands-minister/",
@@ -101,6 +116,19 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Morocco secures $2.4bn to build defence industry, targets 50,000 jobs by 2035",
+      "link": "https://www.myjoyonline.com/morocco-secures-2-4bn-to-build-defence-industry-targets-50000-jobs-by-2035/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T08:51:00.000Z",
+      "summary": "Morocco has secured nearly $2.4 billion (22 billion Moroccan dirhams) to develop its national defence and security industry, as the Kingdom works to strengthen industrial sovereignty and…",
+      "categories": [
+        "Africa",
+        "King Mohammed VI",
+        "Morocco"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Sentuo Group boss hands Black Challenge $10,000 each after 2026 Amputee World Cup win",
       "link": "https://www.myjoyonline.com/sentuo-group-boss-hands-black-challenge-10000-each-after-2026-amputee-world-cup-win/",
       "source": "MyJoyOnline",
@@ -114,22 +142,6 @@ window.GDC_PAPERS = {
         "Black Challenge",
         "Ningquan Xu",
         "Sentuo Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Livestream: Newsfile discusses BECE eligibility, power outages and early retirement directive",
-      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-bece-eligibility-power-outages-and-early-retirement-directive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T08:10:22.000Z",
-      "summary": "In today's edition of JoyNews’ flagship news analysis programme, Samson Lardy Anyenini and his guests are discussing the Education Ministry’s decision to prevent unqualified pupils from…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "BECE",
-        "Dumsor",
-        "Newsfile",
-        "Retirement"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -154,19 +166,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Morocco’s King Mohammed VI hands Ali Seddiki strategic defence industry mandate",
-      "link": "https://www.myjoyonline.com/moroccos-king-mohammed-vi-hands-ali-seddiki-strategic-defence-industry-mandate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T07:48:00.000Z",
-      "summary": "Morocco’s King Mohammed VI has entrusted Ali Seddiki with a strategic assignment to advance the country’s national defence and security industry.",
-      "categories": [
-        "Africa",
-        "King Mohammed VI",
-        "Morocco"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghanaian journalists call for transparency in administration of GH¢10million Media Development Fund",
