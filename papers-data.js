@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T06:30:29.408Z",
+  "updated": "2026-11-28T06:40:30.052Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ken Ashigbey urges mining industry to prioritise integrity, stewardship and community impact",
+      "link": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-prioritise-integrity-stewardship-and-community-impact/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-28T06:33:32.000Z",
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for Ghana's mining industry to be judged not only by its production levels and economic…",
+      "categories": [
+        "Health",
+        "National",
+        "Ken Ashigbey",
+        "Mining"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "ghana news End four-yearly electoral wars: Sir Sam Jonah proposes new Union Government (2)",
       "link": "https://www.graphic.com.gh/news/politics/ghana-news-end-four-yearly-electoral-wars-sir-sam-jonah-proposes-new-union-government-2.html",
@@ -129,22 +143,6 @@ window.GDC_PAPERS = {
         "Politics",
         "Elections",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ Nana Boakye Danquah Yiadom, Caleb Ziblim honoured at Ghana Mining Industry Awards",
-      "link": "https://www.myjoyonline.com/joynews-nana-boakye-danquah-yiadom-caleb-ziblim-honoured-at-ghana-mining-industry-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-28T05:18:11.000Z",
-      "summary": "Two journalists from the Multimedia Group Limited have been recognised at the 12th Ghana Mining Industry Awards held in Accra on Friday, November 27.",
-      "categories": [
-        "HP News 10",
-        "National",
-        "News",
-        "Caleb Ziblim",
-        "Ghana Mining Industry Awards",
-        "Nana Boakye Danquah Yiadom"
       ],
       "site": "https://www.myjoyonline.com/"
     },
