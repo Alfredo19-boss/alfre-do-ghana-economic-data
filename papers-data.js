@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-28T18:01:29.676Z",
+  "updated": "2026-11-28T18:11:29.978Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -103,10 +103,10 @@ window.GDC_PAPERS = {
         "Business",
         "Energy",
         "HP Business 1",
+        "HP News 1",
         "HP News 2",
         "National",
         "News",
-        "Top Story",
         "COMAC",
         "Crude Oil",
         "Diesel",
@@ -126,6 +126,7 @@ window.GDC_PAPERS = {
         "Business",
         "Energy",
         "HP Business 4",
+        "Top Story",
         "COMAC",
         "Diesel",
         "LPG",
